@@ -1,111 +1,219 @@
 #!/usr/bin/env python3
-import json, re, urllib.parse, urllib.request
-from datetime import datetime, timezone, timedelta
+import html
+import json
+import re
+import urllib.parse
+import urllib.request
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from xml.etree import ElementTree as ET
 
-OUTLETS = {
-    'nytimes.com': ('The New York Times', 'General'),
-    'npr.org': ('NPR', 'General'),
-    'nbcnews.com': ('NBC News', 'General'),
-    'cbsnews.com': ('CBS News', 'General'),
-    'cnbc.com': ('CNBC', 'General'),
-    'cnn.com': ('CNN', 'General'),
-    'edweek.org': ('Education Week', 'General'),
-    'k12dive.com': ('K-12 Dive', 'General'),
-    'edsource.org': ('EdSource', 'General'),
-    'lgbtqnation.com': ('LGBTQ Nation', 'LGBTQ press'),
-    'advocate.com': ('The Advocate', 'LGBTQ press'),
-    'queerty.com': ('Queerty', 'LGBTQ press'),
+# Each outlet is queried independently so larger publishers cannot crowd out
+# education and LGBTQ-focused sources.
+SOURCES = [
+    {"name": "The New York Times", "domain": "nytimes.com", "lane": "General", "query": ""},
+    {"name": "NPR", "domain": "npr.org", "lane": "General", "query": ""},
+    {"name": "NBC News", "domain": "nbcnews.com", "lane": "General", "query": ""},
+    {"name": "CBS News", "domain": "cbsnews.com", "lane": "General", "query": ""},
+    {"name": "CBS News LGBTQ", "domain": "cbsnews.com", "lane": "General", "query": "LGBTQ OR transgender OR gay OR lesbian OR queer"},
+    {"name": "CNBC", "domain": "cnbc.com", "lane": "General", "query": ""},
+    {"name": "CNN", "domain": "cnn.com", "lane": "General", "query": ""},
+    {"name": "Education Week", "domain": "edweek.org", "lane": "General", "query": ""},
+    {"name": "K-12 Dive", "domain": "k12dive.com", "lane": "General", "query": ""},
+    {"name": "EdSource", "domain": "edsource.org", "lane": "General", "query": ""},
+    {"name": "LGBTQ Nation", "domain": "lgbtqnation.com", "lane": "LGBTQ press", "query": ""},
+    {"name": "The Advocate", "domain": "advocate.com", "lane": "LGBTQ press", "query": ""},
+    {"name": "Queerty", "domain": "queerty.com", "lane": "LGBTQ press", "query": ""},
+]
+
+BEAT_TERMS = {
+    "Politics": [
+        "politic", "election", "congress", "senate", "house", "supreme court",
+        "court", "governor", "president", "white house", "administration",
+        "legislation", "lawmakers", "policy", "federal", "statehouse", "mayor"
+    ],
+    "Business": [
+        "business", "econom", "market", "company", "corporate", "labor", "jobs",
+        "worker", "union", "stock", "trade", "tariff", "finance", "bank",
+        "technology", "data center", "industry", "retail"
+    ],
+    "Schools": [
+        "school", "education", "student", "teacher", "district", "classroom",
+        "college", "university", "campus", "curriculum", "superintendent",
+        "school board", "k-12", "higher education"
+    ],
+    "LGBTQ+": [
+        "lgbtq", "lgbt", "transgender", "trans ", "gay", "lesbian", "bisexual",
+        "queer", "nonbinary", "same-sex", "pride", "gender identity",
+        "gender-affirming"
+    ],
 }
 
-BEAT_QUERIES = {
-    'Politics': '(politics OR election OR congress OR court OR governor OR policy)',
-    'Business': '(business OR economy OR markets OR company OR labor OR jobs)',
-    'Schools': '(schools OR education OR students OR teachers OR district OR university)',
-    'LGBTQ': '(LGBTQ OR transgender OR gay OR lesbian OR queer OR bisexual)',
-}
-
-DOMAINS = ' OR '.join(f'site:{d}' for d in OUTLETS)
-USER_AGENT = 'Mozilla/5.0 (compatible; BeatSheet/1.0)'
+USER_AGENT = "Mozilla/5.0 (compatible; TheBeatSheet/2.0)"
+PER_SOURCE_LIMIT = 3
+MAX_STORIES = 30
+LOOKBACK_HOURS = 72
 
 
-def clean(text):
-    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', text or '')).strip()
+def clean(value):
+    value = html.unescape(value or "")
+    value = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"\s+", " ", value).strip()
 
 
-def source_for(title, description):
-    hay = f'{title} {description}'.lower()
-    for domain, value in OUTLETS.items():
-        if domain in hay:
-            return value
-    # Google News commonly appends outlet after " - "
-    suffix = title.rsplit(' - ', 1)[-1].strip().lower()
-    aliases = {
-        'the new york times': ('The New York Times', 'General'), 'npr': ('NPR', 'General'),
-        'nbc news': ('NBC News', 'General'), 'cbs news': ('CBS News', 'General'),
-        'cnbc': ('CNBC', 'General'), 'cnn': ('CNN', 'General'),
-        'education week': ('Education Week', 'General'), 'k-12 dive': ('K-12 Dive', 'General'),
-        'edsource': ('EdSource', 'General'), 'lgbtq nation': ('LGBTQ Nation', 'LGBTQ press'),
-        'the advocate': ('The Advocate', 'LGBTQ press'), 'advocate.com': ('The Advocate', 'LGBTQ press'),
-        'queerty': ('Queerty', 'LGBTQ press'),
-    }
-    return aliases.get(suffix)
+def normalize_title(title):
+    # Google News usually appends " - Outlet Name".
+    return title.rsplit(" - ", 1)[0].strip()
 
 
-def strip_source(title):
-    return title.rsplit(' - ', 1)[0].strip()
+def story_key(title):
+    return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
 
 
-def fetch(beat, query):
-    q = f'{query} ({DOMAINS}) when:2d'
-    url = 'https://news.google.com/rss/search?' + urllib.parse.urlencode({
-        'q': q, 'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'
+def tag_beats(title, summary, source):
+    text = f"{title} {summary}".lower()
+    beats = [
+        beat for beat, terms in BEAT_TERMS.items()
+        if any(term in text for term in terms)
+    ]
+
+    # Source-informed fallback so every card belongs somewhere useful.
+    if source in {"Education Week", "K-12 Dive", "EdSource"} and "Schools" not in beats:
+        beats.append("Schools")
+    if source in {"LGBTQ Nation", "The Advocate", "Queerty", "CBS News LGBTQ"} and "LGBTQ+" not in beats:
+        beats.append("LGBTQ+")
+
+    return beats or ["Politics"]
+
+
+def google_news_url(source):
+    parts = []
+    if source["query"]:
+        parts.append(f'({source["query"]})')
+    parts.append(f'site:{source["domain"]}')
+    parts.append("when:3d")
+    query = " ".join(parts)
+    return "https://news.google.com/rss/search?" + urllib.parse.urlencode({
+        "q": query,
+        "hl": "en-US",
+        "gl": "US",
+        "ceid": "US:en",
     })
-    req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        root = ET.fromstring(r.read())
-    rows = []
-    for item in root.findall('./channel/item'):
-        raw_title = clean(item.findtext('title'))
-        desc = clean(item.findtext('description'))
-        src = source_for(raw_title, desc)
-        if not src:
+
+
+def fetch_source(source):
+    request = urllib.request.Request(
+        google_news_url(source),
+        headers={"User-Agent": USER_AGENT},
+    )
+
+    with urllib.request.urlopen(request, timeout=30) as response:
+        root = ET.fromstring(response.read())
+
+    stories = []
+    seen = set()
+
+    for item in root.findall("./channel/item"):
+        raw_title = clean(item.findtext("title"))
+        title = normalize_title(raw_title)
+        if not title:
             continue
+
+        # Require Google's source suffix to match the intended publisher.
+        suffix = raw_title.rsplit(" - ", 1)[-1].lower() if " - " in raw_title else ""
+        accepted = {
+            source["name"].lower(),
+            source["domain"].lower(),
+        }
+        # CBS LGBTQ results still appear as CBS News.
+        if source["name"] == "CBS News LGBTQ":
+            accepted.add("cbs news")
+        if not any(name in suffix for name in accepted):
+            continue
+
+        key = story_key(title)
+        if key in seen:
+            continue
+        seen.add(key)
+
         try:
-            published = parsedate_to_datetime(item.findtext('pubDate')).astimezone(timezone.utc)
+            published = parsedate_to_datetime(item.findtext("pubDate")).astimezone(timezone.utc)
         except Exception:
             published = datetime.now(timezone.utc)
-        rows.append({
-            'source': src[0], 'lane': src[1], 'title': strip_source(raw_title),
-            'summary': desc[:280] or 'Open the source for the latest reporting.',
-            'url': item.findtext('link'), 'published': published.isoformat(), 'beats': [beat]
+
+        description = clean(item.findtext("description"))
+        # Google descriptions often repeat headline/source; keep a clean fallback.
+        summary = description
+        if not summary or story_key(summary) == key:
+            summary = "Open the story for the latest reporting."
+
+        display_source = "CBS News" if source["name"] == "CBS News LGBTQ" else source["name"]
+        beats = tag_beats(title, summary, source["name"])
+
+        stories.append({
+            "source": display_source,
+            "source_feed": source["name"],
+            "lane": source["lane"],
+            "title": title,
+            "summary": summary[:320],
+            "url": item.findtext("link"),
+            "published": published.isoformat(),
+            "beats": beats,
         })
-    return rows
 
+        if len(stories) >= PER_SOURCE_LIMIT:
+            break
 
-def key(title):
-    return re.sub(r'[^a-z0-9]+', ' ', title.lower()).strip()
+    return stories
 
 
 def main():
-    merged = {}
-    for beat, query in BEAT_QUERIES.items():
-        for s in fetch(beat, query):
-            k = key(s['title'])
-            if k in merged:
-                if beat not in merged[k]['beats']:
-                    merged[k]['beats'].append(beat)
-            else:
-                merged[k] = s
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=48)
-    stories = [s for s in merged.values() if datetime.fromisoformat(s['published']) >= cutoff]
-    stories.sort(key=lambda s: s['published'], reverse=True)
-    stories = stories[:24]
-    payload = {'updated_at': datetime.now(timezone.utc).isoformat(), 'stories': stories}
-    with open('stories.json', 'w', encoding='utf-8') as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f'Wrote {len(stories)} stories')
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
+    all_stories = []
+    errors = []
 
-if __name__ == '__main__':
+    for source in SOURCES:
+        try:
+            all_stories.extend(fetch_source(source))
+        except Exception as exc:
+            errors.append(f'{source["name"]}: {exc}')
+
+    # Deduplicate across source queries while merging beat tags.
+    merged = {}
+    for story in all_stories:
+        key = story_key(story["title"])
+        if key in merged:
+            for beat in story["beats"]:
+                if beat not in merged[key]["beats"]:
+                    merged[key]["beats"].append(beat)
+        else:
+            merged[key] = story
+
+    stories = [
+        story for story in merged.values()
+        if datetime.fromisoformat(story["published"]) >= cutoff
+    ]
+    stories.sort(key=lambda story: story["published"], reverse=True)
+    stories = stories[:MAX_STORIES]
+
+    payload = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "lookback_hours": LOOKBACK_HOURS,
+        "story_count": len(stories),
+        "sources_requested": [source["name"] for source in SOURCES],
+        "errors": errors,
+        "stories": stories,
+    }
+
+    with open("stories.json", "w", encoding="utf-8") as output:
+        json.dump(payload, output, ensure_ascii=False, indent=2)
+
+    print(f"Wrote {len(stories)} stories from {len(SOURCES)} source searches")
+    if errors:
+        print("Feed errors:")
+        for error in errors:
+            print(f"  - {error}")
+
+
+if __name__ == "__main__":
     main()
