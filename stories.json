@@ -1,161 +1,56 @@
 {
-  "updated_at": "2026-07-20T19:08:09.002999+00:00",
+  "updated_at": "2026-07-20T19:15:42.042753+00:00",
+  "lookback_hours": 72,
+  "story_count": 30,
+  "sources_requested": [
+    "The New York Times",
+    "NPR",
+    "NBC News",
+    "CBS News",
+    "CBS News LGBTQ",
+    "CNBC",
+    "CNN",
+    "Education Week",
+    "K-12 Dive",
+    "EdSource",
+    "LGBTQ Nation",
+    "The Advocate",
+    "Queerty"
+  ],
+  "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Why Gen Z and Millennials Are Embracing ‘Grandma Hobbies’",
-      "summary": "Why Gen Z and Millennials Are Embracing ‘Grandma Hobbies’&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2FYTng0UU9kci1QdVRiZEZKbHR2UXFoellzczRpVHlJNGI5T1EzamtIZFNWdk5WYlZmR1JyYkp4X2pxYlhNLXJHOFVFcnpwUnVMVHMyUmVhNlN5TlQ5UXFOamhxOE5mbFU5cVZyMU10eW85MVJseEJMTUw2MnJJXzFyNnJGNEJHcVFJOGZn?oc=5",
-      "published": "2026-07-20T18:30:46+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "lane": "General",
-      "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
-      "summary": "Capital One bet big on Discover. Now it must prove the gamble was worth it&nbsp;&nbsp;CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXA3QW5PMTZpaTQ4cll1NlNhd0pBTE5NbVplTXJUTlk5TWM3YTNGUWNPcy1sUWVNaWZrM282MGZEcFMwRnRiU2xaUHQtVVhveThSRy1mYWc0aVFKZElIOWQwTzdjLWhvaktheGxlWTBpbTJqdzBDcUJ0VFFNdlpHQms1SE92SkpQdEJtYmZTRVlJOFV4Q2xXbGdpbmo5VEFSWUtkQVU4SUNCdzZOdnFKRQ?oc=5",
-      "published": "2026-07-20T18:12:18+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "lane": "General",
-      "title": "‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade",
-      "summary": "‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade&nbsp;&nbsp;NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVo4WkxDRXpERlFob2ViRWpzaFdTWk9yNVZSRGJxU0w4Q05XekI3aXlBWWtUX2h6WFNUbEthVjJsdHJYcFRKOXpmcmllUjFHZVlvZ3doODE0RHp4S2dseTViOXI3Q2ZDMTU3MDZ2eHNsNzNTVWJmakZCTnM0Q0RXbVJRSVhYTHlWZDhwMFdrU1RHTWs2eEp5YmoyM2RFYUEwYmlnUTRGZWswQUNPLTJ4SnlLcl9qc1p0QmljNmFONVlCdw?oc=5",
-      "published": "2026-07-20T18:05:01+00:00",
+      "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
+      "summary": "Court ruling freezes Paramount-Warner Bros. merger for now NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1VjQjZkeUdGLTktbzVLcE9DejJtdTJzTDNqWmcwM3g1b0w0ZUNSaU01cENucUpHaTlyME1Vb25EVkpTZmFHR1p6TW9sRm9Kbk5reGpVOHJESnpMT2NlSkpMTklHYTBtRUE3VktxZGUzdzhtTkJuM1VkOHhZeDRxVmFmSFc3cHcxRmc?oc=5",
+      "published": "2026-07-20T17:55:31+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "lane": "General",
-      "title": "Isabella Gonzales, 19-year-old Army private from Carrollton, killed in Iranian strike on Jordan, Pentagon says",
-      "summary": "Isabella Gonzales, 19-year-old Army private from Carrollton, killed in Iranian strike on Jordan, Pentagon says&nbsp;&nbsp;CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbG8wbkVuWWczVldtZTJWZE82Z1drU19mVkwwU3lmQzAwTVplcmZlRFlLM1RnVW5yNXEwOGFEOGphbEhEZU9jRFQwT09XeHNTZDI1STdUZ2tpVWtuWDIyRnBYWGk4VkI1V2poaEhnVlA5RS11eWxxMlZSOENOWXRQMmFib28zaXRWbGp3?oc=5",
-      "published": "2026-07-20T17:56:19+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "lane": "General",
-      "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
-      "summary": "Court ruling freezes Paramount-Warner Bros. merger for now&nbsp;&nbsp;NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1VjQjZkeUdGLTktbzVLcE9DejJtdTJzTDNqWmcwM3g1b0w0ZUNSaU01cENucUpHaTlyME1Vb25EVkpTZmFHR1p6TW9sRm9Kbk5reGpVOHJESnpMT2NlSkpMTklHYTBtRUE3VktxZGUzdzhtTkJuM1VkOHhZeDRxVmFmSFc3cHcxRmc?oc=5",
-      "published": "2026-07-20T17:55:31+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
-      "summary": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczBlSG1LZzVzMDlhT2xJcnMzVC1RTFpnSmJLRkFQWFJIbHhvSmRKenNWUHZvckVOSzdUVnNiaVBwY3BORjZVdHY2Z2FuR0lNak5BSTR6MEVONFh3bDhfWmh1SW40b2pJeVlCOERwQXRsb25BbV9ENTdtY1BhUFVCeXpQOEJCLWJDWUg5UHBnekFJaEV3cmVv?oc=5",
-      "published": "2026-07-20T17:55:11+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
-      "summary": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRU5RTzNlZi1vNThMYVFBek1NQXlKNzdZT0w2Z1F1ekRVSmdoQ1BfNWlzUkRMU2NmdTRYLUVWUXdDRGxfY2F4ZW5PX2RnZWZObHVIb1pwdmZkVHJMUUtORGdVenVNNTBtY3NmdmxsVnZSTmZ3SV9HS2dhRzQ4SDc3alhZZDEtZ3JWUHFWYnJiNUJXazRKOFZ5bVVRRGFYVEJSS0RZYVhaMGRrZWJzdWpXdWp3?oc=5",
-      "published": "2026-07-20T17:50:35+00:00",
-      "beats": [
-        "LGBTQ"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "lane": "General",
-      "title": "9 injured after police pursuit ends in San Francisco crash that shears fire hydrant",
-      "summary": "9 injured after police pursuit ends in San Francisco crash that shears fire hydrant&nbsp;&nbsp;CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1hfSnZucTVtdE91RDE5dEtBRHlsZnRHUEV2UWJRWG1LeTgyNmdwb3pRaURHRnloVTYyZ3kxbkcyM1lVdDExb2x5bXpQYmxEcF82R09xUFhGU2IzMThsel9teEN0WF9iRVU5dFBJblBLWGdyMGQwYVJvWkI1RnY2ZVZOdw?oc=5",
-      "published": "2026-07-20T17:44:10+00:00",
-      "beats": [
-        "LGBTQ"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "Britain’s New Prime Minister Names Country’s Top Finance Official",
-      "summary": "Britain’s New Prime Minister Names Country’s Top Finance Official&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BM081UWFkbFIyaV9sdjRya2szejM5ZkVnT3lhNENhZ1ZWZUFKNDBiNTJ6SFJhQlNlU1hqZHVsTzhubDQteXRCMENVXzdkeXhOaTZ0V3k0R0VGODh2aXlocWJfRzV0dWl0VVRfZm0tM2syczdKNXNoX2xaQ1RQdw?oc=5",
-      "published": "2026-07-20T17:34:43+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
-      "summary": "Judge Temporarily Pauses Paramount-Warner Bros. Deal&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnAwbmxzTmhSbHhBQm9qeGExY0NnX1NtSDIxcVlRVjd1NVM5WTN0aEZLMkI0TVVKNmFrOWdHMVUxanN0aVpJTmdwdjFFWWNyR1dfeXdEOS1NWmlQYnVza3BITWhKcUZkcDJyeDBZRHFFN2F6NG8yR2l3QUdjUmxqZGZKc3pCYjNr?oc=5",
-      "published": "2026-07-20T17:23:59+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "Hamas Names Khalil al-Hayya as Its New Leader",
-      "summary": "Hamas Names Khalil al-Hayya as Its New Leader&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVM1TUZiU19HaE9IVG53ZUV4bmxUX1h4RmRTQ3FzbGhQVnJWSWZnSnFlTEpjWVBiMjl5SVY5dEZZQkxaNXl5RDd2eWtXTGI4ejhxNUpXSmFURTd1R0FOekVJeEFXUldvd2RDS2l1MzlrYmRuS1BrZW1zMkNHQVV2aHpaUW9xcGR2aF9nY2U2dl9mNTdR?oc=5",
-      "published": "2026-07-20T17:22:44+00:00",
-      "beats": [
-        "LGBTQ"
-      ]
-    },
-    {
       "source": "CNBC",
-      "lane": "General",
-      "title": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
-      "summary": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize&nbsp;&nbsp;CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXVGbVh1NDc5TFIzeVRseUZRVTVBV1ZpWFJ3cXdIaWFXSFZOaXJkckF2dEg2Z0h3Z0x2OVNWeExMejVBU1hPdU4tcUQ3Y2tzOUY5TWl0dzBEOFRzb1czdzR2eTd5NnZKdk4zX1BmTHFkZURsb1hra1ZHSHppV1FsYWd0TkswTGJOMDR6eUx2clZDakZzMmRGUEI0ZDRFSV9WM2pMZ2V4VzloaGpRNll0bnotRTBRdnVCYW1pYWs5UXRXQdIBxwFBVV95cUxNbGdKTFJBWm41VThEZzhRUmJGWFFJQ1VEX3dSc2h2bURCSTVZeW13aDk2WnJidTZwc0x5YjZ6dkxkSVEwdk1NOHBCTTNXcWFvZWFVQTVwLXZNWFY4NEdwQkUybGxTRUxhTGFEZEFNTjRnSXRhZ2l6czJwWUctRzB6VHFUTXBEQzZSN1NrLVhZUFJycXBTQm41aVRmR2o2WXdUQ1NSQnN5NWFjX3VPMXJ0U1lTbDZrdUsyVDRYTkE4NDM5QjRtVW53?oc=5",
-      "published": "2026-07-20T17:15:04+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
       "title": "Paramount and Warner Bros. merger hit with temporary restraining order",
-      "summary": "Paramount and Warner Bros. merger hit with temporary restraining order&nbsp;&nbsp;CNBC",
+      "summary": "Paramount and Warner Bros. merger hit with temporary restraining order CNBC",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CNXdFdXBRSWNPMk9CMkRJZmFtTGJWcGlGNUtKSFV5S0JVLUY2NExQd3JZWGgyTXBENUgtZ2xoZ0pOUDhmcjNRS3VmMXBHbGxFS09zRi1oRHBpdVpubzNkRWYzNXF2OTgxczBDRXlGT07SAXZBVV95cUxOQ0ZkeGpvLWVDanZhWjhXN1pfZmVNWUlxQnpqOWxDak1QMjRoVmtRaGpHMElxRzNUaWQ2ZWNQbkszLUpwYWZLYXJsRGVqMlFIdS1BT1NnMkF1allCb21tb1JfeWMwQkFaMDNMcXo3dXFiMVZzU2NB?oc=5",
       "published": "2026-07-20T17:04:16+00:00",
       "beats": [
-        "Politics",
-        "Business",
-        "Schools"
+        "Politics"
       ]
     },
     {
-      "source": "NBC News",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Judge puts temporary pause on Paramount-Warner merger",
-      "summary": "Judge puts temporary pause on Paramount-Warner merger&nbsp;&nbsp;NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGlnSk9LY3VXMzl3Y3llTmV1Tmx3MjJ2VnpRNS1GNHhwTTRDOHQzckRBM2VzNGtscGlfam5VUmk1aUZFTzFzbEZwbVk0MzRmMzktTFZ5TWJuX0FTdW5GUVZGendkZUo5YVFQcl9VZU5tNkFFdl9uc2k5WURjQkJ2MmE2OTR5SzNDVzBCWE1kTTJDWGxHZnp6S3BmVlpLMTBaR1hOa3I2eVg?oc=5",
-      "published": "2026-07-20T17:01:36+00:00",
+      "title": "UPDATE: Trump administration prepares for significant changes to Head Start eligibility",
+      "summary": "UPDATE: Trump administration prepares for significant changes to Head Start eligibility EdSource",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmxyZjdBYklLckc2bmp2cmxGR2NySi1tZGctVVVfVFZNRWJNUVktNW8zVVlCS0theEwtS01HTUFLMDBHLTZhRnYxMC1qZURXLTRTdVNfVnFkMWdjR2YwTlRJSXdxUUdHY01zRDd4RkJjaUxUbUtyU0pYanRRWWhDeVFtTHBHZHJ2eElqYlVLZ1AtNXRnRWZZQjBFdll3cnhCOG05dW5sbWdTWVNX?oc=5",
+      "published": "2026-07-20T17:03:32+00:00",
       "beats": [
         "Politics",
         "Schools"
@@ -163,33 +58,22 @@
     },
     {
       "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
       "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
-      "summary": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani&nbsp;&nbsp;CNBC",
+      "summary": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWE5oRXhXVWpvQk1KSy0tQ3VmTHRObXZTWTk3NWN4WGNUM0VBREtFLU5XS2tXRWNBcUVTbWRrR25SQWFFQWFqLTdFRVlKMm84LXU0TjQ0MmI4ZHByLXgxeVNnUWxvSF9FMGZteGhjV29rZGxCUGhreE1BSzd6ZHp1VDhGR2loRjlmM0R30gGQAUFVX3lxTFAtZ0RDTWpJZGhsX0JJbTEyTElVZjd3NHA1MXAzQ19NaUlTQlllVkdFSFdvdVJNekFCREZZRFU1TXVqbGZhVW1HWnlnaHRMVGxPMHZxR3FNOHR6eFdQNHN0dDFlMWRfY01YQTlDbTcyY2Z5TVJmN191eV9nU20zYmVTZk5QZU5HRXNESFA1a01vNQ?oc=5",
       "published": "2026-07-20T17:01:08+00:00",
       "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "Walt Odets, Who Delved Into the Minds of Gay Men, Dies at 79",
-      "summary": "Walt Odets, Who Delved Into the Minds of Gay Men, Dies at 79&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUnJiSmpfOHJpbjZBZDF1ZjYyVWJqaXBuMEtadlF0RkVGdXdreE5HbWxDS3h1aUotM3o2c0JzbDVpOHIyMTdxeWVtTjA5YWtraXRnSGZ0U29XckREQXQwSlNPYzNLWmdhU1ZSa3NNcw?oc=5",
-      "published": "2026-07-20T16:58:08+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ"
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
       "title": "Archer stock rips 18% higher as company unveils military craft with Anduril",
-      "summary": "Archer stock rips 18% higher as company unveils military craft with Anduril&nbsp;&nbsp;CNBC",
+      "summary": "Archer stock rips 18% higher as company unveils military craft with Anduril CNBC",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZFZ5T0NkVzB0Z0JVaVBYT2R0Y3lEWTRDM1d3ZEhfVnM1QjA3SnNUWFUzb0w4ZklNZDJvbGhGUFZSX05UUHZuNHAzWFZONTZJdkFRdDd4a01CNmVlMTJqa3B1UGpNd01rUno0MXFVZmNhdmpnRHdGVDhKWmM4dlHSAYQBQVVfeXFMUG9kZVdrVWMyaW9Nc0ZzZXR3ZWMzek14ZEZDd3VGUUtaS1hIWHdsVThxVzhQY3VsMHNTalAzQV80ZzVyZkFoZTFFU1NxVloyYk9ORzUwckdNVjl5NWdzVk5RNUFWT2stMlR0aW9iODZPdXNWbkxTNENGNjRGQzJMdGZGWFV6?oc=5",
       "published": "2026-07-20T16:47:52+00:00",
       "beats": [
@@ -198,53 +82,22 @@
     },
     {
       "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
       "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
-      "summary": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change&nbsp;&nbsp;NPR",
+      "summary": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change NPR",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVm94Y28yY1lzdGlTTHlJQ0lCcHVaOFZrM2Fsb21IYkR4R1Y2bkw0ZVVaRG85Z0ZBbzlqYWh4Ui1PQXMwbDBaQUZSTmgyeF82OVpVM2V1M2xEdmkyNGExQzNEejFFNjN2amRleVZOQmZpYzVMYy12aXNsSWZZYkJ6alNFRllxYmR0?oc=5",
       "published": "2026-07-20T16:36:04+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "To Sell Homer’s ‘Odyssey,’ Publishers, Like Its Hero, Get Crafty",
-      "summary": "To Sell Homer’s ‘Odyssey,’ Publishers, Like Its Hero, Get Crafty&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zYkItdUhrZE5ONkhFbFRXMzFfNEhSQzktVnNlVFlRT0ZSbElWTGhvS3VuYnhYVEwwci1Ub2kwaTYzSy00ZTNGSHhiemhjYXJVZHlGeGJndHNKaGk3dzdXT0UxcTRDcWNSczM1enFBYnpQSHVCa2c?oc=5",
-      "published": "2026-07-20T16:32:26+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "Who Is Ahead in Florida's 24th Congressional District?",
-      "summary": "Who Is Ahead in Florida's 24th Congressional District?&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUdFcXVZRVY5aHNIVUNzMktDQTg3STZ3LXl3XzhBS2YzX09yenJLRzlLend4REpMbUNwdmZHSHp6NFJ5OWJCNG53eHk3bzlCMW5jX3ZZZUQ3WTc1WXM4T1ZRQWRVYmRzVkU5OHZOWGRTUHk3SXR6dWxZeUtwM0lkbU1MTQ?oc=5",
-      "published": "2026-07-20T16:23:38+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "lane": "General",
-      "title": "Houthis in Yemen Declare Red Sea Blockade on Saudi Arabia",
-      "summary": "Houthis in Yemen Declare Red Sea Blockade on Saudi Arabia&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODJ0eEZmb05oSGtzUzVJakZkR1R5MUdsZk04SllMVFRsMVdXVTAxSWxSMmswWHJYQkttNklKYUdZUUU2NThLd2c3dE9KRkJ3S0dRR1NQSW9CaVQ2cVduRHNRT0djX1lrN21rOXlDal9KMU9lUWwtNGdiVkpXWThMQWtDN0N0ZjBkS3ZGMENORGdCekVZU3hUem8zck1aY0MzV3c?oc=5",
-      "published": "2026-07-20T16:13:59+00:00",
-      "beats": [
-        "LGBTQ"
+        "Politics"
       ]
     },
     {
       "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
       "title": "Supreme Court to hear from Alaskan bush pilot whose plane was confiscated over a six-pack of beer",
-      "summary": "Supreme Court to hear from Alaskan bush pilot whose plane was confiscated over a six-pack of beer&nbsp;&nbsp;CNN",
+      "summary": "Supreme Court to hear from Alaskan bush pilot whose plane was confiscated over a six-pack of beer CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjVrS3hxRjFNaVdoSFBsZGNoQjU5ck44SUZEdFBkZFhqYXFMOWEteGozdWctSXlaeXdqeWJEWnRxOTM0Sm5XU20yT2hnQV9wZFg2V3pKUWtTN1g4RG5GcU5NZ3VWa0dxUzZ1OVBlNFBoZ09sa2Q2RzczMVZabGkwNVpkcw?oc=5",
       "published": "2026-07-20T16:09:50+00:00",
       "beats": [
@@ -253,24 +106,281 @@
     },
     {
       "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Why Epidemics Breed Rage at Health Workers",
-      "summary": "Why Epidemics Breed Rage at Health Workers&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HWjlFbm9EcHlsOFhDdDVpLS1JczNGTGhVVWRyazhmTGJhaFlvZFV6cEdNLXQxWXppSEZKWDVveUNiM2poUnM4bXpyY2U1N0J4ZzBZT2o0OXR1LXp1STZMU2QxNnZsYUJoN214anpCaGQ1UWdCbllrSw?oc=5",
-      "published": "2026-07-20T16:08:05+00:00",
+      "title": "A tennis ball rule change trial that could have a big impact on the ATP Tour",
+      "summary": "A tennis ball rule change trial that could have a big impact on the ATP Tour The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2Fla080akIxc0Q1dmdSam1WbGU0Y1FrTVJGcHZTSmlpRFZCVG9Vcnh3d3pCSTRhRGVJOEVmazlWYVQ3UUhXV1RodDU3OXhKcHYzSF9LMHFlOFo2alNVQmRHRXN4cnhCZW5JcXRJY2hYc3Jaam55WkxOOGZBZ1JsYjBjdlhhRC1MM1BydUNEaFlCVHVjaHAxRmtIV0lQUW1m?oc=5",
+      "published": "2026-07-20T16:04:10+00:00",
       "beats": [
-        "LGBTQ"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Man accused of throwing incendiary device at NYC federal building carried anti-ICE material, sources say",
+      "summary": "Man accused of throwing incendiary device at NYC federal building carried anti-ICE material, sources say CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXl6WTZPTEN2RUVfVXFCdUY3UEQta1RVUnZURUFQXzlkaVdWa0d3eEtnNHZxMFlfZzZlQkF1eWk1MmRVV3lJSW41d3BuUlR5Q2xYS0VCT3hocXlzd1V2a2d5cVlseF9sR2JrTmtXWHF0WjZKMUF4bXEwVDNiaGlSNUhCZw?oc=5",
+      "published": "2026-07-20T15:34:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Hunter Biden calls out 'closeted gay mafia' of D.C. Republicans",
+      "summary": "Hunter Biden calls out 'closeted gay mafia' of D.C. Republicans Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1McVZUdUxhb1BTb0hOSmVDdFlYQ005QkhaSWV2RUxUNUZTel9iRXowOFZJUHE0OE9lSHZqWTRVZXBZcGI0LWhWeU9lMm13ZUNWOWNwYlpnak5tRnhuVDBjd0dHUktnUE9INXFCeWtGXzNfbjN2Qk9ZWkdR?oc=5",
+      "published": "2026-07-20T14:52:49+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Person in custody after throwing makeshift incendiary device at NY federal building",
+      "summary": "Person in custody after throwing makeshift incendiary device at NY federal building CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONF82WFRxQVBaNzlDT0VKTVFLQktKMVhESDd3bENISWROT0VNcmpWYVJ3TURLNTA4UVMzVWVWZTg1bW5JX2g3bm9jUDZNd0NCblJ6TFlQUE5odXJrOWY1R3RKR2MycHVLTW55ekFWQklmc2FWLTcwQ0d6WjFQcV9xaXB5OA?oc=5",
+      "published": "2026-07-20T13:47:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: Education Department targets predators in schools",
+      "summary": "Week In Review: Education Department targets predators in schools K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUdU9kM1lEcUpmNXQtQ3lmNHhnUUV6b2o2X2lwaTBNLVZOQnFxV1EtbUVjR0ZldWFKQmlXN0xYeFNiZFVpV1A3cHB2ajJKTWF2bzMzc2doenlvSzZCaWNoOF9EbVlTWUloTldiSng4bzJVdw?oc=5",
+      "published": "2026-07-20T13:30:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "summary": "Putin meets North Korean foreign minister in diplomatic push NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVZIaG9oR1VVUmJUelBhek0xaTF5VlB1ZjhvS1dwZjFRX2I2QWNRcWR3eFdadmpKYWd2WnB2V296aFIwZ2d2dktjdmVTNXVHTW9EaEloMXZDSmd6bnNtUk9POG05MGZFQTVHZ2dQUnZLQnVtNWZySm91RFlPdEZMN0hxQVB3VFRQQWpSVjEtYmFGdncxQU1QN2RMZlQwckxLZTRYNVBn?oc=5",
+      "published": "2026-07-20T13:18:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "3 takeaways from the Supreme Court’s 2025-26 term",
+      "summary": "3 takeaways from the Supreme Court’s 2025-26 term K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0NQajJkbDBMLTFwWVpOUGZUb0dUdlRHNmlwVWxhUDMwYXVfZHdmQl81TnhuZ1cyN3ZZQTNmMnp4dms5SV82T1FGcFFzSWxLT0lQUDVPRE5oc3lQTXk3aksxaXFIcTVoSjVYbThrXzBFYU9xSC1WN3p4bnBnVnAyNDR5UmhlcG5KV2tYaFpB?oc=5",
+      "published": "2026-07-20T13:18:45+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     },
     {
       "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "U.S. Sought Phone Records of Times Journalists and Their Relatives",
-      "summary": "U.S. Sought Phone Records of Times Journalists and Their Relatives&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclI1QlFCbnNTNWRXOTVBZ0RZdFQxaVU1LURUQUhnelRzY0pfOGgwMW1ETVU2ZmJCTk8yNzRHc0JLZmlFcU9haXVGR0ZxUlJIZnlDc3Vndi00U2lPS0ZrbzBCY0VuMmhUUmQ5aW9jR3lXbldtS0Z5ZVRxa2UzVlQ2QTVUVEhhRVdQX3huc1NBNlVKVVBsZGIyTw?oc=5",
-      "published": "2026-07-20T15:59:37+00:00",
+      "title": "How Argentina turned the World Cup final dirty with shoves, skulduggery and squealing",
+      "summary": "How Argentina turned the World Cup final dirty with shoves, skulduggery and squealing The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWdpbC1tYTVfQmpBNzBiaWkxcU81MDlIMGJMNkdXTFhMenFzRnRVWFZldXJLb2pBTUVYMUd2aHhtc2ludkRiNlB0Vlh5NFRlZGlqSFBJYnBiZTlxRW83MERSeGppcXFteEN1WkFGQWNaXzdqVHhNVU8xZXRSa3dxNWZaT3ZGcklraVg4cg?oc=5",
+      "published": "2026-07-20T11:10:27+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble",
+      "summary": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3cycUNzaV9wOUJOMUl1N283LXM1TGxoYUNXWE54NHpnanJsYTl4N3FRQzN1Mlo1TTJDbmhZTXZNa3FwVk5McEF4NzZPUDV1dms3NEFzdVpETWhqdS1GYzdvMWNsblhvMVFocHRrbGFjdWtYZnJKMG5hSGpBeGR1aUlEdVVSUWdSNlNsc3YxR0hpOTcyeXZDZ2VDNUJTQVlWMXU1dDBDM2VHb0ZWNGtpUHZPY2JiQQ?oc=5",
+      "published": "2026-07-20T10:00:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "American service member killed in Iraq; U.S. strikes Iran for 9th straight night",
+      "summary": "American service member killed in Iraq; U.S. strikes Iran for 9th straight night CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+      "published": "2026-07-20T07:30:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Could a lawsuit stop Gov. Newsom and lawmakers from stripping the state superintendent’s power? Probably not",
+      "summary": "Could a lawsuit stop Gov. Newsom and lawmakers from stripping the state superintendent’s power? Probably not EdSource",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS2llSEFTbkE2XzFldW5MMmw5V0ZHLTM1eDg2RjNEbG83TC04V0UwM2Jidlh0TXgxSmtoazg1LXZBRkpHOVJuUWR4OXN4bHZlU1ROd3p2cEZULUdwZjdpZWdidHhBU1F0MFdHUFdDQnU4aW9hOGJhdHNQZk5Zc1p1cVhhSXVTQ0NzTXNENnhrOGNyeFA4Tm5ueVktMGJPRjJzdHBieDRPMDFkU3pzMHJrQk1xandieTVLN01pVzFtdTVQaTFnMTRZM2lxYnZHeC1kTzRHcNIB3AFBVV95cUxORnJDZlMyRjUxNXhLS28ybGhOSXZjakIzUHhWUXRJQkhzUWFlTE1fZmFxU1dhZjlOMy1Gc0c2cjdxWklybDZ5SHNkM2hvWTAzMmdtSloydnVJa0V0WnVMOTZqeWU0dnY0OVlPSHZhcGVnTVNoMm1SYXVDeUhiZ3BEODBJcDF5NEZjbHhCR0lCVjNEZ3dWWDdyRHRLQWtfaWJSS1FpQk9LYmpWMFEweHRnSVB6cFNndzdkX3ZYcy02cW9KNzZ4RHUwN1N5QnQ0NmRIblhSTTR0WEpRTDd0?oc=5",
+      "published": "2026-07-20T07:05:17+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "As defaults on student loans surge, millions are trying to get their lives back on track",
+      "summary": "As defaults on student loans surge, millions are trying to get their lives back on track EdSource",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmlseXAtWE1vWXZ0WkFDMkx5OXl4Z3pabndQeGkzcldmUEJONTlYN1A5WHdVbHZHcDB0T0oza2JpeVlyX3Vkd2pwczN0OV9hcTY4RkhXMG1SZDNtMW9tYlMtUlhxUGMteUJQOVFURFhkc0I0M2xIR0p4NTVsR1Bwbm1YSWRMUEl2WkZaX09UTXVvNkhYYUswRno0RWxwQU55WlRkUWo5UTNQNjlVZTM4c1NxYXgwTkVWWjQ0UNIBxAFBVV95cUxQakduRWw3aDBJbXJRbFZuLWFpdTY5bmNhdEpYc3hodkNXZ05vRlJIdlJlQU0zalhCVUZfbldLeG5SV3BIUTF3RDZqVWFUM2RXRlZBODJBR1RONGJWdWphdC00OXQxakFyZlBGSmZBV2JqbXZ2VHhFNEVuMlItUEN3eTNBd2VPVktVTTNoZXdzZlpQdkxhRFBKN1RUbWJ3aFlWZWhNakkzcTVLOXI0SkNZcUx5QlBDYkNheGJKZWRjT2FQZEVS?oc=5",
+      "published": "2026-07-20T07:05:15+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "A look at the most exciting moments from the 2026 FIFA World Cup",
+      "summary": "A look at the most exciting moments from the 2026 FIFA World Cup NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rakRBRG9wR2R5R1FVLXJoRkVlaGVmc3czM3QyQjd2RUlKa1pPTUV3X1pfWDJuM09qRVpUWjNxOXZRcWJObmtGdDBaQlJ1WVlwbHhTeDA1U19yWjZ4N2ZaNzY5dXAwd1dmcGJ2NEVQTk16M3hZT3hlTmlB?oc=5",
+      "published": "2026-07-19T23:07:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "How Burger King is preparing for the GLP-1 revolution",
+      "summary": "How Burger King is preparing for the GLP-1 revolution NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnZ6MWo5Q0FCdTY3QmRDZzZ0d0pkeEpVcThXeDU4bmpnNDFQdWhBQ2IzLTItWERJSlpVaTFKaWtxUWM3UzNJM2E3Zy1ldXZ4bHZzNXZNQ005dTV3NlVWUnViMDUwQWNoTk1aTVpHbmc0dVVyRk5ZamFHaDFtZUZrR1BXdlNjd09jU1o4S0NsZTI?oc=5",
+      "published": "2026-07-19T23:01:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Sausalito city manager arrested days after leave of absence was approved",
+      "summary": "Sausalito city manager arrested days after leave of absence was approved CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85SW5zVDFYWUlzeVNhWEp0Sm02SkluTzdldWY5YU1tT3lCUVhzSzBKd2lGRExMakpFWEUzbE5CeXgzTkxvSlNQcnUwcWptNU1DSFpsTHZiR3k0Y2g3Vmd6RnJXblAwMEctZXRMWEYxT1RBa2l4ZEhVVkNPMkxCY3c?oc=5",
+      "published": "2026-07-19T22:25:03+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "The soccer fans who fell in love with America during the World Cup",
+      "summary": "The soccer fans who fell in love with America during the World Cup NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjdvZ21zaW5wM2dlMnZqX0lNcEJ0N2E5dXE5Ulo1c3lPa1owaGt5MzNZQWxYZURobU5LY2ExRzQzOXY4bFR5Z3piV25nWHpobGt4b1k5T2RlMW9QT1ZzRVFLc1lxa0UtWlhIajRJdGNsZjA4RGVwS2QydU5UcnZNWG5ZbnhVM1JaVjYzMnlCczZWdw?oc=5",
+      "published": "2026-07-19T19:01:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Becca Balint calls out Pete Hegseth over his testosterone tests: \"Do you know who Tom of Finland is?\"",
+      "summary": "Becca Balint calls out Pete Hegseth over his testosterone tests: \"Do you know who Tom of Finland is?\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR3JqWC1RQjRGbkVMTm5BUFVnQ3d3dVFoZ1d1SG9CNTlrV0tyRWRqWTFHaVMtYmJ4RjMwSVZTVGdaVHZkTVpYQW9QSTNyUDlIU2N5Z3BZTFktS0duZnB2ZDlVTFhHOWF5bjV6SkwzOE0xQnV1bEIwV2I0NlFJb1dHNEJxVzdKS1YxTGJBTlpnT3NUMFRycWdZNXgyTGZ1emNsUHNMVnA3V1NjajUxYlZqNVhBNjFuNFN4cXFFa3JXNzJ2YlRXS0JtT0ZsYw?oc=5",
+      "published": "2026-07-19T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" July 19, 2026",
+      "summary": "Full transcript of \"Face the Nation with Margaret Brennan,\" July 19, 2026 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zd1QzVzNJQi1WOUxiZC16MWxKZVREcDZTVms0TzNwX213X3d3ZklGb0YwM3VsdVlRcTFEYTA4eHhGYlZXdGRIMmU0YnBZWldwVGU5SVJfNkdlSzR4eDBkbTdVUDZYci1rcmZZMjJweFdiVThzdHF4OWJzZHg?oc=5",
+      "published": "2026-07-19T18:31:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Diplo’s beach bod, Austin Show’s queer joy, & Hudson Williams on fire",
+      "summary": "Diplo’s beach bod, Austin Show’s queer joy, & Hudson Williams on fire Queerty",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUVvZ2JJREQ3VVNfQ3VUTGZoemliR25YZDNjYWZldVlMa1h4ZnBzUUZyOExKQzVIYmtkMlVEaHhqYU1LMHdHdXdzUi14ZHN5UFBKbU1QWl9fMlRrQ3RLMXRXYkx5MmwxZklfbVljdDd2eXpqVkx6SG1MbG5kVFZ4azBmMEg5Z0lSRHZ3TEdyNkMxSzZzTC1tTVVEaGVDUQ?oc=5",
+      "published": "2026-07-19T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Bill Nesnidal on his viral Pride Night video, traveling the world & steaming after a workout",
+      "summary": "Bill Nesnidal on his viral Pride Night video, traveling the world & steaming after a workout Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlBSQTQwNUozNld6SFRJUVdVSmQyQjhvOTNnaTI3V0lXN2VQTFZwVGx2TDNpSkZXcVI2VEpTUVRXRHB0STR5bGdqejlZdUI2N0JtaV9ialdYZ0hoUEVwbW1MR0RsbGtTQVk0Ylk5RHhaSWx3OWFfdy1DRDlyT01xaTdnSGlmSUZLTlRiekYzSUR5Zy1nSnQ5c0VIUFFieFJKVjRYay1mdFJMZEo4T1dFbG1LZ0xsZnY1UUZpM18xcnk?oc=5",
+      "published": "2026-07-19T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "This week on \"Sunday Morning\" (July 19)",
+      "summary": "This week on \"Sunday Morning\" (July 19) CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lUWMzbVN6bUwxQkdGTzRhTlJWVG1xaEtkZEd0S2x0c1hwYzJqV3loX3RIZ0xITnUwd3RYVGxZZUxQbHgtTUs3NDhwaGFIZjhxdUhkUUhCcy1TdlV4VTBxWllFbWVtZk1RTFBhOE9LOTVWMjJURk1mZ1BR?oc=5",
+      "published": "2026-07-19T15:34:26+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "The UK’s new plan for trans students: bathroom bans, forced outing, & no social transitions",
+      "summary": "The UK’s new plan for trans students: bathroom bans, forced outing, & no social transitions LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUlFeEkyUVhBdTRxRVJNMW9NOHBSNHpYeDJGczlYek1XbXJNdkg3aDBpU0hjcVBrSGNlX1hrMG9JLWJWMkxQVkZFSVo0TnRzVGo0dlNLcWY5eXdJdzVLR0hmb2FMd0NhbXpzd0xOV1U3MFNKbjFDVVV4cFd3bFlGdG94Y3RQRU5NbGhlZXhGa2lOMUw4Q1B4QTdzT2ZmdmRKc2h1LTZuX2FNQUZ2Q3NuSkV1b1dNZ3BBTmQ0Rm5IOA?oc=5",
+      "published": "2026-07-19T15:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Sam Smith and the \"gentle revolution\" of \"My Guy\"",
+      "summary": "Sam Smith and the \"gentle revolution\" of \"My Guy\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xNTJ5Vm5BaXZWdnB4VmlpcDAwWEZqc2ZMNktJZlBWZlNJQVRHOVJhZ2F3ZllJd01uRHFJc3BmVjJuTEt0ak5JUV9fb1ZwZ0NHUnJ1RXdmYmVvVUVBb1pfanZQTWQ0Q3VmejJ0OXdyLUx6Snpsbmc?oc=5",
+      "published": "2026-07-19T14:26:01+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     }
   ]
