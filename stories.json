@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T13:11:33.625557+00:00",
+  "updated_at": "2026-07-22T17:52:48.305020+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,103 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
+      "summary": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human? NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcU1BUmxJSW85UGhiM3JYOWlRXzJhYWxHN3duYVNXTk91Vlo1dUtMdVpyMHdNSU01eUNNWTQ2RFdUWWs5XzlCY0NTcmNXVFltUmpBWXAzWUZMaEcyMnFlem4yT1lSbnd6SVpSNkg0UFhqOFJScUFabGV4eHhqcnRNeEJsSmlCRDluOTN4S3ZJSGdPQjg?oc=5",
+      "published": "2026-07-22T17:11:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Former Venezuelan President Nicolás Maduro’s trial set to begin in June 2027",
+      "summary": "Former Venezuelan President Nicolás Maduro’s trial set to begin in June 2027 CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzNVQxeTJVWXdwVjdSX3FkUk9fUFJaTWpyV2xDTTNKMms3WmpOUGltVlBwTTI3SFVPdG5DSzkybE9SWUQ0UFNTNWlsT1ZEQkdnYzVtRUdGSHV0MnhhdW9Qc3p2Mk1RclJCSEw3R2hSZjlZT00?oc=5",
+      "published": "2026-07-22T16:32:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Senate crypto bill would ban federal officials — including presidents — from issuing digital assets",
+      "summary": "Senate crypto bill would ban federal officials — including presidents — from issuing digital assets CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVFEaUJURjlCNUR0bU55ZGVURGRQV3VMbEZYRE1yZmFBODEwWGRqVERpT3h5NWZ3bWRySEpqQmZLRWhBaC1kLXNyMDVLQ0FNY081Q3hYU1dtVXBRR2FzVktlZXlWdGZibnN6VGstS0VFUUlXLVB4bG8xaEhKTjJwa1RoQ1UwOThxdl9OYmVFODJISV9sX0RuZmZzeFI3M2FGZDc4WHZzR0xQdm45b1FIQdIBtgFBVV95cUxQS1FCcEdZSURNcGZhMGZtUkVxc1dPY0JLc0QwdTFpZXZVNWdvUGlUeU1jcDduclMwRkQzMkt4RlBRR2cxUjEtTkVsRHNiY3ZzQ3M2QXdFd3U4clgwSmhVNXRyOFhULUo0QXZiMVhfbm5rbFpVTUdYVnBqRDZrQllwTUVDdzhFUXpKeDJXQXRpZ2JVYmZxWDJmZUVKSTRZOTdmRzJxYTFDSHFuNXZYbkt1VXNDVHdKQQ?oc=5",
+      "published": "2026-07-22T16:00:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Congressional stock trading curb due to get House vote amid public support for a ban",
+      "summary": "Congressional stock trading curb due to get House vote amid public support for a ban CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UTNNXzZ4aDZrTUIxZnRTbDJZbTBlVkd4NjhnRGVTZ0VTZjNpaGpfUUkySU96QmMwSTlKdHlZZVk2VTJCMlNkRDJnR3NLOWFNZmpzdjdWZHlvcmhGUzNwYmNQVmJzWl9Ga1BxME4wU2VoWFVSQmVUVFJR0gF_QVVfeXFMUEtETWkwaG1vN0JPd1owUjR3TExKS0c3QlFlUC10SUVDQVlUUTVoelNDQkhqMHA5NjBzZ1BlTXBwRUxfM2dLZTZyN2xZb0VaZW1QMjRQZV96bmh3eENwbFZsbUxnckctQlFLOFVBeUUtQkF4SENBbXBkQlZ0OXlLOA?oc=5",
+      "published": "2026-07-22T15:38:01+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
+      "summary": "Reddit stock sinks on report it may not renew Google AI content deal CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91S0VjQ0FBem0xYjVPWVpJdzNYcUVjQ2FWZDE0QXdLdElxUGhJZU1LUmExRW9KSUhOMmgycXhnRFFOaU5xVTFKVERCQTVCR0JoTExXcVNaUzZybnNrYnYwMUNCTmRrTU1RYnRvR0ZjWkF4QlpCVkU3ajV0cnPSAYIBQVVfeXFMTWJxU1hETlI1MGttcXQ1MmJmZ1o3RWI2VDdkYlY2WXRSejJKQzJ1a3IxR3lIVGhyM2ZOSlVYZ2Vyc0VPTUF6RXdEbDRmTURWdnVnS1JrWHhUMDVyX3QxYnVPVmdNWVVXQVFJZngtcnJNdk5vVGxlYmhGWE1JOXJvZHo2dw?oc=5",
+      "published": "2026-07-22T15:00:49+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Independent autopsy \"inconclusive\" on cause of death for 18-year-old Nolan Wells in Mississippi",
+      "summary": "Independent autopsy \"inconclusive\" on cause of death for 18-year-old Nolan Wells in Mississippi NPR",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLU1VSHF4cGhNTE9nbWJUSVNrZmtSbXhLRmQwd3JQNDhvUmdDQ1V0bHJLZXFUYUs3S0x5Ri1qVmZaMTNPSnY4cFRiVGFxWEFDWUc4VldBWl96aTJmVG5IZGlUeW1qTUljRFJObi1qSHB3Slc0XzBYcXZRVGVBNjYtNmg5bzZkN1EyVnREZHlIQlJDbkQ4WndOSmRsVE53eElkVllxSm1pT1g1YTFreGJlNG5FNFh0WTFYUGNicm5RSDVUbGFFWkpsS180U2o0d0NPV3MySg?oc=5",
+      "published": "2026-07-22T14:48:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Democrats probe DOJ finding that eases way for states to institutionalize mentally ill",
+      "summary": "Democrats probe DOJ finding that eases way for states to institutionalize mentally ill CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmdMUnZGSmc1UnRHbldzYnFEeFkyMVVvU3BuSHVmUlBmWEF1d2Zzd3dGbWhBMFA1ODRrOGhGTWhfSnAtOTdfeDYtckt5ZzB4dkpJMHlRUE1MeWxJVVZZRnVKOV9hT1ByNmd3VlkwNzR6VzZlVWU3elVNSmVsTk55eWNrMC00SllEb0trMU9obl80NkhXNzB0WG5rRll1REJ1eHdTOG5fenBITnFYVGc?oc=5",
+      "published": "2026-07-22T14:09:38+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "See how pilots would navigate the skies with Trump’s arch in place | CNN Politics",
+      "summary": "See how pilots would navigate the skies with Trump’s arch in place | CNN Politics CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13a056OUdQaE1TM1hEdEhyd2lqeTFaVWlfZF9KQUNNdDg3MlBvdmotRDU2VkxzYTgzMFNkbFF1Zjl3YXJYLUk1TzM0SEJ2TUpNRnpRcWpjcjB4c3FRTXB0TGJrVGNtZ19najBRZndFVXdNaVRUYWdmNnNxdFNqYUE?oc=5",
+      "published": "2026-07-22T13:57:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -35,8 +132,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump approves deal with Saudi Arabia that could allow kingdom to enrich nuclear fuel, official says",
-      "summary": "Trump approves deal with Saudi Arabia that could allow kingdom to enrich nuclear fuel, official says CNN",
+      "title": "Trump approves deal with Saudi Arabia that could allow kingdom to enrich nuclear fuel",
+      "summary": "Trump approves deal with Saudi Arabia that could allow kingdom to enrich nuclear fuel CNN",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0anBIUUtKQy1XRkdFZk5rTkJOU1d6c3hFNVljUDZ6VnRqV2EyUHdEZ05TUE5UV2c2MUt0aVVjMVdjZW1vREdYZlFUV25mbVVNT3ozSDBzS2djSmI4bkhES09yc2F4RGNHZnlTUENR?oc=5",
       "published": "2026-07-22T11:44:53+00:00",
       "beats": [
@@ -44,121 +141,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France",
-      "summary": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2JobFpEeENYV0s3dlNJc1k2UmVRVkM1ZS0xY3JwaEQ1ZU1sS3dtVzc3cGJsVnZzMkdNOGRCNXJiSFZvaWNhRm80MTJibzFKWmhvZm9RaS1Ha3l1a01pLW9BQ1B5NjhkVnlyYWtrNXR0RWNSaW9KZ0I1aFVobEFjQi1ZeWo?oc=5",
-      "published": "2026-07-22T11:35:49+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "summary": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran NPR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDZrY3lpN2dZTFpCck1XeWF3RG83emdtZlMxSF9DbDBlNkpmbGpBQTdUV2NYcFpUN3g4X2d4M3dndmZxS2xtUnh2SjNFb0lIbUpxLVRWSXBvRHFxcHBMRC1ZR1FWWkRvYWVlNUJHOVRPQVA0VmZyUVFjSjROVk9NVU53blhJQVNkX09wZGNZZ2tkR3lOSTVFenkyeDBTWEczdU5talVUbGVTcDZU?oc=5",
-      "published": "2026-07-22T11:24:22+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "The costs of the Iran war are rising, as Trump and Tehran signal no letup in expanding conflict",
-      "summary": "The costs of the Iran war are rising, as Trump and Tehran signal no letup in expanding conflict NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDhhM3dwNExYeUkxSU5xQzhhTGdLSDdNdk1ZY0hicHh4eWJiRGdWc21Hc0ZIZDdMdTFZdndtWDRMM2JEYVE2cHR5UVJtZHJiYXU1ZkxkTlBlcmhKSkxvVl9zVEZ1dlNKcGhwVXR6cFZQMWRtM2pWX2labU96N0hlcnlXWFpyQXJYN2pGMGJReHpFNHpuc0s0UzU5NXI1SXBEa2xMbjRuMWVVYXVTRjZhMg?oc=5",
-      "published": "2026-07-22T11:02:34+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Hitler’s birthplace begins new life as a police station",
-      "summary": "Hitler’s birthplace begins new life as a police station CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ1gxZ0I4NkFicjJUUUJYWHpQdzlZRUdVNUpQcDdlZndtZ1djWmt2c3hkNlJuTDBkMHUxSnN3alczWVlieWpDVjVKZWdmUjg2SHZLejRLV1RfdHBiQUp5RUZmcklYMm5nTGhZWkVfTUpYTkRvS1NBUWl5WEF6MjBPNFNB?oc=5",
-      "published": "2026-07-22T09:49:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. 10-year Treasury yield flat as traders reassess Fed rate hike bets",
-      "summary": "U.S. 10-year Treasury yield flat as traders reassess Fed rate hike bets CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2XzdMSmQwU3JlODFrTmc0T0lQNDdjTTd5VjB4TjJOYnZzVlpyTTBObjdLQmdrQS1UeHZVY3BkVW5rOVZsMU90T3J5cDdSVDRLZ0MtY0g1eXFhOFFMZC1wWG5VZGNQNVZRa1JCb2lJS0I3aFduRkh3M29aa9IBgAFBVV95cUxQTkdDU0l6d2lKSV9Pd253Vkx0TFJjdHdvN0dtRkV0OG81S09NdFVRa2ZMWGV0SW9rOWNONkZpbFN6aU9JUHVnSlJaV1ZXemVRcEY3OGNGZF9QUnBfZWpGTmJuSklTYXdxSVA5UVlkVzd5cGFfdVZtSUQ5bTdjd1BwWQ?oc=5",
-      "published": "2026-07-22T09:00:13+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump-backed candidates, 2020 election deniers, win Arizona primaries",
-      "summary": "Trump-backed candidates, 2020 election deniers, win Arizona primaries NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcGtxLTNUVUQxQ1JRLUFRSHc1RWpkZjFFRnRiNzcwdHo5VWI3RG1xZ0FqNTNOTmFucktMQjAzX2prNTc5Q29uTmRGck5kYnpYVm8yQXdkazJDcjVhWHFPcUhDTl8zWk94S3JQODR4UlBNQWpmcTl1MVJLaWxRQXRDcFk4ZHVaVDNreDM5TGVkN0ljd3o5?oc=5",
-      "published": "2026-07-22T08:33:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks",
-      "summary": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDRBcnVRY3V3YkNvM2hFak1wSFc2dzhMbDRpbGMtUjFFcHBjOXpGU29rRk5sQUFjNWhUb2VwZ0EtNUVKWmRPSkJ3UGV4RThUMzBWMHVBUHo2Q3o2LVBFVG5VQmRkUnhHbDQ4Nm9QNkY0WW9yd3RMbEQ0V3Rad09nQV9tdk7SAYoBQVVfeXFMT1hrakZEUml5UTFEUElKdDRTTEVqOGZxYVRSWE1RMGtNc291TjdTc1BwRGlCUkdISDRFUDluWlZKMjI1VjBNbFZodDlxV1dPeDRhUHp4WTdyX2VRbHJ2WmFOUHh4VWRoZHhDRmRKRkRycXdFY0g2T3BiNU1fZkdKMnkxS2oyZFRYQ2h3?oc=5",
-      "published": "2026-07-22T07:56:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Pentagon identifies 4th service member killed in recent days as U.S. carries out more strikes",
-      "summary": "Pentagon identifies 4th service member killed in recent days as U.S. carries out more strikes CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnl2blBxN3hkcHpRclhTUVh1aEtCSDRKcTBPQXV3UmZFTExfVnExVEcxTW5uZlVRcEQyZDg1MXJ4SXNVUTl6cEdjR2Fla1pRQ1dzSWhoa1dJSlVtell4TXZ2YXNGbFRYRXFsc3hReHJDS0d6V0Q4Yk9KdkRMTEJWVk1OTWR4QWJRVVEtTldRZjBkRGM?oc=5",
-      "published": "2026-07-22T07:30:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "What is Pickaxe Mountain, the Iranian nuclear facility Trump is threatening to strike?",
-      "summary": "What is Pickaxe Mountain, the Iranian nuclear facility Trump is threatening to strike? CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFYtS1dCcVdjMjhRclhFYnNEOG9CZ3gyVlM3WHM3TFdqQ0taQzU5MGFLSTFTejNZRHd0NUJJeVpzenMtSmh3aVhPbFFZbjVtNUp3dUtwZjRIdHZXdFdNQ2FjRW0xYjVtVE9lRGQwb29yVXFZUzFGdlFVVlYxcnNIZ003TnZNNFl00gGOAUFVX3lxTE83S1hZSDREVDltSzRLc0xhNUNJY24wZnAtczg2X1BXSjM2cVExX1VEYnpycWpaTHlFWUxMa0g5eUsxSXdYeGNPSVBhY25aellRYVR0cEZtUWNhSVBySnRHQ2hyY01hWXZUeGpScDc4UGRsOVpfVnpBMVlKNEpLQjkzQUJ5eWhxWkJRMXJnZlE?oc=5",
-      "published": "2026-07-22T07:08:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "French lawmakers approve a sweeping social media ban for children under 15",
-      "summary": "French lawmakers approve a sweeping social media ban for children under 15 NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZc2JFTnR6UllTVDM0SEF5OGkyeEpxMTRlMU9BS0dmdXU1QXE3bDBzNzRLRjB5eVVCZWtGNVROaS1NWmE2VUVWU2drOWJIU2g3cG5MNGxDV2VrV01EZ0RIS3pfcGFIdG9YNzQtQlpvai0wSXgx?oc=5",
-      "published": "2026-07-22T05:46:50+00:00",
+      "title": "Her son was killed by ICE at a traffic stop. She says she's still waiting for justice",
+      "summary": "Her son was killed by ICE at a traffic stop. She says she's still waiting for justice NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3lCbDFJQUVleGt0LUpOSTRCbWlRTTZ5eGFoUW1uS3JISm9zbHUzN0V5X0tTYWs5WmZUM25BVXItNU5TUmd0SEUtek14ajZnRGFTMGtSSzdDU2tPX2hNSzRQR2ZoZ053elJLdlJ0UTQ2UVFxTlo4dVc2S1dGNXlMN0s5U2o3dHk3dEtzalNyZWFPUQ?oc=5",
+      "published": "2026-07-22T11:20:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,6 +177,42 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Pete Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money from Congress",
+      "summary": "Pete Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money from Congress NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclFSdFYtZHpuMXp0ck9ndDJtaFhFYTYzcGdlRkFDY3RJOER6bVYwbnB1ZVdqQUYxeFRGVG1MLW5WdGNndkhOOUxLNjJoNWRhaDZ1NndUc2I0TkxvMXYwTEpja3JoNE5pNE9GcnhPQ2lFQXFCQ3FaZmY2UEtyVGRQR0JxOFF6UV9mQWQxanVjS3hiOXk3b0lJZFJsNVQyTjlhZWtPR0owMGdvbmNDbEQ4TW1jbEt0WjJrTUZfSkVZME1IRlRP?oc=5",
+      "published": "2026-07-22T00:22:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library",
+      "summary": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5",
+      "published": "2026-07-22T00:20:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Emu chased down street, mauled to death by 2 dogs in McKeesport, family says",
+      "summary": "Emu chased down street, mauled to death by 2 dogs in McKeesport, family says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0JSaE40My04SlM0SW9vaU10cWduREtCcVhXSncta1RLSjJYcVVRaEo3UDBhV3M4WHRlUzJ3enhpVGhody1yTTVmN1BadVdOd1Jxa2VObFUwVFhVdUNubjlEay1PTFZ1a2lBYTlJTjVoM0VfTHlBWWxQRUl5eWNMRVlyWGZ1U3FkcGww?oc=5",
+      "published": "2026-07-21T23:36:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -195,6 +220,18 @@
       "summary": "Mass. lettuce farm says product safe to eat amid Cyclospora outbreak: \"We do things fundamentally differently\" CBS News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc19jSC1yQ1ZCMzRuTEtNemxuR1p4V1ZZZ1FOaHZwOFBsM2d5T1M5R2NRdDdFbC10d0dscWc0MWJ6QzJCSmJSLTh6OTRRNmszQUtRYjZuaUszLTdUUXo3b3g4dGhQX2lNbXNmbnRhTmlCdmk3QzlvdjJ5cXdpOGVJM3FJMHNneXE2R0Eyd1NhbHAtSldLcWN2eE51MkQxdlVKRWVr?oc=5",
       "published": "2026-07-21T23:19:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Error Led to 400 Noncitizens Voting, New Jersey Governor Says",
+      "summary": "Error Led to 400 Noncitizens Voting, New Jersey Governor Says The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEJDellmbzUzQU1rTVczODM3T0U0ZldUX0R5REdmOGpvTmZ5RUpOWFBOOUdTMnJqUUxYMy1ZQy1ERVk1a0ZadTdlbHp6ekdDRTZDSXh4OUVXdGhVNDZ5SE80RjZnY1RUNllTcl9vdVZya3JSVDZkdFFWUHk0VmlwYWlXQmJjaS14RE5r?oc=5",
+      "published": "2026-07-21T22:31:57+00:00",
       "beats": [
         "Politics"
       ]
@@ -212,6 +249,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet",
+      "summary": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHcxZDh3cVp0aVh6ZmRkQjlmOE0tNl8ydlVvVURYMzlsMldoQzdmZnlaRmcwZm8ydmNuSjhNQU9vT0VxYkVTbDg2VUJLdHNTMzE1U0hxZVpYdjF5WExUdVRVSERTZVBIV2t2X0J6WWVZdkx2YmJkRG1VbHUwU3BUUmJR?oc=5",
+      "published": "2026-07-21T21:52:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -221,6 +270,18 @@
       "published": "2026-07-21T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Can the Prospect of 3rd Grade Retention Improve Early Literacy? Yes, Study Says",
+      "summary": "Can the Prospect of 3rd Grade Retention Improve Early Literacy? Yes, Study Says Education Week",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1Rva2szdVd0QW4zM3FBU0hSR2JDcTJwcTlwNmRoNkFUdUFXTHZUNUg4bGVhSUszRXYtMDVRa1otUnhWU0JjT2J5SXNiYlhNRGQ1aDZVYWpYQ0p4M0lUZm5aU0tydjhLNUJaMHBwVENVM0pBRDJPbGFnb2xKbWhLaHphWmZKQmkzd0NqVjc5STRkR2JBNmZ5cE5uNkVnS25MaDkxd29zTk15ZWRXS1MydjFhektFeEdUanllYzd4Z21YajlF?oc=5",
+      "published": "2026-07-21T19:43:16+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -245,18 +306,6 @@
       "published": "2026-07-21T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet",
-      "summary": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHcxZDh3cVp0aVh6ZmRkQjlmOE0tNl8ydlVvVURYMzlsMldoQzdmZnlaRmcwZm8ydmNuSjhNQU9vT0VxYkVTbDg2VUJLdHNTMzE1U0hxZVpYdjF5WExUdVRVSERTZVBIV2t2X0J6WWVZdkx2YmJkRG1VbHUwU3BUUmJR?oc=5",
-      "published": "2026-07-21T17:39:24+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -296,30 +345,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Video: The Fake Influencers Selling Wellness on Your Feed",
-      "summary": "Video: The Fake Influencers Selling Wellness on Your Feed The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUJuMG5wWDdDdGpRSVRWVzhDeFh0UVItTEwzVDROaE13UmppNE9iWHRwOUdpMWpJbmlfTlNfa09VNWI4Y1FwY1ZyN3hhTnRXdl82OFRQVGExRmtEejF1TjEzdHcwN0NNYlR5Z0tLV0o0dGFKcW5lSkg0V3puX0lSUkd1VnRiTkNiYnllRUl0Tl9tcmNkd0g2SHNHN0hKaFNvQlZ1Nk9Caw?oc=5",
-      "published": "2026-07-21T09:01:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Why Does This Jacket Cost $770? Because It Made Me a New Man.",
-      "summary": "Why Does This Jacket Cost $770? Because It Made Me a New Man. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yaWtCQm1kM0UxQjhVa0t4QjE4c1JsdGlNek1ESnJIejNJUXhsVERJSG1xLWlfWDdWVlBTSW9fQ05qMXpNTHpGWk9ITndiMndobTFvUlBPMTZfUm15YTFfLXZGRGRwUEQ3ejA5VHAxTEtkNWM?oc=5",
-      "published": "2026-07-21T09:01:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -330,18 +355,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "The American Federation of Teachers Has Outlined its Latest Priorities. See the List",
-      "summary": "The American Federation of Teachers Has Outlined its Latest Priorities. See the List Education Week",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVueEhpYTdzeHg3Q3hTYTdVYld6dGFyTmhJdENZWTR2bVVHS01nVTV1dFd3aEV6cldaRUJ4ZmRuMWR0UmtxcEpfOHljSXJPLVBXSWtPM2ZVbXpZQ2lZNnZMUjdDVHozVWNOTjl0VnJOaWtvN292ZE0tR2lJYzVQVWVhb01SRzBlRFg1ZmtHdHI0VVhRTGU1dm43T1JIZEdYX0JYa3kwMVloRHJtODlYSHZYOE5EWEhBM2lFcEktZ2RORTI2cU1OREVteVI?oc=5",
-      "published": "2026-07-20T20:26:34+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -364,18 +377,6 @@
       "summary": "'Alpha male' Andrew Tate arrested in an outfit so feminine, it sparked endless jokes Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jekl5OFBOaS1VVmVlbVNnR0pfXzhRekh2eVdsd2JZYTAwMDU4NEdjYzEzc1lMOWJKT3N1Z0VyWkZHbEVfV0pSUjJkUFRjME9Qb21YRWNqdmt3R1d2NWdxQy1xQU5WOXVXLVVvVFl3?oc=5",
       "published": "2026-07-20T19:21:26+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "9 injured after police pursuit ends in San Francisco crash that shears fire hydrant",
-      "summary": "9 injured after police pursuit ends in San Francisco crash that shears fire hydrant CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1hfSnZucTVtdE91RDE5dEtBRHlsZnRHUEV2UWJRWG1LeTgyNmdwb3pRaURHRnloVTYyZ3kxbkcyM1lVdDExb2x5bXpQYmxEcF82R09xUFhGU2IzMThsel9teEN0WF9iRVU5dFBJblBLWGdyMGQwYVJvWkI1RnY2ZVZOdw?oc=5",
-      "published": "2026-07-20T17:44:10+00:00",
       "beats": [
         "LGBTQ+"
       ]
