@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T07:44:37.884538+00:00",
+  "updated_at": "2026-07-23T13:14:37.923012+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,111 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump places new condition on signed Saudi nuclear deal, says country must join Abraham Accords",
+      "summary": "Trump places new condition on signed Saudi nuclear deal, says country must join Abraham Accords CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WZkNlM2lrVFJDYnZQVlpmWUdGZzlneUJNNF9WTkExb0VEUERMRGlkdVhYWVF2WmVYQkdGYjBxenVTNEM4dF9VVTdURW5ib3A4YW9wUEFkUDFQRGdIem43R084bFpFWHF4N1M2bC1iY2xuWWIwX0JkdVgwcw?oc=5",
+      "published": "2026-07-23T12:32:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: Spending shock disappoints Wall Street",
-      "summary": "CNBC Daily Open: Spending shock disappoints Wall Street CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXpUNEY2WC1vNHMwdk83ZzFnOHN3VUhTMjI1VVBZZVFOZ21CWHByNV9kdHAtZ1VRbVpaRzM4ajVoQUU1ZTZSTWRPRnJKbE5VVWVvZE1aSGp5QXd0YWN6VWdWTEkwMGhBM1R0X29XYkt2VW1mSkFSRlJGdnI2MW1qSGhWRTBlQk3SAYwBQVVfeXFMT1R2TDR6ZDZHd05kOGQzLTNLTnpwZVVnWVUyODEzSXljYnpFTmpJbUlNMWZGcHAxTXZWbzJOcGpMaHMwSkF6dE9taVdZNlJMVW9UdXAxdmRXcmNQZU56QXREYkxQRk55OTRZSDBDTUtQNUR3ajVMZkhycXJmQ0ZrYU5tUWgzTDhhaFl5UFo?oc=5",
-      "published": "2026-07-23T06:14:06+00:00",
+      "title": "Trump says Saudi nuclear deal does not include enrichment, Riyadh must join Abraham Accords",
+      "summary": "Trump says Saudi nuclear deal does not include enrichment, Riyadh must join Abraham Accords CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HV1NSZllMOWxEaDdEam5GT09FbURvaGxHcXJnVUM5alREWlNGdzFvUDJscUFqVFI5WC1icnMtenNiVlVIb2M4VC1tdzJPa0l6Z1Q2QWpxNXJ1dWtuRlpDV1Z4anNsVVdiVk1KM29hUkxvbkUxaEIzQtIBfkFVX3lxTE5fTWFOZXlJcGtUclpjU1R0ZGZtbUZvS1dlY3ZMei1SdXRMb3BxY2VzUjlCWlB3U3BCbjlXR0psZTctcDlCLS1Kd0hLZUVfdkZQMVFteXRSUkNOMzNKRFVGUnFXbzFvQlkzN1NmaE0tVGdfM2VGUEViNHI4SXJkZw?oc=5",
+      "published": "2026-07-23T12:21:44+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
+      "summary": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit? NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQW5FOVlIMnhsdDJ4UFl2VlhYaEczMlRpSS1EdjRHejlMZTdOVVdOUGxrR2ptOXdRdE1YYUhGclZUb1JKbnhtLUlZQkVoUDBtRGZXTXc5TXp0SGhudWtaWFJDS2l2dGx1SGt2QUV6VFRzbG5lZUtnVmpnLWYzd1hSZ2RmUmNGdHpHVVJneGZoQlpmT095cXN1ZmlOQTJaMF9VME51WDBDV29NRDBNOEhaWGM1eEtNX01IOHhRWGx1bw?oc=5",
+      "published": "2026-07-23T11:36:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Why health officials do not have a good handle on the current Ebola outbreak",
+      "summary": "Why health officials do not have a good handle on the current Ebola outbreak NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWt2dEUzOUNnUEg0MGk4SWlBeEhrTlpYNTJOWEV6VHYyVncyYzUwdF8tVXhXMUg1ODJZbmt5U2lJaWw0ZExaRnFDUmJXR0pxUkY4VnNTc2UzSXpRcFlRM0J2XzZ5SHluck1sSHJwRkFCaHpjNDhZN0JWa2VJV2NOZ09XNElBZDh3SjQ4?oc=5",
+      "published": "2026-07-23T11:23:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
+      "summary": "Comcast earnings highlight NBCUniversal strength ahead of planned split CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHhBNHhKa25SaFZodmFrZUVSTW1heWJJak5zUTlXZjVRRnByZXd6RkFPd3ZkOUpPcFJ5MTZWT0laaXpEcmlTTnZWSVBOYkYyVGtIVWZwVzQ1bDZkMUY5eUlzZ0I1OHhPeGhoLV9fNUY3eC02R3dnTnY0N2U2YjZnTjRJamtpZkIx0gGOAUFVX3lxTE5RXzNpVkt1QUh4U2JWcG1aS2VEVHAtelhtZnpLQkd2eGhNWUd2U0MwR2EzT1NmbE5sRG1fOWFYb3hDNkxkbENQajNiZzRlZVUtYXpXdGRCTlQ5QTZZcU1MTXNBemhxZG5aWHRCRW8zYlZOcEVzRTVhQVlLU2I0NDBmZXQ2b1pOTVAyRzRMcHc?oc=5",
+      "published": "2026-07-23T11:14:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
+      "summary": "American Airlines slashes 2026 earnings outlook as fuel costs spike CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTRJUlJuaXZNYTNKRWh5NUJrZURzYk8xbE5Ha2NTNHJEZmYzbXB1aFMtcFFoRnNrQ0lzRXhXaEhvVXUxQXpad25SS1NaQVFXT0VzaWFNenVjaWdqTGx3eWZsUW55ajFqMjFRNTVQSTkxelZfWXdYamNGZ0lHWEExQ9IBhgFBVV95cUxNcXpxUGdWUWU3UjlDSVcxd3g1emFmdWg3ekFZSTFKZTlVUF9NSVUzV0VsVVdBZEdvQlJLMXo0Rk5NSXljRm04cjIzSkVoSnNLRmRqVzdvLWV0QTZnSzFfRngtdzhES1FVc0ExczhKRFdEMFRabHBlMHBtVElQOFJIeWxHM0xTdw?oc=5",
+      "published": "2026-07-23T11:10:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "summary": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel NPR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
+      "published": "2026-07-23T10:55:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Europe fines Google $1 billion for ‘harming’ rivals in a first under sweeping online law",
+      "summary": "Europe fines Google $1 billion for ‘harming’ rivals in a first under sweeping online law CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CeC1qcnBLQU5OaTVWdDdjMXpuSjB4NXRoaHVIbkh0RFhWNnZYSzRyUjZxV0lkWmlIQjdWaDFvTUhZWXFscmNKMWZndmhZQ1pUejFud3llX0xHVTB4Z2xDZERDbUhLYmpVRl85Q3l6a2JaaGZhVzdGYXhnSDZTM2s?oc=5",
+      "published": "2026-07-23T10:47:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Get ready for Trump’s tariff Plan C",
+      "summary": "Get ready for Trump’s tariff Plan C CNN",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wa2ExTFFfUG1pS3l6c0NsdjExVVoyaGRuQXJJdFdLMmdRdFExV3MyYkl4WmVZMjZ2RFBHNVg1c19mTE5nLV9OZm10RE5fSDZKR1k3eDU3czNBd21mMngwSS00bGp3Tk5Y?oc=5",
+      "published": "2026-07-23T09:30:25+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -38,93 +134,21 @@
       "title": "Nearly all districts require civics, but fewer offer hands-on opportunities",
       "summary": "Nearly all districts require civics, but fewer offer hands-on opportunities K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPME5MUnFtRnFmX240TVhMVVhLd2lwcG5hTGM2amJ1NEhQREdKOHZaMV9fQUU2OWlzS0UwY2puck16VnVoTlQ2eGw5Q0o5VmZqOXZaazR5bFUtcmtMXzYwOGNsUUluQ0x4cVR4U0NhOU1ZV2JaamVVM09SbkVtS1BZbVE0NmtTTVhBTzlJOUV6NWkwZ1drUzFKLXJsclBOQQ?oc=5",
-      "published": "2026-07-23T06:00:00+00:00",
+      "published": "2026-07-23T06:05:02+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
-      "summary": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kaW5XdzVCRVpNdk5wNW4td2FuWXJheDVUekY0X3M3RlhjejBEU3lzYlRfNm5BMXhTeTdfaXlRQkl5Z0xCaHpJS3pyMk4wZ2dwanNCOU1qMXh2cU1waG5yaVBUT293VW1pQUxxeWFUdTM0VDlWZ3c?oc=5",
-      "published": "2026-07-23T05:23:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
-      "summary": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzZXRS1RUlpXZ3phaC1kamdVNzdJQXJBM3g0MkFyazVGOG5NOExhVXY3SjRxQ2VkSUhZLUpZOUgzTVMxTFRudWFJUDBpakpVVVhoZDRmVzJQZHhwRW8tYk04eUFnSkFJZVd4RWtXU3U2WkV3MnFOOGRDbWNOVTdTbTUwc3BDWTjSAYwBQVVfeXFMUG5JZjZCVUVUNVpKSzJhQ3hJMW1mc0E2dGNXMjNKWFVJMkVYNjJMMkJiWEUxb0FyeGg1VFNOQ2ZVeW5XbTdPTGlDckt3LVN4SU1Rem8tb29mRTdYRjR3YUFEOEk4MktMZGZBVDlrQlVRTXVyNXQwTHZERnV6dkdodC1zX1pTMDdHYTJNMmM?oc=5",
-      "published": "2026-07-23T05:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Hedge funds circle UK stocks as new PM Andy Burnham pledges 'new economic model'",
-      "summary": "Hedge funds circle UK stocks as new PM Andy Burnham pledges 'new economic model' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlJWRmFHUkExSHFwd3Z2emtFbDNvTDhlckhKTVdXTDRKODRHT2x6dXc1Zm8xNHgwWVBMbzY2d0NIUHppbl9KcnJLbnZtQUwwTTVDMkUyRGZsWmNoeDlXdFl3TUxBR0VqcERSUjh4UmlkQXhKNm9yakhieHR6M1h5MGROSElkcEUzNWFYME9R0gGTAUFVX3lxTE5zcU80amszTmVHUjFtc1FpTXBtQTItd09SRWFKbzJnVXBVb1U1VGJnTC0xQ3prbFRxRHd1M3MtX2RhUm5iR2NNaEZGMTFWcHVoUEhuZGM3ZlVkeWZ3MlpFbEloel9LZFdqT0VQQkljWTNpVjFlWEtsaDFWUVpCNXVLZy1YWEprWTVyM20yZWhuMmFYUQ?oc=5",
-      "published": "2026-07-23T05:00:01+00:00",
+      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted",
+      "summary": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSE1vZGE4WjBVeUhvM0tNYkJFYWRmekMtMnFIOXh2cWwzYkhfSnExWjcxWUt5NktnRWE2Y0o0blpPX1UzbDAwdG15c2lyMFNKNVZVZjdKUnYwTG5BSjhjRDF2cE9pc2g2UjF6N3E4WWYxY2hwWE5CbWhGOEx5R25IczVNZ3IwZHVQSDJnSnN6UnFwbGdDbFFZei1BM1RJTFNsNHEwWDJZZGo0RWRBQzg0bkhLRUZTbk0?oc=5",
+      "published": "2026-07-22T21:40:32+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Secret Service agent on Vance’s detail suspected of leaking information is put on leave amid internal review",
-      "summary": "Secret Service agent on Vance’s detail suspected of leaking information is put on leave amid internal review CNN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlcyQkVnTXdZXzg4Y1Bha0VFOWgwS1BUbkRXZ2hPT3NyOGNvbHkwM2U5TnVoS21mLXBwVFJpQjI3WHQ1cXdRWG5mTlRDekhWTF82VFU0d1lDQUsxQXh6djlXU1llS2hKdGpEMGxydGotZkRza01GMkJpX3VYSU5HUlFUSll1XzNNLVdPdzN2NzdBWG0zcEFmSGVzaS1tZw?oc=5",
-      "published": "2026-07-23T03:07:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "GOP chair of House Judiciary Committee asks Justice Department to consider prosecuting Jack Smith",
-      "summary": "GOP chair of House Judiciary Committee asks Justice Department to consider prosecuting Jack Smith CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2dsUHV2STNWQXJfZUdaWlBleU1zRDBQYXNobl9BTDVmcldSUWVqSG5qMzFiYTZFY0p3bDI4ZXYtOWlya0R3bjhrMTBHOUVRNFJuSFgyRU5CV3dCWU03Mlh5RWFrY0FmR25UNlAxcXVJSFNrZThrRjJmNFRBc3lUdG8tVVhsdw?oc=5",
-      "published": "2026-07-23T02:49:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Two states are the top contenders for the first spot on Democrats’ 2028 primary calendar",
-      "summary": "Two states are the top contenders for the first spot on Democrats’ 2028 primary calendar CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjRkdVNXU3RSLXlOREJJWHhhMk1Dbi1PS0NXbGxjeHlsYnpTMFVRa0hYcndNdHRZc3Y1MDJsdlhhdnFmaUh4QkluTl9YM21ieGpraUE2R2lodVN6Vm95TGJFVWdGLXJ3MGJDa2NmX24xS3JGZ28zWlRWeUFXUE0xX2ZXc0R3VHB5MjFmR0RB?oc=5",
-      "published": "2026-07-22T23:13:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
-      "summary": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzZDbVB0M1dMREVtclZpZVdKYUJtU2F6MWdzb2lGdDlxT0RzYzJaVXJPeUhDX2hySVNURFZlcjdXMkk4aGl0OXFmUTZ6T21yMi1LclM4ZDJBUzRzQ2l1eGFLSU9DaXpHUy1kRTA2RGE5UVJwZ3FQQ2QyeXE1M3ZKaFF4d2FkSXp6QmhvU3RYc0U?oc=5",
-      "published": "2026-07-22T21:51:19+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -135,18 +159,6 @@
       "summary": "U.S. signs landmark nuclear agreement with Saudi Arabia NBC News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWdwQ294UzRPX2lxSDY0MUJVVm1rUEI5c3BSNmNuMXU2bHpmUFpadnVVRmxkNERZMjFrVVVuQWdia2RWdmNmbzdTRFZSR2RwcEhTakZ0bjUwdjNCNlBDTEVSU0xJSTc5SHFBSndaS3FCS1c2cVhRc0g2bUJLdUJ1bWJqdTRSX0lhQkRUdU5MeVFLT0ZjRUJNTkVaRC1uN3FFMWF3UERkOWpXT1pZTllpUk8yZkczWnc?oc=5",
       "published": "2026-07-22T21:23:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
-      "summary": "Trump administration signs commercial nuclear deal with Saudi Arabia NPR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFRNQ0V2SnpKVmxQRXR6TUJldEZYRGtFT0hWMlZFTmxyelV1MG9NS0tocl81a1JKQ0RoTkRUYzN4UF9iZ21abXM5THZZdEt3V1JxaGM3NkVuS0Y3eDVRZWtmWTVHX0MxSV9qUktFTWhjSm1kZnZTY0Z4bklraE5xMnNR?oc=5",
-      "published": "2026-07-22T21:17:24+00:00",
       "beats": [
         "Politics"
       ]
@@ -177,6 +189,30 @@
     },
     {
       "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "France recorded at least 5,700 more deaths than usual during historic June heat wave",
+      "summary": "France recorded at least 5,700 more deaths than usual during historic June heat wave CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ETTJ0TUhYekM4RGRJYnNsQVJuVHVEMHBVdW03ZWlCMXZzblZacXB0NnVqMW03OE1xN2JGcmhjdjBfaUQzcC1XUndRZm14Y0prWlNlU3pmNVd3X3NNNDhwektILWUxX2ZaWC1iSUZlMVJxU19vNHc?oc=5",
+      "published": "2026-07-22T18:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library",
+      "summary": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5",
+      "published": "2026-07-22T17:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Democrats probe DOJ finding that eases way for states to institutionalize mentally ill",
@@ -185,6 +221,18 @@
       "published": "2026-07-22T14:09:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice",
+      "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5",
+      "published": "2026-07-22T14:00:34+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -236,18 +284,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pete Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money from Congress",
-      "summary": "Pete Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money from Congress NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclFSdFYtZHpuMXp0ck9ndDJtaFhFYTYzcGdlRkFDY3RJOER6bVYwbnB1ZVdqQUYxeFRGVG1MLW5WdGNndkhOOUxLNjJoNWRhaDZ1NndUc2I0TkxvMXYwTEpja3JoNE5pNE9GcnhPQ2lFQXFCQ3FaZmY2UEtyVGRQR0JxOFF6UV9mQWQxanVjS3hiOXk3b0lJZFJsNVQyTjlhZWtPR0owMGdvbmNDbEQ4TW1jbEt0WjJrTUZfSkVZME1IRlRP?oc=5",
-      "published": "2026-07-22T00:22:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -272,18 +308,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Parents in Washington County face multiple child endangerment charges",
-      "summary": "Parents in Washington County face multiple child endangerment charges CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEpzcTU2cEJ3eXlzemtHMTRLdUJJYlkwODBfOWVpN0gtV1NDLVhrNXJGMmZnNi1tR0UwQU14QmNjTGdIQmZDVWFQcVVlc3QzYVJoZ001OG9rWjFwNXZEaklIeGlrbzhvbnBNZWpSUm5uYlFVd1pFeU9DYTJ6NVRZQkxydlZ2TlZXMkRFVWJ3?oc=5",
-      "published": "2026-07-21T21:50:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -293,18 +317,6 @@
       "published": "2026-07-21T21:34:21+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library",
-      "summary": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5",
-      "published": "2026-07-21T21:24:50+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -365,18 +377,6 @@
       "published": "2026-07-21T19:18:16+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Mike Johnson is legit crapping his pants right now & it's not because he ate some bad lettuce",
-      "summary": "Mike Johnson is legit crapping his pants right now & it's not because he ate some bad lettuce Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmtHbV9XNkRib1E4Q0xUNWFmWTVyS3luY01YMWZIeVRUQjdtbUZLWG5zSElhVFduQjFpTnVJcm5XUU9XZmsxWlhESzg2Z3JwY1l1WkhQcDFVQW8tdUJ4eUFJYzdmWFgzczdydk1kaTBqVm9GM1I5LUVaNzFadm83TnJJR1k1cWFtaGdCeVNBQllZSV9vdDBjaUlrRENBc3plWjJjcF8tVHV5RUdKWm96TUtmWTJ4SjdBUGhNTFB5d0UtZw?oc=5",
-      "published": "2026-07-21T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
