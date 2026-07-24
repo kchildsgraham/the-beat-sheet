@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:43:12.114922+00:00",
+  "updated_at": "2026-07-24T13:06:22.185111+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "11 people rescued after seaplane crashes off Washington coast",
-      "summary": "11 people rescued after seaplane crashes off Washington coast CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MWnJaS3M2ZnNpVm1ReUx6Z1VpTVZtVFZLOWpaRVRkSjQ2MlNBZ1ZwdlZxUjhUV1JVdnNJaVRZMVdIaG9EdnlqVjBheUdsQnFDYTh0THhOVklsWURnbGZBVzZZNFpqS09kandEWEdFZ3VnSGRKZmdsNklQMm4?oc=5",
-      "published": "2026-07-24T06:12:10+00:00",
+      "title": "Oil spurs a sell-off, Trump's new tariffs, Intel earnings and more in Morning Squawk",
+      "summary": "Oil spurs a sell-off, Trump's new tariffs, Intel earnings and more in Morning Squawk CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0pKcGhZNXRKcllmLWd4c05PVXIyVE9ZR01xVTFwNE90cnpxdjZ6LUViOGxQNGxWcG1pZkJfdFdXZVlyUWF3RHQ5UVdpRkpfSXU0ZnFTcE1JbDUzN0JCUHVpam5rbEVRWWFmWFRoWkVzamMtS2pOYnpXZlREcUlVcmtqRk5iQXVOdTZz0gGQAUFVX3lxTE16X0U3S1V1MUJMdzhVX1NQV3JjX1R0NDZyUDh4UmxEVHp4X05USjhQWHZhdDNuTGhPT3BwYWxoT3lwZlhCWi14eDdHUkNMdlZ2UVJ2WnVaYVh4cUlpamozQkQxSEFIX0w1RE5GdWJkc19WRFFqNGI1aXprZEN1NzZkTVNfTkdGZndsWnF6cG5JWQ?oc=5",
+      "published": "2026-07-24T12:15:36+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump threatens a major escalation in Iran as the war rounds its 4th month",
+      "summary": "Trump threatens a major escalation in Iran as the war rounds its 4th month NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5maEJ4V2VxQkM2UzVGeFhRMHZ2SlI5dFY4d3E4R3R6UjE0REdWM1NFcEhyV0s4NVFYYmltNWRrV1ItbGoyYlpaVFdxRExVQ2dHT3M4RHVyTVoyVVBfQlpudXo0cG5PRlJuZGdhaHlTaw?oc=5",
+      "published": "2026-07-24T11:30:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,47 +47,70 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "A dangerous new phase of war is breaking all the oil market’s constraints",
-      "summary": "A dangerous new phase of war is breaking all the oil market’s constraints CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHJkZHlOcFRGMlNfWFJNbDFPbWpiU3Z2VU55NHVmblozN2NIUEktUUtGYlQ1U1ctTzlXWGphU056ZVVNb3ZaM0NvWlR6R1E0SWdwV3NGZW5Hd1MxamRFdldIVF9hLWg0RW9rSWJ2R1lWQ1ZvQXBvb3V4cG05bWdyUA?oc=5",
-      "published": "2026-07-24T04:01:25+00:00",
+      "title": "Trump’s document ‘cherry-pick’ doesn’t show a cover-up of Chinese election intelligence, ex-officials say",
+      "summary": "Trump’s document ‘cherry-pick’ doesn’t show a cover-up of Chinese election intelligence, ex-officials say CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1pmMXBrZlNMVFdXVVNXVV82MWZ4cGhfLWZLQjNGS3Z6YzFwTmVRTjk1ckVZdHpBeHNMSE4xM3pCTlR3dWlocGxhNWdKQUQzVlI2dFlLYUswcHdHWUI0V3ByRmQ1VHU2aC1NMUFLcktRLXM0VzFPY0pIb2ZReTQ1YkZyQXNQYkRpQnd3eUNqeEVsa2dFbXQ4Tw?oc=5",
+      "published": "2026-07-24T10:00:25+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?",
+      "summary": "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you? NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLTMxc3BRSTFuXy10NDc1STItZVpQSVJSa0RiY3JQUkNzOC1vWDdPdk91QVpMeTdDTzU5NVBIcGU5dmVDYWd4ZE9JZnZyMnJySkhlY3B4cEVmUk0xQjVrclRQSlhXdFRCWlA5VllpMzRCRnNZQXhGTWxkWUJmQ1pCWjU0UjJBSmduWXNBOFU2Yw?oc=5",
+      "published": "2026-07-24T09:01:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Thune and White House trade jabs over Trump’s controversial elections legislation",
-      "summary": "Thune and White House trade jabs over Trump’s controversial elections legislation CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVGRjUHhmaEtjeXlpTEpIRDlfeU1saUwyNXlWZE1XZU9SREhzU21JbF9Zc1lSTi1OWUduOExpNHZyVjktU2Vwd0w1RkJpazNMNVZjdGNSSl8yWHJSMWE2TmJpNXhIWU02TnlMVGpCSm1uNEhKQWo1LQ?oc=5",
-      "published": "2026-07-24T03:59:00+00:00",
+      "title": "Joe Manchin reenters the political orbit with a new independent experiment",
+      "summary": "Joe Manchin reenters the political orbit with a new independent experiment CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXdWSWIzMW1BOXg3UF9MU0o1d0VxOU0wVnN3ZGV6THB6NFY1VWNaV3hIZUVMRDJTX1liTk85akVsQlNiUjhLTEhHMkhxWkhIUFpyaEFkT0F3bHJ1YUw3ZFE0UFVtS0hTd1hhWldGb2RhNERid0lyQ25rQ1k1X3piNS1WVFdFTG40ckE?oc=5",
+      "published": "2026-07-24T09:00:25+00:00",
       "beats": [
-        "Politics",
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump refuses to give up on tariffs — a pillar of his economic legacy",
+      "summary": "Trump refuses to give up on tariffs — a pillar of his economic legacy NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWnZaQ2tuMHlORnFCcER6SHZyb2NyRHE5Y3dnaG5MRDd3YlRFVFhuQ2RRLXlHYVdMaHhVSWtQWWRJVVVEY2I1d0xBSV9wd2t2TWo4SU9HUVVzRjBhRW9QLVYwSHdBLTd2eHRCOUQxSWExcUJmd0RqdG9fckdOdkl0bjhEYw?oc=5",
+      "published": "2026-07-24T09:00:00+00:00",
+      "beats": [
         "Business"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
-      "summary": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDJwekxfMzNvUzJab19OTGl0M0tYLTNKRmRTVFZKYUJBak5sanM2ajNnS0hlWUNsTzQ3dWNwZWdXZ1NzcG1YTWRoSjNNY0I5YmljUjByX21iMnV4VDktZU02SGh6LTJkenoyeUdWdUluVGdlSnZvWnV0U1NlZ2w1UDdNZVIwc1RpdHk0M0tKb9IBlAFBVV95cUxPbnlFVEhUYV9kQ0NRaVNJbS1lamlUdFNJek5zbHNuY1dramRvSDRDU1o2NklyMXBENWNVLXctT1ZTV2k1WWUyVmJ0OWFDYjVFZnUzVjhueHJHb241Y1BLOWwxRl9sN3otX3hweGo4ZnpuOFNiZ0lKalNBc0VSeXlFeTVfR2V0cG1teTR3VHdsaGphakRm?oc=5",
-      "published": "2026-07-24T03:15:00+00:00",
+      "title": "Tropical Storm Bertha weakens after bringing strong winds and heavy surf to Louisiana and Texas",
+      "summary": "Tropical Storm Bertha weakens after bringing strong winds and heavy surf to Louisiana and Texas NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkVEeHpEbnRvMzF1UmQ1d2NzOVIzVXFMcHFndkhPYXVYeEpnUWNjREVTcVp3WlJzMGxURWV5cGhRT1piMzZ1Xy0zc01WUHdDeGplRWM0RjBBVEdrQ0ZTZUY0cUlwYUFfbHNkbzBnVUVteGRsVUxieDlYWVZBZHJPZm9LOXlPdVZhYXdiejhXaGxxVnRjd0J1Q09VbmQ4VFJJYnFXYkExUWg5cGJTNUpfMkkyOE9teVFRNTVzcA?oc=5",
+      "published": "2026-07-24T08:18:42+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "China's largest memory chipmaker sparks fears of a cash drain as it readies for public debut",
-      "summary": "China's largest memory chipmaker sparks fears of a cash drain as it readies for public debut CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02SVB2akZOckJNc2FmcGVCa1NCNkI0enJTY1FLWl9NMnU1UGptS0ljeG9WN0o2MXkxaDVvLVFCZThYdzl1ZlZoVmN1Wm4ta0R2cE5Ib0RlUHZGdkhUU0U0MERjRzZTSjdHb3J2UHJlS1JBTGdrSnpvZVkzWdIBgAFBVV95cUxPeWhNX19uS3l6QWc5aURzTG9sZVBXRE5QenVybGhlREFlY3pBeUlTQ0FUOUVCaFVTSWJpNlF1bl9jb0NrSlB2ZjVoWVJ2UmFrbDJVdFF1YkFDUkc3a2hCbkdyN3JLX0xmMmV4ZjREa0ZFSEFYMHhIY0RsSVlIQTNxdA?oc=5",
-      "published": "2026-07-24T02:00:00+00:00",
+      "title": "Iran weaponized the Strait of Hormuz. Now its neighbors are building around it",
+      "summary": "Iran weaponized the Strait of Hormuz. Now its neighbors are building around it CNN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUY5MGFkdUItLTNNb3dUNWhLUmJYdFhOWnVYQ0NnS01PX1VNcXNCWFVFYUZnbFBzTElrQ2o5SThkdUhaQl9Eb2p6dFVCby1qNV9TNEpiUnlFUXRkWmwtWFk2Nmh4dHF3dzBpOV9fNGJ5d3pMa2JabnktWXJDWDA1Szgtem8wVWY0cWU3NWU0Njh2MnFUMHUzdTdUZlJEMjU5?oc=5",
+      "published": "2026-07-24T08:00:25+00:00",
       "beats": [
         "Politics"
       ]
@@ -84,10 +119,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Japan core inflation rate in June creeps up from 4-year low as higher oil prices bite",
-      "summary": "Japan core inflation rate in June creeps up from 4-year low as higher oil prices bite CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYTVtaEhCUndpdWV6LWtmUGNCcnBmSDRXY2tPbUQta1JLVlVDMTBLaEdBT3JnYjhNSjVEb0JrVlNDanRmYXB5RXF2VVk4S040bzFaWUROSDRDVS1yNTRZQkpCT21FZGV1dFhnQUlNeW9pQnRidEI0UWdPMTBBcDRtMV9n0gGHAUFVX3lxTE1VV3FHR0hFWGNLUklIMVdhMksyM1hydzJHbWZ0MXJzcG1ZOGEwT3FoU01UUFBhV3VZc3FyamZvTk9lVVdSV1EyNU9QS1RveW95R3hnb1pZTnpMX240SlhNblZmNmdCa0VjdTdZMGpGb1lzLVR0aTZBc3dMQ2tucjJzV2hrTENaVQ?oc=5",
-      "published": "2026-07-23T23:48:04+00:00",
+      "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
+      "summary": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DT3ROTDZjaHVoV0g2VEdyOERTeHQyZU9hUW1QLTh4NVltaVF5LW8xTWdPNy1oeVRycXVwcVJyd3JqNTlfX1A3aFdzVlJzSXBucW5uM1lWRUR5Zi00VDBOSkFuMjMtZmE0LWdHVDFDMXdUbnpnUl9STNIBfkFVX3lxTFA1MmUxNnhZQ090aXloVFpVRkFvdWxhelcyYVZSUkZiQ2NHXzJEZWxaanZ5MjI3eWljemh0MEwtNl9vVjNkTDVNR2FjUUVGUUQ4ck9VVmZORExYbjM5T1NSYWtBalZ6TE9iTjhEclN2TWpRc0JhS2FRX0FkVDFDZw?oc=5",
+      "published": "2026-07-24T07:54:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
+      "summary": "Pentagon lowers official Iran war death toll, omitting four killed this month CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekJKcFhuS052MTZaTWRVRkc2YXN6b3AtZnJtSm9ocEZ4WVdBdFNRa2NXRDdyMVhONjlrZ3RIX19HSlJCZGVsU1VLeFFVdXBhdkcxSURLUlY3R1RHMjZKSEhNZi1hTXBXWGVsMk1FZDI5R3BaYjJPUFJCTTVPWEswQ1FfZHZ2NUF3aDZLVlhFZ1jSAZYBQVVfeXFMT2xHTllVbzNrUVg5NnU0ZzhTNHZzeFR0N0RxVkRjbnJFem1feUlrcHFGZ3p1aU9Tei0yY01ObnpmaG9qYVdFY3A3d3FtSnJYWWJfTGZTcE0xMnljakphV2dSLTIzTkFnUW5LR3kxNlA5YjJVRW1vU1ZhWkJob2JTdmtON3NBRl9BbGlJTTUwRmhjMHRiTnVR?oc=5",
+      "published": "2026-07-24T06:09:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -105,43 +152,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump to impose double-digit tariffs on dozens of countries",
-      "summary": "Trump to impose double-digit tariffs on dozens of countries NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqcWdJU0FnRnVWMmUwNnJtTDdCSGlmcVdHb2k0MlVUTl83V2l6RlFPT0NoR3dBcjlIVlo4S1RkMEdVaE4wbm5JdklsRXF4eUZ1QlpSdGYzU2xYZVA0R09RZmQydnJsNEVubjQ0YjRtRWp6bTVKMFZ5Z19B?oc=5",
-      "published": "2026-07-23T22:06:50+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "summary": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqRHhXcTl4Tk5RdlFWWWdJeHpaNEcwN0R5MHk3ZlJTMWFQM1N3cC1Zb21pUnJPaGt2VG1RU0dlZUZrOFl3WXE5V1R5VlZmbktGdEEwMnBlOTZBSDhlVXJUQnB2UnM3TjBNdjNoeGVBZFBZVlp1YzlQdm9qdHYtZw?oc=5",
-      "published": "2026-07-23T21:31:00+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
-      "summary": "How to keep an ancient text interesting to students? Make it a summer blockbuster NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2x1bFh0QmJhRmF0eC13WEZXN0FpRkVFTXZ6dll6U3Z2N29zYWFLdE9qZkhZbGJBSmgwUldqQXhaMHBPZzl5RFc4akVCMV9tNjhsZzV0TU5BWFJIME9JbXl1SkZGVkFlbnh5Nk9kZHFOSUoyazN4N3dCVjI3NWptcnpMczNlU3NhdkE?oc=5",
-      "published": "2026-07-23T20:37:47+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -151,18 +161,6 @@
       "published": "2026-07-23T20:35:55+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump allies are poised to weaken protections for historic sites — not just in D.C.",
-      "summary": "Trump allies are poised to weaken protections for historic sites — not just in D.C. NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVg4RWVXSHFiTUhWQzl4VHM5cERhX2p5Njk5NURnODhFZTR0Uno4c2I2eGRqeXhfa3I1bnNGZWRkWkdqSEk1aXNxU0hHYVJCRUM4N21UcEJCc2J6R1lYeTU1UTBKdzV4bjBJOG5WbFBjYmRYaVNieEZWUzJqNWJyWE5XY3hlbmJHREFLa1ZPN1NlbzhmTHRPT3lWdFVxanNN?oc=5",
-      "published": "2026-07-23T20:14:58+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -178,15 +176,15 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Judge questions why Pete Hegseth can give testosterone to cis men but not trans men",
-      "summary": "Judge questions why Pete Hegseth can give testosterone to cis men but not trans men LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFN2YTdFSUw1YUpwYzA1SC1fb0JNVFdULUZ1SEJpWHZxeE02Ty03UE1ZZXZfajJkWnVRZ2ZDX2Q4bWo5REstcVZGRmxXdEJBNk9ROGhaTF92cmtkUk1Tc2FNbTZLaGx5cm9qM2ppN2ZWRU1EQWZoMXFCQnhhN1M2b0NldFRZZmk2cXpvZU5panBDWF9OWThHQUZhNHJabzVVUV94Z2dPT3dlZUF1MjVURzRqLW1UU3lSMmpzSA?oc=5",
-      "published": "2026-07-23T19:00:00+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Four Young Mathematicians Receive Prestigious Fields Medals",
+      "summary": "Four Young Mathematicians Receive Prestigious Fields Medals The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3Y0XzhJdkhYR3QxYzl5RVNNNjFXdHJCUk1lV1dDX29RYV8zd25pTk5qOGt4X1ZQMFJZYUw4SXNFMnM3WG4ySkhtUmtBUEV3ODhVTDVmZ2U3V0d4S25QbkhkbXVMcEZYTXNEX0RqOVh0d3ZzcEstYXFjVmRUODBMX2oxWndfekMzVnMxeWc3YklqZw?oc=5",
+      "published": "2026-07-23T19:49:33+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -202,25 +200,37 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Four Young Mathematicians Receive Prestigious Fields Medals",
-      "summary": "Four Young Mathematicians Receive Prestigious Fields Medals The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3Y0XzhJdkhYR3QxYzl5RVNNNjFXdHJCUk1lV1dDX29RYV8zd25pTk5qOGt4X1ZQMFJZYUw4SXNFMnM3WG4ySkhtUmtBUEV3ODhVTDVmZ2U3V0d4S25QbkhkbXVMcEZYTXNEX0RqOVh0d3ZzcEstYXFjVmRUODBMX2oxWndfekMzVnMxeWc3YklqZw?oc=5",
-      "published": "2026-07-23T14:20:16+00:00",
+      "title": "Member of Vance’s Secret Service detail removed amid probe into alleged compromise of security information",
+      "summary": "Member of Vance’s Secret Service detail removed amid probe into alleged compromise of security information NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0M3cEJaakV0aFN6ams2S2M2U08zWkVMTmJmalc2eW52YV9MbHFYanpfYTRhQmROQWZ4d0tsXzU3SUZzSVBOZDNILXJSemQ3R25EU2xTSkFidHBWYy1EaUFTbWNwYzA3d2tsQnM0WGlQRG1kcTNOOHZyNXhrdUhvN292U2wwUXdKbURLTjhycDAzSWNFS1NmNUdEQU9XeE8wdUJvYWU0QmlvM19k?oc=5",
+      "published": "2026-07-23T16:30:44+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Anti-marriage equality campaign is installing billboards attacking queer families across the country",
+      "summary": "Anti-marriage equality campaign is installing billboards attacking queer families across the country LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRWZtR1JwNkcxVVhkSFR4bVEyNEpBdXE4aTZqQzc1bzFFa181Nnp2amVTWGZqV1BRY1Utd3ZBZmp5bHhRVzk2T0FhWHNUblFBNlY2NHVWMGY3VEx0QTRkaHYyRlRzX2NZMHg5bVdkcFR5NVpBRXgyd19zV1FUR0xMQ1Q1NmVVSWVXbHIwTmVma2NwbHhkcUtQNkEtRWlEUDBVdVhNcUZYQjNLY29ib01RbFJMTmVZMGY0RHZBQ1A1WkhPYm9jcmx3NXFjeTREbGxNbHYw?oc=5",
+      "published": "2026-07-23T13:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "How to Eat a 2,000-Pound Fish? These Orcas Choose to Pulverize It.",
-      "summary": "How to Eat a 2,000-Pound Fish? These Orcas Choose to Pulverize It. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CTzJwcU0tX3Q0WUhERGxZdFBBNkc3UzIzOC0wY2J2QWM3U0RxUTZLbFlOaHBXVGNGRWZmSS1sY3ZRaU1xdHZjVWlBNUU0TU1XMFdyR3N3QUZzX05qTGhrWGwyMFJlMEZaRG9uUUVWQWpNMlRsaVhLNg?oc=5",
-      "published": "2026-07-23T14:15:12+00:00",
+      "title": "Opinion | Gen Z Fell Out of Love With Work. I Don’t Blame Them.",
+      "summary": "Opinion | Gen Z Fell Out of Love With Work. I Don’t Blame Them. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0s3eVFTT2VEVGN5S0FrcllUNFJXZWFIZmF5aVhqblZUWmw5MldrV21SbEx2eU12QmlUOFU2dFB2M3l2dHRiNE91eEJXS3pTeWs2SElEWkplMzE1S1pmY1lNeDJfNExucVM5TlRvTHNhd1N1UWJ4T2ZZQUgwTFoyT0tPYk8zUFM4?oc=5",
+      "published": "2026-07-23T09:01:54+00:00",
       "beats": [
         "Politics"
       ]
@@ -262,18 +272,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "14 years after woman was stabbed 100 times, her close friend was arrested in the Texas cold case",
-      "summary": "14 years after woman was stabbed 100 times, her close friend was arrested in the Texas cold case NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGoyd2hva0ZicFg3MFE5VUMxQk5RZjFISVFYUlk1LTZ4M0Fxc083UElGQXJvdVB2ZUZkUTBQRFczUTM1NE1iZHlIUGVZY3FPODV3aFM5X0VWa3JyN0JkRlFCd0hvb3lINEZsSkJGWUZETnNyVDFkWk55R2ZOUnBBUjJVbExTVHNFNG5FZmxESS1CbnFUZ2NiaEJjQXBfVXlyTVFVR1NPQW9JdV9IUGt4LVU5ckloWGpVNFE?oc=5",
-      "published": "2026-07-22T23:24:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -289,36 +287,12 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted",
-      "summary": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSE1vZGE4WjBVeUhvM0tNYkJFYWRmekMtMnFIOXh2cWwzYkhfSnExWjcxWUt5NktnRWE2Y0o0blpPX1UzbDAwdG15c2lyMFNKNVZVZjdKUnYwTG5BSjhjRDF2cE9pc2g2UjF6N3E4WWYxY2hwWE5CbWhGOEx5R25IczVNZ3IwZHVQSDJnSnN6UnFwbGdDbFFZei1BM1RJTFNsNHEwWDJZZGo0RWRBQzg0bkhLRUZTbk0?oc=5",
-      "published": "2026-07-22T21:40:32+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
       "title": "U.S. signs landmark nuclear agreement with Saudi Arabia",
       "summary": "U.S. signs landmark nuclear agreement with Saudi Arabia NBC News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWdwQ294UzRPX2lxSDY0MUJVVm1rUEI5c3BSNmNuMXU2bHpmUFpadnVVRmxkNERZMjFrVVVuQWdia2RWdmNmbzdTRFZSR2RwcEhTakZ0bjUwdjNCNlBDTEVSU0xJSTc5SHFBSndaS3FCS1c2cVhRc0g2bUJLdUJ1bWJqdTRSX0lhQkRUdU5MeVFLT0ZjRUJNTkVaRC1uN3FFMWF3UERkOWpXT1pZTllpUk8yZkczWnc?oc=5",
       "published": "2026-07-22T21:23:48+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Gay twins reveal the things they wish people would stop asking them... especially THAT question",
-      "summary": "Gay twins reveal the things they wish people would stop asking them... especially THAT question Queerty",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZTJiWEdvMThLWllBcjR4ZEdCdVNLSzVxVEQ0dTdZUmUwUlZOSXF3a3ZnV0R6YkJydUJyYkxQeWYtWWNEX3FwYnk0UGU5N1VKTGMxZXdic2ZoSW5xakZoS3ZHVmdKSDJVQVNnd2xXOVYtR3M3TktYdk5fbTN5aWpORjNsd29ieEQ2RlZWZENiTVRBODJxRlRKZ2l2WU9CTEFUcU56RmZiQUhseXVFSDhDUS02UWhUX3FxMTVQNDcwazBvcVBy?oc=5",
-      "published": "2026-07-22T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -331,6 +305,18 @@
       "published": "2026-07-22T19:32:49+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "What to Know About the Death of Nolan Wells in Mississippi",
+      "summary": "What to Know About the Death of Nolan Wells in Mississippi The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeW9tVEZ6bEtCUW5nbnZPRVJRV3VDZ3ZBRHEtZEc3ZHhwSTNGTlU3VVRkLTlESHdKZmRHSWRlN1FsWF9aZER6bng4aG5QYU1ESWs3SUlCSl9wMmIzNHhZTnhxZ0g4alJ5V3gyN2M5eFZiQzhVRXZOODRudlFnSzBaZlR5NUhxeFJFWXRtbE9mVnhpdlR4TGxr?oc=5",
+      "published": "2026-07-22T18:22:02+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -371,15 +357,27 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice",
-      "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5",
-      "published": "2026-07-22T14:00:34+00:00",
+      "title": "U.S. and Saudi Arabia sign deal that could allow civil nuclear program, contingent on joining Abraham Accords",
+      "summary": "U.S. and Saudi Arabia sign deal that could allow civil nuclear program, contingent on joining Abraham Accords CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90bnlNMncxY2k0TXBfbHh0dU9MZXFuemo0Q3ZTTXhObFpmd3ZGUzh3WVVfa0lDZTJOa3lxNmtfV3gyRkhtWm02bjVVdm1tRGx4M2M0MDkyYnd2NFpoZmlVY2xVV2E4UjYySG5lTlVjbFZPSTkzdWc?oc=5",
+      "published": "2026-07-22T13:53:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Leaked training videos reveal Todd Blanche's #1 Epstein files priority was redacting Tr*mp's name",
+      "summary": "Leaked training videos reveal Todd Blanche's #1 Epstein files priority was redacting Tr*mp's name Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFZoZjdTQ3NvWTM1ejBDOXhna1ZiY0tZb0ZfRDdUT2EwQkh4b2ppQTRFTlVvX2VsNllGY2loWmliWF9jZmZBZlllQ2JEcC10cmwxSWRBNnJzZk42bUxoei13dFVHR1c1cWZ0dThsSTJycUpheENSQ18xbl84cHdYQ1NJOVZEMFh5TzJ3dDJrVVgtSExhQmFiaGx1N0ppS2dEdnFUOFNWYlM2d2JhcGVwWnJpSG4tSTlocDlzdmlSeXRndDZScEE?oc=5",
+      "published": "2026-07-22T01:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     }
   ]
