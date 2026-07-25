@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T07:29:11.212194+00:00",
+  "updated_at": "2026-07-25T11:47:59.451155+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,66 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+      "summary": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczRiQmJ3SUp1TUJNbnNVa2I4ME5TeWFON3BtaGVySWFXdExrUkI5RnB6VDJIWGpZdmVOcUZCcDY4ZVY4eDktT3JVQXhqNklPUjFYdUhyQXRTV1R3NG1SSVEycHpJeFJaYWNaNElqb3JsUXVEY2xTOXVzV1dkV184T21zU09Ca2NZV0ZSSm1PclNmQWxXVnJj0gGcAUFVX3lxTE9BNXJWRGsyeE1Ta1FqT3RqdklsQWo1TFZrSTExWDBGaDluY0NFdzZJZFEwSHp3VWFtNmFaV19xVmJ1YkM0REhmVDhGcmFwQkVMYzd0UVRxQVZFOGNjWHFFczNhelNheUpqT3RpVVBYbzJMRGNuR1ZsRzZ6SkVpTkRib2VlbGhBeG5hbGhmdEYtUkQ4OUc5LTJoRGJVUQ?oc=5",
+      "published": "2026-07-25T10:22:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "India’s education minister resigns after days of ‘Cockroach’ youth protests over exam paper leaks",
+      "summary": "India’s education minister resigns after days of ‘Cockroach’ youth protests over exam paper leaks CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkFHUXByUnhxZkdvOTRaSmpwb2NLNGR1ZFVkRWJzZ3hqNDg1RHc4Slg5bU1XdFplZEptejk5anhQODFyd0tBQk9zYTlqbF9pTUNCZEVRTHl2OHpPWTJsZEdIYjl2b0pObXByRFpfeG4tR2pIUzBQV0pKcFZXODh1T2NHN0Q?oc=5",
+      "published": "2026-07-25T09:22:59+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Maine Democrats are poised to pick their Senate nominee at an unusual party convention",
+      "summary": "Maine Democrats are poised to pick their Senate nominee at an unusual party convention CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWC1JeTJSVXN0UlZfeGN4ZUVuR0ZwTTlKUW9XUFBLZkNzR2t0Ym9OTHltaWpyOHVJWWVLc1lFWkdCWDBKWm1TRHREbWtKcjZ0MUN0TktLTEw4NzM1c3ZoTGo5dmJ4V3BXU0k1V0RpYUtQWEJUZno5enlhRDFDbUhHeWNzVnBqSXZhcTNaNk93?oc=5",
+      "published": "2026-07-25T09:00:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "summary": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins NPR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RR2ZJbTBwRVVLTWwxeVZ0dmx4bUc0NXFYR3lBUUdITFBLVlZuWkxsaTlLNy1kT3pHNEp0eDVfVGljWVpFdFN6Q0VlR0MzWTNUSDFPcUxKSVdFRHdHaTNVYWg2YzhHWWNhME5UTEp3S2g4TVVXMG85SG9pSDM?oc=5",
+      "published": "2026-07-25T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump is hellbent on tariffs. Here are 5 implications",
+      "summary": "Trump is hellbent on tariffs. Here are 5 implications NPR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmVHcGU2MmNRQ2RFbEhiVktSZWFaUS1CVXNpeWZOYmVuM1ZXVkU1azJQNzRjZ3dCQWVjQUtuaEt6cHVhOHVfdVIyYWlTSU81THltXzJwR0NMTTItYk1rR25vcGlOem5uSHc3V3lvYXpfajBlaDY1N3d5c25jckZ0cHpR?oc=5",
+      "published": "2026-07-25T09:00:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -68,39 +128,27 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "8 found dead in Michigan home after fire, some with gunshot wounds",
-      "summary": "8 found dead in Michigan home after fire, some with gunshot wounds CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43VHNNTmcyTERlcWgtaFN6QlNzU01BVkozekNKZC1mNXotNWc2cmszc3g0X0NfM1BfVHRaeDBjWWNzWnllTHQ0ekQtOTdaVVZ6aGtiN2FhU1d1VnVpQmhlU2RFbnpFYVRGWFBqc2twdXhCTzV6bmIycA?oc=5",
-      "published": "2026-07-25T03:23:00+00:00",
+      "title": "Tony Romo arrested and booked on suspicion of impaired driving in Milwaukee",
+      "summary": "Tony Romo arrested and booked on suspicion of impaired driving in Milwaukee NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnp6dzZ3bW5QMGkybTA0R1RuN3M0eXlCTzFYNHFHbC1pM2pMVkxETzQ3ZVh6b1hkNkRnb2JvM2o5SkZNaVk2cFAwdk81UEo1NnVpRmdXQnlvZVlnU3dSWmpJcm04MFdYWmhjb0dyREVGM3pTVkxYZFJuZEJNbFZjM3hNTFFKa1hGRzBTcWRBZWhNel9wdmVFUDFiMjRBMl8yRjhWRUZXbVQxaEFuZUE?oc=5",
+      "published": "2026-07-24T22:22:37+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump orders signs be installed outside Smithsonian museum warning of ‘inaccurate information’",
-      "summary": "Trump orders signs be installed outside Smithsonian museum warning of ‘inaccurate information’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0RkNGVydU9NMzlydkE5U1ZsWHJ3Ni1qcWNYNURLRmVPcHR0YkdYX1FmM0dIcUFZcndEZDVHNU4tazk5NndBZmZuN2dpdWx5MnhRdkN1RXdobVlnOWRXVzlnb0VlRkhlM3BLZU1ENWFDanFTT19kZDRjNlE3TEZLa25sMl8?oc=5",
-      "published": "2026-07-25T00:17:00+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Rosie O'Donnell: \"It’s very strange to have supposedly the most powerful man in the world be your arch nemesis\"",
+      "summary": "Rosie O'Donnell: \"It’s very strange to have supposedly the most powerful man in the world be your arch nemesis\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjBKbjc5NUFzREFGU3pIbnY5bU9JQTNmX2x2NFR1OGhHbjhVd1l0NDZYODBubGNCSk13NzdibVVTT1lkekhsVnEtODZzcTlJbnBucmE1SHZwU2E1ejdFUXRKSi1UVUE2T0VBM3BxdHFFMmFPOFd1alQ3YUtna19uWU1SWkxPLXlwVS12Y0prbWhvRlVqbi15SHQ5blBCeF9TSXJhcjdzT0QzWUhqZ0VieTBDS0VSa3NoMlNKQWpGMG5oQjRFRTQ3dmdxVlBkTDFKZTBfbHlITQ?oc=5",
+      "published": "2026-07-24T21:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-      "summary": "SpaceX launches massive Starship rocket in first test flight since IPO CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGdkTDRLMGdfY05vSGZrYzl4bXFNa0I1Z2RoUU1MMmoxbFNmd2NKV2tBcnNSRXpaMm0wUGJaZWZqZGk5RkI2dmh3VVlfMHd5dVQ1bWdFQ0ZkRmJMaTZPeEZ4WmVrQ3JFd2I2X2xWSVI2ZGVyLUhsWUpZZ0tCR3ZHOWFZSDBiQmF6aF9vbXVmeTNRTk9GRXpsU3NUZ0dIMjhkVmR6X1dnRk15TlnSAbABQVVfeXFMTUQzSm1BdGdMUGFjWlJCb3h4QkE0ZHZKUTdIMTMwQ1VUN0M5T2o4cXhVRktHMXdrS0llRTc0SUpkdGxtOHB2QzhTdnlwbUZTMHlqYk9QUDAzdl9vNGFkU2UybVk1NzU2X0J1eUU5Q2tVN3U1V3EtSmh3Ni1DZlZIVGpMQUFnWEZ0RjNxWWE3SU5aOU1YN2JkLVpyUm5YMmZBM0xYZHFRR2E0OG94QUVsRi0?oc=5",
-      "published": "2026-07-24T23:57:33+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -110,31 +158,19 @@
       "title": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case",
       "summary": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjBwYm5TNEQ2LUtJdGptRS1Va3o5aDhYZUk3ZE5wZ2hHdDlSZi1lQ0VOZW1zZ0xMcFFVN0pvYkp4VktmU2FfSWNKTUNCTk91VTFlQy0zelp2bDRjVmNhM211UVJLSWlUakdObDJFUTJ3RERDTl8yUy1qbUlwMmVCSDlobXN4a1h3VWk0QnM2TFM0enJ1SW5EbXo2WUM?oc=5",
-      "published": "2026-07-24T23:51:38+00:00",
+      "published": "2026-07-24T20:00:43+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
-      "summary": "Paramount says it will pause its Warner acquisition while legal challenges play out NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR01hMzkwdTE2Y05TNDM1eVVWYlh1OE9TS3JDMTRvMUV5V3NneHdOZktHN2tRME9maXRKNmZFVXBJdEwxY2FfOG5mQU9GQ05IelNXZ28zZ293SWdmYWlQTUJOTXR1SGJJeDkyU3dCYjFKWHVLakJjV1AyQWtxclpXSVFEVF9wWXU1TWxhNnY2Z3JTQQ?oc=5",
-      "published": "2026-07-24T22:26:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Democrats approve new primary election calendar, putting South Carolina first",
-      "summary": "Democrats approve new primary election calendar, putting South Carolina first NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU25QYjhIQVRVdWxyNkJ2dnhCY1MyaW93N3FQcGZXLWFEX0NQWUY4Uk4tYXZOaE0ydVc3SWJ5YWZHeENXQ3A4TUFqUVBJSmFaRUQyZ2hNLWNHY0NtUjFRZEs0R3lfb2cxQjRZT002UUJNekk3VTRKZXRuSUpmRUwzaUFkRld6dzZERGRMM1diTG9DRFBJNG9XRUpn?oc=5",
-      "published": "2026-07-24T21:50:41+00:00",
+      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane",
+      "summary": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
+      "published": "2026-07-24T18:57:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -167,10 +203,10 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "'No child has two dads' billboards spark outrage across rural Ohio",
-      "summary": "'No child has two dads' billboards spark outrage across rural Ohio Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54TUpYZ1dtdFdfcmVuTDlPX0pRNFJ5RzlwSUZPRlZVc1FYYl9ySlBmZEhUTzNDZkpRbXZZTTBWZTNQRVdwVmVrZkVKVkpZNGkzSFNPWVhiZ3pPWU9xdVBKcDNCQ1BkbFg2ZDBYNV93eFZLZ0xlS2c?oc=5",
-      "published": "2026-07-24T16:33:31+00:00",
+      "title": "Andrew Tate's arrest shows the manosphere scam is unraveling",
+      "summary": "Andrew Tate's arrest shows the manosphere scam is unraveling Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ockhWSVNUa2ZhakxVdHgwenlMVTdadkVzNjBuNnNhWGIwT0I2SF9IdTRyeHdpUzh6YThURDdhN2xRX3dTbXVCZWF3UFJEYzA0YV9hZkFta2pTRjZBRTF1RXl2THZWWlBuXzBKVGRwY2psRzExRUE?oc=5",
+      "published": "2026-07-24T17:40:38+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -179,24 +215,12 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Donald Trump tried to insult Jon Ossoff with Pee-wee Herman. The joke is on him",
-      "summary": "Donald Trump tried to insult Jon Ossoff with Pee-wee Herman. The joke is on him Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeGZTeE54MEhGY0xIcW5Nb29WQnpUZVNXdEtXUVFxeFpmdGd4TWRobk1GdWR3dnNtdVc4bWdjQ2ZObXQzRlBIQUloTXNWcGNidWJkeGVPNTlLTDBIc08yZEVCeVQycUE?oc=5",
+      "title": "'No child has two dads' billboards spark outrage across rural Ohio",
+      "summary": "'No child has two dads' billboards spark outrage across rural Ohio Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54TUpYZ1dtdFdfcmVuTDlPX0pRNFJ5RzlwSUZPRlZVc1FYYl9ySlBmZEhUTzNDZkpRbXZZTTBWZTNQRVdwVmVrZkVKVkpZNGkzSFNPWVhiZ3pPWU9xdVBKcDNCQ1BkbFg2ZDBYNV93eFZLZ0xlS2c?oc=5",
       "published": "2026-07-24T16:33:31+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane",
-      "summary": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
-      "published": "2026-07-24T14:59:15+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -207,18 +231,6 @@
       "summary": "Cyclosporiasis outbreak expands to 9 states NBC News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGNfSTlxaW1kMWpiMGZrWFVlY0pjV2ZGM0M2SFlCSnZqZXdrM2w4eHJuU1hiUkNRRHE5TU16bHdCdk84Yk9qdGN6eTliaGkwOXF6czVJUkotanZNY2ZtOXNYSmdxTV9BREhIeUNSakNNM000Ym8zTC1LaUpnLW8xYVFVOEktZlZXLVNNNDhLNmI4ZzNEazZFT05n?oc=5",
       "published": "2026-07-24T12:32:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Tropical Storm Bertha weakens after bringing strong winds and heavy surf to Louisiana and Texas",
-      "summary": "Tropical Storm Bertha weakens after bringing strong winds and heavy surf to Louisiana and Texas NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkVEeHpEbnRvMzF1UmQ1d2NzOVIzVXFMcHFndkhPYXVYeEpnUWNjREVTcVp3WlJzMGxURWV5cGhRT1piMzZ1Xy0zc01WUHdDeGplRWM0RjBBVEdrQ0ZTZUY0cUlwYUFfbHNkbzBnVUVteGRsVUxieDlYWVZBZHJPZm9LOXlPdVZhYXdiejhXaGxxVnRjd0J1Q09VbmQ4VFJJYnFXYkExUWg5cGJTNUpfMkkyOE9teVFRNTVzcA?oc=5",
-      "published": "2026-07-24T08:18:42+00:00",
       "beats": [
         "Politics"
       ]
@@ -280,18 +292,6 @@
       "summary": "WATCH: The hot & messy gay dating show we’ve been waiting for is finally here! Queerty",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOURTRUVBSzBpb3lGOTRHOWRObWJKUFFBVXlVRG1aQ1drXzVNX1NpQnJVRm5HbC1qT1lDdXRrc1BSWnRGTVZuUFJuT3JvN1EtUlJjSklXQU1HcHVrZEF4TjZtQ2FpMWtRcms5VWtvblJRa3ZKYmszbE5wSmNLcm1sQm9YU1Z3TEFnWjJoX3RKcnVudzl3UTlWYlhIT2J3Wll3SlhBUlNXd0wyUEk?oc=5",
       "published": "2026-07-23T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "What do you mean there was a queer Sherlock Holmes spin-off in the 1900s?",
-      "summary": "What do you mean there was a queer Sherlock Holmes spin-off in the 1900s? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVQ2X24wSDhfZVBPZ2RhNGw3VDV5bnJEN2VPWDl2ZzkyV3cwTXBCdlBnYWt4MnREdkNmT0NnY2NGMkdpRmVLYXBpRE5LQ0Z0M2tnWFY2STVETEJyLWRON1pSeDhCblFJS1ZDSDVWcEFyZnlEVTE5a0RaeWJJM0FfZUxVTW91VWlqUXNSQ1B0QjNqLVdlaUhRZENyaG5tbWxyTk5GNUhFUFlLQQ?oc=5",
-      "published": "2026-07-23T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
