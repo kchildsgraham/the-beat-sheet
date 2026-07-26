@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T12:47:14.199836+00:00",
+  "updated_at": "2026-07-26T16:31:03.840566+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
+      "summary": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5",
+      "published": "2026-07-26T13:57:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Ukraine sees highest civilian casualties since 2022",
+      "summary": "Ukraine sees highest civilian casualties since 2022 CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GVGdBWnBZQ19vSHNuamZFZ2MtYV8xazNxNzFwODdXa1FnY1Q4REpBRHNkbUgxV2t1bWdvc3VSZzJIZ0VZbVZSdEZUbFp3T1pqdGh2eDRhaUpSWVJrZ05ONGRvWXVKZEdlbnBJV1NkWkJBY1RMczdULW93?oc=5",
+      "published": "2026-07-26T12:32:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Berlin Pride ramming attack believed to be act of Islamist extremist terror as hunt for suspect continues",
+      "summary": "Berlin Pride ramming attack believed to be act of Islamist extremist terror as hunt for suspect continues CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDVJSkNBeVM4Sk9sQUtBbXd0S3BFTzUwNUtwdWJZMGRCWGttS3JoZVMxeFU2b0tkd1F5ai1JT0xtT0NhREUyazU1Nmc0ajdmWEhlRWdyT0Z2bXJlWkdsWUZXbm5GQ1h1Q3J4ZVEwYmdGTUlURVZpRnpNeXNDeGpyVW1mcDJDTmUtWXhKZTZVWGZzelhxbE9mVjk1YXFiSmdHRjJ2S09UU28?oc=5",
+      "published": "2026-07-26T12:04:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -32,6 +68,18 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Earnings playbook: Apple and other megacaps lead busiest week of the season",
+      "summary": "Earnings playbook: Apple and other megacaps lead busiest week of the season CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTRkRkZaeWpzZ2pudU5pdEZKN2Y2b0xaVDRTMlM0blkwVU9XbEExUVdtVE5ZVjVGdzJ3SUxsQ29BRnNhcmdnOGZRMGVtS1kwbzNLb1hJalZreG9ac1M2eGFyU3I5MmNJVzd6RUcyYjd3N1JrcHlpTW9MVnpnbFhjYTJSckROOUlQU1BQY3p3NGNVZjNhdXhyVnN6VjFiT19zOHdpbExWR3lyOVU?oc=5",
+      "published": "2026-07-26T11:31:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -39,18 +87,6 @@
       "summary": "Sunday Puzzle: How It Started NPR",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VVXR5OTJjemE4Z1JqWVVuaTBJaXdYaFJvTHhIdnE5aFJKUmRpVGh3NGpJMXZFY3dHQzMxU1dGTGRPcHh5V1JvU21XTUNHeGxNRjVac1AtS3B2WVJBQ2F6RndVLThrVEowMkVQSDYtOFRZTHhDb01JaFFQWQ?oc=5",
       "published": "2026-07-26T11:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Millennials are trying to make minivans cool again",
-      "summary": "Millennials are trying to make minivans cool again CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOE9LYnYwdmVQZzZ6NGJmbEMzdnU0b2lLWUUtODNmc3pHb0hvSUZFN1FrQ1Q1ZUZXSVdyMVlmREttcW5WQUZSQjNqU2xHQl9OSlZsSjVqeDI0Q05zb0oxb1RDRlZSNGZtSkwwU0E4SXhKSjhTOGdWVm93MnpLTjFZSEtUSkFQZURjczB0cFBQaml0THlN?oc=5",
-      "published": "2026-07-26T10:30:26+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,10 +107,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Massachusetts Democratic Senate primary sets up a battle of generations",
-      "summary": "Massachusetts Democratic Senate primary sets up a battle of generations CNN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0VJVDFMSkVOdXgwWjFBekQzUjVUU0cxalZ4SDhWY0RPMW1lcnhVS19JRC13TkNaVkVlTlVhaURxVnpVMktBVDZyOU1oQ0pqLWRsRHFNNW5FY2FWWUZLZDA2Ym9ndWpMVEh2RHV5QVBWM0lmcHI0ZXZXdk5pa2ctX2lkeDJETGxpWk9BUHN0T0lRWHQ0UXRrNm9n?oc=5",
-      "published": "2026-07-26T10:30:25+00:00",
+      "title": "Millennials are trying to make minivans cool again",
+      "summary": "Millennials are trying to make minivans cool again CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOE9LYnYwdmVQZzZ6NGJmbEMzdnU0b2lLWUUtODNmc3pHb0hvSUZFN1FrQ1Q1ZUZXSVdyMVlmREttcW5WQUZSQjNqU2xHQl9OSlZsSjVqeDI0Q05zb0oxb1RDRlZSNGZtSkwwU0E4SXhKSjhTOGdWVm93MnpLTjFZSEtUSkFQZURjczB0cFBQaml0THlN?oc=5",
+      "published": "2026-07-26T10:30:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "summary": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXhtOEFQVWpGXzFMN0xtQWxZeUpQWU1fTTlUWldRbXZWM01HRjE0ZmdNZkxrR1RMd09HVm5ZYVZSSjdfenFxZFZQMEhJUy1WcFQ4OTRPWlBqWC1RY0N3Zk9EeG9ySlJVVHlSOVkxRE0wS2gwRWxBOU1MajFwenVYUjR3bmJLY0psN05QeFdvOGdKdWdlUnBHRngzeWlEbEFuajZLWDFB0gGrAUFVX3lxTE03SVdWTHpmb3lzQmVadE9OS29QMjlOUXN6MXRZamZFdHd5MUFtYVB4WVBCa1Q5Wktfc0R0YTdBa3BiZm9VaWlMRlh4RXptbFEwVnR1LXd2MTlYUFpoRF83YUpOaXl4b3I1UGwtTm1aUVBYLVFpa2xaTjBOQzBwZ1puVm5MMm1HTUVpeXBJSElUQ1dEUGdNbW9TS3A1azQtd0wyNERlbUpyRVEtYw?oc=5",
+      "published": "2026-07-26T10:14:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,10 +131,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Climate change is now threatening a pillar of childhood: summer break",
-      "summary": "Climate change is now threatening a pillar of childhood: summer break NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWltM1R4TVN1OFpqOWcwSEVvTGRsTmoxRXZyUk5fclY4Tm5SVl9tY3lxSmZRZ2ZkTko2clNyOHhEVk5uY0ZNQlRkcjUtWldGbk5oRlhpUGhEd254amdtcE5hUTFxdG5JSk13c09PM1VHMmZZWTBmV21TdFBudktZX0o5S3ZDajg?oc=5",
-      "published": "2026-07-26T09:00:00+00:00",
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "summary": "Lebanese displaced by war turn to satellites to check their homes NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbVN5a2Qzc1hNRG1RNE5wSWJHLWRFdU03Nkp2NlZtT3FkOE1wWDhOV1BQZnJLVWctLUtUcUE0VWZabEQ0ZzljamV4UV9BSXVFajBEUzFWVkN4VFE3ZUZOQV9rT0tTcV9OTWpqdFBJUS01X1NGLVdGNHNZMUd5eklhQjVYOA?oc=5",
+      "published": "2026-07-26T10:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,30 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
-      "summary": "Cocoa prices are easing. So why is chocolate still so expensive? CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTlGSENaYkRad1NndXRuX2Y3cWt6MWhGVkJXRDBtSVpxcjVYUElBZEs5b2lRajA5SUZCdWQwLUlXNWk3YndsMjc0bTU1cWVfNmh1RU1RTGhCclFUY1pCX0ZnTEFsNWtjNWV1MHl1WlNNNzU3MkxQSVIyMVItWm5tVUdZMWl3VUoyLUhNSDQxX0E1d9IBlwFBVV95cUxNRjRpdHBUMGhXby15NG5xRFlLTURIMUJfX1VrcEl0R0RyMVpEeDJQcmZCRW9QWmlJcm4tZ1V4VjY2M09sLU8yanlJdFo5b1EwRk5uY1VoSW4xTmxSa3o4YmpuQ19ZREgtMnlMNHc4TmxIQkZJMFpwLWV5TkdRTWt4UEltQXRrQ0FOd2Z6aHI0bmdMckFmRWRv?oc=5",
-      "published": "2026-07-26T05:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-      "summary": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5",
-      "published": "2026-07-25T22:19:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -164,25 +188,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. appeals court rules Trump cannot implement mail-in voting order",
-      "summary": "U.S. appeals court rules Trump cannot implement mail-in voting order CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2k5eVJndXBqeDZGb0tjRlZkZlhyWlJNRHFZMHg5WWxENGdCUjlHTFZQQ05MalVfS1p3ZkNnS2xNWWVRQmhGamxoZ2ZWUEtDVUtadVJyZFEyVWVJT2ZJbW1HdnJBOHBQVjVobDZ4TG5QTEwtQkRDWjc5Uk9qcXFrNnlfZVU3T0FuRV9GOE0yeU9rWERjbHluSllNR1p2QjhFRjlQSlV30gGrAUFVX3lxTFA2ZE9DWUFleDBLdWNRck5ha0gzMjlpbzJ4RmJFTGQ1T0tXeXoxNlgwMkREZWgtZDhZN3JUM3Bfc2FaRWd2Nml5ZW1weXRwZDQwdy0xRHJTSzcyYUpCNnJ2ZUN0UHFrcnNjVThES1d3YXhFdlB0VVR2bDRQLWtTWUtRdU52MjlBVF9yQ1A5emJVNnB3TFdLTGNzYWdZX0gwaEkxY202TWFBa2hrcw?oc=5",
-      "published": "2026-07-25T20:12:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
       "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
-      "published": "2026-07-25T20:07:33+00:00",
+      "published": "2026-07-25T20:07:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -246,6 +258,18 @@
       "published": "2026-07-24T22:13:11+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "“I’m sick of this!” Mike Johnson’s MAGA mess just went from bad to worse",
+      "summary": "“I’m sick of this!” Mike Johnson’s MAGA mess just went from bad to worse Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1ZYMjJvOGJ1SVNkdTFaSzNoNHV5RUFYUGZsYUtnUGZ5cThnamhWOTZuaDhXbXhxWkxyc2Z6QU1FTF8wUUNEMnBCMFFMZVZGdlBGVU4tVlpNYlNJb2d4RlZ2MmlscG84MUE2THJZMHJRQzJfS09xTmlGUWNSQzlmeU5UVHBFeEZGcmFKQmRFa05aU2Z2dG5fNzRMTkRFTWFkZkE?oc=5",
+      "published": "2026-07-24T22:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -321,6 +345,18 @@
       ]
     },
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Test yourself on the past week’s K-12 news",
+      "summary": "Test yourself on the past week’s K-12 news K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxZWgyMkRBVDlXRG84NWwzZThQa3lGSGNSc09uTVRVMjRNYnZaeURDVXU4WnROWnhVaE5KTjQzajU2ZGs2WmJWdTRfUEtzUWVieTQxV1FlUXlJYl80OF8xOWszV3FTM2FDd2VuOFN3aUlfOEJoSHV6SHJHZFhvdw?oc=5",
+      "published": "2026-07-24T13:20:58+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -342,42 +378,6 @@
       "published": "2026-07-24T07:11:18+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Thieves steal $1,000 worth of meat from Livermore restaurant during Little Fire evacuations",
-      "summary": "Thieves steal $1,000 worth of meat from Livermore restaurant during Little Fire evacuations CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOW1YNlVaUThhNElmaEtNMnQyMHpSTUNmLWVCTDRqRVdGb3AzM3FDTnpkSWVia2w2TU9ZelUtZVFRazRUNXczVUc4Z1dnUzY3Ui1JaDdIeldQYzlRamF3NmtUalpKMDNmOG1tTE55VHBGWXlQd1BTVkJ0NE9lV0JyR2t5WHN1WTVQX3g4cFQxbjljV2p0YmNwYXhBQjZ5ZUE?oc=5",
-      "published": "2026-07-24T06:19:01+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "3 charged after Concord, Massachusetts land stolen, sold to unsuspecting buyer in 2024: \"It's been a long road\"",
-      "summary": "3 charged after Concord, Massachusetts land stolen, sold to unsuspecting buyer in 2024: \"It's been a long road\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm9tYkFVbDhkbHIwb3dqOGlLbDQ5T3RsUXljQTZta2dzTmVISzd0RTZzTXlGZmlvUDRyYVZMQWpMX0VkRmp6bUV1MzBNaFVmem1hTmh5YS1DYmZFdUtfQzlTRE9uclNfenlfTFJHYWNSOUE3S0hwZ01GdmRTQ0xiVWxIR0w?oc=5",
-      "published": "2026-07-24T03:19:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "D*n*ld Tr*mp’s BBC lawsuit just became a major problem for favorite daughter Ivanka",
-      "summary": "D*n*ld Tr*mp’s BBC lawsuit just became a major problem for favorite daughter Ivanka Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnhTdndaQkJ4V1BqbHpZdktuMVlINzVhMnJDMl9yWDNTN3Awa2YzQmh5WEkwT0IzMDVObjRmdG5qclMzazVxOHcxdGotS0ZFY1ZIcTZfUmFrT2RhRDF2RlJmM3J0Q3ZlNXRoN2l5d3hoMGJXMkZlM2ZyM3Z1aEc0LWJkZEtIOVVpTXRxSzRlR2JQcjY0eUdkUGhNam5iVnIxYmJfNTlOckk?oc=5",
-      "published": "2026-07-24T00:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
