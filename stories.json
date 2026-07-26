@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T16:31:03.840566+00:00",
+  "updated_at": "2026-07-26T20:33:06.051633+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-      "summary": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5",
-      "published": "2026-07-26T13:57:00+00:00",
+      "title": "Suspect in Berlin Pride ramming attack shot and killed by police, authorities say",
+      "summary": "Suspect in Berlin Pride ramming attack shot and killed by police, authorities say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDVJSkNBeVM4Sk9sQUtBbXd0S3BFTzUwNUtwdWJZMGRCWGttS3JoZVMxeFU2b0tkd1F5ai1JT0xtT0NhREUyazU1Nmc0ajdmWEhlRWdyT0Z2bXJlWkdsWUZXbm5GQ1h1Q3J4ZVEwYmdGTUlURVZpRnpNeXNDeGpyVW1mcDJDTmUtWXhKZTZVWGZzelhxbE9mVjk1YXFiSmdHRjJ2S09UU28?oc=5",
+      "published": "2026-07-26T20:02:32+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "summary": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWIxSEtKRWdobk54MEtGUjhEaVlKZy1NNnFwTHdQa0hROUI5T3MtNWk4LVZrN2s0bGUya1NJaFo4SlNYbDBfQ1RhMGlkN3FKZzRYMzdrMzJjSW9qZmJZbXdzZWw3OUo0UC1SQ0gxQlo2R3RmbnVFY0R2UGJOLTJoXzlGbjBrRXh3VUl3d2hFZWJybTd6d0duOU55NA?oc=5",
+      "published": "2026-07-26T18:13:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +47,46 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Ukraine sees highest civilian casualties since 2022",
-      "summary": "Ukraine sees highest civilian casualties since 2022 CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GVGdBWnBZQ19vSHNuamZFZ2MtYV8xazNxNzFwODdXa1FnY1Q4REpBRHNkbUgxV2t1bWdvc3VSZzJIZ0VZbVZSdEZUbFp3T1pqdGh2eDRhaUpSWVJrZ05ONGRvWXVKZEdlbnBJV1NkWkJBY1RMczdULW93?oc=5",
-      "published": "2026-07-26T12:32:45+00:00",
+      "title": "Iran war casualty count eclipses 600 as Pentagon quietly changes accounting",
+      "summary": "Iran war casualty count eclipses 600 as Pentagon quietly changes accounting CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KbmMzOXJnRkREa0ZhNjVKdHl2T2tObkZvN2dIQl90aEE3eUpQYzc3MlZkeWxkUmpfNHN5OFVZSjlvaFZYRFYyRG9kM05mNkVNMm5Sc3pNWk5BaWNfX05wb2hiTHBvYWNNbm9N?oc=5",
+      "published": "2026-07-26T18:02:11+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Berlin Pride ramming attack believed to be act of Islamist extremist terror as hunt for suspect continues",
-      "summary": "Berlin Pride ramming attack believed to be act of Islamist extremist terror as hunt for suspect continues CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDVJSkNBeVM4Sk9sQUtBbXd0S3BFTzUwNUtwdWJZMGRCWGttS3JoZVMxeFU2b0tkd1F5ai1JT0xtT0NhREUyazU1Nmc0ajdmWEhlRWdyT0Z2bXJlWkdsWUZXbm5GQ1h1Q3J4ZVEwYmdGTUlURVZpRnpNeXNDeGpyVW1mcDJDTmUtWXhKZTZVWGZzelhxbE9mVjk1YXFiSmdHRjJ2S09UU28?oc=5",
-      "published": "2026-07-26T12:04:00+00:00",
+      "title": "Graham called yearslong push for war with Iran ‘the best thing I’ve ever done’ in new footage",
+      "summary": "Graham called yearslong push for war with Iran ‘the best thing I’ve ever done’ in new footage CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUlZZ094RHFXVUpiajd6OXZudjE3OWVaRVNXUFZYMnc0RTQ5dEo4ZHdYZ0ZaSXQ0aHE2eXBiUGl3c3poNUVlUGFZa3hpR0FzNGl5YkVrdWlJbUNtZzJUNGV3N2JNZzFEVlJMVUdnTlBJRzA3TVpVRnNzcTNPWVBvSU0zTXhMUQ?oc=5",
+      "published": "2026-07-26T16:20:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘Remember that?’ Trump again asks Americans to recall something that never happened",
+      "summary": "‘Remember that?’ Trump again asks Americans to recall something that never happened CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zWVpJeVdVUVVubUFvblpsbHpCejliaUtuaDctMi1ObkprWnAwZEF1b0VFSHB5YmM4ZjJZaTlNcVlDaXltWG90SVlMR1ZqZXhURDhPUzdVNmZoNFFyLVNld1F0QmxzSjN1dndkM0xhWEVqclJiUjgxOVpUNA?oc=5",
+      "published": "2026-07-26T16:00:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Obscure '90s romcoms, speedo-clad hubbies & steamy smut: Gays reveal their all-time favorite love stories",
+      "summary": "Obscure '90s romcoms, speedo-clad hubbies & steamy smut: Gays reveal their all-time favorite love stories Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXk2ZmZOeVNqdHFvamN3VE9MRXgxMmNxMXo4dkRtMjdGb01PUUtvTV9ubEEzWGppRHB5eVp4M0REeVpnczQ3OXVGTk5ucVNLX3NBbnNSNC04SThrZWVma3kxWGFpRXpmVU1RRm9lQm1oM2tKVGpTajJSS0dzVGNHZ19zcmkwVHZtNVdtRWVfUWRxM2d3X0xoNEpFZVZ1V2F4dTRad2NCZTJkSExXZUthNUh1MkVhTjR1ZERfRDZJazhHTm43SVNWSjln?oc=5",
+      "published": "2026-07-26T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -59,10 +95,34 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
-      "summary": "Top Wall Street analysts back these 3 stocks for their long-term growth potential CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamN2b2FJUWw5ejF6RDBuRmczckVEaGlRb3Q4TGlTSk9hUmdxV3BOcnlvT0VyQlVWQWw3azkyMkkxMlctMDZLYVhCWlc3eGM4alVUSV9HN0lnLXRmRjBvU3JHOFc3aHYzMi1XQVlvOUpfLUx3dTFLS2xVcE4ydjhVdDdCMGpPaVBVbEs0VkhyMExqTDBCUWJveTV2U1R6NVBUNGZ6bTBVSEM0UdIBrwFBVV95cUxQa09ySkZJQ0VsYzNSVzhTZmtqanNkSWxKR0pJX0Q0a043Rjd0Y25HTDR4UEFTa3pnUUNlV0RfSzI1ZXNaT1lzS1pSQ0drS3E1S0ZSZ2Z3V2Y1aUUtMlJpaXIzangydDBVcGptYlhCVWh1dF91TXAyeDZvSjlDREVoSi1JNDJmTXRNTFFtWGJpLU9IbDJrbXQxV0R1bEdRbjl2SEZrSU9wamFnMUR2OVBR?oc=5",
-      "published": "2026-07-26T11:33:11+00:00",
+      "title": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+      "summary": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON3JpM0pTSW9qRTdTcTBZc01XZmV0UjV2UTQzTkVfVXJrRm5ZN3hmVVNBUlJXMXVPLXpuM2R6T1loc2Vzc0JIMmJaZHdXRzZDc3ZUQXk0Rm5QMkgyWkdVTWNMdHpTOEhyRy0wdnIyOGNKVjUxYmI5X1p4cWxzaF9wRXFwYnZ0Z0liRkREbmlsaTHSAZYBQVVfeXFMTnZFa1ZSRUcyN0FmbkdHTENwZHh4UnVKMHRIakZYckdGVTRiWU5pM3U2cHRQNTczd0NTU0pCX3Z4SktYM1VGb1cyU2llVlBYVUxFcXM4U3dVZG9reTdjTUdmSS1tSEFaVTZ3RkVab1lGVXVtcjdqVzloakMwM3BaeHFxSGZBTjBMV1hLMWlfTEhxMHdDZkZn?oc=5",
+      "published": "2026-07-26T14:39:55+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The creators of a Absolute Batman discuss their new reimagining of the character",
+      "summary": "The creators of a Absolute Batman discuss their new reimagining of the character NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGVrbnlfMFYwRGpnQXZiTkpVY3NaSkk1UGZrOW1qejJNN3BLYlNrZHJ3YUVQMDlpdjY1aHI0ZzVBRUFvaUFTUXVlcWhreEJseWlwalFKa0FFMFEwZVpfY0NXQlRjMXQ4eDRITWxNR1pRMVd5SjdSUW5uRDBTTUcwTHdyT3dveXFYd3dWQ3g1b0g5djZNdndLbkFBZFo5Mnd6S1B1eHRRUkhuemlPUzc1M3FqbnZtN0YxdllSQ2laWVB5eE0?oc=5",
+      "published": "2026-07-26T14:03:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
+      "summary": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0JpbTJOLVVENGZhYy14WGt1dHNNeFhDMS1ZZ1lpWm01YUxDZFExWVVMZ0hSMUR5V3B2VlQxUFdQdURrWHBudk4wWk53YU43UVRONF9EamZsRzNwXzdyV2ljV3hMZnNmWXhFMDNUekJSXzJWVDJBeF82VG14VzZCNFM2YjFRRXVhak04ZUxNMENWZ9IBlwFBVV95cUxQVHZnRWhLYmI1V0NweTR1bmloWkxwekg2NHhNTlhCTG5rZ2tCM0taeUtRTXFHM2hGNWFxNnNqOGd2QVpXRDRqV1FDWnNoaVdSQnA5TVJTVVdLRV83UktrMVZzU05fNzI1bmdLbFNlekhhQlZYM0hqNTUtRVpUd1VfazFSVFc3QXpnUXdtbjNkR2lsYVZfZ3Fv?oc=5",
+      "published": "2026-07-26T13:51:15+00:00",
       "beats": [
         "Business"
       ]
@@ -71,10 +131,34 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Earnings playbook: Apple and other megacaps lead busiest week of the season",
-      "summary": "Earnings playbook: Apple and other megacaps lead busiest week of the season CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTRkRkZaeWpzZ2pudU5pdEZKN2Y2b0xaVDRTMlM0blkwVU9XbEExUVdtVE5ZVjVGdzJ3SUxsQ29BRnNhcmdnOGZRMGVtS1kwbzNLb1hJalZreG9ac1M2eGFyU3I5MmNJVzd6RUcyYjd3N1JrcHlpTW9MVnpnbFhjYTJSckROOUlQU1BQY3p3NGNVZjNhdXhyVnN6VjFiT19zOHdpbExWR3lyOVU?oc=5",
-      "published": "2026-07-26T11:31:20+00:00",
+      "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
+      "summary": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdU1fUkNROU9hLVh4TEhIZlVtclE0Ql9SSjlBR0Z4RmY3cTdyaUdtTWFsT1gtdUM4Zm9mb1pfWk1tc2tlTUI5UGhKZnRVbnBhZ3dhODB6OGE2RlBpMHlqa0tEVEVmdGVoU3VvbXhSdlFIVFJnUTBPenZhbVA4MnpJMVpnZlUzTWd5Y0ZIUndoVmZpRHdkalNBeUV2RTd0U0tkMUh30gGoAUFVX3lxTFB1R2hncDlhdzlEMnczczRWcWQ2UEdWXzNwOUxSUUdERDNvcHhRR2trRHgyM09IbWdpMGU1anZYdXVVaUhQX0p2a2xFNXBOaGN6ZnNWSEVnZW9HQlhaYlpCblQ1QUlNZmFaYldST1phd1NURC1FbExBWlJLYUpEc0p5cXRORHdVZFFhMndLYjBtREdXQzBLRnlmVElKVG5xWXhsTWd2SXFJZQ?oc=5",
+      "published": "2026-07-26T13:30:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘The Odyssey’ Gives Us the Hero We Deserve",
+      "summary": "‘The Odyssey’ Gives Us the Hero We Deserve The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CRzlSYS1tV1NXRnROYk5MNUYxZXZSYURVc1UyTEpuTXlJZnBKb3ltQy1mNlBwd0RGZ2dWYnlKUEswNGRFVkJqVEpsMnBkU3NOV0pITkRkUVFnN1FjanR6VzRpdnktTXhTa00yMXFqTW9hd3JuUnRNdkdhb3RqY0U?oc=5",
+      "published": "2026-07-26T13:00:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "NASA astronaut, 2 cosmonauts return to Earth after eight-month stay International Space Station",
+      "summary": "NASA astronaut, 2 cosmonauts return to Earth after eight-month stay International Space Station CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlplbkI0UEFYajhQZ3JOZ29xRVNZYUV3SDBScDdNUzJZcmViVUwzU3kzSHJRZFh6S1kzaWlaNUpVdl9VRzYwU0hNQ2luNjJHLWNLTHVMVmtyT1JTMENfaXRHcjg2dmV4TENtNkJ6Z3U3Ny1iVXpwd2huQjRDN0FXbDB3OEJCeTNlOS0yVW1iYUc5YnhZUDhKWWZWaXo?oc=5",
+      "published": "2026-07-26T11:35:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,66 +176,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘Going it alone does not work’: America’s first one-party war",
-      "summary": "‘Going it alone does not work’: America’s first one-party war CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LRTdseWhhMGRUWjRWc2tIOWZETkttejlXb1prVWMzazBKRWZvOHVJLVlfcjVsbjNLdEMzWEUxY1F3czBHaVZpOFFaTUVwOVVsanFqcEFBa0xtN196aVk3ZUdmTEVxU0ZaNVJGa3Q3MFFUdHVS?oc=5",
-      "published": "2026-07-26T10:30:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Millennials are trying to make minivans cool again",
-      "summary": "Millennials are trying to make minivans cool again CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOE9LYnYwdmVQZzZ6NGJmbEMzdnU0b2lLWUUtODNmc3pHb0hvSUZFN1FrQ1Q1ZUZXSVdyMVlmREttcW5WQUZSQjNqU2xHQl9OSlZsSjVqeDI0Q05zb0oxb1RDRlZSNGZtSkwwU0E4SXhKSjhTOGdWVm93MnpLTjFZSEtUSkFQZURjczB0cFBQaml0THlN?oc=5",
-      "published": "2026-07-26T10:30:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-      "summary": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXhtOEFQVWpGXzFMN0xtQWxZeUpQWU1fTTlUWldRbXZWM01HRjE0ZmdNZkxrR1RMd09HVm5ZYVZSSjdfenFxZFZQMEhJUy1WcFQ4OTRPWlBqWC1RY0N3Zk9EeG9ySlJVVHlSOVkxRE0wS2gwRWxBOU1MajFwenVYUjR3bmJLY0psN05QeFdvOGdKdWdlUnBHRngzeWlEbEFuajZLWDFB0gGrAUFVX3lxTE03SVdWTHpmb3lzQmVadE9OS29QMjlOUXN6MXRZamZFdHd5MUFtYVB4WVBCa1Q5Wktfc0R0YTdBa3BiZm9VaWlMRlh4RXptbFEwVnR1LXd2MTlYUFpoRF83YUpOaXl4b3I1UGwtTm1aUVBYLVFpa2xaTjBOQzBwZ1puVm5MMm1HTUVpeXBJSElUQ1dEUGdNbW9TS3A1azQtd0wyNERlbUpyRVEtYw?oc=5",
-      "published": "2026-07-26T10:14:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Lebanese displaced by war turn to satellites to check their homes",
-      "summary": "Lebanese displaced by war turn to satellites to check their homes NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbVN5a2Qzc1hNRG1RNE5wSWJHLWRFdU03Nkp2NlZtT3FkOE1wWDhOV1BQZnJLVWctLUtUcUE0VWZabEQ0ZzljamV4UV9BSXVFajBEUzFWVkN4VFE3ZUZOQV9rT0tTcV9OTWpqdFBJUS01X1NGLVdGNHNZMUd5eklhQjVYOA?oc=5",
-      "published": "2026-07-26T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Meet the robots programmed by kids to speak their Indigenous languages",
-      "summary": "Meet the robots programmed by kids to speak their Indigenous languages NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2NOQ09HZi02MXBIZmVVNUR4cHFuNFI3MDNXZVhUS2pOSTlFekN4OEtxRHktT0JmX2E2UmhUcnV4OGVMMFV2SC1VU3JiWDM2emdtTmxLTGFMdGo1WGlXc2FpYTF4SnlSek1QdTI2SFV0NC14bG0xNHhXNldGVWZ5b0lGS0NwaG16c2lUWVF6Mlp2Yzg2al9mYzRR?oc=5",
-      "published": "2026-07-26T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -159,6 +183,18 @@
       "summary": "Intimate portraits capture grief and defiance at former Ayatollah Ali Khamenei’s Tehran funeral NBC News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWxLUHBvc01TTGRyeHl6a0pIZ0xtSDVDbUU5ejE5RVUtSWM1Zlk1OHl4OXBBMFdBUlV3YkZhakVnTGNUaG9wS20tY2Y3WEZaaTZ0VmY1akJWaEFMNW5VVS1TS1BOUWVvLUVWWVNQRDNyRFc3RlZsVnhWRi1fU0pOVTBvVVQ1cE53NDQxV0JWSDNnR3ZXaXBrLVpyRjB2RXVzQ19tQlBR?oc=5",
       "published": "2026-07-26T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
+      "summary": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5",
+      "published": "2026-07-25T22:20:55+00:00",
       "beats": [
         "Politics"
       ]
@@ -240,10 +276,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "As gas prices and mortgage rates rise, the consumer affordability crisis returns",
-      "summary": "As gas prices and mortgage rates rise, the consumer affordability crisis returns NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTF84MVdISTRmX0pCMnROZmlxS296aVpzNlFkZlBzM0N4Z1Z2OWdWZDBSV0pWOUNpbE1UVUQybWZ5aWdkTGlpSDNJSXJGLTFJa0V1QmE0NVFVVVB6UXp3ZExaeTZKbHZ4V0xFR3lwN1JnT0EwYjN3cUNkREUwdmhmT3MyUXFBXzU0WXRTWDVhMVg?oc=5",
-      "published": "2026-07-25T01:24:00+00:00",
+      "title": "With plans to renovate a D.C. golf course, Trump tees off another fight with residents",
+      "summary": "With plans to renovate a D.C. golf course, Trump tees off another fight with residents NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWR5ZEcwSXBSd3dZeGlPcjRRd3NTWWtLSV9MdGZUcENKNnNUZEZnQ1kwb045YTVpNV9ITkxMd0hLTnB4NURsclR4ckpFU3NvdWI4WnhOb011bVNIR3NwcFZYMGZWUVNza3AzQmdzY1R6dzBMS3o0TmtCdlRNZDFMWkVHSm1EWWlWVlhmdU55YzNqelFtNzFiaDFmQmFCeHFBamtrZ0ZYNzMwd1FP?oc=5",
+      "published": "2026-07-25T09:35:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -261,13 +297,37 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "There Are Already More U.S. Measles Cases This Year Than in All of 2025",
+      "summary": "There Are Already More U.S. Measles Cases This Year Than in All of 2025 Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWhxTmhTV0pDenFGdzg3LTM4ZUR0SDBUdHRXVUFqajJnTUZNRU5iemtGTlJ5UFZSNTNWUkNsZXhoU2dzWURJWTQ3Y2dNdjdXVGtEVlhmTTlhNS1rOFlGOXdsVzlBNjltb0ljUTd1cEllbzFwcWlWMXFDZjZvOUhYT04wXzlSR2RKeVpYTFBmdWg0NWJLcjJyLWRXMVpsbVJ6U3hsRnM0d2hlOEExSnE5TTBB?oc=5",
+      "published": "2026-07-24T21:33:50+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "“I’m sick of this!” Mike Johnson’s MAGA mess just went from bad to worse",
-      "summary": "“I’m sick of this!” Mike Johnson’s MAGA mess just went from bad to worse Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1ZYMjJvOGJ1SVNkdTFaSzNoNHV5RUFYUGZsYUtnUGZ5cThnamhWOTZuaDhXbXhxWkxyc2Z6QU1FTF8wUUNEMnBCMFFMZVZGdlBGVU4tVlpNYlNJb2d4RlZ2MmlscG84MUE2THJZMHJRQzJfS09xTmlGUWNSQzlmeU5UVHBFeEZGcmFKQmRFa05aU2Z2dG5fNzRMTkRFTWFkZkE?oc=5",
-      "published": "2026-07-24T22:00:00+00:00",
+      "title": "Pete Buttigieg leads Democratic primary in latest poll",
+      "summary": "Pete Buttigieg leads Democratic primary in latest poll LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFVZNWIzZVY1aXB4dzZTd053T080NjdfZDhKdXc0U0FnV3VwTGRWdHZGdUt2c3Q3OGh0ZVUzaDJRMW1MRWN2V0JvUEpvR1ZPUXZuUTJiMG10RVZ6WERXNUwwc1A0TTJGbmNKaWM0Z0oyRTdBZVpKOWFyNENwNXFwV1otM0xOdF81SmFtenpMNUFhYmp1a2c?oc=5",
+      "published": "2026-07-24T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trump admin pushed LGBTQ+ \"warning\" labels idea. People hate it.",
+      "summary": "Trump admin pushed LGBTQ+ \"warning\" labels idea. People hate it. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0JkLU1IZW5hRDJWR0FXb2tOQ3llY252T3FXUTJ3dnBSMWlCZzhDVzEtTUVGVWdJdTVRTnVSNDRGVGlrSjREUU5ZczBMRVZsWUUtNERGbV9TR2Y2d1J3SzRCSHd4dGxDVFNGdDBjWmFDamRjNm5wUmtZQnczdGE5b1pRYm0tVHc3cGNBb24tNnFLNFlh?oc=5",
+      "published": "2026-07-24T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -297,30 +357,6 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "This State Has a New Kindergarten Assessment—No Computer, Pen or Paper Required",
-      "summary": "This State Has a New Kindergarten Assessment—No Computer, Pen or Paper Required Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkN6WU42TG5rOXJFTzFSSlNabnlCaW9NZmM3WWljUGFxdmlvLVNiSHdCb1RJbEdKd1BKSDhUaDdBRlo3b0VxX1FkME9PSlBmWnZDVjA1bTJMNktJb0syM2lqNEhWZFE2QWZFYWRMSkJOdGdKQUhjUm1YanV5YVdjNzNUcTNUU2V4bmtIbXptZlBTeTE1QkNTdGNvVWtuZGhzMHlKSnN0dXpXVTkyb3AzSUFtM01qZUlxMnJocjhJOGpqVDJqelE?oc=5",
-      "published": "2026-07-24T18:15:47+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
-      "summary": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmk2djVPOGJkbUw5WU5TMUVsblkzOUsxT2w2cFdkNXVyNEJaN1VLZ3VGZ1E0bWNWcEpvTzJ1VmpxdUVlZXdKRjd3OWl1SVJ0ZnU0bTJZZG9LQ2hTSU9FNGtiRlNWaDNaWHJxOTFoaVZMZi1HQ1ZrVlF5bmE3YWVsSDhB?oc=5",
-      "published": "2026-07-24T18:07:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -333,49 +369,13 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "'No child has two dads' billboards spark outrage across rural Ohio",
-      "summary": "'No child has two dads' billboards spark outrage across rural Ohio Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54TUpYZ1dtdFdfcmVuTDlPX0pRNFJ5RzlwSUZPRlZVc1FYYl9ySlBmZEhUTzNDZkpRbXZZTTBWZTNQRVdwVmVrZkVKVkpZNGkzSFNPWVhiZ3pPWU9xdVBKcDNCQ1BkbFg2ZDBYNV93eFZLZ0xlS2c?oc=5",
-      "published": "2026-07-24T16:33:31+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Test yourself on the past week’s K-12 news",
-      "summary": "Test yourself on the past week’s K-12 news K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxZWgyMkRBVDlXRG84NWwzZThQa3lGSGNSc09uTVRVMjRNYnZaeURDVXU4WnROWnhVaE5KTjQzajU2ZGs2WmJWdTRfUEtzUWVieTQxV1FlUXlJYl80OF8xOWszV3FTM2FDd2VuOFN3aUlfOEJoSHV6SHJHZFhvdw?oc=5",
-      "published": "2026-07-24T13:20:58+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Cyclosporiasis outbreak expands to 9 states",
-      "summary": "Cyclosporiasis outbreak expands to 9 states NBC News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGNfSTlxaW1kMWpiMGZrWFVlY0pjV2ZGM0M2SFlCSnZqZXdrM2w4eHJuU1hiUkNRRHE5TU16bHdCdk84Yk9qdGN6eTliaGkwOXF6czVJUkotanZNY2ZtOXNYSmdxTV9BREhIeUNSakNNM000Ym8zTC1LaUpnLW8xYVFVOEktZlZXLVNNNDhLNmI4ZzNEazZFT05n?oc=5",
-      "published": "2026-07-24T12:32:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
-      "title": "Could paid apprenticeships help address California’s persistent arts teacher shortage?",
-      "summary": "Could paid apprenticeships help address California’s persistent arts teacher shortage? EdSource",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzVXNk9KTFBNcDhkMmwyY25YakpiaThjcXBFV2NPa0VNWWU3Y2R2aFdCaHY3R3V0Tk9JOWNZQjdzOUtYcGNpcUhOSmZnVFJRVEZ3TkRLbDROMEM1bl9fbE1yQ3g5N3ZWcXh5QTg1UjZpcHZqYjNQWnhndXd3blFVaGdiaUhtSFU2YXpyTmxjbW9HdHN1Q2ZvMXFWWUs1eVBRUU01TzFVaWhaQ183Tkc2NG5ySXV5SDjSAb8BQVVfeXFMTzh2aC1UcmlhQ0UtcEZ2c2ZGUXBlMUNweGZ1b3RpaXFkQkNNUUpEeVpyVk50NjBXVlFNNlE0YllOLWdwc2lwZHJPcklYWVQzcnZIWlhwVW5IYTA3VEItc2NBOUkzVk5MaXFPVVhaSnR0d3Flc3dINkc1ZUdONE13ZzQ5cXU2ckhwVUs2YzgyV0V3U0xFVlEyQWlIbWFzRGdzdkVUWmhaWXZTeE1NdE4waE0xRmtXVjZIZS1FRzNYZ1U?oc=5",
-      "published": "2026-07-24T07:11:18+00:00",
+      "title": "UPDATE: UC Davis has record-breaking fundraising year",
+      "summary": "UPDATE: UC Davis has record-breaking fundraising year EdSource",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PWUVmZ2VsZWJVYmwtX2w4YWkxN2FadUVXd3Aza0d0Z3FwSDZfVnF0ZWthbjZ5Y3RFVGZuX014YUF4bmxMei01Z2FXVTBCeW5hOGpnMGRBeXFOTmFYS3NHeWNMUl9OVFJOZzFFSXJiVS10ZWEtdmxFUTlNQmVGQXM?oc=5",
+      "published": "2026-07-24T16:51:22+00:00",
       "beats": [
         "Schools"
       ]
