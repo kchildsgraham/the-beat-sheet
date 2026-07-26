@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T23:47:05.069648+00:00",
+  "updated_at": "2026-07-26T09:01:54.641180+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,23 +20,119 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Vehicle crashes into crowd at Berlin's LGBTQ+ Pride parade, killing at least 1 person",
-      "summary": "Vehicle crashes into crowd at Berlin's LGBTQ+ Pride parade, killing at least 1 person CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iNldWUFNhMEhQWjROQU9EbFJiMVVKMndWd2t4RXlmTTlzYjF3QmxNbzd1b1lUdlQyaUlFcGRGbnJ3UDlyLVp3dmdGUktmLXFVM1pmQXp5YThFbmZiekRZNGRoZXVtYlhhdWc?oc=5",
-      "published": "2026-07-25T23:28:29+00:00",
+      "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
+      "summary": "Cocoa prices are easing. So why is chocolate still so expensive? CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTlGSENaYkRad1NndXRuX2Y3cWt6MWhGVkJXRDBtSVpxcjVYUElBZEs5b2lRajA5SUZCdWQwLUlXNWk3YndsMjc0bTU1cWVfNmh1RU1RTGhCclFUY1pCX0ZnTEFsNWtjNWV1MHl1WlNNNzU3MkxQSVIyMVItWm5tVUdZMWl3VUoyLUhNSDQxX0E1d9IBlwFBVV95cUxNRjRpdHBUMGhXby15NG5xRFlLTURIMUJfX1VrcEl0R0RyMVpEeDJQcmZCRW9QWmlJcm4tZ1V4VjY2M09sLU8yanlJdFo5b1EwRk5uY1VoSW4xTmxSa3o4YmpuQ19ZREgtMnlMNHc4TmxIQkZJMFpwLWV5TkdRTWt4UEltQXRrQ0FOd2Z6aHI0bmdMckFmRWRv?oc=5",
+      "published": "2026-07-26T05:00:01+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "At least one dead and several injured after vehicle drives into crowd at Berlin Pride",
-      "summary": "At least one dead and several injured after vehicle drives into crowd at Berlin Pride CNN",
+      "title": "‘There is freedom’: Why Asian women are leaving their husbands in their 50s and 60s",
+      "summary": "‘There is freedom’: Why Asian women are leaving their husbands in their 50s and 60s CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjJDNzVXU0U5RUdsOGlCeTU3dUlneEFWWHV6N2JNd2MtdlFkMDRtUkhhWkJKWGJNbEIyYnAwX01BN2JhbzVWR3lXZjc0U2M1YjRxcWwySnJJczFoZ25Xc0pMbTlibVpULXJvTE9YdGdpSWRxU1BKUU1tV0VHZ0JFSDFKY3pmSFhmTVYw?oc=5",
+      "published": "2026-07-26T04:01:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikes",
+      "summary": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikes CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBieTh2VUFkT2FTaklvelQzMlUzemVpSlhzeThqNlhjQjV4SlhWY3ZYeUMzbThCQXlZTFRacVljM1BIa1oxQUtqU0RiVFgzU3BTWEE3NlhhUjBJcUpPSERvRWhETTRoTlFhYjhIZXEyTXVVcTQ?oc=5",
+      "published": "2026-07-26T01:36:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "summary": "One dead, several injured after vehicle plows through crowd at Berlin Pride event NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0tYMk5nTnFSRUlHRkg3YUZMSG80N2NkTHRiaVc2RjA4Y3Q0M0Z2dEhmZWhVSWsyQm11bmlpbldFQXdsY0EzU1RsRnpVMFJWZDZ5TVA0WWt2Tm1iOWtjSlRmZ1VvcDQ3bmZKM21EUjd3WVNUYWpWd3Jma1RaTHlGOGZYV0VwdGMzMW5j?oc=5",
+      "published": "2026-07-26T01:10:56+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany",
+      "summary": "One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2lkUnpoekZtWkVnazFWQ1M5RXJaVlZ4Vjk1QmgwZ25BS2x1aDNaN1Q0Q3A5djdiREh6T3JTZ19CTEtVdVVFVFFWelFzOFZuTFNGNkxYR19XQ0NXaUsySlRkV2c2RDlXdkdRNVFRbW1HS3pUQUk4RTdWZHdva0VVM1NOaw?oc=5",
+      "published": "2026-07-26T01:10:56+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "France and Spain fires force more than 200,000 to flee homes",
+      "summary": "France and Spain fires force more than 200,000 to flee homes NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU3ByX3R4dXFNeGhFZUNSandpX3ZXM2lVMHdCUkx3MXdOemtfaHBBZTRHc2pOVXVwR3FQZTRDbnFDNzBwTUZabzNLNFFWSnFza0FDUE10R3lDdGVCRU9PZEpyQjY4b01lR0FCNmFYM2ZTbmVrXzlIZVBudUpabjRqZ2RoMmlWdw?oc=5",
+      "published": "2026-07-26T01:05:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
+      "summary": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5",
+      "published": "2026-07-26T00:11:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say as manhunt continues",
+      "summary": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say as manhunt continues CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iNldWUFNhMEhQWjROQU9EbFJiMVVKMndWd2t4RXlmTTlzYjF3QmxNbzd1b1lUdlQyaUlFcGRGbnJ3UDlyLVp3dmdGUktmLXFVM1pmQXp5YThFbmZiekRZNGRoZXVtYlhhdWc?oc=5",
+      "published": "2026-07-25T22:04:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+      "summary": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakVDSXc3Z2J1MkQxR1IxSkxYVC0yc3VWbWpfYmlxdzE0NTVMc2F6UlkyRXJhVUwwUGhERXFOM2NGSlhMSmZqYlprOURSVHZFMjFLbGpOZElaa1VQV0RIczgxWFBrc29lOEdXR1J5Y0NmaTZfak1idThfQmQtT0ppUF83TDFVc2wydW5vX3pWWlR6LVE2Nm4tdEFwRmszWm1mU0dYWNIBqgFBVV95cUxNeUVBTWVoaDg3OWlnSnpCZlV3c2JCX25UM01wMVk4RHhXRXhCNURqaFVhOVg0d0dhMHowaGl2VGxlakxSZUJzLUpsQjVlV2N5WXExUjQxNGhpdmNXb2NoU2FmX1lLU0dFZ1o0SnZnbTNHazFfaHRDWWpXWnVmR181WDQ5cnU1Nkd5MVo5UGJhS3VzTzlRUVRuOW55NHBJVERId2paa1U3Q0NZQQ?oc=5",
+      "published": "2026-07-25T21:11:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Police ID suspect after van slams into crowd at Berlin’s Pride event, killing 1 and injuring 16",
+      "summary": "Police ID suspect after van slams into crowd at Berlin’s Pride event, killing 1 and injuring 16 CNN",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01MGtfWFlMeEhyeGxTRUhRaFUzb2NnZEVGR3BjVW45ak9iZ0kzOXROY0dQUjVpazRtcHhudnByaFBLeDczcU84SlZPdFhvLVhBQXJPNEh1Z3V5czVSU1V5WlV4VDJ4MWVIcmZkTm53MkctR1U?oc=5",
       "published": "2026-07-25T21:09:07+00:00",
       "beats": [
@@ -56,97 +152,49 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Biden ghostwriter tapes to be released",
-      "summary": "Biden ghostwriter tapes to be released NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEFBTkVnSzRNSUYtMlg0U2x3UW5LNEV6VzZJTHVvTjVzZW1TMHZ5dHp1TldHSkZlRERtRUJXWWpvcFpuZVozMm9BWFZyUEdBRjJ0S3owMWNaWDV0UUI4QVVGRDQ2MzBvN1FBQl9IMkRIN1p3MUFoTXVtdzNha1BnVDFGNWpubDdRSTVLMzIxR1pjMFBpV05xS0lJbjlsLVJIaVE?oc=5",
-      "published": "2026-07-25T19:36:18+00:00",
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+      "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
+      "published": "2026-07-25T20:07:33+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump administration admits it canceled clean-energy grants in states that voted for Kamala Harris",
-      "summary": "Trump administration admits it canceled clean-energy grants in states that voted for Kamala Harris CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnlIU1dfbG1PVWpRS1lhMEN1U1JIS29kN19iM3ZKSE5OSDRQaFkzT1pOaTVaVkpjQjRpc3VOUmVQWkhnbkY0UUF5cEloclRYSk4yQnM4U21EZW1HN2ZXTlluUjd2QWw3QUNQTHVtQzlmbUxGd0ZNczU3YlN4bnZqcXZUY3FwQjhiUDEwV3RB?oc=5",
-      "published": "2026-07-25T19:06:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Maine's new Senate nominee Troy Jackson speaks with CNN",
-      "summary": "Maine's new Senate nominee Troy Jackson speaks with CNN CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1N0U1VETXZ2R2E4NHRRS1VjaDVfME5VVVV1TmxsN2l2V0p0ZDR5TDBsbUxLV2lkeXRuOGFTX2VSeXFydVNLQ1F1ZjZOSmFrU2xadGpmU180Tmp5VUozLWxqQ1FIWEZjQUI3V3VWT3JBazdhcTUwMEhtdWpmYTIwRXk3Y21lQQ?oc=5",
-      "published": "2026-07-25T18:13:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco 49ers coach Kyle Shanahan injured in crash will see limited training camp participation",
-      "summary": "San Francisco 49ers coach Kyle Shanahan injured in crash will see limited training camp participation CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFcwc3VLbkktMjFTM2JEbE8yWm91ejVXZlZUMS1aT0dWeDZHdG1VemZ5bi15bU5uWklOamoxYTMtVFIzd2FPTWw5NzR2UktqaWtncG9Jd0pfaHZpVXcwNzVoOERXTFFjak4yX1dLTHNwY1JfWnpfSmV6Mzd0am91bTRZX0hySnI2VS1XaldXR21lMHpidjdKMzA4d0VYRUVlWHZhZ2VVVlNZUQ?oc=5",
-      "published": "2026-07-25T16:21:00+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Matteo Lane’s b-day, Wilson Cruz’s view, & Bobby Berk’s bodywork",
+      "summary": "Matteo Lane’s b-day, Wilson Cruz’s view, & Bobby Berk’s bodywork Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjVNeHZ0MnVkZnVlRTNPbTBBbVRnVTlYSmE3bm80MkZERjBUX2dTN1RlQjBKV3UyUWJKUGtHUTY2bWZOTjVNY1FlY1dSTWVkQ1F1ODVyaHBZQXlLZjA1Ry1SQXZKWFVjaTctYzFwU29jeEg2SU5BNkoyNmhQRF82WWFpYk1vcWt6Z2tEc2ZpUUxBX1pVd3c?oc=5",
+      "published": "2026-07-25T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
-      "summary": "India's 'cockroach' movement ousts minister, but can Modi calm youth? NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVk9EcVIyVFFfTG1lbjdJWFN5ZXlYRGNBZVRldlE1b0kzOENTeWZNNnZpT0ZtMVV1ckJBYm02MUs3OWJ1ZTFSOWdoRUw5TERfSFJoR3JQejVkRjNTdEloTk1SUnI2NmVYTlpTYkVMWmdGVFdULVE?oc=5",
-      "published": "2026-07-25T14:48:22+00:00",
+      "title": "\"The Odyssey\" screenings at Regal King of Prussia impacted after 70mm IMAX projector goes down",
+      "summary": "\"The Odyssey\" screenings at Regal King of Prussia impacted after 70mm IMAX projector goes down CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdS1ROW1yMlM3QmFQdDhXTHJCQ3lkRUUtUnRYbVI4RDc0aW5oYkMyM0dPY3NvTU5RcWRnR3U0azB2LVN0UTVWZXVLTklpRENrUi1Tc2ZJcXgzVE9QSHppNG5RdTUwQURBbHVWdGh1V3ZXR2dyM20yVXhEakJWbGJLaUlIb3J2ZDZYTi1CTUFUZ0x3M2d0RExCTk1Qdw?oc=5",
+      "published": "2026-07-25T13:57:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-      "summary": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTZqRWY5UHZ5TkhmQ0lySXFuQVpjalRWU01vR3hac3VZUXkwa0xSa0g2eEwzX1BPdkNqS1lieHR6S0VIeEFNVUNsajR1U29ZdGZOay0zT0x4em41N0xwZEE2RUlVdXYwMkxiSmVibmUzNjhZSnY0VFlJYlF5QXpVaXp3b2Z5cVl0Mm8wNlRnS1JPaHBGY2VUUkpWd0lKZnh4VFU2WlpuLUZJd9IBrwFBVV95cUxQNm9oSW1uVERRZUlmVUprQ1ZTNGJjTnVLTkw4ZGN3M3lNOU9PeklyMG5IVmQ1N2hSUThES3hwVTVRN0todkZDRk5hbWZ6THhiamdBWDZhSzNvdXlBTzZuTlJ0Z3J6cnQwQ0RrOThQTmVwYkVyb3VudzV1TGlsaDZsWi0xMUFpeXY3YklaQ3Njc3U3MTBwSTVCT0NwUkdfdnJDVWFUV19wZDBhNTBxdlBR?oc=5",
-      "published": "2026-07-25T12:00:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Some women who can't afford water are often pressured to provide sex for it",
-      "summary": "Some women who can't afford water are often pressured to provide sex for it NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2J3QzM0bnRlWElSX200VTU5N2FUYmtxVnVVNHpIOVdOUzN3eUQ1RW5DQmJsOC1pczFGZWhEdzBRaFJxeXh0Rmp3SUNjdkVfTnVoTW5TTTFPTmJzS2duRlZDRTZVenBaRXZOTWlEUzVmUDFiNmtRcEhVbEtLRmNhaHBrMGFJNXpTOERpUTRtQnVrSmxV?oc=5",
-      "published": "2026-07-25T11:59:19+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
-      "summary": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczRiQmJ3SUp1TUJNbnNVa2I4ME5TeWFON3BtaGVySWFXdExrUkI5RnB6VDJIWGpZdmVOcUZCcDY4ZVY4eDktT3JVQXhqNklPUjFYdUhyQXRTV1R3NG1SSVEycHpJeFJaYWNaNElqb3JsUXVEY2xTOXVzV1dkV184T21zU09Ca2NZV0ZSSm1PclNmQWxXVnJj0gGcAUFVX3lxTE9BNXJWRGsyeE1Ta1FqT3RqdklsQWo1TFZrSTExWDBGaDluY0NFdzZJZFEwSHp3VWFtNmFaV19xVmJ1YkM0REhmVDhGcmFwQkVMYzd0UVRxQVZFOGNjWHFFczNhelNheUpqT3RpVVBYbzJMRGNuR1ZsRzZ6SkVpTkRib2VlbGhBeG5hbGhmdEYtUkQ4OUc5LTJoRGJVUQ?oc=5",
-      "published": "2026-07-25T10:22:58+00:00",
+      "title": "Karl-Anthony Towns Knows the Knicks’ Win Was Bigger Than Basketball",
+      "summary": "Karl-Anthony Towns Knows the Knicks’ Win Was Bigger Than Basketball The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZnhHUngwQmY1a3ZicDl5MHpNcU5HbkVseEFmQjlOcUh5UWlZeThhYzdidkZnTkxUdWV1RmJDMUU1Z3ZaSkZMYlRRNjRZYkZvVlVUdFVCamJIRWFsdFBFVXdjbmYweGxKWHAwQUtaUlAtZEVoaVhacGl5ZEJyUzdPNVctUQ?oc=5",
+      "published": "2026-07-25T10:27:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -177,27 +225,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case",
-      "summary": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjBwYm5TNEQ2LUtJdGptRS1Va3o5aDhYZUk3ZE5wZ2hHdDlSZi1lQ0VOZW1zZ0xMcFFVN0pvYkp4VktmU2FfSWNKTUNCTk91VTFlQy0zelp2bDRjVmNhM211UVJLSWlUakdObDJFUTJ3RERDTl8yUy1qbUlwMmVCSDlobXN4a1h3VWk0QnM2TFM0enJ1SW5EbXo2WUM?oc=5",
-      "published": "2026-07-25T00:29:59+00:00",
+      "title": "Education Department rescinds disparate impact regulations",
+      "summary": "Education Department rescinds disparate impact regulations K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORU9zTWpGY3hBUm1veTJBV2NqYVZoM0hxY1htYzZabUtjbzBVQnFwSW9GT09Jb0NscXVoN3BZcXBmS3BCUEZMVUVJOFNBOENtbVJ6NV9hcm9zZ0lrbjVjb1dNX1Z3OGxSMTdfNldnd3RVVm1Ea3RYZ0xCc1hJaEJ5Ql9FZ3M0MV9FTHVCQ0JBME1oQW55LXVQRzBsMA?oc=5",
+      "published": "2026-07-24T22:13:11+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Tony Romo arrested and booked on suspicion of impaired driving in Milwaukee",
-      "summary": "Tony Romo arrested and booked on suspicion of impaired driving in Milwaukee NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnp6dzZ3bW5QMGkybTA0R1RuN3M0eXlCTzFYNHFHbC1pM2pMVkxETzQ3ZVh6b1hkNkRnb2JvM2o5SkZNaVk2cFAwdk81UEo1NnVpRmdXQnlvZVlnU3dSWmpJcm04MFdYWmhjb0dyREVGM3pTVkxYZFJuZEJNbFZjM3hNTFFKa1hGRzBTcWRBZWhNel9wdmVFUDFiMjRBMl8yRjhWRUZXbVQxaEFuZUE?oc=5",
-      "published": "2026-07-24T22:22:37+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -210,18 +246,6 @@
       "published": "2026-07-24T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane",
-      "summary": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
-      "published": "2026-07-24T18:57:27+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -246,18 +270,6 @@
       "published": "2026-07-24T18:15:47+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
-      "summary": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmk2djVPOGJkbUw5WU5TMUVsblkzOUsxT2w2cFdkNXVyNEJaN1VLZ3VGZ1E0bWNWcEpvTzJ1VmpxdUVlZXdKRjd3OWl1SVJ0ZnU0bTJZZG9LQ2hTSU9FNGtiRlNWaDNaWHJxOTFoaVZMZi1HQ1ZrVlF5bmE3YWVsSDhB?oc=5",
-      "published": "2026-07-24T18:07:14+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -310,6 +322,18 @@
     },
     {
       "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Thieves steal $1,000 worth of meat from Livermore restaurant during Little Fire evacuations",
+      "summary": "Thieves steal $1,000 worth of meat from Livermore restaurant during Little Fire evacuations CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOW1YNlVaUThhNElmaEtNMnQyMHpSTUNmLWVCTDRqRVdGb3AzM3FDTnpkSWVia2w2TU9ZelUtZVFRazRUNXczVUc4Z1dnUzY3Ui1JaDdIeldQYzlRamF3NmtUalpKMDNmOG1tTE55VHBGWXlQd1BTVkJ0NE9lV0JyR2t5WHN1WTVQX3g4cFQxbjljV2p0YmNwYXhBQjZ5ZUE?oc=5",
+      "published": "2026-07-24T06:19:01+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
       "title": "3 charged after Concord, Massachusetts land stolen, sold to unsuspecting buyer in 2024: \"It's been a long road\"",
@@ -355,30 +379,6 @@
       "beats": [
         "Politics",
         "Business"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "As K-12 schools embrace ed tech, importance of securing building systems increases, expert says",
-      "summary": "As K-12 schools embrace ed tech, importance of securing building systems increases, expert says K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGZmQndhazZjbGUwUHpyN09zbExOSGRWck5qb2tQbHpnUWVidVZIVnJobEZIUkcycDBISWRNY01wWU1BaVYwa21aRjBPbnlOclhuZ0dPQTY5YU9mWUl6OXI4SVlTeENjSDNXZkt5S3pVaU1hTUdleHFKbFpzMzhkX2w0WDEyTUVxeE15QjM2OW1qMEFWUUZDN3JIa3RoN0hyT19vNFNTUkd6dy1aOTBIYg?oc=5",
-      "published": "2026-07-23T20:35:55+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "What do you mean there was a queer Sherlock Holmes spin-off in the 1900s?",
-      "summary": "What do you mean there was a queer Sherlock Holmes spin-off in the 1900s? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVQ2X24wSDhfZVBPZ2RhNGw3VDV5bnJEN2VPWDl2ZzkyV3cwTXBCdlBnYWt4MnREdkNmT0NnY2NGMkdpRmVLYXBpRE5LQ0Z0M2tnWFY2STVETEJyLWRON1pSeDhCblFJS1ZDSDVWcEFyZnlEVTE5a0RaeWJJM0FfZUxVTW91VWlqUXNSQ1B0QjNqLVdlaUhRZENyaG5tbWxyTk5GNUhFUFlLQQ?oc=5",
-      "published": "2026-07-23T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
