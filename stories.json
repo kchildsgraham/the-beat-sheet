@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T10:51:48.795138+00:00",
+  "updated_at": "2026-07-27T17:20:57.170753+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,158 @@
   "errors": [],
   "stories": [
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: More than 1 million children have lost SNAP benefits in the last year",
+      "summary": "UPDATE: More than 1 million children have lost SNAP benefits in the last year EdSource",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2lCTzhSU1VKdUlaSGhwbk1ZRkJMRzZBbUlMRzNZekNHWHhGcGp2Z3BEb005MXN3ckpzQ2JUcWNtdnROTkMyRzQwTFVBTFhyRUVsRlR3MG5ic3J0UV85b3ktaFAzRlVZcEE0a0lRYXhkU0NYX1dtaC1tSVhzaVVsdGZwemRXLWJtR3FmU25LQ2dmbk1mcjNoVVBEb3M5TFE?oc=5",
+      "published": "2026-07-27T16:56:06+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "McConnell not yet medically cleared to leave rehab facility after fall led to hospitalization",
+      "summary": "McConnell not yet medically cleared to leave rehab facility after fall led to hospitalization CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0NENzRXVDVmS2V1V1RLRkdZUjZGWEtCbm5zbnBMcF96cmhqTlFneWhtLWpEcUt1d2kwdXJKcTdsb3VmM3lxTll3X2M4QVJzbzFXMUh4ak03MGJsdi1uVVpmSmQzYng1WmFXQnljZnNJb2pYZ25PTlFkcnhCT0dxX3FB?oc=5",
+      "published": "2026-07-27T16:09:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
+      "summary": "Consolidated food supply may be worsening cyclospora outbreaks, experts say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGtKOVFmY2JjS1RWV2lmSTFyOHA4Rzd0SlU4S0FNWGRNeWdseTVsYjVxT3lCR0dpY3lSRXk3eXRjak1iM01aM2Q0VkZsRE9BOWZWWlgxdV92aC16MDJiMzQyOFYwLTV5WElBRFRlaU5uXzduWUdScEFJN2gtVDFoc3JYckFTaEdMQUhNONIBkgFBVV95cUxQUlQ3aWJWQWZ5bmd4bGNHbVdJYk15T25WYmpyZklsSkREUjliTHd1UGVsbXpSZkFBSGZKdUh1ZUR3NU1WTTliS0VCNFBmQXNfUjRKU3NxWEQ2eFl4QldLb3M0U1Y1R0FMUW1TWENjNEpDQ2g3eFpqVklYYzM1ZmM4Sk5yTWxzSFNlOEpidmVXempFUQ?oc=5",
+      "published": "2026-07-27T15:49:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The Iran and Ukraine wars are colliding on the world’s biggest lake. Here’s what to know",
+      "summary": "The Iran and Ukraine wars are colliding on the world’s biggest lake. Here’s what to know CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlJyWmtVRDJoVWxoaGN3MERLdXplZ28xOHVzcXAtdUNNV3lkVklJNFRVT1d4US1iZGlfdWNYc21rV29NaEk2azYxMHVRY1p5dEVjXzZqNHZzdHZsSDU2NHVzd3J0SGY2NWdMN0czOVBaY3I1cUY3RUNWUlkwazFmU3lpQ0VjS0phd3VEag?oc=5",
+      "published": "2026-07-27T15:41:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Berlin Pride attack suspect raised red flags, group says, amid questions about prior release from prison despite ISIS ties",
+      "summary": "Berlin Pride attack suspect raised red flags, group says, amid questions about prior release from prison despite ISIS ties CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWt3OG9KSFgzTm42M3BJbUdqR2NpV1EyU0lqM0JYaElSdHRqOGtjMlYyT21ZdDQ5dk5SNjdLc2RxZlhYVzNaWkZ4S1ZWaldaSTZfVW9WT1pGbHhCQ0MwZmd2SE00Z0dDYVlLTUU1cWNmNEdtRE10OUNfSlVHTVRyakxn?oc=5",
+      "published": "2026-07-27T15:40:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Comey asks judge to dismiss Trump 'seashells' case citing lack of 'true threat'",
+      "summary": "Comey asks judge to dismiss Trump 'seashells' case citing lack of 'true threat' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WjFNZFRzRWppRkZVQ3ZzRWNWZmlnMzFTRmhUdE1hVEQzM1ZwcEE2OUo1MDNkZWdHSjRTRGNGc0FlU212aXRBaXRGR1JHRVdEWXFTdVRHUEdpUE5lS0RQZDVkSzFFWXZnUndyVVRtWEZWQmI2SjloVUI1Z9IBgAFBVV95cUxQSUYzbDhTZ2FJa3hvbEJIYWV6QjNwTjBSOUFyZmlKMmtyT1VlMnQ0R2N1Y0FJRERLTFMxcnNUWWlHWUVCbkdHSmZNRHdvNllKWlE4UldWQ1JZS2lhSlRBMnE0VTUwMVNVQzRtS25mSFhnX1MtdGVzbDF4OW9UbUdrbA?oc=5",
+      "published": "2026-07-27T15:29:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
+      "summary": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHI1ekYxNWp5RS1FOGJHT2FtTG9vNGo1bDZuakpvVkJCOVEzTW1pUnV1QUIzdHVnT2ZGc2FEZ3l2d2s4cURhYzJIVW5uYWU0QlpuOEJKVUlEN3dXamFGWkdaVTRiSVhlX1NZSnNBaGZGaHVfNTVHb21CYlJDZ0dsU2RLbjdBdFdHdmJYTFFR0gGTAUFVX3lxTE54MFNjcnBEWWZucm00aWFWazdBaDA5cWhtbFU4TFhHNm01TXRkeEpxeDFhWXhmLXZLWUFDaDZ3bV9LTjI4em1zNGEwNzVJOU1pY0FUNmZWc2hqY1dqX1V2VEVxTkc1cHo4aWRpdUNEV3QteHNkZ3phQVhJRUM2cTUyX3R0VmdMR2sxS1dOQ3prSmtDUQ?oc=5",
+      "published": "2026-07-27T15:00:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Chiefs assistant coach Eric Bieniemy’s son charged in shooting of his mother in Virginia, authorities say",
+      "summary": "Chiefs assistant coach Eric Bieniemy’s son charged in shooting of his mother in Virginia, authorities say CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FcTNaem1FTVcwQk9wR3VsNEp5bmFrdE1ma3lnUXFZN3dPeXhiX1V1N2drenhlTXFQeHhlbWtWX0pnVGplX1lvc241eFNRZGZKOU82SHNDZ0lwNlB4SGNpa3JCRzNNeVlSRWx3aEdHM09wLWNaZUhZQVNsdw?oc=5",
+      "published": "2026-07-27T14:58:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Berlin police kill suspect in Pride festival attack after manhunt",
+      "summary": "Berlin police kill suspect in Pride festival attack after manhunt NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0ZvMkVXb3NsYVhpMzhUR0FEZUVaWmlzbGJEdlliOTNIdG85QkNIbC1UX0o0aUowb05adnpNY3Y5T0F0VjhkWnZrYVFHYmY2enFKaEpPNTgxSEVTWDA3UktDakVyTko4V2stSHJJendhYVNOeDVUa2M0QldLS0RGYmxhN1JwakN5dmRRM251YV9fRHlob3JBazdYTEdGdm13MUM5VW1FcUJ4Z2JvUnRwUGRZaFc?oc=5",
+      "published": "2026-07-27T14:46:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "At Least 3 Killed in Shooting at Food Festival in Seattle",
+      "summary": "At Least 3 Killed in Shooting at Food Festival in Seattle The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YTEIxQk1NSUV1MnQ3T2ZNb1lYZWMtbEhwUHFrOC1DREQ3V0Y4ZXBtVlBDM1dJUDg3SE1rVDlNblU2WG9ycW5aSGJObXlKZWRZa0poZG80bExmUGRDT3FuOFlVNkNkRkxJTkNmN29BV2tjTktjNVhtZk5aeGhDWEU?oc=5",
+      "published": "2026-07-27T13:52:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: Former federal officials caution against Education Department transfers",
+      "summary": "Week In Review: Former federal officials caution against Education Department transfers K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xT2NKMkg5dk42d2tGUEpYN21IN2lrTmEyVGcwWFp3ZGxGM2dWMGRQSzZtZldJeWZJSHN1Y3lteU9NOWY1OW9JekYwQS1oTGloNkpBaF9qa2VmZzFiWk5lN0dqWTN6cTVfeGpn?oc=5",
+      "published": "2026-07-27T13:18:11+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "DHS final rule could hinder students’ access to food, healthcare, AASA warns",
+      "summary": "DHS final rule could hinder students’ access to food, healthcare, AASA warns K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDlqdGxQek9sYzdQT0dqR0tKSDVQOF9aMGZlVlhDZGI0T2FoaUlhbW1VMXU3ZFRiVVlqdk9kRlZyMkcxQXVXQ3BwTUt2OS1RRzBsa1k3MlM1LTlPT3pKZVRXbVpzaktLWk0wVEpCX1ZEdHptTVNNaXhQSTN5REhSNE1LbUREVG1uVUw2Znh0ckpsVzNzUlpyemZCY2xudWhoYTlxOUlDaTJvMjVZckE?oc=5",
+      "published": "2026-07-27T13:18:11+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Kalshi attacks Wisconsin law banning election bets as 'voter suppression'",
-      "summary": "Kalshi attacks Wisconsin law banning election bets as 'voter suppression' NPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1FtNDIzSWY1ZXVCRWhQY2FuMGZsMktURlNZRDdXaXdfZ1BCY19zWFRONHd5djZXdjBLSko5T1hwbkUzbUpKNG9kcFdSeWRGSndRbnF3amV3eEtYdl9sN1h5a3kyc0RocWljWXIzanp4UlRCd1BYcXdLVGg2aFNtLUJDSU9VeTB4MmREMFVwNjh4dTJnc3VGNl9CU3Bzdw?oc=5",
-      "published": "2026-07-27T09:00:00+00:00",
+      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+      "summary": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZktLTl9GXzlkcHJyUE5tSHpjcUV4SFRpWENfWDB5VktZUE5oeFFkZEZSbWVMUUp2NVJUOFg0VVJMWk9VMjlldEVFaFQ4dHRFODY5a2RZN0tmeUIzS2pfQmI4VUx0WEhicjl1Z2Nld1hDUWNYVWllX3k1S012VTlTTXhJcjNZRV90eUNSTlVySl9reUZSMGIzTXRUamZDRllUTy1yOFFWd1lQTTFobng3VTRCN2RVODlNZlpuS0lhTQ?oc=5",
+      "published": "2026-07-27T11:45:56+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +180,34 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Why Ukraine is targeting Russia's retail giant Wildberries",
-      "summary": "Why Ukraine is targeting Russia's retail giant Wildberries NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUngtZjdmSzgyWElBaU9PTmV4Vkl1UWFGNHhZeDRxU1NIYVpTcG1qUl8wSUZ4WHgtUFNGY2o0OFFCTGhOSVlPUTVYYTJxbzRVZXMtLW5oUkRLMFlEQ29EaVIyWDNFQ1NWSzk1M2RQcGhFdWE4NnZ6MmZreDQ2a1JrOVVPLUwxazJaSmI1SERHZ1pWZG4tcTdSMXlvLXZod0xqVW1rWg?oc=5",
-      "published": "2026-07-27T08:43:26+00:00",
+      "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+      "summary": "France continues to fight devastating wildfires, while progress is made in Spain NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXlwTThPUmpBRTlIUGpBa01GM3hEdzBSNHhTZzVENV9FLWt4OUFLczlnWmhKeUFocDEzZlFZRW1mOC1SZEtLMThsT2lTNUJBeDlfbElnamdLNU1QNjdoOGFhNnZ1T0UtaXBFM1NTcDc3RnFmcmU1b01PTl9NVExQeA?oc=5",
+      "published": "2026-07-27T10:50:09+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
-      "summary": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmR2ZjFaSU9ZMFVlMlFRYlVOUDdoS0FPSlVYalRuclBMZkllZXZlWEE5Zzc3ajRxUnVDVFF5OXlvUWdLZlpMM1B5SERsNUkwSWM2Wi1hS2FFSEZlTTdzMmdEdEpnVnp0ZlJTbTZtR2dSdTJaTXJsVkN1dkVMOVBUQzIxQdIBiAFBVV95cUxOOE5lVGdPVXBsSEg4ZHp2TkhDNXVxVHNyN2JRbUVrUUU0R2duLWVVcGI3a1lnWFA1US1EOENnMWhodW1yVl9UVzNWT1hEZ0dTRXhMRTB1amNEWVNEUVBMUG9tYWlnZ1JGR2ItVkxrU3dIanprMlREbmZLT0h5QmVJNnRnZExQYU85?oc=5",
-      "published": "2026-07-27T07:20:09+00:00",
+      "title": "U.S. Pauses Iran Strikes Amid Growing Risks, and Measles Cases Hit a New Record",
+      "summary": "U.S. Pauses Iran Strikes Amid Growing Risks, and Measles Cases Hit a New Record The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGR3dzlIR0pHR3FpNGQyZERNVjBoVm5pZ2Z0Vkx3ell1ck9xaEJ1bWFDVXVTaDJER2RaUDRGaWM1aG5ZZmxrUzJjOGVpOUpDcXF2TDBwWmtXWlpYLXBBNXV0UWNwT3g3bk9YLWVMNFdoRWFWUm5pVXZNdEJzeHB1WDFjTGRUcm5Rckg3YXVxYw?oc=5",
+      "published": "2026-07-27T10:00:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "How did you become a Deadhead?",
+      "summary": "How did you become a Deadhead? NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pWGJ2ci0tc0d4WDFxQ3lZcDFfUDNoV1lSMHR5NEFXT0UwT2ZIendmQkZyd0QwdUdJVVcwb2dsb2M5ZDBnVDJoLXR0R1g3bjRzSnNWZlNPOXZvbnRYdzM3bjZvcDFqUVVkeS1LczNrNHptbk9CS2I1MXQ4eHZkLW8?oc=5",
+      "published": "2026-07-27T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,75 +225,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Witness recalls fatal Seattle food festival mass shooting",
-      "summary": "Witness recalls fatal Seattle food festival mass shooting CNN",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmI5TzVXY1prR094Umc2RkdtLXF6YUkyM1Vtd1FKQmR6eVlkMFh6TVVkUWE5MjNmci1zT005b2pkT3M1djE2M3RBbEM1N1BfYzFDblJQQ3c5Y3NCbXI5WGlQUVg0ZE5fQnUxQ1huak1pRnlyd0cxcm5WVzFNRXNzUnY0Zm1YelRpSTlyTlpFeFFkeHBmMWF0Uzg2VS14RnBsNGhlWDJ0eGY3S3kyVGhNTVV6SQ?oc=5",
-      "published": "2026-07-27T07:11:00+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Benson Boone’s front row, Adam Lambert’s hot take, & a high-heeled workout",
+      "summary": "Benson Boone’s front row, Adam Lambert’s hot take, & a high-heeled workout Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQy12WU9wNmFJbGN0cjFHc1ZqeDJsNEpkLWUxRk5jQ2hwRmRtOUp5Ml9UdUlZLU1xc2VpQ2pFRVpmMXNpcEhQWjU0NzNnY3Vfam9DYkdfdWZobi1DVVZEMlR4ZlcxRDFLSGpwUUFKVmVtZEhRdXA1S3pmaTRFbkV0MUM2NUV6M2d3UjIxQ1B4cXJ3eU1Fd3JLaVNURnZyLVI5azNuYg?oc=5",
+      "published": "2026-07-26T18:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: Iran attacks halt and wildfires rage across Europe",
-      "summary": "CNBC Daily Open: Iran attacks halt and wildfires rage across Europe CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWx5NDlfRjZnbUdkOHFPZFV6WlhodnRrMHF4UFBETWg2MTZPY1JUVjBOZklzSGppWTVGcm96VEhxWm5rZDYxNjdySUg1SGxIV2ZmdVpyS2w3NDlUYWFoTFp2NFBCOWYzU0dRbUZENXk0UTNJMG1vREpEQmEyOUJVOEVBeHp1cGdYLWRHSU9RSTBxSFRPU1VLemZNY1p2cmhmTmptWHZB0gGrAUFVX3lxTE9TZkV4U1c1bjVXWmVPbkFEQU5Cc3RtbktJZnBtRkVKa1AwS3dVMGpUajRLX0ttY3lYeDBzWHAyTzBZcFllUVNuc0NiYWtSc01QOGN1bTYtcFhKMjlncWxqQkttOXJ6SF9mUzRDTmowdTNPWFAwUG1SWWMzMGdfZ3ZBYVJGQ1REazVlb3hsNkxFSGJfd0FlYmlZNnVtTEVsd18zYXhMMksxdzlJTQ?oc=5",
-      "published": "2026-07-27T06:27:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Why Trump's new tariff blitz is very different this time round",
-      "summary": "Why Trump's new tariff blitz is very different this time round CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuVjlpeGxVWU1oTmJXNE42NjE0Rlh6YmI4TTFlS3lXaDhEQzFocktkR1Q4OU9CRl9vMElCUmxZUTVzRUl1U1lqdldTTjdNY1JqSHZfVzBWOHVuZUZqT1VBbWNuZ09Xc2RjeWZEcXlGN0E1V2pxMGdHTElobVfSAYIBQVVfeXFMT1g0a3p4SlJWZFlzaGh3bGM2aGVkV253cmp5d2Q1TlFoSm1rX2lObDZtSGRobWVRSXVvVUppVFNmOS05ZDZ6anZHVm5taGsxZnJSVjc5RkoxWjZNWjM0QUpIQ3RUSE1oNzdYaHVNQjBXQ0o4M0VkYlp1ZkwwLThSbWVVZw?oc=5",
-      "published": "2026-07-27T05:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "At every fork in the road on Iran, Trump’s choices get worse",
-      "summary": "At every fork in the road on Iran, Trump’s choices get worse CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEtUbElMZjlqa1ZBdTlPODZPTHZqeE9QODY0ZC1lWTNVZWlCbnpLTXh1ZjRVYXVwMk01M1l3ZVhDSjhNaGp3NUI0QU5JZ3pteFlPelJLZEJ6SW1UTG92VDN2ZXBGUWR0cmtxYXFSRm5FckMzTDJQR2F2M2JjQ1FJbVJuRWZUQVZRblFqMGRwZnNFZw?oc=5",
-      "published": "2026-07-27T04:00:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "'House of the Dragon,' Season 3, Episode 6: Assassination nation",
-      "summary": "'House of the Dragon,' Season 3, Episode 6: Assassination nation NPR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVZaVzdqbFhOQXZFWF9DN1d5eHotRHVnUENrRWFqSVZ5OHJkV18yVHNaZEU1d21VVFozWTdPNWxOdWNwcThsMkk2NVViemwxMVJWTTRhZExMcExBV2syZ3JkNVdBa05zRlh6MTFvMFpVTmxoQUF1WjhiajBidXlOMmNKMHJ5MjlITWV0eUlBcndwZGc?oc=5",
-      "published": "2026-07-27T02:01:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Three people killed, several injured in shooting at Seattle food festival",
-      "summary": "Three people killed, several injured in shooting at Seattle food festival CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cXlWSDJJVS1kd21JWUs4cUlLZDU4YkRHUlZfUEY1ODdlYUpZWjdKNmpHQXhLeG0xTkU4LUhKUy0zWWU3OFVub2QyaWhUWGVUMUEwVi1LUUh1OEFmck5nWHlQYzlLSVd5aEVKd2F3ZW4tdEt0?oc=5",
-      "published": "2026-07-27T01:51:00+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -149,6 +246,30 @@
       "published": "2026-07-26T17:43:17+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Making gay jokes about Republicans is homophobic & counterproductive",
+      "summary": "Making gay jokes about Republicans is homophobic & counterproductive LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFpWc25aTEFkMThPM3BlMUhHM3FXOGRKREJfTGxzTEswVzBEb0NSNGxhbFNqSXBibzdoMS02eFliOVl0ZDc1OHdlejE4STBMUEJ0dGhhcmw5VFJCWnR0ajczMlVNOWFhS3VDajducXNZLUJVblNLZTU5eERrb3hXTHdGWlNzbmkweXY5c1NMR181RC1LaHUtRVloQ1BnLWdVaUg3X2xn?oc=5",
+      "published": "2026-07-26T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Terrorist attack at huge Berlin Pride parade celebration leaves 1 dead, dozens injured",
+      "summary": "Terrorist attack at huge Berlin Pride parade celebration leaves 1 dead, dozens injured Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tVFk4Z0lNTDVZRE8yLWd1QjlaZzZ2NHdORlV4aWJmbEVvWG5MTGJKSXVHWkpWSEZ4WXFROWgwcnBSeHlSMEplaEIybUdWVndqY212SExWZVVTVjFfMC16TEpXamVqOERkYU9R?oc=5",
+      "published": "2026-07-26T16:30:40+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -200,18 +321,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
-      "summary": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOME5QMmxnNW8yd2p5VG1SMTFOaUp3NzU5Y3E5LU1XYnJnOGFNUzhzY2NXMWFnYjM2dWJ2ZUd1eGoyWk1WVnpkYTBRRUxpSG84b19Dc29KdHNmdUR2NzROdUxkNjhFQXNTRVFmZ0lmVGQyUEFob0RzMlRnR2YzeGpqU3F3?oc=5",
-      "published": "2026-07-26T09:01:34+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -219,18 +328,6 @@
       "summary": "Intimate portraits capture grief and defiance at Ayatollah Ali Khamenei’s Tehran funeral NBC News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWxLUHBvc01TTGRyeHl6a0pIZ0xtSDVDbUU5ejE5RVUtSWM1Zlk1OHl4OXBBMFdBUlV3YkZhakVnTGNUaG9wS20tY2Y3WEZaaTZ0VmY1akJWaEFMNW5VVS1TS1BOUWVvLUVWWVNQRDNyRFc3RlZsVnhWRi1fU0pOVTBvVVQ1cE53NDQxV0JWSDNnR3ZXaXBrLVpyRjB2RXVzQ19tQlBR?oc=5",
       "published": "2026-07-26T09:00:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-      "summary": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5",
-      "published": "2026-07-25T22:19:07+00:00",
       "beats": [
         "Politics"
       ]
@@ -260,18 +357,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Matteo Lane’s b-day, Wilson Cruz’s view, & Bobby Berk’s bodywork",
-      "summary": "Matteo Lane’s b-day, Wilson Cruz’s view, & Bobby Berk’s bodywork Queerty",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjVNeHZ0MnVkZnVlRTNPbTBBbVRnVTlYSmE3bm80MkZERjBUX2dTN1RlQjBKV3UyUWJKUGtHUTY2bWZOTjVNY1FlY1dSTWVkQ1F1ODVyaHBZQXlLZjA1Ry1SQXZKWFVjaTctYzFwU29jeEg2SU5BNkoyNmhQRF82WWFpYk1vcWt6Z2tEc2ZpUUxBX1pVd3c?oc=5",
-      "published": "2026-07-25T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -284,18 +369,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "\"The Odyssey\" screenings at Regal King of Prussia impacted after 70mm IMAX projector goes down",
-      "summary": "\"The Odyssey\" screenings at Regal King of Prussia impacted after 70mm IMAX projector goes down CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdS1ROW1yMlM3QmFQdDhXTHJCQ3lkRUUtUnRYbVI4RDc0aW5oYkMyM0dPY3NvTU5RcWRnR3U0azB2LVN0UTVWZXVLTklpRENrUi1Tc2ZJcXgzVE9QSHppNG5RdTUwQURBbHVWdGh1V3ZXR2dyM20yVXhEakJWbGJLaUlIb3J2ZDZYTi1CTUFUZ0x3M2d0RExCTk1Qdw?oc=5",
-      "published": "2026-07-25T13:57:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -305,78 +378,6 @@
       "published": "2026-07-25T09:35:40+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Education Department rescinds disparate impact regulations",
-      "summary": "Education Department rescinds disparate impact regulations K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORU9zTWpGY3hBUm1veTJBV2NqYVZoM0hxY1htYzZabUtjbzBVQnFwSW9GT09Jb0NscXVoN3BZcXBmS3BCUEZMVUVJOFNBOENtbVJ6NV9hcm9zZ0lrbjVjb1dNX1Z3OGxSMTdfNldnd3RVVm1Ea3RYZ0xCc1hJaEJ5Ql9FZ3M0MV9FTHVCQ0JBME1oQW55LXVQRzBsMA?oc=5",
-      "published": "2026-07-24T22:13:11+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "“I’m sick of this!” Mike Johnson’s MAGA mess just went from bad to worse",
-      "summary": "“I’m sick of this!” Mike Johnson’s MAGA mess just went from bad to worse Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1ZYMjJvOGJ1SVNkdTFaSzNoNHV5RUFYUGZsYUtnUGZ5cThnamhWOTZuaDhXbXhxWkxyc2Z6QU1FTF8wUUNEMnBCMFFMZVZGdlBGVU4tVlpNYlNJb2d4RlZ2MmlscG84MUE2THJZMHJRQzJfS09xTmlGUWNSQzlmeU5UVHBFeEZGcmFKQmRFa05aU2Z2dG5fNzRMTkRFTWFkZkE?oc=5",
-      "published": "2026-07-24T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "There Are Already More U.S. Measles Cases This Year Than in All of 2025",
-      "summary": "There Are Already More U.S. Measles Cases This Year Than in All of 2025 Education Week",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWhxTmhTV0pDenFGdzg3LTM4ZUR0SDBUdHRXVUFqajJnTUZNRU5iemtGTlJ5UFZSNTNWUkNsZXhoU2dzWURJWTQ3Y2dNdjdXVGtEVlhmTTlhNS1rOFlGOXdsVzlBNjltb0ljUTd1cEllbzFwcWlWMXFDZjZvOUhYT04wXzlSR2RKeVpYTFBmdWg0NWJLcjJyLWRXMVpsbVJ6U3hsRnM0d2hlOEExSnE5TTBB?oc=5",
-      "published": "2026-07-24T21:33:50+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Could paid apprenticeships help address California’s persistent arts teacher shortage?",
-      "summary": "Could paid apprenticeships help address California’s persistent arts teacher shortage? EdSource",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Eb1RtaDJheHRvWDN3ZmI5TzlfakZEUlotdUlNNW9Nc0c3VEVhaXl1bUYyYV85TW9TdnFDRDVxQ212cjJuZFNwcFk2S1N1dWV1cGk0RjZPYnpkdU5kYkdUZWgtckpwZXZkaG5zalFoWdIBd0FVX3lxTE9iQXpFb3dRZDc2RWloZFZEZ2E2OVU3RkJEbEd4MV91ckllXzk5NjNHNkoxcjg5YTVLNVI4UGNFZ3dldVJzNGxhSU0ydW9HUGJLb0JqazJiQzhCdlBCUG9GMXBFYkJiUzd3WDV3Z09JSEh1VDdrZzd3?oc=5",
-      "published": "2026-07-24T21:27:51+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Pete Buttigieg leads Democratic primary in latest poll",
-      "summary": "Pete Buttigieg leads Democratic primary in latest poll LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFVZNWIzZVY1aXB4dzZTd053T080NjdfZDhKdXc0U0FnV3VwTGRWdHZGdUt2c3Q3OGh0ZVUzaDJRMW1MRWN2V0JvUEpvR1ZPUXZuUTJiMG10RVZ6WERXNUwwc1A0TTJGbmNKaWM0Z0oyRTdBZVpKOWFyNENwNXFwV1otM0xOdF81SmFtenpMNUFhYmp1a2c?oc=5",
-      "published": "2026-07-24T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trump admin pushed LGBTQ+ \"warning\" labels idea. People hate it.",
-      "summary": "Trump admin pushed LGBTQ+ \"warning\" labels idea. People hate it. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0JkLU1IZW5hRDJWR0FXb2tOQ3llY252T3FXUTJ3dnBSMWlCZzhDVzEtTUVGVWdJdTVRTnVSNDRGVGlrSjREUU5ZczBMRVZsWUUtNERGbV9TR2Y2d1J3SzRCSHd4dGxDVFNGdDBjWmFDamRjNm5wUmtZQnczdGE5b1pRYm0tVHc3cGNBb24tNnFLNFlh?oc=5",
-      "published": "2026-07-24T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
