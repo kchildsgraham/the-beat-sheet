@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:19:57.665284+00:00",
+  "updated_at": "2026-07-29T16:05:23.379828+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,73 +20,85 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing",
+      "summary": "Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGRmVnBScUNROHZzNmFTNGdnUmlYZkNRVmtGMGNHM1RfdXBMbGN3YzU0clppaDdOQlBIazhESE94eUN5SGhVWW50Z04xYlg5ZEg2WmMtZlM0dFllUFdCemhwSTkxSWthNWJuN0Y2ZndiZzBhM3A5b25oN3QxZ0ZSMlB0clJUUElpWklBdUprMnNQOGhjdVHSAZsBQVVfeXFMTVBnQzRYWnFBNWR4SERCV0R3aWlVTVo0bWJWa0swcFZyS0lBMEJLS0lpUlN0OU83c1VNUmlyMU95MDhHVGFwWE0tWWpiaklBNjJFUkc2NmJYTGdzOG84SUZxcE5YMFZ3amNoTHc3T3NCb0VvTEZNZnRYYWw3bE0zSzRBRFc4RVJEWDRoWk04bF8tZkphV204d1ZoMlE?oc=5",
+      "published": "2026-07-29T14:35:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "summary": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWxFYldWYXhTSHBoZ2prRElNWTRZdnhvNGpiU2ZaaTZuQ0hDVDBNOGEycC01aW41UmN1dTdwQjZMZG9oS3FHZFpYbjF1VllyWjlJUlNnUHl5eGc4OHBwLVIwa3J6Ql9RUU5VSVFPUWRxZzZBTUsydkZUX0FuZmRJc2NLR29sVTA?oc=5",
+      "published": "2026-07-29T14:21:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "BTS say they won’t submit music for next year’s Grammys",
+      "summary": "BTS say they won’t submit music for next year’s Grammys CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXpUQ29CSWlydHhfenJnNl9DVXVISXctc1h6UnY5ZFJIWGtLTk9RdmhwaENmZWktbFBlMzhKTnV0Sk1PUnBEQlRRMjdIeUstYUlFOHZiYlRVa3BLVzhheFVrX2cyTTFZR0FMdFE5eHprR19YRF9yQm55OC1qLTdaVG1PSHdoM1czbjZUSg?oc=5",
+      "published": "2026-07-29T13:39:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Glen Hansard, Irish songwriter and 'Once' star, dies at 56",
+      "summary": "Glen Hansard, Irish songwriter and 'Once' star, dies at 56 NPR",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zYm11UDlSVVRHdHNLYXFWNmJPS2lQb0hDWGZUblFhemRhd09WSWdnNjBTb2FpNm5LU19YZmxSMEhKdGZ3bDBRNjZMTXpOME81V3VfR1N5eDlGajhaNUdvWXlQeEc0RGFBTGlSUmM4TURzZw?oc=5",
+      "published": "2026-07-29T13:35:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Where and why public school enrollment keeps declining",
+      "summary": "Where and why public school enrollment keeps declining k12dive.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1JsTUZUOGtqM1hFR08wVGVJQjRFWFhnc1VjcW9vUVN0aFgtVXN4WE5uYUQ0R1RFczVDWHhDYlZKeXVkTWVpRm5lUVQ5OGctNDhwWWhsVm12OUEwYzJMSzYyMk0zUlJlaFJUa1FPdVJzQU9oVkNHYncwdzdqdFk3SE9JRkRxcDlpLU5VRUpCS2FMempOdEE?oc=5",
+      "published": "2026-07-29T13:13:20+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Dr. Anthony Fauci repeatedly invokes the Fifth in dramatic Senate hearing about Covid pandemic",
+      "summary": "Dr. Anthony Fauci repeatedly invokes the Fifth in dramatic Senate hearing about Covid pandemic CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yVXJTR0lHRFA1R1VhSmJCbHZ2RzdFN2pXMUNYLWJneFQxNW50N2dMVE1xNVVMa0NheUtVazIzOTRGUnF4YXZNVGltUllQVkRHUWdqano3c0QxaVlHS3FtV2dUSmlLU2Y4dDNmc1M5NHg2Z3NpendDbVE0UEJzTlE?oc=5",
+      "published": "2026-07-29T12:56:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "FIFA plans to sell a stake in the World Cup: How much for and why is Gianni Infantino doing it? - The Athletic",
-      "summary": "FIFA plans to sell a stake in the World Cup: How much for and why is Gianni Infantino doing it? - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1RhbHlfT0p5dC02bndJTVltOENGOVNKV3VXOC0tbkhEOEY2SEx5OGs1d3JnTDNOaVI5MXJqRUdkaUtXZ1JPSXlzWWdyX0RRVnFUUE9PNU1QZEoyRjloX05EYnlEWE5GdlNjSG40b0JRNFN0MFd6Q0RNX0tnR2FtUWNpdGxiMUM0RWJmdE5sUjhUZw?oc=5",
-      "published": "2026-07-29T09:01:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The Federal Reserve faces a critical decision on interest rates",
-      "summary": "The Federal Reserve faces a critical decision on interest rates NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5",
-      "published": "2026-07-29T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill",
-      "summary": "Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaG9jSVhvRWEwT2tzU2JyX2V6TWxwLVVnV2g5SXNYOVI4Uk11VVg3WUFCcjMyVGItb2R6aHdNekxjN3ZzVTRuNTZwVF9ndjhyM3A4NGtoUjdEa0tEZHREbXlaQjczUEFYdENkR0p0U3dSdEhXT2QxQmRvQW1TR2tiZWJxc3NSYnN6R29YbDd6X092YTl1WFhqV19hQVJONE5VZDA5aw?oc=5",
-      "published": "2026-07-29T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "More Americans are going bankrupt. What does that mean?",
-      "summary": "More Americans are going bankrupt. What does that mean? NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMllSRjk2V3hLZnMxZjBDM1pDcEJDVHQyOW5ZTklZZktBYUZCWnctNzJXZDJhSTg1UTFoUWFqaGJjemNtQ1U1YmNmMHdyQ21RLVdOUHE0eXUzNDBKRG9IRXFGeXNSaXQwcU52d09pbThsREplaDNnSHNlVXFzTWlpc1Z2WQ?oc=5",
-      "published": "2026-07-29T09:00:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
-      "summary": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kOHNBaHdBSlVDN0VPSEYwQmhJUHRJN1hWbDFGcEJBSjlWNE1ITE5meUIyblRoRVdNTl9kcHVvanE0Rkh2bWJ4Tk9XQ2s2dFBwb3R2bU9NVm5xU1FSUU53d0UzQTFldlpHM2JpalBzZVJiam5YRm04WjdHSdIBgAFBVV95cUxQMDBxQ21HcVZGZmplWmlSLVpBM09EanhvbTVWOE1vVzl0N1BsRHlqSnljNE9udzBjaGVIY3pYQllKclBhMEQ4NkZQNXVVSU1KWGkzdFRRMkVXTXJkTWQ1TjRCSHJ3TlZjM0EybWVhb2lLS0dxWUhqMTVlZ25MN2N4cw?oc=5",
-      "published": "2026-07-29T07:01:28+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil",
-      "summary": "CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVnNhbFRDNlFmXzU2ZTE4R19pcjdub3lOTFI4VDhtaW1uQ3EtRFNJVWVEUm5fOGpxQXRKQUI3Zk1SdDZJcEY4dXRWb3dITHF1QXdHc3ZIaU12Z1lQNVhGMThLdEYzSjJkN192ZnByNGUxY3hXb212eThKQlpnQVXSAYQBQVVfeXFMT0N6aXhaVVZ0cV9yRGV0NHAwT1VFLTJhVkJNSmhPeTl4Ykg1RXFFRU9lZE1IT3dCUk1NNFc4NnVScVNWMmxMRTB2ckpaXzNzWGs4czB5Q01BYkFRZjhfeEFRc2pNM2VoenVhLUd3a0ppZEE1MjNLLU9TOGpIN3AtckVmWFFH?oc=5",
-      "published": "2026-07-29T06:36:49+00:00",
+      "title": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets",
+      "summary": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmRsdDk0dmlZd0I3YUVwaXlFclUwSUpCc25PREItMGZGWXRSQkZoYUVrVFlBakFZQm5UNnMtczNVb0k2U3ZDalo3akRjR2liVDJVTkl0clJrSHd5UGQtemdSMUdUemhNTmhJN1dWaHcyUDBKY0hrOFh1SlBVd2NFV1RBdlBjX3VZNy0yaG9HdlBiaWVwVmlTVW0waHg?oc=5",
+      "published": "2026-07-29T12:52:17+00:00",
       "beats": [
         "Business"
       ]
@@ -95,10 +107,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Saudi Arabia is getting dragged into a war it has tried desperately to avoid",
-      "summary": "Saudi Arabia is getting dragged into a war it has tried desperately to avoid CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2dMNWJvR3lyTEFXTGF1UHVqSWFhNXNPeDdrNV9SUUpXT2E1aWZ4WHRQMXphTjlkQmZIZmNmNlhabXRQTWJDa3ZrZ3MyNllXUHdrYWFZd1YxV3BmQUtlVEpyS0dpeDNKOUdxbVBsdWlwNXlRUHdKTWMyc0o0RVhpZE5fUkFQS04xZmg5Q29TdXY?oc=5",
-      "published": "2026-07-29T05:39:39+00:00",
+      "title": "Meta CEO Zuckerberg warns US shouldn’t ban Chinese AI models",
+      "summary": "Meta CEO Zuckerberg warns US shouldn’t ban Chinese AI models CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93M21idXd4amJjcDB3SGdESTJGWkVjUjJUMlNGQi10WkhnUVJTMGozYVhFSkYwQUVqX0JUbWlrWTY1WGV2c1JaYTNEaEJCUzI1UDRRVUNmSEZ5TGtwZkgwVDZZV0lYSXBNR1BJRERvVWEyQ3Z6ajhlOA?oc=5",
+      "published": "2026-07-29T11:47:09+00:00",
       "beats": [
         "Politics"
       ]
@@ -107,34 +119,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Why America's super rich have embraced the appeal of British soccer teams",
-      "summary": "Why America's super rich have embraced the appeal of British soccer teams CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnlzUDE0OW95Zk5fQUZiZFFydmJWSE9uMzhLQWx5Z2E3cGsyT2FNT1hyb3A2c2lwSGxSRXFva0l0RDB4VkxxNzM1ejJMTmRRT1E5ZEZGdGtOVVBqRFpIbkhpNUZrcmttVzhlMWlpV3NGTXNUMVdDaTBXcV9fZHN1UEdtMEpVSk9DdTU1Sjh3eEPSAZYBQVVfeXFMUFNLVVd5cVlrNGNQVUdZM3pkZ0Y0NlViSjZTWHFBcHh5dzNoVEx3V2U5dXBCUGt5eDRkNUU2MHNGX2hjMzZqN2NuMHMwZ1RpNDhoVVpqMnpmakVpWFpjbmExLU9TSTlVT1N5OFlRMlZFZ1pqZUpRaEtTM0ExMmFUZnNGS2F1M0VYdDRUa3RLa1Y4WEVMcmJR?oc=5",
-      "published": "2026-07-29T05:00:02+00:00",
+      "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
+      "summary": "Procter & Gamble revenue misses estimates as volume stays unchanged CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LOEpSb1hSYjJUQ3Y4ZXgzakpNMzViZ1hxM1NnOVprTzNaT3lXTFRsbko5a29ZWDR6RDV6U3dtWmg1ekNhOU0wQ3RfbGRfODExZEhwVXNjbjFfNTUzMUZnTFRLZm1ZbVN5NmFUZWpfTjlIT0tsR2hHUzdEQdIBgAFBVV95cUxNZ25XSnZPQ1NDSXRTV3ozcm96WktxVTdEaE00cUtmbDczX1ROeS01OVJ5ZC1keGh0LXVNUEhMajlUUWwwejRBUEVYLTZtQXJhRmpPVTRrVnZvYi13NVl6Q2wySTlBdFluZEdYUjFCcF9USXR1ZHo0bUdXTVYxNnlPdg?oc=5",
+      "published": "2026-07-29T11:15:06+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "China’s humanoid robots have been taking over the global market. Now the US is banning them",
-      "summary": "China’s humanoid robots have been taking over the global market. Now the US is banning them CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRk5NR3VtYWdfYjFCbUJSamdqMEgxai1EUjc4bVpQcGNiSkNNNjV1X0gwUUZTMHFtTk5raklhV2dRcXBXVEZ1Um4wUEdKR1o3aE9LOGRqNXM0RnRIVFVnTlJESkVMWFRtWmFqbGdmajQ?oc=5",
-      "published": "2026-07-29T04:51:05+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Does Trump even care if Russia helps Iran target US troops?",
-      "summary": "Does Trump even care if Russia helps Iran target US troops? CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85UjRBZFF2LThINzFKUENvRVRPaWJJcGxsVk9ULWtlQzlHbW80XzA5b1VUWjIweGFlXzNZN0J0ZHAwRHY3aFlBMkpIRExTdGN3RVdLMjB6OXhtT2FFOTZkU0NXRGFNYldrR25LNGdRWjFpMTRKV2c?oc=5",
-      "published": "2026-07-29T04:00:25+00:00",
+      "title": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio",
+      "summary": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUdzdDlrU3lDbzV2N19MZVNxcU1kS0l5blhJaXdVb2tkdm9JR0tWVGJ6TFBSTDU5VHlKYkR6UzdLNjRsazN2NDdMM2I1dWs4V2pZRGE1TEpiNlpFN3FydnRMbVNsTFVsOXVkSGZmaUFueV9fS01CeG1BR09FMU5iUzh4bExaOVRqSmRya2R0MnF0N3psSk5tTGh0TlhWS0RkRHlUV3Zn0gGrAUFVX3lxTE41bkxUTHBZcUtfQWlyWWJSRUNuRHptVUxPYkp2SjkxNDRucVd2WlF3UHJvZWtib2NlNjZYdHBlUU0yenJ0aXBPSjhubm5lOU9FUGo0R1pNY1FROG5NVFp3OE5LQ2RfaW9yUGdFdFFuZkt2cjRwQVhsR3prZWdLLXVIWm9BOW8tVC1CSmxUVnRlSnFweTRraDQ4QkZ2WkFaeC1Ubl95VFlSQmdhUQ?oc=5",
+      "published": "2026-07-29T11:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,12 +143,24 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "The AI industry is picking sides on open or closed tech. Experts say follow the money.",
-      "summary": "The AI industry is picking sides on open or closed tech. Experts say follow the money. NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVFpNnVuMzVwd3l0bEhyeGxkWFBLSllVeWRoV1NyYVFIeGN3eTE0dGhXZ2ZxbkhBVV9hRkh0bTNvaERDdWtlalI5ajl1SkxOMUVLMW8xQlRJTHRTYlBlQzQ0X2FjWTh0cUxucGtYb2RZS1E0LWIyOUl6aU1WN3ItR0hLY3B5U0l3Y0REdU8yYmVzM29ZMTNPSHZwQkNTRXZnZC1EYWNGMjdaWWlnaDFmbw?oc=5",
-      "published": "2026-07-29T02:45:00+00:00",
+      "title": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’",
+      "summary": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’ nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmZEeS1ael9pNzVOdDkyTlJuUU80dEhYcWxCcUV4QkY4WTJZLXgtTHJjWnhnUTVlaU5VUzZRSklwck42ZVU2eThVaVQyRXBoaWt1M05lYy1xWGotYXZTSTVWaUNBcW1rQUVHWnBsS1dfYWlhRTd2Rms3aGxRaF9WR0QzRzItRy1qRFBOQ1lqWFpUNnk4T0V5OEtYU09fQmRjUUE?oc=5",
+      "published": "2026-07-29T09:40:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
+      "summary": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing NPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaG9jSVhvRWEwT2tzU2JyX2V6TWxwLVVnV2g5SXNYOVI4Uk11VVg3WUFCcjMyVGItb2R6aHdNekxjN3ZzVTRuNTZwVF9ndjhyM3A4NGtoUjdEa0tEZHREbXlaQjczUEFYdENkR0p0U3dSdEhXT2QxQmRvQW1TR2tiZWJxc3NSYnN6R29YbDd6X092YTl1WFhqV19hQVJONE5VZDA5aw?oc=5",
+      "published": "2026-07-29T09:00:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -168,7 +180,7 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Police recover ghost gun after deadly Seattle festival shooting, seek third suspect",
-      "summary": "Police recover ghost gun after deadly Seattle festival shooting, seek third suspect NBC News",
+      "summary": "Police recover ghost gun after deadly Seattle festival shooting, seek third suspect nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXE4TXA4YUYxSkFnX18yd3dEQWhLQm02d05oWnRwUm85aXNoSUZGVDgxcC1HTWhuenRPYUlZb0xPZGVqY0U1ZFdmTXBVZ1VXbkViN2MzUHRDby1iSDVwWlNTZnV0b2lnaVVnUWc0cmFEYUgyNllnS2lkbXdSb2RkOVlZalg4Nm1ETl8yUm5oQzlMcVFlb255di15V2JvOUdsT0JyVElxcTBOMWpaa3oxQnJ2MDk1U1FDQkE?oc=5",
       "published": "2026-07-28T22:06:47+00:00",
       "beats": [
@@ -200,6 +212,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | A Blunt Warning for Israel",
+      "summary": "Opinion | A Blunt Warning for Israel The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oSzB1bHhfX2wtVVplMXZuWmFGdzRoUXd2VE5tdHJWMzRtSXdIdU5hbjJGVlUxUjFYOHFwbU83Nkswb0NsQWVkNGV2Y2VLRUNXUFE4enczT0lZamRhT3RqMlNKdGxPY0tLX1NXSld5eWlqaG1qX09CMGxmdDZpUQ?oc=5",
+      "published": "2026-07-28T21:00:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -224,6 +248,42 @@
       ]
     },
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "COMMENTARY: Not every California student can afford to transfer. Community college bachelor’s degrees could help",
+      "summary": "COMMENTARY: Not every California student can afford to transfer. Community college bachelor’s degrees could help EdSource",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjVrUzNLR2k5R25tcG9aS1k0eEFjVV9LcVRqMHg5TVBMWlJrNlZucEN0ckVtNUJwaldzaGx3cms3ek5MR0FKUkk1bUpxUGkzQjhFNHhZU3R0ZGRmNl9MOUZqTGZjallFLTc1WVJwUUx4Wl9EMFZCSXB0bmFtY3pac0toQTk?oc=5",
+      "published": "2026-07-28T18:12:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "FIFA plans to sell a stake in the World Cup: How much for and why is Gianni Infantino doing it? - The Athletic",
+      "summary": "FIFA plans to sell a stake in the World Cup: How much for and why is Gianni Infantino doing it? - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1RhbHlfT0p5dC02bndJTVltOENGOVNKV3VXOC0tbkhEOEY2SEx5OGs1d3JnTDNOaVI5MXJqRUdkaUtXZ1JPSXlzWWdyX0RRVnFUUE9PNU1QZEoyRjloX05EYnlEWE5GdlNjSG40b0JRNFN0MFd6Q0RNX0tnR2FtUWNpdGxiMUM0RWJmdE5sUjhUZw?oc=5",
+      "published": "2026-07-28T17:59:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Reporter Kaitlan Collins has 5 words in response to Donald Trump telling her to \"smile more\"",
+      "summary": "Reporter Kaitlan Collins has 5 words in response to Donald Trump telling her to \"smile more\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1N2N2FZUXM2MDlMZ0o5N0M0UFRDdUlxVV9jbndyVGRoYkc3WGd0T09jUkRETWR4Nm5TNzY3aEdkRlpVWUp0Nk9TdUZ5Ukp5TUo5QWNGTmtLTHN2eENZOXllT0I2Z3cwX3JiV0hzd09mQXBodzdINmd3c1l3RGl5U0ZBVDYzaVZ6enZmTlAtYzZ6dUN2STRQM1BxS2lHVzQxNUphM09RUV8wN2pYUi0za3dYdEtiR2VhWW5TM3FmWmNRQ2NLZmRsTnNONA?oc=5",
+      "published": "2026-07-28T17:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -236,23 +296,11 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Germany wants to host World Cup in 2038 or 2042 - The Athletic",
-      "summary": "Germany wants to host World Cup in 2038 or 2042 - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHNrQlBZX21rMDJqczAyWXI0WVZnTlNyT1BWR3ZfWmIyTmt0MmhabHNpWWFwZjRFU3IwQ1loQjZoMi1CeU1xZkRUTS1ONXBYTTlHZ1VzUTVGY053eUJhVV9sR2pIazdYaGg3ZUhLV21yQmQwYnNib3pRd2w2VmxlZHBkWnpTekk3R0t2SGZn?oc=5",
-      "published": "2026-07-28T13:25:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "9 in 10 students expected to be eligible for Education Freedom Tax Credit",
-      "summary": "9 in 10 students expected to be eligible for Education Freedom Tax Credit K-12 Dive",
+      "summary": "9 in 10 students expected to be eligible for Education Freedom Tax Credit k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmk5MDExT2RWR3VkQ19Zako0RVZucFZNRGM1a3BFS0ZqOWtaRDg5YWFjR2lwRWNMY0dvZVFyMkhudC1hWFdhV1RlQ2JZR1puUTh4aTktTUhqR0tnb09oN1JwZE1CdTVTZTA2M3RneVVoUzc5cjFCYnBkNWU2MHBnMGFCSHFya3hBZ3N0X01UWmNoYTFQWUxFSkNSY3RXbmc3MF85OFlPQ190dkdxMkhz?oc=5",
       "published": "2026-07-28T13:18:18+00:00",
       "beats": [
@@ -277,22 +325,10 @@
       "lane": "General",
       "title": "California will add science scores to its school accountability system. Why it matters",
       "summary": "California will add science scores to its school accountability system. Why it matters EdSource",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80V3dueTg3cVQtTE9KSGJfX1JQeG42SEljVVYzTTJmSjRaWXlwdGpaM19saF9CYnVUSDhlT0hrelpfckpHblZJTXhpT1BTQzFKZ1ZMZ2k4N09RM1VVS2ZqT216eTBUN2FnVVZnS01sWWJlSWVYeWM40gF_QVVfeXFMTXlyUUVvNUJDdzJOYWZWU1N1eG5YSmE4b01EdmlQOTg2UjFaWk9pd2xmYVZpZThQNUdHRVFUWXlaSWk3ellGMlh6cjZoRlFVbnU3MmxfZkNFbkQ3RXQxZzhwZ1VlWFpDNGFnSmMwQXlCMWFiaEZhWWhoNVFWZ29RYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80V3dueTg3cVQtTE9KSGJfX1JQeG42SEljVVYzTTJmSjRaWXlwdGpaM19saF9CYnVUSDhlT0hrelpfckpHblZJTXhpT1BTQzFKZ1ZMZ2k4N09RM1VVS2ZqT216eTBUN2FnVVZnS01sWWJlSWVYeWM40gHsA0FVX3lxTFBjbjlxXzRub3g5MTdKSkZnQXVmQk5OQjB5T3lmMl9iNUoweTVUTWJacTdVUWJqR0V4bTlzYkRRZGh5bGU4MVcwOGhKSjRSa2w2OGZKQ3RWc1FHNUJ2X3J3QldzeUw2aTdZNEZOcnZOM1JnbExZcmJoWWExbG5IM3JaSkNwSmMwTzNRY18xbnFpUkR2d3BJaVgtRDJERi1zVWg5ck1DelE0bUJLcW8ybm9WcnRYakJZLW16TWFDYWhEWWR5bVRMbmRTRFBsQ3RQY0dRcXFvNUNZOTRQVVExU044dl9jRWhRYUJ6T0g4UU1BOXZGSy12dTJkaW0wNHVVYUlmNWR2cldCZmM1ZG4xaDhVdTdRNzZlTkZxckx3VEhkR2JkdThSSmlsTVhzanBVUXBaeHVUMW85M0w1NW5ZczRZemtla1VoQkNudmNUOE5BR0NkV1FZUkRHdmNLNngxRjNLX3VkSGI3M3FFYk9SM2dVeUdEWGd3dGhwcFJoaEJxSUUzN2tjLXpLenpDdU1MZ05WdXdETXVPbVpEbTdCbExYYXVVVVJBUjRmWXFVZENGbHIxVHlPNTZQQXNtOURaRlFIZWxReko3WDduR0psOGRyalBFSURGZGgzMElzQ3RKb3Nma1kzQzF4c2p1dg?oc=5",
       "published": "2026-07-28T07:19:14+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Stevenson Ranch woman bitten by rattlesnake while tending to her garden",
-      "summary": "Stevenson Ranch woman bitten by rattlesnake while tending to her garden CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXF0SFQ5OTBCdzB2Q3BJU0tRX0t2STdCalBySExpT1UzZHVxdEVWc2N2TTFKZW9QUXZBc0ZQc28yRmt1TG1ZekxNd3lMSDNORC1rYUlWUjBmek44OFlheTRsT0M3di1LV3A4SjJGVFRNSmpUVWc2YUVReG8zVXBXQ1U0LUtaZnR2QTM5S1V6T3Y2dENMeTV0WlJPNnBMc0pzRDRRUHQxV2lrd2xFQUVLYm1n?oc=5",
-      "published": "2026-07-28T01:30:58+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -300,35 +336,11 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Viral video of new robot released by Chinese company raises questions about its abilities",
-      "summary": "Viral video of new robot released by Chinese company raises questions about its abilities NBC News",
+      "summary": "Viral video of new robot released by Chinese company raises questions about its abilities nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVdOTjZURFZMVlNVY2NPMEhuaW4wUW1Ka0VJMUllT0p4Wm5EbnV3QzV4cXlLLWhEWnU2RnBfVlc5SW1iVGlYTEVCR29UY1dscllYY3BxM2dWSHVBY280ZUl2U0xUTGdCMF9nNkZmcUxTMHg1WjhXUnEza1ZqRnRhTldFTzVzWUlWVEl6MjN1YmEwQTNSdGVPUzNHdHVGc2NIMENRc01zYjlnRGdZNExCV0N2X2U2UHpqRWw0?oc=5",
       "published": "2026-07-27T23:55:14+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Todd Blanche tried to hide this explosive Epstein-Tr*mp s*x trafficking allegation. It just backfired.",
-      "summary": "Todd Blanche tried to hide this explosive Epstein-Tr*mp s*x trafficking allegation. It just backfired. Queerty",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSU5wRUFuYjhPZ2NGb3lETUFPMWlVZFV5R0U3WElWckxuVHM5SXFDZ2JrX25HOVExQzhPVnljcnE5RUM0V19wUG10ejZaTVNGc0RaSmRleTNqZjdrb1VJcW1PaENYVm1ZM1RfT3Awc2dMS0h1NUl6dkJDNC04WU92UVFydy1mbjFVR0tObXhUUkY5TkkzSWVhMS1IVWZtcllJ?oc=5",
-      "published": "2026-07-27T23:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Database: Children detained by ICE in California under Trump",
-      "summary": "Database: Children detained by ICE in California under Trump EdSource",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yeXdCbDg3WUJuai1kUUJROHl5T1IxVWRTdWZMQ0tvWDF1TnZUN1dCZHlTRXpGMTJucTdub09tQ2ktRnVxY09TV1dQcnNRSFJFeEp2X3BvaEQ1Uk5lR2ZuUFQ3U01Rd2g4dmtvR3BMUQ?oc=5",
-      "published": "2026-07-27T21:24:20+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -366,19 +378,6 @@
       "published": "2026-07-27T20:55:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump’s education secretary claims schools are secretly transitioning children. They aren’t",
-      "summary": "Trump’s education secretary claims schools are secretly transitioning children. They aren’t Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEJ5Z0R1QmtESHJLaWxVNndCWjhyRHlQci1mbnhuVFBLMzRkcFpxcXRrYnQ1Tng2MFZxV3JHbDlob1RSWklJVjFmdlVMRllZeW5ySWhERjJLOExaMkVLZVpGM2dJRGhDNklOQ21BZXcyLTUxaE16aHZYb2VmM3VVdE5oZFdVZy1Gc0E?oc=5",
-      "published": "2026-07-27T19:33:43+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
       ]
     }
   ]
