@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T20:17:54.500069+00:00",
+  "updated_at": "2026-07-29T23:48:22.460127+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,111 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+      "summary": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTZvZ3pPWFB2QS1DdEJyTmVPZnl1RWE5VGFVTEhqeHQ2N1puazZ3S215R3F1bW03SEFuUjEwTFJZT2V4czA3UDJQNUthU2dYSVJaQTBGVXlrX2ROTjZhcC1qcWdYVkdCWkhQMWFCRGtySElhSDgzTGNJUGMweV81UHFvU2Y3SjhlUEVRSXlvTlF0ZWU4WEFMMXFyOEFsb1Y3YVJkQkJvSdIBrAFBVV95cUxNMFBmOEZZXzhKNjJ5MjFsUjEzLTh0Sk9iY25uSEEyaV9MN2FCUlJGX1ZNdDRLdGZ4azFYNWlyOFpxTG1tbTRjMUczZTVIb0t0Zl9jb3QwNk1SNDZweUxBVHlpMkpraVZpYjk0cnF1cDBOdzJlclFOM2JyYmJQMGRxN3Z3anAyMzlDNkRQS09RT0hMUW41eGo0UXR6bnB4Z0s5Vm5jdm40VTN3YVdG?oc=5",
+      "published": "2026-07-29T23:06:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "summary": "Animal spillover? Lab leak? What the science says about the origins of COVID-19 NPR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0k4UVE1YmhmQW9UQnMyZGlORHFCajN1eVk4c2VvajI3c1o4NW5sanZxSlEzS2pWMGd3Q2J1T3Yyb3BVN2I0RXlCTEJjS3lJRVBUeDMyUnJWMXpuYWNMcWxjeGNLQk12UW5yWU9OSHQ5dEpoOFVaUVRkMHVhZE1YNy1LVDNTbFhHcUp0ZEtJYzNWMVcwOFhiQnlJRGExaTc5dC1Z?oc=5",
+      "published": "2026-07-29T23:02:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Explosions heard in Kyiv as air force warns of incoming missiles",
+      "summary": "Explosions heard in Kyiv as air force warns of incoming missiles CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnRucjd0azV0V0pXVGZOMzJKY2JITTRZMG9yODhCc2lmdl9vUUV6c01oeTJ5a1VYZzRodlhKZjlMOWdvOExjZ3ZkNF9iNzI3OTEzd0ZXOTFpamhHbWVZdVI4TEFOSTVGYWJzcWVrN2EybU1zSFY0bDFOQ2Z6MUpzcmVB?oc=5",
+      "published": "2026-07-29T22:38:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "summary": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers NPR",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXpVakVraGhRTGkzRU9WdGRrY18ySWdUNmpWY1ZfWUd3QmNtUkZvQmJrNWt6NVo4UlR4dGhqSWhsX2YtMmQxMi10UHhnTHRGS19KcGxpX2daektaZmhIYkFXUlQ4ZEVJeHNKRk1DNUdENHRPMmk1VncxVnBXM21HdGZiLXo3Q3lfREVwc2VVWnRLODNPTmtCNEhjZGYyellMTE1wZFJSWlU3Z3dqamVJNUY5OWVSWTd3WGd0MGhSR2J2T2RVZ3hrUzRmRmxtSGQ0MUow?oc=5",
+      "published": "2026-07-29T20:58:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Kathy Ruemmler said Epstein accuser’s assertions ‘lacked inherent credibility’ under questioning about her own ties",
+      "summary": "Kathy Ruemmler said Epstein accuser’s assertions ‘lacked inherent credibility’ under questioning about her own ties CNN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkQlZsQlRIT2FyaTZhNS1ST1l2WHEwMHcwM1owc1FLNHRqRnhnVUtVUy1qMkFaUFN2MnNMdTIyUUhkQ2hlMzlzVlM1V21VMWxRT2VzWWJYMGhfT2hfZmpuWVZfM2RCU3Ntb29wczViUQ?oc=5",
+      "published": "2026-07-29T20:44:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "summary": "Oregon is on track for its worst wildfire season yet NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEl6dFQ0LXUwRDcyUDZSN1FJNjBManRxdFEwOHhCeXRyT1FFSW9wcVoyVU5oQzdsWXBpQi1YT0lSNnROZUpmclFrVnlPZU8xUmc3MlNHOXl2WTduNTBXNFUtc0o3SGhWVGt5MEtCbmxBRk5IdnQ4ZzRYZl85bTgzT1ZZdktvd01malNzek53d09GNjc3WFhHelBTdTFzQQ?oc=5",
+      "published": "2026-07-29T20:28:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Meta’s Reality Labs lost over $4.6 billion in second quarter",
+      "summary": "Meta’s Reality Labs lost over $4.6 billion in second quarter CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDF2eXgxdzFza0pvekFtNnR3eWl4aGRFakoyUWpGY01BNWN4TUl0dUdPcHd3SnhPR1BMVVY4RHZoV3ctV20tcGIwSDZuNDNOZDBuRk9US1JqYU0wVTlnYndWYWhuckxHbjRjTko1ZEFlZ1NEcDU3MHdkemViZUtaZGlSNGtSNWt0VDRLRXdtTFBUbWxXMVVqTVZpZlotZ1FD0gGmAUFVX3lxTFBZSXVLU0EwQW1PS1dsaG94Y1BYVF90dHhia0hwS0FGZFN6MVJHX2Y1MlVhUzRtZG5aMU5ZQjRCbkNWMkFvOE1oODk3TUdTaXFPNzZpcTNGOFAwT2NQNTJTZ2RyUV9KM2praFRIMGVxUDZqVjlvOGtPaWQzT1ZpTUNSaG1MTFVMYUtXYjgwZzhoUHg4M1gxbEp0YnNnejR4Q1lmRTNqaHc?oc=5",
+      "published": "2026-07-29T20:18:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "School Pregnancy Prevention Efforts Shut Down as Trump Emphasizes Abstinence",
-      "summary": "School Pregnancy Prevention Efforts Shut Down as Trump Emphasizes Abstinence edweek.org",
+      "summary": "School Pregnancy Prevention Efforts Shut Down as Trump Emphasizes Abstinence Education Week",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclNyVXEtY004djFVM2hpZnlyTjJJLTJsVVo0Vm8xRWpfWkE2a1JvLXBIV1dVSlFoWF9ReEZiQUpNdnp5VW1DbkpmbF8yU2V6WW9reExSaGtIa09uZ2NrdVkwRjV2OGpOWXZpLXJyQnZCS0h6S3Ntd3hINUhOQ092d2RqME14YUwwMkROX2JtY20td0NLQUFoRW1yZWU0SDVCVmNXX2pLamRodkF1Z0ZjbS1aaXV3UVZaTThDN1Awd1Q?oc=5",
       "published": "2026-07-29T20:10:37+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+      "summary": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFJGSE9razJkU3ZYQXRtUlduTEUtVTdGTGJZRHZNLUZsczdCZDFsWUtQLTU3ZFFqdTdiSEhtY2V1U0xiYU10Qkw0OGxabjRBcnFvZ1BHMFJvY3phQWs4dzJSZVlpQjFSeUNHSHJnNnpma19RYVdmUktDS0JlX1N6Y9IBhgFBVV95cUxQUVAzWF9zVTMxbVRZVnNjT1hWS0JKWTAxakFnVDBubXFzejFWeWZHSjBzUjgxYXRwd3hzRWI5b1J3cnVDdDhHM2E1UVd6bnJWaF9EdVZ0WTBSbjNoSDJURXZjek4zLXVWbHBhT1R5bndZSS1MY2hmSURHMWtzTHY4V0JrcXduQQ?oc=5",
+      "published": "2026-07-29T20:01:23+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -44,30 +140,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "What factors are actually most important in learning to read?",
-      "summary": "What factors are actually most important in learning to read? K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWl3TWlBNnVFWG4tVW9UZnR1Ymo4Z1ZNdDdUNXp2cFZtVTRJclRvX214VjhTay1FNFJTeExwNS1BU3dzaEtFampZWnBqR1FVeUkxSGFuMHc0QUlFLVcxZGtBckpyQ1B5bjdZdzMtc3A4RUdxZXl5eFJoemN2TmxJcDhETU83M2NFa1Z6YjZwTjJUSTM1MHdHdFZDRnNDUQ?oc=5",
-      "published": "2026-07-29T18:41:07+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
-      "summary": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LX2NGcHpQUWNNeXNUM0gtTW84aGROVUdkTTVLRVUwOVdWNjUyaklZcm1oTkhZZEhxQWlVMHJocGhSTThqeG9tTVdJMU1tcHRKU0ZqNExwQ056UFd1Ti1iaFJINXhxSW5NNFhBRjRPeU1lZmtwOHpF0gF8QVVfeXFMTlViSG0xang1cXpOenVJeU5nang0ZWxWSUh0STNaNkNyV1JvbDE2T2dDcVpMNEJTdDE1ZjgxZGMzNlVPR1JKWnJJRHJvNm03WUZkdmZkVng2U1ZDTENMR05ILWFQejdDWERQVDNILTVVeWlic2l1YUIzWGhmTA?oc=5",
-      "published": "2026-07-29T18:24:09+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -80,87 +152,28 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
-      "summary": "Divided Fed holds interest rates steady, but three members voted to hike CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vaDVNbGxDRS1HN2NjNmFxYmNuVXpHZGUzY0J5QVVhdmpiV09hM2NmbFpLLUFpYmROUGNKYjJQRnRsWW0yU3pMWHV2WDk0RUt1bWw2S013V0o1T1ZsSWl4cFp3WkNPT1BTbzdPODd3STJnd9IBd0FVX3lxTE11UXlCYnJZWmo4dEtTNkNkOTVpUzZqeHdvYlNuMjIyaTFILWF3X3RQUmtRakN5Sm1WbjZrRU5MdVlpS3AtMDNiUUdpdFJUeTlucFZQRXBuSG5OVWI0Ry1YT1RzMkZ4a0pfVk44U0JsRUF3TF9MNFlN?oc=5",
-      "published": "2026-07-29T18:00:17+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Ohio’s Democratic candidate for governor loses top LGBTQ+ grade over anti-trans remarks",
+      "summary": "Ohio’s Democratic candidate for governor loses top LGBTQ+ grade over anti-trans remarks Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ncXBWR0xHNGM4ejFGejRCYnROU042VEVITG1LV2VROGhWbXBfdFZ3M2liQlNJRjFKN2ttTGFoNHNmamJlQ1dGemFyYjhxdkJ1VVB6LVJKNW5mZ1laSC1YTGdjcDQtS09GRjV4SjNITFJGQ2FJ?oc=5",
+      "published": "2026-07-29T14:39:41+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
-      "summary": "'Taiwan Travelogue' rethinks history, colonialism, and identity NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalVQUk02dXBaSGdpaFpsTGVxMC0yeVVSZG1WeEZZUnc0YXBjZm9pTHJmMXpLWGlNQ2RyRDJBTFM2cG5tdXlOY2gxMF9DdTlSNmNiMXp2RkNuaWZ3S2ROSE1PWUJxUkZTY0M0SDVjTVdNTHF6ZXQyTnE4cTkzeEI5SExRcUp1UFM5SjVtM1JrMjlBUG4zVUp4REpacWhUZDk1czByZA?oc=5",
-      "published": "2026-07-29T16:55:54+00:00",
+      "title": "Where and why public school enrollment keeps declining",
+      "summary": "Where and why public school enrollment keeps declining K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1JsTUZUOGtqM1hFR08wVGVJQjRFWFhnc1VjcW9vUVN0aFgtVXN4WE5uYUQ0R1RFczVDWHhDYlZKeXVkTWVpRm5lUVQ5OGctNDhwWWhsVm12OUEwYzJMSzYyMk0zUlJlaFJUa1FPdVJzQU9oVkNHYncwdzdqdFk3SE9JRkRxcDlpLU5VRUpCS2FMempOdEE?oc=5",
+      "published": "2026-07-29T13:13:20+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
-      "summary": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZU9Obm5HZ1F4R21heXF0SGxzZlNjYVdZTVZGdXAzUzBHN1RUNi1LbnlPNHJicnEwNkxrSC1TTlBGdGhlWnR1YmNJM3dmTllxLUhpd0xmZmxsTzJmOS1WT3Y2ZWJlcXdJR2FialN0bUFaVjVWaUlxUG5BQjctWlZJNNIBhgFBVV95cUxQbGJXX29pOG1DQmVtVnhleVN5WHF3eWZSSjNUNUYyZGo0el9jUFRZYVZKZC1qTFNPVnNUUG9GM08yd3dXRUNydUx6S1JTam5UNzhldmxzd1hSREk4dENLaF9TOUx0UC1hd0Q5b2FoSGdiZlc1T3RjUnZuMnhkRWNnVkRYc0xPdw?oc=5",
-      "published": "2026-07-29T16:04:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "New Secret Service emails reveal how case was built against James Comey",
-      "summary": "New Secret Service emails reveal how case was built against James Comey CNN",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3lUOXRXdGl5WW5pYm5MZ1g1RWJycVd6MEEyOGpVckYxRE9aMlVXZDRJeUlwU1RJdFl2ZWZYUG4tVVluYlY5d21XMjZMLVJmaS1YM1M3MXk2WjducUpKbWRlakNfVVdmZEU5NWlsalI0VW9yVWZjamIySzlRd1o1R2xXdTlvYUEyMURHczFEMEh2b20xWnQycw?oc=5",
-      "published": "2026-07-29T16:00:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-      "summary": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWxFYldWYXhTSHBoZ2prRElNWTRZdnhvNGpiU2ZaaTZuQ0hDVDBNOGEycC01aW41UmN1dTdwQjZMZG9oS3FHZFpYbjF1VllyWjlJUlNnUHl5eGc4OHBwLVIwa3J6Ql9RUU5VSVFPUWRxZzZBTUsydkZUX0FuZmRJc2NLR29sVTA?oc=5",
-      "published": "2026-07-29T14:21:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "BTS say they won’t submit music for next year’s Grammys",
-      "summary": "BTS say they won’t submit music for next year’s Grammys CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGphcDhWNWRNSThyTjhJcTVTRUVjX2Q1NnpYVVBmdGtrMEtmVFJ1WkxzN29qUGwySWs1Ykk0REdrWVdIc05OTVB3Q0Z6TVJnYmVSSjQzaVA3MkdlVTNLT0ItYmZBUG5INGZPUXB4VUZFeUpJSVRIN3UwQlpFNEZ4V1BLMlJoM3M?oc=5",
-      "published": "2026-07-29T13:39:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Glen Hansard, Irish songwriter and 'Once' star, dies at 56",
-      "summary": "Glen Hansard, Irish songwriter and 'Once' star, dies at 56 NPR",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zYm11UDlSVVRHdHNLYXFWNmJPS2lQb0hDWGZUblFhemRhd09WSWdnNjBTb2FpNm5LU19YZmxSMEhKdGZ3bDBRNjZMTXpOME81V3VfR1N5eDlGajhaNUdvWXlQeEc0RGFBTGlSUmM4TURzZw?oc=5",
-      "published": "2026-07-29T13:35:22+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -168,7 +181,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets",
-      "summary": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets nytimes.com",
+      "summary": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmRsdDk0dmlZd0I3YUVwaXlFclUwSUpCc25PREItMGZGWXRSQkZoYUVrVFlBakFZQm5UNnMtczNVb0k2U3ZDalo3akRjR2liVDJVTkl0clJrSHd5UGQtemdSMUdUemhNTmhJN1dWaHcyUDBKY0hrOFh1SlBVd2NFV1RBdlBjX3VZNy0yaG9HdlBiaWVwVmlTVW0waHg?oc=5",
       "published": "2026-07-29T12:52:17+00:00",
       "beats": [
@@ -176,27 +189,27 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps",
-      "summary": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0c2a2cwY0NIUFctSXo4eDF6Rmx3bGE0NU42V2I5a0tBWXlWejE3ZG5yUFJJbGhHWTdQd3JEdG91QUV2bWRPdzhsWDd2WVhqWEw4LVpfVmEtMmQzSElVQVJ0OVEwUFNneXdVeEtYcndjWFV0aUpITWJzQmszRWRxajhwNUVJWDFxZGZjbHpTVkRTZw?oc=5",
-      "published": "2026-07-29T09:02:05+00:00",
+      "title": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’",
+      "summary": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmZEeS1ael9pNzVOdDkyTlJuUU80dEhYcWxCcUV4QkY4WTJZLXgtTHJjWnhnUTVlaU5VUzZRSklwck42ZVU2eThVaVQyRXBoaWt1M05lYy1xWGotYXZTSTVWaUNBcW1rQUVHWnBsS1dfYWlhRTd2Rms3aGxRaF9WR0QzRzItRy1qRFBOQ1lqWFpUNnk4T0V5OEtYU09fQmRjUUE?oc=5",
+      "published": "2026-07-29T09:40:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The AI industry is picking sides on open or closed tech. Experts say follow the money.",
-      "summary": "The AI industry is picking sides on open or closed tech. Experts say follow the money. NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVFpNnVuMzVwd3l0bEhyeGxkWFBLSllVeWRoV1NyYVFIeGN3eTE0dGhXZ2ZxbkhBVV9hRkh0bTNvaERDdWtlalI5ajl1SkxOMUVLMW8xQlRJTHRTYlBlQzQ0X2FjWTh0cUxucGtYb2RZS1E0LWIyOUl6aU1WN3ItR0hLY3B5U0l3Y0REdU8yYmVzM29ZMTNPSHZwQkNTRXZnZC1EYWNGMjdaWWlnaDFmbw?oc=5",
-      "published": "2026-07-29T02:45:00+00:00",
+      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "summary": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXZPMnhmOHdlN2dRanE5VlJBWFpFVEU1Z0d3SnJoRnhZdHc3VEl6ZXVOZnA1dGVBUU5qRUNXQnhCTTNra0s2akZXc2o3Z0ZBa19weUhCRV9DV1R3Y3FmYTRuR2lxUnVrOXB6STRqdzVyZmxtaWxSMHlJVUozLUQyT2wxbUZpMk1ZX0RwZk9jV2stek56?oc=5",
+      "published": "2026-07-29T09:01:36+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -264,7 +277,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | A Blunt Warning for Israel",
-      "summary": "Opinion | A Blunt Warning for Israel nytimes.com",
+      "summary": "Opinion | A Blunt Warning for Israel The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oSzB1bHhfX2wtVVplMXZuWmFGdzRoUXd2VE5tdHJWMzRtSXdIdU5hbjJGVlUxUjFYOHFwbU83Nkswb0NsQWVkNGV2Y2VLRUNXUFE4enczT0lZamRhT3RqMlNKdGxPY0tLX1NXSld5eWlqaG1qX09CMGxmdDZpUQ?oc=5",
       "published": "2026-07-28T21:00:06+00:00",
       "beats": [
@@ -276,7 +289,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "States Start to Crack Down on 4-Day School Weeks",
-      "summary": "States Start to Crack Down on 4-Day School Weeks edweek.org",
+      "summary": "States Start to Crack Down on 4-Day School Weeks Education Week",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFRQa2swZlc4SjRnOTVPVkIxVVlRNjJMdXYxY3hXUVdrNlNmM0VSU2NtcTY3RmJpeXo3NWRMLXhPQmJLdk1OcEtZeVJTZjgxVDFrSkpLVU1kYUZKdmpzRFhENW9vTUwxYUJDMUR3emNfS1hkMWE4VXRRU1M0cnlUTVUzMkpNM2xYNHdUN2hHUmd1bmxHdEg2MFpjcw?oc=5",
       "published": "2026-07-28T18:21:44+00:00",
       "beats": [
@@ -308,13 +321,13 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Josh Shapiro repeals HIV law that made a diagnosis a felony enhancement in Pennsylvania",
-      "summary": "Josh Shapiro repeals HIV law that made a diagnosis a felony enhancement in Pennsylvania Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXpaSGFPclZQbXhTLXdZYWxiTkZhZnRwUUY2VTdkRVFrU2I1MTZtY1NucWJWa1NMVHVQa3RTMDhRY2V2VkNYbVh1UmphbHBYWWpGRnJsTVNIUzQzZndOYTF4V3NPTjd2aWRJdVlINkoxcGtzU2xTSFJBME1VU1RPdw?oc=5",
-      "published": "2026-07-28T16:15:39+00:00",
+      "title": "Rightwing think tank blames Simone de Beauvoir for girls playing competitive sports. They're wrong.",
+      "summary": "Rightwing think tank blames Simone de Beauvoir for girls playing competitive sports. They're wrong. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXk1MVBYZXB0M1dVUHl6LUtKSl9OYmZJRHh6MFE2NEk0eC1la2pDZlJlbEdtZzJFQ2dULURENlJacVZ0czRWYVdCUHFnMGo2U1AzMVdjZ2lTQWh5MDN1SkdMcHVwdkJhSTZka2syZWhRZDZoZWRkNHFXWUc1elNSNXpxZWNYYzdpZFAxeVNZU2d6WmRDNEZ2eDBVVzQtM00zUXBqNy1BRjMydnZJNG9lRDVhMzlESUdmMmhJSEtpZXZlT3BLU3RnZFh3bnNOdw?oc=5",
+      "published": "2026-07-28T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -323,10 +336,10 @@
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Rightwing think tank blames Simone de Beauvoir for girls playing competitive sports. They're wrong.",
-      "summary": "Rightwing think tank blames Simone de Beauvoir for girls playing competitive sports. They're wrong. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXk1MVBYZXB0M1dVUHl6LUtKSl9OYmZJRHh6MFE2NEk0eC1la2pDZlJlbEdtZzJFQ2dULURENlJacVZ0czRWYVdCUHFnMGo2U1AzMVdjZ2lTQWh5MDN1SkdMcHVwdkJhSTZka2syZWhRZDZoZWRkNHFXWUc1elNSNXpxZWNYYzdpZFAxeVNZU2d6WmRDNEZ2eDBVVzQtM00zUXBqNy1BRjMydnZJNG9lRDVhMzlESUdmMmhJSEtpZXZlT3BLU3RnZFh3bnNOdw?oc=5",
-      "published": "2026-07-28T16:00:00+00:00",
+      "title": "Right wing freaks over “woke” exhibit claiming one of the Care Bears is trans: “It’s nuts!”",
+      "summary": "Right wing freaks over “woke” exhibit claiming one of the Care Bears is trans: “It’s nuts!” LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1VJYm9Ob0tZOE1MVzN3RzlNR0dFRExRclpRZ1Q0MGdjVndGSk1HaVdpeHJuYTJob3dTcU9YaG1rMk5xenR0U2Fmd0psNGxGUzVwdmJIdFpNcVQydGdXeWFyenhfUXQzYVhQUGV6SXc0MFdGb0pQUEhfVTEzS2h5aHVqR3pxc2pEY0ZOd082REJsYkR4MFdxSXZVY0pON2hHaGFHbHFULTJ3RHhScXhKcUFudG00RUx1dElMRW13?oc=5",
+      "published": "2026-07-28T15:30:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -341,18 +354,6 @@
       "published": "2026-07-28T13:18:18+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Gen Z adults are staying away from churches because of Trump",
-      "summary": "Gen Z adults are staying away from churches because of Trump LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlZDcDdOQlZlNGlkZF9ZVXFseHhwSE5Cd3lhUmdkN1ZXa2NNNWw3NVdGT042dDdaUHBfdFM4VFk2RDdPZTNQaGMyUGJjYzV2bXBwMElDYXhCeDBqdkh5ZE1IUW9DVEhVdHUyNjFIQXdYa0pHVFMtLXg5b3hNS0huVUdQOGhoY09tZFZGTGw3d1JLcjNVaHc?oc=5",
-      "published": "2026-07-28T12:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
