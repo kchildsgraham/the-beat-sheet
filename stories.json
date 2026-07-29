@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T16:05:23.379828+00:00",
+  "updated_at": "2026-07-29T20:17:54.500069+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,109 @@
   "errors": [],
   "stories": [
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "School Pregnancy Prevention Efforts Shut Down as Trump Emphasizes Abstinence",
+      "summary": "School Pregnancy Prevention Efforts Shut Down as Trump Emphasizes Abstinence edweek.org",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclNyVXEtY004djFVM2hpZnlyTjJJLTJsVVo0Vm8xRWpfWkE2a1JvLXBIV1dVSlFoWF9ReEZiQUpNdnp5VW1DbkpmbF8yU2V6WW9reExSaGtIa09uZ2NrdVkwRjV2OGpOWXZpLXJyQnZCS0h6S3Ntd3hINUhOQ092d2RqME14YUwwMkROX2JtY20td0NLQUFoRW1yZWU0SDVCVmNXX2pLamRodkF1Z0ZjbS1aaXV3UVZaTThDN1Awd1Q?oc=5",
+      "published": "2026-07-29T20:10:37+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Italian diaspora wins a major battle in the fight for citizenship",
+      "summary": "Italian diaspora wins a major battle in the fight for citizenship CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFNCUWFkWDZFSFItUk54RU9tTDZuWUVWTGhKN2tITk9TaTZVYzJ6MUVCZnZFMXVxUEFkUFJWVUN2d0lTNUN0ZWN2MGFNWGpYS0JZMXZQTWtFYlNQdk1nMWthZlRyN1J5UEZiOWt3Sk4zWWhBcVF4dHdhc2IxZ0pJYVM5TTdHdktqZ1dHQk41UnpkOWFWbHA0?oc=5",
+      "published": "2026-07-29T19:13:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "What factors are actually most important in learning to read?",
+      "summary": "What factors are actually most important in learning to read? K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWl3TWlBNnVFWG4tVW9UZnR1Ymo4Z1ZNdDdUNXp2cFZtVTRJclRvX214VjhTay1FNFJTeExwNS1BU3dzaEtFampZWnBqR1FVeUkxSGFuMHc0QUlFLVcxZGtBckpyQ1B5bjdZdzMtc3A4RUdxZXl5eFJoemN2TmxJcDhETU83M2NFa1Z6YjZwTjJUSTM1MHdHdFZDRnNDUQ?oc=5",
+      "published": "2026-07-29T18:41:07+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing",
-      "summary": "Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGRmVnBScUNROHZzNmFTNGdnUmlYZkNRVmtGMGNHM1RfdXBMbGN3YzU0clppaDdOQlBIazhESE94eUN5SGhVWW50Z04xYlg5ZEg2WmMtZlM0dFllUFdCemhwSTkxSWthNWJuN0Y2ZndiZzBhM3A5b25oN3QxZ0ZSMlB0clJUUElpWklBdUprMnNQOGhjdVHSAZsBQVVfeXFMTVBnQzRYWnFBNWR4SERCV0R3aWlVTVo0bWJWa0swcFZyS0lBMEJLS0lpUlN0OU83c1VNUmlyMU95MDhHVGFwWE0tWWpiaklBNjJFUkc2NmJYTGdzOG84SUZxcE5YMFZ3amNoTHc3T3NCb0VvTEZNZnRYYWw3bE0zSzRBRFc4RVJEWDRoWk04bF8tZkphV204d1ZoMlE?oc=5",
-      "published": "2026-07-29T14:35:52+00:00",
+      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+      "summary": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LX2NGcHpQUWNNeXNUM0gtTW84aGROVUdkTTVLRVUwOVdWNjUyaklZcm1oTkhZZEhxQWlVMHJocGhSTThqeG9tTVdJMU1tcHRKU0ZqNExwQ056UFd1Ti1iaFJINXhxSW5NNFhBRjRPeU1lZmtwOHpF0gF8QVVfeXFMTlViSG0xang1cXpOenVJeU5nang0ZWxWSUh0STNaNkNyV1JvbDE2T2dDcVpMNEJTdDE1ZjgxZGMzNlVPR1JKWnJJRHJvNm03WUZkdmZkVng2U1ZDTENMR05ILWFQejdDWERQVDNILTVVeWlic2l1YUIzWGhmTA?oc=5",
+      "published": "2026-07-29T18:24:09+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike",
+      "summary": "Federal Reserve holds interest rates steady, but 3 officials vote for hike CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5",
+      "published": "2026-07-29T18:03:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+      "summary": "Divided Fed holds interest rates steady, but three members voted to hike CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vaDVNbGxDRS1HN2NjNmFxYmNuVXpHZGUzY0J5QVVhdmpiV09hM2NmbFpLLUFpYmROUGNKYjJQRnRsWW0yU3pMWHV2WDk0RUt1bWw2S013V0o1T1ZsSWl4cFp3WkNPT1BTbzdPODd3STJnd9IBd0FVX3lxTE11UXlCYnJZWmo4dEtTNkNkOTVpUzZqeHdvYlNuMjIyaTFILWF3X3RQUmtRakN5Sm1WbjZrRU5MdVlpS3AtMDNiUUdpdFJUeTlucFZQRXBuSG5OVWI0Ry1YT1RzMkZ4a0pfVk44U0JsRUF3TF9MNFlN?oc=5",
+      "published": "2026-07-29T18:00:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "summary": "'Taiwan Travelogue' rethinks history, colonialism, and identity NPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalVQUk02dXBaSGdpaFpsTGVxMC0yeVVSZG1WeEZZUnc0YXBjZm9pTHJmMXpLWGlNQ2RyRDJBTFM2cG5tdXlOY2gxMF9DdTlSNmNiMXp2RkNuaWZ3S2ROSE1PWUJxUkZTY0M0SDVjTVdNTHF6ZXQyTnE4cTkzeEI5SExRcUp1UFM5SjVtM1JrMjlBUG4zVUp4REpacWhUZDk1czByZA?oc=5",
+      "published": "2026-07-29T16:55:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
+      "summary": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZU9Obm5HZ1F4R21heXF0SGxzZlNjYVdZTVZGdXAzUzBHN1RUNi1LbnlPNHJicnEwNkxrSC1TTlBGdGhlWnR1YmNJM3dmTllxLUhpd0xmZmxsTzJmOS1WT3Y2ZWJlcXdJR2FialN0bUFaVjVWaUlxUG5BQjctWlZJNNIBhgFBVV95cUxQbGJXX29pOG1DQmVtVnhleVN5WHF3eWZSSjNUNUYyZGo0el9jUFRZYVZKZC1qTFNPVnNUUG9GM08yd3dXRUNydUx6S1JTam5UNzhldmxzd1hSREk4dENLaF9TOUx0UC1hd0Q5b2FoSGdiZlc1T3RjUnZuMnhkRWNnVkRYc0xPdw?oc=5",
+      "published": "2026-07-29T16:04:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "New Secret Service emails reveal how case was built against James Comey",
+      "summary": "New Secret Service emails reveal how case was built against James Comey CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3lUOXRXdGl5WW5pYm5MZ1g1RWJycVd6MEEyOGpVckYxRE9aMlVXZDRJeUlwU1RJdFl2ZWZYUG4tVVluYlY5d21XMjZMLVJmaS1YM1M3MXk2WjducUpKbWRlakNfVVdmZEU5NWlsalI0VW9yVWZjamIySzlRd1o1R2xXdTlvYUEyMURHczFEMEh2b20xWnQycw?oc=5",
+      "published": "2026-07-29T16:00:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -49,7 +145,7 @@
       "lane": "General",
       "title": "BTS say they won’t submit music for next year’s Grammys",
       "summary": "BTS say they won’t submit music for next year’s Grammys CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXpUQ29CSWlydHhfenJnNl9DVXVISXctc1h6UnY5ZFJIWGtLTk9RdmhwaENmZWktbFBlMzhKTnV0Sk1PUnBEQlRRMjdIeUstYUlFOHZiYlRVa3BLVzhheFVrX2cyTTFZR0FMdFE5eHprR19YRF9yQm55OC1qLTdaVG1PSHdoM1czbjZUSg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGphcDhWNWRNSThyTjhJcTVTRUVjX2Q1NnpYVVBmdGtrMEtmVFJ1WkxzN29qUGwySWs1Ykk0REdrWVdIc05OTVB3Q0Z6TVJnYmVSSjQzaVA3MkdlVTNLT0ItYmZBUG5INGZPUXB4VUZFeUpJSVRIN3UwQlpFNEZ4V1BLMlJoM3M?oc=5",
       "published": "2026-07-29T13:39:04+00:00",
       "beats": [
         "Politics"
@@ -68,35 +164,11 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Where and why public school enrollment keeps declining",
-      "summary": "Where and why public school enrollment keeps declining k12dive.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1JsTUZUOGtqM1hFR08wVGVJQjRFWFhnc1VjcW9vUVN0aFgtVXN4WE5uYUQ0R1RFczVDWHhDYlZKeXVkTWVpRm5lUVQ5OGctNDhwWWhsVm12OUEwYzJMSzYyMk0zUlJlaFJUa1FPdVJzQU9oVkNHYncwdzdqdFk3SE9JRkRxcDlpLU5VRUpCS2FMempOdEE?oc=5",
-      "published": "2026-07-29T13:13:20+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Dr. Anthony Fauci repeatedly invokes the Fifth in dramatic Senate hearing about Covid pandemic",
-      "summary": "Dr. Anthony Fauci repeatedly invokes the Fifth in dramatic Senate hearing about Covid pandemic CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yVXJTR0lHRFA1R1VhSmJCbHZ2RzdFN2pXMUNYLWJneFQxNW50N2dMVE1xNVVMa0NheUtVazIzOTRGUnF4YXZNVGltUllQVkRHUWdqano3c0QxaVlHS3FtV2dUSmlLU2Y4dDNmc1M5NHg2Z3NpendDbVE0UEJzTlE?oc=5",
-      "published": "2026-07-29T12:56:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets",
-      "summary": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets The New York Times",
+      "summary": "The rise of Frank ‘The Tank’ Fleming and the big business of being mad at the Mets nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmRsdDk0dmlZd0I3YUVwaXlFclUwSUpCc25PREItMGZGWXRSQkZoYUVrVFlBakFZQm5UNnMtczNVb0k2U3ZDalo3akRjR2liVDJVTkl0clJrSHd5UGQtemdSMUdUemhNTmhJN1dWaHcyUDBKY0hrOFh1SlBVd2NFV1RBdlBjX3VZNy0yaG9HdlBiaWVwVmlTVW0waHg?oc=5",
       "published": "2026-07-29T12:52:17+00:00",
       "beats": [
@@ -104,37 +176,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Meta CEO Zuckerberg warns US shouldn’t ban Chinese AI models",
-      "summary": "Meta CEO Zuckerberg warns US shouldn’t ban Chinese AI models CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93M21idXd4amJjcDB3SGdESTJGWkVjUjJUMlNGQi10WkhnUVJTMGozYVhFSkYwQUVqX0JUbWlrWTY1WGV2c1JaYTNEaEJCUzI1UDRRVUNmSEZ5TGtwZkgwVDZZV0lYSXBNR1BJRERvVWEyQ3Z6ajhlOA?oc=5",
-      "published": "2026-07-29T11:47:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
-      "summary": "Procter & Gamble revenue misses estimates as volume stays unchanged CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LOEpSb1hSYjJUQ3Y4ZXgzakpNMzViZ1hxM1NnOVprTzNaT3lXTFRsbko5a29ZWDR6RDV6U3dtWmg1ekNhOU0wQ3RfbGRfODExZEhwVXNjbjFfNTUzMUZnTFRLZm1ZbVN5NmFUZWpfTjlIT0tsR2hHUzdEQdIBgAFBVV95cUxNZ25XSnZPQ1NDSXRTV3ozcm96WktxVTdEaE00cUtmbDczX1ROeS01OVJ5ZC1keGh0LXVNUEhMajlUUWwwejRBUEVYLTZtQXJhRmpPVTRrVnZvYi13NVl6Q2wySTlBdFluZEdYUjFCcF9USXR1ZHo0bUdXTVYxNnlPdg?oc=5",
-      "published": "2026-07-29T11:15:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio",
-      "summary": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUdzdDlrU3lDbzV2N19MZVNxcU1kS0l5blhJaXdVb2tkdm9JR0tWVGJ6TFBSTDU5VHlKYkR6UzdLNjRsazN2NDdMM2I1dWs4V2pZRGE1TEpiNlpFN3FydnRMbVNsTFVsOXVkSGZmaUFueV9fS01CeG1BR09FMU5iUzh4bExaOVRqSmRya2R0MnF0N3psSk5tTGh0TlhWS0RkRHlUV3Zn0gGrAUFVX3lxTE41bkxUTHBZcUtfQWlyWWJSRUNuRHptVUxPYkp2SjkxNDRucVd2WlF3UHJvZWtib2NlNjZYdHBlUU0yenJ0aXBPSjhubm5lOU9FUGo0R1pNY1FROG5NVFp3OE5LQ2RfaW9yUGdFdFFuZkt2cjRwQVhsR3prZWdLLXVIWm9BOW8tVC1CSmxUVnRlSnFweTRraDQ4QkZ2WkFaeC1Ubl95VFlSQmdhUQ?oc=5",
-      "published": "2026-07-29T11:00:01+00:00",
+      "title": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps",
+      "summary": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0c2a2cwY0NIUFctSXo4eDF6Rmx3bGE0NU42V2I5a0tBWXlWejE3ZG5yUFJJbGhHWTdQd3JEdG91QUV2bWRPdzhsWDd2WVhqWEw4LVpfVmEtMmQzSElVQVJ0OVEwUFNneXdVeEtYcndjWFV0aUpITWJzQmszRWRxajhwNUVJWDFxZGZjbHpTVkRTZw?oc=5",
+      "published": "2026-07-29T09:02:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,24 +191,24 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’",
-      "summary": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’ nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmZEeS1ael9pNzVOdDkyTlJuUU80dEhYcWxCcUV4QkY4WTJZLXgtTHJjWnhnUTVlaU5VUzZRSklwck42ZVU2eThVaVQyRXBoaWt1M05lYy1xWGotYXZTSTVWaUNBcW1rQUVHWnBsS1dfYWlhRTd2Rms3aGxRaF9WR0QzRzItRy1qRFBOQ1lqWFpUNnk4T0V5OEtYU09fQmRjUUE?oc=5",
-      "published": "2026-07-29T09:40:00+00:00",
+      "title": "The AI industry is picking sides on open or closed tech. Experts say follow the money.",
+      "summary": "The AI industry is picking sides on open or closed tech. Experts say follow the money. NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVFpNnVuMzVwd3l0bEhyeGxkWFBLSllVeWRoV1NyYVFIeGN3eTE0dGhXZ2ZxbkhBVV9hRkh0bTNvaERDdWtlalI5ajl1SkxOMUVLMW8xQlRJTHRTYlBlQzQ0X2FjWTh0cUxucGtYb2RZS1E0LWIyOUl6aU1WN3ItR0hLY3B5U0l3Y0REdU8yYmVzM29ZMTNPSHZwQkNTRXZnZC1EYWNGMjdaWWlnaDFmbw?oc=5",
+      "published": "2026-07-29T02:45:00+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
-      "summary": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaG9jSVhvRWEwT2tzU2JyX2V6TWxwLVVnV2g5SXNYOVI4Uk11VVg3WUFCcjMyVGItb2R6aHdNekxjN3ZzVTRuNTZwVF9ndjhyM3A4NGtoUjdEa0tEZHREbXlaQjczUEFYdENkR0p0U3dSdEhXT2QxQmRvQW1TR2tiZWJxc3NSYnN6R29YbDd6X092YTl1WFhqV19hQVJONE5VZDA5aw?oc=5",
-      "published": "2026-07-29T09:00:00+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "The Odyssey's mystery butt revealed! Meet the man behind the blockbuster's \"caked up deer\"",
+      "summary": "The Odyssey's mystery butt revealed! Meet the man behind the blockbuster's \"caked up deer\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONU5zc2JrMkI3bGJvU0JMTUJpeDB3ZHEwU1V2bXBIa2lIVWd4QlFQaTZLNXdXR1Btam5PNlo3SG9lSFYwZ0pYMjJtWlBrWnNXT0Rxb2hmVlk4NnRySWg2TndneGZkTnRyMzJpeHR1RFUtZjNCM2E1RmdFaGRxRnRSaWxNZTF6OWtwcWlSRFlQVnp5Wl9RQnQtXzRhd3didW1EbkRLTUhJX29wRDV2WE1vSmdhS1o?oc=5",
+      "published": "2026-07-29T00:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -180,7 +228,7 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Police recover ghost gun after deadly Seattle festival shooting, seek third suspect",
-      "summary": "Police recover ghost gun after deadly Seattle festival shooting, seek third suspect nbcnews.com",
+      "summary": "Police recover ghost gun after deadly Seattle festival shooting, seek third suspect NBC News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXE4TXA4YUYxSkFnX18yd3dEQWhLQm02d05oWnRwUm85aXNoSUZGVDgxcC1HTWhuenRPYUlZb0xPZGVqY0U1ZFdmTXBVZ1VXbkViN2MzUHRDby1iSDVwWlNTZnV0b2lnaVVnUWc0cmFEYUgyNllnS2lkbXdSb2RkOVlZalg4Nm1ETl8yUm5oQzlMcVFlb255di15V2JvOUdsT0JyVElxcTBOMWpaa3oxQnJ2MDk1U1FDQkE?oc=5",
       "published": "2026-07-28T22:06:47+00:00",
       "beats": [
@@ -216,7 +264,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | A Blunt Warning for Israel",
-      "summary": "Opinion | A Blunt Warning for Israel The New York Times",
+      "summary": "Opinion | A Blunt Warning for Israel nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oSzB1bHhfX2wtVVplMXZuWmFGdzRoUXd2VE5tdHJWMzRtSXdIdU5hbjJGVlUxUjFYOHFwbU83Nkswb0NsQWVkNGV2Y2VLRUNXUFE4enczT0lZamRhT3RqMlNKdGxPY0tLX1NXSld5eWlqaG1qX09CMGxmdDZpUQ?oc=5",
       "published": "2026-07-28T21:00:06+00:00",
       "beats": [
@@ -227,20 +275,8 @@
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
-      "title": "Principals, Don't Let AI Undermine Strong Parent Relationships (Opinion)",
-      "summary": "Principals, Don't Let AI Undermine Strong Parent Relationships (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDMyMWRNeUNTNTZ0aTc3d2tjWGpvVjFGbnkyUWZ3d291WDdJQk4tUFkyM0hsMUlnUTdqZzV4cEg1WGNXZEZ0bDBQb1lvUFBQNUZDckwwOWFTSDZjUVdBcEZXYzI1RC1uT3VuaEVBX3lBUVQ3Z0tMeTk0X0VQV3dDc19mbVhmdE5vWVdVTjAyRWpDcHpiNllwejE1eVVjaENmWm9oM1diRmh5Xzhld2JV?oc=5",
-      "published": "2026-07-28T18:27:55+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
       "title": "States Start to Crack Down on 4-Day School Weeks",
-      "summary": "States Start to Crack Down on 4-Day School Weeks Education Week",
+      "summary": "States Start to Crack Down on 4-Day School Weeks edweek.org",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFRQa2swZlc4SjRnOTVPVkIxVVlRNjJMdXYxY3hXUVdrNlNmM0VSU2NtcTY3RmJpeXo3NWRMLXhPQmJLdk1OcEtZeVJTZjgxVDFrSkpLVU1kYUZKdmpzRFhENW9vTUwxYUJDMUR3emNfS1hkMWE4VXRRU1M0cnlUTVUzMkpNM2xYNHdUN2hHUmd1bmxHdEg2MFpjcw?oc=5",
       "published": "2026-07-28T18:21:44+00:00",
       "beats": [
@@ -260,25 +296,13 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "FIFA plans to sell a stake in the World Cup: How much for and why is Gianni Infantino doing it? - The Athletic",
-      "summary": "FIFA plans to sell a stake in the World Cup: How much for and why is Gianni Infantino doing it? - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1RhbHlfT0p5dC02bndJTVltOENGOVNKV3VXOC0tbkhEOEY2SEx5OGs1d3JnTDNOaVI5MXJqRUdkaUtXZ1JPSXlzWWdyX0RRVnFUUE9PNU1QZEoyRjloX05EYnlEWE5GdlNjSG40b0JRNFN0MFd6Q0RNX0tnR2FtUWNpdGxiMUM0RWJmdE5sUjhUZw?oc=5",
-      "published": "2026-07-28T17:59:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Reporter Kaitlan Collins has 5 words in response to Donald Trump telling her to \"smile more\"",
-      "summary": "Reporter Kaitlan Collins has 5 words in response to Donald Trump telling her to \"smile more\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1N2N2FZUXM2MDlMZ0o5N0M0UFRDdUlxVV9jbndyVGRoYkc3WGd0T09jUkRETWR4Nm5TNzY3aEdkRlpVWUp0Nk9TdUZ5Ukp5TUo5QWNGTmtLTHN2eENZOXllT0I2Z3cwX3JiV0hzd09mQXBodzdINmd3c1l3RGl5U0ZBVDYzaVZ6enZmTlAtYzZ6dUN2STRQM1BxS2lHVzQxNUphM09RUV8wN2pYUi0za3dYdEtiR2VhWW5TM3FmWmNRQ2NLZmRsTnNONA?oc=5",
-      "published": "2026-07-28T17:30:00+00:00",
+      "title": "Santa Rosa police arrest 5 arson suspects following recent fires",
+      "summary": "Santa Rosa police arrest 5 arson suspects following recent fires CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkVWb21zLWY1b3RaWXBoa3NXU2x0YkRHQjIzVFJ0d1REbUhnWWFMdWZ2XzdoZm13a0VRdVVRT0Zqc3hHbW1MeDJ1MTlYSUowSDYxWU1YaENpZjBHR0FRcUhudV9vRWlWVkZTMUtrWUZYSFk0Uy03NzlCY3A3RTJKNkgzOEZXRmZJOE1iSWlTeWhrNlVUZXZja1pKcG8?oc=5",
+      "published": "2026-07-28T17:00:59+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -296,11 +320,23 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Rightwing think tank blames Simone de Beauvoir for girls playing competitive sports. They're wrong.",
+      "summary": "Rightwing think tank blames Simone de Beauvoir for girls playing competitive sports. They're wrong. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXk1MVBYZXB0M1dVUHl6LUtKSl9OYmZJRHh6MFE2NEk0eC1la2pDZlJlbEdtZzJFQ2dULURENlJacVZ0czRWYVdCUHFnMGo2U1AzMVdjZ2lTQWh5MDN1SkdMcHVwdkJhSTZka2syZWhRZDZoZWRkNHFXWUc1elNSNXpxZWNYYzdpZFAxeVNZU2d6WmRDNEZ2eDBVVzQtM00zUXBqNy1BRjMydnZJNG9lRDVhMzlESUdmMmhJSEtpZXZlT3BLU3RnZFh3bnNOdw?oc=5",
+      "published": "2026-07-28T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "9 in 10 students expected to be eligible for Education Freedom Tax Credit",
-      "summary": "9 in 10 students expected to be eligible for Education Freedom Tax Credit k12dive.com",
+      "summary": "9 in 10 students expected to be eligible for Education Freedom Tax Credit K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmk5MDExT2RWR3VkQ19Zako0RVZucFZNRGM1a3BFS0ZqOWtaRDg5YWFjR2lwRWNMY0dvZVFyMkhudC1hWFdhV1RlQ2JZR1puUTh4aTktTUhqR0tnb09oN1JwZE1CdTVTZTA2M3RneVVoUzc5cjFCYnBkNWU2MHBnMGFCSHFya3hBZ3N0X01UWmNoYTFQWUxFSkNSY3RXbmc3MF85OFlPQ190dkdxMkhz?oc=5",
       "published": "2026-07-28T13:18:18+00:00",
       "beats": [
@@ -336,48 +372,11 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Viral video of new robot released by Chinese company raises questions about its abilities",
-      "summary": "Viral video of new robot released by Chinese company raises questions about its abilities nbcnews.com",
+      "summary": "Viral video of new robot released by Chinese company raises questions about its abilities NBC News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVdOTjZURFZMVlNVY2NPMEhuaW4wUW1Ka0VJMUllT0p4Wm5EbnV3QzV4cXlLLWhEWnU2RnBfVlc5SW1iVGlYTEVCR29UY1dscllYY3BxM2dWSHVBY280ZUl2U0xUTGdCMF9nNkZmcUxTMHg1WjhXUnEza1ZqRnRhTldFTzVzWUlWVEl6MjN1YmEwQTNSdGVPUzNHdHVGc2NIMENRc01zYjlnRGdZNExCV0N2X2U2UHpqRWw0?oc=5",
       "published": "2026-07-27T23:55:14+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Federal English-Learner Grant Returns This Fall Under New Oversight",
-      "summary": "Federal English-Learner Grant Returns This Fall Under New Oversight Education Week",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjQ1ZHRfc1N6bXFpcTFiMVJmUzZhQS1uLVF2ZFJSM2prdFZOVTJzaExtY2gxaGlyU3NJckNWUURoV3p6Z0JsVzFWWEF6OXBNT1hSOXB0bkZ0bFU1dXBpc21za09FLS1GTjRraUM2QUxiVmllUUZBVFFpaFZHbmxWSEhSb3g3UnRSVUtmbzBDenJueURrbFRhbkdINnY5R1RWWGw5OFRLVjZqRlg3cThmcHB4a0Y?oc=5",
-      "published": "2026-07-27T21:04:43+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Authorities blasted for mishandling \"unstable\" woman's child abuse accusation against Pete Buttigieg",
-      "summary": "Authorities blasted for mishandling \"unstable\" woman's child abuse accusation against Pete Buttigieg LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS1UzZm1pbG56T2lRdVlQVWhXdlhETEI3MnN6TmUwWHljbl9lTWlJMDVoLVplcU5tT2hqV0xIdXFBM0RBelRqV2ZVMUZtemNfX184TVNIaDBvWUdCaGpLYWFodkRxaXlVS3c5bndIcE1INUNkZm9FU2FtQXZ5UXdObUNkY2ZhT1RkUF9EMVl2UFBNWmpCVG51UU1SWXJYUUQwRGVIamgtS0x0TFZWU1E?oc=5",
-      "published": "2026-07-27T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "\"Coordinated cyberattack\" targeted 30-plus Minnesota water systems in 48 hours, MNIT says",
-      "summary": "\"Coordinated cyberattack\" targeted 30-plus Minnesota water systems in 48 hours, MNIT says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEJYVmIteHFoX1JMMmR4SHVvUEQtaFpyVk0wZFVFaGJVM1VIRzdaTmttbEZyVTZjTTNLV1hUcDJDN1VLWGUyQW15NHVpWmh3aU9WRGRxeC1qZGxLU24zaEJvbXhIMGZEQzY3d2g1MjY3a3Z1aGJyTnduaW1udTIxVEIyMzRFR29EbXA3RlRR?oc=5",
-      "published": "2026-07-27T20:55:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
