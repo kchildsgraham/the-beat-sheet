@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T20:37:24.508500+00:00",
+  "updated_at": "2026-07-29T00:12:19.661980+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,121 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "American Airlines flights resume after being halted due to an IT problem, airline says",
+      "summary": "American Airlines flights resume after being halted due to an IT problem, airline says CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMOGF5Wm9KemxRR2JiemtOZ1dIazFvUDZhWllKUnVqaXRsZFhDU1N5dlhEUW5OLTZSLWhiT05HTGx1eFlsQjVtTDE5TnhpYjhWa2MxS29mS2RqRnB5bjVXcHFwZnFvcERyS2pJR2FaTHJfMHpP?oc=5",
+      "published": "2026-07-28T23:18:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
-      "summary": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoN0ROMnFseXZCVV9LclJuRU5QMmZ3RlNtWHg3TzB6ZTAxVjd2cmpRMngxSWdfeWlhSFRINHF3MExhNDJVWHgwWFk0TzFVNjFpdHVldUpBYnVnRWp1Y0Ewa3RtZFh4NWFWQ2U3RF91R3RjNWs3ZkE?oc=5",
-      "published": "2026-07-28T20:12:59+00:00",
+      "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
+      "summary": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup NPR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0dGZFFocTR6eUh4el9Md1ZXbDJ3QVpLVjZmbkxVSnN0RnJSb2J2U0NpSnVabXVxUEg0b21IUVZjS3pDdDRneS1OeDFjN1RCdXZZSk9WQjA2ZW10dG43TWFlQlpNMElzTjhMaE1ocVNQQnE5RENwZFh6N2ZxanFzOE5n?oc=5",
+      "published": "2026-07-28T23:04:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "SK Hynix second-quarter profit surges 557% to a new high — but misses estimates",
+      "summary": "SK Hynix second-quarter profit surges 557% to a new high — but misses estimates CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmt4TERYemU1Wnl3ZkZxb0VITGNaQUFJM2JnQkNlaV9QbTByand1dXNPc3hNcFpLcU14VkdyLXNvV1MzOXREZEYwWXV5VXJiV2JobXBsbFpsLWhibWFqTzBGWHB2RHpPU19Vb0l3c05JbFE3NkJBRlNMR2lzblZYaEpWbnZIUVHSAYwBQVVfeXFMTUdzbzVwYzliaUxxRjY1UTN4VmdYeC1mZFFCMU5SRWJXVjlaTzFycTNMNUI3Q0I0bXl6aVRhN1ZDd1BzdENVMDZKdS13d05tdmQ5S0Qya3dramVySzBvS2liOVlBS0Vwa2o0Slc4Zk5SOGZ4SGVSdjhGd3lTdVVuN2l1QzhxdlViTkk0aFo?oc=5",
+      "published": "2026-07-28T23:01:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Employees at the world’s biggest AI companies are calling for a slowdown in AI development",
+      "summary": "Employees at the world’s biggest AI companies are calling for a slowdown in AI development CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYks5WUNMMWVCa3VHZTRwTlBHeVNzQ0lDWmE1VEUyNm9kdkJDYWgtS3doWUhzcVNsamsyWFUxelZaUWpxdGZMb1RXdUphcTRIMks3MGVUZVJhbWFOb0swUU5oNnlQT3dXbUFnQVRDZmZiMW1wOVhpWU5QbDJabWZZZE5HNA?oc=5",
+      "published": "2026-07-28T22:53:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump urges Supreme Court to overturn E. Jean Carroll’s $83M defamation verdict",
+      "summary": "Trump urges Supreme Court to overturn E. Jean Carroll’s $83M defamation verdict CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUVMS2RFVlFKSlVUSF9ZSGwxX29jMG1WNE1Xb2IxdThkTHRJOF95UjgxZmJvVi05QTNlTWlhQlQtN0VYVWpmNG5oRHZJU0IwOWZMaFVub1BrSXczbjZ2Nm13TjMyTGtaVVluS2tmR1NWVUdpcHNhWUJSVGl5MlRPaExwUTlETGxaUUM3dzRMU3JEWlIxVV9fWnJjX0w?oc=5",
+      "published": "2026-07-28T22:50:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
+      "summary": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHBiUlVyaHctRVZvTGZUWHRscEZwSm9xZjcyaFFodWl4cTVpZTVDOUV6dldWX0FjTnJDQzB1OXJOVS11ZXF3R0hHdjJNaUtiWTBMWVZ6dEtJMnZUQlQxUXp1V3d5a2sydU1ucjBEVU9uMGVrT3NYMms3LXpoMG8tUndGRzctdDJOakFaaHRyVzQzUEFGMUt3NzJSc3jSAaIBQVVfeXFMTmJNNlA0d29BSTM5LURCSmJoUXJGeWZGSlMwcmZ4aXVKRFpXVlVPM09YVWlaNE5sbE9TV0hRTW41OGFKajNQQ3lMYnd4bmpjaUxfQlB3MmJGdkVTb3U5RnRwYWFHaXRjRDFhcVFvTV9uLTJMNEZoOVNWRzVaN24tOXE0WjNsM01sMXUyR25QVUlWNDhXQjc3dTVVemdGZ2MyZkJn?oc=5",
+      "published": "2026-07-28T22:20:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "San Francisco 49ers coach Kyle Shanahan injured in crash will see limited training camp participation",
+      "summary": "San Francisco 49ers coach Kyle Shanahan injured in crash will see limited training camp participation CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFcwc3VLbkktMjFTM2JEbE8yWm91ejVXZlZUMS1aT0dWeDZHdG1VemZ5bi15bU5uWklOamoxYTMtVFIzd2FPTWw5NzR2UktqaWtncG9Jd0pfaHZpVXcwNzVoOERXTFFjak4yX1dLTHNwY1JfWnpfSmV6Mzd0am91bTRZX0hySnI2VS1XaldXR21lMHpidjdKMzA4d0VYRUVlWHZhZ2VVVlNZUQ?oc=5",
+      "published": "2026-07-28T21:36:43+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Senate set to vote on Trump's pick for spy chief, ending Bill Pulte's brief tenure",
+      "summary": "Senate set to vote on Trump's pick for spy chief, ending Bill Pulte's brief tenure CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhMcHpDTF80UzNsU01SZXdLQWE2TEtqdDlKSHdUdW1PMVYxcUR1My1ZYWUzSEZQZm1ubDFNS0xQRmdyWnY3Z0t2TVNpRzlmUFQwaUFSYkk1cXhCekg5UHIzR2tyQm5zZGhDTHZPcm0zSllBNV9DT1ZRSzY4Sk1RYjk4UjdFOVpDYjc1VjYwcnrSAZYBQVVfeXFMTzdwc21TTWZUcXhKVGZlQzdkbW1lcW9hZ05NVlMtRFg0NlBTd1ZLZTFtbkxvaEcyRDJQN0RfbjlldXJPV1BrZndPaUctZ2RiLVFoRG9lRmtJZndTZlo5ZWI5TjJlbmFXT3pONDRsSzdLcmtKQ29fV29BNE0tSDRTSTltR0N3eXRoXzZCQmNjdXpKSnJpX0Fn?oc=5",
+      "published": "2026-07-28T21:05:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99",
+      "summary": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99 NPR",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMjFoSHdqMzdibVRZdXhwWDE1WmtxX082SHF5NTgzZnZLTlEzUEVjbUJBQnA0WVJTRV9rSU5QMDZ4b2ZCX3RDUUtHOU44ZDk1em10MXd4M2todEhkRHlQcGV4c3Z6X1pLTmx6cg?oc=5",
+      "published": "2026-07-28T20:31:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+      "summary": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDA4X1lVd3RsSzZSSTFyakh4RkhBRFF6OWNOZnZCWjBGc1VfUzBsdFhmc0NzWnhKb0dBUWprblN3ZG5GQTl5T2FEQlZ4S0Z0WFh2eGtvWVZIY3hwOUdEd2Y2WF91S2JOaXpsaWZxVFJZV3FwQzJfV3ZVRVlKZkRBME1Vbnd6ZE9qZGlqWnJJMA?oc=5",
+      "published": "2026-07-28T20:30:50+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,49 +164,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Senate to set up key vote on Russia sanctions",
-      "summary": "Senate to set up key vote on Russia sanctions CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU25LV3BhZ3BWeC1feVkwa3lBOFlVaXpEUHBSbmtvenBKbkw4OVFTQ01xQkFIZEN5NjcwaGFmOFFCNmY4UElOTHA3c1YyQ19VdE84aEZ2Yk5UN2VXNU9CYWxkUy1MaVRXTVU0Nl9jOEVweVJYQ2xhb3pnY0k2Y3VibDVocktCc1VIRUZqb1dkZHpRMEFuampvRXFB0gGfAUFVX3lxTE54S3dVRWxORUZabVlwSC1uQ1J0WFFFYnJDS1oxUlJuREEzLVZ5eVYyWDM1OWJSSDV3NWctakxrbHNnQ2lDaUFhNG0yT05BNjc3VThOMkZPbGszX2lkQUFodnNRNk5YXzBPd2lJZG5nbTJIS25pY2FYUkFzX0hPOTlZVzEyanNMclhyX016NEd1Sm40dFloUENsenhQd3lfUQ?oc=5",
-      "published": "2026-07-28T18:17:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Apple touches $5 trillion market cap for first time",
-      "summary": "Apple touches $5 trillion market cap for first time CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nlo0Qmx0WW0wZU8tUTNvdHBQV0lwTFlaUV9vX1dzUTd3V2h3UdIBlwFBVV95cUxQalVxcnY2ZWtKNENjeGNSRTJMQVNtZlVrUi02NFI2T1JhcURsRlFWN2N5OVV5elNsWEVwTUY4VXU3eVMteUp1MmIzaC1qVUFHQnlfSy1XbXBEUTZyaHhNOEdTODY3M0ZWNlE1NmFRSHpUS2tzM3BBUEFxM3lDdXRQN045SHVoaXJVckM5T1A0aXJGRnl5TDVJ?oc=5",
-      "published": "2026-07-28T18:04:07+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Florida puts ex-police officer to death for girl’s murder, first of 2 executions set for single day",
-      "summary": "Florida puts ex-police officer to death for girl’s murder, first of 2 executions set for single day CNN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rMF90TWJLSjNKMG9oeUFwQUNsNGFEV1ZDWVJCVW1PekVEMlJYd1pDeTllRHh4VDFVdUNrMlROTDVHZUFYOGd5QzI0WjVCcnEwdHJSdEVaWUc4X2dWWWdfZW5ZS2VRcWRRZ3c?oc=5",
-      "published": "2026-07-28T17:46:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Reporter Kaitlan Collins has 5 words in response to Donald Trump telling her to \"smile more\"",
-      "summary": "Reporter Kaitlan Collins has 5 words in response to Donald Trump telling her to \"smile more\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1N2N2FZUXM2MDlMZ0o5N0M0UFRDdUlxVV9jbndyVGRoYkc3WGd0T09jUkRETWR4Nm5TNzY3aEdkRlpVWUp0Nk9TdUZ5Ukp5TUo5QWNGTmtLTHN2eENZOXllT0I2Z3cwX3JiV0hzd09mQXBodzdINmd3c1l3RGl5U0ZBVDYzaVZ6enZmTlAtYzZ6dUN2STRQM1BxS2lHVzQxNUphM09RUV8wN2pYUi0za3dYdEtiR2VhWW5TM3FmWmNRQ2NLZmRsTnNONA?oc=5",
-      "published": "2026-07-28T17:30:00+00:00",
+      "title": "Same-sex couple sues anti-LGBTQ+ clerk Kim Davis for allegedly hiding big money she owes them",
+      "summary": "Same-sex couple sues anti-LGBTQ+ clerk Kim Davis for allegedly hiding big money she owes them LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOERjZElRdkJtQWFBNWQ4dUZtUFBVbUVJbVVoUXZReF9EZXlrNU5UV1VuazV5b2drSDM3eHFXVWxSM1dQcTNfaEhiYlIxUW5mcm9LbmptNG10SGNQZGRLdTBVZjFHVHdhRG8yVVJwRlkzdU1ZbzdpVDdobERkMGdUQnByUTd1WDI2YTA3ZTI3dld4SXV1a2d4a3N6MnN6YUYzRGJpajl2T28tX3JSQzhnNVVPZmRpWGQ3NTY1Mk5fRW1vX2c?oc=5",
+      "published": "2026-07-28T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -110,57 +182,9 @@
       "title": "Josh Shapiro repeals HIV law that made a diagnosis a felony enhancement in Pennsylvania",
       "summary": "Josh Shapiro repeals HIV law that made a diagnosis a felony enhancement in Pennsylvania Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXpaSGFPclZQbXhTLXdZYWxiTkZhZnRwUUY2VTdkRVFrU2I1MTZtY1NucWJWa1NMVHVQa3RTMDhRY2V2VkNYbVh1UmphbHBYWWpGRnJsTVNIUzQzZndOYTF4V3NPTjd2aWRJdVlINkoxcGtzU2xTSFJBME1VU1RPdw?oc=5",
-      "published": "2026-07-28T16:07:30+00:00",
+      "published": "2026-07-28T16:15:39+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
-      "summary": "EBay, former execs to pay $56 million in blogger harassment and stalking case CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmZvcncxOUJnT3VjWS1zVFhIOTVXUnFUUzR4Z2VYeEt2cGg5NEM5cVlKMVl6cEFxbFpsOXNpMEFkZWx1a1hHcldzVWZuMkJpcjNKZTNyUkRxc3dtTmxIZlhma2tQc3BZYThfN0FVZFR0UTNQeEFQZTI3MHhiSFBMRWZYNNIBiAFBVV95cUxOdEhoSV83bHVGMFNQSjF1Ukxhc0VHMzBVMEh0UFc0UXZ5cnFXX3o0Zkg2ZG1KT2s1LWdQVE1PNDZ3MXMwTDRaVXBFWVdtYW5yVFladFdYSS1KM0R6ZndCaGFacEt5WVN0RnRXUHZSblNDbjFrRUFrTFBfeDBJdEM0dlFCcF9BLXNm?oc=5",
-      "published": "2026-07-28T15:38:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Photos: Spain and France battle record wildfires",
-      "summary": "Photos: Spain and France battle record wildfires NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkUxbWFLNXlXa2ZjNVVpNUZlMzFJc1k0RHFaNEM4Q2owcUxyT1Ztczh2Q0ZSQnZDTHZuLUYzRk80VjJ3V0FaRHVxZERBRzBZZnNYVzNZSzBRTlVrR3RjWHlrcEJNMDlMSlZFSmhaNEk4S0JMZng0V2RERDhXY0d6VnJLUHpLMVFNSUJrSmplRnc?oc=5",
-      "published": "2026-07-28T15:24:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Johnson & Johnson offers up to $5.5 billion to settle baby powder cancer lawsuits",
-      "summary": "Johnson & Johnson offers up to $5.5 billion to settle baby powder cancer lawsuits CNN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTFE3NlAxZmJsSGxrSjJlTEJRaGQ0WFVlemd0RnNzdXVhbWZka2dQMlJzOHYzVm5NbUh5dnpJSTV4MjE0bjBiM2JKN01scm5DMTR5Z1ZvdWJCZkwxR2N2MVk5N1ppM3NyUkFQTmFyWS12anFiOTE4aFBVTlAyNmR4YTFDaGp5WnM3NjllYVdOYTRpaXo5YjhUNnRkeXVuTkM0?oc=5",
-      "published": "2026-07-28T14:21:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The new Air Force One just got a big update - and price tag",
-      "summary": "The new Air Force One just got a big update - and price tag CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kcUcxWEpfTGVNT3JiSUdSaWJzeWJmRmlya0ZNamZQc2FKSlUxMzh6ZUlVZzhHM0R0aVBnMG1RVU82Tnd3cEZKUWlkV1FhRm5ZMEZlTGRJYnB1NE9ZZ3FCMjVURWUyZ3hIT0E5dHc4b2U5a0tsNEE?oc=5",
-      "published": "2026-07-28T14:06:43+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -188,41 +212,39 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Here are the 13 books that made the Booker Prize longlist",
-      "summary": "Here are the 13 books that made the Booker Prize longlist NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZGVKem5KMFlFUVA0U0s1QTl5N0sxMWo4WFhiYXF4VXNDTmVsbnZ6WUpoOUU0UU8za3J5NVB5UFJqaDJGaEo2SThFZ2pwWEM4blp6UGo1MkxBQ0lHOHhESHhXR2hKdmlBanZnazA0RmJqNVVYLTNrckt0cTVmX0NZc21SSDQydw?oc=5",
-      "published": "2026-07-28T13:05:31+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Gen Z adults are staying away from churches because of Trump",
+      "summary": "Gen Z adults are staying away from churches because of Trump LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlZDcDdOQlZlNGlkZF9ZVXFseHhwSE5Cd3lhUmdkN1ZXa2NNNWw3NVdGT042dDdaUHBfdFM4VFk2RDdPZTNQaGMyUGJjYzV2bXBwMElDYXhCeDBqdkh5ZE1IUW9DVEhVdHUyNjFIQXdYa0pHVFMtLXg5b3hNS0huVUdQOGhoY09tZFZGTGw3d1JLcjNVaHc?oc=5",
+      "published": "2026-07-28T12:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Wilson Cruz reveals the private activity he enjoys when he’s home alone: “I deserve it”",
-      "summary": "Wilson Cruz reveals the private activity he enjoys when he’s home alone: “I deserve it” Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGFrU0lJbjR0b1J0emx2cHdVUXk1VGxfbTg1SVdQblRuOGotckIyS1Q3bGp0TVlfMnBJWktSMjE5N2xEYVZ3b3R1R1V6ZXNzOWpDbEVLU3B4NlNpeFgwUkl6V1hBUXl6Y0ppQlJLMGNGLTc3TEhjcW5wQ2MyeFRnby1aaThpb0k1S3lnTllLVk1UaFdXS01fRkhuc2xocHV6Nmt6c1YyT0twX1VfUU5sekpjbnBvR2hO?oc=5",
-      "published": "2026-07-28T01:00:00+00:00",
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California will add science scores to its school accountability system. Why it matters",
+      "summary": "California will add science scores to its school accountability system. Why it matters EdSource",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80V3dueTg3cVQtTE9KSGJfX1JQeG42SEljVVYzTTJmSjRaWXlwdGpaM19saF9CYnVUSDhlT0hrelpfckpHblZJTXhpT1BTQzFKZ1ZMZ2k4N09RM1VVS2ZqT216eTBUN2FnVVZnS01sWWJlSWVYeWM40gF_QVVfeXFMTXlyUUVvNUJDdzJOYWZWU1N1eG5YSmE4b01EdmlQOTg2UjFaWk9pd2xmYVZpZThQNUdHRVFUWXlaSWk3ellGMlh6cjZoRlFVbnU3MmxfZkNFbkQ3RXQxZzhwZ1VlWFpDNGFnSmMwQXlCMWFiaEZhWWhoNVFWZ29RYw?oc=5",
+      "published": "2026-07-28T07:19:14+00:00",
       "beats": [
-        "LGBTQ+"
+        "Schools"
       ]
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Trump administration threatens Anne Arundel schools over gender identity policy",
-      "summary": "Trump administration threatens Anne Arundel schools over gender identity policy CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWG82WEZOYnU0ZG9CdXVmZ1M5cmJPVnJBaVVVWENnS005SS1sR0Ffc0p5YjVmYk1CT0pHQlp2SmgyR3llc0FFQzFaM3U4ZjVGcXBmb3lrbVRPODZoX25vSWxVbnVFZHZkUk92bXlPUFYxMjBMdzA0NC1iSWZObElHdUJYWHhuM3NUOHh4WTV2NWlVeUw3STZLQnpBcDhER0txcDJUUmp0Y1ZHX2p2YU14Mlk5NXQ?oc=5",
-      "published": "2026-07-28T00:44:00+00:00",
+      "title": "Stevenson Ranch woman bitten by rattlesnake while tending to her garden",
+      "summary": "Stevenson Ranch woman bitten by rattlesnake while tending to her garden CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXF0SFQ5OTBCdzB2Q3BJU0tRX0t2STdCalBySExpT1UzZHVxdEVWc2N2TTFKZW9QUXZBc0ZQc28yRmt1TG1ZekxNd3lMSDNORC1rYUlWUjBmek44OFlheTRsT0M3di1LV3A4SjJGVFRNSmpUVWc2YUVReG8zVXBXQ1U0LUtaZnR2QTM5S1V6T3Y2dENMeTV0WlJPNnBMc0pzRDRRUHQxV2lrd2xFQUVLYm1n?oc=5",
+      "published": "2026-07-28T01:30:58+00:00",
       "beats": [
-        "Politics",
-        "Schools",
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -250,18 +272,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "D4vd Murder Case Can Go to Trial, Judge Rules",
-      "summary": "D4vd Murder Case Can Go to Trial, Judge Rules The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSk9DT3dJSWN0VVY5OGJoSl9iaTVyNGpfQVBwalNzSDJkcnZESkM0c2xhc1lvaWpBbnV5OVBIMWVQazZhRTdUVVJkQ3Rlb1ZuVHVuMlhjS2RORWkyVVNubm9yMGwxRE9GYW9TYjdmUThRaXNNMzFmYmh4MV9JeFBhYXgzcVZJLXFYVTlBT2xsUTA?oc=5",
-      "published": "2026-07-27T22:25:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -284,6 +294,18 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Hometown paper accidentally runs Mitch McConnell’s obituary, forcing team to scramble out dubious \"proof of life\" pic",
+      "summary": "Hometown paper accidentally runs Mitch McConnell’s obituary, forcing team to scramble out dubious \"proof of life\" pic Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3RCX0I3RU42UlgzbHdQc2xzNEJSZy1JWlJpeE52bkxpSFp1X0ZQRk4yRy04bV96NXh0R3BiaXJpVGlob0ZrSTBRYzNBaG9STmJlSWZsR1JVZVBrUk9tLTRSYkljYjNoQ09sclRCMWloT2dSMzN2aDVvRElGaW92WE80ZTdTT1EyQi1YalluVXBRSmRtWC1lTDJ5blU0UG1GdGs3UG1WeGVxMHFlUWtUSm5kT1FYM0xTY0NvT2hDQUM4VlZaV0lJV1Z4RnBRR1Z2aUNRa01yTzJTcVhwTVg3eg?oc=5",
+      "published": "2026-07-27T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -357,30 +379,6 @@
       "published": "2026-07-27T16:50:12+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Inside modern California classrooms: nooks, couches and ‘cozy cubes’ for kids to self-regulate",
-      "summary": "Inside modern California classrooms: nooks, couches and ‘cozy cubes’ for kids to self-regulate EdSource",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uOGxicDQyR0pZMmNHVEJBOVBCRnVlTERLN3pWQUVhUVcxd1dHTE9uRDlCSGhNU2N1ZF9EcWM2VzJyMUJ2LVZON2J6LUpTZkhoNlMtQjJ3c1l5QUJsdVRpLVUtTUZXVG01QWZEVHJoRTVMdmxabXk00gF_QVVfeXFMTWpHd19yVnliYW5zRk1xSUdHdFNYUkp2QTgyd2RFTThiUmtsZG5NTUVZMWhQb1l2UW9oVlkwN3luOUgyanUyRGNtWWpnNl8ycVFIdDlqRWM1NC1BN29ELXVlM2NEMjVvMXdLZVZKcnU2SGZTcjh6S3hsaU9CdlViRQ?oc=5",
-      "published": "2026-07-27T16:48:02+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump weaponized trans actress Dylan Mulvaney’s image to attack Kaitlan Collins. Mulvaney fires back",
-      "summary": "Trump weaponized trans actress Dylan Mulvaney’s image to attack Kaitlan Collins. Mulvaney fires back Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeTlqallseHBLNTFLMDJIbmdBMjBHamhxaVJFbWUxbkRCZmV1SnRya05laFNNV0d4X1hNajVsQk55MnJ5TGlEVlYwTllXcXRub0ZPN3FoaEZtejNTV3BtaXdyUUQ2VmV2Y09vbkQxV25vNk9fTWExejQ0ZjBrcDFXWEo5dExDdw?oc=5",
-      "published": "2026-07-27T16:40:49+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
