@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:45:22.299989+00:00",
+  "updated_at": "2026-07-31T08:10:55.657719+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,49 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Spain deploys military to Ceuta after thousands of people breach Morocco's border",
+      "summary": "Spain deploys military to Ceuta after thousands of people breach Morocco's border NPR",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96LUVXMDdVWDZndExTbmcyUkxJSDN1UkwxYnNha0ZGUjQtUUVsbDRUYTg3SzhMWWtpSzkzT29CVUhYRXpGUzNjN1NrZDhFWXZFYUtXUnJVd2VlbEo0dm0xWXZtVE1fRG54UVZweTBhbElCRklt?oc=5",
+      "published": "2026-07-31T06:02:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
+      "summary": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain NPR",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wT3FOclhPRUVFUlhpQzJFRmZvbFJiMkVFZGdWbVQ2UHJ5cW9senJPQXAwZ3p2ZUh4UDRYaGE4Nzk4b0hQVWZaS013azl1Nkd5dmt1X3NuSkJmdDFtang4Z0hVQnhsSENsZnhR?oc=5",
+      "published": "2026-07-31T05:20:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-      "summary": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S. CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xbnVYQ25VOU5kWXhoSlF5VTFjcEJrT0xEcFI5cHpPSUxqOG5WMnNpOGJ0NmR0cGgzM2lEbHBGcTZhNWdlQWF6bUFxcTBRazA5cElMVFVfZzY4Yk55LTdFdF9MZ1lxYlVxeW02VDJzSThyTUJ6Y091RV9B0gF_QVVfeXFMUFYxaW93MVVqcHhJVTVRSWxwaU9ickpzalAtWVJhWW9iQklwa2J6S1RSYjgxcTJBZklDOG5PQi1WS2tzbW1UR2Z6Z25kSlh6MVRfeFJpQjY0LWN0dDRid1FiYzZFZ0FaN1VJeFdKc2stSW5BRnlfWE5XNG5RdjdsSQ?oc=5",
-      "published": "2026-07-30T19:21:01+00:00",
+      "title": "Copper may hit new high as AI demand collides with deadly storms, strategists say",
+      "summary": "Copper may hit new high as AI demand collides with deadly storms, strategists say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PMnZPS2ZXZ3JyUFBtb1RPVUpaV0hXOUYwQUxDSjlGZXNhWXNqR1hoelhNdEtZVmlaajVOcExCcl80Yk5HZVRJbEt3N0hKV0QzU1RuT0ZNRzJrSE1Rbi1udVd5NGtvbDJkYnVRUzhkOFN6YVZPQmFadHdvUlfSAYIBQVVfeXFMTXdPOGMxdnVnZmxNbTgyOWJWMUhSS01tTm0tampFTG50ZWVnUDdjdWFUN1doaUdwbGtfbnpJSE8wT3QyTnNKeHEwalo3dzZSNzJrZGtHQlNhTVY3SG1SdE42eFM1c01QUG5NdFd0ZDJWMmxVOHM0ZVpWMDZCZDRTUGFDdw?oc=5",
+      "published": "2026-07-31T05:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Girl’s undisclosed death in gene-editing trial raises red flags in booming Chinese industry",
+      "summary": "Girl’s undisclosed death in gene-editing trial raises red flags in booming Chinese industry CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXhnRlpmMGRlVGF4NzlqSkZrMGEyQ1FqX0FjQ29OY1N5TzJkQjItdWxsNlNqckFsdlV0a1BDV2xsMjlJbHBUdHhYV3ItYU5mdjhsMXJYNGVMV2NrMzgxT1Z4TUJQM2VIak1DRE1kS2RHUkhyaFMwSmdDWXl2bGpfWUZR?oc=5",
+      "published": "2026-07-31T04:02:18+00:00",
       "beats": [
         "Business"
       ]
@@ -35,108 +71,144 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "China’s open-weight model lead exposes America’s AI blind spot",
-      "summary": "China’s open-weight model lead exposes America’s AI blind spot CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTFg2dllTS3ZtQlZ1NTVHQ3V2anRpN1NjVlZFNFVqTkdDY0xpSHBURGhSYXJ4NENJSE1QcHB2U2ZsOUFCV0JwWmdzelhNVTlaLUpKRVFvYmZPNW10djBONzJFYzR3VGFzRDYxSzh1dzTSAXZBVV95cUxPeHFIY255ZlV3emk5ZXBHX3gwZlp2Z1lRdTVOb2hGUzdtdHVoN01ocFh6RFJhQmhxeVZVa2tBSERXOTA1STRpeFZUN19iTUg3WVRZNUUyNGxjaTZJZHNIX0hTV05xeVl6WmZBeVFxVXhEdk84dmZn?oc=5",
-      "published": "2026-07-30T18:51:42+00:00",
+      "title": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+      "summary": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRVp2amJVcXRlVUZKVDdTM0k1NXAxYVR3aGZCajAwU0lPZENnQnNDMUN2Zm1PeGdreC1ueW0tcUlFc0tUcXBCcXhhcWFJMHNrdzIzREg4ZzhSai0yNEIwNjZaVUtrNV9UY050S2tsVTVkemMtXzZWc04zdWNEY2hPYkhRVjlGNHVrQlJWRThaMTNOby1vNTNxUGFEb9IBoAFBVV95cUxQOUY4dGxicUlPYnI0S0RLTWJBdldFelFCSWRvZjVOdUtuRkp0MDNpZFE0ZmpnR3NENXk4SlRyMU9lSkI0YnY3eTFIMXNuN2FjbzdxRFBiRkY4dzZkMmpaeERYbk95S0ZTWmFWR1ROMmJCSzRreGJhTnNjRGtrTXNYS0FaTkhCT0E4ajM3RW1tUFlfd3A4eEpqYVFkRW9nQ2dn?oc=5",
+      "published": "2026-07-31T03:47:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-      "summary": "The Trump administration wants $10 million more to cover its July Fourth celebrations NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkZlS3RCZTJDUF9yYm9nVDBHb1k1clRwWUx0eFlqOEc3UFdocHYyVGM2R0NuRmV3WktreUk0V0hUbUxwWkFYSUNTeXM0UHMyNzFuQTRxc01ZcmhKWE9oazJKbWMyVEdJTjNrVVoyMmhXLVpXalcwRVJLNkxMa0dXVUVYTENRUQ?oc=5",
-      "published": "2026-07-30T17:47:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Are you choosing to stay single? We want to hear from you",
-      "summary": "Are you choosing to stay single? We want to hear from you NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ncjE3SEw2cTA1amdid3NoS0xXcmotc1kxQnE4cHNaVmEyY0NFNGNxSGQ1NW4wRTAyaFEwZVdRT29OaWNNQVFhdWQxS0hTQjZhalUxcXVjY1NxOGhjaVh6R3dRNDVKN0kxRVgzOUI1MmJsSE42REE?oc=5",
-      "published": "2026-07-30T17:47:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "UEFA nations agree to boycott World Cups over FIFA’s private investment plans",
-      "summary": "UEFA nations agree to boycott World Cups over FIFA’s private investment plans The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUpXT2IzSlJ0Y3F2Rl9aRzVEMGwxWWhjRXpTN3hQbVA5LVd6ODBWOXByUE0yc2VQRkxXRmhuZU5mdEg5NVhvUlJFNG1ENFBZUTdOSnNiMXV4V1JIcDlENDFsUE9DNXFINGc4bEVqYlZzWWlrQ3Z5VkluSDZQZ3RSNi1UMl92dHJBQXctTG5n?oc=5",
-      "published": "2026-07-30T17:18:01+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-      "summary": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23 CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHhtNkt1anhabVF4Sm1vaGxYa0NHSGRhLUdVR2FEVk5aekd6VTltOTBnZEFBOHFZdUFjVmx2TXE4Ql90R0FPMmRwNUxuMG9GdHlUN2JHbDYzVkZQTERHZEFpUHdVMzBUYm1CWXpWZEhIZENNcjJ4dmR2MG9KLTB5Sk1MNGdvX1k1SkJpeHg0X1JnOGNfOWF6X0g1dG45aEE5dV9KN1RhVdIBrAFBVV95cUxOdHMzeG9Iejc2TlJLN3RUWEo4NklmcWcxS0pnaXNHbTZGYnNQLWMxdjd5MzM2YjQ5c2d2S3RvSHpNYTlLaTJyMVhzbXlZSE5oaDBGSVh0YjVzREUzRl9OMHNTaHJWSGVSYzRpV1M3czRMaGlOV01yaGNRQmVCVGRVVl9lOEVuRFhOeklNMG9Va0RMazVha1cxdExEaFNJZS15Ty1mUHhSbGh3ZkZi?oc=5",
-      "published": "2026-07-30T17:08:38+00:00",
+      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+      "summary": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEc4M0V3S3UzZ3dkak5zNFdCOXdWbTZldmRILUpXTjRRaWtNdU5MNktYdkJnQmYzM0JKeWRHckR6UjlMNllsYmxzSmdKTHRQMnVNM2R1RGxXOTZPWUZWcnF6MURBSERiMTQxd2R3UlNRSUI4Ulo2U2puU01kMGtwdEdkdFhEQdIBiwFBVV95cUxNVWhKRFphWHZXNVoyZWlHZkxQYnZCN08xSk5uWjdTNzBCQlNneHBmUkNoeWhkWEpCUEZ6TklCZ2RJZU1FRUh0YmhsUzNKdVhJUWY1bUN4T0ZZREo0TzEwWEFLY0FrQ1VNU1I2T3BWY041VmxiUVJnY0pNb21fWWx0UGtzTWVjZkd5SGhF?oc=5",
+      "published": "2026-07-31T03:33:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Why Trump has shown little interest in taking up the anti-Fauci crusade",
-      "summary": "Why Trump has shown little interest in taking up the anti-Fauci crusade CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TQ2R4N0toZG1mdjd3U0tTYlNfZlhsT1dsaTN3T1NZbmM0UjhMQy1acElpVmhOOXZ5Y0tYam9IUl8wU1d6UkNub0NOcWJzSlJNZG5BSS12bVBNZUlCNER0aUFJdGhtX0NhemtjUF9ncEt2UVFGalE?oc=5",
-      "published": "2026-07-30T16:50:34+00:00",
+      "title": "Anthropic said its AI models hacked into other companies’ systems during testing",
+      "summary": "Anthropic said its AI models hacked into other companies’ systems during testing CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OdzZid2ZrX2dBVWQwU2FoRGdiZnVNNDNlMXhiQ0VKaGphWTc2UXRjdHU0N3E3bVdXdEpRQlBrbTdMWVItV1lUTndKWWtscnNqc2JKeUlqVldFdE94WHhkcG1sT2pTVVNLcWExT21zcW1adFBRVmNYeUdn?oc=5",
+      "published": "2026-07-31T02:09:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Video: Thousands of migrants cross from Morocco into Spanish enclave",
+      "summary": "Video: Thousands of migrants cross from Morocco into Spanish enclave CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1plQ2lYS1VxaDlpSzdjWVNBbEV1SnNqRHUxQXYxSzctVmFnb2lWU1FXZnZaOG5YVVQ1WmRBdW1HcVRNLTh0T0pOcU5RMWx3Vm5JaDlROW42RmhLMzM1bTllRzhsS1o3VUF2UXVwbkJ6X3paVWxGOXc0cXRaQ3dqNm9QVkZNVmViZXZJNjh3?oc=5",
+      "published": "2026-07-31T01:36:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "WNBA sees sideline controversy over trans athletes in sports after Cunningham comments",
+      "summary": "WNBA sees sideline controversy over trans athletes in sports after Cunningham comments CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2R2T01FMmtnOWMycEk1dnNnYWl1R09ucHdnTERHaExvR1ZBOEtNWHBlTjdDdllQRFFfZ2JRcnV5Umh3UVF0MzRYME1JbWY2QWNpVXZQYTROX2R2OEoxWmwxMUJsanYwTUpqYXZGZ3U4dFpVbTdMNWRmRVh2aGNpWTQ5MTAyNlcxSTQw?oc=5",
+      "published": "2026-07-30T23:11:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump officials mislabel all African countries on map at global AIDS conference as U.S. cuts HIV aid",
+      "summary": "Trump officials mislabel all African countries on map at global AIDS conference as U.S. cuts HIV aid advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWWgxdG9pWFFTWEdCc1hIMzVhRDFRVU8zWVhpMkVWdEd3Q2NidkVEbjdJYWVJeWJDQzRjWV9TU21RZUJyS21lVm9BZjNfUjgxblNBZW9OSzVjWG9vSzg2VDFXRjBSek5wYnpBSmZkdFFOUTlsZXE5VzRucGFxbHBtNnJMVGRmNlFaRU9XdEtyQjY?oc=5",
+      "published": "2026-07-30T20:38:34+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump says he ‘may’ pull Blanche AG nomination temporarily",
-      "summary": "Trump says he ‘may’ pull Blanche AG nomination temporarily NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjNLb2pEOWpwaVdtd0ZsaExleHBoWGFFTXBJajFFMWhPQTRDR0RHa0Z3YW1JMDVydjgwelJlT1VVcnZtNnJJcldzbGdZR0loUFN5eTd1THBiLTEtY1NDSFZLV1Jpa0Y3U3RLcTZhRWhoZVFHd0FkLVZHZmJlc01jcGtLTlA?oc=5",
-      "published": "2026-07-30T16:30:58+00:00",
+      "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
+      "summary": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYXpya3ZSNEo1eEkxa3AtUW1KenZYekp6eVpjSzh0VlUtZ0dpdWNxWVlocFZIdjdVenFhVFVKTWlwNXpSWWlIUmRGcjFjWDBWZERwU3VhMFY3T012S3ZmSHNaLWtFRGVobXpiQml5WTBDVVhNbHBvWk1qVVU2WWhOd0VFWEt5MEZnZ1ZhUERyRlVyU0o3YWRLeEJWRGpGX0lvYnNOOTJ3?oc=5",
+      "published": "2026-07-30T20:37:48+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Hockey bro opens up about comparing \"hogs\" in the locker room",
+      "summary": "Hockey bro opens up about comparing \"hogs\" in the locker room Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3lzekpXZFFDVlNtMl9BbmtEUXhYTG0zTnlYb193VnZzOXU0eVVvSjJfeUJqSjVoVy1FNzZlZ2lWa3ZSUDVGNmhUUWNTTUpXODVvbm1ndEF1TzlITVNCYldreDJGd0NJNVlYZ2tlWHNmZ3A2REZhSTBuaFIxdXN4eFl6Z19LOHN2cV9GR3VMdTZXanRqaFRCMVNWVTBidE1URWRaT1VBcXJ2Rm9YRTQxbTByMUtocjUyZzI0VW1SV1owZw?oc=5",
+      "published": "2026-07-30T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Mortgage rates climb to highest level in a year",
-      "summary": "Mortgage rates climb to highest level in a year CNN",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KRzVhUHFyS0JnQkN1NU5Ocmx1U2lpeFp2Ujh0b0wyLUFhcDhkaDlJdWRQRlNzSXVvTmFacTFHcWNrRFJoTWEySEdvREc2OW9SX3Y1VzQzVFFuM3ZGMVZpOGstRC1tYlZz?oc=5",
-      "published": "2026-07-30T16:24:20+00:00",
+      "title": "Tiny England village plans referendum on leaving U.K., joining U.S. to protest migrant housing plan",
+      "summary": "Tiny England village plans referendum on leaving U.K., joining U.S. to protest migrant housing plan CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSk5kWnh6ay1QSnY4d2tDaW14M2tCSTlzSTUxWkV1ZEMwb0lyYUtKWXRXMDRLVkNPRWJjeFVjTjVnY3ZEWGl0N2paUDVtYS1TVFZpd1JXTWc4MHJpMFVxc3A5cG1rTkZUMk1lZ0ozNjNnSWdxUnJ0YjdfNDBBcTV1TldCR3VmVWFQN2NUQkMtMklJUjRxMVRQTVlpY3Znc2wxYXo5TVBR?oc=5",
+      "published": "2026-07-30T15:21:11+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump threatens to pull attorney general nominee amid GOP revolt",
-      "summary": "Trump threatens to pull attorney general nominee amid GOP revolt CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVp2RHZqOFZVbFRLSVE4TXByVnU1ZjJwQ05LU0oySUQ2UVBnWktjZGxnRzhGTThTc3lKUXJoeEhrS292aWd5Tzk4OVE5YU9CV21uVnRVY2xyb29CWWRmdC1PbHg4X2FBa2N1VkN2RTRPZGljamlYUFNINHRBd3R2QUpGaGViQ2c?oc=5",
-      "published": "2026-07-30T15:28:53+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "What if \"a child\" sees it? Conservative Christians rage over ad about HIV prevention",
+      "summary": "What if \"a child\" sees it? Conservative Christians rage over ad about HIV prevention LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUk80aDRNUUVtVlR1cTlFczRtcFhGbmJMMmZPTlkxSUJwYy1DelZtN0xtR2dkeWlxNnBMQkxTTXNsQU1PLTRnRUZBWGVyUlJOSGdySzhVdTJJd2l0c203Sm5hdTdsM3JCanRpYnp2SC0yTGMwa0NPZFNTZWs4cWJiRFV5ME1ZTTBERDlQd1pHNXBnemhtcVYyZ1NxUk41d005NkFFM09DQk9sU2x4SVJHZ2N6LUV2a3hiUUE?oc=5",
+      "published": "2026-07-30T15:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "The right is so hungry for anti-trans stories that they’re turning to AI to make them up",
+      "summary": "The right is so hungry for anti-trans stories that they’re turning to AI to make them up LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlZKOG1DdnhSUFBPNzRTRnp0TXZHaWtDMXlkZUt1OEhYRDJheUFicjhsaGgtS0NHUjlFLWFfTVNOM3R4TlplWVRLaTl1b2VVNFVydnBlWGF6Y24zTk9hQzZOdGs1VEpYLWFXcWxHdXJXSF9sdXVYSHQxY3BrSXo3OFFDM20tcWluQUNSdUFoMkF5YU1BeWdwSDRHakNVdXpTeUpJVnVCQ2VSVC1qN1BuNmlkaXdrblFJc1UwZmlPekY5QQ?oc=5",
+      "published": "2026-07-30T13:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Colin Gray, father of Apalachee High School shooter, sentenced to 15 years in prison",
+      "summary": "Colin Gray, father of Apalachee High School shooter, sentenced to 15 years in prison CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTcxb3AxQ3U5OEgzLVpYekNzQnc0a0MyQ2JWRVZ4V1kzUVhBYTJxWC1LeGtVTVZDUHVPVWFCaVpGS0J2MlZfRXhoeTI1WFF2STFFSGtyWGtkTzg2alo5ajdRVnBXN3hXcVdjclpOM01MNXQ5d1A5MzltaHFKZnRWcktGN001OXpxelVmWndDbHpRaUdLUXpqanpoNUpaMDJMSHBZSTQtOGQ3aXVrc2tNaUtmNkhQdDlhdDRfTjg1VW1OUDczVmxndTBFRQ?oc=5",
+      "published": "2026-07-30T12:01:00+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -147,6 +219,30 @@
       "summary": "Carlo Ancelotti confirms end of Brazil careers for Neymar, Casemiro - The Athletic The New York Times",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblkzMVl3Vk5IdWJPazFGc2E4U1BYWWNPZW02Wjktdm1zR2lUVi1KdVdYc1hJQXAtZHFEX2VWczF5OTlYenRXQnRnVTdPWUVlU21ZUTVjSVFHVE5mOW8tYlc3QWZ6S3Y2eU9mbndqUkQtNFVCREZjcXVCSmU1X2h2SXVoVWlSM3oyRGRZU25KV2ZPYXRaUmpTZlRKekdraDZ2Umc3bA?oc=5",
       "published": "2026-07-30T10:21:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Accept Your Fate. Don’t Wear Shorts to the Office.",
+      "summary": "Opinion | Accept Your Fate. Don’t Wear Shorts to the Office. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xX21Mekhkd2NqZVFxN0xhZ1FYZTI2OEt1WV9JYWNLSkVzZEJwdjl1R0pNZlRXb2FSeXdiQmstYlhrZjh3SjQ1QU9hSkFFbjdnaEp2Vko0RGVnXzEwV2lmSkhIRlgzaVNfRGp4Nkp1T3dsU0k?oc=5",
+      "published": "2026-07-30T09:01:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Army food is getting an RFK Jr.-approved revamp. Will soldiers eat it?",
+      "summary": "Army food is getting an RFK Jr.-approved revamp. Will soldiers eat it? NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajZ4M1RianlmUklEX1FVRTY2QjZnb3pkVm1QMllsQWhPa09uOWM1akVOM2VrSHJmRjBkTGZENV94NUszcVVFRTBCb3BPbkJzZ1ZOc2FLSVgtRlhnZHhtQ3ZvLTFhbDBnU00zUHp3THY0eWw0WVJsWUIwWHdfamdhOXF2bmNvWU1ZM0NNag?oc=5",
+      "published": "2026-07-30T09:00:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -169,9 +265,23 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Trump administration probes Minnesota over \"transgender dolls\" in schools",
-      "summary": "Trump administration probes Minnesota over \"transgender dolls\" in schools cbsnews.com",
+      "summary": "Trump administration probes Minnesota over \"transgender dolls\" in schools CBS News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHN3eWpVSTdYa1Y2N3k3cjg0VERnRWhCcEowUGZNNlRLVm53Y01CeVp0V192MmtJZ0VUdS1Jem5YOFBHWkJsbDVNZ25rSE5MQzFTd2R0X3VzUW5JakF0ZmJNZ0RCclo0cnNlTUlQNTV0TThUOHdxRWt3WFpaRXFqY2RVRUVpRWV5YXA0dUZ3MllXbmZi?oc=5",
       "published": "2026-07-30T01:45:00+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Jeffco Public Schools in Colorado going to court over Title IX dispute with Department of Education",
+      "summary": "Jeffco Public Schools in Colorado going to court over Title IX dispute with Department of Education CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFpkWFNVSGItWXJxYXpxM3NDUUFzQWM5UGFQT3NILTY0TFRCZS01MmpJc3dtQ3ktUWd6M1dYVUowV0tReWVxUWdEVE9KYklHeGVlTlJ1TzB2cm9MSmVCR1FVZEl4bks4UlhMaVZJc0k4RmR4MGlvQWg2TU1sYk9vUU1DVWNNdXpvRmkxd0tCbEZKVDMxRDVuUnBreTQ?oc=5",
+      "published": "2026-07-29T23:54:00+00:00",
       "beats": [
         "Politics",
         "Schools",
@@ -203,11 +313,36 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Inflammation Keeps Us Alive. It's Also Making Us Sick.",
+      "summary": "Inflammation Keeps Us Alive. It's Also Making Us Sick. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHIxcU53eV9qcDB1OTVOVHdEbjZnNUk0c1ZlUS1qZXgxcl9VWWF2N1JfdzZJMEU0Y2QzaGdPNkpWcU5QeDd0U0VMRjdaUkhFTWJ1aFMxYWZVUzlaZk9jZGU1bTFLLVRfU0pYY2xmZm9TM3RmazNRd0RTUTZucmZwTGV5ZTExWXM1N29KaGZ2TFcwMVF6TzgwQVlYOHNDOGQ0bGwtQQ?oc=5",
+      "published": "2026-07-29T21:03:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trump admin is investigating right-wing lies about \"transgender dolls\" in public schools",
+      "summary": "Trump admin is investigating right-wing lies about \"transgender dolls\" in public schools LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHRYd2NCd29ERE4tdGp4SjVJd1BQSWlOcGJITFZEVGZNdmVtdU1pbzEzNWlOZWtQXzZfYTl3N2FHZlppbVRCZnFvSjA5Q1ZjcWx5eUpFMGRDeFphQzhvZno5Wk81WWJQd2psaVVVbjdfcFdIaFFXUFN2WEhJb0g2RE81eGhiTXFNODdqNUQySkNtZFlJQ0ZBZ2ZEQmpwNXdIQUJ3aHVHVDZBd3NLRk5Hb1ItVEZxVklm?oc=5",
+      "published": "2026-07-29T21:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Dr. Anthony Fauci deserved gratitude, not Rand Paul’s Republican show trial",
-      "summary": "Dr. Anthony Fauci deserved gratitude, not Rand Paul’s Republican show trial Advocate.com",
+      "summary": "Dr. Anthony Fauci deserved gratitude, not Rand Paul’s Republican show trial advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xTFE0YXhJSElZb01kQTB2OE9kMTRGR1hmWnU3QkM0dTlERHBELWduWVlDNFhhdG45T09pVkltMVV4a2JWZmU4OFVhWDJPVzFaMDVCTU0zREZXQ1JzMXpDLWdTakpxbVE?oc=5",
       "published": "2026-07-29T19:13:05+00:00",
       "beats": [
@@ -227,23 +362,11 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "After Gov. Abigail Spanberger trounced her in Virginia, Winsome Earle-Sears targets marriage equality",
-      "summary": "After Gov. Abigail Spanberger trounced her in Virginia, Winsome Earle-Sears targets marriage equality Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZE1xSmxQQ0VESmZJckdpMHlVbm40bFRRQUV0QTJRTFVVNHFDQUNONUxVVEhKdktud1BLZ0UweTcxdXdlNGkzMUVkSXB6am1MRGM2QjItdTZrb0ZidkR5UGduSS1ycHF3WklQRW5aV0dXODkxdDVIOE1kWklXSF9BM2p4dDI?oc=5",
-      "published": "2026-07-29T18:41:05+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike",
-      "summary": "Federal Reserve holds interest rates steady, but 3 officials vote for hike cbsnews.com",
+      "summary": "Federal Reserve holds interest rates steady, but 3 officials vote for hike CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5",
       "published": "2026-07-29T18:03:00+00:00",
       "beats": [
@@ -251,139 +374,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Department of Education investigates Denver Public Schools after students claim they were made to kiss during class assignment",
-      "summary": "Department of Education investigates Denver Public Schools after students claim they were made to kiss during class assignment cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkhDUWVYLUpnS0x5NkIyOVgzZlR0U0VoSW1XTkQ0Z29YMVZ2SkFObnVyRl9laEJBOTA0QUI2cmJoOFduX1pPYnA0Q29TU2dMb0ZaU19Ob1EyR1cybzVoLWZQb0RJck9pNzhCdjF2bVZ5OFpWNUREMDQyQmlwTzhuRm5KVlJibU9XNGdNN3l1Y2JtNW5CcTBFMnNjV0lBM3RIamphamQ4SjVjUjZOOFFjRkVFSUhUV2p2S3NlNE00MWpMb1VfYm9hYkNrTXhsdURrS0E?oc=5",
-      "published": "2026-07-29T17:22:00+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "School Pauses Plan to Deploy AI Robot Teacher After Backlash",
-      "summary": "School Pauses Plan to Deploy AI Robot Teacher After Backlash Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdng1cUlFRHk0VURMQ05ZY1JnekQyN205SWFBbXVlRGRPWHU2UjF2MkVqWkpYdEE1Zkc0NWkzX09YSFFIa1BMOWd3UE1TZ2FYdDNaSTdmZVBPQ2xzOUs5NU1LOVFjUWczcnFsbG1SMjh6N09rX05ZRnoxWlJ1dnM3c0p3dzd6TVZ4ZG5NWlZEWjFoSUhhdGxVQkZXQ0lTc2E1R0NidQ?oc=5",
-      "published": "2026-07-29T16:38:34+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Ohio’s Democratic candidate for governor loses top LGBTQ+ grade over anti-trans remarks",
-      "summary": "Ohio’s Democratic candidate for governor loses top LGBTQ+ grade over anti-trans remarks Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ncXBWR0xHNGM4ejFGejRCYnROU042VEVITG1LV2VROGhWbXBfdFZ3M2liQlNJRjFKN2ttTGFoNHNmamJlQ1dGemFyYjhxdkJ1VVB6LVJKNW5mZ1laSC1YTGdjcDQtS09GRjV4SjNITFJGQ2FJ?oc=5",
-      "published": "2026-07-29T14:39:41+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Trump administration cracks down on LGBTQ+ policies via privacy laws",
-      "summary": "Trump administration cracks down on LGBTQ+ policies via privacy laws K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY3F4UzhGVExCdVlQeDdkRWhKQWREX29yM2ZWUVJrbUtod3FRTUV3NGRFY1czaEdOeGpqSndscUxPeFpLSEVvbkxhQWFuZ2JRblk5Y3VIWUQ0VXFhaXRrZGFhQWZhcnZ3VHlibjkxN2tNdGpfYVZ5aWFSMldKeFhqMHFNbFlzMEo2N0FlTmo3SXc3c3N2b1NRaDZURGhhcHpNalliQnZaTQ?oc=5",
-      "published": "2026-07-29T13:50:01+00:00",
-      "beats": [
-        "Politics",
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Where and why public school enrollment keeps declining",
-      "summary": "Where and why public school enrollment keeps declining K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1JsTUZUOGtqM1hFR08wVGVJQjRFWFhnc1VjcW9vUVN0aFgtVXN4WE5uYUQ0R1RFczVDWHhDYlZKeXVkTWVpRm5lUVQ5OGctNDhwWWhsVm12OUEwYzJMSzYyMk0zUlJlaFJUa1FPdVJzQU9oVkNHYncwdzdqdFk3SE9JRkRxcDlpLU5VRUpCS2FMempOdEE?oc=5",
-      "published": "2026-07-29T13:13:20+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56",
-      "summary": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GTndhWnRMUlFiNFlZa24wM0ZEQUtjU3MzRzhLWTU4Y3lIckFfWGNlTE9UMmtTaWVXaDZueS1EemRwOHNVaW5ZRHdfam9FX2xFcjRieWgyckdvZFM0TV90emhER3Q2LWhZVHFEZ0RIaw?oc=5",
-      "published": "2026-07-29T11:52:18+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’",
-      "summary": "At least 13 killed in Japan earthquake as rescuers search for survivors in a ‘race against time’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmZEeS1ael9pNzVOdDkyTlJuUU80dEhYcWxCcUV4QkY4WTJZLXgtTHJjWnhnUTVlaU5VUzZRSklwck42ZVU2eThVaVQyRXBoaWt1M05lYy1xWGotYXZTSTVWaUNBcW1rQUVHWnBsS1dfYWlhRTd2Rms3aGxRaF9WR0QzRzItRy1qRFBOQ1lqWFpUNnk4T0V5OEtYU09fQmRjUUE?oc=5",
-      "published": "2026-07-29T09:40:00+00:00",
+      "title": "Anthony Fauci invokes Fifth Amendment right not to answer questions at GOP-led Covid hearing, calls Rand Paul ‘unhinged’",
+      "summary": "Anthony Fauci invokes Fifth Amendment right not to answer questions at GOP-led Covid hearing, calls Rand Paul ‘unhinged’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3ZVSzVfNGVwSEkyMFlXLW5iYlEyS1RSWmgtaW5FQ2llamhfS3ZQQUZqcFVPcEtBUXNkTy1razdRYUtqTzJ1S2N3ZjE2RzB1ZHg4dXN5X2drRlREQnpScEhnRHNmN3lxdHFwRjJXV1BpUEdYZVlaMEtTS19hUkZLUG5wV2drSENyQ0lSOWNvanpqOXFzTVpOenB3VFk4bV9IRFpwRXJZWEN5YXE5MG5FQ09B?oc=5",
+      "published": "2026-07-29T17:04:33+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "South Dakota Gov. Larry Rhoden fends off challenger in GOP primary runoff",
-      "summary": "South Dakota Gov. Larry Rhoden fends off challenger in GOP primary runoff NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjE4S2RhdXg1OXdveGx1aXN1M2JjNWVyRzRWcTA1ck9jWkpyZWVQYmJwS0dITlJFaEUtMW5LcWt6V3BROU50b0o4eGRjSkNMT0kwcjBDSVRUSHRZODRXSTZSbDFqTldSc0JmNERjbzBhbEFBZWphbENPeks1T2xVSXN0dkdPRDIxeE95VC1oRmp4Z2xSWHRud0ozNDN6dGpSel9xTU1QT0o2VHFlR3ZqU3FOUmhjQW9FUURDbG5BU3A?oc=5",
-      "published": "2026-07-29T01:09:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Woman pleads guilty in torture, death of Minnesota native Sam Nordquist in New York",
-      "summary": "Woman pleads guilty in torture, death of Minnesota native Sam Nordquist in New York cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeV9GYnBYUTBOSjZ6TTdkSTN0eVVUUk1IUHg2cWhyZjV3NmZuMkRjNXFraU1ZdkNkYlhINkpXalVEZUZjUFdHdjZuMHg3M0RJRmptYjRQN0dsR1B4aWx4Tkx3dUZDNENfU0tWUWRyWEZraEJ2ZG1MQ2VIczR2MTJCMlVkaDRIVDVCWXVlem81S09Dc1JJYXc?oc=5",
-      "published": "2026-07-29T00:52:25+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "FBI serves search warrants in Beverly Hills and San Bernardino County",
-      "summary": "FBI serves search warrants in Beverly Hills and San Bernardino County cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDQ3d1Rvc1ExOWY1ZWZRWG16bTBPNFFBZ3RYeEgxUDN5LUhmSEd6b3dGTW0tTVdEZGtBSUV3VXFYcFdsUzl3VTlZaG82bDhpb0xJMkl2LTJCWFpZbUttRXhONklYX0dWd2x1MThsckV4dVBsMDQ5UHdTNDJucElWam93ckhjc3BJeHpRZkZRT0FmZXJiT3hYejhrRkFoRzhxNVBkQWtxLTNVWU1xVlpv?oc=5",
-      "published": "2026-07-28T23:57:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "WATCH: Hunter Biden rips 27-year-old virgin Nick Fuentes a new one in heated debate",
-      "summary": "WATCH: Hunter Biden rips 27-year-old virgin Nick Fuentes a new one in heated debate Queerty",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTRVVUF3d1dOeDhqMklHSnJjYnlleWtldFRHTl92NzZwdFdPd1VFTG9FWk1qeFd1R1ZpUXdPUzhKVnJUOF91UW0wWUtxekEwUWxJdFMxanVSR0dfMzVOZG5yZE55Y01FMjdNTnlKLTNsdzAzTXdkYW5VWnJOZDl1ZWljRHVaY3Z5WUpCSnlFNmw2WjluY2UzZ0hPR2FYTk1lQnZyVkJDWWFjYjFLUmc?oc=5",
-      "published": "2026-07-28T23:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
