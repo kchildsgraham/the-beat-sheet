@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T12:17:26.723871+00:00",
+  "updated_at": "2026-08-01T15:47:54.467312+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,87 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Berkshire Hathaway shares hit eight-month high",
+      "summary": "Berkshire Hathaway shares hit eight-month high CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVZ0SENQaXc3MXZuNmN3ZDhfWmd5WUhWZWFYaVFWb0gta0I1Zi10RUlrNlhLUzg1c185VV9yc3RWSV9LZTdaTHdUMV9BOUdsc2NfMWpFMlRQTDQ4VUx5cWdmaU1oOFZQTENodHpqVFpkZWRFQnk5NGJHbVZ5ZlFRT2s2NHNLLTRtU2NNNNIBkgFBVV95cUxPU3NOTUFETVBZdWtjelliMlJWZG42TjNubWphV2IwLXpGOHVLaXJQZUdTS2FKU3VueFFHVHpiSnNzSjlJMnpkNnMzbERDYjVmdFhPNlNaRjRkcl9nZDRaZEVxSWhwZkZ6dlhZSnZyU2p2bHpzZlg2ckluTGVqb1pmMHJfSHFNUDdEbXY1NVNUSEhyUQ?oc=5",
+      "published": "2026-08-01T14:41:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "FIFA scraps World Cup private investment plans as Infantino fights for his future",
+      "summary": "FIFA scraps World Cup private investment plans as Infantino fights for his future The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2k3V0hJbGFaSGRZWGZsa2lZODBfN05aWkdXenJFSmhUbkR2VWFsejQ5WTRfRXlIMTljOGozUUdYN01HbjhIclF1RFAxSG02ZGxkV0diWFBzcUpTVDd5TGEwU0ZvU1VBZnZpa0pWdFJIV2h1MjU2YjVzTDdrRk5yY1lPTmhTTlNyazZ2aHhmNm9QQjZoRy01VzV5T24?oc=5",
+      "published": "2026-08-01T12:57:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "World-renowned mountaineer Nirmal Purja confirmed dead after Pakistan avalanche",
+      "summary": "World-renowned mountaineer Nirmal Purja confirmed dead after Pakistan avalanche CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDNMdXFxcFFfdjN4dXhaZUFHUmotX1piS19GRTh4STBhRmlueE12aEh4U25oRXB3YmNJT0pWXzlrVVZmcG5CdGdEejZ3R0VQcXNjemxyTExERXh3dk01RVZfOUd0b0k3ZXJ0R0V6MmRvYlRpLWVUMURNSmgtcWJfOUQ3MnhVbGNkcVp4RmVfWnE?oc=5",
+      "published": "2026-08-01T12:46:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+      "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
+      "published": "2026-08-01T12:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-      "summary": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GSWlVVWVZTlZ0SjhmYjJqS0I5UDNSaS1EY2xRSElFa2dHNldPWkhGUW1TaGgtS3VYRGM0TWprOE56OUltWEpTalU2SVdiV2cxbWRmbmZ6ZGFZZzYyMXI2d0hhZmdRSTJmTkc0aDZrdmw0ZDc5MGlZZXJvR3p1QQ?oc=5",
-      "published": "2026-08-01T11:00:00+00:00",
+      "title": "Opinion: Remembering Margo Howard",
+      "summary": "Opinion: Remembering Margo Howard NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0pTeXkxc1R6eUdET2Q2Ul9IaWVzRUNBdnVvNFJsbFZ3M1JXQ1R1SWNjeFdMcGtUa0lsZTA2YTYyTDZSSVMybnY0aWN2bVppeXl6X1NkUVFNeVNraVUybUlOcUU4Q1RCVk5Zek80S01mN0xGYnZ1aUs3VHpBbmhYMjFzUQ?oc=5",
+      "published": "2026-08-01T12:00:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘Our hearts are in ruins’: Savannah Guthrie’s family pleads for help 6 months after mother disappeared",
+      "summary": "‘Our hearts are in ruins’: Savannah Guthrie’s family pleads for help 6 months after mother disappeared CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2lNOURwaDJWZEFBNWtzQmtSVXZETTFQMWRiaTZXRXpiNUxrWnRuQXdoMFV3dVdZNjZSUUpOenNqSmdGQnVXY0l6aWxhR1d4eHctaXU3REJqdnhCWTBQaGg4VTdscEN3eEpKdkhETU1rVUVrYnZ1UkFGVkFxWElOMmp3?oc=5",
+      "published": "2026-08-01T11:41:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Dead After Death: What's next for the Grateful Dead?",
+      "summary": "Dead After Death: What's next for the Grateful Dead? NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94cmlyQnExUXl6dVA1a0tZQldvQW1sUVljZEd4SU43TF82VlRLNU80bEVPc1ByOU5RdC12UVBzM2M4UExNVW9PQzluaDRkbTVSSWN1VUlYVkd6aUlReUtpLWNSRm5SN1VKZ2taUkpmdVF0WUV6STdV?oc=5",
+      "published": "2026-08-01T10:59:31+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -39,18 +111,6 @@
       "summary": "‘Trump threw us all a curveball’: South Carolina Republicans are stewing about Lindsey Graham’s old Senate seat CNN",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0ZWUmVwSGgyN3p5RVNIR2ExeXB0QVZmVGpxY2VMVGZnOG5IRlUwV2NiNGpmR0FVcVZxd0dZYXBGT29ObVlxY2Y0SHNZbkxqRldDVDl6WDZjZWtoemxiRTNiUXQ5TWZ2dGNXTVlrUm1ld3A3ZzBIZ0p5cjY5VFc4V2lRWVRqeV9RRkJBSXZZSVQ3TFhZ?oc=5",
       "published": "2026-08-01T10:30:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "What we learned from the first week of testimony in Lindsay Clancy’s murder trial",
-      "summary": "What we learned from the first week of testimony in Lindsay Clancy’s murder trial CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uY1VudTc1QkxhOWhwa2UwTjNiSktiR3gxajF2eUJPTWUyWUZyZVp2NWIxa2p2NmJVdzNiczIzdEhFMkpoNTdxYWlNWjVmcC1OZWs3MDdOeVB1dXR1YnRHUTdUblhxXzZhQzRyVHlzN1BoZkkzR1A2bjgzc1c?oc=5",
-      "published": "2026-08-01T10:30:26+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,72 +131,24 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-      "summary": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rYjRuTnpkTU81eHVrMTBCMUZlaEN6MUNEY2g0NktsX0d4NTlHU2hJVlJQa21fRmN0NmhpcDQ5NHEwaDMta2owMWRYaWtlaXJvTFFrWDU1bmFVRm94UzRZMFBzZVZrSDNxNFdVeHRkcUk3ZjQyQm5fYnYwOA?oc=5",
-      "published": "2026-08-01T09:36:05+00:00",
+      "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
+      "summary": "More than 25,000 children lose previous legal protections, as federal contract ends NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlFzSlEteWFhOGducy12c1pFX0IzRWI4V3J2ZDhUX0NpaV9wZHk0NFo1a1lpTWFYUnJqZmFyZGJCSVNINUlqVlVUR2c2YlZGMU11TVU2X1BJZ01LNWNnU0NreFllWlFaYWRIMUlBX043WlQwOXQ5WUxtdkt4NnNRa1YySVc2cHJfWE9NM2Fhb1F4LVNxTDdn?oc=5",
+      "published": "2026-08-01T10:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "For sale: early access to Trump's Truth Social posts",
-      "summary": "For sale: early access to Trump's Truth Social posts NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbE5FSndMeGFBMEV6Vk1lTV8ta29PMVpqcnRUckh1MUxYV3pUU3JTRi1SYXhocDJuVXUtdEFrZU5GczY2eWo1ZzBlR3BoVVZja2JlRnc4MGFuZDlJUDFiRk1WdnRTU09VdlZNbFl2cm1NRE84QVdOZEVCYlBMNUJJVGk4cjRKRlQxQWhMRl9xQQ?oc=5",
-      "published": "2026-08-01T09:00:00+00:00",
+      "title": "Why Boys Start Kindergarten Behind Girls",
+      "summary": "Why Boys Start Kindergarten Behind Girls Education Week",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2tRSm03WWhnZWZ4U0JHbzN5S1FTZ0l1TXR4Y3RyTTVmakl6b0FEX3RweU5wMVd2WGpiVTZMV3p3OXoxZVBQN1RvSjhYclh1ZWt4MDE0WGtBUUo3cjVNN2pSWThaY3V4MWY4Zmc1Z1VYb2RibkhReDV2bHFfX1hLOWg1VW9ISDFySWVMX2I0Y2FjSzA?oc=5",
+      "published": "2026-08-01T03:34:18+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "She closed her Pilates studio to chase a mountaineering dream, then tragedy struck",
-      "summary": "She closed her Pilates studio to chase a mountaineering dream, then tragedy struck CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFNmOVlKRFU4T09HUjB6SjNrQmdjWkFRdHZxZ2J4cnRab3dzZnZ6blNNblp5WlMwTkZ4WFJvQlNyZzR4anZoVVBzQWNSLURwSlVWMUcwTlRlWUFWM0I1YXNMakxTT0VFdS1WdnczX1pncnBqa0NTWE1zN2tMYVpWX1ByWWlKV2lna2JkRkZ1aEQ5aVdVQUE?oc=5",
-      "published": "2026-08-01T07:50:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
-      "summary": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’ CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcE5LNHJXM0lVN1lkZVpvSWtSRHNaWmp2ZEVmSWczTmxMUUJfMWl1dDAtNV9hQ0xCNGZoNkNOZFM3ZGxCanFuWXBpams4S1Y3RW5ialRXNnFNaW9Lb0dEeUhab25IQThjc2ZzT1EzbzlLQld4R0lKeVdFUHU0SFpGNtIBhgFBVV95cUxQUHhLTDZ5cXVnVzZ1ZGo3Q3VHdTI2bk1xUEtac3g3TDBrWTBPaWRCWWRJMnBlNEJFdDVKX0ZrUFVGdVNSVXhzdDFnRE8xWkViWmxJVElydkI2Uk9MZndwUG5WVlExQWdlUzNNc1pwZ0ZFRHMwaU90T1htdmZiS1VmQk9VQ0FzZw?oc=5",
-      "published": "2026-08-01T05:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "FIFA scraps World Cup private investment plans as Infantino fights for his future",
-      "summary": "FIFA scraps World Cup private investment plans as Infantino fights for his future nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2k3V0hJbGFaSGRZWGZsa2lZODBfN05aWkdXenJFSmhUbkR2VWFsejQ5WTRfRXlIMTljOGozUUdYN01HbjhIclF1RFAxSG02ZGxkV0diWFBzcUpTVDd5TGEwU0ZvU1VBZnZpa0pWdFJIV2h1MjU2YjVzTDdrRk5yY1lPTmhTTlNyazZ2aHhmNm9QQjZoRy01VzV5T24?oc=5",
-      "published": "2026-08-01T00:11:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
-      "summary": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0FFQlBvM1p1cXN5WU9xVXY0cHFlSW14OHB4LS1zTzNmeHpjdUZoR2R2RnZmNDhxai03anVjVUNIVm0tS2JSenUtZERwTE1MMlR6N1FDN1VyendpNllldkhDTVNMdllBS3E4WUM2Y2NWQlFudW9xcmQxYUowYWEwcdIBhgFBVV95cUxOS09rM1AtM2F5ZC0ya0FUZ2cwWE9zYjJSRFNjeUZvVVdhVTFaUGk3UG1QMlBuVVZXcFJIUFhQZWhoODRpRVdKSUVkalVFR2s1YUlEUDVkTXNjZEc3OXJNRTRtY29ESkRQOGs5SnhmVHdydGdYYXZBc3JvSVRnM0xGeW9QWld5Zw?oc=5",
-      "published": "2026-07-31T21:07:05+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -192,6 +204,32 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
+      "title": "University of Alabama quietly abandons sexual orientation & gender identity nondiscrimination policy",
+      "summary": "University of Alabama quietly abandons sexual orientation & gender identity nondiscrimination policy Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSE8xSUdlc3J3ZFM1WWtBUEV3WXMyOG16WjNhU3NhalBSZ0pHVVNyazBEMUQ1RWQ1WW1XNzk2a2loSS1jR05rLTllZHBpdkdMeldQNUxuSml5NlNFVXBKTEJPOFZUVXIxRnFZOXRRaWRaYy1vRUZGc3V1Y1IwWUNvYlpSZER4aDdWeVZRNGxWcy00NzRkdXBkaw?oc=5",
+      "published": "2026-07-31T19:47:27+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Judge denies request by Elon Musk’s xAI to pause Minnesota nudification ban",
+      "summary": "Judge denies request by Elon Musk’s xAI to pause Minnesota nudification ban NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmZlTWNyeU1JZUltV0NSR0dmeDVlN1M0SGV2ZE1zaHE0Nm9lSktBdHNVVjF3MGMzNW1PbURQaWtTWk5nY3I0U3FyWWh1cERsSndFcExOUll3M2I3UTdEbzdqN0VnMWZNY1M3dnZucVp0cEJxckdXWjZHdFRJUE93ZEZCaXhPQzZrWmZ4WW5xcDRjTFBiN0I2QUE1Mmp3cHJXUi1pNmpSN3hjaThlZGxVZg?oc=5",
+      "published": "2026-07-31T19:41:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
       "title": "The people who called AIDS God’s punishment for gays are helping measles make a comeback",
       "summary": "The people who called AIDS God’s punishment for gays are helping measles make a comeback Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QQkFhVFpoTGc2SXB5YmU5dFV5aHNELWlzV01tRlJTNHY4ZzRpeVJscGt4d2hkR1c0Wi1ZS2F2QnVuRFlVcE5BcXo5VWZ3NE9JY2daNUhTY2s3TGoxUUlsczJ5Y1hUOWlB?oc=5",
@@ -204,24 +242,12 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Photos of a pre- Fame Lady Gaga performing at a gay underwear party delight the internet",
-      "summary": "Photos of a pre- Fame Lady Gaga performing at a gay underwear party delight the internet Queerty",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjdsalZXZ1FqUnZ4X2c1aFcwaXVFN0ZwdV9FSGZEcU9Nc2JVUW82aTAwTmJhNTZXRTFPaFdHaVlnclctaXhyY0pqNEZhVDNGU3JaNjZFR2RRRDFsSWtWZWZGT29iUnZQVl9xb3VBcTBWc3poRkFUX2NkV016WTM0WE9ZWVRwU2ZYOXo3clg2M1NWVlVfYlRRSy1mSTRwbWFmZmFwUElXcGQxd1hwQXZPTnp4OXBhM21sN0h2WFJn?oc=5",
-      "published": "2026-07-31T19:00:00+00:00",
+      "title": "The best LGBTQ+ movies & TV shows coming to streaming in August 2026",
+      "summary": "The best LGBTQ+ movies & TV shows coming to streaming in August 2026 Queerty",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzV4bXB1QnpRSk5kZ0RFN01MdUItb0Z4eVFqU3VPcUhQenFqZERiVWpxdnd4eDByc3J0cHFqOWlwQm5xVmVrSUFFSC00d3JZdTV1SGlXUWpJcC05Z2Z1UGNUTjZhc3BXMWpYQmxQeDNmWlJqODM1dHpzMXk5Uk04MHVKRHpXblRRTDhzR1c1RUdkNU5CU1hZN19KZmZyLS1m?oc=5",
+      "published": "2026-07-31T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Settlement to erase student loans for more than 450,000 borrowers",
-      "summary": "UPDATE: Settlement to erase student loans for more than 450,000 borrowers EdSource",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWVyOVNTeUhDWW9LRkh3U3VCWFM4d0ZCVzVYemIyd1p5bjBHd0FZWG1RNUlweFRZQTF4TEw2WUlGaDhFS1pHWmZrcjg5LXpLQ0FMbnd1Ukl5ckdrbllLVy1IOUtEeFN3TlljNlBvd1RqTEg2a2lvSVBXRzJvODFSak9DM0hWSUFncmtJTHBzTzFiTWRlaW50UVFqVQ?oc=5",
-      "published": "2026-07-31T16:56:55+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -253,10 +279,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "U.S. Raises Threat of Steep Water Cuts in Lower Colorado River Basin",
-      "summary": "U.S. Raises Threat of Steep Water Cuts in Lower Colorado River Basin nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXdKcGFhN2VYLXUxZVNlMzFnd3NvQUk1aVRQeDdIRDd3Y1JIRVJOSU5oU21leThOWjl2aW5feGZOTHdMN3JEY2JSNXgyTEVJOS1Yakh4TVo0Q3lHdVl5Vkdack9GaFFZS1JHQVU3cGNtXzhtQ21IaWZmajhFVWJkZHpXek1XUQ?oc=5",
-      "published": "2026-07-31T15:12:23+00:00",
+      "title": "Mykhailo Mudryk’s doping case resolved, available for Chelsea return with immediate effect - The Athletic",
+      "summary": "Mykhailo Mudryk’s doping case resolved, available for Chelsea return with immediate effect - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1QxdHBRMzc0eTdHRFdQczRwOGkzUEdMLXJXWjhOT3ZiUGVjQkNqOGp1cURhQVlHam8yWFNfZnJZMzF2Sm1qZ1BsVnB3RTdZVlVfUTdvWkNBWFNnMFdZekhjWlhHeW5UYkpQczVUcmphUEVrUXg3aWJxUjMtVnd0b3NzWmY3UHBCZUtQVUM4T0xHZ1I1NzctVDlzWFlhNVdx?oc=5",
+      "published": "2026-07-31T15:54:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -293,6 +319,18 @@
       "summary": "What California families need to know about Trump accounts for babies, kids EdSource",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93MXZYT3pWTWZNVnVFVzVIZ3lvbmlsZUNmZzM2Q0lrbHhUWDdVc2RzWEduWXUyOUEzVllrTmd5dmFrcEMtYlFIeTZWRTZQZ0trSjhweDhNaUVHcGRsR1ZUWllTa1pZVHdkZEZiU3k2T1kxY1pj0gG3AkFVX3lxTE1uTGl5RTFpZ0x2ZG85eVlDVnJmQnFGZWYtaFdnNTRPTkM0UWVVbmJIUTYwZjhFblZTLXNzdmI0Q24yblJfVWhUbEQwLVVHVXFHSElJdjlrVHlnVmtEVXNUUFo2eXBWVDNDZ2NGUndNY1RGbndXMmxVUVdVbERHeE9XWWFJZFZlWHVUUExwT1BHcmFBSkU3Znd6dW56NVJWQ2pJcmZmZmREdVZKaHRnUmdvWDNBY1pBZEtJcEc1bXVvTnA4OTRmdGNBaXY0eHZZRTRaLWFna1Z2UTR4cWtWekJtMzVtRGlJMmthU3h0Qy13WUlvMTZnSE5hUDgtSU81cE83ZjdhLThoV2Fpb3ZNRWVubjJGcnhwbFdfcS1UZUpBSlg1WnZVQ19Od1dYZWhUSFBrT2Rqb21z?oc=5",
       "published": "2026-07-31T07:15:52+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California families won’t owe taxes on money in Trump Accounts, thanks to law change",
+      "summary": "California families won’t owe taxes on money in Trump Accounts, thanks to law change EdSource",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ONkI0QjFQc0I3T1NIZzYwNzlQS21iMDlRa3owWUFsRDNEZnVkUUVMWHpIM09kVXdQWlp4c0FMSktKa3ZxeUhhN2Rzd3cxNW9LbkdKMEZkNkQxY1RRREs1OWZzaUtLVHVUWjcxeGRrSC1FR3RyZHloNDh6Ym_SAYQBQVVfeXFMUDBINHVHdHB0ZlN5OGgwSnN0SnlCa2NXdmZDeU1QczFtVDdWWU15RFVrZ2lpZDE5R2JCWEVYaUlRVjRob3MtSVBpR2l1N2FacnB5Z0hLNFktRFBMVWxXeHVEZWF1bjJpbUVyaDhvWDV2cmtFWVFLU0c5Sk1ReHhZd3V3bEds?oc=5",
+      "published": "2026-07-31T07:07:30+00:00",
       "beats": [
         "Schools"
       ]
@@ -342,43 +380,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUV6bFFuZXQ0dU1aRjZRX1F4SzUyV3FILUp6RFQzX1otYkFqUmd2T3ByVnhURmtMYThUczM5SDdIM0QwWlNRVFlzV0d6bE5qM2tCQ090TnZaMkxVOUlKYS1kVlFfVVNuSDhfV2QzdjVLQ04tQ2JKdDBuRVJWMTBsVGRZXzFlY2RpS2ZnUE96TUhCbzdQLVhfbENZNHpva1BRUjlpVkRDamRjblk1WWpv?oc=5",
       "published": "2026-07-30T20:57:43+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump officials mislabel all African countries on map at global AIDS conference as U.S. cuts HIV aid",
-      "summary": "Trump officials mislabel all African countries on map at global AIDS conference as U.S. cuts HIV aid Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWWgxdG9pWFFTWEdCc1hIMzVhRDFRVU8zWVhpMkVWdEd3Q2NidkVEbjdJYWVJeWJDQzRjWV9TU21RZUJyS21lVm9BZjNfUjgxblNBZW9OSzVjWG9vSzg2VDFXRjBSek5wYnpBSmZkdFFOUTlsZXE5VzRucGFxbHBtNnJMVGRmNlFaRU9XdEtyQjY?oc=5",
-      "published": "2026-07-30T20:38:34+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Amazon’s Zoox wins first U.S. approval for paid robotaxis without human controls",
-      "summary": "Amazon’s Zoox wins first U.S. approval for paid robotaxis without human controls NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYmNJUWp6VkplQUJDV041Q3lpeVVOWDIzR1ZveUhMVHV6U0tRRm53T2JnMWprNzBwdklReWVLbEo1aEk5aG0wOXROdVl3N1dtcUczcW9wUHVueEt1TjhwRkdhdTNJRnJjVExXX2I5NE1VUXZfN0xoeU84d3pGVEQ4aE91OFVzQ283ZWd5ZVdpbGZ2cjZNNjZTaGVaazZLbXZ2UnBUaEdFY1d3Nmt0MzlTc1pDT1MwQQ?oc=5",
-      "published": "2026-07-30T19:23:50+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Senate Panel Advances Bill to Block Much of Trump Admin.’s Ed. Dept. Dismantling",
-      "summary": "Senate Panel Advances Bill to Block Much of Trump Admin.’s Ed. Dept. Dismantling Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkQwWE9qem5EQzRPUm9PRFNlZzhHOF9rQzVqemUwZ2cyNWQxTmktek5WQW9tNVJhdkpOVXc5R1hLTTQ4S25IQUFBQTFLMVV2dnpmcl9DeDZWNUdXNlQwbjVOZ2pWaVhxdk90MjI4TTFhYU1tcHBfUjRfb2M0RWNUWkVFRGNDb0dTVWFnREV2Z2JuM1dLcXFpblkzVmpTd2Y3bkhCY1N1MnhpVmY4QW5ybjhCNEJELWNtSUZNMHFUdUNjZw?oc=5",
-      "published": "2026-07-30T18:22:29+00:00",
-      "beats": [
-        "Politics",
         "Schools"
       ]
     }
