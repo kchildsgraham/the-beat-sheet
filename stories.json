@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T15:47:54.467312+00:00",
+  "updated_at": "2026-08-01T20:13:33.351005+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,63 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Berkshire Hathaway shares hit eight-month high",
-      "summary": "Berkshire Hathaway shares hit eight-month high CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVZ0SENQaXc3MXZuNmN3ZDhfWmd5WUhWZWFYaVFWb0gta0I1Zi10RUlrNlhLUzg1c185VV9yc3RWSV9LZTdaTHdUMV9BOUdsc2NfMWpFMlRQTDQ4VUx5cWdmaU1oOFZQTENodHpqVFpkZWRFQnk5NGJHbVZ5ZlFRT2s2NHNLLTRtU2NNNNIBkgFBVV95cUxPU3NOTUFETVBZdWtjelliMlJWZG42TjNubWphV2IwLXpGOHVLaXJQZUdTS2FKU3VueFFHVHpiSnNzSjlJMnpkNnMzbERDYjVmdFhPNlNaRjRkcl9nZDRaZEVxSWhwZkZ6dlhZSnZyU2p2bHpzZlg2ckluTGVqb1pmMHJfSHFNUDdEbXY1NVNUSEhyUQ?oc=5",
-      "published": "2026-08-01T14:41:54+00:00",
+      "title": "At least 3 dead in explosion at Moscow restaurant",
+      "summary": "At least 3 dead in explosion at Moscow restaurant CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUc2Y1VUVm05b2JsNHI5YmpURTctQmVIQ1FTZlZxT0NUN3l0YloxUzZ2Qm1KZDRaNTNCV3pPWDFnV2I3UFJhRzJDTTBMcUZpOGt5cnNOVjhOS1B6RzZ1a1F2b3JQUGxud203RlhCWGFMTkU2VHpIUFQ2aDFmaFBNWS1n?oc=5",
+      "published": "2026-08-01T18:37:13+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "summary": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hb0phdVFOdEVHcUpOZkZBZzRYWmwwTllkeF90Z2R2elc1d09uZnI4cWEydEZ6NVlkMmJXR0VzdVI5a2czMENLMU5PWXE3bWZ2dVQzMUlDdDlPbEc0TUl1eUhpVVhKMEJ6cFlZSmdxWXpDQ1dtLVlIa3pHcVlWUQ?oc=5",
+      "published": "2026-08-01T18:33:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say",
+      "summary": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUVFRklxcG5KUUR5RURQWlZGV1ZhZVBwMG1FbEVpTlhtUEZSZm04MVJONDdZNUFpUmpnZ0k0d3ZjMzdXa0tLVTh2MHllbEtCZ240elRGTkt2eUZ4ZG1UdHBqUVR1WnZnWG9STC1oQkkwLV8tSkt1ZHJObjJXUUxpTEZBQ2xMVjlEVnk3Qw?oc=5",
+      "published": "2026-08-01T18:18:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Acting director of national intelligence says leadership transition will begin Monday after Trump talks",
+      "summary": "Acting director of national intelligence says leadership transition will begin Monday after Trump talks CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teGY2SkMwc2ViRW40bDdZNGwyR256MFZ3ckFGRUxOc2dnOEdhQjVNSUszUzE2T1VkR0pKcjVZZlJyajdDQlpUcUVNWmcyRXQyYU05R21qam5aeTVQRVMyRllUZ1R3NWtRNVdCcHAxZGNNTkFCSjhPX0tpZTZKUzQ?oc=5",
+      "published": "2026-08-01T18:03:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump rages after Jeanine Pirro abandons his imaginary Reflecting Pool vandals",
+      "summary": "Trump rages after Jeanine Pirro abandons his imaginary Reflecting Pool vandals Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1FGbEJKNWp1Y1ZMNW55NE85MkFvVlBrUGloMGpnRWE3OV9LMXFlSHRnZUtQMC0xTHpsLTVnQ214aWYyQVdJc2VFYlFXZ3M0ZGF5SjNJeTM1dGNPRHNDM0NCMm5PcjVEZEpnU3lqQkNEdGRnYXVpTjdzSkV0SXEzbFd3?oc=5",
+      "published": "2026-08-01T17:35:59+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -38,19 +86,19 @@
       "title": "FIFA scraps World Cup private investment plans as Infantino fights for his future",
       "summary": "FIFA scraps World Cup private investment plans as Infantino fights for his future The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2k3V0hJbGFaSGRZWGZsa2lZODBfN05aWkdXenJFSmhUbkR2VWFsejQ5WTRfRXlIMTljOGozUUdYN01HbjhIclF1RFAxSG02ZGxkV0diWFBzcUpTVDd5TGEwU0ZvU1VBZnZpa0pWdFJIV2h1MjU2YjVzTDdrRk5yY1lPTmhTTlNyazZ2aHhmNm9QQjZoRy01VzV5T24?oc=5",
-      "published": "2026-08-01T12:57:00+00:00",
+      "published": "2026-08-01T16:59:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "World-renowned mountaineer Nirmal Purja confirmed dead after Pakistan avalanche",
-      "summary": "World-renowned mountaineer Nirmal Purja confirmed dead after Pakistan avalanche CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDNMdXFxcFFfdjN4dXhaZUFHUmotX1piS19GRTh4STBhRmlueE12aEh4U25oRXB3YmNJT0pWXzlrVVZmcG5CdGdEejZ3R0VQcXNjemxyTExERXh3dk01RVZfOUd0b0k3ZXJ0R0V6MmRvYlRpLWVUMURNSmgtcWJfOUQ3MnhVbGNkcVp4RmVfWnE?oc=5",
-      "published": "2026-08-01T12:46:04+00:00",
+      "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked",
+      "summary": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQm1aa1RPYjlFM2NDSlZ2bEl2Skg4REJtdTRVR3lZbGZyYlg5RWZvNVY2RzhHMmpEa29NeS1hMk92T2tyTFkwQ19qVkFiazZQNWMtLXNRcnFkYkFHeWFCdDJ4U0FkUFFJa3NyUzJ3RGJLTi1CN1Z1SkhzeTN4VEFtcUpQZmE1NjBTOEg4RTUwOEFFR180X1pGOGRHdjZSSmlGR3loRVJPZjRvNkhTWk0wakFEZ2x6Y3QzbUZaSGdaMVY?oc=5",
+      "published": "2026-08-01T16:54:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,22 +107,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-      "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
-      "published": "2026-08-01T12:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Opinion: Remembering Margo Howard",
-      "summary": "Opinion: Remembering Margo Howard NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0pTeXkxc1R6eUdET2Q2Ul9IaWVzRUNBdnVvNFJsbFZ3M1JXQ1R1SWNjeFdMcGtUa0lsZTA2YTYyTDZSSVMybnY0aWN2bVppeXl6X1NkUVFNeVNraVUybUlOcUU4Q1RCVk5Zek80S01mN0xGYnZ1aUs3VHpBbmhYMjFzUQ?oc=5",
-      "published": "2026-08-01T12:00:00+00:00",
+      "title": "U.S. Treasury intervenes to support yen after Japan steps in, FT reports",
+      "summary": "U.S. Treasury intervenes to support yen after Japan steps in, FT reports CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGZCUXRYYzhqTmNhWEVuX0RpNG1seWRnUENINzdScW9TOFhiSS1SdTNTWVNEeUpxQVlRZW5PQndtRmZpcF9sUDRsNDg3NDdfemtWX3N6WXp1Wk9CYUVGUFZ5TzlHbDRuZUt5VWV2R0EwRTEyb01kT2ZMY043R3lCSFFEOEJHbFNnbFRkSlhfeEQ3c3Z1R1hTOUZnQWtwNEXSAaQBQVVfeXFMTjJkZEJyLUllajlMT2s4d1dVNkQ1S3NGMnhuSFVhWEZRVXhHTVBaZ0NRUkVCaHgtc2RFMC1Mamlidl84cTA5ZGV4dUVmaTNMODRaaU1aOTIwbGVNZWVPdXNELVNwd0JGRGdLeC1Bbl9TN2xGc3lfVTJLSExyNGxZOFF3WjV3ZlE4bmRMaUJ3LUluUnQ0WFBiNzJEUmJIYTI2aDYwUFo?oc=5",
+      "published": "2026-08-01T15:44:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,12 +119,72 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "‘Our hearts are in ruins’: Savannah Guthrie’s family pleads for help 6 months after mother disappeared",
-      "summary": "‘Our hearts are in ruins’: Savannah Guthrie’s family pleads for help 6 months after mother disappeared CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2lNOURwaDJWZEFBNWtzQmtSVXZETTFQMWRiaTZXRXpiNUxrWnRuQXdoMFV3dVdZNjZSUUpOenNqSmdGQnVXY0l6aWxhR1d4eHctaXU3REJqdnhCWTBQaGg4VTdscEN3eEpKdkhETU1rVUVrYnZ1UkFGVkFxWElOMmp3?oc=5",
-      "published": "2026-08-01T11:41:14+00:00",
+      "title": "Trump’s Reflecting Pool debacle takes a predictably scandalous turn",
+      "summary": "Trump’s Reflecting Pool debacle takes a predictably scandalous turn CNN",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUd3ZDVyMGdDVkN0LXZTc2wzdU44TUVvMFdVR0hXVlJkb0xPNjVpSlBvTVFTU0JCeG9CRGRTUWUzcGpIRWJBRWZlWV9ya2F5YzZZd1N0bmxjU25wa0Q4M19tTDBSVXN5ZjZkOWlwZFNiNEdzUk4xLUJBSmJmdDJORlpqTmZTSTE4MmtzcVZhb2FhVzhXc29QX0xKdG1SaXhfMWVsMk5YMnFwTlo1NkE?oc=5",
+      "published": "2026-08-01T15:29:59+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
+      "summary": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUdrb05ENkFWMGRpUXJFeWxOdmp5TXhKOERjQ21QcTVxc1VLUE55eFpuY1FuV2FBcGZ4X2VXb2podUVJTW10Z3VfZVFGT0thQldaSlZfSVBDeHBYQURfMWt3Yi1uZnpkWnhzQVlnb2toM3hPN0VmTmpINGV4U3FVR01hVFd3UDlxVnFSWHJqaVJRMTRmLWlJeDdVN0k1bTVZSFZ3YdIBqgFBVV95cUxPbDRrNWRoYlI1RXJrLWJnbXVvZFlzWUl2M2ZGbzg1ZGZWTmN6WTc3TXRoSVRncGt1VUoxWW5XbEMzZC1XMkY3b1hUY0NMbkNNVjdpemJtQVloWGxUWVV6UE1BX3o3V1RjS2IwWHFFN01SZ0NQQzljS1RxNmlGY1ZRMGpoT2Zjd2U0Rzh0UWJFS21uWVBIaXhBdzMtZGN6TlVaRG0wYnJXcWVEUQ?oc=5",
+      "published": "2026-08-01T14:17:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Europe continues to celebrate Pride events after deadly attack on Berlin parade: \"There's still joy\"",
+      "summary": "Europe continues to celebrate Pride events after deadly attack on Berlin parade: \"There's still joy\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZheU1pWHVQX0l4ZC1sYmlVQ1ozTlI0STAwNk0zSVRjNXVROXp6WElHNmh4TjFGR1M5TlNhNWo2cU10STNwR0FvM0NKa3ZGaUQ5UGtoZ2JiUWpQN2F2QkFGUGxCSlo2ak1LYS1HZl95dkZRQzlIMFdHMlpOZVhZSXktR0d6ekV3YUJkX19RZVdRVU5n?oc=5",
+      "published": "2026-08-01T13:27:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Spain installs floating barrier in North African enclave following border rush by tens of thousands",
+      "summary": "Spain installs floating barrier in North African enclave following border rush by tens of thousands CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzZRb0NqOE5hZ015d3hUWFI2N09yWm5hajJjWlpmQ3dseGZRTkZYT3JnMXNaRGlBTjlqX2xBUHVVTDlpdkttOVlTa01zV042dTRxbE4yNnBBakJCVTAzaUd2emRldy1ndW5UNS1ZbFVueFpCaDZ1cEVFUWUtQzhPZXhNS2hRZEJ5M09kNklZZjhlY3lTTzhkRUVxZ2JyQ2hfY1NpbTdiMDRIZ9IBrwFBVV95cUxOVENlamR6NWFxdXRVZWdSaUZxeEllNTdCM1ZwLXBRWk5SOGg4T09VQ1BsTzhuLTEtaVNiYVd6M1NLT1JrLVMyT2Q3ZUVIamxvSzItQng3M0tEYndmeFlxbVQ1d1dyZXVVWUwwczFCNjZ3ZnlpbzZwMGhFWDVLRjhpSGhqRjNCVU4wNlh6dHZaT2FuamoyYUxPTTNvZ3RGTHNoSm5vc0ZoVzRqSW1fdHNN?oc=5",
+      "published": "2026-08-01T12:39:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Nirmal Purja, Renowned Mountaineer, 43, Is Found Dead After Pakistan Avalanche",
+      "summary": "Nirmal Purja, Renowned Mountaineer, 43, Is Found Dead After Pakistan Avalanche The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFMxbW1tb2pfeXhZZzI3TTZXRlNweWh4UFlNWk1nOFdOUHZnQjFPRDQ1SGZxeDhISWdQSGd2U2FVZ0NaeXBVdFpyR1U3WjQtYjZMcW5kLWUtU3EyaTFhUUJYZUVhakJ3WUYtNTBwR0VHOTdpVDJMYUV3MXlCMlA4Nm1UTDdhMUluQUxrZ1I3SDU?oc=5",
+      "published": "2026-08-01T12:15:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+      "summary": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GSWlVVWVZTlZ0SjhmYjJqS0I5UDNSaS1EY2xRSElFa2dHNldPWkhGUW1TaGgtS3VYRGM0TWprOE56OUltWEpTalU2SVdiV2cxbWRmbmZ6ZGFZZzYyMXI2d0hhZmdRSTJmTkc0aDZrdmw0ZDc5MGlZZXJvR3p1QQ?oc=5",
+      "published": "2026-08-01T11:00:00+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -99,42 +195,6 @@
       "summary": "Dead After Death: What's next for the Grateful Dead? NPR",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94cmlyQnExUXl6dVA1a0tZQldvQW1sUVljZEd4SU43TF82VlRLNU80bEVPc1ByOU5RdC12UVBzM2M4UExNVW9PQzluaDRkbTVSSWN1VUlYVkd6aUlReUtpLWNSRm5SN1VKZ2taUkpmdVF0WUV6STdV?oc=5",
       "published": "2026-08-01T10:59:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘Trump threw us all a curveball’: South Carolina Republicans are stewing about Lindsey Graham’s old Senate seat",
-      "summary": "‘Trump threw us all a curveball’: South Carolina Republicans are stewing about Lindsey Graham’s old Senate seat CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0ZWUmVwSGgyN3p5RVNIR2ExeXB0QVZmVGpxY2VMVGZnOG5IRlUwV2NiNGpmR0FVcVZxd0dZYXBGT29ObVlxY2Y0SHNZbkxqRldDVDl6WDZjZWtoemxiRTNiUXQ5TWZ2dGNXTVlrUm1ld3A3ZzBIZ0p5cjY5VFc4V2lRWVRqeV9RRkJBSXZZSVQ3TFhZ?oc=5",
-      "published": "2026-08-01T10:30:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-      "summary": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRTNwSzhjdThNS3RGMVZ4OWR3Mzlmc21IUHlnNk85QVNMdUdFbEt5WGpoNVhnUTQ3NmNrU0d4c2xaN1VvVVlsaXZRMjRaUFBfMG82S2I5YWJTQlhKc2VoeXZvOFJWVmtMa0pqQWsyUjc1VDlFNmxjN3hn0gF_QVVfeXFMUHBoU3RoelBqNTY4b2xWZmk2QXU3NkJmMXhydUliUURoYm8xalJaa3l3VmJfdU5HejhKQTFMSXNCNDRnNFA0bDNxZ285M250eGpneUVPdjZHOTdsWWFYY3BWdWcybDlocWlFNFB2bVJYWnMyWmlXV08wbFRnNmtYRQ?oc=5",
-      "published": "2026-08-01T10:10:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
-      "summary": "More than 25,000 children lose previous legal protections, as federal contract ends NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlFzSlEteWFhOGducy12c1pFX0IzRWI4V3J2ZDhUX0NpaV9wZHk0NFo1a1lpTWFYUnJqZmFyZGJCSVNINUlqVlVUR2c2YlZGMU11TVU2X1BJZ01LNWNnU0NreFllWlFaYWRIMUlBX043WlQwOXQ5WUxtdkt4NnNRa1YySVc2cHJfWE9NM2Fhb1F4LVNxTDdn?oc=5",
-      "published": "2026-08-01T10:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -152,30 +212,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Why is wicker Alexander Skarsgård getting us all hot and bothered?!",
-      "summary": "Why is wicker Alexander Skarsgård getting us all hot and bothered?! Queerty",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0d0aUZHeHlOd0F4NlVfTHlYYV92UmpBUU10LVQzQ1BrcnBYWDVZVmFZcmVHX2xUUWtfNmtxenlrRXRCN0NYQml4OHZNMHZHcThRQXBOUU5GTWNlV2M2UDdjX05OMnpPUk96RFg0cGhLWjZSLTdLdlc4eVh0WmNlWGhYajFpS0YzeDh5Y3JqbkFYYVpfRkR1RGJ2LXVhRXZk?oc=5",
-      "published": "2026-07-31T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Hackers targeted municipal water systems in 7 states this week, FBI says",
-      "summary": "Hackers targeted municipal water systems in 7 states this week, FBI says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUldGd2EzNnpNdE9KVjVzY1dGZTdEaTk1MERxOVB5Y0ZSQkxLR29CZWhMaTdHWmxsWmxEaE1GM19DNEw0dTd1a00tTnhock0xY1cyQlpRTGF3LVV5ZkJvNGp6LThTdDViUjlCRFg1SHduZ1QzVHVaRDBFdVoyRUVvVWZCOUhsQlJaS3E3WGtIWlY1WlU1VE1QNGZDbkZMdG1Da3dhdWJWMFB4RHg3ZTNCQ3Nn?oc=5",
-      "published": "2026-07-31T20:58:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -185,6 +221,19 @@
       "published": "2026-07-31T20:48:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Federal ‘Science of Reading’ Bill Advances",
+      "summary": "Federal ‘Science of Reading’ Bill Advances Education Week",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3FIcy1SNU5Gc1MtTk44Y1JVMnJvLUswZ0JJTlZtNTdIMnFSVzZXNmFGWHdXYW12bWRYdm5GY09FREtlUGtOUTRJRTc3Yzg3c2FJSlJEQTlVMGVqUXlFZHZtLVJwNFV4MVJuMnlycFN5aU5qODRybzZ5b2JKeTY2SU41aXFMOUpFYXhTVnM4TzNkalU?oc=5",
+      "published": "2026-07-31T20:44:38+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -227,13 +276,13 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
+      "source": "Queerty",
+      "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "The people who called AIDS God’s punishment for gays are helping measles make a comeback",
-      "summary": "The people who called AIDS God’s punishment for gays are helping measles make a comeback Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QQkFhVFpoTGc2SXB5YmU5dFV5aHNELWlzV01tRlJTNHY4ZzRpeVJscGt4d2hkR1c0Wi1ZS2F2QnVuRFlVcE5BcXo5VWZ3NE9JY2daNUhTY2s3TGoxUUlsczJ5Y1hUOWlB?oc=5",
-      "published": "2026-07-31T19:14:03+00:00",
+      "title": "Photos of a pre- Fame Lady Gaga performing at a gay underwear party delight the internet",
+      "summary": "Photos of a pre- Fame Lady Gaga performing at a gay underwear party delight the internet Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjdsalZXZ1FqUnZ4X2c1aFcwaXVFN0ZwdV9FSGZEcU9Nc2JVUW82aTAwTmJhNTZXRTFPaFdHaVlnclctaXhyY0pqNEZhVDNGU3JaNjZFR2RRRDFsSWtWZWZGT29iUnZQVl9xb3VBcTBWc3poRkFUX2NkV016WTM0WE9ZWVRwU2ZYOXo3clg2M1NWVlVfYlRRSy1mSTRwbWFmZmFwUElXcGQxd1hwQXZPTnp4OXBhM21sN0h2WFJn?oc=5",
+      "published": "2026-07-31T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -258,31 +307,6 @@
       "summary": "Families sue Meta, Snapchat, TikTok and YouTube over deaths of 4 teens CBS News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQk5ScGFXZ2FsN25OdGdPNzZxcUlWYUpEM2d6czc3Z0R5bjh1NkhYR1ZOX2RJMTJfc1NveTVjWXBxZVkwMUdDbEdURjdvcjl2bVZRWVFVaURnT0F0czhWaGV5MTdfQkpnZ1c3UnROcEV2cThYeUFWbENmajExbjlhTnNBZw?oc=5",
       "published": "2026-07-31T16:30:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Christian food bank’s shelves are empty after pastor rejects supplies from LGBTQ+ allies",
-      "summary": "Christian food bank’s shelves are empty after pastor rejects supplies from LGBTQ+ allies LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEhfLTMwR2k4MVY1d3MxOUNhNGlNQlE2dndwOWRLcUxPaTM0Z0ZKMDlFZUhIanB1T1RnZzFnQU43RTJaLVZVRWk5OHlHOXVKWXlSRWZtNVQ5blR6WGpWdmZDV2tZNVhabGpVMHlKa0pMVFUwanZGcDJLMVl0Wk5tdGI3T2xDaXVrcnBJV3R0ejJWZVZScjRmRE12TVRqanpnazVNQmpPQXVfRW1KdVZsTjBvNUpBbHdQXzRpdUxZNEc?oc=5",
-      "published": "2026-07-31T16:30:00+00:00",
-      "beats": [
-        "Business",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Mykhailo Mudryk’s doping case resolved, available for Chelsea return with immediate effect - The Athletic",
-      "summary": "Mykhailo Mudryk’s doping case resolved, available for Chelsea return with immediate effect - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1QxdHBRMzc0eTdHRFdQczRwOGkzUEdMLXJXWjhOT3ZiUGVjQkNqOGp1cURhQVlHam8yWFNfZnJZMzF2Sm1qZ1BsVnB3RTdZVlVfUTdvWkNBWFNnMFdZekhjWlhHeW5UYkpQczVUcmphUEVrUXg3aWJxUjMtVnd0b3NzWmY3UHBCZUtQVUM4T0xHZ1I1NzctVDlzWFlhNVdx?oc=5",
-      "published": "2026-07-31T15:54:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -357,30 +381,6 @@
       "published": "2026-07-30T23:05:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Gay guys share their favorite books by queer men",
-      "summary": "Gay guys share their favorite books by queer men Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMl82TzllQVhrR2dQTUJnODFIeFhlQmJQR0p3OF9ON3dZRERGeWRSTUJZS0Z5aHdISkwzOFNmYzlPd0o5R2JndGo5VWJOc0NRdHlPRVZiTDM3cmhhYWtFUHBxaVdaRWhyeFU4a1ZubjU3MEpvXzZvb3htdjFHRmxzRm9hRGViWDRCMWc?oc=5",
-      "published": "2026-07-30T23:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Is Required Summer Reading a Good Idea? What the Research Says",
-      "summary": "Is Required Summer Reading a Good Idea? What the Research Says Education Week",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUV6bFFuZXQ0dU1aRjZRX1F4SzUyV3FILUp6RFQzX1otYkFqUmd2T3ByVnhURmtMYThUczM5SDdIM0QwWlNRVFlzV0d6bE5qM2tCQ090TnZaMkxVOUlKYS1kVlFfVVNuSDhfV2QzdjVLQ04tQ2JKdDBuRVJWMTBsVGRZXzFlY2RpS2ZnUE96TUhCbzdQLVhfbENZNHpva1BRUjlpVkRDamRjblk1WWpv?oc=5",
-      "published": "2026-07-30T20:57:43+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
