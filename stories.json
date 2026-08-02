@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T07:55:37.388471+00:00",
+  "updated_at": "2026-08-02T11:45:37.369074+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,75 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘We are knifing each other’: Trump and Thune showdown splinters GOP unity ahead of midterms",
+      "summary": "‘We are knifing each other’: Trump and Thune showdown splinters GOP unity ahead of midterms cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CcGk1Y1V0d1lQSk1Xckl0bmRvNTBxX1A4SUh1RkRvN3BhY1lPb1hxbEg0elAwdjRybm1jbTVxUXFKV2hwTm93bzI2NUNDLVFRWTQ2YU9RdUpRZFE1REd1b0p4VVFkUm9FR2t4Y3VZcWduZw?oc=5",
+      "published": "2026-08-02T10:30:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "We asked a first grader to interview his hero: A bird scientist",
-      "summary": "We asked a first grader to interview his hero: A bird scientist NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXlJeHFtQ0FyUktDUDJYajZBbVJobFdlZ0x1WTJ2dTdTNnhLcFFvbVRrblRMaThFektMUFRjb3lGb2NFdTZiY2RvLXVHMk44YS1MOWhsNlVhaEJXZEt6M0k5RFpJVEpkdnVGOHlFTDRlNWRTa3ppODZJNkhLRDdCUGRiNE1taGQwYlVjdU0tMVhvbU55b3dtR1NwTmQzQVF6N2hvSGUwV3NxTlk?oc=5",
-      "published": "2026-08-02T07:06:28+00:00",
+      "title": "What Cyclospora does inside the gut and how it gets there",
+      "summary": "What Cyclospora does inside the gut and how it gets there NPR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkVLTFQ4eGZCY244Y1pWZUh1UTRUbVJNM3NkbE5hN1g1cTg4bFRaZTJIU2tEdThYemVJRWxjaDFfZkhMcXM1d29ibmlKaDdQc1BkTU9aT1dEQkRCNjdBU3NUMWFLRWVRX2l0VGxadHZZNHdjSzBEVXk1Y0RsbGU5b0s4WUxSdUZaZk1XVTZwQnRqV21TTGk5YjVHWFltVUFZSXc?oc=5",
+      "published": "2026-08-02T09:00:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "summary": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajVKZFYxbHpYXzZJVXRxZ2IxRW9lWFF6cm1LUEZiTEJXT0ZpaElKallTUDQtYzJMSDdHU1FxS0FIVm92SXl1MktVVXMzd01RcDlhdUxIVDNCLWdHYXZFTnlYbGwyNFJhS2o0S29IUExSUmxiaEJnalhvdzRFTHJveFJBUU1NeTNtYnl5OVNFZVk?oc=5",
+      "published": "2026-08-02T08:01:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "summary": "Trump says he's cancelling Iran strikes, deal pending NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFBsdWJiVHQ4bXFuTkRZRnpxOWx3Y28wRFZRblRCT3JoMm9QY1FiMFdFc0tuRnJ2aTlXS1ZSQnpBRl9CdHNXbkh6TXRPVnBqNW4yUm55ZnAxVU1tb01JQ0p3TWszWkFWb0p2VFRJWFZmd3BSbUhjTDgwRVF5VC1VbHZCYkFMYlJ3Ykg0SkJrV1pabGx3bnhQb0MzUk4?oc=5",
+      "published": "2026-08-02T07:34:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Man Utd’s glut of right-wing talent can only benefit from this season’s busier calendar",
+      "summary": "Man Utd’s glut of right-wing talent can only benefit from this season’s busier calendar The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjlLMnJqU3FUREJsRW9yb2ZTX1JaYy00WEZ1Z3VGYVQ1bU1kNm5IckpmR1FzTHhyTjFYQjhlTXZpNTdkX252RTNBMjFQTDY3RWQ2SENPbkFNZ0Q5X19fTmVJVzZRdndJZjd3RUVvSHNCNmVueEVTN0NlUjhEQzJWSGpqZUJhWFpRMWEzRmx4N21Wdw?oc=5",
+      "published": "2026-08-02T07:04:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+      "summary": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5",
+      "published": "2026-08-02T05:18:21+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -36,7 +96,7 @@
       "source_feed": "CNN",
       "lane": "General",
       "title": "Iran’s allied militias prove their value in Tehran’s widening war",
-      "summary": "Iran’s allied militias prove their value in Tehran’s widening war CNN",
+      "summary": "Iran’s allied militias prove their value in Tehran’s widening war cnn.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVQ1MnVjY0Rwd2w1Z1RfRUZ3ZWs2Vk1IY2NSSkNNUldNVHdES24xRlZ0ajZaa090WXZJQWpscW5pZzdGYm5PZ1FMWHhBbUJTRmNHeGRXNWplQnFQZWIycThqZi1laTZIU29STmJwM2RUdlhsNWtyZ0dJTFFqUmljRUhoLThiclhOUjVUTTlMc3R6Yk9mSmY1cUFNU21Md040WGZCZG5kd0ZrTGlhMnMw?oc=5",
       "published": "2026-08-02T04:00:25+00:00",
       "beats": [
@@ -48,69 +108,9 @@
       "source_feed": "CNN",
       "lane": "General",
       "title": "Multiple dead, others injured in shooting at In-N-Out in Twin Falls, Idaho, officials say",
-      "summary": "Multiple dead, others injured in shooting at In-N-Out in Twin Falls, Idaho, officials say CNN",
+      "summary": "Multiple dead, others injured in shooting at In-N-Out in Twin Falls, Idaho, officials say cnn.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FdXFnTmR6ejFCaHZBVTU5Rkp5Sy1wQ1VWN19TeTRDeDR3ZXhsMTlfd1lvNnhtSmpBejBYUlotWDFjeHpFTWdVN2lleDZQcDltV3Q5RTdZRXp3aTVSb2tmVHBCQ3hianlZVWc?oc=5",
       "published": "2026-08-01T23:25:34+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Thousands ordered to flee homes as fast-moving wildfire grows in Spokane County, Washington",
-      "summary": "Thousands ordered to flee homes as fast-moving wildfire grows in Spokane County, Washington CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FWlhEME1obEpkd2JNVXRnZFlvV1QzTVUtRTBmYU1BWlVDRXBHamxjZzFNM0U2VjItYUU2Q1pYQXBWOTV2clI1bkFuZENtRzFWTnNOZzNGSzVjOHVDYzQ3Q1pKTUhrRFRxaVZyLW8tcVN5WVkwQTM2VGlDUFM?oc=5",
-      "published": "2026-08-01T23:20:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-      "summary": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzhtVmhtOTVJMW1IRU5YbEZLcnJySmo0SExNY2FmUUhUV1R2ZFdQbUR6YWJ4b21kQmJ4TFBPQ0R1Nmhic3lYUWVRcjdDeG5MQlpXLTJrbFd6SnczUzlHUmN3ZWE1UWFwSUZNNmFPd0UtUlRxbFV4ZE4wakxTQi05STRTTUZoS0xa?oc=5",
-      "published": "2026-08-01T22:23:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "U.S. investigating if Iran was behind cyberattack on water systems in 7 states, including Minnesota and Michigan",
-      "summary": "U.S. investigating if Iran was behind cyberattack on water systems in 7 states, including Minnesota and Michigan CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
-      "published": "2026-08-01T18:49:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "summary": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hb0phdVFOdEVHcUpOZkZBZzRYWmwwTllkeF90Z2R2elc1d09uZnI4cWEydEZ6NVlkMmJXR0VzdVI5a2czMENLMU5PWXE3bWZ2dVQzMUlDdDlPbEc0TUl1eUhpVVhKMEJ6cFlZSmdxWXpDQ1dtLVlIa3pHcVlWUQ?oc=5",
-      "published": "2026-08-01T18:33:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say",
-      "summary": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUVFRklxcG5KUUR5RURQWlZGV1ZhZVBwMG1FbEVpTlhtUEZSZm04MVJONDdZNUFpUmpnZ0k0d3ZjMzdXa0tLVTh2MHllbEtCZ240elRGTkt2eUZ4ZG1UdHBqUVR1WnZnWG9STC1oQkkwLV8tSkt1ZHJObjJXUUxpTEZBQ2xMVjlEVnk3Qw?oc=5",
-      "published": "2026-08-01T18:18:46+00:00",
       "beats": [
         "Politics"
       ]
@@ -135,18 +135,6 @@
       "summary": "FIFA scraps World Cup private investment plans as Infantino fights for his future - The Athletic The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2k3V0hJbGFaSGRZWGZsa2lZODBfN05aWkdXenJFSmhUbkR2VWFsejQ5WTRfRXlIMTljOGozUUdYN01HbjhIclF1RFAxSG02ZGxkV0diWFBzcUpTVDd5TGEwU0ZvU1VBZnZpa0pWdFJIV2h1MjU2YjVzTDdrRk5yY1lPTmhTTlNyazZ2aHhmNm9QQjZoRy01VzV5T24?oc=5",
       "published": "2026-08-01T16:59:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "How a Culver City In-N-Out Ignited a Drive-Through Debate",
-      "summary": "How a Culver City In-N-Out Ignited a Drive-Through Debate The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOejE4UEdnSUdzWUZtMmFUdnNLTFpsWnRCaEUxQm9RR3JldTdYTGwyaVZWQXBIX1VpekNITW82RUZVcFBNVGVEZ1Bjd3J3SEZYcUJCRzN1TEFvQmszM0xtTFZYUEZhMXlYbHMyV3prOWNhXzhkeEVsUjduaS1DbEZqVWQ5WEVnMHdFenI4aVhDSEN4cU0?oc=5",
-      "published": "2026-08-01T16:36:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -191,10 +179,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
-      "summary": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUdrb05ENkFWMGRpUXJFeWxOdmp5TXhKOERjQ21QcTVxc1VLUE55eFpuY1FuV2FBcGZ4X2VXb2podUVJTW10Z3VfZVFGT0thQldaSlZfSVBDeHBYQURfMWt3Yi1uZnpkWnhzQVlnb2toM3hPN0VmTmpINGV4U3FVR01hVFd3UDlxVnFSWHJqaVJRMTRmLWlJeDdVN0k1bTVZSFZ3YdIBqgFBVV95cUxPbDRrNWRoYlI1RXJrLWJnbXVvZFlzWUl2M2ZGbzg1ZGZWTmN6WTc3TXRoSVRncGt1VUoxWW5XbEMzZC1XMkY3b1hUY0NMbkNNVjdpemJtQVloWGxUWVV6UE1BX3o3V1RjS2IwWHFFN01SZ0NQQzljS1RxNmlGY1ZRMGpoT2Zjd2U0Rzh0UWJFS21uWVBIaXhBdzMtZGN6TlVaRG0wYnJXcWVEUQ?oc=5",
-      "published": "2026-08-01T14:17:45+00:00",
+      "title": "Berkshire Hathaway shares hit eight-month high",
+      "summary": "Berkshire Hathaway shares hit eight-month high cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVZ0SENQaXc3MXZuNmN3ZDhfWmd5WUhWZWFYaVFWb0gta0I1Zi10RUlrNlhLUzg1c185VV9yc3RWSV9LZTdaTHdUMV9BOUdsc2NfMWpFMlRQTDQ4VUx5cWdmaU1oOFZQTENodHpqVFpkZWRFQnk5NGJHbVZ5ZlFRT2s2NHNLLTRtU2NNNNIBkgFBVV95cUxPU3NOTUFETVBZdWtjelliMlJWZG42TjNubWphV2IwLXpGOHVLaXJQZUdTS2FKU3VueFFHVHpiSnNzSjlJMnpkNnMzbERDYjVmdFhPNlNaRjRkcl9nZDRaZEVxSWhwZkZ6dlhZSnZyU2p2bHpzZlg2ckluTGVqb1pmMHJfSHFNUDdEbXY1NVNUSEhyUQ?oc=5",
+      "published": "2026-08-01T14:41:54+00:00",
       "beats": [
         "Politics"
       ]
@@ -212,30 +200,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-      "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
-      "published": "2026-08-01T12:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "A new option for terminally ill patients in New York: Medically assisted death",
-      "summary": "A new option for terminally ill patients in New York: Medically assisted death NBC News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQV9NOGpYZjdyWGtLUUR1SmNwLVpvTG4ta1BOUktCYkgycmVMYlB6X0x0NGJvamgzeXlGbHhqV2UtLU5yTG1Uak5iN2pHVmV2MFRiTFBTcjFkZnZpVENrOU5jaE5lVFpHQW81ZFBvdE9heFRjZ1RUUzY4bE1BaGRtbVpjaU1fR3BBVHdRZE02dHFPWERfYXRyMFI1NXhYaDdZ?oc=5",
-      "published": "2026-08-01T10:00:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -245,6 +209,18 @@
       "published": "2026-08-01T03:34:18+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
+      "summary": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORS03ei1mSEV0T04yeDdYMm9TQ0hCMGVrRTBjMUhVOGhBZzhNZHJfOVF2QVVMTTdmbGdXUGVJOVhWY01GX05NcWlrTWE4SHVOdjlibVNQZXNOZmZLR2dadlZodDQyMnljVUhuUjMyaU0wR3JYT2hWNl9aVUkzQ1BTaHg0TFVyTldGZlZwWTZCa1Y?oc=5",
+      "published": "2026-08-01T03:17:37+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -261,11 +237,35 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "FIFA president nixes idea to sell stakes in World Cup to private equity investors",
+      "summary": "FIFA president nixes idea to sell stakes in World Cup to private equity investors NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFdMMWpRRzFtbUV5U3Vrb05KUm82a2JPUzBwUnVocW9HSWhPa2M1aXp0Uy1DOWZqTUJybGVCajh2bkluSWRkUk4wQ09pdmZSbEItNE54eTF3VDhENnNiSXhuOXRGV3RzSXZGSWFVODRTcS1MNFNmUElDd0htX2s1b2dsUzliN29GZUo2NXc0LUR3NzlzdDBtblpUZUVGYjlCSXc?oc=5",
+      "published": "2026-08-01T00:04:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Grieving father fights to keep son's roadside memorial on Route 152",
+      "summary": "Grieving father fights to keep son's roadside memorial on Route 152 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPdm5DWmdNcWNvdl9vSnpFYThmX29MSHl3SnhVU0JudXkwNllzaWJaeGFhLTVyR0lSRW5BZWlLbmMwNTI1MDVqY2QtTVY3WmtiMXgtakNuNHJWQnJ2RzRLMWRrMVBqdzBTRUpSLUcwWmhFcWc1QXJrZkV3?oc=5",
+      "published": "2026-07-31T22:47:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Teachers ignored the cruel bullying of a trans teen. Now the school is paying for his death.",
-      "summary": "Teachers ignored the cruel bullying of a trans teen. Now the school is paying for his death. LGBTQ Nation",
+      "summary": "Teachers ignored the cruel bullying of a trans teen. Now the school is paying for his death. lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSkpVcFRsTEQ5elVhRlhoeEtkdjBTM3NTRzRWaDVNQktMUnRQVHZ5Z3VkUERZTEhHWUwxcXYzRU44Tm90SDI3UXdzWVpQeWZ2ejdIcExVbTJoNzZ3SWZRSE1oVGNaX0V1aV8yaThtN0N0QllpazE3YkxpTHl3Tk1TeXFHamNWdnFiQnFOekEzYUdncV9tMTMwSWNZSWNWd0V2RWhyemlUZkJlODduRldsdHR3?oc=5",
       "published": "2026-07-31T21:00:00+00:00",
       "beats": [
@@ -328,10 +328,10 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "The best LGBTQ+ movies & TV shows coming to streaming in August 2026",
-      "summary": "The best LGBTQ+ movies & TV shows coming to streaming in August 2026 Queerty",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzV4bXB1QnpRSk5kZ0RFN01MdUItb0Z4eVFqU3VPcUhQenFqZERiVWpxdnd4eDByc3J0cHFqOWlwQm5xVmVrSUFFSC00d3JZdTV1SGlXUWpJcC05Z2Z1UGNUTjZhc3BXMWpYQmxQeDNmWlJqODM1dHpzMXk5Uk04MHVKRHpXblRRTDhzR1c1RUdkNU5CU1hZN19KZmZyLS1m?oc=5",
-      "published": "2026-07-31T18:00:00+00:00",
+      "title": "Photos of a pre- Fame Lady Gaga performing at a gay underwear party delight the internet",
+      "summary": "Photos of a pre- Fame Lady Gaga performing at a gay underwear party delight the internet Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjdsalZXZ1FqUnZ4X2c1aFcwaXVFN0ZwdV9FSGZEcU9Nc2JVUW82aTAwTmJhNTZXRTFPaFdHaVlnclctaXhyY0pqNEZhVDNGU3JaNjZFR2RRRDFsSWtWZWZGT29iUnZQVl9xb3VBcTBWc3poRkFUX2NkV016WTM0WE9ZWVRwU2ZYOXo3clg2M1NWVlVfYlRRSy1mSTRwbWFmZmFwUElXcGQxd1hwQXZPTnp4OXBhM21sN0h2WFJn?oc=5",
+      "published": "2026-07-31T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -341,7 +341,7 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Hegseth forces national scouting event to end its spaces for gay youth, women, & scouts of color",
-      "summary": "Hegseth forces national scouting event to end its spaces for gay youth, women, & scouts of color LGBTQ Nation",
+      "summary": "Hegseth forces national scouting event to end its spaces for gay youth, women, & scouts of color lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeWJGOHpXM3pxa0F3bmoxeGlVYUljU0JmLW1DcWYwcF9DbHBNckJwTDFlTEpZZ3ROUG1rejBsbF9Ta2wtQUxLOC00a3UydUg2RFZ4dUFYMzRzckRWVzA2UVpkUE8yTHhaMFlBWENmbWFGWkhIODRfLWQ3MEdUM0xmdkowcFktUEhUTVkxa1ZabWk3RjVubmNXX2NoTWFJbW8xYkFzQ0RhX1U4RVVzTlNIR0FRVm1oMURIbjJ4S3lsOWpuSS0yNjZ1Mw?oc=5",
       "published": "2026-07-31T17:30:00+00:00",
       "beats": [
@@ -365,7 +365,7 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Video show anti-LGBTQ+ GOP candidate humiliated as young conservatives boo him offstage",
-      "summary": "Video show anti-LGBTQ+ GOP candidate humiliated as young conservatives boo him offstage LGBTQ Nation",
+      "summary": "Video show anti-LGBTQ+ GOP candidate humiliated as young conservatives boo him offstage lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNekltajhhd24wSGhnMUx3QTFOQ0ZDRVZ6T01jWGRCMHRBZHo3ZDdLTC00cGRtb09YcWZYcDRnaXdRMXVSclVZd19uekdOcEsweS1Sc1FORUtiUUlEQnVuN0MwUjQyeEhzS2VfYWF0WWhFZjREcGN1anRUYnZOdEhObXktdkJhZXBrZzgxWDBHVnpDOWdWWVloMjY4T1BIU0pQZjVtcEJENjdQY2NkWEN2TU1RTjJsZHhtUW52VEpqZXhSdnZGeng0RUtmOGtsdw?oc=5",
       "published": "2026-07-31T15:04:54+00:00",
       "beats": [
