@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T20:15:20.229036+00:00",
+  "updated_at": "2026-08-02T23:45:02.516868+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,66 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Foster City crews respond to four-alarm structure fire",
+      "summary": "Foster City crews respond to four-alarm structure fire cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qWS00d0M2V1BNX25YQV96Vmltd1FVLTVSaXdjTlZrQnBFOG9yRW1SZ0FBSUh5VWJ5ZWwtc3MtemNuOFAzLUowNlR0QzlDV09WY250U0lwSlhQVTQ0cU1WaXJkcVJZM3ZTTHFLbERiNXl5ZUNobFp2cUpQc0I1Q2s?oc=5",
+      "published": "2026-08-02T22:12:11+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Grieving Maryland father fights to keep son's roadside memorial on Route 152",
+      "summary": "Grieving Maryland father fights to keep son's roadside memorial on Route 152 cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPdm5DWmdNcWNvdl9vSnpFYThmX29MSHl3SnhVU0JudXkwNllzaWJaeGFhLTVyR0lSRW5BZWlLbmMwNTI1MDVqY2QtTVY3WmtiMXgtakNuNHJWQnJ2RzRLMWRrMVBqdzBTRUpSLUcwWmhFcWc1QXJrZkV3?oc=5",
+      "published": "2026-08-02T20:51:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Suspect identified in Idaho In-N-Out Burger shooting that left 3 dead",
+      "summary": "Suspect identified in Idaho In-N-Out Burger shooting that left 3 dead NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZko0ZW1mVkptdXF3ZXdEZEkyRzNGOGdYWHhiSzB6Z2lpQUlnTXNwZ3pNVEhOcXpRR3NvTm0yRVBCTXhWSGM4ajZpLUlaVWV5YTBBUFhGU0I1SFlvMTZzZ3NSdHpKZ1ZRM3pDaWZDUjlJUXk4ZE01cTFaYU50emFkQU1VbnE5M2dZRUpLYkVxdw?oc=5",
+      "published": "2026-08-02T20:47:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "summary": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemlpUVZvYjZlTkR4cWxEZ0d4M2thWW5nX3p1X2Rhb1NrQ3ZFc3hfb3JSOGY2WHJRZ0VWVlNDSDV4NEhGaFhMaDFPTG9EejV6TTJLYjdDdTA0QUZ3a0hTZFRqUVA4QVZNVEs1cUVIR0t5QXBoNGVQWUREcEx6bG01M3c3NWZKazJtNnpBU2M3ZzRrS3pfb2xtcU1mU0tUbHV5T1ZYUkNB0gGrAUFVX3lxTE1mektIeHVLTTFZZ2ZWLXJfTkFFQm9xaThmSUJsa0M2OHpzMkoyay1FTUxzOWp5RDF1S20tUV9nOFVWMERqODN1YWZPVnFZTXBZWngxS0FudzlrT1U4NUVTa0F5SjJsV3F5bzdFeE9mUDluai1HZUZDaHFWQTRJTG9MSk8zVUNnSWpOdGpOeDY0RzBkLW8tQ3dkVWt3cVJ6aDBjN1dLZnJieFNDNA?oc=5",
+      "published": "2026-08-02T20:00:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+      "summary": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help' cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanBDT3YxUTZyMXhyUVB1THJPeVN0N0RYZXNEb2I5eDlSdHF1aEJSRVhBVjlHZWptX2NrcUdaUmh1UW0wRzNSWDh0R3NJcjVxTEJYVHNtaXlHV01pTFFJOU5lX3c0RVVBUF9WMlRyczhpYW80RmhGVzdOc3E5WGJyenZVOGVLUU03TW5qOFdtTFRib1pTUWZYTnZhUGZuVjds0gGmAUFVX3lxTFB0NFR3Mlg1SWlVOHRTbnpMYnk2b3hRQlRCZ29rSXI1aFlmTDd4ZkIxRWFwRTAxcU1rTGFuVjNfQ2l4bmp1X25EQTE1alRBYWVHUmJuVjB4RHVabWtxT2pHbjNFNGY1V0V1S2hTbkVGR21UWUtoZmt0WmVqUG9HSjV0MlhIYk91ZmNielgwdFZZakZhUTZKWUwyTnRkbFpFT0hxV1FYYVE?oc=5",
+      "published": "2026-08-02T19:13:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -68,6 +128,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The AI cheating scandal rocking Mexico’s most prestigious university",
+      "summary": "The AI cheating scandal rocking Mexico’s most prestigious university cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFhuV1dCa3Jkc0pjdVJNV0paclpoY2d3ZC1PLWN5TXMwTHdoWHppdHVnWmdvZ3gtMWlIcTliS2ZKUHhaS2k5UWstbXVVX2VSZU1jckd6WkFyZlQ0M094Q1gwdU1qaXd3TDNuM2JlTi1pNk5nMFZqR2hTbjNheDJHSFV2T3NieWZnckJNWTl3YTEyQmFiX3ZLZV9B?oc=5",
+      "published": "2026-08-02T16:00:25+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -77,18 +149,6 @@
       "published": "2026-08-02T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Sen. Bernie Moreno says former son-in-law Rep. Max Miller ‘should not serve’ in Congress over abuse allegations",
-      "summary": "Sen. Bernie Moreno says former son-in-law Rep. Max Miller ‘should not serve’ in Congress over abuse allegations cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRE5VRk0yb2VjZUhhbUJVOEhCOTIxN29xc0lTWlFXZ0lRMndyOUN4TFhHNXRpOW5rU2x2dlJ1aXN4Q21fT3FxRU1fRU9hVUgxV1lmZDB5eWVFNnpwRWhOR1Mzb01uVklkaTFmZEU3UEV2d0hxYTk4SUZ3RDUwZGdMVkUteFFzazhyQnc?oc=5",
-      "published": "2026-08-02T15:54:43+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -107,22 +167,8 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "States expand student loan options as new federal borrowing caps take effect — but they come with trade-offs",
-      "summary": "States expand student loan options as new federal borrowing caps take effect — but they come with trade-offs CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83WG9nRFFEY0VtZW9UaUt6ckpyZFZhcDE5cGxjZkZyenFFeWVqYXhvcS1PdVV0bzdiX2E4UUhRN01renFHMUh3N1JUME4wdEQxSy1zWGtwWlljQTVoZ18tbEtWaUVlR2fSAWxBVV95cUxPOGhudXFyS3JNcW1hUXhnMUNGYnFRZkN6Nlpha2VnYlFkVlo5bURTVFpHcDd6WENTemx5aldKX1NQQlhpXzVoTGRnTWNQNkgzS1VrWjFudXdCeWhsSXhQNkpTMk92WkVUZU95M00?oc=5",
-      "published": "2026-08-02T13:30:01+00:00",
-      "beats": [
-        "Politics",
-        "Business",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
       "title": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts",
-      "summary": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts CNBC",
+      "summary": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0JYdldGV2dhNjU3SGllalJxd2lxX2xUWTZLR2R6RkRsVkNKOVdVRnhmZzFKMVhpLVE4TXpYRFFpUnZNQ3M5T2E3MGFoTnNyN1g5c01qNklibC11QXRvTl80X2ZWVHFzUHZURmpSQjhDWEtMRmMwbGt2bXRDVWZzTlVlTURBd1lmeVB6YXY1eWMyOFZsanA4TUJfMXVmbkd1a0xzUHVDUnXSAa4BQVVfeXFMTkVKZEw0eEQ4MXVjcWZ6em8xVXVsazNXc2NRWURKOGRJQ21wRzRJek9xWFVBUWgzSnNJMGd0NFdLTDZUcjRvMzlpYzhmZnZLeDVvSUdEMU9YSk5UZTF4cVFkU0FBeGtUNk1pRVM1Vjc0QVJTS2FTVWhONEcycWN5Y2lFLXNPUjBXN01vMFRxSDI2Yk9ZYWd3WGw0RzVLZ2Z5TVZGQkVqV1k5LWJrdC1n?oc=5",
       "published": "2026-08-02T13:09:44+00:00",
       "beats": [
@@ -134,7 +180,7 @@
       "source_feed": "CBS News",
       "lane": "General",
       "title": "5 killed, dozens missing after fire breaks out on Indonesia passenger ferry",
-      "summary": "5 killed, dozens missing after fire breaks out on Indonesia passenger ferry CBS News",
+      "summary": "5 killed, dozens missing after fire breaks out on Indonesia passenger ferry cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnNUOHo5VnBWWlY3MnhMZVA4X0V6dkZHbTJWVkxid09TelNDdGhCb0JGY3hLRldwMkdQYlhSQ2RjYVVkR1cwblNRVThUM1p5N0poUzJqUkIxVUxpa3ZFZmxqX205Qy1DdHJhekZMLXZTdjNvTHpfYWthN3pkeFZvSzQ0Q24?oc=5",
       "published": "2026-08-02T13:00:00+00:00",
       "beats": [
@@ -142,15 +188,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Nasdaq-100 just had worst month since March 2025. These stocks held up",
-      "summary": "Nasdaq-100 just had worst month since March 2025. These stocks held up CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnp0Mi1NNjlCdjhOem5IMUtFbFFSenZkVEhxZkJtSW52cnR6WGpHdWx6bWI2aWhZOXBERWk0eUIxNWMxQnhiUTdDZ05sYVpoN1p6a0xQcllKRzNBT2NDdnJfRjM5Y0t6OE9lSEh5LVlTMUpyU1Y5OEMwbWhCdHpaMUhqWklUWjVyRDE2UmdUWlJZLXRzSnJvaW5GVWFkT0E5RDJZY0ZobHZIQQ?oc=5",
-      "published": "2026-08-02T11:59:15+00:00",
+      "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+      "summary": "A teen was killed at a Seattle protest. New video evidence shows what really happened NPR",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10clVOakRJWVJBUS0tV0FlelNGWDNKNTZINkNfeWFNUnJBYTI0QjV5dF94c1lkQkVOMzJiYmhTVmZGQ2ZjeDBzZGdzQ19DT0pKaS1PWEJVeE9VcjFVSXIxVWNURUFFUQ?oc=5",
+      "published": "2026-08-02T12:00:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -169,34 +215,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | The War That Could Swallow the World",
-      "summary": "Opinion | The War That Could Swallow the World The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEZBQ0MzZkpwNWpaWVA5SUZOcUlNYnJ0UWpPWkhSd3dVSWFGd0RmemhYU01KQXBCVDV4MWxZdWJobm9yX3FNNDdidTdTWVp3amoxVUIyQjZ0STZ2UXZ3RGVfMnIxcVN1NERkUEc3Z09JS3FMQzVTQ0Y2aGxWdWV2OThYdFBaX1hUaVVMMmNtdVJaQQ?oc=5",
-      "published": "2026-08-02T11:00:18+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
-      "summary": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajVKZFYxbHpYXzZJVXRxZ2IxRW9lWFF6cm1LUEZiTEJXT0ZpaElKallTUDQtYzJMSDdHU1FxS0FIVm92SXl1MktVVXMzd01RcDlhdUxIVDNCLWdHYXZFTnlYbGwyNFJhS2o0S29IUExSUmxiaEJnalhvdzRFTHJveFJBUU1NeTNtYnl5OVNFZVk?oc=5",
-      "published": "2026-08-02T08:01:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Man Utd’s glut of right-wing talent can only benefit from this season’s busier calendar",
       "summary": "Man Utd’s glut of right-wing talent can only benefit from this season’s busier calendar The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjlLMnJqU3FUREJsRW9yb2ZTX1JaYy00WEZ1Z3VGYVQ1bU1kNm5IckpmR1FzTHhyTjFYQjhlTXZpNTdkX252RTNBMjFQTDY3RWQ2SENPbkFNZ0Q5X19fTmVJVzZRdndJZjd3RUVvSHNCNmVueEVTN0NlUjhEQzJWSGpqZUJhWFpRMWEzRmx4N21Wdw?oc=5",
-      "published": "2026-08-02T07:04:00+00:00",
+      "published": "2026-08-02T07:04:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -206,11 +228,23 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Man found dead at 22nd Street Caltrain station in San Francisco, police say",
-      "summary": "Man found dead at 22nd Street Caltrain station in San Francisco, police say CBS News",
+      "summary": "Man found dead at 22nd Street Caltrain station in San Francisco, police say cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjhhTHZ3djJfVk1tWHllaHo1NjlmWUVDZjJOeDBjVHVEc3BETzJCUFBrTTQ4cFZiUkpMb3NPNzlzTTgzWUx6NE40UVpZeUpQLTl6Qjg5Y1o2a0tyZUphWmNOb3ZOS0ZpNVFCRkppMnZVZjZSYlVNc1BxSWZqTFJMV2NjcHNWU3hjMDFxTFB6X21CMGRkdm5OOGNUV2NBUVJ4cWc?oc=5",
       "published": "2026-08-02T01:29:29+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say",
+      "summary": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUVFRklxcG5KUUR5RURQWlZGV1ZhZVBwMG1FbEVpTlhtUEZSZm04MVJONDdZNUFpUmpnZ0k0d3ZjMzdXa0tLVTh2MHllbEtCZ240elRGTkt2eUZ4ZG1UdHBqUVR1WnZnWG9STC1oQkkwLV8tSkt1ZHJObjJXUUxpTEZBQ2xMVjlEVnk3Qw?oc=5",
+      "published": "2026-08-01T18:42:23+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -250,6 +284,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "These gay fishermen are quite the catch",
+      "summary": "These gay fishermen are quite the catch Queerty",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSWRfcGpqa204Z1dzNWhfczYzY0c4UVRRa0FDckhZV1lMeE5JQThFeWdmaXVTR2hGZUN5QWxCZ0paSmVsQ25hTTYtN2FWbnR4X1JKZHhMU3NXVF94SnlzUWFJd3p1eUhIN1JGQi0xMnQ4VkhvVjZSZWlHYy0zUQ?oc=5",
+      "published": "2026-08-01T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -266,7 +312,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Europe continues to celebrate Pride events after deadly attack on Berlin parade: \"There's still joy\"",
-      "summary": "Europe continues to celebrate Pride events after deadly attack on Berlin parade: \"There's still joy\" CBS News",
+      "summary": "Europe continues to celebrate Pride events after deadly attack on Berlin parade: \"There's still joy\" cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZheU1pWHVQX0l4ZC1sYmlVQ1ozTlI0STAwNk0zSVRjNXVROXp6WElHNmh4TjFGR1M5TlNhNWo2cU10STNwR0FvM0NKa3ZGaUQ5UGtoZ2JiUWpQN2F2QkFGUGxCSlo2ak1LYS1HZl95dkZRQzlIMFdHMlpOZVhZSXktR0d6ekV3YUJkX19RZVdRVU5n?oc=5",
       "published": "2026-08-01T13:27:00+00:00",
       "beats": [
@@ -283,31 +329,6 @@
       "published": "2026-08-01T03:34:18+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Woman killed in shooting near Oakland Adult & Career Education Center",
-      "summary": "Woman killed in shooting near Oakland Adult & Career Education Center CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemxpRlB4WWlldUVUd3RvZUZZbmtMV01DeUNkb0JqbmFvYUtXUkUyblozUndNOWREbmZiMndBa1VndVMtRzhkV2FpclRVRnl0RmNyVGVmWnpUM252VHhjZ19Cbl9qMjhQMkpCaVIzOHRUbnN3NE8wcUpYS1BJRHpmZzQwaXM5RGo2QjFucVBtRmdwNzA?oc=5",
-      "published": "2026-08-01T01:18:25+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "FIFA president nixes idea to sell stakes in World Cup to private equity investors",
-      "summary": "FIFA president nixes idea to sell stakes in World Cup to private equity investors NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFdMMWpRRzFtbUV5U3Vrb05KUm82a2JPUzBwUnVocW9HSWhPa2M1aXp0Uy1DOWZqTUJybGVCajh2bkluSWRkUk4wQ09pdmZSbEItNE54eTF3VDhENnNiSXhuOXRGV3RzSXZGSWFVODRTcS1MNFNmUElDd0htX2s1b2dsUzliN29GZUo2NXc0LUR3NzlzdDBtblpUZUVGYjlCSXc?oc=5",
-      "published": "2026-08-01T00:04:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -336,52 +357,27 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "North Carolina Republican lawmaker wants the state to police what transgender teachers can wear",
-      "summary": "North Carolina Republican lawmaker wants the state to police what transgender teachers can wear Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2MtRmtRNUQ4Q2pqcDVMY1FyUUZzc2laLWFLVHFqY2pYRHU4Y1hySUpHVWtod3dmTTdKZ3dqcTR3aHlsREI2TERsQkhSc243dHJ4MHJVTnhtX3o1T3RqQVNBRVhEQUprZlZsTmRzTEk1eFNibHQ3Rm52Yk9UUXRrb0pTdGo?oc=5",
-      "published": "2026-07-31T20:18:03+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Hegseth forces national scouting event to end its spaces for gay youth, women, & scouts of color",
-      "summary": "Hegseth forces national scouting event to end its spaces for gay youth, women, & scouts of color LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeWJGOHpXM3pxa0F3bmoxeGlVYUljU0JmLW1DcWYwcF9DbHBNckJwTDFlTEpZZ3ROUG1rejBsbF9Ta2wtQUxLOC00a3UydUg2RFZ4dUFYMzRzckRWVzA2UVpkUE8yTHhaMFlBWENmbWFGWkhIODRfLWQ3MEdUM0xmdkowcFktUEhUTVkxa1ZabWk3RjVubmNXX2NoTWFJbW8xYkFzQ0RhX1U4RVVzTlNIR0FRVm1oMURIbjJ4S3lsOWpuSS0yNjZ1Mw?oc=5",
-      "published": "2026-07-31T17:30:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "UPDATE: Settlement to erase student loans for more than 450,000 borrowers",
-      "summary": "UPDATE: Settlement to erase student loans for more than 450,000 borrowers EdSource",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWVyOVNTeUhDWW9LRkh3U3VCWFM4d0ZCVzVYemIyd1p5bjBHd0FZWG1RNUlweFRZQTF4TEw2WUlGaDhFS1pHWmZrcjg5LXpLQ0FMbnd1Ukl5ckdrbllLVy1IOUtEeFN3TlljNlBvd1RqTEg2a2lvSVBXRzJvODFSak9DM0hWSUFncmtJTHBzTzFiTWRlaW50UVFqVQ?oc=5",
-      "published": "2026-07-31T16:56:55+00:00",
+      "title": "Spotlight on What Works: How District Leaders Are Redefining Student Readiness",
+      "summary": "Spotlight on What Works: How District Leaders Are Redefining Student Readiness Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRENXVGFzSXpUellUTmszbEVXM2prVUVGbUhhMkRxMy13N2oxVEhKaWFQSTktOVUwTmd5aVRRYXpwdC1hdDFwYlhtY2NmWkNaTmZSc1UyUkRESUtCcl9GbTVuN1V4YWtxM3cwUmwyaGlmQjhOQmgtOGEtMmxhQnB1YTAzbmhLODY5dDJOencwM0s0T3BwcVNxdkxsU2xUZGxiV0JnMXU1cFh6TmRYZjg0S1JsbFVXdnRtenJN?oc=5",
+      "published": "2026-07-31T20:35:55+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Video show anti-LGBTQ+ GOP candidate humiliated as young conservatives boo him offstage",
-      "summary": "Video show anti-LGBTQ+ GOP candidate humiliated as young conservatives boo him offstage LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNekltajhhd24wSGhnMUx3QTFOQ0ZDRVZ6T01jWGRCMHRBZHo3ZDdLTC00cGRtb09YcWZYcDRnaXdRMXVSclVZd19uekdOcEsweS1Sc1FORUtiUUlEQnVuN0MwUjQyeEhzS2VfYWF0WWhFZjREcGN1anRUYnZOdEhObXktdkJhZXBrZzgxWDBHVnpDOWdWWVloMjY4T1BIU0pQZjVtcEJENjdQY2NkWEN2TU1RTjJsZHhtUW52VEpqZXhSdnZGeng0RUtmOGtsdw?oc=5",
-      "published": "2026-07-31T15:04:54+00:00",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Miami-Dade schools no longer offering free meals districtwide",
+      "summary": "Miami-Dade schools no longer offering free meals districtwide K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEhQZmpIWXhpeTB2NE9IT0hNQkprQzFrSVdRbmxHXzAtdER5bzZGQXJYWHlJTWFLMDdJTXpSRVhtQ3BORm8zeS1SWWdtWWhwbUxuMG9JeC1sYWRrbUlyMndIMWtxU2U1UEhrdzZqMXVaR0RjRTJuYjhpVDh5S1dCTFRYZ05VQzlmamduZXNwclJNZzM5dlg2MElCRGdtNUU?oc=5",
+      "published": "2026-07-31T20:31:10+00:00",
       "beats": [
-        "LGBTQ+"
+        "Schools"
       ]
     }
   ]
