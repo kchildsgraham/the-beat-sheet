@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T16:24:43.438832+00:00",
+  "updated_at": "2026-08-04T20:58:08.939419+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,79 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "SpaceX beats expectations in first earnings as a public company",
+      "summary": "SpaceX beats expectations in first earnings as a public company CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU1BOS1E0Rnh1MjR5bzJaekFjNFZVSFdrT3R3Vl84czd0Y1Q2ZlcwQzcxdTg2MlotX2hxQmNCVTFvNWpydmNYTlhTS0JLVWVZVExybTZLX2wxeEdHSmFYR3RUN2ozUnFVWTd4dUQtNUs?oc=5",
+      "published": "2026-08-04T20:14:59+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Paramount–Warner Bros. Discovery judge sets March 2027 trial date for antitrust fight",
+      "summary": "Paramount–Warner Bros. Discovery judge sets March 2027 trial date for antitrust fight CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KX3NtX3o4b2hkTVFEeVhOS1Z2elNMUVVnTk9xUVdJZVBkdVBNNEFPdGVCV3FnOTZUZlN5d3NBWlVRa2VTUEozamdVbDluZlVCOUNueHcxM0pGWEk2RXg5ODRUTU8xbm9neENsWEhGNW9Wa3JzZF9DeGgyVlNTWXc?oc=5",
+      "published": "2026-08-04T19:51:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "GOP leaders privately push embattled Rep. Chuck Edwards to abandon reelection bid",
+      "summary": "GOP leaders privately push embattled Rep. Chuck Edwards to abandon reelection bid CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmU1Zm1HaEJfSlBiUWdTcXBCaWgyUWktRkhmclVVZWJ5R3B0RkduLWpJaTdkbFlKNnBrOExERWlkckx2czZXZEp0OW9GMkdUT1VzYWFhMTRhQXhhd0E1eW5SeWlLYktPVmgwRGYxbXRONmZVOFFWdzFUeFZzbm1DRWN4Sm1KNVk?oc=5",
+      "published": "2026-08-04T17:52:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
+      "summary": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWxUOFY5MFE4S1F6NnpfNnZaOVR2ZnVsVXkxQU1LX0J3Y3VZOV8yRDlFTU9FdGNOMEZMeE5oaDk3cmZoRGc4c3ZmRDRFLVNFemM0VUdTZmZiRmxrSjh6aEE5Zkp0SXo5VjhWazNnNmNVblBGN3gtalR2cXRuY2t3Mi1famlBZEFSa1BxOXc3cktNSlNaWl8tNENmSHRDRkJ5cG4xWFJXZjZMYjE1bURZMkZqR2V3ZE0?oc=5",
+      "published": "2026-08-04T17:43:06+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "This fresh Texas twist has Mike Johnson in a cold sweat",
+      "summary": "This fresh Texas twist has Mike Johnson in a cold sweat queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGlEdEtEeDNzeHJVTmcyYVdWbGRXLXNfbnFuYmhXbDMydkJJbEJaVkZTUDhWa3NDRXRwTGhhN2xJTV92VUNfMGFSaVZfLWthYVVlaEdQRkpaR3VPYndRZURaQlVSOVYwLWJYTkFUTmZmM0FpUFZrdGdLQXBodjlJRnVBNEtPemZjSDlUampUUV9qa28?oc=5",
+      "published": "2026-08-04T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'Country People' is a silly, satisfying midsummer romp",
+      "summary": "'Country People' is a silly, satisfying midsummer romp NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2pJN3pzak1yUkY2RUZ5RDJPMjN3VDZzZWlrSTRzc1NrMzY3aVVYLUdOemVFWmpQZWo0WHZmSUYwZTNrTFdqUDF3V1ZiWUxQZVJubXBwdE9FUlBWUW5XSDRjc2hRcWtVQlNjZ29lRGdrU2lNME5FRWVBOHhhYjBSdnJxYUJ3Vm9SYllKendGSUk2ZnBtNHc?oc=5",
+      "published": "2026-08-04T15:33:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -32,13 +105,37 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Todd Blanche advances toward confirmation, paving way for reenergized Justice Department investigations",
-      "summary": "Todd Blanche advances toward confirmation, paving way for reenergized Justice Department investigations CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb1NPcmxta2pRT01VVHBUaXlmbVJ5Sk5yWmxkTjhYZm5rTThjUlVwejFfSkRWSFlVV2MyellUYjZTSXRiVzA0VERqd0pXbE1WR254MFprMnFTM19tNmpvMl9qUk9Pd05KQlZlckp6YUZyTmZiWi1RVlVzTFdTSEtQdXFaamlNX0FCVTZFQUR0TEJFbXhtUldXMzJLbmotby0wQTVNaEhaYjQ?oc=5",
-      "published": "2026-08-04T15:04:16+00:00",
+      "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
+      "summary": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbmpCUG5ibG1kRFlmcE1kR2dWM1J3SkJtandPeGZwejdxcnJLOE1vblFZcTZkQ0pPOF9WUTFBTmo3MGxCZUJSTzFLakxkVXVLSU9ucXluVXQ1M3hTaUVwYVQxb25KejFnMzlKYWNVLWJZRjgxall0WGhQYndLZG5tam1RUllYWHZpeThtTGNqMTVtQdIBlwFBVV95cUxOemdjUU9MVG5aaHNRZ0g5SW9wSFB0dkZodU9jaDllUEhkMFhzOS16WWx0aGQ2bVJSbUxRNzRoYy1EdGVWc1hYX1k2bFNxQk9rT1lTdklIdTNJVWc4VUZUU2xoVkpTZnpnRGFnaU5MSkhLVDZ0OG5fUk9taHZvdXl3cHNZa3lHaEVWbUJnWS15MHZpS0pTSUhn?oc=5",
+      "published": "2026-08-04T15:04:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
+      "summary": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDVoUkU0RUVEV19WdFlsRm5sa1R1Z2NtSmpMbExqdG04Z1k2NnlILW85NFl6LXFHTHpRNzhEMjdYTlFCSGxfb3NNUzcyVW8yTFBZdjkxbkR2dzd2emVVcVJlRDFFQlBzQUFvZTlhZFZCVUFRS29xWDBESFpBMzBxNUJ4NU90cjlDQkRJMG930gGTAUFVX3lxTFBhaXVsYjh2RGN5ZnVjemlvVEFmMzVuOUUxTnUyMG1IY2RjeUE2SnF0XzM5WUNxTXRmSlpQc1VucVJfbFNDU1BnUWxDeEpJS0pBakhIS0VRRG5RNllQeC1WUUNKU1hoazN6cG5ScTMzWHl1c3BQejJWeFI5cDg5d2RXeEhVWEFxaGcwXzNHWmN2ZlNFZw?oc=5",
+      "published": "2026-08-04T15:03:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "SpaceX rocket booster is on a 5,400-mph collision course with the moon, expected to leave crater 16 feet deep",
+      "summary": "SpaceX rocket booster is on a 5,400-mph collision course with the moon, expected to leave crater 16 feet deep CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FSWhjOHRRMFZobWYyUDVILUZZU2pYcDR3cVVQaFdNdEduc3k3ZENuRzBNQkg5RDZ2d21oeU1ReW1OblNLYVJaNlVWMzJFQlVLazh6Rzd4R0VTaW41TW1qTnVxc19kbW1QalE?oc=5",
+      "published": "2026-08-04T14:54:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,18 +153,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "New crater likely to form after SpaceX rocket slams into the moon",
-      "summary": "New crater likely to form after SpaceX rocket slams into the moon CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPZ1VGM3VIOXBQSVlUSEVKX1dZRDBHS0ViNkpDVWtISm9GX2ZyREZyRTdyWkI0QUZNRldmR2lqVXRNUGNJZ0ZEQTRCTmxjN1c2YTI2UVE5NjlmT1N6MFFxMmhkY2lLVURBOFpuY1Q2T3pvdw?oc=5",
-      "published": "2026-08-04T13:46:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -80,15 +165,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-      "summary": "Polymarket in talks for fundraising round at more than $20 billion valuation CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa05pS2c4LVE2UU9ya21wSTIzdlZQS3ExTTlGbC0zTjMzTWtHNFNHSWkySkhiQzdodTB2ZlNlYk54ejEybW9iandBVFRrNEszRWJaWENrWnFiLXFkdlFaTUd3MEhxTDFtbjhxWVNkMmVXQS1DeEhCSW0tTU1lTXphcGJrYmtPNVE1dWVGTmVnbGViaUgwMVB4ZVdnc2twRXlNbm84N1ZRYjLSAa4BQVVfeXFMT1lONHBTbkdtOXRzWGFsMjhLRzgxQWFJejVsSWY4MkJBM0lDeDJyM1dJajNETEwzTnF3MjJWVXozandVaFcyU2JRRzRsdk4yXzdPUVVGcHNkV3ZESmFncEVNM3VOLS1Qd0pxeWN5Mkg3RU16Y1JydEZVcGdaa3ZNdzYtNUdIZkNlSWE2bEpuLUx4eU5UY3RjaHZtNUcyWWJrbEhfbHN1aktCUi1nd2xn?oc=5",
-      "published": "2026-08-04T13:31:19+00:00",
+      "title": "A way forward beyond America’s education stalemate",
+      "summary": "A way forward beyond America’s education stalemate K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmxUMlBtNVI4eDhuTi1WZlRhY1JaUEt0OGlJcjhGazlfdmZ2RC1VUnNhN1pVcl9iNmtaTXJobXB6QUd0VDVaMF9iSmpfS1hibm5XdDZ4bnpXNU5BUUk3QVNyckVfN0llQ2hvTTJoSk9GUTlwdkdzQmc0ZTJVcl90SHF1NjJudWUwRHhwRXNudw?oc=5",
+      "published": "2026-08-04T13:21:12+00:00",
       "beats": [
-        "Business"
+        "Schools"
       ]
     },
     {
@@ -98,140 +183,43 @@
       "title": "Early evidence finds outcomes-based contracting boosts student performance",
       "summary": "Early evidence finds outcomes-based contracting boosts student performance K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXQtakZCOGlJMEpPMDhrLUdkeGJKM0NKT0ZvRzFoTWtERTdnSzZxY2ctb0o4VEZwTDZTZ3M3djk1dGZUV3l3akZpc2xGWlZrYWlmLXVWQm44R2wxNFktMGFoX2tRdnZWeGZ1cEpJd2E0cldISTN1OENxbFVYMFZUeVhGTmNaTjEwMWkzbDBBUTQ2UjhHeDJOemxzdlJSS0dsZ3g1bmoyR3ZmU3BhNzF5Rg?oc=5",
-      "published": "2026-08-04T13:18:45+00:00",
+      "published": "2026-08-04T13:21:12+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-      "summary": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling CNBC",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOE9XY19fa1dCUDZsbTlDOXF1MFI3OVpwTkNPbHc1RThHRWowTU5FTWh2cm54ZUpFR21rR3VJckVBMi1vd1k1T0RPOTh3SFZRcncxVFZiQnZqc2lybEpZX0M3T3k3V09SUUc0dVdzRU5GVHdlNUZ1Zkd3Zkc4UlFDeXNFWUlHSDZYRzR2OFZxdE4td1A5VmVYSVFtZkNYdklkTXVZX1YxMTQxUk13TGfSAbMBQVVfeXFMT2VDSmhpTDBleWdWSkluc2c0X0loSFFGRm9GZE5QT1VDbFdhZ2F6NGFPOE4zcXZicEdtc1JiMVlIakxLLXVmSi1pQ3AzMVhWS3Q2VWlxOGVWUTVKVkpqTV9PY1lpTWVRRTZ1dUQ0V0dWU3hoZEUyU0NjZ05xekt0UDVlcnRGUGcyX0lVSmdiczczSXVjcXhxWWd0cGRYUi1wNnZRa25NcHpEYUxERlRxOXhSaEk?oc=5",
-      "published": "2026-08-04T13:12:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "A way forward beyond America’s education stalemate",
-      "summary": "A way forward beyond America’s education stalemate K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmxUMlBtNVI4eDhuTi1WZlRhY1JaUEt0OGlJcjhGazlfdmZ2RC1VUnNhN1pVcl9iNmtaTXJobXB6QUd0VDVaMF9iSmpfS1hibm5XdDZ4bnpXNU5BUUk3QVNyckVfN0llQ2hvTTJoSk9GUTlwdkdzQmc0ZTJVcl90SHF1NjJudWUwRHhwRXNudw?oc=5",
-      "published": "2026-08-04T11:16:24+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
-      "summary": "Authorities arrest an arson suspect in connection with wildfires in Spokane NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU2pFS002MXhnTlVNMUxSX2dKdWh1N1Z3Ti1VLVVfYkJJdUh2M3BOajZDM01JcGVrZGJWZ1otSkQtbHUzX19zZ2d5ZVpxNm9iN3ZBbzF4Q2xSQ0k5elFSYy16RkZxLWJheTUwZ2VLSVpDcWljUHFtOXBJUjR5SVdvRUZwbw?oc=5",
-      "published": "2026-08-04T10:56:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Ariana Grande says her decision to step back is not ‘reactive or impulsive’",
-      "summary": "Ariana Grande says her decision to step back is not ‘reactive or impulsive’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1RhOTlkdjQ3enhXT3M3cnJHQkRYUFNpOGJZTUQ3ZzczZDFpaWZGQ0ZhQ1VsUi1WWUEtNHdLVG9YZGRlX2U3aG1XN3NPck9hZHh1VkRtM3poeldkRUhsYm04Z3VXc2JCcmpBdlBrS3FVZGJicDY3N2VaOEVuRWdfZDhzbXd2V2J5SVdr?oc=5",
-      "published": "2026-08-04T10:54:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "5 states have primary elections on Tuesday. These are the races to watch",
-      "summary": "5 states have primary elections on Tuesday. These are the races to watch NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1NjRUZwdnM1QnNSTlpJQXFSREpBNDJOMDEzM0JmWGhOZkQwenBGcjN0WldZdmJQRHdhdFV3cWJmek8zUmJKNkY0Z3FTSC1VczRrQk93MlBqRWJwSFhLVHd5YXFiRzJZMEk4emdWSnctYVJpbkJickp2eTdCZ1FPVQ?oc=5",
-      "published": "2026-08-04T09:00:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Kennedy High School staff and families notified to stay away from campus, district says",
-      "summary": "Kennedy High School staff and families notified to stay away from campus, district says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0N0b2ZELUQyZzkyNEFNM1pIcDZBNFJ3d0o3LVcxUkNtQml6NU85dUQ0NklWY3Atd1BIZ2tBUmZMcXdWQlJLUTVBRmZXUWc0V2szaVVoM0hlUy1ra3dYOHYzaDN2eURCSnBRa2RyOEVnUGFZc2dGdXM1UEtDY1BvaWQ1S1RGNGZnUUowSzh3cXBNVDI5NFdsdjhLT2VNRUdicWdSRTBvMk9jODhZd3c?oc=5",
-      "published": "2026-08-03T22:32:54+00:00",
+      "title": "No one hurt after reports of shots fired near Santa Cruz Beach Boardwalk",
+      "summary": "No one hurt after reports of shots fired near Santa Cruz Beach Boardwalk CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzc5ZGRzVzNkYlNaNkNmMDFoTmNsNmpJaEdwdE95ZUhuaVk1d2VhQ2Z0OTdCbjFoaVhEQm1DOE9hZVd1WGp5c0JkXzk4SDREUEZCRlBaZ3NGai13OUJWalB0WkFpNkowQTBTWlFXNXZwOG9yRG5laFozYXhmeFpqWmNIOHpqNkxCejFFeDJCWjFaaFE?oc=5",
+      "published": "2026-08-04T05:46:00+00:00",
       "beats": [
-        "Schools",
         "LGBTQ+"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Illinois State Police trooper charged with drugging and sexually assaulting bartender",
-      "summary": "Illinois State Police trooper charged with drugging and sexually assaulting bartender CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2gxYmFKMG9xaTdja3Z1WTRSTkNUM3lTZ3I0VXVnTi01aVRsZ1E5WXM1OTg0cThnYmZVVlZzWFFpVHh1am5JV0ZjZS1STXhOVzJxTGlpY2hKMHNvUWhfX1N1eUcyQXQ0TUFvQlFEZ0ZRZ05WRzJ1MzYwaUQ4NEY1dXhVcG1RWUVDZGJqSTREV0hKcTNCRUF0OXp6b1c2UEZPR2Y2S2VR?oc=5",
-      "published": "2026-08-03T21:43:00+00:00",
+      "title": "UPDATE: Bay Area high school closes after discovery of toxic chemical; students to be relocated",
+      "summary": "UPDATE: Bay Area high school closes after discovery of toxic chemical; students to be relocated EdSource",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU5Wa1pYWGktU1hycy1hYjdFdGtuWlh4cU5mcFpHZ2xicXJWQWhOUHBTcFg5MWdndXN2RFcteGRwWmF5NlpIOW5Wb3VxQUUxSEpjeFM5WGZfMHRTeWFhTmo5ZjhWalV5dnR3TmE0UGV4VGdfc3U0T2J6NjZlVHc5Z08wSmRmWW13MTRObTF1TTdOY3V2QlpLSVlncmFXandiSWw2V2VvWlRrLUVydFNNVVA4QXM0Zw?oc=5",
+      "published": "2026-08-03T23:07:05+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Researchers find a possible lifesaving use for Viagra",
-      "summary": "Researchers find a possible lifesaving use for Viagra queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFBRbjI5Q2xsd0lTX2c3Yno0b1ZZLWdyOEtQRmFZUXk0aXFHTzYzZ3ljN0V4Q0FzXzR4ZTNlQmRHQTFqVk13cGtPTDFna1FaQm95SGtRczVacWhNRzUzc3dqRUxGSWt2OE1kOElfVmZ6eUxIZ0dBWHhxd0ZUQlJkUG01cGFzdXMxVnZmLVZwdF8?oc=5",
-      "published": "2026-08-03T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "People are just learning the lore between these hunky ex-costars",
-      "summary": "People are just learning the lore between these hunky ex-costars queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMy1wb2lXRUwwR3QwVTU4RTdJYXFUZEZwa21OMGM4cThTdE9zMEtqSDN3RGh4N1BIRVF2M3h3WTBZZFRwZE1kdlRCQUptMlozUlpCQmVONXl4Zl9lMEEyR2ZJSi1XMzRIRFB3ZWVycG9PNm9pN3lrcHRZWTZXVFZzT2JkNXpPbkYzRk9VbTdsdThiZTk1Nkc1b2F1RjZjR0U?oc=5",
-      "published": "2026-08-03T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "F.B.I. Agent Is Accused of Stealing Cryptocurrency",
-      "summary": "F.B.I. Agent Is Accused of Stealing Cryptocurrency nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUo1a0VVZmZuaGlfeXQyWlVhY0QwUUJBdEJrcVNOT0UxYTNSc3d5Qm4xaEdSbmlQX1dmVEtpQ3dBUlloZlQ0SDh2dE9CRnJXYWlLREh5UHlCMDc2dmgxLUN1NnhpbGo3NnJxbnMwZmZwSG5RNG4tbngtQkFtMFM5VWxB?oc=5",
-      "published": "2026-08-03T19:36:50+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Michigan finds hair salon owner violated the law by directing trans people to pet groomers",
-      "summary": "Michigan finds hair salon owner violated the law by directing trans people to pet groomers Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWZPNUVVdUZZeHZkenZTS0NOZlZhM3pVTGg5SWhLNFJzeHVmR3hfSFdRaDhyVUVzVWI0RlhvczEtaGJlR2UwLXpocTVUbDhGY0NMVU5XUVBScDlWaDF5RFFxems1VHpKMl9jN1VweVVDTTVVVmF5LWpRaWFrMVQ4UWhlUTFlYkk?oc=5",
-      "published": "2026-08-03T19:30:26+00:00",
+      "title": "‘Jeopardy!’ host Ken Jennings calls out anti-trans ‘bigots’ and ‘cowards'",
+      "summary": "‘Jeopardy!’ host Ken Jennings calls out anti-trans ‘bigots’ and ‘cowards' Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HSjl2QVk3dXpUSk8tcjJFcXo4WlJXdHNYb0psNU93QnJUeEVLRXphWldMZUxwcXQ5cjVHZm9WSzZ1TWVfRDFXLV9DckI1UXZNSGdteDBqeDZVcXlkMnBQZW5oZm1ZZw?oc=5",
+      "published": "2026-08-03T22:36:17+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -249,15 +237,40 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "The anti-LGBTQ+ Heritage Foundation is in deep trouble after this bombshell",
+      "summary": "The anti-LGBTQ+ Heritage Foundation is in deep trouble after this bombshell queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW5uYVl3TEFNT1dDbG16OG5xZlc4LVBEYlMxWEVzZjR6dWVYdElLWnBNemVXalRKVjZqMTl0UlE5amlhalB6N0ZKcWFQTWMtMXdNaEJvREhEMUtiVHVEMjE0NUlna3NfYzRMZHRxRS1Xd0NDSE5hWVpXbVZWNE1MRUFnNTgxcHFlc211NDExa1lWNHJ2OExhejdPVGMyLWZOM2s2M3FjQ3hWODJW?oc=5",
+      "published": "2026-08-03T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Boeing’s Smallest 737 Jet Wins F.A.A. Approval",
-      "summary": "Boeing’s Smallest 737 Jet Wins F.A.A. Approval nytimes.com",
+      "summary": "Boeing’s Smallest 737 Jet Wins F.A.A. Approval The New York Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ON0Jmemh4MHAtX080eFdFLUI1NTJCYVYwYndPalZ0MTZQSjE5QmNOd1NDTUVFWXJCemJrQUh3dE9uR1VOYWZfSk9nUnBJRHZMS1dwZ21GRVd4RERfUXcwd3JWalRVSGhUckN3amJiUGs?oc=5",
       "published": "2026-08-03T18:05:26+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Department of Education will no longer track the bullying of trans & non-binary kids",
+      "summary": "Department of Education will no longer track the bullying of trans & non-binary kids LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWVGaDktVVRoM3BUYk5SbldETlZ4LUJ6RER2T1p0aXZqTGxUZWpzSGhyWUxJdzlkQWRCUEV4QjJlUnQ4VGJNQjhLMVB4LXBmc1cwdjFKamJMazF3Z2FUZ2xzMHc0MGxFUXZHY2gyRW1hSnNVNmhzdDBhbHFkRFZ6OG05SlFxNE16MDVkVmM0QS1IUTJaMWZMeE9SQnJzZ1p2N0dnTXE4T0FETkp0enVZ?oc=5",
+      "published": "2026-08-03T18:00:59+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
       ]
     },
     {
@@ -273,16 +286,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "UPDATE: Shaw won’t seek reelection to Chino Valley Unified board to focus on state race",
-      "summary": "UPDATE: Shaw won’t seek reelection to Chino Valley Unified board to focus on state race EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTdrQnlJdk5IV1pua01tcU1idG1TMUhaNmZPRU12UjdkQVVua1d6NkNncklBMU55OXROTW9MS05qWmE3QTh6TnJYYnM0Ry1Sb3FHbjZySXZ2RktzRWtjS1lReHRKQlJHRGhjRFVpRzBjVzJDYWxwTkdUMDFueFpRcXI3enhhMnRsbU8wWmJQbnU1ZVdHOUZ3MXNhOWFObDBxcF9fbDNXX0tiRVpIZnpIa0ZEOA?oc=5",
-      "published": "2026-08-03T17:32:05+00:00",
+      "title": "PSA’s response on struggles to keep up with grading demand at the National, mounting lawsuits - The Athletic",
+      "summary": "PSA’s response on struggles to keep up with grading demand at the National, mounting lawsuits - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3puTzdLYlVJenVIUDRHR1ViN09oc0ZvaGgzdG9hX2YyUlU0anczVmNwb0ZTb3g5UENKSl9zQnZ0dE50aFdqd29oeWdXOFlpWXh4enE1MUdOeVg0dXk0MllIaURZRUo5ZHBvY2IxT0NocGEzZWFmc0hSNkViRU1GbXRXcWpaZlZiQ2VNNjAyUQ?oc=5",
+      "published": "2026-08-03T16:46:49+00:00",
       "beats": [
-        "Politics",
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -293,6 +305,18 @@
       "summary": "Pete Buttigieg warns that beating Trump won’t fix what made him possible Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGZWb3U5NW1IZlFDT2NwOGNQQi1ndjR3V0ZJdUowYi1mUHE4M0kxdDVNbUdJczZldXRidkV5ZWdvZ1RZMlRDRndzQ2JhVTVxT3RVX0NsNklDbTVWN2RaeDVCellRWU9YLVlWbUhOUW1PQnpIbHo0WEZWdXU1SDBaTkJfRmxYSEdrYmk4?oc=5",
       "published": "2026-08-03T16:38:07+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Child sexual exploitation sting in Walnut Creek leads to 5 arrests, police say",
+      "summary": "Child sexual exploitation sting in Walnut Creek leads to 5 arrests, police say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFBMVzkzS1otYmp1OUp3d3ZCRVJCM1hpWVIzakZYa20zaHkzdThYMjhfUjVkWTRnNXdiUnJIOERjb0tVWGVhcldyVVlsZ2t0aXJ6ckUyMGJNeTB1UVBkRjAyVFJaSERLeC10Z2tMUnFEa0otcXl0aTdDRGVhbkNXVHVaUmRrc09FNVp4ekVLaTNEWUhvWTQ0bjRxLTMtOFU?oc=5",
+      "published": "2026-08-03T16:12:52+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -309,6 +333,18 @@
         "Politics",
         "Business",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Michigan health officials report 2 deaths among cyclosporiasis cases; patients had underlying conditions",
+      "summary": "Michigan health officials report 2 deaths among cyclosporiasis cases; patients had underlying conditions CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnBza185RXMtQmNhcVViRUdIOVYwakxSLWtBdGk2TzhmZy1RalM2MkpWWkVERHJpZ05tMWJ4bU9NdmpsV25PNks2a25PRWpSTFJXS0tUWHZGR0pJR1lrRFpFallURzVUcnIyLTFvSURXdjZfQWdoR19wOWVPUzVMbkgydUE?oc=5",
+      "published": "2026-08-03T15:03:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -340,47 +376,11 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | Want to Fight Back Against Big Tech? Start Here.",
-      "summary": "Opinion | Want to Fight Back Against Big Tech? Start Here. nytimes.com",
+      "summary": "Opinion | Want to Fight Back Against Big Tech? Start Here. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWC1VRkNzZzdHTkJvZm0wRDFkTlZJbGo5Q1NwM2N0ZWdkWmViN3VPc1BBcC1NSHltc1V0UkZIWDFKLUlUdXlPemxiMV8wX0twczZzZHJBUE9DN0NiZEdRQXVxSTRWMFRqSEpNTl84TW9iN3FlS0E5NVl2Q0pxSFZ1a0R5TkFiNmV1elRpak53?oc=5",
       "published": "2026-08-03T09:01:36+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "LAUSD could face layoffs, furloughs and school consolidation amid projected $231M shortfall",
-      "summary": "LAUSD could face layoffs, furloughs and school consolidation amid projected $231M shortfall EdSource",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9talg2ZlYxMWdPMy1KRmZWZXZTbGNaN2NWYWxBLUJwczVwdWFtUlRwdXFUSHlHYXV3UGNCdXE2ODhqWjRTT1VEUzByS0dxWE1TZ21nYmF5dmtCSHIxWkJpTVJRck85UVk2M1J3UVVR0gF2QVVfeXFMUC1QM2FhUFBUcHhfRGJfekZnb0ctY2FrbVNFT2liQ2E5Z29GVnhLbndsaWtOVlVzczlDbTBlaXo1dUVhT1ZDUEIzOHBhVHFIZDkwbU9HM1U1N2w3YnhtV3lzcGtVaHRjSmV4R0FpUjUwdmcycTNMQQ?oc=5",
-      "published": "2026-08-03T08:31:11+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Mackenzie Scott’s gifts to California public education institutions",
-      "summary": "Mackenzie Scott’s gifts to California public education institutions EdSource",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTIxczdIN19ZaHBEb1dVVEMtVkdPSlpHdzY4QkI5eDB1cVBDWTV3MlpkcG1obDFKMTItYmMwMnZseHE5ZGJWX1Y2ZXFxanM5VDJGNDBqdmRZYm5PSjlzalUwcmpuWHlsRVk0TU1vUGhOSXZZaExpOFFXamhXOVV2WVNKZw?oc=5",
-      "published": "2026-08-03T07:07:03+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "75% of Educators Expect Student Behavior to Be a Challenge This Year. What Else?",
-      "summary": "75% of Educators Expect Student Behavior to Be a Challenge This Year. What Else? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS0VjWkVfUl9hQ25uNm5NeE95MThSZVRxZS0yb20xSm1iSDF1OExpaXNRUURmdGRON1JYQTFHYTNtdUd2S2Y5Y0ZLQUt0YWVLX0p5VU1wTHlmdFZpbDdDVG1HUFNvR245dTAyRXdtTlZKZGM0cnpZeW9xZnZfUnB3Zk81X3BBcDZzZ2kyWUx3M3VkOTNzNFRDcDBuaGVHbmlib0hJclMwZ285My00VEFoWEpRMmRvSGxCVVBz?oc=5",
-      "published": "2026-08-03T04:08:01+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
