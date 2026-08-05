@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T13:04:30.794288+00:00",
+  "updated_at": "2026-08-05T19:04:32.435291+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,73 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Mexican influencer Cesar Gastelum shot to death during livestream",
-      "summary": "Mexican influencer Cesar Gastelum shot to death during livestream CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFdYWF91aHpGeFFxN0NwYUk3cGg1U3B4ekFENXRhTmdxQWVKck9NWGxLRXlSNG9URkxOdEJKRW5VNnNtUjYxSnRQaVpXcENqanRNQ0dXcDBxMXJxaTV4UUdJbkxxaEdzLVQyN01uczRFRjd3dG1uMGw5RkNYemdSTE5nWHNqcEkzbmNQdXRmelpSZw?oc=5",
-      "published": "2026-08-05T11:34:10+00:00",
+      "title": "How schools can address military-connected teens’ mental well-being",
+      "summary": "How schools can address military-connected teens’ mental well-being K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2FDb0VtcWNJbGMyZmRwakNrbnF0VUhraGFPOFNvUGtKRlpJVElSSzVyQVZHSXUzZkVhVl96NURoOFh6UGVIWkJSeFRTMEtDTXhzR1VNc2RhUkdzdjFPMjB2clZRLUpjLU5QSlVBbTRnTVJDbFVSZTNSQXBVczF2Z09kd2ZRNDdscHR4amZUX05fSGFhRVl1bVVGb0JjNE5IdFRuaDRR?oc=5",
+      "published": "2026-08-05T18:01:16+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter",
-      "summary": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92REFDeW1weGZBZkFQUlhyTHZrZ1o1T3RNU2FDa3d6dWRhb2ZtdUVlRWoyTU9tYXVwekZ2cVFEOTlhdFAwaWFlaFVFa0ZqVUxUWUNjSXd6NHR4R09UTzBsellQdVU3MW54RktwaWlEZ01td9IBd0FVX3lxTFA5V0d1Y3BIYWFZaEg4V0N6MHBKWjlhR3FLQVp5TU5aeEFmZGFwT3h6VC1UNkU2SWVyZXA5OEJhLWRXRlV2cFRXVl9ybU5fMjJNS2ZWX1pQRDIwVzdFNFNESThwSWZ0UV9FQjU4OW5EemlPakZyWk5R?oc=5",
-      "published": "2026-08-05T11:06:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
-      "summary": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wT092aW9Jd0d1MTFTR0hmQzhRd0pnQVVheDRad1ZFMXhYZ0ZIZjMyWFRwUTQtSFdHMVdWOUlHa25ZRVdtQU5PclBJenBoU28zVFN3UWNGWFR0Z1hUcGF2NWdUcVpFOU9HQ1VxbDJxV1NkSVRNZ0HSAXtBVV95cUxNWG43amNEbmRBNjQwVjNVa0tRTzlwQTVZLUExeGhGZU1FLVBBUlRzR21YRHN3YWstVjgzNWhGVFpfTDIydEVXb1lUNS11d2ZBOUdTR0NoNmExOE5YMDVLeVo0TUR1b1dQSXBfTUFyQm5PU0FZM05TTm15Q1k?oc=5",
-      "published": "2026-08-05T10:45:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CVS blows past estimates, hikes guidance as insurance unit continues to improve",
-      "summary": "CVS blows past estimates, hikes guidance as insurance unit continues to improve cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42bGRYSzI4bWJJS2dUT3ppOXhQRXp5MkhxRmJzZHNaTnhaRlp0UHdVek5uS1k0akFBbEcwSTVlV2RZb2hDYUlwTy1oaU1xMXh6WGpUMXdDeUlOcVlUT1dpdkxRU0dWdGJGQjY1VmdWU3VtSDVwbFdn0gF8QVVfeXFMUEV2b3VoSk1qLUNzTWVjMkhXWDk4UWxpVlZLcWxwcDBNVExsQ0VhWFB2MVVaNE4ybFpLampfOF9sUk1rLXNaYnJRd1BOMnk1ak03aEtSVDdjZjFXUF84RUFtUVA4TTZHZC1IVGRxdkRNRVBLMndzWENnS0NoQQ?oc=5",
-      "published": "2026-08-05T10:31:21+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-      "summary": "Russian missile and drone barrage in Ukrainian capital region kills 17 npr.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ra0ZubVFub2dIXzU2T2kySzE0NklsOXc0YVdFVF9nRHlKeUZoVzlkS0h4ZXZ5OHEyd3J0TEhHbHJJRWk1NFZqU2tETUpxN3hwN3dpVkxfcmx0Zk5LVFI0djc5VXNoZ3RHWFpTMmdtbksyaGxnS2FFVEdOTDNteGM?oc=5",
-      "published": "2026-08-05T10:15:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
-      "summary": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP npr.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcVh4Uzl1NjYxVjBhcFRYTHByVlljT3MwQ1RYMlpnMHE4eGxxbkU5VGNsWHpLaUFreDFiRkRVUUEzbVhZZlNQTGFwdjJwRDRpcWh6UXVUS1BrOGxvb1V4VWlCR2l0X1BydGdCWQ?oc=5",
-      "published": "2026-08-05T10:08:28+00:00",
+      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "summary": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXA3OVVjTkM4OWlHM1ctTlV0amZCQzBuS09iTWdsZGlPWE5VWHlSc1JJNWpfR0x3QndwNVdhUGpGSHE0ZGpERE5ycUxNajVBSFhPMXF1UEtCbko3SHRZb0lXLXp2bkN2LV9oNm1ZZnB3bnNNNVJtUVBqN0JacV9XY0dZMVZKUQ?oc=5",
+      "published": "2026-08-05T17:14:46+00:00",
       "beats": [
         "Politics"
       ]
@@ -95,22 +47,70 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "China hits US with sanctions, drone export curbs ahead of Xi visit",
-      "summary": "China hits US with sanctions, drone export curbs ahead of Xi visit CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QRFQxVnhfaTM5U3lKRXBnQkdKT2VGamxCaWR6clhjZXltdTBQYVFwN2ZHWm1QWUJtT29TckVmTFlNc05JaXFSUUExdkJyQ3d1NjhQMFRtbFRqaDdxXzdOQXJqYnhIZFlqQkhRWFFZS2x0Zw?oc=5",
-      "published": "2026-08-05T09:22:45+00:00",
+      "title": "Court confirms that temporary deportation protections for Haitians are no longer in place",
+      "summary": "Court confirms that temporary deportation protections for Haitians are no longer in place CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlRWUVCVDVYNG5zOVZ2LVVpNGpPaTVhdGs1NHRjTnIyOGNBdUJ1LVh2V0JpcFU2UjdkUlFqcU1CTHNJazFzS2FBQ19BM2syNzZiMVZ5VE5wek9fOWYyUFA4LWtBQmFDRFVSdlJPdkVPOHpuaDVQYXBzSzNjYlIwTjd3SjU3Y3F3TlNWS2ZQbzVxU3I3b1lWSVRmcGg2WHpJN2lycQ?oc=5",
+      "published": "2026-08-05T16:51:46+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Google chief scientist Jeff Dean leaving in AI reshuffle after 27 years at company",
+      "summary": "Google chief scientist Jeff Dean leaving in AI reshuffle after 27 years at company CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5",
+      "published": "2026-08-05T16:03:12+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
+      "summary": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGhVSF9iX0VuM1FpNl9WNmMxbHhmOU1QNFYyZTBaeDVCMkV3TUtoWWFfSzc4Tmx0Z1VHdU1PV0kzcU5kV0M5TElMQVUwRFJvTl9YOExrblJZSkkzRUhIeXZUdF9QcHd5VzROMTRMUFp2SlNheW0yUnc4QnlxaVhJQThLeUJGWkRJY09VYVc5Q1dFT0dmU3R2ZVdFd3dPTWlaQld1VG13?oc=5",
+      "published": "2026-08-05T15:50:51+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Extreme weather is drying up Europe’s rivers in a crisis so dire it can be seen from space",
+      "summary": "Extreme weather is drying up Europe’s rivers in a crisis so dire it can be seen from space CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnFTMUwxalJrZ1pFcG1PaWJfdkNMWnpuX2FvMzNCZHRUcGlWVWRuaDVNNHdvaHY3UXRDTnV2UC1VMU1NMV9PYjFVX29IbG1yQmZ1UHlyU0FUbmpwMHFTZDVnci1ZRTBPWTV2VmhmUlBLYWZobUZhemtUZ1d5QVh2WUM4Z3dKZFBadmRkNklfYUNtZXdTanV3Sg?oc=5",
+      "published": "2026-08-05T14:48:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
+      "summary": "Trump admin refunds $100 billion in 'liberation day' tariffs CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mVEVrYk4xaURfX001UU5wVmpIcWhWYk8yU1Z6dV9IWnpIM1RLdkpYMnp4WnRkQ3AwRzM1bTJRRFRSTWhXRFp3NEw0Mnptb3k2YWtKcW5TbUdtbERnTlY2dEM5dHZwdVNmX1pveF9MMTlJYkZ5M2xwNTZGUW3SAYIBQVVfeXFMTldnSXl5R01KeXFTek1nOHVCM2tnUzFFYlRKMG9sOFhjaUk1R0E4X0k0UE1RdWVjUWR6UjhFT2JPTTlRaUNCY3dLdndyYnhkNVBzVlE3Vl9zNzMzT1JuZlVQbV9fekFtUHJobUx0aUh1Tm9mQ3hRanFkQVVQTlliSWY4Zw?oc=5",
+      "published": "2026-08-05T14:36:29+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "How Deadheads became rock and roll's greatest renewable resource",
-      "summary": "How Deadheads became rock and roll's greatest renewable resource npr.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnl2a2RmbFI4dkRQX0hLRDBrZVlwM3A4RVRhTGtBUWNLVDdONFVCSmlVMW8tLXg5SmFSMGc5RjRuaVhKVV9vb092c1hXUHlSNFFCbzNrZ3FuZ1FBYThOeU4xbUFGZm9SSmU3S1lWczB6T2l5TWJOT1B2YW4xb1J3bFhmazdBRVk?oc=5",
-      "published": "2026-08-05T09:00:00+00:00",
+      "title": "Progressive Abdul El-Sayed wins Michigan’s Democratic primary for Senate",
+      "summary": "Progressive Abdul El-Sayed wins Michigan’s Democratic primary for Senate NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelZLOV9BdThiYTJCUUJIbVBKTDFWQzJjNHpPVFQ1RkpTeHZrcnhNdmtrcF92NEZNSXh1UTFWaFpoSVNVMUJhbm5rMl9uVmw2eXYtVmdYYV96cGNkS0Zmd0tKMkszc21jRWFsUlFYT2gtMTV1VUtYbURJTzlQWWlLQl9rM3dmVzNsM215RlAwcGE?oc=5",
+      "published": "2026-08-05T13:54:31+00:00",
       "beats": [
         "Politics"
       ]
@@ -119,10 +119,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "FAA investigating air safety incident involving Trump’s Marine One helicopter",
-      "summary": "FAA investigating air safety incident involving Trump’s Marine One helicopter CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOelh6OWtMdnpESUQ4N0FoX1FMV2g0VXUxdzllSUMySXk3S3FORVp6eDBNYmo4V2pJVUNxSkUyQ0hnSy1NOV9lNVNjUFptUU8yQUVrbVFSdGMwd0VZbzdkaG9XN0NvUm5YamtCaExpMS10MDM2ei1yMVBtN3JOdE53S25ZOA?oc=5",
-      "published": "2026-08-05T08:53:02+00:00",
+      "title": "An agreement on the Strait of Hormuz is taking shape – but not one Trump wants",
+      "summary": "An agreement on the Strait of Hormuz is taking shape – but not one Trump wants CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ3FDdy1TRmo2YWxSTjdULWVJVXNVZVBfMmJEWjkxZHA5MEgzWndLM3JJN2Q3cndzMklQNk1SOW9EajlrV1B1eTh5MXowT0tLMzNraEd4UHRqdk1YZUdZaElYdnJPeFpOMEowSjV4eENUa2IzNG91eVNrcVJlNjZlNTR6VmVpRUVtWHc?oc=5",
+      "published": "2026-08-05T13:29:26+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,10 +131,22 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Abdul El-Sayed wins Michigan’s Democratic Senate primary, notching a Midwest victory for the left",
-      "summary": "Abdul El-Sayed wins Michigan’s Democratic Senate primary, notching a Midwest victory for the left NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2xlZERFRVZUbnhjcTNRQ2dfN0laQWNHZVdjM3JWWDBFYVdqRXZEbkpUUTRoSjA4MkF2c1NfVFB0ajl5elRleGk2XzlCX2Y4MXFjZDNmV21VRnVkVlAzcFZWcklNbkxPbUg0dF9rSTc1cjdWS1c1SnFJbmpNZ3FNNmNNaXZyQnpOZEZvWkRRODBjZzJnNkpqejBwY1IwNVYwclIyTjN5QUxmMGN5ZGN3ZXh4X1JNVDhNQlJ1bWE1ZTFRcWZzV2U4?oc=5",
-      "published": "2026-08-05T08:48:00+00:00",
+      "title": "Russian barrage in Ukraine’s capital region kills 17 as air defenses fall short",
+      "summary": "Russian barrage in Ukraine’s capital region kills 17 as air defenses fall short NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDU1c3IyUFFmMXlWOTVzZURYSGQ0VnlOQ2NYVUw5TmFfSFlQVGdKX1NXN2xiYTdWcUVYWUxBRGNPOFJLUGpNU1hSandJblNOWDdDYnFlVnVPWnZDX2JmWVFqc3dxZFZqN1A0d2VOTFM3YXhRblpYMTk5UVVjRy1QZFNIdWhCd1doOE5CbDdGY1Y5OTJ6eHRTQ3RGdTF4MklRTndYeEh3WVNuMUU5cWd3?oc=5",
+      "published": "2026-08-05T13:11:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
+      "summary": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP NPR",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcVh4Uzl1NjYxVjBhcFRYTHByVlljT3MwQ1RYMlpnMHE4eGxxbkU5VGNsWHpLaUFreDFiRkRVUUEzbVhZZlNQTGFwdjJwRDRpcWh6UXVUS1BrOGxvb1V4VWlCR2l0X1BydGdCWQ?oc=5",
+      "published": "2026-08-05T10:08:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,12 +155,49 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I?",
-      "summary": "The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFEtVzY5SmdVWjNZaktOZm1CQVRDV09GZ2x6X0ZwX3cybFVEenNrV3NQclE2VVR1NTlCS2F4Ym5GYVp5aVlrQlBSZjA0c3N2aW16OUtOZFVLN3k1eG5aY1NRUFM1b3hZVkJpMTQzSVNGU2N1NnZtdEhRYlJ5WnJLOTh3?oc=5",
-      "published": "2026-08-05T02:12:45+00:00",
+      "title": "Disney+ Cracks Open the Door to TikTok Creator Videos",
+      "summary": "Disney+ Cracks Open the Door to TikTok Creator Videos The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2VBYjVNQV9ZNFVkNWx1cm5Oa3VMYkVPU3JTMVRUbEd0UF9ZSU43SUxQTWRzZUwzWnd0cWtpT0l5UVZOcHBEMGs0Tl9rbTBEVWFERk16em5IS2V0MVBFUGxtTmhPMkowcHBwT3pxVmZRSzFFRjRfRW1KQTRGOXowYQ?oc=5",
+      "published": "2026-08-05T10:00:15+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Douglas Ollivant projected to win GOP primary in Virginia's 7th District, setting up race against Rep. Eugene Vindman",
+      "summary": "Douglas Ollivant projected to win GOP primary in Virginia's 7th District, setting up race against Rep. Eugene Vindman CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTZtYnIyU2lWTVdMZmdUVTZOZjlIU0tZT0FMTHdVcXlPQ2RsRjYzdXdONlB1OGM3XzZCcjdPOFIwZl95NWZkcE9kQ1pwNWVZT2Y5NklwZnFkR0NIdnhCbUxYeGhuaE9hM0RrVUdHajRKZ2ZUbW4tTmFIX2pPNi1OVUhzYWpaUm1RSmF1ekJvYWFSeXN2RnlyMXJSSmlQUEFIVl9lSzVXNF9fc0I2am5NQjlJWmI?oc=5",
+      "published": "2026-08-04T23:58:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Fire crews respond to Walnut Creek house fire",
+      "summary": "Fire crews respond to Walnut Creek house fire CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlphNmZ2UklYR0RjTHA5R0hkNnJ6Q1hxVWlCQS1mdUpKRlE4UDA4VXBadXV0M3FTd0JzemszS0l3SVJsTDctSEpXdUtjb2Z5b2Q4RUJDX2ROMVBxaFJPY1MxUkFCaGttUjZrWmhfa2lVMkJmYnBKNE5OYmtZVUk0eFlMeUM3elF5?oc=5",
+      "published": "2026-08-04T23:37:14+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Education Department defends controversial special education shakeup",
+      "summary": "Education Department defends controversial special education shakeup K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDhMYlJDZ0lKc3RDdUpEM2xJRW04SDBiUHJEZTVxeVlLQlhNNS1HOU5xeHdaYzR3bEdqRHRyMW1DMU8zSTlnRUdHMDQ0TUFmdEFDOERHN3JCbDg0VmdnOGdfdFlkWnVmeng3QVA4OTJla3R4OVdzcFBwWUhuRXQ0S3NLLUNDRHkxazhJSjRlMm1BWjBiNzVJUGpVTnF2VlZaUUpiSFB2M1pRaWdj?oc=5",
+      "published": "2026-08-04T22:26:12+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -158,7 +207,7 @@
       "title": "Trump White House Readies AI Framework to Review Security Risks",
       "summary": "Trump White House Readies AI Framework to Review Security Risks The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
-      "published": "2026-08-05T00:17:54+00:00",
+      "published": "2026-08-04T22:17:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -181,6 +230,18 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
+      "title": "Washington ballot measure could force all girls to have genital inspections to play sports",
+      "summary": "Washington ballot measure could force all girls to have genital inspections to play sports Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CY0l4a3VGeG9BenZaQjhITERMZ1RGM0pOQlVnNEx2bmZhTnBGOUlyX1hvc0VvTXptdW5HQ0FkRG9jb2VsdDJWSHlxUUl3LUh0OVJQa20wNGRuVXlNVjBDSVVNdktLSEVrT0JMdlhQOFFoa0NoWS1zV1dn?oc=5",
+      "published": "2026-08-04T20:47:16+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
       "title": "James Talarico tells Rachel Maddow how bigoted, anti-trans politics distract from GOP corruption",
       "summary": "James Talarico tells Rachel Maddow how bigoted, anti-trans politics distract from GOP corruption Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFJXYWp6TFdkMlJmYUl0VFNtSXVrTUZjajRHcWZ2c0ZKYVYyVUtzM2tVdlVTOFo5SndQaDlWbERpX0ctZWtZZDNZNnlWd2VjMC16UHNvT1NobHltSm50ejZKajYwdGxMRjBrWEFSbU9ibk9MWXM4MGNlNE9VRUJ0VTVFQzdEOWFId3Q5Zmc2OVJTMlk?oc=5",
@@ -191,36 +252,12 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Washington ballot measure could force all girls to have genital inspections to play sports",
-      "summary": "Washington ballot measure could force all girls to have genital inspections to play sports Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CY0l4a3VGeG9BenZaQjhITERMZ1RGM0pOQlVnNEx2bmZhTnBGOUlyX1hvc0VvTXptdW5HQ0FkRG9jb2VsdDJWSHlxUUl3LUh0OVJQa20wNGRuVXlNVjBDSVVNdktLSEVrT0JMdlhQOFFoa0NoWS1zV1dn?oc=5",
-      "published": "2026-08-04T20:47:16+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "This extra-spicy straight people in gay bars take is so brilliant it just might work",
-      "summary": "This extra-spicy straight people in gay bars take is so brilliant it just might work Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPamdtaDFiSlFxYmVjYmJ5Z1FER1Z6UmlHQVZHTWZxUWxRLWFOVTJkVHM0aWhZZ0ZyMTVOQ0RVcjItLXFoLVg0XzlEdU1SNEpRMXp3ZnNtcDQ0SE9JTGFpa3d4eU8tVnhMUUdJVTNZSmdOckZKSE1Kd2d5Rm5CYTZ0djNqdUJMVWhXVHRocDJFUEhfcDFkUWhuekRxVEtOazdaM2lqQ1hudkdWRDlKVUxFQlZOU1VPemFSQnc?oc=5",
-      "published": "2026-08-04T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
       "title": "Teachers have some big wins in this year’s California budget. Here are their victories",
       "summary": "Teachers have some big wins in this year’s California budget. Here are their victories EdSource",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6cUoxSGwweVQwUXpXUU9WZ0tDREYzWlp4T3lPS0tKQzRiRDdERHlDQ0wwSld0OWxzVjUwdVJxMlVLNXdxUkV3Rmh1ZUJFaUFxZU1fek15Rkh3UTcycUFVWktDUmg2alFramVSYm5xSUZwWDTSAXtBVV95cUxPcEVrWk5fT0ZTd3BQVDVIS21EMmxmb2l4M0ItRUZNbGc4UDZVc3pjbHk3MHRRY1NocElSVWk3M3lHTzdmUHJSa0tSejlZRU1VdEd6NjdnT2lpNU5LRS1hMmhxVWUwZGktV3F4V1pHVjJfU1B5M1d6c3UtOVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6cUoxSGwweVQwUXpXUU9WZ0tDREYzWlp4T3lPS0tKQzRiRDdERHlDQ0wwSld0OWxzVjUwdVJxMlVLNXdxUkV3Rmh1ZUJFaUFxZU1fek15Rkh3UTcycUFVWktDUmg2alFramVSYm5xSUZwWDTSAbgDQVVfeXFMTTF0bS0tWE0yTkxhZldJZy03YUx0blNoVWdicU5XLWJ1VHQtRjlqSThBdlVTb1JyVHpFVV9NWFQ3d3luUUk3TE9WRzh3aWtDQ1FyeFdnWHYxWmRzSnhlaVNIX09YdGdXcjlWcU9hX1AtaHFkcUo1YVVqNm1nMUJfd1BpbGVjaXlxLVY2aWI1NFp1ejZWRTlOTENpZjBUT1BKalZjOGhGNjVzRE42cXo1aFIzU3JLMDlKT0UyeDFySnl0TUduNF9ZaWVEcDdGbGUwcEg1dDZqOG9sd1dHUVRYaEhodG5aTzlQbllvcGNJQjRMS2YyWkd4dG45QlVUSHc3VTFDS1k4X0lfRGpwUTdLOVlCcWhGeXlseWxKMWQzQzlwZmlPMnlFOE5ZOVR4Q3ExMXdmdU1VUnlobGNRU01fNVRLMDlIZERsU0Z6d08teC1vQ1dyeEVXQm42VW93M1k1TEtXaDJtZmNYT3MwdDk0SVFpczhJdS02cDNuTXNZbE5Ta1VWMUxuQ3MxYzI4T2pOQmdmUEJ5Q0VwZ01BNWFFMTllMmZOaFdlZmtpZnVIZDNldTdDNWg1d1U?oc=5",
       "published": "2026-08-04T16:27:57+00:00",
       "beats": [
         "Schools"
@@ -236,6 +273,30 @@
       "published": "2026-08-04T16:24:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Do you live in one of the world’s most “sexually liberal” cities? Check this list to find out.",
+      "summary": "Do you live in one of the world’s most “sexually liberal” cities? Check this list to find out. Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV21ZU2thTEFQdzVOUnllMy1MWHFDREFhc0RhUk1XbzFjQnJFYjlWMkM2OWlRLXZYdzRHRFU1bmNzRFJ5RWdITU9SbUdFYURLVHZSN0RmcnJSeU9mUnhEMmFGNm8zNTdSSTVTTEU1Yk5fa1RoUWhRTF8tU0xpMkVpdUZ6ZXMzdkhLWXlyZHZRZldYdEw4ZU4xMTA1QTJBemlYYTYxZ0c0Q1p1S0Y0SkxKbHdiZjJJWHB4ZWZ1TFliSUk?oc=5",
+      "published": "2026-08-04T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "\"Irretrievably broken\": WNBA star Brittney Griner files for divorce",
+      "summary": "\"Irretrievably broken\": WNBA star Brittney Griner files for divorce LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzkwVEhjMXNoeEQ2YzhPaG9HN0JtRGg0aGdhNkJJd0ZBSEZldnBNdjNfTEdBejdhZ29RVE56d1dHMzFNcHFWTFRBZ2F6NG9ieGI5ZDR1clZCRlM4a1UzY2o2STdGeHR1cEhuNGhMelBpQmtGbFpZZmFjQ3pLcnloVTQ1LTZuLWl5YXhqdHBRc1UxTmZNajRfUA?oc=5",
+      "published": "2026-08-04T15:07:47+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -260,30 +321,6 @@
       "published": "2026-08-04T14:37:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "A way forward beyond America’s education stalemate",
-      "summary": "A way forward beyond America’s education stalemate K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmxUMlBtNVI4eDhuTi1WZlRhY1JaUEt0OGlJcjhGazlfdmZ2RC1VUnNhN1pVcl9iNmtaTXJobXB6QUd0VDVaMF9iSmpfS1hibm5XdDZ4bnpXNU5BUUk3QVNyckVfN0llQ2hvTTJoSk9GUTlwdkdzQmc0ZTJVcl90SHF1NjJudWUwRHhwRXNudw?oc=5",
-      "published": "2026-08-04T13:21:12+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Early evidence finds outcomes-based contracting boosts student performance",
-      "summary": "Early evidence finds outcomes-based contracting boosts student performance K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXQtakZCOGlJMEpPMDhrLUdkeGJKM0NKT0ZvRzFoTWtERTdnSzZxY2ctb0o4VEZwTDZTZ3M3djk1dGZUV3l3akZpc2xGWlZrYWlmLXVWQm44R2wxNFktMGFoX2tRdnZWeGZ1cEpJd2E0cldISTN1OENxbFVYMFZUeVhGTmNaTjEwMWkzbDBBUTQ2UjhHeDJOemxzdlJSS0dsZ3g1bmoyR3ZmU3BhNzF5Rg?oc=5",
-      "published": "2026-08-04T13:21:12+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -335,19 +372,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Kennedy High School staff and families notified to stay away from campus, district says",
-      "summary": "Kennedy High School staff and families notified to stay away from campus, district says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0N0b2ZELUQyZzkyNEFNM1pIcDZBNFJ3d0o3LVcxUkNtQml6NU85dUQ0NklWY3Atd1BIZ2tBUmZMcXdWQlJLUTVBRmZXUWc0V2szaVVoM0hlUy1ra3dYOHYzaDN2eURCSnBRa2RyOEVnUGFZc2dGdXM1UEtDY1BvaWQ1S1RGNGZnUUowSzh3cXBNVDI5NFdsdjhLT2VNRUdicWdSRTBvMk9jODhZd3c?oc=5",
-      "published": "2026-08-03T22:32:54+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -357,30 +381,6 @@
       "published": "2026-08-03T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Provincetown or Palm Springs? One man’s negative experience divides the internet",
-      "summary": "Provincetown or Palm Springs? One man’s negative experience divides the internet Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdllhck00bXh5Vk1fd09CejJfMnYxajREMzFyOWdLbEpmZkZMODJfdG9leVFRRF9oLXR3anU5b3dxUjQ0czk5UkY5b3BIYV9pQWhaaEtyRzlPd1dLa2Y4S09Ob0xFNlRYaHNLQTZnbXYwWXNNVDVUVXVvbFJtNHZ6aGNSNlpPa3BuWGxwdVdfV2dpblVnSGVFbWNOellTejYyN0Q2bmdoVVdNeTVQbURjYXd3?oc=5",
-      "published": "2026-08-03T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Motorist killed, teen injured in crash on Highway 169 in Shakopee, Minnesota State Patrol says",
-      "summary": "Motorist killed, teen injured in crash on Highway 169 in Shakopee, Minnesota State Patrol says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnBLY1lZWE5TaTBWVVYzSklaLURHSE4yUGd3ZUZMRHk1XzUwUU1kdHlMVHBwWFRLb2dVeGxyTmZaV0VJRFhuVXU2aEhHckZsb282S0VLUGxfd3FWRi1DNkR1RlFCRjF0ME90ZE9sc1pMUENpc1VnWEdKeS1WbV9KZVVIdV9CeGN6NHc?oc=5",
-      "published": "2026-08-03T17:30:25+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
