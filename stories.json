@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:16:34.479765+00:00",
+  "updated_at": "2026-08-08T21:01:18.331402+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,23 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "UEFA confirms payout to ex-employee under Infantino, amid denials of an affair",
+      "summary": "UEFA confirms payout to ex-employee under Infantino, amid denials of an affair CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmdLUFh6UDl5UjhPaVNzOFhGTzlobVM1X2o3YXlySXAxMi1rMWFHYU91WTF5d0FhNHJxdERJM1NRZHZ2VE9UM0xyNjNhVDQ5NEktQ2FxckVtZUs4cFppbnE1ay05Y29ESk04bTIyQ05qazF0RHNCdkJaTnd6U2d1QXhOcw?oc=5",
+      "published": "2026-08-08T17:46:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Ukraine mourns \"collector of souls\" Oleksiy Yukov, killed recovering war dead",
-      "summary": "Ukraine mourns \"collector of souls\" Oleksiy Yukov, killed recovering war dead NPR",
+      "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+      "summary": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead NPR",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zLTYyRy1SYmpPbHIyYjlmYmw0T0txX3VSRzZBb2ZVem5fT01rSkVqUGJVQ2hDMzFMZWszblpfTzZoZXpQRlNoTmZJN25aSTduR05LcENOSldBU2xyOWx3Y1N3QU1tNkxhVXlsS0FNckJvUjBfVzdGRE83dGtmdw?oc=5",
       "published": "2026-08-08T17:46:05+00:00",
       "beats": [
@@ -39,18 +51,6 @@
       "summary": "Joe Biden’s prostate cancer getting worse, Hunter Biden says CNN",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUxQNTIteDFTQ0l5WTZVN084cFk4SENaeF9WeEdGNmU3X1R0NXE0Zy0zUVRETjNyRV9wajFEV0lJM05ZR1doQm1Ubk5DUERvUFRTeUhFZHdIZmF1VEZCSmdFYl9FYmhzb2kwNlBhd0w2STd3OFIzbnc2ck5EV2MzcUNJU1Q?oc=5",
       "published": "2026-08-08T17:32:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-      "summary": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’ CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBGTGxPR3NET1lCbk9abm9fMzBjV3J0UmtUQl8zZ1JsNm96WWQ5X21sS1djVmstVmtqR3ZIZ2NXZ2ptemNORWl3dnJJeWdQdFJ6N3R0Z2NzaWx1dkhkVEpaTmwta01ycWpSa29iVnVxT0ZDclJtRWNpM3BBQkpNdl8yWnNYVjFfaEZJakktQW8zTnJ5aFlJQUdERy1vMTJzcDZQaWluVdIBrAFBVV95cUxPaFoxVUgyVkJyTVZkcWtFcGQxV1pCb01zM3N5a0Q4d093cjNyM21lUVJKQnRPbzdGbDNmaVlucjI2aEtPNU9MWFFxMU9CZDBSLTlyNzhCNE1kdkhYMUNoajYtMEdoMUJsUGlPcms2UVRpenJpSEdjRmxHSG9QOFJQWXN5YV91MGJROUN2eHFLSlZQM2RSaGhzMlVmby01bmk3dzdxU3ZzOHAxOWVC?oc=5",
-      "published": "2026-08-08T17:25:25+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,18 +80,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Jorge Messi, father and agent of Argentine football legend Lionel Messi, dies at 68",
-      "summary": "Jorge Messi, father and agent of Argentine football legend Lionel Messi, dies at 68 CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pT3ZzNkQxYVNJR1MxelZFbmJzX2RTUzJLRGFvOU5GcHNqSm1rR1hyT2J5eE9URG5yT0dtSHlrZlU1RnpBYVRRWWVuUEl0cWhCRkZtenlKLThIYThKNHUzLU56MHZiNTI4TnZSWXpaLUljMEpmM0xlV05GR0FCdw?oc=5",
-      "published": "2026-08-08T15:41:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -116,13 +104,37 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+      "summary": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_SAZgBQVVfeXFMTVBpTHl0QWRxSHFON2dTREVVTmNjUGVRSW0yMWo1ZFpVMjlDdXhPdTJwUGl4Y1pOSHIzT3NjTHU4UXd6Vk80X3hEODF4V29tQnc1dGg2NENoZmU2ME1aUWVmZzRhZEVxbzRCQlc5RFRxX1NHTF9jdFdHczVrVXBiWXlPM0lNR19udzMtRURBYXFnSnVVWk16SFY?oc=5",
+      "published": "2026-08-08T13:06:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me.",
-      "summary": "Opinion | Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me. nytimes.com",
+      "summary": "Opinion | Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYQnFPSnppR0ctT0pNY0JLazZ5aHBIbHhDQWNqNVlEdjNrS09rMXQxYnBPTE84WjduTVk2MllDWTVRMzc1S0lOQ0d6Y1JIeXpaaDhHWEpibjJQNTA1cU5jSF9RdGQxX1JuWTJpYXhkMERGXzJIUlRF?oc=5",
       "published": "2026-08-08T11:00:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'One Night Only' and 'Camp Miasma': A tale of two very different horny movies",
+      "summary": "'One Night Only' and 'Camp Miasma': A tale of two very different horny movies NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWloNW85Z05rYlBENGp3RUJ1UE90Y2ZUS2l0ZWRUV2ROWVBMM202dFNfd2V2Z01oNHRGaHNneVR2YmRNWllQY1NWT2lYbU1Jam42TVkxcENNd1RaNE5UQUdqWVpaaVlZbGVKWDNFNmg1RkRVeWI5VEx0ZldBa29OMmNCd2pZWlV5czJLTlJQS0p6ZXQ4N1EtLW53THA?oc=5",
+      "published": "2026-08-08T11:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -134,18 +146,6 @@
       "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
       "summary": "Private prisons announce $1.4 billion in revenue as immigration detentions climb NPR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk1LVERTM0h4aFRtVU9WVXR3VDBkRVlGMXpwbjY0VElSbVRIR2c0S05PbXBxWjNMNkhhQnQ4cDZIWG9aSkZCckk4MFVfMmpuSW4xZWxVWFVqWEl6ZHlzMF9rYVpYcmRqalcxTmhoTDdONjQ4YjAzSFdJWEgweTBhSGZVN09HNmJrc25zb00tSQ?oc=5",
-      "published": "2026-08-08T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-      "summary": "Federal funds can't be used to give test strips to drug users, raising overdose fears NPR",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWRTWFl3N0h5QnBtS0F2VUZiZ0FpdnZ6ZEtZdncycWc4ZjJOMWtjTm80T2FFSzlzZWdKS2VNUVg1dGlJMXBfLVZlVklyQ25UXzNJZVlTb3MzT05FRWxVQm1NVzZkXzhRQWpmaUh1Q291T1RWYkJELTlSd0RxbTFJNDRIaGt2VW52cThWU2I5d1FVNVFOanFKdWNOeDdrRHZ2SlJwaG5SaXJrYXEzRnRZdnVXS3pQMEhIazl5WVNraUpxRzlYTkJZ?oc=5",
       "published": "2026-08-08T10:00:00+00:00",
       "beats": [
         "Politics"
@@ -189,11 +189,23 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "What is ‘Linguistic’ Phonics and Why Are Some Schools Adopting It?",
+      "summary": "What is ‘Linguistic’ Phonics and Why Are Some Schools Adopting It? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmtpb1ZFcEVqQ0t6N3dqU2o2QXlhOWZYMkE2MVNNUm05ZlN5UXIxZzd1TlN2eVhBNVdmdVJaeTd4T2xRWldoZVlLWm85TGdHaG9PUE5sYkZia0VYRmRPX2swMUVMcGdta09GVHRXVGtWejhWeno1M1lVYlFDTWJheUlwUnFXM2czLVNSMlVpYlY5bzd6Qzd0MWl0OTZtU0JRQXRXMXlmWEVzc2FqekZaLUF3?oc=5",
+      "published": "2026-08-07T21:12:59+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media",
-      "summary": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media advocate.com",
+      "summary": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODA2RDZkb1dxcy1hUFltZDFyYnlkRXd5RVRjdWY1dEZ1UExWOGJPMmdIS0xXdmRqT2stVkZWMzFRWTdwNzVJUy1ldXBOb21FVU9HRGxQR3ZBOVZ4LTZwNXdJb3FTOHFadkNTSlhB?oc=5",
       "published": "2026-08-07T20:34:44+00:00",
       "beats": [
@@ -226,6 +238,19 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "A rabidly anti-LGBTQ, Trump-endorsed, MAGA congressman just lost his re-election bid",
+      "summary": "A rabidly anti-LGBTQ, Trump-endorsed, MAGA congressman just lost his re-election bid LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZUM1aDFLNGRXWUZlemMyQ0FTZ3EwSUVBVG9vY2tkN0ZwalV4RmhLY2FfQnB5SXhPVy0zQ0pDY0M2QVVNbDVVeTZaZTQxNjdkbDIxVmg5V2VLX0tiUDYwZm9aQk1aUDhXSHNzRGZBYnl1Sks0SUd5QTdJVVpZZUl6el9wXzl4NGdpRVplQUZsSkpZLVdzQnp4WGlEZmkzLWtiUjQ0MUNtanF6VmhT?oc=5",
+      "published": "2026-08-07T19:03:04+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -245,6 +270,18 @@
       "summary": "Sydney Towle, social media content creator, dies in Maryland at 26 after documenting life with rare cancer CBS News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZ1eXJxYUU3LVFqcVloYjhrY2NSTVE5a3RWTU9IcWJHZU1YWHdBU2laV0lQZ0IzNHYzdnJpQlJMZEVlMGR1V0xia1VMR2RvX2hCeVNZeUhmZThTc3lSRERpSUcxMEVHbDlveUt0SHh3YzNyb05oOXpQTTdILUN3WHFvUWhjZFE4VXo3WU1FTVNOdlduVkFJVzBYZDQzS3kwMWcyMXMxaUloc1U?oc=5",
       "published": "2026-08-07T18:15:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump says he’ll appeal decision halting ballroom construction to the Supreme Court",
+      "summary": "Trump says he’ll appeal decision halting ballroom construction to the Supreme Court NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3o5SFpSMGJmUkF1RFJmSWlwdXgyQUw1Q1Y0UmxBUk9YZzNOV2E4QTlIMDJ0Mjk3T2VSVWlWa0NQUmRJMlVITHlpNDVfQzNEYjE5RXl6QzB1WHQyWW1CX1c1VVhuVjVzRlZva2FxTVo2dWdCX211WE1VZWdNUHYxQXowbkZ2MkRmQUNIeU1hNXlHQS04Qy1xLXVxWkZrX2hnTEpaSmR3NA?oc=5",
+      "published": "2026-08-07T18:00:37+00:00",
       "beats": [
         "Politics"
       ]
@@ -315,7 +352,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors",
-      "summary": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors nytimes.com",
+      "summary": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0cyQ2hQUURycW5CVDJkY2NDRk4teWc4V2ktWXBjSm15TklGbExaaW5CY0ZvQjZyNHNRbHhHeVVvRVp6enR2Vk15RVpNSExvMEdTTWMtMVBPNW5UR1dkMjJkejVfZDM0TklhS01yTm5XYVhiZWJ5M2VTQjZmZmpYT0lWWlcwaU4xZHZGc2hn?oc=5",
       "published": "2026-08-06T19:00:09+00:00",
       "beats": [
@@ -327,7 +364,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "This A.I. Just Created Viruses Not Found in Nature",
-      "summary": "This A.I. Just Created Viruses Not Found in Nature nytimes.com",
+      "summary": "This A.I. Just Created Viruses Not Found in Nature The New York Times",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
       "published": "2026-08-06T18:00:05+00:00",
       "beats": [
@@ -339,51 +376,12 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Libs of TikTok unleashes harassment campaign against North Carolina elementary school teacher",
-      "summary": "Libs of TikTok unleashes harassment campaign against North Carolina elementary school teacher advocate.com",
+      "summary": "Libs of TikTok unleashes harassment campaign against North Carolina elementary school teacher Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51N0ZTZDg2NW1kVWUza3VFOW5kWVdWem1BeEo1dVZjcWsyUEw2NHFxWlFkb3NhN0RjaFVzM1hxYWJ3Rmt5UnB5WV9NMG53Q3JwUWJBMGloUlk3azUtblBPQVBMYV9PdGUyam9mN2REZ0JIWHBEM0tldnh3TQ?oc=5",
       "published": "2026-08-06T17:15:14+00:00",
       "beats": [
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Tr*mp’s $10 billion BBC lawsuit just backfired so hard he’s begging the court to burn his own evidence",
-      "summary": "Tr*mp’s $10 billion BBC lawsuit just backfired so hard he’s begging the court to burn his own evidence queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZVaUYtanRjOHpwdXpFM1gtTXpWaWp3aWJoMmQzZ0phV19PMEk4T0F3a0d3QTQ0UFg2UnkzQ1VtNk01LVBfUnUzQkc4M0dXNmJLVFRwejNnQkVEVVRLOUtUTHpVbTVFNWFNRGE4SnNrdmhRc1NHV1BlbklfR1kzRFpLRWdHcjRBSHh6MWNsYTVqWDh1alJjLW5HUWhpaVdGcjVXNEJ1SGhhN29SdmdXVXRwTGlhQ3A1d201dTZPdFFUUQ?oc=5",
-      "published": "2026-08-06T17:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Washington parent pulls kid from school over a video about LGBTQ+ people simply existing",
-      "summary": "Washington parent pulls kid from school over a video about LGBTQ+ people simply existing advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cDF3eTNfUzRweHlsSGd5QXlYRTJyWkg2U3ZsdGFXVGVtUFhsZFJ6N0JCb0FONnZXUUVpZjZRVGJBVnh5RXUyUWE5THVRemZGNTctalkxYjVFRlNwaUpaNDRybjlfZmJpVDgxeg?oc=5",
-      "published": "2026-08-06T16:57:06+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Lawmakers will decide on these 10 bills affecting California students and schools",
-      "summary": "Lawmakers will decide on these 10 bills affecting California students and schools EdSource",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44UzZtVUMyRHdoa3VKVXQyODNSQkxmU05nd2pVNTVPaEVWX0FFcVluakctX2d5NVotNVRjUFRCUGtlYWo1d1hvX0FBQllTcVRwSGUzOUc1Snd4ZXVwMm5zZXFqcVhWWFM5dmgtRDR0V2FWWWd1T0NV?oc=5",
-      "published": "2026-08-06T16:07:11+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
       ]
     }
   ]
