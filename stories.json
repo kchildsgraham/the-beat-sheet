@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T17:05:46.092910+00:00",
+  "updated_at": "2026-08-08T19:16:34.479765+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "This week on \"Sunday Morning\" (Aug. 9)",
-      "summary": "This week on \"Sunday Morning\" (Aug. 9) CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rNnRQUDU1UXk1ZG1SRkhQSXlHMmxlZ0dsZ2NMSGc3dWh3cGVpSjhFRGxNSG9XVkFGLU8yci0zV3RIU1djQVQ1UWhlbi1SNXlUc2NyLWREU0pOY2wweUY0NE9FdlZubW5EbTM0bzB6b2VyWks3Ykcw?oc=5",
-      "published": "2026-08-08T14:52:14+00:00",
+      "title": "Ukraine mourns \"collector of souls\" Oleksiy Yukov, killed recovering war dead",
+      "summary": "Ukraine mourns \"collector of souls\" Oleksiy Yukov, killed recovering war dead NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zLTYyRy1SYmpPbHIyYjlmYmw0T0txX3VSRzZBb2ZVem5fT01rSkVqUGJVQ2hDMzFMZWszblpfTzZoZXpQRlNoTmZJN25aSTduR05LcENOSldBU2xyOWx3Y1N3QU1tNkxhVXlsS0FNckJvUjBfVzdGRE83dGtmdw?oc=5",
+      "published": "2026-08-08T17:46:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Joe Biden’s prostate cancer getting worse, Hunter Biden says",
+      "summary": "Joe Biden’s prostate cancer getting worse, Hunter Biden says CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUxQNTIteDFTQ0l5WTZVN084cFk4SENaeF9WeEdGNmU3X1R0NXE0Zy0zUVRETjNyRV9wajFEV0lJM05ZR1doQm1Ubk5DUERvUFRTeUhFZHdIZmF1VEZCSmdFYl9FYmhzb2kwNlBhd0w2STd3OFIzbnc2ck5EV2MzcUNJU1Q?oc=5",
+      "published": "2026-08-08T17:32:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+      "summary": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’ CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBGTGxPR3NET1lCbk9abm9fMzBjV3J0UmtUQl8zZ1JsNm96WWQ5X21sS1djVmstVmtqR3ZIZ2NXZ2ptemNORWl3dnJJeWdQdFJ6N3R0Z2NzaWx1dkhkVEpaTmwta01ycWpSa29iVnVxT0ZDclJtRWNpM3BBQkpNdl8yWnNYVjFfaEZJakktQW8zTnJ5aFlJQUdERy1vMTJzcDZQaWluVdIBrAFBVV95cUxPaFoxVUgyVkJyTVZkcWtFcGQxV1pCb01zM3N5a0Q4d093cjNyM21lUVJKQnRPbzdGbDNmaVlucjI2aEtPNU9MWFFxMU9CZDBSLTlyNzhCNE1kdkhYMUNoajYtMEdoMUJsUGlPcms2UVRpenJpSEdjRmxHSG9QOFJQWXN5YV91MGJROUN2eHFLSlZQM2RSaGhzMlVmby01bmk3dzdxU3ZzOHAxOWVC?oc=5",
+      "published": "2026-08-08T17:25:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Passengers evacuated after Delta flight returns to Atlanta due to report of fumes in the flight deck, airline says",
+      "summary": "Passengers evacuated after Delta flight returns to Atlanta due to report of fumes in the flight deck, airline says CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xWGVLWTRRWk5xUW4wRmJPRTlXVjh2cUtmQXZjN0IxaVkyc1hrc0pHWFFoMG1wSU1uRFJKeHZOZHg0U3k3VzBodXRLLWlVcWxkdU9SNmlFaUNBc21vM1FtTjlVZE14WWlQWDZWc0hIQ3Y0TEpsQk9oblpn?oc=5",
+      "published": "2026-08-08T17:22:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "These #MMromance reads will have you booking it to a library",
+      "summary": "These #MMromance reads will have you booking it to a library queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2JpMXN6alB4eEd2WGpjOGZoRTdxSU1OSFZvbUNmaXU3X2Jud1VPbkE3MldEbjhWYkVSckFXeVBsaHZVRWhlZ3pBU2w5eWRQcmYwZTRWU0owZXNCWlR1eHFXQ01rTi10LTFBd3E4MVBxNWRiZ0ZLRmk0TGpTdlRWOEx1VWFBc1hOcklJdGlQRUVESWowMUR5WQ?oc=5",
+      "published": "2026-08-08T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -35,10 +83,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "How each senator voted on Todd Blanche’s attorney general confirmation",
-      "summary": "How each senator voted on Todd Blanche’s attorney general confirmation CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1YxUzdaVnJTZTh5VmNqZi1sd2FtdzI4ejFyV1NqYVVfUXhYckRSQzU4c3FHVWp6cTBHdi1oZFhscUFPRVFiUTZCUXA4bVJHYzdVa3R0ZDhfN09nbkZBNmZSUDFRZWNRSjRpZ3FabjlZOEtEa1Rlb3RiSlQxaGhwejZ3?oc=5",
-      "published": "2026-08-08T13:47:28+00:00",
+      "title": "Jorge Messi, father and agent of Argentine football legend Lionel Messi, dies at 68",
+      "summary": "Jorge Messi, father and agent of Argentine football legend Lionel Messi, dies at 68 CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pT3ZzNkQxYVNJR1MxelZFbmJzX2RTUzJLRGFvOU5GcHNqSm1rR1hyT2J5eE9URG5yT0dtSHlrZlU1RnpBYVRRWWVuUEl0cWhCRkZtenlKLThIYThKNHUzLU56MHZiNTI4TnZSWXpaLUljMEpmM0xlV05GR0FCdw?oc=5",
+      "published": "2026-08-08T15:41:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
+      "summary": "Democrats plan Trump investigations over impeachment if they win House, sources say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2VKQ1pYa3RlVHhJNjF3akh0NlhBRkdRNklXcF9HSGE0QkFaaThsTkF6VHo3eWNjYXJJV3MyY2xlUlZ3NmdWcmNOa0p3bFFYWjBmX1Rua3pacXJJMTZvNGVRYmhKY3F4RjMwdnlKVVpONWt3d0xfaHRyb2FUallrV0NFX2ptTTQ4NnZYTWZpYWs1djlSMW92UVc5U1hlczjSAaQBQVVfeXFMT1NWUnk1Z0lOSk9meEZTNWZ2U0NVOUtWbHVVLTBwWU5HZ0NzT1VQeXhudHNaSEE5cTVFQ0hxeHR0dDFXQVJheGtsQUZSS0VhZ1VOd19sa3JCeUt3aDAzWGNEODk1M0VjV0lTM2FidGJrZFVydm5iVXBQTWlWZFVXODlod05hMDNIOWFfV0x1dVI0T2tTSmRKdEJYNjNRb3FaQUhRT2U?oc=5",
+      "published": "2026-08-08T13:40:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,61 +116,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
-      "summary": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_SAZgBQVVfeXFMTVBpTHl0QWRxSHFON2dTREVVTmNjUGVRSW0yMWo1ZFpVMjlDdXhPdTJwUGl4Y1pOSHIzT3NjTHU4UXd6Vk80X3hEODF4V29tQnc1dGg2NENoZmU2ME1aUWVmZzRhZEVxbzRCQlc5RFRxX1NHTF9jdFdHczVrVXBiWXlPM0lNR19udzMtRURBYXFnSnVVWk16SFY?oc=5",
-      "published": "2026-08-08T13:06:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Opinion: Europe's summer of heat",
-      "summary": "Opinion: Europe's summer of heat NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUk1NQmYxZVNGNmRnV1lMX25DTzRkWDF2RzdoeFc4MXZaRHRpZ0xYcDhaNXZBNFdpQ1E4a3BNZV9wbkRUcTFtRkswVkUxVlgtUWxqem1qb01KVGVubHdNNVRFUEtncHRoZDlodm9MeGR3cDlmbzhJcFJ3Mm5KLVVQLQ?oc=5",
-      "published": "2026-08-08T12:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | Who Is My Enemy? I’m No Longer Sure.",
-      "summary": "Opinion | Who Is My Enemy? I’m No Longer Sure. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FakNKVFVFQmR6QjRza0x3UDhrTy1aUE82Qk9kZGVxN3BXMUZxNWVmdVRyRjAyVElKX0N2QzVLYW1ORzBTQTdCcExHRDRNc2pyMFRNT3hHOFZyWDhaaUFhQUFoSmpKcXZQaXlJWk1yTk8xd0tEUjI2TkEybw?oc=5",
-      "published": "2026-08-08T11:00:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The surprising reason airlines invest so much in airplane interiors",
-      "summary": "The surprising reason airlines invest so much in airplane interiors CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVFA3OWdoLTB3NUJJZEtTZ01HZmhETXBwLUNwVElpME8wdl9XM1JsUVdqcG5jSnlfajZJcVRhaFo4UW54S2d5VnlFRnk2UkNRUGphUk1kWE0zdllkcmZmVG5wa2o4V245dlJYdjlfWFJqOWZRandDQ3hLcnhpU2M?oc=5",
-      "published": "2026-08-08T10:30:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "New pain for some 9/11 families as New York’s mayor finds himself in commemoration controversy",
-      "summary": "New pain for some 9/11 families as New York’s mayor finds himself in commemoration controversy CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8temZfZk9BV2FFc2l6VnhtbmZ6TFF4cFd5ZHZMVk9WNkxCMEl1NzFpU2phR25MeWFIYXNGU2IxQl9jRzFOVDFHOXY1R2tYXzZWZzRwcDkzWHVyX0xmSUVzdkp4NjdoUFFCVDRCaVBjWWg1UQ?oc=5",
-      "published": "2026-08-08T10:30:30+00:00",
+      "title": "Opinion | Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me.",
+      "summary": "Opinion | Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me. nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYQnFPSnppR0ctT0pNY0JLazZ5aHBIbHhDQWNqNVlEdjNrS09rMXQxYnBPTE84WjduTVk2MllDWTVRMzc1S0lOQ0d6Y1JIeXpaaDhHWEpibjJQNTA1cU5jSF9RdGQxX1JuWTJpYXhkMERGXzJIUlRF?oc=5",
+      "published": "2026-08-08T11:00:09+00:00",
       "beats": [
         "Politics"
       ]
@@ -152,18 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
-      "summary": "U.S. Senate passes short-term funding bill to avert federal shutdown before election CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmV0d20wQmFvdUFCUkNqX3o2dzNsaFhJZXF1TzdCdVNFdkRnU0JCMjBoN0lkamNXZ1FMclZGXzljdmZjUmpjdnluWkFsY3FtUTVTQ1F2dWZiUC04dC0td09PMHo2UEZoSXFKNnRkZ1MwVHRjRU9sRTV3aGI1LTlfNWRxaHZaWjlOQTNwcUh4TTNoaTNRaHJiYXJxd2xXOWpGMGVWTFpR0gGrAUFVX3lxTE5SNEtWcXBHeU52NGZDcXptQ3Y1bWZ0VFZZNzBmZGxZRUxzS3dZTjRmNWVac3ZLWUdILWF1UlF3QXZCRVctRXpyLTNIQXgyNUpianB3NW43Q1V3WUNBemNiRG1YS3lRMzkzc1lpd205eGt3Y29aZjBIbVNiRXA4eEVsVEJPa3VKTFF6RjB0QmhKVkNveGpaWWhmUHdjQWlPSm1jSThXejF1RmFtVQ?oc=5",
-      "published": "2026-08-08T08:48:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -193,7 +193,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media",
-      "summary": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media Advocate.com",
+      "summary": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media advocate.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODA2RDZkb1dxcy1hUFltZDFyYnlkRXd5RVRjdWY1dEZ1UExWOGJPMmdIS0xXdmRqT2stVkZWMzFRWTdwNzVJUy1ldXBOb21FVU9HRGxQR3ZBOVZ4LTZwNXdJb3FTOHFadkNTSlhB?oc=5",
       "published": "2026-08-07T20:34:44+00:00",
       "beats": [
@@ -254,11 +254,23 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Tr*mp’s Epstein defense walls are crumbling after latest court ruling",
-      "summary": "Tr*mp’s Epstein defense walls are crumbling after latest court ruling Queerty",
+      "summary": "Tr*mp’s Epstein defense walls are crumbling after latest court ruling queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1JGbzZqNnBFM3BNTGR0NE1CLVlPUFRrT182OXZwTEdhTTlFTzlNOG1PTl9tZEVKOWV5WkFWYmJ3d251eGhoMmVOX0ZNSWk4Z3pzYTJJZEprbVRTRXdTcU9TWERDR0VYMWhJUkk4dlRiTVR0V285N3psMVlzYnlyMFlha1NRbEppMzNFd3dxcmRhWFRrUHQzLXVocGdRQXd5Smxz?oc=5",
       "published": "2026-08-07T17:00:00+00:00",
       "beats": [
         "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "This week on \"Sunday Morning\" (Aug. 9)",
+      "summary": "This week on \"Sunday Morning\" (Aug. 9) CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rNnRQUDU1UXk1ZG1SRkhQSXlHMmxlZ0dsZ2NMSGc3dWh3cGVpSjhFRGxNSG9XVkFGLU8yci0zV3RIU1djQVQ1UWhlbi1SNXlUc2NyLWREU0pOY2wweUY0NE9FdlZubW5EbTM0bzB6b2VyWks3Ykcw?oc=5",
+      "published": "2026-08-07T14:12:00+00:00",
+      "beats": [
         "LGBTQ+"
       ]
     },
@@ -299,24 +311,11 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Rosie O’Donnell reveals what really drives Tr*mp \"batsh*t crazy\" about her & it all goes back to elementary school",
-      "summary": "Rosie O’Donnell reveals what really drives Tr*mp \"batsh*t crazy\" about her & it all goes back to elementary school Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS1dZaWN0LWxIYkpyMjVoclMtcVoxVWRxNnVhZzRrVjhUTFFhNlA2RjcxSTNTU0s4RjQ5Y3V3VFZiOExYNk1kNzVpdjV2R1p5Sl9iSy1kM2FDWDV1UTk3MGxPSjlhNFdNRXJVX3p6RW5jUWFyeXY0TlNvV3dKUjA0RFdZWDREYzE4SFBGSHVOY1ROYlEySXRnTUdvN0ZSLWstNGE1OUwwTU5fdGpjXzR4d1JBajJfdGZfM2FpeHFrdXhueVh5OG1lUUIxa3BNc0VyTnBGQ3BMVUQ?oc=5",
-      "published": "2026-08-06T20:00:00+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors",
-      "summary": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors The New York Times",
+      "summary": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0cyQ2hQUURycW5CVDJkY2NDRk4teWc4V2ktWXBjSm15TklGbExaaW5CY0ZvQjZyNHNRbHhHeVVvRVp6enR2Vk15RVpNSExvMEdTTWMtMVBPNW5UR1dkMjJkejVfZDM0TklhS01yTm5XYVhiZWJ5M2VTQjZmZmpYT0lWWlcwaU4xZHZGc2hn?oc=5",
       "published": "2026-08-06T19:00:09+00:00",
       "beats": [
@@ -328,7 +327,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "This A.I. Just Created Viruses Not Found in Nature",
-      "summary": "This A.I. Just Created Viruses Not Found in Nature The New York Times",
+      "summary": "This A.I. Just Created Viruses Not Found in Nature nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
       "published": "2026-08-06T18:00:05+00:00",
       "beats": [
@@ -340,7 +339,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Libs of TikTok unleashes harassment campaign against North Carolina elementary school teacher",
-      "summary": "Libs of TikTok unleashes harassment campaign against North Carolina elementary school teacher Advocate.com",
+      "summary": "Libs of TikTok unleashes harassment campaign against North Carolina elementary school teacher advocate.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51N0ZTZDg2NW1kVWUza3VFOW5kWVdWem1BeEo1dVZjcWsyUEw2NHFxWlFkb3NhN0RjaFVzM1hxYWJ3Rmt5UnB5WV9NMG53Q3JwUWJBMGloUlk3azUtblBPQVBMYV9PdGUyam9mN2REZ0JIWHBEM0tldnh3TQ?oc=5",
       "published": "2026-08-06T17:15:14+00:00",
       "beats": [
@@ -353,7 +352,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Tr*mp’s $10 billion BBC lawsuit just backfired so hard he’s begging the court to burn his own evidence",
-      "summary": "Tr*mp’s $10 billion BBC lawsuit just backfired so hard he’s begging the court to burn his own evidence Queerty",
+      "summary": "Tr*mp’s $10 billion BBC lawsuit just backfired so hard he’s begging the court to burn his own evidence queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZVaUYtanRjOHpwdXpFM1gtTXpWaWp3aWJoMmQzZ0phV19PMEk4T0F3a0d3QTQ0UFg2UnkzQ1VtNk01LVBfUnUzQkc4M0dXNmJLVFRwejNnQkVEVVRLOUtUTHpVbTVFNWFNRGE4SnNrdmhRc1NHV1BlbklfR1kzRFpLRWdHcjRBSHh6MWNsYTVqWDh1alJjLW5HUWhpaVdGcjVXNEJ1SGhhN29SdmdXVXRwTGlhQ3A1d201dTZPdFFUUQ?oc=5",
       "published": "2026-08-06T17:00:00+00:00",
       "beats": [
@@ -366,7 +365,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Washington parent pulls kid from school over a video about LGBTQ+ people simply existing",
-      "summary": "Washington parent pulls kid from school over a video about LGBTQ+ people simply existing Advocate.com",
+      "summary": "Washington parent pulls kid from school over a video about LGBTQ+ people simply existing advocate.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cDF3eTNfUzRweHlsSGd5QXlYRTJyWkg2U3ZsdGFXVGVtUFhsZFJ6N0JCb0FONnZXUUVpZjZRVGJBVnh5RXUyUWE5THVRemZGNTctalkxYjVFRlNwaUpaNDRybjlfZmJpVDgxeg?oc=5",
       "published": "2026-08-06T16:57:06+00:00",
       "beats": [
