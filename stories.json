@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:16:06.295710+00:00",
+  "updated_at": "2026-08-08T13:58:06.313888+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "summary": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW5mWmR5T3EtNi1uZ3VHMDBnTWh1TnFIRld6WVFWUjhoRUpBeW5KY1RTQmJ5eVk1VzJ1WVhsNWZpd2JqRWZVOUFsRkxfOTVPdGZ2SFNDV3paRkNsZV9EQTdfYlJtWU1wWEg5Ykkwd3JZX3cxUmx0bzRBR2lPMkFqc1Z3WkRLdTdl0gGOAUFVX3lxTFBZaG9tLThnM1MxbHdmamF4TFZkRy1Ma2l6ZVhoVFRvUzlGY3lOdEdsRjhmZ2hOWjhoUkVjV2xramxTWjlsdnVrTVhzTEdTNUFKMXhTTUV2ZVRrU1NiWTAxTjRweE1xaXVKZmZPVHF3X3piYXdRZGdSdW0zbEpFdE50d25aY2ZzUkF0ZVRfdWc?oc=5",
+      "published": "2026-08-08T12:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "AI is booming on the West Coast. So why is unemployment so high there?",
+      "summary": "AI is booming on the West Coast. So why is unemployment so high there? CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUUVZPeUtxU3pCb3ZZRVNWd3FsZzRuV3YyMVNiQXdER1lRN3VzSXo4cGItbWZobVhPUG5uRk1oejBDYmJLN2JINkxtdGpwLXB5cWJQRzQ5Y0xKVGxEU0lSZ3BhYnlqQUl4UDl1a2pabDlWLWNFSDVZc2lEVQ?oc=5",
+      "published": "2026-08-08T10:30:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+      "summary": "Private prisons announce $1.4 billion in revenue as immigration detentions climb NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk1LVERTM0h4aFRtVU9WVXR3VDBkRVlGMXpwbjY0VElSbVRIR2c0S05PbXBxWjNMNkhhQnQ4cDZIWG9aSkZCckk4MFVfMmpuSW4xZWxVWFVqWEl6ZHlzMF9rYVpYcmRqalcxTmhoTDdONjQ4YjAzSFdJWEgweTBhSGZVN09HNmJrc25zb00tSQ?oc=5",
+      "published": "2026-08-08T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -32,16 +68,51 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
-      "summary": "Data centers are a political issue crossing party lines, driving voters to candidates NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UMlhleGdwNktKOWkycUFWdy1TWkxSSEp5a05FYWFaZmI4ZXRSMlN2bDVtc2xIZ05XWjNPUGY1TlpPR1JlV243aFg1MElQMV9GY2VmWHpLOVNBZmlnak1EX1R2VXVWY1dGSlhsdFExeURxV1VDNmlZNTZuTWlOQ2c?oc=5",
-      "published": "2026-08-08T09:00:00+00:00",
+      "title": "Senate passes bill to fund government in bid to avert shutdown ahead of midterm elections",
+      "summary": "Senate passes bill to fund government in bid to avert shutdown ahead of midterm elections CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZ1l4eGVrb2tLbzNXeW5TY0cxaFVJSkJSaDlZcEMwN1g3VFRWYWhiT0tTdnZPMWZPV19QZHFEdk9pazVMcUNJNlh1Mmg4SEJQeElNSS1XTzdzQUgyVVRMaDR4eVdMYmZENmJsVHZUdVJ2WE95MlY5dkxObmxwUDg?oc=5",
+      "published": "2026-08-08T09:27:25+00:00",
       "beats": [
-        "Politics",
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general",
+      "summary": "Senate Republicans narrowly confirm Todd Blanche as attorney general CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkU0Qzhfa1lhMlYtdGRyd3JtMzhiRFpPTDFPNHFFaUVJcVJ2U2dScnM5YnVYWXZZaVNhU2duenFHZTlDWld2ZS1lSDBubG1CMTRwTkVPeVdLSlNsa1ZiU0pnUy1fYmNjaWF6TXVmazJHakVxT3RCdnZKSll3ZGN5aER6cWRjSnhKRHE3eVJxdkZsdWI3T3FqSVZCSDIycUM2ODVrSFQ0aXrSAa4BQVVfeXFMT3NlWDd1WkRRdjdpM2tzSnRDZlIwWjNoVURoZTQ3SldvTTUxS0g2b2NYNVlqUUFsODN0NWh4NnhYejlteEZQTzBOWkhINFRCNjBuaUtfU1VtSi02QXRHX1RRbFo5SUFNWDBCZHZtUG93LW5sMjdpZGRNQ1ZsNHZSeWNKWWlpRnhnc0hkYU4wc0FSTXRfWnFndDdsM2ZtNTNyTG05cTY5WlBQVmN1VG5n?oc=5",
+      "published": "2026-08-08T09:27:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Typhoon Dolphin hits Japan’s Okinawa, China shuts ports ahead of landfall",
+      "summary": "Typhoon Dolphin hits Japan’s Okinawa, China shuts ports ahead of landfall NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkNCX0ZzQnNQOEVCSWRjZ0dZTGl5eFNsOW9KUV9fcVNkME5Ra080LVhGSFBLUENjalV4RVlUZXhXd1h2aGdXbEhpU2JuUHBDT2p4MEdvSGlvZmtKLVlkR2VrelFyVmhLTF95bWM1QVR1UEtCaHJkeS1VcWY2LWtpMnpjZU5WbXlGYy1FMHExVVVpQkl4UWt3bkhfQlVEcHNXUmlDdHB4b3c4d2ZUb0p1TVRxbndEZw?oc=5",
+      "published": "2026-08-08T09:17:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+      "summary": "U.S. Senate passes short-term funding bill to avert federal shutdown before election CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmV0d20wQmFvdUFCUkNqX3o2dzNsaFhJZXF1TzdCdVNFdkRnU0JCMjBoN0lkamNXZ1FMclZGXzljdmZjUmpjdnluWkFsY3FtUTVTQ1F2dWZiUC04dC0td09PMHo2UEZoSXFKNnRkZ1MwVHRjRU9sRTV3aGI1LTlfNWRxaHZaWjlOQTNwcUh4TTNoaTNRaHJiYXJxd2xXOWpGMGVWTFpR0gGrAUFVX3lxTE5SNEtWcXBHeU52NGZDcXptQ3Y1bWZ0VFZZNzBmZGxZRUxzS3dZTjRmNWVac3ZLWUdILWF1UlF3QXZCRVctRXpyLTNIQXgyNUpianB3NW43Q1V3WUNBemNiRG1YS3lRMzkzc1lpd205eGt3Y29aZjBIbVNiRXA4eEVsVEJPa3VKTFF6RjB0QmhKVkNveGpaWWhmUHdjQWlPSm1jSThXejF1RmFtVQ?oc=5",
+      "published": "2026-08-08T08:48:40+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -64,42 +135,6 @@
       "summary": "Blanche confirmed as attorney general at a Justice Department shaped to serve Trump CNN",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmVpNHRNcTA5WENJOW9pR19kb0oyOW0xRTdjeHhJMDhGVVlhQWRQcTd0VUVhcmxYbXh4RVJsMjZOZ1NiZmxBaVU4bE15eUxWZEVPcVJzdThPWXY1RWoxT0o3MExBOHotSUlXNWU0Nnd0SHItQjJxVUZZa3g0VEx6R3lB?oc=5",
       "published": "2026-08-08T08:33:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "5 Things Weekly News Quiz",
-      "summary": "5 Things Weekly News Quiz CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaml3ZmxWTTFtRUdHaHlTbkNaOEdwV2pnSVItdURqN0wwS0dGbUhmN01fWVE4QVNYY3lBV2ZEYzc5c1l6eklpN3FLTDdseERUMjBUYlhYRFVOTXNiai01a0tLMWdCZHV2MUpwTHl6TEF3X0RSb2NERmRkdTl2cHZBSWlESDhVUQ?oc=5",
-      "published": "2026-08-08T04:34:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The US Navy’s plan for almost 20 guided-missile subs and why that will matter around China",
-      "summary": "The US Navy’s plan for almost 20 guided-missile subs and why that will matter around China CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR25Wb3R6YXZoUVp3NGh2R2NnX2xYRURIU2xRblBhOXdlOE9kdjZPNFdaMF9ha3A4THhhNzFUdGEyZUtWVm1EWVROWEY2T3NjUDZNOXhhZldvMmtqaHFzUGdSYWhobG02bnYzNUdYTk1ONDhPNTlkNU1mS0E4eUFmU2F3SUpHb013NjRTcjFTTTY4dw?oc=5",
-      "published": "2026-08-08T04:01:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "How a duck helped a dog recover from panic attacks, medication that brought him down",
-      "summary": "How a duck helped a dog recover from panic attacks, medication that brought him down CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXctSHVxU25oM2hRZ0lHQTJpMzdaM1hWQXc1MzRaVTcyWEplUm1heVRvUFpKMkJaOFFPRjVDWlZYZ3FYLXVuX3FtcUd0WERvYUctcGVJYUxuT1BCcDY2eHRraWFUakl6bTRCR0JaVzhRUlB2dndSY0puT1Z3dzM5d3IwaUU5bmJkVzUtWmVib0wycTcweWdkX1E4Z19aUVpmbnFrUFdZaWF3SGp2NUlDX1ROM24?oc=5",
-      "published": "2026-08-07T23:26:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -130,40 +165,16 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-      "summary": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTJQeExfT19BZ29POG1GUkRSMXVnRFEyb2N2WFVILTI1S2tMSDZZNDc1SmVJMDgwLU1PeFo3RV9HRXY4MkVHc1RKYjMteURycUR0b1JCRmNjazlsLUMwc2Z2d2c2QW1ZeDJTcW5yOVVxZkdIcTR0LVZvX2N2enVtMHJSTExKMXd4MXByeUN0d216a1J6eUZ6WnVyYW55S09DcW9Z0gGoAUFVX3lxTFBwRmlOTVpHcjhhNmVYVHZxRTlmeWU5UmZCcUtqbFMyX0w3VzMtVFgyZ3lZemg2YWxxWXROeWlSWGNzWm5iWEw3YS0yZDFnWXU3TWdIcWVycF96VWtvbnp1NlZPcTlGcTZIbUtnZ0NaVkFha1JiWFJ6eUFqNG9VU1JKN1EzalRfVEpzNkN0WklrZTJuUjJhSXBBRXlLWWdtWVRGRWRzNjNDYw?oc=5",
-      "published": "2026-08-07T20:22:17+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Students Created a National AI Policy Framework. Here’s What It Includes",
-      "summary": "Students Created a National AI Policy Framework. Here’s What It Includes Education Week",
+      "summary": "Students Created a National AI Policy Framework. Here’s What It Includes edweek.org",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTJTM3ZTM0N4RjVPRHFJTERNa1hQcWhzVl9Wa08xeEtRTzdYUjBFLW5ueEJTWGRiRWR0NjRJV1RMT3FtNmJ4WG1GMTJ1WFNrUUgzNC1zZTJkeXBlbXRYUF9vVnRNUlhuV0hhMTQ3T2FKNnlsVlpOQ05xRVJ3MVJCa2owdDA5U0IxMHVzejI3OUxMX2toMHoxazFvYlhuelpqM3VIYk9zTF9lY3dyREJ4a09B?oc=5",
       "published": "2026-08-07T20:12:45+00:00",
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-      "summary": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSThmVzMwQnlnLUw5WU1WTnE0OEJxaTgzTzdOdm4ycngxeC1xcGtnc19yamZGTHoyakRxSzkyaU44NlkzUnN1elpCMnVoQ0kzb0J4NjlIZnpOY2Rjb0pvV2JmcHM5T0JOaWowekY2MWx4Q2pOSmEzTURjRFdjTTNOSUg4YUVZXzDSAYwBQVVfeXFMT3NyS0hTQUdWX0paci1SMjhhWEZobGpBa0VMQ2R1Zzgwa3hfbFJmb05GcFlBcnZOLV9mejVYQUd5QWwxWklTU3pPZ1hfNlFuSEZXRW5qZDJWVkZNTmVmNVFnNDVLaW5aTy1NeGlFZFFydGh5Nlh4cHBmaXZ2VzJmeDlMNTVxWExXMlZId28?oc=5",
-      "published": "2026-08-07T19:21:22+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -179,13 +190,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Trump revives effort to fire Fed's Lisa Cook",
-      "summary": "Trump revives effort to fire Fed's Lisa Cook CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Tbl9RUGpidFJGVjBtSEVQMml4QnVLM2l3T2cteWRSb2FGdGNWTzMwaEJoMkpaOUZfLU5XZnMzdG9GVWlJLVJUandWTFBIY2FxbWt3ZkI3ekpoVFR4T040Q0RPYVN0Yk9TYjBOb2NVelNvTHJkcENJ0gF8QVVfeXFMT2ZfTzQtSHpZeGFlLWVfWTNHT0pMbXJjZ0RqRWJNWEZKaUFiMmJUVFViNVQ1aW1ZVnFWdldPejl0alZqVUFpMlFwWVQ4aVpOcm10N1ZfNlpGSE81N0kyRks1T283d2JQdC1xSjFsdGxPOWZkSUlzZUtXMU5Baw?oc=5",
-      "published": "2026-08-07T17:45:55+00:00",
+      "title": "Sydney Towle, social media content creator, dies in Maryland at 26 after documenting life with rare cancer",
+      "summary": "Sydney Towle, social media content creator, dies in Maryland at 26 after documenting life with rare cancer CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZ1eXJxYUU3LVFqcVloYjhrY2NSTVE5a3RWTU9IcWJHZU1YWHdBU2laV0lQZ0IzNHYzdnJpQlJMZEVlMGR1V0xia1VMR2RvX2hCeVNZeUhmZThTc3lSRERpSUcxMEVHbDlveUt0SHh3YzNyb05oOXpQTTdILUN3WHFvUWhjZFE4VXo3WU1FTVNOdlduVkFJVzBYZDQzS3kwMWcyMXMxaUloc1U?oc=5",
+      "published": "2026-08-07T18:15:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -240,23 +251,11 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Retrial Ordered in Child Killing With Parallels to Lindsay Clancy Case",
-      "summary": "Retrial Ordered in Child Killing With Parallels to Lindsay Clancy Case The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXVLQWZZRW9taVhSM1EyXzBfWXV3V0tFQXhPcHVGdFcySEtkM3llbG5Xdjh6QkpYRUE4U2ZialQ0YXQwYUYwX24xOTdCMVlRT2VWeUdqd2U4TEhYV05aTWE3SmNSOTBMSWhGVjhPNXpndS01dmZlLS1iX3BreW83T3RCOV9XQU42a0FXLS0yQ2s0ZVE?oc=5",
-      "published": "2026-08-06T20:53:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Trump Admin. Moves to Dismantle Head Start Quality Standards",
-      "summary": "Trump Admin. Moves to Dismantle Head Start Quality Standards Education Week",
+      "summary": "Trump Admin. Moves to Dismantle Head Start Quality Standards edweek.org",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmVoVUVkOUNfdURhdjRKcFZWMjUtdVloMkI1UnI1SWNyeV9wYWY3bXV1dHVVdzZ5WGtNSzBxQXJjVzI4NG1UOUZqLUloN3RNdHdQRG4yX1MybDNHcVNrRnZKVGppYTVQbFVmTXBXclh0alVBRVFCM3I1UnVvMHl0RVRYMTRZT1lBR1dFa1pyM0Y2OVFFWE9EcGx2V2plNzJPSy1DV2VZeDl6aDls?oc=5",
       "published": "2026-08-06T20:14:24+00:00",
       "beats": [
@@ -281,7 +280,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors",
-      "summary": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors The New York Times",
+      "summary": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0cyQ2hQUURycW5CVDJkY2NDRk4teWc4V2ktWXBjSm15TklGbExaaW5CY0ZvQjZyNHNRbHhHeVVvRVp6enR2Vk15RVpNSExvMEdTTWMtMVBPNW5UR1dkMjJkejVfZDM0TklhS01yTm5XYVhiZWJ5M2VTQjZmZmpYT0lWWlcwaU4xZHZGc2hn?oc=5",
       "published": "2026-08-06T19:00:09+00:00",
       "beats": [
@@ -293,7 +292,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "This A.I. Just Created Viruses Not Found in Nature",
-      "summary": "This A.I. Just Created Viruses Not Found in Nature The New York Times",
+      "summary": "This A.I. Just Created Viruses Not Found in Nature nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
       "published": "2026-08-06T18:00:05+00:00",
       "beats": [
@@ -377,15 +376,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "UPDATE: Thurmond to mediate dispute over Sacramento City Unified fiscal plan",
-      "summary": "UPDATE: Thurmond to mediate dispute over Sacramento City Unified fiscal plan EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjRSTHJ0RnRKYkRBTGZna28ta1NISEJPdE9yNzN4UndibVNoYS1fR3BZMHlKSkhteUJiTk5MREVXLUY4UFpGSHUxZW5lYzJCcHhYUGZocHNmLXFSLWxNM0pRTnVEd1lKeGpvbUFETW5RYlF6dG03d1pIZ2RWWnFmaEZycXpqTTVfTHo1WThubWpScnpGS0ZTTkMwajNNYmRRckkwVFQ4eVU?oc=5",
-      "published": "2026-08-05T22:22:07+00:00",
+      "title": "At Shambhala Music Festival, a Plan To Make Drugs Like Ketamine and MDMA Safer",
+      "summary": "At Shambhala Music Festival, a Plan To Make Drugs Like Ketamine and MDMA Safer nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTVHc2M0dmE4RUxQUWFYWThhMlBnaER2cFE4bk5uTmZ6cllsM2M2WHUyajJUNjAxT1ptVmIyX3prYUlxOTNmWXBQR0lPSFZwVVJmYmlSTWlFZi1sTlo4NHRieXVFZjhmQnVFeHpLZUZmUGNkU1YydkVSZWo1TTNFM2s3bXpBeHd3Y3JQNURkMTRxaHNWNEw0?oc=5",
+      "published": "2026-08-06T09:00:57+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     }
   ]
