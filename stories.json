@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:36:59.580215+00:00",
+  "updated_at": "2026-08-08T09:59:56.814351+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Senate votes to confirm Todd Blanche as attorney general",
+      "summary": "Senate votes to confirm Todd Blanche as attorney general NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzJXUW93NWlPMjg3LW1pMjZOT2w4RkNVVkhFUnNadUVhb2JjMGtqZTYzUEZrN3JtRWhPX2JxejR1MFJUTDZxVi00M29iallhUEFmNDh6ZWJodnl2emNqMEZPZk5Xc0tNOVBHdm1pRTBscGdwTnRoUFFYcHBBRzJNVms0eWVBd0xYQVpfQzdIcENXQQ?oc=5",
+      "published": "2026-08-08T08:46:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Blanche confirmed as attorney general at a Justice Department shaped to serve Trump",
+      "summary": "Blanche confirmed as attorney general at a Justice Department shaped to serve Trump CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmVpNHRNcTA5WENJOW9pR19kb0oyOW0xRTdjeHhJMDhGVVlhQWRQcTd0VUVhcmxYbXh4RVJsMjZOZ1NiZmxBaVU4bE15eUxWZEVPcVJzdThPWXY1RWoxT0o3MExBOHotSUlXNWU0Nnd0SHItQjJxVUZZa3g0VEx6R3lB?oc=5",
+      "published": "2026-08-08T08:33:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -35,24 +59,37 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Reflecting pool connection to a Trump hospitality manager, says New York Times",
-      "summary": "Reflecting pool connection to a Trump hospitality manager, says New York Times CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BOVVJbjd5eEhOTGVkb19sbzJaWEVxbjRTSVBxTE9qS0hwazQ4VDh1WHNCY1BqWjlmSTBPekVYTUNBVHRoODNzMGFQZ0hLT1RKNy1aMjEtcUVuVk5pT3ZycGVPMVNOZVBWSGhpZ3I2akw?oc=5",
-      "published": "2026-08-08T01:03:31+00:00",
+      "title": "Surveillance footage shows details from Idaho In-N-Out shooting",
+      "summary": "Surveillance footage shows details from Idaho In-N-Out shooting CNN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQk9vODAzaWVPQ25yX1Z6NE9RSHZ3UmFpVUxPV2tLLTd5VGxTYVI5ZE9UaUJvRU9Xb1JzOE02d3k1Z0NVWDQweTlJX1R6X3VWdFZMa2htYmVrdkg0VGo0NU14a1piR1BTV3JYRk40NTk4dkdGc21BSTVtMG1Kb29MVkt2RlFsekVQcnRIVl9sQ0dXSXRuYkUzQXB6MHBFcndFb2RTZGNqbjVJcDFV?oc=5",
+      "published": "2026-08-08T01:14:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Pentagon revokes access to classified information for former Air Force secretary",
-      "summary": "Pentagon revokes access to classified information for former Air Force secretary CNN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTNGNnlpVG8zcGtkN1FCcUhwc2xOTEo4YWV1OGg4MV9wQjhGMnhpTlMzVzFwVG5mVk5qZlBoU3lzNDFEd0hTV3RTcFRMaUJYaWliVllRS0dqVUswczBlRWpWTmRsWk9pRHdQdl92Z1pWN1FGODNzYVp0QUFxQXFSY2sxVU5sdjRVODdnNDg1NUloeVNZR1pIMkxwS3hOeEtpT0E?oc=5",
-      "published": "2026-08-07T23:10:27+00:00",
+      "title": "How a duck helped a dog recover from panic attacks, medication that brought him down",
+      "summary": "How a duck helped a dog recover from panic attacks, medication that brought him down CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXctSHVxU25oM2hRZ0lHQTJpMzdaM1hWQXc1MzRaVTcyWEplUm1heVRvUFpKMkJaOFFPRjVDWlZYZ3FYLXVuX3FtcUd0WERvYUctcGVJYUxuT1BCcDY2eHRraWFUakl6bTRCR0JaVzhRUlB2dndSY0puT1Z3dzM5d3IwaUU5bmJkVzUtWmVib0wycTcweWdkX1E4Z19aUVpmbnFrUFdZaWF3SGp2NUlDX1ROM24?oc=5",
+      "published": "2026-08-07T23:26:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Concord nursing facility worker charged with sexually abusing 85-year-old resident",
+      "summary": "Concord nursing facility worker charged with sexually abusing 85-year-old resident CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZObk9PUFZXWmdTV1U2MnRZUk1YSXhRd3NwVHVQQ0VWdXQyaFV5S3FsU0xjSUpPSl9kODZWSzBIcVpSaDVJQVBOZzNwX0hUYUZGWXk0S1otRHVIRVBOWGlqaEZMTDJQRnlOeUdkWl9Qb3FfX1U3bzVzZ25nNnBfQVlsVVlra0RfYVhwSkgtMk96SDN6MXNxMU1idzljWHRmX2RYZlpocjlWa3lY?oc=5",
+      "published": "2026-08-07T21:30:00+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
       ]
     },
     {
@@ -68,11 +105,23 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "summary": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTJQeExfT19BZ29POG1GUkRSMXVnRFEyb2N2WFVILTI1S2tMSDZZNDc1SmVJMDgwLU1PeFo3RV9HRXY4MkVHc1RKYjMteURycUR0b1JCRmNjazlsLUMwc2Z2d2c2QW1ZeDJTcW5yOVVxZkdIcTR0LVZvX2N2enVtMHJSTExKMXd4MXByeUN0d216a1J6eUZ6WnVyYW55S09DcW9Z0gGoAUFVX3lxTFBwRmlOTVpHcjhhNmVYVHZxRTlmeWU5UmZCcUtqbFMyX0w3VzMtVFgyZ3lZemg2YWxxWXROeWlSWGNzWm5iWEw3YS0yZDFnWXU3TWdIcWVycF96VWtvbnp1NlZPcTlGcTZIbUtnZ0NaVkFha1JiWFJ6eUFqNG9VU1JKN1EzalRfVEpzNkN0WklrZTJuUjJhSXBBRXlLWWdtWVRGRWRzNjNDYw?oc=5",
+      "published": "2026-08-07T20:22:17+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Students Created a National AI Policy Framework. Here’s What It Includes",
-      "summary": "Students Created a National AI Policy Framework. Here’s What It Includes Education Week",
+      "summary": "Students Created a National AI Policy Framework. Here’s What It Includes edweek.org",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTJTM3ZTM0N4RjVPRHFJTERNa1hQcWhzVl9Wa08xeEtRTzdYUjBFLW5ueEJTWGRiRWR0NjRJV1RMT3FtNmJ4WG1GMTJ1WFNrUUgzNC1zZTJkeXBlbXRYUF9vVnRNUlhuV0hhMTQ3T2FKNnlsVlpOQ05xRVJ3MVJCa2owdDA5U0IxMHVzejI3OUxMX2toMHoxazFvYlhuelpqM3VIYk9zTF9lY3dyREJ4a09B?oc=5",
       "published": "2026-08-07T20:12:45+00:00",
       "beats": [
@@ -117,18 +166,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Prediction markets take center stage in latest round of quarterly earnings reports",
-      "summary": "Prediction markets take center stage in latest round of quarterly earnings reports CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3Bvb1BxU1Zhd2VHSjdEaGJnUnh6YWFMSW1EdG5QckFyRzFtc2RTRG1LV0pSb2hxVVRUWVZTU2dVVWhVX0VwajBLWExYV01nYVlUd1FZdmpab1ZaWGdobmg2Q0ZFWkYybjc0dVdPSDFySlRnZ3hjOEFJXzU2WkFqR1FCSXlZT3JScTlMYTZyLVBxNkhCSDNTQmxTY1lQNjdYQXZ3UNIBqgFBVV95cUxNOTRvSTlVMTdMTUJydGg0QlVDeVFtZjZPM0dPWkxKYWNfU3hqSk1RZTNESHBSRTRfM2FkaVZIVWpEa3BmS3dMZF8zRGdtN3dIUHZBc1hQSmRWdWVnN1d0YVRSSTZJd01vNHZlSGVOcGJxUmtqeHRNOW9Za285bXY1NllUbzlERlFIMzVybXl2NGM2TjM1SUd2XzFYck5OUFZzOGFId0U4bjZNZw?oc=5",
-      "published": "2026-08-07T18:27:44+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -153,26 +190,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-      "summary": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham NPR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2Q4M21FN3ByS0ZSRi1XeU1tYkp0Nk9peWcxaUJSay1BbEhqajIwZE5zRmtrbWxGejlEd1JlbEttSWd5eUZBWVF6NnVITld4VC1MaE1hdlRmZXJqMFduLS1OTFJ2QldDS2owNE0yUFZmOTlzT3pmMXUtUUl4UC1aRXpLaVByR2ozSmtZQXNTOTc0YVZMVXBSY1IwQkxpczZGLXRTdEFsSk8ybnVTQjJ3dlc2MlZreVFjd3EzRUdOQXM?oc=5",
-      "published": "2026-08-07T17:33:40+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Tr*mp’s Epstein defense walls are crumbling after latest court ruling",
+      "summary": "Tr*mp’s Epstein defense walls are crumbling after latest court ruling Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1JGbzZqNnBFM3BNTGR0NE1CLVlPUFRrT182OXZwTEdhTTlFTzlNOG1PTl9tZEVKOWV5WkFWYmJ3d251eGhoMmVOX0ZNSWk4Z3pzYTJJZEprbVRTRXdTcU9TWERDR0VYMWhJUkk4dlRiTVR0V285N3psMVlzYnlyMFlha1NRbEppMzNFd3dxcmRhWFRrUHQzLXVocGdRQXd5Smxz?oc=5",
+      "published": "2026-08-07T17:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Alleged Bay Area fentanyl dealer charged with murder in 2024 overdose death",
-      "summary": "Alleged Bay Area fentanyl dealer charged with murder in 2024 overdose death CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1U0WmpiZ3czWURuY1VTbnlVNENDV2l0eEMxZGE4QXFsV0FMTVJ0V0hGeE5mYU9KOTlUcnBrbnBaWVN4ckk4QnczdVVmclZETi10VFNFdUtMc09wR0c4M19zX3pBZldwYzlKVzZjTTJDNmZQZFA3TnAzd29oVHd0LTZNT1gtSXhkb2p1YUdfTzNPRW8xWGRvMWlxWFNJaEk3NnU5R013ZDJpc2dyTTdxYmFMN2w3dlk?oc=5",
-      "published": "2026-08-07T15:54:42+00:00",
-      "beats": [
+        "Politics",
         "LGBTQ+"
       ]
     },
@@ -229,7 +255,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Trump Admin. Moves to Dismantle Head Start Quality Standards",
-      "summary": "Trump Admin. Moves to Dismantle Head Start Quality Standards Education Week",
+      "summary": "Trump Admin. Moves to Dismantle Head Start Quality Standards edweek.org",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmVoVUVkOUNfdURhdjRKcFZWMjUtdVloMkI1UnI1SWNyeV9wYWY3bXV1dHVVdzZ5WGtNSzBxQXJjVzI4NG1UOUZqLUloN3RNdHdQRG4yX1MybDNHcVNrRnZKVGppYTVQbFVmTXBXclh0alVBRVFCM3I1UnVvMHl0RVRYMTRZT1lBR1dFa1pyM0Y2OVFFWE9EcGx2V2plNzJPSy1DV2VZeDl6aDls?oc=5",
       "published": "2026-08-06T20:14:24+00:00",
       "beats": [
@@ -257,6 +283,18 @@
       "summary": "Opinion | Bernie Sanders Is Not Doing the Democrats Any Favors The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0cyQ2hQUURycW5CVDJkY2NDRk4teWc4V2ktWXBjSm15TklGbExaaW5CY0ZvQjZyNHNRbHhHeVVvRVp6enR2Vk15RVpNSExvMEdTTWMtMVBPNW5UR1dkMjJkejVfZDM0TklhS01yTm5XYVhiZWJ5M2VTQjZmZmpYT0lWWlcwaU4xZHZGc2hn?oc=5",
       "published": "2026-08-06T19:00:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "This A.I. Just Created Viruses Not Found in Nature",
+      "summary": "This A.I. Just Created Viruses Not Found in Nature The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
+      "published": "2026-08-06T18:00:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -318,7 +356,7 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Pete Buttigieg shuts down pundit who tried to get him to bad-mouth Kamala Harris",
-      "summary": "Pete Buttigieg shuts down pundit who tried to get him to bad-mouth Kamala Harris LGBTQ Nation",
+      "summary": "Pete Buttigieg shuts down pundit who tried to get him to bad-mouth Kamala Harris lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGxFUlVQaDUtdU10bDVZMGJLSXI5a2l4eno3bGZObUdKRnhUSlJjX3pocjl0NDNzZjluSzNfeUZrd1BBcnRNSjgtdWJzV3hKMDItUFhjQURjOU96S2pfZzdJNUMxY1VGV1p3YmJsLXN0eHJRdVVPQWZMTWttbXR3ZE1qLUs3OGwtSVdYdnp2THRtQjctcXNxaXljM19VUHg0ZlNPR2RiZzFYWTRlb1hYMm1mdFlMT2hG?oc=5",
       "published": "2026-08-06T15:00:00+00:00",
       "beats": [
@@ -338,51 +376,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "At Shambhala Music Festival, a Plan To Make Drugs Like Ketamine and MDMA Safer",
-      "summary": "At Shambhala Music Festival, a Plan To Make Drugs Like Ketamine and MDMA Safer The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTVHc2M0dmE4RUxQUWFYWThhMlBnaER2cFE4bk5uTmZ6cllsM2M2WHUyajJUNjAxT1ptVmIyX3prYUlxOTNmWXBQR0lPSFZwVVJmYmlSTWlFZi1sTlo4NHRieXVFZjhmQnVFeHpLZUZmUGNkU1YydkVSZWo1TTNFM2s3bXpBeHd3Y3JQNURkMTRxaHNWNEw0?oc=5",
-      "published": "2026-08-06T09:00:57+00:00",
+      "title": "UPDATE: Thurmond to mediate dispute over Sacramento City Unified fiscal plan",
+      "summary": "UPDATE: Thurmond to mediate dispute over Sacramento City Unified fiscal plan EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjRSTHJ0RnRKYkRBTGZna28ta1NISEJPdE9yNzN4UndibVNoYS1fR3BZMHlKSkhteUJiTk5MREVXLUY4UFpGSHUxZW5lYzJCcHhYUGZocHNmLXFSLWxNM0pRTnVEd1lKeGpvbUFETW5RYlF6dG03d1pIZ2RWWnFmaEZycXpqTTVfTHo1WThubWpScnpGS0ZTTkMwajNNYmRRckkwVFQ4eVU?oc=5",
+      "published": "2026-08-05T22:22:07+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Tree branch impales South Jersey man through face and into brain in freak accident: \"It's mind-boggling\"",
-      "summary": "Tree branch impales South Jersey man through face and into brain in freak accident: \"It's mind-boggling\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVnBBbTF5S09UU0hvSEpBZDJZMHpoUElDNEdTNVNrR2RlLWstUmVvNWlta0NsZHNrSi1VUHdWQUR0LUp3Um5nQ1IxU1BQNXh0aGZmZWx3ZWtYaWZ6Yk80dkZHZWVkWnRjemItbnh0YXhxUjNILUx3dy1EWXNZVGZ0UWVrMTRMQQ?oc=5",
-      "published": "2026-08-05T23:21:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "A mob viciously beat a trans couple. Now the alleged victims could get sent to prison.",
-      "summary": "A mob viciously beat a trans couple. Now the alleged victims could get sent to prison. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjJCdjF0S3NCME9VUWVjejJIdUZLbkNoMmcxbjdzRGxfc1E2dUhRNFVNSThmZ2dlZUtPc1lTYVYwRkZuSGFCUGwzX05qbXNyaGFEQWdqalJUV1QzZFJrT2NzZHVvRTY0QjBUaUk2LThlcXQ2a1NLMUlIMDRwN1NCbTYzeHc1VDdOVF9rN3JTOEUySG1nTWY2NzlHMWRsRDRjSVE3Zg?oc=5",
-      "published": "2026-08-05T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Leaked footage of Jeanine Pirro packing her bags has everyone thinking the same thing",
-      "summary": "Leaked footage of Jeanine Pirro packing her bags has everyone thinking the same thing Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUtjLWNETG5tUTd0TUN4SWJqNTdaNm11LVB0Y1V1YWpNS0JQbVF1SVRFaXpjS05WZU1NQlF3MEJzNmxERnhSYXFWYWlLelRJRmlJb192M1dURklpM3RjbHVLZGEzempXQ2lSaklUdV9aYVUzUm83bkI5TEZyNEpNejJkNHpINzJWT3prZERrNUt6cktvTUZCQXRaRUFxRTVMSTdra2NJNHpGRTlxMGxUWnY0cF9RS1ZnOWZv?oc=5",
-      "published": "2026-08-05T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
+        "Schools"
       ]
     }
   ]
