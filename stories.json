@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T15:03:38.103779+00:00",
+  "updated_at": "2026-08-08T17:05:46.092910+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "This week on \"Sunday Morning\" (Aug. 9)",
+      "summary": "This week on \"Sunday Morning\" (Aug. 9) CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rNnRQUDU1UXk1ZG1SRkhQSXlHMmxlZ0dsZ2NMSGc3dWh3cGVpSjhFRGxNSG9XVkFGLU8yci0zV3RIU1djQVQ1UWhlbi1SNXlUc2NyLWREU0pOY2wweUY0NE9FdlZubW5EbTM0bzB6b2VyWks3Ykcw?oc=5",
+      "published": "2026-08-08T14:52:14+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "How each senator voted on Todd Blanche’s attorney general confirmation",
+      "summary": "How each senator voted on Todd Blanche’s attorney general confirmation CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1YxUzdaVnJTZTh5VmNqZi1sd2FtdzI4ejFyV1NqYVVfUXhYckRSQzU4c3FHVWp6cTBHdi1oZFhscUFPRVFiUTZCUXA4bVJHYzdVa3R0ZDhfN09nbkZBNmZSUDFRZWNRSjRpZ3FabjlZOEtEa1Rlb3RiSlQxaGhwejZ3?oc=5",
+      "published": "2026-08-08T13:47:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -35,10 +59,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-      "summary": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW5mWmR5T3EtNi1uZ3VHMDBnTWh1TnFIRld6WVFWUjhoRUpBeW5KY1RTQmJ5eVk1VzJ1WVhsNWZpd2JqRWZVOUFsRkxfOTVPdGZ2SFNDV3paRkNsZV9EQTdfYlJtWU1wWEg5Ykkwd3JZX3cxUmx0bzRBR2lPMkFqc1Z3WkRLdTdl0gGOAUFVX3lxTFBZaG9tLThnM1MxbHdmamF4TFZkRy1Ma2l6ZVhoVFRvUzlGY3lOdEdsRjhmZ2hOWjhoUkVjV2xramxTWjlsdnVrTVhzTEdTNUFKMXhTTUV2ZVRrU1NiWTAxTjRweE1xaXVKZmZPVHF3X3piYXdRZGdSdW0zbEpFdE50d25aY2ZzUkF0ZVRfdWc?oc=5",
-      "published": "2026-08-08T12:00:01+00:00",
+      "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "summary": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_SAZgBQVVfeXFMTVBpTHl0QWRxSHFON2dTREVVTmNjUGVRSW0yMWo1ZFpVMjlDdXhPdTJwUGl4Y1pOSHIzT3NjTHU4UXd6Vk80X3hEODF4V29tQnc1dGg2NENoZmU2ME1aUWVmZzRhZEVxbzRCQlc5RFRxX1NHTF9jdFdHczVrVXBiWXlPM0lNR19udzMtRURBYXFnSnVVWk16SFY?oc=5",
+      "published": "2026-08-08T13:06:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +71,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-      "summary": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TeERQUjV0Q0RoaUEyRzg0X05zSndMbzBvY0VaUWFLTGsybEN0UVRoRDBXb0FDVHlsbF9JYllrSUtxWDRmQVFkeGlkdkYwSExldDRtM3JsQWdLbk1zU29mM0J2eVVmbDBwLThrMWtad3FkWTZHMzhEVzJB?oc=5",
-      "published": "2026-08-08T11:01:00+00:00",
+      "title": "Opinion: Europe's summer of heat",
+      "summary": "Opinion: Europe's summer of heat NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUk1NQmYxZVNGNmRnV1lMX25DTzRkWDF2RzdoeFc4MXZaRHRpZ0xYcDhaNXZBNFdpQ1E4a3BNZV9wbkRUcTFtRkswVkUxVlgtUWxqem1qb01KVGVubHdNNVRFUEtncHRoZDlodm9MeGR3cDlmbzhJcFJ3Mm5KLVVQLQ?oc=5",
+      "published": "2026-08-08T12:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,13 +116,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump’s unfinished ballroom faces uncertain path after latest legal blow",
-      "summary": "Trump’s unfinished ballroom faces uncertain path after latest legal blow CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44SlZoOFNzSkZZS255VmFacU5wMFp5WmNTQm9xN3lkLU95VEdxT0J4S0J0TmtkRGRqd280QUF3WGtEZGhma1ROaDhGQ0xERFJkYVJCVGdGXzlNMTV6SGxGRUVXYWtMRTI4RURNNXcweXROZ3BTbWpFS3kzRjM?oc=5",
-      "published": "2026-08-08T10:30:29+00:00",
+      "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+      "summary": "Private prisons announce $1.4 billion in revenue as immigration detentions climb NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk1LVERTM0h4aFRtVU9WVXR3VDBkRVlGMXpwbjY0VElSbVRIR2c0S05PbXBxWjNMNkhhQnQ4cDZIWG9aSkZCckk4MFVfMmpuSW4xZWxVWFVqWEl6ZHlzMF9rYVpYcmRqalcxTmhoTDdONjQ4YjAzSFdJWEgweTBhSGZVN09HNmJrc25zb00tSQ?oc=5",
+      "published": "2026-08-08T10:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,30 +164,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Senate votes to confirm Todd Blanche as attorney general",
-      "summary": "Senate votes to confirm Todd Blanche as attorney general NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzJXUW93NWlPMjg3LW1pMjZOT2w4RkNVVkhFUnNadUVhb2JjMGtqZTYzUEZrN3JtRWhPX2JxejR1MFJUTDZxVi00M29iallhUEFmNDh6ZWJodnl2emNqMEZPZk5Xc0tNOVBHdm1pRTBscGdwTnRoUFFYcHBBRzJNVms0eWVBd0xYQVpfQzdIcENXQQ?oc=5",
-      "published": "2026-08-08T08:46:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Hundreds of thousands without water in Puerto Rico",
-      "summary": "Hundreds of thousands without water in Puerto Rico NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWxhUnphc2I2ZTd1WDZWbWFMQW9uLWxRWXBiRVpTdENZdVFWcGJRUl9hemIyVUEzN09Sc0ltdUFKM0pvd0JMV3l1OXpGS2E3MTl0TVJNSjFiUWh4U1BkSmtQb1Itd2dlQjFkb29BTy1sVDhpMWFtUnRHR3N6WXRxSzlpcTl5b0M0dGdXR2NBM19HX0hPY2pxbUdCLXdZSVIyMFVjbG1RQUp0Zw?oc=5",
-      "published": "2026-08-07T23:42:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -185,6 +185,18 @@
       "published": "2026-08-07T21:30:00+00:00",
       "beats": [
         "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media",
+      "summary": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODA2RDZkb1dxcy1hUFltZDFyYnlkRXd5RVRjdWY1dEZ1UExWOGJPMmdIS0xXdmRqT2stVkZWMzFRWTdwNzVJUy1ldXBOb21FVU9HRGxQR3ZBOVZ4LTZwNXdJb3FTOHFadkNTSlhB?oc=5",
+      "published": "2026-08-07T20:34:44+00:00",
+      "beats": [
         "LGBTQ+"
       ]
     },
@@ -247,18 +259,6 @@
       "published": "2026-08-07T17:00:00+00:00",
       "beats": [
         "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "This week on \"Sunday Morning\" (Aug. 9)",
-      "summary": "This week on \"Sunday Morning\" (Aug. 9) CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rNnRQUDU1UXk1ZG1SRkhQSXlHMmxlZ0dsZ2NMSGc3dWh3cGVpSjhFRGxNSG9XVkFGLU8yci0zV3RIU1djQVQ1UWhlbi1SNXlUc2NyLWREU0pOY2wweUY0NE9FdlZubW5EbTM0bzB6b2VyWks3Ykcw?oc=5",
-      "published": "2026-08-07T14:12:00+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     },
