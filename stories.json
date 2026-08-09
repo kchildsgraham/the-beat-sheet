@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T21:52:24.347392+00:00",
+  "updated_at": "2026-08-09T23:05:21.587157+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump names Will Scharf as White House counsel",
+      "summary": "Trump names Will Scharf as White House counsel CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQVXBuVGdTc1lZRDBHc1dyZmFxTVNmVWxVNmppLXlnOWw1NVVUVUJHUHVLRFlGOGpHcGVQZjNGVDFRQTd4d094TTZwcnVzX2pPMm4zSk1VNzlTbmNnR3liNGp2THlWOHRzVFVNc1FmVWd1eEJ4R3RCWG1ZSDZCMXfSAYQBQVVfeXFMTnh0bUlZdkNpQ2dpVlpQT01iSFhpQUZzUHhqVzkxOENJTDhveGNncWJpS0h0Zm5tbHN3VEVJSHZQbENFTDJTMjFoU1IxcDFwc0xSOE1xMTlXZ0RBRWk3a05vNlh2dllIN216YTh3RDNzLU0tQXNfX0IzaDJIRTJlOVpIc2JJ?oc=5",
+      "published": "2026-08-09T22:15:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Crews battle wildfires in western U.S. and Canada",
+      "summary": "Crews battle wildfires in western U.S. and Canada NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQk1LVGVzUE52TVlFRk9xTDBCLWFJaS1ienZjS003VEM1OGpnY3FxZWNJTHpweU9sLWpfS0NJSFpOWmR4VDJnOGdaWDE0Q3lSYlE5czBENW9jWjhUM3dyNllzSFZUSFE5X3I5TXlUQnA1VEFuaC1ycVhhX2JOLTRwVXdzVQ?oc=5",
+      "published": "2026-08-09T22:03:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Abdul El-Sayed and Barack Obama spoke as Democrats seek to unify following heated Senate primary",
+      "summary": "Abdul El-Sayed and Barack Obama spoke as Democrats seek to unify following heated Senate primary CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2h1NXl5cEc4U3RKYmlhZ2FKTVFsRmt1V2dYY1ljcUhOSnczWldCUGY2REZMdHJ3Wi1uNGM0QW5KRDEtdXB4Q2pndXUxd3B6UTVVVlZfaDRKeXFpNkVUT0FKNC1qakRUTWF5SHA2MGdYMmxXS1ZpcEozWDRla3BTUGU2T0ZJeGpXOGNreHR2TQ?oc=5",
+      "published": "2026-08-09T21:17:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -29,6 +65,18 @@
       "published": "2026-08-09T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+      "summary": "Max Miller stays in Ohio House race as GOP ballot deadline passes CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcXRkaGxsNG1paGljb2MxZ1dudFBfNGNzejE4blpnZGhUaFBFbEJXcHRpbkEwcXpoREJCVWdlNG9kVVRKYlB3TTVxcmRQNjB6bFpIdFJtU2hWandlYlZJUk9taFotLWRuZDdiS21yTGgyVkptWlBLbkdpSE93Z2NfZm5naEhjV3RrMmNaYjJiY0FwZ9IBlwFBVV95cUxPZ3NkcnltV1FfYXBfdU9EUHR6T3picUUxTGo3ZUh4eVVyMWtwdS1uOVVqWnFaZXpqdEUxdmI2cXNnQ2pQaktOeHB4WWNNbXZyV1JqY2owdnVHelFjWFNJTFlsbzV2c0lCOVJZamVnOWFYSWVzX0k0Yk00R2VCYkhZZTl1Zm51ejRVSmVyYnJwZnBPa0lzRTF3?oc=5",
+      "published": "2026-08-09T18:38:23+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -128,18 +176,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Rather than capitulating to the US, Iran toughens its demands over the vital Strait of Hormuz",
-      "summary": "Rather than capitulating to the US, Iran toughens its demands over the vital Strait of Hormuz CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9meGY5VUJUV2tUTy1QVHlJejNuQ3NGZVh2YVp2ZXVYMkU3a1hodmlNRGRtZjhZTkFNWjhYc254TE1nRzVwcXpPeU1DUHlEbURlUDd1dndqQ2lFcmttTGoyaWxQMldkNXlqd2VVMk9YblJFSElQdUtER0xxdVZ4QQ?oc=5",
-      "published": "2026-08-09T13:13:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -149,42 +185,6 @@
       "published": "2026-08-09T13:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "NPR staffers recommend their favorite nonfiction books of the year so far",
-      "summary": "NPR staffers recommend their favorite nonfiction books of the year so far NPR",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWlwS3F6Q3U1R1RIOHRRRG4yMXB4a0ZwMVYwbDBQU2hVWE0xUzUxb3p3MmNKMjlwd2ROZmdEaWNqYUVSMExwY3ZPWWUwM094TlNGSkVRQVBaNlJUaXRWQTZ4MWNfMkhIYkdMVk9sX1Y0b3NZMTF1R3d2by1yUUhqMk5udzVBT0ZlWlRFM2tVZjVKQXRVVTNfOGRpYjVtSDFIcXNQS0ZIOGMxMlI4R0ZwY0cxLUpGbU9WT2c?oc=5",
-      "published": "2026-08-09T12:48:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
-      "published": "2026-08-09T11:31:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
-      "summary": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery CNBC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazZuYlhScWdna0IzWTBUSzQzbG0tVFVHU2VyeFZmTDdVRmNvRS1uR24yamI0R2U0X0ZlX2dLMEYxMGRtclFXbEhNaVpYRDAzRGNqRDNaS01pQllHbWtGa3lSN2FXZVhWMVdFZGlsdFBZc2Y3REdHakF4SEVKNHFnVlF4Wm13eU9hQ2IzRFVncEZqemJhUVNCMVV2eGhHUdIBowFBVV95cUxOWXpUWkE5VlRXTG1NMFdBRTZjVGVDc0FlbUU4SGs0bmIxVno3VmpqdHNUa2N5ZGhHcHlMWmVxUmgwZE1vVTh1N2NLSVFDV3dPdS1Rdmk0TzMybk91OHFHV1FjSXR6bTV0WDBmWjVZTmI4ZmRNVlJnUzVxZjRVQUtZLUI5NGU4amQ4UVhSUGl5eERUOVo2UUU4VUY3bXEtYmFhNVVj?oc=5",
-      "published": "2026-08-09T11:23:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -260,6 +260,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "summary": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0Z6VE9zOTlXc2VKSUt0MU9fMDVneXJVN2d5bTVVdDNsT1dSZnNscEhZSXc4SkpQd1JwaTlFajA4T1Q2dG1LekRpa3VGblNJM2RnVVg0SUV6dFdTd0Y3UFg0QWctQ0ZhUkRfQk92MkpaTDF5WFV3aTJyRlB6a3VPdGFxY2tUbmNKa2J4bUNjQQ?oc=5",
+      "published": "2026-08-08T19:04:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -269,18 +281,6 @@
       "published": "2026-08-08T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-      "summary": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0Z6VE9zOTlXc2VKSUt0MU9fMDVneXJVN2d5bTVVdDNsT1dSZnNscEhZSXc4SkpQd1JwaTlFajA4T1Q2dG1LekRpa3VGblNJM2RnVVg0SUV6dFdTd0Y3UFg0QWctQ0ZhUkRfQk92MkpaTDF5WFV3aTJyRlB6a3VPdGFxY2tUbmNKa2J4bUNjQQ?oc=5",
-      "published": "2026-08-08T14:55:50+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
