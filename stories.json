@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T10:05:05.440982+00:00",
+  "updated_at": "2026-08-09T11:55:12.033285+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Woman and baby die after vessel overturns in New York harbor",
-      "summary": "Woman and baby die after vessel overturns in New York harbor CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcmY1VGYweHVwWDl6U2Q5Q2EzdUo3TWMtdEdlWU5TXzZWcXdRaml4Z3ptNzR3VTBiUlo2MTdSalFzZnptbmtBektZMFN0NnRvSTBBWTJwdDlnZGdReTNVUmpCbkFSVTBQQ2haSw?oc=5",
-      "published": "2026-08-09T06:46:30+00:00",
+      "title": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks",
+      "summary": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFU3SnFJeTM2RkczWDV3MVpxb0pRN3NGblV0RWNBU3ZBaTkyVnh6ZXA0ajZMV3ZaNHdYaTNtdGFmc2dkUGU5anVhTzNISjBpbUkybkpZdjY4X1VXUGhIVm9JWlM0cFZIcm1HLU9YOXVONGRPbmJ6MHY1ZU0zMmlyQmYxTEhmeWtUYzFIZdIBkgFBVV95cUxNSHdRVUlZZFdEak44SHZSblo2ak1RZ0lVMHVSdWlYYXRRRm5mYWJId2IxRVk1R2U1Rk9fLXk2MkZJTEdPcjRpa1FUZlJjTU5rTTNnNHlYYVdQY0FBTWVpUnl1VnBsS0o4NHhIRG5rdGtwZklHTVNNRW1Md0tNelN6dUQ5TmFlM19oR25la25mM0tUZw?oc=5",
+      "published": "2026-08-09T09:49:27+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+      "summary": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news NPR",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWE3WEtHa3ZRVnlIWlJaRWlXWFg2N0xrSXIwTFh4ZGNVeUpMWlZIekRUMTlyT0RtZFRIaWt5SWxNblZpTXpxWVkwMlRsVnBmRDVxUnotOF82NURtcEV2bl9TT2FuUVVxLVRpa1VJUmtNZV9OMjd4c2JwOF92YXczY2hoRmlWX2xIQndjY3V1T3cxTm1rb0NQaE5TczVyVlRCdDNpbFNSbnRXcG9JRGlVVFVkQXdmQ1dCUFlWZV9nYS1YcEtjYWhweUtMSnZkbDdyMGxsag?oc=5",
+      "published": "2026-08-09T09:44:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +47,46 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump has squandered Republicans’ typical advantages in 2 key areas",
-      "summary": "Trump has squandered Republicans’ typical advantages in 2 key areas CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDdYeFJ5UWc3V3RBR0JhRlIwUi1ySWhmSmlWbEc3eDBFOHFraFUxaTVEZUROMnFWSWRzUElVTnVWWU80d0ZKanBqcW1ZZ2hzYUJFMFROR09weklYdUdyaXlURDBiZU9RS0NpRkFaN2JNakJnbVoyWVl0QlBLeDhCUUlR?oc=5",
-      "published": "2026-08-09T04:00:29+00:00",
+      "title": "Russia and Ukraine have stepped up their aerial war. Civilians are paying the price",
+      "summary": "Russia and Ukraine have stepped up their aerial war. Civilians are paying the price CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTFOaVplSlBaeHFwTnVseFZndm1nWjRieXNoVXRaVkJVazE2VW5YUnpvSjVlV3dsSG0tZWNUb05ZTW9POUJCYlVMSE5XTmhWelZucktOMGxZZTVIQl9XcURabmdtcEloUkNKdTk5V1pfNVpyclhMRjlFaXJJNG1MRzFiWUZYMlJmTTN3cHFmV08?oc=5",
+      "published": "2026-08-09T07:43:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Woman and baby die after vessel overturns in New York harbor",
+      "summary": "Woman and baby die after vessel overturns in New York harbor CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrUEUwWm1HTVJmcmlWN05VLVZSSkVmNmc4THVZUVNOTjgwSFFDV1BEUndFT1NwTkNqNTJsZVhnVFJVbDdVQWVMaHZlSlZZUDBvbFFpbXhEdVBhaDZVd0ZSSkwxNzFBSXdLcFJwWmNfdzJ3UQ?oc=5",
+      "published": "2026-08-09T06:48:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Woman and baby die after boat capsizes in New York Harbor",
+      "summary": "Woman and baby die after boat capsizes in New York Harbor CNN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcmY1VGYweHVwWDl6U2Q5Q2EzdUo3TWMtdEdlWU5TXzZWcXdRaml4Z3ptNzR3VTBiUlo2MTdSalFzZnptbmtBektZMFN0NnRvSTBBWTJwdDlnZGdReTNVUmpCbkFSVTBQQ2haSw?oc=5",
+      "published": "2026-08-09T06:46:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
+      "summary": "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX05sSzBHNWhJeHdYaVd1MW05VlNQbnRjdlF6RTllNE43V2NLUnBuaVpKVjNHSE9LRWI5YVQ1NTNsaWRlaWxpeHV0UjIzVDczcDVyeDczRy1sSk5tZkJVWkpSNnhMYUVUTnJMYUtUTmhhcmZvczFDdW5OQW1VUDNUSEdQbFFpZ9IBiwFBVV95cUxPOWtwRG9UeklfR256UExLNmhYWUFiNUlFbmJjX0s1cFRYVFNYejIzLVlWNFlWUWZ1dVZMVEx5ejljNWJ5YzMwV3BVeEN1LXpGc1ppMHEzM1oyMFVlOEVkblFQU3l4TWE3QlpNNFpQLUs5MUpJWXhWYk9GaVRPRXhDaml2NG5QT28wTVdV?oc=5",
+      "published": "2026-08-09T05:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -51,18 +99,6 @@
       "summary": "Solar eclipse to occur next week. Here is what to know NPR",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HV0hSVER2N1c2bjNqTmNyVzlQMG9yMUpSekJsQm9QaHZJZVlxOFhrS2tqWXVEdnBNUXlmTjhyWk4yOTRYYnNOVEZvcG15WXhKb1dJaUNmS0F6ZmdUNWcwYUpSdTQtYjQtREdLeHBBSWJydFpHN3pMZWVR?oc=5",
       "published": "2026-08-09T00:56:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "ICE says it expects to equip every field officer with body cameras by the end of August",
-      "summary": "ICE says it expects to equip every field officer with body cameras by the end of August CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wOG51NU1xY3BJdUVJS2dxdTI0c0dEWmV5RUpmVkY3Y1pvOGl2ZEFDZHRjaXctX3FIXzdMXzBlZy1vaVJwZVRVd25weUc3RFBjZGotdkkxdVpMcmpoY2llOWFDR1MybE1WTlY4?oc=5",
-      "published": "2026-08-08T23:50:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,42 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-      "summary": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’ CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBGTGxPR3NET1lCbk9abm9fMzBjV3J0UmtUQl8zZ1JsNm96WWQ5X21sS1djVmstVmtqR3ZIZ2NXZ2ptemNORWl3dnJJeWdQdFJ6N3R0Z2NzaWx1dkhkVEpaTmwta01ycWpSa29iVnVxT0ZDclJtRWNpM3BBQkpNdl8yWnNYVjFfaEZJakktQW8zTnJ5aFlJQUdERy1vMTJzcDZQaWluVdIBrAFBVV95cUxPaFoxVUgyVkJyTVZkcWtFcGQxV1pCb01zM3N5a0Q4d093cjNyM21lUVJKQnRPbzdGbDNmaVlucjI2aEtPNU9MWFFxMU9CZDBSLTlyNzhCNE1kdkhYMUNoajYtMEdoMUJsUGlPcms2UVRpenJpSEdjRmxHSG9QOFJQWXN5YV91MGJROUN2eHFLSlZQM2RSaGhzMlVmby01bmk3dzdxU3ZzOHAxOWVC?oc=5",
-      "published": "2026-08-08T17:25:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-      "summary": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0tDd3NDQjltR3FQR0twN0dKVWZTX2hNR0JPdFZUcldjcmhiMnNPNEZNTElMR1YzamRVUE9ueDFNTTNsLUNoRU5taWJTSmxPdTc1X1R4MlJDNWpnbjZCcWhDOERfbWU4YXB1T2RtQ1VWcVlIQVRJTEVhWkRPRmdoWEpQUlV6UmJtLVp2a0M3WU9pM2QzaXM3SUVXM0hQbHBFM1N6TmNJcFjSAa4BQVVfeXFMTUxYQVE4ejBVTV9Yb2tZQ3VQRTF0eEc3S0piWXh0QUhtSUIyakdjX1VRNXZtR3RTOFhYN1FPZVF1b1d2WWhNWnJWVlNiWWNObFBUdnU1RWtfNGVUWmJ1bGFRZ0tYQVFWR3ByNDVTTDdZdFlrNmNKTUY5SDFHSXI0cGxYNWh6UzY5S3o3U0M3eWo3dGRfQ3lleklyejllbm11VC1Bb2RxbC1FNkpDdURn?oc=5",
-      "published": "2026-08-08T15:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "K-pop's global wave inspires Chile's next pop stars",
-      "summary": "K-pop's global wave inspires Chile's next pop stars NPR",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PeHdoSHEtSzNEaExjWkxOVmk2dEN3VDNCbzR6a01rZy1tWEluZTZKOXJuQ0NvVFhETWg5alJaTVlOd3RtenhnSkZxN2wzeEJBWjBXRUxhRHhsODlIcGdPR25QQ1ZwQlZtbzhYNw?oc=5",
-      "published": "2026-08-08T13:34:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -179,34 +179,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | ‘Cats: The Jellicle Ball’ Is Not What’s Wrong With Broadway",
-      "summary": "Opinion | ‘Cats: The Jellicle Ball’ Is Not What’s Wrong With Broadway The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWtRVF9BMEsweUhzUjhlS0xJR1FVVGRxVldsRENEUm8zRVhjX0JKV0FrVkFKLUlDWjZjSGlKUWdCWjFaMWhwekgwdnpZOTlBQm9URllHZWpCa1JsYV81UHFRSzYxaDVOZ1J4Tko5djRub3FCTkZrcHBDMEptczFfSDM0RzZuTFYzVUpYa3RBWnQ0M1ZoMTVF?oc=5",
-      "published": "2026-08-08T11:00:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Opinion | What American Poverty Looks Like",
       "summary": "Opinion | What American Poverty Looks Like The New York Times",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYQnFPSnppR0ctT0pNY0JLazZ5aHBIbHhDQWNqNVlEdjNrS09rMXQxYnBPTE84WjduTVk2MllDWTVRMzc1S0lOQ0d6Y1JIeXpaaDhHWEpibjJQNTA1cU5jSF9RdGQxX1JuWTJpYXhkMERGXzJIUlRF?oc=5",
       "published": "2026-08-08T11:00:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "How a duck helped a dog recover from panic attacks, medication that brought him down",
-      "summary": "How a duck helped a dog recover from panic attacks, medication that brought him down CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXctSHVxU25oM2hRZ0lHQTJpMzdaM1hWQXc1MzRaVTcyWEplUm1heVRvUFpKMkJaOFFPRjVDWlZYZ3FYLXVuX3FtcUd0WERvYUctcGVJYUxuT1BCcDY2eHRraWFUakl6bTRCR0JaVzhRUlB2dndSY0puT1Z3dzM5d3IwaUU5bmJkVzUtWmVib0wycTcweWdkX1E4Z19aUVpmbnFrUFdZaWF3SGp2NUlDX1ROM24?oc=5",
-      "published": "2026-08-07T23:26:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -271,6 +247,31 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "DOJ's top prosecutor in LA hires law enforcement liaison with pending battery charge, string of DUIs",
+      "summary": "DOJ's top prosecutor in LA hires law enforcement liaison with pending battery charge, string of DUIs CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEFyX2N3bDM0aWlPdXV0UEdic2FVNEVBV01zY3pTdUVmZzhnLWxyZlRGMUZRNXIwMmhmNnBJaUFFMjRoZTk4bXdqcmNFWDdxVi1FSEU1MVlfRTZ0ZkF6Nk9MNUJ4cmhiWGh6VTg3MlJ5anlfaHNRajVLaENGbDBlM0NHX0RXaUFQa0ltZXl1VU8tdnBpRjQ5Qk5FcGE?oc=5",
+      "published": "2026-08-07T19:31:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Truck hits, kills e-scooter rider in downtown San Francisco on Market Street",
+      "summary": "Truck hits, kills e-scooter rider in downtown San Francisco on Market Street CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDZ1YUJNcXBKWkFlYXdJeGtqajdJamZzU3RwUzFIYXlQbi1GaXpwbjNIUF9taDF3NE5kcUJnUnpRYnJfbjVMZGUxcVVnYWNHZkRwd0t1UU42bm9sQk9kZVdtNV9VTGoxY2pLbFdNbnhKajIzbDd6amlFTXJ3YTlFeEE0TDVBUW1pTXpSRU9ndXlJZWY4RFRTdkhwMU0wMWlyRzZzbnpOVFdhTW1G?oc=5",
+      "published": "2026-08-07T18:53:00+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
       ]
     },
     {
