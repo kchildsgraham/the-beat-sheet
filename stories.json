@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-09T18:03:01.119937+00:00",
+  "updated_at": "2026-08-09T19:59:44.247593+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,372 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+      "summary": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dlU0NVWkg2RmpXSG5aYzJ0aklreGJ3UDViRWxQUFVaTVFxdzJYZDF6Qk5WWEZIRUl5YnA0RDdNOVhiOVN2U29GMTEyXy14YW9ab3hFWkg0c3J2eFhxeHdSUjNWSmxsZDNQLVZSN1N3UzBZNlhIRjkzSHB5S1ZhbjFSVTlQbzJCVC1lVVI0R0RHdHNLUlpDMmNuYWdyUQ?oc=5",
+      "published": "2026-08-09T18:21:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Rep. Max Miller, accused of abuse, will remain in reelection race as withdrawal deadline passes",
+      "summary": "Rep. Max Miller, accused of abuse, will remain in reelection race as withdrawal deadline passes CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xQkdvTFN2cmdSY3Ywb0tzNExneHhmNy1yV240NTZneF95R2gxalhSWm1sZHdGUnZnN2pTd25jbnN4S0Z6eDhONDRNbE1TQkpTUGg3SEl2NHM0aDNwRnpWaFZjQ2FhT2F0dTZxOXpEdXY1bE9l?oc=5",
+      "published": "2026-08-09T18:15:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "This week on \"Sunday Morning\" (Aug. 9)",
+      "summary": "This week on \"Sunday Morning\" (Aug. 9) CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rNnRQUDU1UXk1ZG1SRkhQSXlHMmxlZ0dsZ2NMSGc3dWh3cGVpSjhFRGxNSG9XVkFGLU8yci0zV3RIU1djQVQ1UWhlbi1SNXlUc2NyLWREU0pOY2wweUY0NE9FdlZubW5EbTM0bzB6b2VyWks3Ykcw?oc=5",
+      "published": "2026-08-09T16:30:25+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "From Matt Bomer & Simon Halls to Jermelle Simon & Obio Jones, gays dish on the hottest celebrity couples",
+      "summary": "From Matt Bomer & Simon Halls to Jermelle Simon & Obio Jones, gays dish on the hottest celebrity couples Queerty",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdU02WjUyNUlUOEVLMU92cnNMMXJZRWo5d1BjNU9tX28zeG5nY3dKLU16OGh0amhqZkpkQncyaWZubms3MTZpVGhWSWhVTlowdDRTRW43SmdQVE5ETVNJNF8wVVRmSlNnT0IxWFlCYUUwUnpBNHdxRWktdldqRzF3WDY0Qkg1Mi0zMjNtZ3JhQXV1RG95UDVDM0ZTVzhFbm0xSW95T2ppQTFyR2VvTjY5YmFyaHRhTzItU0ZsTlJWbkhFMTZJb09RWjRKUHIxUQ?oc=5",
+      "published": "2026-08-09T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse",
+      "summary": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2J0bUZTUDZmaGFyZHBza2I4RVlRR2pCenJQVV9NdVlxT3p6MG0zUkJOVll1WmJCZ29hQXc3WWEzaXZiQUJhUU1kV2o2MS1sSkFQelppdUtNQUk5X3hwT01rR1dEeGJkMzJZaXJOa3hOWGwxLW8tZzEwUElXM3FGbGVlNWRXR3M1eE9QUDlmaXI5a2sxcmdwMmJ5RTFsR1RaTHhBdXl6QjB1dlRaRXFMVkxQS2U0dGs?oc=5",
+      "published": "2026-08-09T14:34:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "El-Sayed: Democrats have 'good-faith differences... but this is the time for us to come together’",
+      "summary": "El-Sayed: Democrats have 'good-faith differences... but this is the time for us to come together’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0psQTVtRUk3aXl5YmxPM0RzdnlwX0ozQy1SbnVFb2xvVVk3NUVXdDh3STBKNmNudndhSDktVHN3dTJtTURGY2N4WWNuckhrUnpYLU5seXZBNXo4WGtNd3hCSjdXVW9FZWt1ZUM5MTl4Wm5WZXZaWi1xd2VYeWZjYQ?oc=5",
+      "published": "2026-08-09T14:28:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Tales from Gay Talese",
+      "summary": "Tales from Gay Talese CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53bFBTU2xaUmlEVEdCbW9xM0NIQ2ZSNWdEZkpmNVdQRml4emlYLTRQV3MzU2xZRTc2WUJoREhHWllRZFFzeEVuZkstX2czRnkwLXl5dlRSNUFfRHdKSXFVQg?oc=5",
+      "published": "2026-08-09T14:23:38+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Rather than capitulating to the US, Iran toughens its demands over the vital Strait of Hormuz",
+      "summary": "Rather than capitulating to the US, Iran toughens its demands over the vital Strait of Hormuz CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9meGY5VUJUV2tUTy1QVHlJejNuQ3NGZVh2YVp2ZXVYMkU3a1hodmlNRGRtZjhZTkFNWjhYc254TE1nRzVwcXpPeU1DUHlEbURlUDd1dndqQ2lFcmttTGoyaWxQMldkNXlqd2VVMk9YblJFSElQdUtER0xxdVZ4QQ?oc=5",
+      "published": "2026-08-09T13:13:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "8/9: Sunday Morning",
+      "summary": "8/9: Sunday Morning CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15cnJQQXpXR2tocmZleG1sM1FhbEtUaW5zZWN1NGxNbWRNVUN5N1NjYkx1UXpoSFMyZURUSXNmTUp6bEZLOHVrbEVhWGtEMG1VOWxfTXBsYnBLdTNHRUtHOXhn?oc=5",
+      "published": "2026-08-09T13:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "NPR staffers recommend their favorite nonfiction books of the year so far",
+      "summary": "NPR staffers recommend their favorite nonfiction books of the year so far NPR",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWlwS3F6Q3U1R1RIOHRRRG4yMXB4a0ZwMVYwbDBQU2hVWE0xUzUxb3p3MmNKMjlwd2ROZmdEaWNqYUVSMExwY3ZPWWUwM094TlNGSkVRQVBaNlJUaXRWQTZ4MWNfMkhIYkdMVk9sX1Y0b3NZMTF1R3d2by1yUUhqMk5udzVBT0ZlWlRFM2tVZjVKQXRVVTNfOGRpYjVtSDFIcXNQS0ZIOGMxMlI4R0ZwY0cxLUpGbU9WT2c?oc=5",
+      "published": "2026-08-09T12:48:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+      "summary": "Top Wall Street analysts like these 3 stocks for their solid growth potential CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHlNWnpRVTlCRlYxdk00cHNXWjRiZW1qVjlpalg3ZlRwcXFMdWNhcGJ2Xy1FVWJhV2FVOWdzZlBnLUNnSmtmWU01SjVyR2xVSjFqWHZKTkI0bXljbm5Fa0hqdXEybkJhZ0M5ZkRqd0hZSHFDNEpzSEI5ck1QeGNOZGl0UFM5R0JsVk9mcnZiUW1BWjdRTi0zamxhWVNBOXhXRE9wSdIBqgFBVV95cUxNMlhFM2hrSWk1MnBjOW9fZTRpdnlnOUQ1NEJZMXplWjlfTnVHanFrbklKQ1JwZjFyWUZBUkxfS1hNMDFYellFcFVqMmlJZ1dTbWxVRF9tZ1BTQ0VTV3RndGJrb2x0Um9xZXFPenRVX3E0LXE5ejd4RU5TSV9sX1FyVGI5aElXTGp2OUNwS1R2dVgzY044d0lfZDFpNUJGNzctVEw2VEV6LXZ6QQ?oc=5",
+      "published": "2026-08-09T12:01:56+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
+      "published": "2026-08-09T11:31:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "summary": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazZuYlhScWdna0IzWTBUSzQzbG0tVFVHU2VyeFZmTDdVRmNvRS1uR24yamI0R2U0X0ZlX2dLMEYxMGRtclFXbEhNaVpYRDAzRGNqRDNaS01pQllHbWtGa3lSN2FXZVhWMVdFZGlsdFBZc2Y3REdHakF4SEVKNHFnVlF4Wm13eU9hQ2IzRFVncEZqemJhUVNCMVV2eGhHUdIBowFBVV95cUxOWXpUWkE5VlRXTG1NMFdBRTZjVGVDc0FlbUU4SGs0bmIxVno3VmpqdHNUa2N5ZGhHcHlMWmVxUmgwZE1vVTh1N2NLSVFDV3dPdS1Rdmk0TzMybk91OHFHV1FjSXR6bTV0WDBmWjVZTmI4ZmRNVlJnUzVxZjRVQUtZLUI5NGU4amQ4UVhSUGl5eERUOVo2UUU4VUY3bXEtYmFhNVVj?oc=5",
+      "published": "2026-08-09T11:23:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | BTS’s Grammys Boycott Highlights the Perils of Pop Music",
+      "summary": "Opinion | BTS’s Grammys Boycott Highlights the Perils of Pop Music The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjQxV1VZazJxRkdJTGRXQ3lyUC1yS2cyc0tGTkx0S3FxbEM4R0JfZVpIeU1ObmZsMmNRcktkdExPbzNIMnNlX0I5WUthSW1CeTcyaU54MUVMNlluWWd5UE8yQzA5SmFMLUwxaVFCT3BQY1Exc0ZEQ1FpTjBhZDJMVU5B?oc=5",
+      "published": "2026-08-09T10:00:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Therapy Needs to Get Help",
+      "summary": "Opinion | Therapy Needs to Get Help The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajFvbkw4eEkxMGtFb2J1SzV6VnRHZlBONldGRmJFeXNFTXUxeVVzRWxaS1NKTjUtVzVFN0V0dXliNEdpaGJVLUgtN25wSlNhZktwZzBNUlZIbG1TVngzc19mV01jbWxreHZCX3JiV0lxLTR1bDFFb1NkR2g5QVZGdXNzRzdQdw?oc=5",
+      "published": "2026-08-09T10:00:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Hunter Biden says his father's cancer has spread: \"It's very painful and it's very debilitating\"",
+      "summary": "Hunter Biden says his father's cancer has spread: \"It's very painful and it's very debilitating\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFl6T1hKeGw2SVFxa1pkZl94cjVJbUZwQko5OC1pM2N0T1dVaHNPTmNuM0M5LVJJVmh5eUNtc1NzbEpFRFJmLXlqZkFTTFVTVXNWUFN6YkVQUERRLU5uU19tU2hpeFp0RmFyb2hnWDlhQVNyVm9ueUltUmFzOG9uYg?oc=5",
+      "published": "2026-08-09T01:19:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Meet the man circumnavigating the Arctic Ocean, alone",
+      "summary": "Meet the man circumnavigating the Arctic Ocean, alone NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMENGOXNLazZ2TE43dWRxSHR3WDZXQjlXTlZCZlZhbzJ6YkRwU09sNG1ZTE5MZEFub3M2VmpGSW5vYjgzaFpSeGYtM2xnMDRnek4wdThGTUtqTmpWYzdGTGZiNEZuR1JGNkFZY2dBZVFqRlZKYzBPQS1ybmJEbmNCc1FoMEtPdGhaWGItZG5MSjZDRFJUVHJpYXV5UDdua1UwNFJXNVFFMmd4OGs?oc=5",
+      "published": "2026-08-08T21:30:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68",
+      "summary": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68 nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzRaTlM4aG9HZDhNNUFCTjI0d2tsNC1pbGctcnUycVp3R0huWlBkOWp1SDQ4TFE1TVlkaldIU0I0ejBqYWREdXYwc2ZVQnFCcU1DYUtCYURMUTdVMXZXSkNJN2NLU1FYTzRKVVR1b0RxSmtJeS1yNEkyNVJpZ3dFeWQ3WHhKcTg3S2VJNXdFOFMxVDhuVWVjNkhYLXA3ekNHUWc?oc=5",
+      "published": "2026-08-08T21:16:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Levi Conely’s spread, Sawyer Hemsley’s suit, & Justin Sylvester’s drink",
+      "summary": "Levi Conely’s spread, Sawyer Hemsley’s suit, & Justin Sylvester’s drink Queerty",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNEJ5RXF6aXZxcm5fM0dGN3htQVdxZzBubEhzaDd2SjAzU2JuOFVhZzVidHdfNWdrUUdBQkwzQ2tTVnQ1QlVSTmFwNlNtZzdnek83MDAzN2NlallNTWxVZzdsTklRa0I0TWhFUWhLR2tTdGYzMzV2MWc1bmxRYlVjdG01SE1hRlFZb3ZtRnZGbWtjek9uTExtZmNvcXNwQW8?oc=5",
+      "published": "2026-08-08T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "summary": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0Z6VE9zOTlXc2VKSUt0MU9fMDVneXJVN2d5bTVVdDNsT1dSZnNscEhZSXc4SkpQd1JwaTlFajA4T1Q2dG1LekRpa3VGblNJM2RnVVg0SUV6dFdTd0Y3UFg0QWctQ0ZhUkRfQk92MkpaTDF5WFV3aTJyRlB6a3VPdGFxY2tUbmNKa2J4bUNjQQ?oc=5",
+      "published": "2026-08-08T14:55:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Court of Common Pleas judge sides with Westmoreland DA to close New Kensington Elks Lodge",
+      "summary": "Court of Common Pleas judge sides with Westmoreland DA to close New Kensington Elks Lodge CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLV81cWlHT3FUQlM1YXV3VkpWa05zY1MxQWM5VUs3Q2thR0hyY0dhZE12ZEQ2UE5KMGhvTFJPbTYtcHkybnpPWFdmYW5oWEZ2UU5scnQ4aE9Kc2IzWmUyS3VWMTBlNVEtM1hDeWVxM1dxU2dlWVhpT19YUDhyVzFoSFROaWVGSHlvMGVlb0lMQTlIdw?oc=5",
+      "published": "2026-08-08T14:44:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "summary": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUVXaVpmeE9NWWMyRldDZzJucnRjREZvaXZacWtxb3dxN2k5Z1lfdWI5QXJudlhhQS1xQ09Qb0plTkNqNnJPcGFtU3dXUjg0c2xOUmpxc296am9fZ2phcV9OSjczMVV1TjRuS2FPTFNEOExTcU1HbTZzbU9FMUxqMDNkNEppMnVqdU05cnEwY2lvdkU0cjEyUXZZVm1PdEtIdGNnb0F1R1ZOaWxfODd2b1BGOUFHOEtFSUg5V0dESGlwQjRv?oc=5",
+      "published": "2026-08-08T11:46:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: University of California calls on Congress to help free up research grants",
+      "summary": "UPDATE: University of California calls on Congress to help free up research grants EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFRmdVZRWUJCblQwSnFXY0tkbUUtVTBmeTBRQnNZXzJ2SGJFUXBsVDdKR1dsVjd3V2JnSkRYNmMzZ1FzRHlxVU4wek9NTVhHajE1amZKNW9rN2JHcHBsd196SkxIUUNXdHlkb0xPZE8yQ0NUYmFrQjlpUkllRGRfNUJXaURITmhG?oc=5",
+      "published": "2026-08-07T22:49:11+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "The internet is convinced Trump has started wearing a wig",
+      "summary": "The internet is convinced Trump has started wearing a wig LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkhfN0lqc1VKYjBXZ0ZxOU5kTFh3OHAxT2NuLVFxQWZyZDJKNFczbHUzaWRtSEpUWThFTGNsNkFQSzRrSmtabkR0V3BIRHBDcDNaaTZaMG4xSWZLZ3ZURnBvRkJfUzhmR2hhM3Y2MTl4MHBOMFlib2pBZHM5ZlE5a1AzR285YTJLNmFsU0prT29aQQ?oc=5",
+      "published": "2026-08-07T21:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "What is ‘Linguistic’ Phonics and Why Are Some Schools Adopting It?",
+      "summary": "What is ‘Linguistic’ Phonics and Why Are Some Schools Adopting It? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmtpb1ZFcEVqQ0t6N3dqU2o2QXlhOWZYMkE2MVNNUm05ZlN5UXIxZzd1TlN2eVhBNVdmdVJaeTd4T2xRWldoZVlLWm85TGdHaG9PUE5sYkZia0VYRmRPX2swMUVMcGdta09GVHRXVGtWejhWeno1M1lVYlFDTWJheUlwUnFXM2czLVNSMlVpYlY5bzd6Qzd0MWl0OTZtU0JRQXRXMXlmWEVzc2FqekZaLUF3?oc=5",
+      "published": "2026-08-07T21:12:59+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media",
+      "summary": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODA2RDZkb1dxcy1hUFltZDFyYnlkRXd5RVRjdWY1dEZ1UExWOGJPMmdIS0xXdmRqT2stVkZWMzFRWTdwNzVJUy1ldXBOb21FVU9HRGxQR3ZBOVZ4LTZwNXdJb3FTOHFadkNTSlhB?oc=5",
+      "published": "2026-08-07T20:34:44+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Students Created a National AI Policy Framework. Here’s What It Includes",
+      "summary": "Students Created a National AI Policy Framework. Here’s What It Includes Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTJTM3ZTM0N4RjVPRHFJTERNa1hQcWhzVl9Wa08xeEtRTzdYUjBFLW5ueEJTWGRiRWR0NjRJV1RMT3FtNmJ4WG1GMTJ1WFNrUUgzNC1zZTJkeXBlbXRYUF9vVnRNUlhuV0hhMTQ3T2FKNnlsVlpOQ05xRVJ3MVJCa2owdDA5U0IxMHVzejI3OUxMX2toMHoxazFvYlhuelpqM3VIYk9zTF9lY3dyREJ4a09B?oc=5",
+      "published": "2026-08-07T20:12:45+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "A rabidly anti-LGBTQ, Trump-endorsed, MAGA congressman just lost his re-election bid",
+      "summary": "A rabidly anti-LGBTQ, Trump-endorsed, MAGA congressman just lost his re-election bid LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZUM1aDFLNGRXWUZlemMyQ0FTZ3EwSUVBVG9vY2tkN0ZwalV4RmhLY2FfQnB5SXhPVy0zQ0pDY0M2QVVNbDVVeTZaZTQxNjdkbDIxVmg5V2VLX0tiUDYwZm9aQk1aUDhXSHNzRGZBYnl1Sks0SUd5QTdJVVpZZUl6el9wXzl4NGdpRVplQUZsSkpZLVdzQnp4WGlEZmkzLWtiUjQ0MUNtanF6VmhT?oc=5",
+      "published": "2026-08-07T19:03:04+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Bill to amend California arts education law faces new opponent: former LAUSD Supt. Beutner",
+      "summary": "Bill to amend California arts education law faces new opponent: former LAUSD Supt. Beutner EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenRJSDFYNlh1RlI0RXZ4ODJDYjJsWmhRX2dXZTltazVHX3NiOWRhRkhEczNMQ2wzZFZBa3BITEtnUkRPaTJ6S0s3NXYzRnlTSFVCN3pJUVRnaWRYZ1lTeTd0LXBGNHVybkhrUzRRaGN0MlQtRUU3NEV5REFDeXVvWnNJOXZrTy1mVXlhOEIzYlM1S09FTk5FS2VxQ2RHUTBmdUNURU4wWERNb1EzTFlpZE1CLU9xdEdZbE50bTdqb0pGbTJSdDhJbdIBigNBVV95cUxOenpfR2lsQnEyM3hHSnN5bThLY3hndDlZRWZlaG5KSG00dWlpODRWYWFqR2EwVm5xam9kTk1CWkliQnVtWlZpeFdLakc2VkQ0THdBTHZLNFI0X2o1WUgySzJja2pXazhab29HN2FtMkpPQ3BVMzhyczgxVGZiSEltSmt6VWYtV0ZjTEZqbUxiM1VvdGtUOGMxY3JmRzhsa19oMm9vaUpJaUE1Rm5IdUVWM3lNNmV1Qlh1TXo1NXE2RHppcFhCczZLbE9jVk5TaFUyT09PYTlPTWFCdkgxeFNXTHhJMmc5VWVaWWJSVmxmYTZtYlRhV3VDSExUUnhHSHJQZUlhak1ZSmZQVEZjeU9FUHptUS1mUGlreFhTSE1PcWdneFV0Wm8zcnlzZTVyaExxQWJ4OTYtYlJkRno0cTZvTG5iSWZFcmJtZG9kazAyd2lORzRPaFU0QW1wTHExeTFZZmZoaE44TG54LWppODNRRmdidUZpQXI2QldFY29nQzFFY2pBaTV4Z2lB?oc=5",
+      "published": "2026-08-07T18:43:09+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Parents of trans kids warned UK’s govt about new school policy. They were ignored.",
+      "summary": "Parents of trans kids warned UK’s govt about new school policy. They were ignored. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWThXV3pYbzlVWUN0SnJmaGh2QjhFQzJPbmROT2prQlJKSXYzbjlWdDlUWVFyVDkzOUxTT0pDSjJzZk83eFZEV2t1ejVKRHRGVUplNjVXczh5dkgwa0FYOGc0TUJwMXFRZjRGUDBJYnBMYTNjN2RzcWpDV1NqNnhMelRyVkFLam1BMFRYUVNObC13TGllTDNhajJFOEtyOWtTV1k3MlZOVEpkM0pnWllOY0ZGTV9DXzA?oc=5",
+      "published": "2026-08-07T18:30:00+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    }
+  ]
 }
