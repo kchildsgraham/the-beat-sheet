@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T04:49:33.637324+00:00",
+  "updated_at": "2026-08-09T07:58:06.360674+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump has squandered Republicans’ typical advantages in 2 key areas",
+      "summary": "Trump has squandered Republicans’ typical advantages in 2 key areas CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDdYeFJ5UWc3V3RBR0JhRlIwUi1ySWhmSmlWbEc3eDBFOHFraFUxaTVEZUROMnFWSWRzUElVTnVWWU80d0ZKanBqcW1ZZ2hzYUJFMFROR09weklYdUdyaXlURDBiZU9RS0NpRkFaN2JNakJnbVoyWVl0QlBLeDhCUUlR?oc=5",
+      "published": "2026-08-09T04:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -27,6 +39,18 @@
       "summary": "Solar eclipse to occur next week. Here is what to know NPR",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HV0hSVER2N1c2bjNqTmNyVzlQMG9yMUpSekJsQm9QaHZJZVlxOFhrS2tqWXVEdnBNUXlmTjhyWk4yOTRYYnNOVEZvcG15WXhKb1dJaUNmS0F6ZmdUNWcwYUpSdTQtYjQtREdLeHBBSWJydFpHN3pMZWVR?oc=5",
       "published": "2026-08-09T00:56:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "ICE says it expects to equip every field officer with body cameras by the end of August",
+      "summary": "ICE says it expects to equip every field officer with body cameras by the end of August CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wOG51NU1xY3BJdUVJS2dxdTI0c0dEWmV5RUpmVkY3Y1pvOGl2ZEFDZHRjaXctX3FIXzdMXzBlZy1vaVJwZVRVd25weUc3RFBjZGotdkkxdVpMcmpoY2llOWFDR1MybE1WTlY4?oc=5",
+      "published": "2026-08-08T23:50:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,15 +68,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "A fast-moving wildfire forces more than 20,000 people to evacuate in western Canada",
-      "summary": "A fast-moving wildfire forces more than 20,000 people to evacuate in western Canada CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRmWkk4SlZOSnR6MGY5MFc3cGRQNXNic2M1X3NwUGtycXNoVnVxczFKUmxCWkZiS1VCRTYyb01malhTQ3FmRWl4UHJscWdSWnIyNkg3dTNmczRFTzNueXRQX0FuRXBrRUN0T2RSUmIwTmxueTdockhzQ2tMSzRVV0FhYVFndjRXR2hVNGlZbVRraFNqWkFzUXJCQQ?oc=5",
-      "published": "2026-08-08T19:27:21+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Actor exits Broadway show after resurfaced videos show him mocking trans people",
+      "summary": "Actor exits Broadway show after resurfaced videos show him mocking trans people LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUDl5TV94S3BfYkVLRkFLb2dzRlJ0X21vVFV4ZjZmSHgtZTFxbG4zcDFqeUVhb2hwTFR4TFZRbVdLa0piSXY5bnQ5d2pLNGYyQTJNaGRtUmw2NVZxeUhxQnlURjV6bjdFTjJsdzFjdFNUS2ZvdC1BQ1lHWjR3Q29FUmZjUm5jUWJyQ0d6ZkJwMWJoelNaUlVnajFXR2gwdkxhRWliSVZkLUFaZm5zYmpyNVVlOGQxdzg?oc=5",
+      "published": "2026-08-08T19:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -65,18 +89,6 @@
       "published": "2026-08-08T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "UEFA confirms payout to ex-employee under Infantino, amid denials of an affair",
-      "summary": "UEFA confirms payout to ex-employee under Infantino, amid denials of an affair CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmdLUFh6UDl5UjhPaVNzOFhGTzlobVM1X2o3YXlySXAxMi1rMWFHYU91WTF5d0FhNHJxdERJM1NRZHZ2VE9UM0xyNjNhVDQ5NEktQ2FxckVtZUs4cFppbnE1ay05Y29ESk04bTIyQ05qazF0RHNCdkJaTnd6U2d1QXhOcw?oc=5",
-      "published": "2026-08-08T17:46:44+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -97,7 +109,7 @@
       "lane": "General",
       "title": "Joe Biden’s prostate cancer getting worse, Hunter Biden says",
       "summary": "Joe Biden’s prostate cancer getting worse, Hunter Biden says CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUxQNTIteDFTQ0l5WTZVN084cFk4SENaeF9WeEdGNmU3X1R0NXE0Zy0zUVRETjNyRV9wajFEV0lJM05ZR1doQm1Ubk5DUERvUFRTeUhFZHdIZmF1VEZCSmdFYl9FYmhzb2kwNlBhd0w2STd3OFIzbnc2ck5EV2MzcUNJU1Q?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGEtM0NmSW1nRmo2bTR6MGdMRUMyUmtFbEJrV2p6Y3g0Y3h0NUdZdl9wazlGUVAyYzJNQ010NWk2VmZJSk1USzBVc0h2QVladU8teGt1eWlMZ0gxdmxFUVlLQjQ3UVBVQzBkMEtSc2ozaUdrdnJHY1lSd0twOHk5Y290S3BvRk1ObkE?oc=5",
       "published": "2026-08-08T17:32:12+00:00",
       "beats": [
         "Politics"
@@ -116,6 +128,18 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+      "summary": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0tDd3NDQjltR3FQR0twN0dKVWZTX2hNR0JPdFZUcldjcmhiMnNPNEZNTElMR1YzamRVUE9ueDFNTTNsLUNoRU5taWJTSmxPdTc1X1R4MlJDNWpnbjZCcWhDOERfbWU4YXB1T2RtQ1VWcVlIQVRJTEVhWkRPRmdoWEpQUlV6UmJtLVp2a0M3WU9pM2QzaXM3SUVXM0hQbHBFM1N6TmNJcFjSAa4BQVVfeXFMTUxYQVE4ejBVTV9Yb2tZQ3VQRTF0eEc3S0piWXh0QUhtSUIyakdjX1VRNXZtR3RTOFhYN1FPZVF1b1d2WWhNWnJWVlNiWWNObFBUdnU1RWtfNGVUWmJ1bGFRZ0tYQVFWR3ByNDVTTDdZdFlrNmNKTUY5SDFHSXI0cGxYNWh6UzY5S3o3U0M3eWo3dGRfQ3lleklyejllbm11VC1Bb2RxbC1FNkpDdURn?oc=5",
+      "published": "2026-08-08T15:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -128,18 +152,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-      "summary": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHbnpLdVRpazZRcmRWLXY2OEZSUHlIbldHLVhNWENqc2tvWmZoUFUtYmxSZFRkTjBlb2hRLVM2ZHdPMUpFcFFfVmFJd3VNcjUwdXZZQnJkMERLakFsSEYzdlZtdTVXZzloMlkzT3pGeUlqMXI3NUZZRDEyMFnSAYIBQVVfeXFMTm9vV2RzSWRXVHg5ZG9QazVCTnZPWTRuX2JZekppM0J3aFNyM1B1WGZOek4telh1d0Y4MFN1TjJsWENsOURNaDE2TGgzTklOeHhaeUx0OExZM0JYSTYtRWtUUkJmc00tR1pYSlVTT1RuNG9aVEl4Z1poVEU1LXcwclpTQQ?oc=5",
-      "published": "2026-08-08T13:20:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -147,6 +159,18 @@
       "summary": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty NBC News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUVXaVpmeE9NWWMyRldDZzJucnRjREZvaXZacWtxb3dxN2k5Z1lfdWI5QXJudlhhQS1xQ09Qb0plTkNqNnJPcGFtU3dXUjg0c2xOUmpxc296am9fZ2phcV9OSjczMVV1TjRuS2FPTFNEOExTcU1HbTZzbU9FMUxqMDNkNEppMnVqdU05cnEwY2lvdkU0cjEyUXZZVm1PdEtIdGNnb0F1R1ZOaWxfODd2b1BGOUFHOEtFSUg5V0dESGlwQjRv?oc=5",
       "published": "2026-08-08T11:46:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | ‘Cats: The Jellicle Ball’ Is Not What’s Wrong With Broadway",
+      "summary": "Opinion | ‘Cats: The Jellicle Ball’ Is Not What’s Wrong With Broadway The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWtRVF9BMEsweUhzUjhlS0xJR1FVVGRxVldsRENEUm8zRVhjX0JKV0FrVkFKLUlDWjZjSGlKUWdCWjFaMWhwekgwdnpZOTlBQm9URllHZWpCa1JsYV81UHFRSzYxaDVOZ1J4Tko5djRub3FCTkZrcHBDMEptczFfSDM0RzZuTFYzVUpYa3RBWnQ0M1ZoMTVF?oc=5",
+      "published": "2026-08-08T11:00:14+00:00",
       "beats": [
         "Politics"
       ]
@@ -247,19 +271,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "A rabidly anti-LGBTQ, Trump-endorsed, MAGA congressman just lost his re-election bid",
-      "summary": "A rabidly anti-LGBTQ, Trump-endorsed, MAGA congressman just lost his re-election bid LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZUM1aDFLNGRXWUZlemMyQ0FTZ3EwSUVBVG9vY2tkN0ZwalV4RmhLY2FfQnB5SXhPVy0zQ0pDY0M2QVVNbDVVeTZaZTQxNjdkbDIxVmg5V2VLX0tiUDYwZm9aQk1aUDhXSHNzRGZBYnl1Sks0SUd5QTdJVVpZZUl6el9wXzl4NGdpRVplQUZsSkpZLVdzQnp4WGlEZmkzLWtiUjQ0MUNtanF6VmhT?oc=5",
-      "published": "2026-08-07T19:03:04+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
@@ -372,18 +383,6 @@
       "beats": [
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | A Generation on Antidepressants Searches for the Exit",
-      "summary": "Opinion | A Generation on Antidepressants Searches for the Exit The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVJZVy1HQ2o1a3Q0SVFKUWMtQzcwUUdDUWxxS0w3MU84dWJ4cWx6aGZUZWZxM00yWS1sRmtVY2xsT084blNsdlhTWW1mc3pHNU1oekwzNVNnUjFuS1g5aC1McHRmdHVOSXcxV2RjdnJ3VXRKR0VRX245b20zanB0bzlpYlVybWI5bzZmbUh6OUZ1enBPNXN1dQ?oc=5",
-      "published": "2026-08-07T09:01:54+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
