@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T10:04:19.699039+00:00",
+  "updated_at": "2026-08-10T14:35:59.908253+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,85 @@
   "errors": [],
   "stories": [
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week in Review: McMahon touts special education interagency agreement",
+      "summary": "Week in Review: McMahon touts special education interagency agreement K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aWlYzT1M2ZlMybmxmdEJFb3RGUWtqYWxqc19Mb2JhTDA2ay10QkhUYmI3ZWtRclpsX19wcWVUdDJJczgtSFdKeXY0SWJzM0ZPMFB3clNIcE9vZEVEUzU2WjV1QlIzVTV6NjdBNTJjckVMY1B0?oc=5",
+      "published": "2026-08-10T13:18:45+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Powerful earthquake sparks evacuations in Colombia",
+      "summary": "Powerful earthquake sparks evacuations in Colombia CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wTlltRmU0bFhjMll6cVdXSzYzMDRydV82Z3VpNHZCaGFHLVo0TWY4dDFTRnUwNnBneE13WWJoRjdXZHptaWx3TTBUWFZ4XzJxQlprWTR5aFB6b2RoSnhuQVBBVHJseGpPempKeXJrakRjZw?oc=5",
+      "published": "2026-08-10T13:14:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Magnitude 7.4 quake on Colombia's Pacific coast causes serious injuries and damage",
+      "summary": "Magnitude 7.4 quake on Colombia's Pacific coast causes serious injuries and damage CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHhiVnExaFF0SnpUeUJqSnNWQkxOelhWXzg0ZnRkRXR6WEZHNHZwLUZIR2pSMUFRZHpuMF9OaEd3VXVXYkw5SEJyZ1VvNFlERnhHTmhIZ3dTMlFmcVp6SXBlazAxdkZHVUt2by1RVnE2UjVZUFdqTXlEdVVWQlFnYkVhNG1LQ0tGVEF3RXJiMV9Fa2fSAZgBQVVfeXFMT3RRX2VUYVE3djFQREtnR090eXpVRGFwY1YtSExMaFBxa0dKQ1IyQVk5TkxudFVZUVZFS214NXZyN0xIbVV1YUZqblEyYTBpOFRIa3U0OEFsM2dLcWYyeEF4X01ISUE0MTV4WHlIY3JaSUMyYkNRdVg3VHB6YS1OTEttU1dOS1R1MlFKSDQ5SjJLY19ySnk3T20?oc=5",
+      "published": "2026-08-10T13:10:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Taylor Farms recalls jalapeño products due to salmonella risk",
+      "summary": "Taylor Farms recalls jalapeño products due to salmonella risk CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94QzZ1b1FJeWhWbHdEQTVRN1VFSlN4UnRxVFRUeDFPcWdqdVhJcFRRYXhPTkw3UG10bnl1X3NSTVlmbEgzeWJxWmsybkVvZzBnTVl3QVgwWW1DaFl1TExwcXFmVWJpcVo0cGVuaEZKdzh4eGM4elU1Vk1R?oc=5",
+      "published": "2026-08-10T13:02:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+      "summary": "Intel plans $15 billion stock offering as AI demand accelerates CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wLUxnRncxa2pNdGoxaFhBVnZzNU40Qks5MDFnSFJ5eHAzdWo0RGluXzctenFpbmREckVJQkFhTHJMREdNbnZaeDNtYnNDQnBxckd3bGZ2Qm1xbU9ZaW01bkQwNnRvdUFRUUVjYXpyT2JxSjjSAXhBVV95cUxOUFZTSFNOX3hPb2lHTzhMMXdESmV6anV2SlNObC1wZmNDM3RmUmtVdXdfMmpETzkxTmVROG5Idy00V1Q1UEt4b1VEaS1aZEdRRXBYNmZKbGotSU0yNkNPMDJZcHZsU29zMTdWekNHSUNWT2lBellmMlc?oc=5",
+      "published": "2026-08-10T12:49:52+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
-      "summary": "The FAA wants to reboot the nation's airspace. This airline shows how it might work NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1hieEZ0UFdKN19RSWZoZnRpaThnWVhsRHNuUnJYQjAwd20zUW5Ib09MNlZMSGxxU2hwN3BQbW5GanZ4UVhza0hERDBGWUpiamxMSzlnMzNROWdLUDh6QkJVdlhmeTBfLVhybVB0VUxOTVAwdlpWV3k2bjU4N1lQMzhTZnp2YU9HMER2ZQ?oc=5",
-      "published": "2026-08-10T09:00:00+00:00",
+      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+      "summary": "Flood death toll in India's Assam reaches 100 as thousands lose their homes NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0E1YXZDSFF3THBBMlRKX2tOdk50aHkyY0pfYmlwNzltc1BIVG9iaVlIVWJZS3U3RXR2ejVaaUZBc25ZZ3VfdzBrQUV0akpWTU1aSUVIaE5adkNvSHQ2aHlLR3d0VklRTk40WVp3eWxIYmlLZl9MdHFKX21HV1pCdGRtdWIzWkg2enY3b3duaXRNZnJvZUI4TFFUWXIzSGxkQTh2cHJBTThPZTNBaTB5M19UUENHeWFz?oc=5",
+      "published": "2026-08-10T12:39:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
+      "summary": "Boeing sells eVTOL subsidiaries, takes stake in Archer CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVWFVVjZ0UFMxbU9yaWdySEhOM3Y2OTQ5WTU2RTAwc21QVWRoWVg3Nl9nLWdCcTFoamdUVkhFQnJibVhsc3o3ZGd0bldBdW0yMFUyWF9haG5MMGRHR2l4ZGgzYnFzdzl0dWZRazJoY9IBdEFVX3lxTE1GRTFEVF9JVGlDeWlheC02X1ZJYnJoUURvUE5CeXJ4czljMU5taGlGMGpDWEZrYXZKUFhUQ29BTng2QmdOa2podWYtcmlkalJ5TDR5ZE9aVXMwNkFkdGtLYlM0V255cVlldXlWaHZiN2VlUFBY?oc=5",
+      "published": "2026-08-10T12:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,20 +107,57 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-      "summary": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2RvY0RzMVpvMzl4UjJfR3BOcUo4aEJrT0N2NmYxVlc3QV95QXVxa0ZSQ3I2MVNDa1Y2REhQcVo3RFppZ0pYU0VKeFQwNGFCYTRvWThVbkhxejVXNVpYd1lTdUp1OFloMDhfbFBjRk9WNFVVakZDclNlRVlwSC1lYU03Rm11cG5jY0Z2TTE1Yw?oc=5",
-      "published": "2026-08-10T09:00:00+00:00",
+      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+      "summary": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms NPR",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMkIySk5oSndnTzJxZGhwbnFTazRldGNHWVF2clRJOGpCS0p2Q2xteXU2dEhuSGxDcERMNmNzNmotSFNjaVlDMGNQbTJfMks0MjV3ek9JQ3J1TndoOWtuVE5wRFpEZVhJMkpBYTBXTGJvUDExaUw4ek9Sdzc2SndoRG4xWFFHS1RZNXpNcnBfTG1FdlVHSUxHLUREaW9FWF9yWFdMaEN1NS1tQkhMTU1BZUVOVDJWVVJuOGVMQ0p1YmhlM19VaVhkQkUxQTQ?oc=5",
+      "published": "2026-08-10T11:42:58+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Market your school effectively: Know your educational landscape",
+      "summary": "Market your school effectively: Know your educational landscape K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmlNRkZuTGNRbXFfOTJwZ25pa0h6dDVnaFNsYlp5anZtU3FxTlVtNlJpSm5YVG5qNGFEVVVCbG5tREdUSlVMVUotMkpzS3otdm92cTR0bktKUVN4Q3VkUF9GNU5xeUt4Z0ZZZjFwX05NSGZnMUZhc1NubG5nYmIweXlmeU9PN2hXSjJQWlpuMC1iVXlGX1g3T1YzaVQ1RFo2Q09PLQ?oc=5",
+      "published": "2026-08-10T11:30:53+00:00",
+      "beats": [
+        "Business",
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Alaska Airlines flight forced to lockdown cockpit over passenger threats",
+      "summary": "Alaska Airlines flight forced to lockdown cockpit over passenger threats CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVJpOVJRV1pORTUtd0s3ZUN3WEoxcHpJWlJTVndEQXduU01YNVp2VWYwV1BOOWJ6Y3Nxc0NfTEdEXzJCZ2REWVZ6N0NXa180cjc4bE8wZnUyNXhMcmtocUxwR05vSWpya094LVpyZW5PRzZIUHFhTU1rYk1zOGZTTkpn?oc=5",
+      "published": "2026-08-10T10:44:56+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Fires, floods and more: Severe weather impacts millions of students",
+      "summary": "Fires, floods and more: Severe weather impacts millions of students K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONlJzd29Rc3Q4Z3hicldOOHpwSlBwUDgtZDVWSm40ZHBVSjRLNENJZE01OFFLdUQ2cldyM2M3TURXLTVUb2c4RHVDZ0kzQUtibTZXTEozN2tnT00zdlRNYTBhZW9RNDByVXBjOHdLR3BRcDJ2MkZ3WEk2OVdramFZdG9Nekl4UmpyLXE4M0JlOVhqblMtTDQteDF6NUpuTTBrMHNSdE80b3poMjJCLVFnc19yZU1iQQ?oc=5",
+      "published": "2026-08-10T10:07:11+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-      "summary": "Voters are sick of the two-party system. A new poll shows they're open to big changes NPR",
+      "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
+      "summary": "Voters are sick of the 2-party system. A new poll shows they're open to big changes NPR",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGhNVHA4aF95Z1IwMjlscGkzdjNOX0tlcGFDblExa0xaaXpOSUQ4Q3hKMXhDMUxId0YwZUJoQU9fcENLZmI4MkMyWFd4dzk5aXVfanlBTG5EQXJQTi1rSmhCVTFzd0hZTHI5Y1MzRG95WDZpcEhCRVcyX1dWSTd5Vzd0Yw?oc=5",
       "published": "2026-08-10T09:00:00+00:00",
       "beats": [
@@ -68,51 +177,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Ukrainian drone strike kills 13 inside Russia, authorities say, in deadliest attack in two years",
-      "summary": "Ukrainian drone strike kills 13 inside Russia, authorities say, in deadliest attack in two years CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWpQaGJGQkk2UXZVcEVVbGtldDBFWTBtV2xYR2RFaTlWNDhRQXBYZVQ5MnpjZHVhQUtkaVliODBUS0tMSDd0U3hqVzdmVE1WTDZNclc5a0I1a2xWc1ltVlBOY3kwQ2FpMTZXU0VjTzZkQUVxdmVRdDZGS2g2ODZhVi1sZkJaQW5EZ1E?oc=5",
-      "published": "2026-08-10T07:40:28+00:00",
+      "title": "How well are California schools teaching students English?",
+      "summary": "How well are California schools teaching students English? EdSource",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd19Ec1RNODdkaV85cUZZSmhrOC0zaGNzdWVqTl9wUndralBpNlRFOFl6OUdqZ1VRMXpreFZLYWdkVlZMZEkzN0JZSERzamJadzJ0NUVVRjdCZVEzR1pkbUNCV2VNejA5OWhtNHhvblJYaHoyaHQyRFZmM09ubTI3N2wwUzBIOGotUTl5bUFZWWNiSWQw?oc=5",
+      "published": "2026-08-10T07:09:58+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Australian rare earth miner surges as much as 29% after U.S. Department of War investment",
-      "summary": "Australian rare earth miner surges as much as 29% after U.S. Department of War investment CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGVGS2dBMlJWYjJubVpwclctNWROM3JnYS05bTBEdUFQbUZpalR3M1duMWYzWk4wcFdjS25wSVpnTkRQNGdEVXAxdlFSNHU5Q1ZHOUtZMlRQd0NXakJtYkRIS3lDLU5YYWVEUWtGZGZlalJMVlFiQWhTRWN1OW5ZdTB2YkVvdGJz0gGOAUFVX3lxTFBUTjZMeUZjRG5tMTdmbUVMeC0zYkthbDN1aHZGaFZfT2UzRjk0V0c4bzJwUVVlZW9NbUpfQWNPSFU1ZENnaFpaNjlNSmR2MVlaRDJiLTlaU2lqUExjYmhBTU5WYXB6QXdKUThNbEhKUjY3QlZQTWRWME9EQjRENkxqcUxmY3RMYlFtQWxVc1E?oc=5",
-      "published": "2026-08-10T07:03:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Western Europe breaks temperature record in summer plagued by heatwaves and wildfires",
-      "summary": "Western Europe breaks temperature record in summer plagued by heatwaves and wildfires CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOZjVXejlNOGVNcnBpenpSU2s0c1EtNElXbTdac3NYM21QSU5Fc3FwdlNIaHBjdWcyeDFHbHJLSWx4bzNpc0JSaFhJbVh6YjNEZ0JuNngyZGs1MEUtU3FwVHpPRUhaTUIxUGpZbmVJT2ZIV0x4eU13QUYzejg?oc=5",
-      "published": "2026-08-10T06:11:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump says oil supermajors are making too much money. What will they do with it?",
-      "summary": "Trump says oil supermajors are making too much money. What will they do with it? CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MQWh5N19xYjhWMXZwbzVZb2FXamlZMU1ONDhSSGpmc3ZHcVV6dmxrOXFHSDZHd3NaaTd0MmtVTjRYeGtrT3dQY0lQenFqWjBYVVpaUlMtZHItU2RZMWh1T0NnU0tnSmdJWlRrTGQ5QVVQNzh3eU92T2hB0gF_QVVfeXFMTmV6UWlwdVotYnVuTG14eHlVck0zVFI3dUo5eHIxWl9ITGdsZjZkWlIwbF84M21yOUVmczJxZDA5cTdoRnFBY24zcHhTcENPX3ZRMVVjalAtMGV6alZQVGdrSXNuUjFBeTBNOGxjMlRsdkhuejBJMmlBRkhRQ3RsQQ?oc=5",
-      "published": "2026-08-10T05:00:02+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -122,45 +195,21 @@
       "title": "Schools are starting to limit screen time, and parents can too",
       "summary": "Schools are starting to limit screen time, and parents can too EdSource",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10d3U5d1R1LTVtSFRkNWVPQXJXRzFPZjVoZTJCS2dsaHd1MnU2QmlvVUs4QVRwWlhfYzBMaFN2bE90TlZyM0YwLWpTT3pneTROY0pGNk9SS3huMFFLaEZzQXdIQW5MekwzeC1tNzRZd0RpVzJITEU5WUN4eVrSAYQBQVVfeXFMUFBPV2hSSkItRURUX0R2RGRhemJKeXNac1hBUzFEZjZFRm9EMWJxcnJmRUk2M0o4djVnMnp1d0ZGZUVVeWVpdG0zMm1VT05xRVl1VXRRV0hEd3pUeFJVRk8wb2RISV8wVGxRLVh5SEF5QmlIalpHaFhRbWVQb3diVkd2UUx1?oc=5",
-      "published": "2026-08-10T04:31:06+00:00",
+      "published": "2026-08-10T05:25:10+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
-      "summary": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORnZkQ2Y1clBwaWMwOFZYa1BHb1pwOWxYNWhwbFJIc3BtR05fR2ozSkZfWkhld2huZktkWmFFaEJkSFVrZ1k5RE1kU1REWEFwTi1lMEoyeE4xQ1ItTmJVMzlqVU1SMGNhMWR2Q0tkOVh4ZVExdWpXTS1lRWR2TFdpWEk1bDNTaVBaMWc0LUJ1SDN1OUIy0gGaAUFVX3lxTE5PUWVhLWtoMEVPcmx0SE1aSEs3VjBUSGZCWEdWanNWOUFZNDZKLXF2TmN5Ty1lc0w2dnFvWTNDYTVJQ1E2UmFkWlduMFZnY0I4cnF0YXlGNDRhUXdFYkJ6WDZYWWJoc2gzNng0M3YtYnVsWFkzZmF6QjlycHcyb3VyeGxiVHhKWXFXd2RGVnRFQkVGa0RRdWRuN0E?oc=5",
-      "published": "2026-08-10T04:24:45+00:00",
+      "title": "Hawaii House Primary Election 2026 Live Results",
+      "summary": "Hawaii House Primary Election 2026 Live Results NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDlyWmJSUW0yR0ZFNk1lSHlLWVNzUDQ0dnJvX1o4NVhIV0RzSjNpUjFHU3RJNTZJRjV1SndNRE9qWlQ5TmtPZU52QWxDOHFfa0RjUWRTblgtV3kyTlpjLVQzVkZGYWRJcVJqaFIyLXJzRjViVU1iRF9iZkJsZkNjMFdB?oc=5",
+      "published": "2026-08-09T20:17:28+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "He Transformed His Spanish Hometown. Did He Also Spoil It?",
-      "summary": "He Transformed His Spanish Hometown. Did He Also Spoil It? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaTByU3d3cloyV0g1YnJSRjBYWGRjamt1WlNHeG1VV2dOUHBUd3NrX3UwQnZ0NERxR2xQUjZJQlNfSlM2Mzcyc05kWGpPMGQ2YjhNcVNTbDBsOVNTSy1pZnc4ekJyUzNFUUtrREJLOFJBMWVta2dqV1A2WTBzVXotcHlkN2VZZmV3Z2hfenVNYndEZ1ppRnNkOWhWQmE?oc=5",
-      "published": "2026-08-10T04:01:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump has a Carter-style Iran problem as the economy drags before the midterms",
-      "summary": "Trump has a Carter-style Iran problem as the economy drags before the midterms CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXRBbHNDbllGSkFuRFcwalo4TEl5UUhMQVgtQ3dtRkJvbTVmS0RMZHFNeGpzQnFQVHVNSUt0YjdLdXBhLVhfakY4dzlRNlR4MDkwVmR1OGJxYWlLUEVuckR4eXhZUjhob2ZJckUxNl9qSEZXaDc3eHFmOEdQR0oxTjZPNkoyNnBZc2JseA?oc=5",
-      "published": "2026-08-10T04:00:29+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -168,21 +217,9 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Rosie O’Donnell tells off Jesse Watters after his crew accosts her: “Stay out of my orbit”",
-      "summary": "Rosie O’Donnell tells off Jesse Watters after his crew accosts her: “Stay out of my orbit” Queerty",
+      "summary": "Rosie O’Donnell tells off Jesse Watters after his crew accosts her: “Stay out of my orbit” queerty.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHBjVXZIejNPS0N4dnY1Qmd3STRWaFdkZ3p3cmdzUlBYRWNUcGJyRHZKaUFHT202aWIzRFRwSS1xYnJoRi1sVW5rdFM4Tl80LUFWWlVMcGpUaDA0Q2dOTXpDbVJXMkhacnRiWUVzZHg1eUhMZkh5UmM3Y09xdlNiOWVVaUxhdG1iaWx4QWVtRDRJNTZtOVhpN1ZxQXVjUWsybWNod1Qzek9iS2F0S1hjemgxMUtPcXpSRk55cw?oc=5",
       "published": "2026-08-09T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Bowen Yang will make history with his Broadway debut in \"Oh, Mary!\"",
-      "summary": "Bowen Yang will make history with his Broadway debut in \"Oh, Mary!\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzJTMkVETGxaMGxxTkVXLXk2TTF6dlVaVktyMEJtX3MyMFdfR0dUV2hiNW9oa0pLOGdSSmE0VHplTS05ODZhV0VUbWRSRVN2Smd1LTBPeTdoU0FPYnFmakVhczUxc3U3OXJQbWc4T0pVRlpKSGM2TnVtUWtuZUkwOGJsWE8xMUZ2UkpIeHdVT2twcC1SeGRMbl8tNko3YkFhTnc?oc=5",
-      "published": "2026-08-09T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -204,7 +241,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "From Matt Bomer & Simon Halls to Jermelle Simon & Obio Jones, gays dish on the hottest celebrity couples",
-      "summary": "From Matt Bomer & Simon Halls to Jermelle Simon & Obio Jones, gays dish on the hottest celebrity couples Queerty",
+      "summary": "From Matt Bomer & Simon Halls to Jermelle Simon & Obio Jones, gays dish on the hottest celebrity couples queerty.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdU02WjUyNUlUOEVLMU92cnNMMXJZRWo5d1BjNU9tX28zeG5nY3dKLU16OGh0amhqZkpkQncyaWZubms3MTZpVGhWSWhVTlowdDRTRW43SmdQVE5ETVNJNF8wVVRmSlNnT0IxWFlCYUUwUnpBNHdxRWktdldqRzF3WDY0Qkg1Mi0zMjNtZ3JhQXV1RG95UDVDM0ZTVzhFbm0xSW95T2ppQTFyR2VvTjY5YmFyaHRhTzItU0ZsTlJWbkhFMTZJb09RWjRKUHIxUQ?oc=5",
       "published": "2026-08-09T16:00:00+00:00",
       "beats": [
@@ -216,7 +253,7 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse",
-      "summary": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse nbcnews.com",
+      "summary": "Iran sets out steep demands for reopening Hormuz despite hopes Oman deal could break impasse NBC News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2J0bUZTUDZmaGFyZHBza2I4RVlRR2pCenJQVV9NdVlxT3p6MG0zUkJOVll1WmJCZ29hQXc3WWEzaXZiQUJhUU1kV2o2MS1sSkFQelppdUtNQUk5X3hwT01rR1dEeGJkMzJZaXJOa3hOWGwxLW8tZzEwUElXM3FGbGVlNWRXR3M1eE9QUDlmaXI5a2sxcmdwMmJ5RTFsR1RaTHhBdXl6QjB1dlRaRXFMVkxQS2U0dGs?oc=5",
       "published": "2026-08-09T14:34:41+00:00",
       "beats": [
@@ -231,6 +268,30 @@
       "summary": "Tales from Gay Talese CBS News",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53bFBTU2xaUmlEVEdCbW9xM0NIQ2ZSNWdEZkpmNVdQRml4emlYLTRQV3MzU2xZRTc2WUJoREhHWllRZFFzeEVuZkstX2czRnkwLXl5dlRSNUFfRHdKSXFVQg?oc=5",
       "published": "2026-08-09T14:23:38+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "8/9: Sunday Morning",
+      "summary": "8/9: Sunday Morning CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15cnJQQXpXR2tocmZleG1sM1FhbEtUaW5zZWN1NGxNbWRNVUN5N1NjYkx1UXpoSFMyZURUSXNmTUp6bEZLOHVrbEVhWGtEMG1VOWxfTXBsYnBLdTNHRUtHOXhn?oc=5",
+      "published": "2026-08-09T13:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "GOP reps lob outing threats, MI ends conversion therapy ban & Dem apologizes for anti-trans stance",
+      "summary": "GOP reps lob outing threats, MI ends conversion therapy ban & Dem apologizes for anti-trans stance LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTzBjRldkM1dyVGpXcWktcExhcl9iN204aUhZb0duek9mcFhwWXNENjBEc2ZtMU9lbU5qTE5Kb3pNQ1BkbE15Sl9iWG5MU29jaDlfc1VrYmtSYUMycUh4LVhoWVlhR0RVejE5Zzk5MmFvYjZubXM0cTN6ZmVWa1NuZnNvNGI4MGY5aVhQLTdNTDlzeFlvQlNYcXBVQkVJbTIyeTR4Z1pYSnFvVXI0VXAtSE55eWp3emZ2XzExNzZSeVdkeEYzbVpmZEtTNl8?oc=5",
+      "published": "2026-08-09T13:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -287,10 +348,22 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68",
-      "summary": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68 nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzRaTlM4aG9HZDhNNUFCTjI0d2tsNC1pbGctcnUycVp3R0huWlBkOWp1SDQ4TFE1TVlkaldIU0I0ejBqYWREdXYwc2ZVQnFCcU1DYUtCYURMUTdVMXZXSkNJN2NLU1FYTzRKVVR1b0RxSmtJeS1yNEkyNVJpZ3dFeWQ3WHhKcTg3S2VJNXdFOFMxVDhuVWVjNkhYLXA3ekNHUWc?oc=5",
-      "published": "2026-08-08T21:16:58+00:00",
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+      "summary": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUVXaVpmeE9NWWMyRldDZzJucnRjREZvaXZacWtxb3dxN2k5Z1lfdWI5QXJudlhhQS1xQ09Qb0plTkNqNnJPcGFtU3dXUjg0c2xOUmpxc296am9fZ2phcV9OSjczMVV1TjRuS2FPTFNEOExTcU1HbTZzbU9FMUxqMDNkNEppMnVqdU05cnEwY2lvdkU0cjEyUXZZVm1PdEtIdGNnb0F1R1ZOaWxfODd2b1BGOUFHOEtFSUg5V0dESGlwQjRv?oc=5",
+      "published": "2026-08-08T11:46:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me.",
+      "summary": "Opinion | Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYQnFPSnppR0ctT0pNY0JLazZ5aHBIbHhDQWNqNVlEdjNrS09rMXQxYnBPTE84WjduTVk2MllDWTVRMzc1S0lOQ0d6Y1JIeXpaaDhHWEpibjJQNTA1cU5jSF9RdGQxX1JuWTJpYXhkMERGXzJIUlRF?oc=5",
+      "published": "2026-08-08T11:00:09+00:00",
       "beats": [
         "Politics"
       ]
@@ -305,80 +378,6 @@
       "published": "2026-08-08T08:35:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Embarrassment-proof Kristi Noem makes brazen return to public life with alleged side piece",
-      "summary": "Embarrassment-proof Kristi Noem makes brazen return to public life with alleged side piece Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNndnVl9YUUNOUXJIbjRFXzgyUGxMZkE2OVBwNXFDeTlJczl3ZlptUy1KMFB3dmlsQzl1Nk5aTjdfM1Q0c1JKN1ZTSG1ZaC1td094NmNYcmNqel9UV0JXUGt6Ym1wMXFSY3FKR2F3Tk9qTE5DbzEwdDZMcG1ucVc1aXYwQnVlSTRSVlFJWDczVGQ0QlUyNHg2NDdrdTFQUjlSbnJYUm91aHdfNDlEcjU1eXgxWV9Fbmg4aHJfdi1fYTJjUQ?oc=5",
-      "published": "2026-08-08T00:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Concord nursing facility worker charged with sexually abusing 85-year-old resident",
-      "summary": "Concord nursing facility worker charged with sexually abusing 85-year-old resident CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZObk9PUFZXWmdTV1U2MnRZUk1YSXhRd3NwVHVQQ0VWdXQyaFV5S3FsU0xjSUpPSl9kODZWSzBIcVpSaDVJQVBOZzNwX0hUYUZGWXk0S1otRHVIRVBOWGlqaEZMTDJQRnlOeUdkWl9Qb3FfX1U3bzVzZ25nNnBfQVlsVVlra0RfYVhwSkgtMk96SDN6MXNxMU1idzljWHRmX2RYZlpocjlWa3lY?oc=5",
-      "published": "2026-08-07T21:30:00+00:00",
-      "beats": [
-        "Business",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "What is ‘Linguistic’ Phonics and Why Are Some Schools Adopting It?",
-      "summary": "What is ‘Linguistic’ Phonics and Why Are Some Schools Adopting It? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmtpb1ZFcEVqQ0t6N3dqU2o2QXlhOWZYMkE2MVNNUm05ZlN5UXIxZzd1TlN2eVhBNVdmdVJaeTd4T2xRWldoZVlLWm85TGdHaG9PUE5sYkZia0VYRmRPX2swMUVMcGdta09GVHRXVGtWejhWeno1M1lVYlFDTWJheUlwUnFXM2czLVNSMlVpYlY5bzd6Qzd0MWl0OTZtU0JRQXRXMXlmWEVzc2FqekZaLUF3?oc=5",
-      "published": "2026-08-07T21:12:59+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media",
-      "summary": "Olympic ice skating champion Alysa Liu's teenage trans sibling outed by far-right media Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODA2RDZkb1dxcy1hUFltZDFyYnlkRXd5RVRjdWY1dEZ1UExWOGJPMmdIS0xXdmRqT2stVkZWMzFRWTdwNzVJUy1ldXBOb21FVU9HRGxQR3ZBOVZ4LTZwNXdJb3FTOHFadkNTSlhB?oc=5",
-      "published": "2026-08-07T20:34:44+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Job losses in July and negative revisions reveal a weakening U.S. labor market",
-      "summary": "Job losses in July and negative revisions reveal a weakening U.S. labor market nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wNk44eXA3c3JCQnp4QVpYdkFkQVdnWEZSemR5ZGxQeW9tdy1xVklZQzNvUVIyM0pqOWhOUWhzSkJiUHBvWEFVeTN4RHpaN29rQXlGNHhSdkxEZXZaZHpBS292U0w1RHhVRkNqWGlrdy1zUGs0YzRQTXBZTE1pUQ?oc=5",
-      "published": "2026-08-07T20:30:22+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Students Created a National AI Policy Framework. Here’s What It Includes",
-      "summary": "Students Created a National AI Policy Framework. Here’s What It Includes Education Week",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTJTM3ZTM0N4RjVPRHFJTERNa1hQcWhzVl9Wa08xeEtRTzdYUjBFLW5ueEJTWGRiRWR0NjRJV1RMT3FtNmJ4WG1GMTJ1WFNrUUgzNC1zZTJkeXBlbXRYUF9vVnRNUlhuV0hhMTQ3T2FKNnlsVlpOQ05xRVJ3MVJCa2owdDA5U0IxMHVzejI3OUxMX2toMHoxazFvYlhuelpqM3VIYk9zTF9lY3dyREJ4a09B?oc=5",
-      "published": "2026-08-07T20:12:45+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
       ]
     }
   ]
