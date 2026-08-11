@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T21:30:02.480267+00:00",
+  "updated_at": "2026-08-11T23:27:26.993452+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,55 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
+      "summary": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZ1ZlX09vOHg4YWd3bGNpdHY1OHlMSVRQOS1CMER0YXZZN2Q0SEd5bzRtcjhpYWNOYnhlU1hYZnpDb3U1WEdZaEN0QjI1akFXSkdhSEZkbDZVeXVpbk1IWXNOYzdQWFdQaWxIOFpRVXJkeG03RHdiVW8yb9IBgAFBVV95cUxQbEhDVTdFZVNnN29pR05WODlhR2dxZ0o2SnB6ODZCLW82bC1qWmxKcXZWaF93MGU3QmtFTEFaa1hVNzRJZ1RxRmg3aHhJNE43OVNHVWNnUXJnaDkxLTlIZEFSTm5aOUhQMENCelp5N19fejdTNDRTLU55VkVmenBDMw?oc=5",
+      "published": "2026-08-11T22:15:30+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
+      "summary": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUF4YlMzMVdTcnRlWWp5T2JIa0tUYVMySjBZTmN2RFI4OGN0RGQwNUdpSmd5X3RYd1NRc1RHV09PTXEtZWFBeHpUSzA4V0g2WF81Rlp0dFpLWTBaTmJHQzRNakhPR3RVVTNJckNBdzl0SllGNDU1b0VqcWVvOTRXRTBza3A5SVcwWHRSTnYxLVA0NUJqelhUYlJ5b9IBoAFBVV95cUxQdC1kd1BJN3RxZDNmd2s5U3BjY0F1REs4NXNDQlJnS201cFlRNUc2eEZvYWtsM0NUY1BWUEtDN2xrdF94ajg3bUtKaTZMUll1cDVib1A2RGF5Z29qZ1B1WWFGTFhHelRBenRsaVBKakJvVktRSHhKN3B3OGhmalhpcWRfcy1ONlRfQXpMU1B0dUo2U3hpTFh2QTJXOWFMWHdY?oc=5",
+      "published": "2026-08-11T21:34:29+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
+      "summary": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTlkc1JsV05zeDVUV2ZwT1Q3UDBmZmZUTnRqM2VROGJYa2N0aE1mZHp4RU9fLUNYYVNpVmxQckctUmFUS29yWlJweGZac181NzBZWHRLUHIxMjk5Z0R1M2dXcDRTY01EdnBzODB1cGdwVnpqMjd3bzdmamVOZWxvQUtPaGZQS0RmcDctTDJ5QQ?oc=5",
+      "published": "2026-08-11T21:11:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump’s new Medicaid rule strips care from low-income families of transgender youth",
+      "summary": "Trump’s new Medicaid rule strips care from low-income families of transgender youth Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xYk5rUW9RU2FxanFuSUZqZV9rT1lUSGtzWXNzUVdwZUFjbklpNHhwLTVHWTJ3Sy0xTmxnc054MXBUaUo2dVFsSld0ZFpYQlhjTThTX0RUQTBmbE5UZ1A0MVEzYUdXOUFDNlFqMUtmN2M2Q1Vtb2dJSkY2aw?oc=5",
+      "published": "2026-08-11T21:06:57+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -56,6 +105,18 @@
       ]
     },
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal",
+      "summary": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gHvA0FVX3lxTE1vWEFWellwTXUzYmlnaXd5WEk0WlpYbzBNVE1ma1AyTk1QSkI5V3dVb01JSzUwNFVqNDh1X0FFcXJrZkFWMVFsM3pEbUFfUVplYjRmcmxFVENBaC14QTVHRDRTYWl6V04wUklOU0JYdGtsUTUyYTgycDRPN2lCd3RjZkZvdjYyOFhzZndTcTBtdGZ5bXdYam9jbkZOMlR1aFc3QjN2SkhzSlBXYzRqd3FFbkhreGNiSDE3T25UcVNWc0dzem5zNm5OTmNQY0QwdzdOeFVyM0lPUy1WR1p6SmZKX25xWVZYQi1xV3BHZ2pFYXkwRlFuQ3VFZzVxWlhFdU5DeGc0ZjU5aGFKQkJqSDE2RndQeEJvaDc4ekpPSjVkY25aWkJTaGNNamxlYXVsZ21iOWp2Y29JZ0J0WVpsclVyWTJmazRPNVZXMXlpQXVaVF91ZUkyNEtzSGY4Q3l0Q2ozUG1xaGVXNnhJTFJqUGROMEMydk1EdmtLSEFxcng3OUltZDNLMUVFems4WlEtMldTTGJOSGVLSVl5TUNHZi10djRGclJlMEpRLXhsY0IzWTJaZ0tYRG9jQ3pqSVBNSllDakFxTFltZGpmSWlHbXZxdXZRS3hISU1Bd05RZnBxNTl3cHozYUZUQmx5NHdLYw?oc=5",
+      "published": "2026-08-11T19:35:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -80,18 +141,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-      "summary": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWm1HU0lsVllSdWQ3eDVsZlJUcDZZV0lxZWlYSGVNOUg0T0VWTjlKLW9QQ2FPUEpvdTdpOU14cUJiZnBGcGlvNkxwREhmcU9kVkMtb3ZzTTZ4ZHFHQWhGaGcyUFRadmh0dDJqV0R1cGgybXIwMmdZSkV6Q1k0VmVZS1NsaDJfZ2h0T0hIeGQ2RGFpQUN1MFJJRk5ja0YydzlqZUthekRjTFlWTS1BdE9YOE15M19DcnBlNHA2YtIBwgFBVV95cUxNVWFaS0hpRlE2Qm4yWXl3ZmV1X1lFMkRBdVIyaEs5V2JmdENGMXMzUDdNNG9ueTlfOUFkbXl1R0NOci1TdTVWU1YxY0I1LWR6SVhveTgtZ0xaRWZ1WG1kX2JkaUdQN09PMTV4OWVCRHVGZlgyUTNfaWlUSkFpTGZVVFBHdzI2ajZNdXp4cGtXNmtqcUEtMFRsQmd1akd2WFhUY2liY0xPamVfZzBhSU1ybExuZmJEZTdzSGZWRC1FYTNLZw?oc=5",
-      "published": "2026-08-11T18:34:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -99,18 +148,6 @@
       "summary": "Civil rights groups ask judge to block Trump’s new birthright citizenship order CNN",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWlEZnFqQnhCNGxZOGd4ZjllR18tUWV1OW1aUGxGUXdYbUs3SEh1Q2Zvdk9jaUNIYUhJWFlQekpXdjVTUVBOZHJZdFg2NTZDZnpydUwyOXhWeDVRaW9LZHhmN2owa0NqejQ2ZTZldmxiVm5uOTJqSWVObjdMelBud004dDExVGVYR05rWkF2ZUJIalJBVUYzOWRtcElYa1RxQmRodVI5T1pjSy1wZ0E?oc=5",
       "published": "2026-08-11T18:21:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "summary": "AI computing power is becoming a tradable asset class as CME launches futures contracts CNBC",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmFWZUtLT0phNWhEV3ZSVEpGS0pRUG9OcGdIMGNaVW5fclkwUG40XzJ6SERENFpZWkEzamJIWEtJXzVQbkx5RVB4SFlUWFAwN3VTaVI0dk5TVFh1d2dGdmRVSWRUTmZ5Uzk1WWJDSWpuT3BVRmlFN1RPck5IU1czTGw4MVpscGxiWTlJTExQT043S1UzSGl2bTVmQ082LWNuT1NGTm0tMzhkekg20gGyAUFVX3lxTE5VWlgxSHF1eWUyUGRBd3NDRGNEOGJxSzM3amFscGJYZG95U040STNyajVQY2tuRU1DLVgyeDBiQ09FSVlkSU9nMThSNVkxZG5IWTVSekpiTHlYOTBmMzdlYlExdXdpQ0ZXRVpjZEdsalllZl9xZFZaMC1TQW11bzZ0ajdyQjIyZm1od1hpczFPSE9ESTExY1pCNi1OSk5Da1VkNUtNUE91OWRyVnBTR1hNc3c?oc=5",
-      "published": "2026-08-11T18:09:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -132,24 +169,12 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Sydney Harcourt marks the closure of Cats by hitting the Eagle NYC: “Wear a jock”",
-      "summary": "Sydney Harcourt marks the closure of Cats by hitting the Eagle NYC: “Wear a jock” Queerty",
+      "summary": "Sydney Harcourt marks the closure of Cats by hitting the Eagle NYC: “Wear a jock” queerty.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3p1UWtuZWs0VUp0RlFJUmxuOXRRU2FrX1prcUFTd2JYd3pBNDVPVFh5N1V3Wm9RdjY3bVJtU2RZUHNHQ0NGZy1BLVBiRjlNTll6YkVTcHRtWHJJYjYxbndpQ3o0d09CbjhJZ0pIejRadVlpbDlDX0FfSDFLSTJnT05sUGtZYnV0amxZTXFZc1VNcU5oSnh6bk5zMzBFVC1UNkF6WFZ4bE1zbEZBNlc3N0FB?oc=5",
       "published": "2026-08-11T17:00:00+00:00",
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "A new report contradicts public statements from the White House on Air Force One",
-      "summary": "A new report contradicts public statements from the White House on Air Force One NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUW9yLUl0TWFLaHhfUnZ4ZmlBQlA2UGdPZ24zbGdrdmpmc05TUnUzUEhTTW1fakhMQVpHWU5XRnFlLVFXV3VuVXlzR0wzbkFZX0VoVERwbzFNaHVIRjVFSkthaWJmLXVrcHRMVnh5WmpsRHI0Y3o0V3JDSFBzR0dHZQ?oc=5",
-      "published": "2026-08-11T15:27:14+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -213,16 +238,15 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump administration abandons legal appeal for trans kids’ medical records",
-      "summary": "Trump administration abandons legal appeal for trans kids’ medical records Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNG92bkViUkhoSXFvckxUQWZtZzdMU3MtalVDZDZ0TS0zQWZaZnNHZWtqTXFhZzZDelozSVduZUJudzJ2VzJjTHYySTdUVFJRaEV1aHdQeHVid0FXaEpVeHVUVl9ES0RobkFESFMxLVRZcThuMlgzWk4xcjN3bzRaZ0pDR3RidHM?oc=5",
-      "published": "2026-08-10T22:19:52+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
+      "summary": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUM2XzlRTXNrZllsYkFBX3VwZmJwM3pCSk0yY1YyMWt0UVpUSnB4VTBnc3M0cmtEU0RXaTlwNklwXzg4YTQtaFQ2cjhFT1MxaExUbkRWQTVxTGVCdU9mWVYtLTdZcWtuVGNQUXBxTlRlb3BkX2F0czZMWi1FcHJpT0prcTVhaDBqQ3VOUUlaQzlHdw?oc=5",
+      "published": "2026-08-10T22:28:54+00:00",
       "beats": [
-        "Politics",
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -302,7 +326,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Olympic smokeshow Jack Woolley opens up about his #bodygoals: It's time to put \"energy into loving myself for once\"",
-      "summary": "Olympic smokeshow Jack Woolley opens up about his #bodygoals: It's time to put \"energy into loving myself for once\" Queerty",
+      "summary": "Olympic smokeshow Jack Woolley opens up about his #bodygoals: It's time to put \"energy into loving myself for once\" queerty.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmZPbjRhaTZsQVUzUU1UR3F4eDRPQVRpVlhxbFdvYnFOeU5JdmNrR1dJcVpoeFZ1cUJoMXRXNmVWb3ktQ2pzbmpkNjY1R3RuMC1oSVhna0g5YzNVV2hmc3hramdCUEdQYkg1MWhSXzFjOENMV1JUVnRHU3dyVEV2b3p1NFViaFZYLVpGUkZBcVVLWURoWkFsUGZNRFN1OUE?oc=5",
       "published": "2026-08-10T19:00:00+00:00",
       "beats": [
@@ -310,23 +334,11 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well",
-      "summary": "One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTZFNnNvMjN6WGtUcFFaaFdXVHlja3ZJaERtVDg0UW1yMVV5N2RGNzJ4OE9Ebm1oQ0hYVnVOelBRcHV0aDM3a3N1NUYtVjd3UzMwbTF4dlY5S3IxRmc0bm1HNERKMzNYaUdNRXdEQWpKVVJON0MxbngwR29BLTRYT05jSURiOFlS?oc=5",
-      "published": "2026-08-10T16:06:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Antoni shares his recipe for raspberry barbecue sauce and the internet is drooling",
-      "summary": "Antoni shares his recipe for raspberry barbecue sauce and the internet is drooling Queerty",
+      "summary": "Antoni shares his recipe for raspberry barbecue sauce and the internet is drooling queerty.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjdqQ1JCd3FVc3ZLU3ZXNGFBNENBVERsU1BneWZYQkhGdHpoZWlWTGFpWkxRRTBFSnFIUWpkNmdTbkVnX1k1dFFSX3FjX2R4S0kzN1NUbWZGQ0gxaVM1UEEtTEpxeUVBaktPRl9kU0JOalhHMUs1YXk1Nk52a1lOaGVqM0d3OTlvclJoNE5PcUFEenh3d0s1dVNMNE5BTVZFVGoxVUVhTXVOX0ZYemlLb3FLU3YxMXc?oc=5",
       "published": "2026-08-10T16:00:00+00:00",
       "beats": [
@@ -367,18 +379,6 @@
       "published": "2026-08-10T10:37:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "The 10 Words That Will Make You Rethink Education Leadership (Opinion)",
-      "summary": "The 10 Words That Will Make You Rethink Education Leadership (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ09UZ0JoRG9wYVFwTGJGSVh3U2EwZzQwb0N1Ulo2NHZ3RERkX2IyUnpYQlVtam1waFVrZnM1S1NjTkE1Z0laaUdVVmRyWTF3cXFtb2EtaXh1NXRxMWV5dWdYR2xjZkZocThDSVNZMEpYbm9KdjFlNWJIRlRESjduNEl4SlR1WG8wd09heXdCWndaWTBMQmZ6WjNFM2R4d1VYUDBVV2taUDFqa2dTTEpR?oc=5",
-      "published": "2026-08-10T07:49:09+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
