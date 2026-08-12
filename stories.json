@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T12:35:20.778684+00:00",
+  "updated_at": "2026-08-12T16:11:47.440002+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,73 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "summary": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap NPR",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU0dvX2xCTnkzT0ZoWVhKQzhPakdsd2ZpaWVTTjl5N2VfemtkWFBtdUlKeEYyZnFiNnRvRW5YWWNXQWFoZzhSMnFWUVl3NmFva0tJX2JLcWxWd0t3VmhxZ2RRS2htNllfRllLQ3B1U0FYZkt0N2YwVG5UZERLeXgxTXo2MEVKRzRTR3BCdlBoc1YxYnJral9YWnRCR1M5aWlXZzNIRnV2cG1jWm1EY05qTzM4dFVmanA1TUFKT2tUUWJGeGhrS29BcXpKTU4wMmg3UmJ6LTk0UTZ0WWs1Vldn?oc=5",
-      "published": "2026-08-12T11:25:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
-      "summary": "Andrew Tate's extradition fight tests his influence with Trump's America NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnB1RmxIc202dTlYUFVKYnlETVJJYWU1SkktUS1BWHlwRTBJbW9LSXZOdjZSMFJFZFRvdlhlV0dEdkNTUmlhX1ZDTHhXYi1YUjRTZmtjVVhLdVdpU2lZci16WVNaQi1zc3BCTVotWV9tajVacHl5d0RtQWRyMlNCeFpVY2ctVWx0d19ScVFnTzFsQjRNaVhDYTEwbXR2RDBXeTR0eg?oc=5",
-      "published": "2026-08-12T10:47:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Lilly sues six companies over alleged illegal sales of experimental obesity drug retatrutide",
-      "summary": "Lilly sues six companies over alleged illegal sales of experimental obesity drug retatrutide CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTNNRk9ZT2ZhUFc2ejJqMWRYLVFPXzJxc1ZZT0FXbjI5TXR4VndleUs5OTBjam9XdjVKay1YcXN1QmpMMkF5bmcxamlEQS1ZMEI1b09kbEVRLTJCRy1RY3k2aVRnUkk2QmlDb3BTcUNYdFhFd2c4czFBUW44REhsR2xB?oc=5",
-      "published": "2026-08-12T10:37:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "How Trump turned Homeland Security into an engine of his voter fraud crusade",
-      "summary": "How Trump turned Homeland Security into an engine of his voter fraud crusade CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM05pSlcyeTBfbEdmOTFwd2hIWVpZX0lQYlMxTVgtRDRmSVhnQnktUHJlcmlZZFRxX2E3TVFPNDBVdEJHeXE0RUhPRnphQmFmMEFOeW1KTklkcnIxeE1tVHNEV2liNExQeUFGcFhtZUM3VHNObWt0RVFuQllqZ0FfWVFWNHR6WWxFX01V?oc=5",
-      "published": "2026-08-12T10:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-      "summary": "New York City Council announces probe into prediction market platforms’ marketing strategies CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVG1JdzFnUS1tUDctTHVUNkozQ2tmV3dqUVRMd0QxRTc1ekpQUDZwdzhIVWwyYVlJYnJBWXJYVm1qR1BqYjMyQkEyNElraFd5amg2X0I3aEdCcGtaZUJmT19FRVBDcXlyLUViLXg0RmZ3dkFwalhrOXpkTGF5eVR4QV9PbGZKYnNxdjk4Q1Y5emd2Yy1kMVJJU0dibWdYUGdPbFM3WHBtRjjSAa4BQVVfeXFMT3hva25BdFBiVWgzRC1rOU1UTm5fbXlJeXNaNTJfYkppcVd4czdtczJUWUNkbGRsQUFlNlkzckEyZFF5YU1saHNjZEZjam9hLUlBUGJDMlVDYXpiWEFlSjZpVEZoNS1EV3ZBMWM1bVcxODFtZTBFbDZLQ3ZGZ0d4M3gyTk1lSjVJXzgxRUdSNFhSakVRNVdLVGF5bl9GSnlHeHlGOG5lZ1RhT2hDbEpB?oc=5",
-      "published": "2026-08-12T10:00:01+00:00",
+      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+      "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbjk3YlRtY3lXaXVSVXQxR3AzWFl3a19CY3dIZWYxS1B2SDdRNHRrQ1pucXd6QXhGSTJNQnF6dVhoQVR0STFNV1h4b1dSOVJhUTI2V1hHWU9SX1Y5UWk4LWhueE13QV9EQlZ6NGlybUtkbVRUWE92SGNZU01ZM1p2ZUEtS2FqTU9oQVJfTzlJUlBGWXg1VFHSAZsBQVVfeXFMTS05VTI0UDhUY2d0bkVLa0lSaV9wVmN2Q0F6NjA3R2JUVFZzSHRreXdlNmpMckgteUtBMmR0U1I5QzJpVS1EdDB1VTd0S2Y1cEk3RUZDWTBQQWRLamZYYjFrS0FlZ01LMDBQYUhUTVJKcVpOaDNzVXBxbV9YNk9TSXZNQ2gtYV9HUnFzY3lYWUQtVUw5ZlB6ZTRkSms?oc=5",
+      "published": "2026-08-12T15:25:09+00:00",
       "beats": [
         "Business"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Look of the Week: The problem with criticizing Anne Hathaway’s maternity style",
-      "summary": "Look of the Week: The problem with criticizing Anne Hathaway’s maternity style CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TN0RIb2RDTTIwX2EwblBwOHRldGpfRV9sQjVmYTdpeXN4WDBsckJxbG9JQngzeWZGYUFOYnRqU013TnhaMDBpeG1UMG1hVnNiZmxOUU1wcm9Fam9janFhSFBFS3NCZU5RXzVUd1IzOUtmZ2ZIMFgxN20tbkM4UQ?oc=5",
-      "published": "2026-08-12T09:43:19+00:00",
+      "title": "Trump sued over Truth Social advance access sale",
+      "summary": "Trump sued over Truth Social advance access sale CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0R3U2djVuaHNkaDM1Q1dyMTlPWWkzVjVzOWpyaHkxdnVZVEZIVlpqM3ZwNmloSzJwNWlrdFdmQ1ZYT1NsQ1N4MFZ6R0pvOXBTSDZiaXd0Z3g2QzBWNDZJdmpPMW1JbjZPMjZTSk51LXDSAXZBVV95cUxPdzF3alRFb3plclRvbFA2eHk1VEFndVZHMHhFelRLa0F0dTFlTjd3OGNiWWs0U08xa1VDUkx4X056eDhBeXR6a0JZTnBwbTAyWXdMV0JsRUI4SDg1cm4ycy1mMXI2UUdpckV2dzdZTU5DczY0OEFn?oc=5",
+      "published": "2026-08-12T15:15:32+00:00",
       "beats": [
         "Politics"
       ]
@@ -95,22 +47,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Cristiano Ronaldo and Georgina Rodriguez tie the knot after 10 years",
-      "summary": "Cristiano Ronaldo and Georgina Rodriguez tie the knot after 10 years CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZklSUk9UallZUWplSS1NSEp1dDZweDZmNzJtRlU5R253UmozNU9SRnNkNWtnOE83clNpU2ZJcjkwR0lxSWp0dUFQcmZIa2pEY1diWGttTUUyWm9iRkVDLTd4cEp5NVVJX21oVlFqckpSOEJudjU0Mk4wZmo2enUzdUhFVWlCNl9HbkFFdHVnN2lqRnlrV3c?oc=5",
-      "published": "2026-08-12T09:13:13+00:00",
+      "title": "LA Lakers sell for a record $12 billion to ex-Disney CEO Iger and Jared Kushner’s brother Josh | CNN Business",
+      "summary": "LA Lakers sell for a record $12 billion to ex-Disney CEO Iger and Jared Kushner’s brother Josh | CNN Business CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFhONHZSUm1pbThKcnBaUzVBWGpPWm5Ndl9ZRS1rYUdrc2hXLVJaQmYtM2dvQVNkYk9HYjk5R255NHZvMnV0RDQzQWR6QzlxRmlRVGZ4NUw1bmlNalY1c2lfbmV4MEl0RUUwWVhrWVRlQnU1eFNyWEpYOTNSVEtEY2twWGs?oc=5",
+      "published": "2026-08-12T15:09:55+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
-      "summary": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXcyRWI1eTdzeUtIMkJSTkJ6YlhUNGNhakNwY2Jmc2FrUVpNT2NKbHM3VmxxcEpTWERUSExkcmlPSVlCSVVvTExYQmxzZm1WWWx5dVRMc1BCZzBOcWJpVC1hckFwQUhNUXBKZV9MaXZpS2JwNWFSVDBMTmM5MW4wZlAwVDlNaTFzd3ctTDVEcm5jZTDSAZgBQVVfeXFMTkxxQkgyOE9Sb2lVeWJtTUY4bHlsbXM4V1M2b0JPU2c2eEFGOW44RGowR0x1Z0RUTVZQRTdSOWszNXJiMkZyRnlVRzFUU0tJd0QyNWJzUkpNakxsY3NBX1V5LXZsVjU5WVQ3eTFxT2doZHZxNkk4WVFpb21jemNHUWV4bmxxWENndlMxd1VjOTVIRU9lcllYdEs?oc=5",
-      "published": "2026-08-12T09:03:35+00:00",
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "summary": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVZ0X3BWNkVpZmVENnJiOGZQc0VJNEdhWXZEdHlvUWhGZ2Ntc0Q5UWhXSWJsNmV2WTBKcWc5ZWY3OTRKQVFKS3FRbm5xZHRKZ1poeHd6UVhnTEdoQ0MyeG9LYXBNSzRET3N2aHlfak83a0wtcWNUQ2pmWDJyUjhQU2xGbmp2ZWpTSUUtcGQ1ckJOVWwtTVpVRGNoWFVseHh6WFHSAacBQVVfeXFMTXE5RXNHU2FzVGNZQ2JGYW5QalJuODRRWU5LOXhkN0U0TkhCZDNSMFdUYU90cEJKc0QzT2lpMW8yN3BWS1lMY0JPb0hIVmxyZEVNUWt5TDZCSkhkajJ1RlkyT1RGN3pQcEhjNDBHUEhUajRfQzVfT0YyeTRKZ1NGeWJyUmNFMHNNODJyVkF1S0dwYTlDQklYTVVLQlNxemxyNU94aUUtTFk?oc=5",
+      "published": "2026-08-12T15:08:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -119,22 +71,82 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
-      "summary": "Feel so busy you don't even realize you're busy? Try doing a time audit NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzBSSEhhYUotcEVkTXhQbnVVWFh0eElVMGRyUF8tRGhLWUN2QUxGdzZNNC0xamNCYk8yamZwNk1SNXZaYlhkZVdhamozaFpSaWtrMHpzalU0a2VNT1RLSDh6MVhyYzAweFREcFJkWEtZUFdWQk9KQ3FoZjEyLVFJUllDT2hXY1lIOVY1Zjk5Uk5mdw?oc=5",
-      "published": "2026-08-12T09:02:00+00:00",
+      "title": "Inflation eases in July as gasoline and grocery prices fall",
+      "summary": "Inflation eases in July as gasoline and grocery prices fall NPR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlR1STJPdWpwcExoZHB5bVlRR1l4eGYtQ29VSlpsM1o1LTJFU0lNMVR1TVFTd2Q1MDhiU3hESGtaUzRzUV9WazV0U1VXbERoYUVNd0xxa1A4UmFxQ3dEVWJPTGs0NUZZUmtNbGU3QldUeE5RYTk4WnpZOHdwSWNsTUxMR3k?oc=5",
+      "published": "2026-08-12T14:00:29+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Minnesota Senate Primary Election 2026 Live Results: Tafoya, Craig, Flanagan and More",
-      "summary": "Minnesota Senate Primary Election 2026 Live Results: Tafoya, Craig, Flanagan and More NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmFiQnRuLWtOaW1sZ010dkpyd2NyN19pNkU0SFhlcXBSeWs4SkFrbUFibHE4MF9MNVliLTZ6QWJkM2N0OVZZYjY1andZLW1ZeFlqSlFQWTRYZlJXODFpOFhKalJxNHA2V2JuSjgyUmpyd1dWNTdlVmxtaDRSVE5KM05PSHVqREE?oc=5",
-      "published": "2026-08-12T06:40:41+00:00",
+      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+      "summary": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil NPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUk0wYmN3Nmk2c1MyNU4tYUVONkpUa095eENvMDJPRXU1dnVmSWFfRzhPbFVFUmlvdXprWmlHNWo3NU9HTThCX25xek4zc1VmVjFwQ2ZoaUlnNVFzZnVKLVZ6TUVXMXRUeTRBTTlIa3JxdlZWQ0dJSDRnRFRsWnZkZ2tkTmdxNFFqbzJZZ1RhTlNTbVVDNS10WkR1amIzZlNJN1hocw?oc=5",
+      "published": "2026-08-12T13:38:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "What you need to know about microschools",
+      "summary": "What you need to know about microschools K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0NVZXNBbUpKMFdxcE9IZnkxRHB6UjFONzl3N1JzUDduNXFPTTVuQ0pndkNGRldSbEV4ejhfTXl5NkdGdGJtVlVzMFJzZmVkRmI0ZmFzRk1LRjR3OU43YjFpN0p4WDR1MGgwT193MHBPYm5sU1BJOGxyXzZTb2tnaFVRTzk?oc=5",
+      "published": "2026-08-12T13:18:45+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
+      "summary": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlcxN0ZxekJIc0Exc0E5MnlfR096OXYwZDlRYXB4TmFOemZmcTZMMHpicm9FY2xRQXhlOUc0SHhLY1pBaDhEWnJsNlRlMnhJWnR2bmVKVm9PV1p0YlkzRGFONGFnd1VBeXJ1cURrYk1lb3hnQkp2Z2cxS1Y1MUNrZWxpMjBqZ3FSUGN2enNfSmlVZmdZTkV6ZkdBTFhweTI1WnZRaDhtazg?oc=5",
+      "published": "2026-08-12T13:00:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Shoulder-fired missile threat prompted Trump’s plane ruse, source says",
+      "summary": "Shoulder-fired missile threat prompted Trump’s plane ruse, source says CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XMEFFdGVkX1RJdkFTN1VnQVRhdlM4R1IzUE9CMWpHbmpYT2RFLU1IQkpNc3ZpVUQ2Vl9HRHVBMWcwLUh1OUJfa0pjYlQta004UUkwd0ZIeVdjS19kbzRCWjlpN3doLWdva1BwOENTTG80QmE3?oc=5",
+      "published": "2026-08-12T12:57:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US annual inflation cooled to 3.4% in July as gas prices ease",
+      "summary": "US annual inflation cooled to 3.4% in July as gas prices ease CNN",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TRVhVVWVfXzVqOEtFenNFaHRZS3dOUVdYS1FxelR3U2ZMVDdycU5zN0FybzRySzF6NGFlRnFWNV85Tnd3QWVsYnNJeDRIc2tENXBpY2dMZ2RCeEY0MHRWc0dHV2s0R1c0?oc=5",
+      "published": "2026-08-12T12:33:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "U.S. and Iran close to a \"peace arrangement or a deal,\" Pakistan says",
+      "summary": "U.S. and Iran close to a \"peace arrangement or a deal,\" Pakistan says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFJmRllSZWd4dDRyLWZ3ZWU2NWVqRk9BekR5c0xkZG14Q3BKQmt1SnF4Q2VOX19IaWU1dUFTYXU4WTdENnBPWEk2cG1QU05WZHNnWWFPUWs4VFZadURZeTVnZG9kcEpTQ0lWVklCcUdfcUFoY0tFTjBrYXkwNUJXYTV3T1QwYlF0cGNUWkNXWnBnVmY5TXpOc1ZOMV9Udw?oc=5",
+      "published": "2026-08-12T07:26:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -147,6 +159,30 @@
       "summary": "Trump says security threat spurred secret plane swap in Turkey NBC News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXkzUV9FZGJVRFdwWDhYa3JqckdsVHVWNWxQS2s3SjRULWU3MEpKMXpuR3dwOVhuT2x0MnhJUU5DcThrQnAtU2djN0k1Tjg2SkNtbGpKNGI5b25SN0tPaFVjYmg5ZklPU0pyd3dRZGZObkV0ZjNtRFB4WldfNEJ2UTdxRGFvdFN6WFdVd2gzb3JOa2N5SEpxTktxOWNwS3RLTnF4RDV3anFBbFdRbVBjYXN4YXMtTXR3UXdSUw?oc=5",
       "published": "2026-08-12T03:10:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "John Cameron Mitchell on Pete Hegseth: \"The worst of the worst of American manhood\"",
+      "summary": "John Cameron Mitchell on Pete Hegseth: \"The worst of the worst of American manhood\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFpXX2VXSVVyM2MtRU5nbGthMG1XSi1mVnZodXpsV29FVWlrOWZKZkM0U0l1a2ZjclJSbk1DTkdTWG5nRUpONnBrR0JrZU5HN1NSSDVUZzFjdzBVWDRRNlRhZW1lUFo0eGF0UTE5akJFbDUxN2RBZmJnOGVqR2Y5RENidFEwZnBJeGlOMlFCcWpuS2tDUzRISE9hUloxMkxpbTYxZnhET0JmSTdXUTJsZG94emw?oc=5",
+      "published": "2026-08-12T01:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina",
+      "summary": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGNDZkJLbnVQWS04a25MYXF0T2hXX3BTVDc0QTYxUktZMy1tZ21wM0t1ZkFmU05oZ1dQaU9nNlRDcU1vampvVWpEbTBEREEyMjlCR090ZjR4OEgwV3hsdmZhSkQ0NllEcVZDc3VxRU44WTQtY0JpTE9xRVRrMmFvTHBjNVFSaXZYNV9uWEVXdm9UQTZHanIxU0FwVm5vSzZpNjZFMG95Rmtidm53TENVVl9MMVZ0TU9hTWFmd0w3c1E0RGJDZXc?oc=5",
+      "published": "2026-08-12T00:02:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -177,15 +213,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "This French influencer’s hairy/smooth combo has the internet divided",
-      "summary": "This French influencer’s hairy/smooth combo has the internet divided Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkZialNtMkU1WGZIVmQ4cFVYM2VJTGI0STFxVks3OEl6bmxKYTh6T1ozRkNPZGJMVDJXTFpTWUtqOUE3dlVJOTNhZHo2ME1NOFNnc1Fremx0SGRSbGRWdWVmWHp3NG5HbmxPdEQwN3JHZnA1QUNYdVRGek1IVDZwZEFXUXNOTm9HeUlXQ0ZjM2JqU19uYWNJcEp3VnpOWU9sT3o4?oc=5",
-      "published": "2026-08-11T21:00:00+00:00",
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Why This District Is Getting Rid of Chromebooks for K-2 Students",
+      "summary": "Why This District Is Getting Rid of Chromebooks for K-2 Students Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWkwamM0Ry1FNmoxRjduMnZ1Mm1nRnRzYjk1ajFEN0RrYUgydXEwdXp4MFJETFVSWk14NjVwN2JFWUN1V3ZvbGc4T3RqUHpUQ1U4c1BNN0xHWHZRRi12YmxJdUFBYnNYdkM3ZGs2N2NUN2ZHT0xuT1ZDMFc0b0thcTA3VEJ5WUJGUW40Smx3MVF5c3BMd1ZHYllHd00xeWQ2NHhvRVlIVjhYQQ?oc=5",
+      "published": "2026-08-11T20:57:13+00:00",
       "beats": [
-        "LGBTQ+"
+        "Schools"
       ]
     },
     {
@@ -208,18 +244,6 @@
       "summary": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal EdSource",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gGCAUFVX3lxTE0wSVo5d2xCSWtYZ2tfd2FfS3dpbVR2VmtkVkVQLThXamJwRUEzRGc3djhwUmtCeXpaa01ZLUR2VUVIcVJFR0ZzalNjNFNpX1RmYWNaT0lEaFF1M09pMGJNVmdJRFVOSUw4UG9wNlhJVzdLTHNBT1RlUVlCXy1qZVpmTUE?oc=5",
       "published": "2026-08-11T19:35:28+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Principals, Don't Start the School Year Without This Commitment (Opinion)",
-      "summary": "Principals, Don't Start the School Year Without This Commitment (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUN1N0VPUHVobHgzWkRsdE0ydS0xeExqZ0xUS0dXT3NhOWN5WlVOR0QzMnhiRVJiUDdpMlZwZjRjT0p5bU9IUnpMeWJkTzlScnZ1VHFpcjZma3FkcHBFWEdUY3FoTUNzX2VjTVJpc0RyU0VfWHNPRzAxLVhJQVBTNGxBa2ZPQWRNVEFQcm5WXy16dUVrTlpyNEdmRnN5VXJlNTNtbDVrOA?oc=5",
-      "published": "2026-08-11T18:46:09+00:00",
       "beats": [
         "Schools"
       ]
@@ -263,6 +287,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "How many of these classic queer books have you actually read?",
+      "summary": "How many of these classic queer books have you actually read? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGJnM1ZiTDEzVUtZUXdob1ZvcGpwUTVXYnp3MHRha2oyMVhPbXU3QklkS0lndXdrN1N1Rmxha2U1WGlJT0pkRlM2YUJjek0tTlE2UGV3S3BPRnJPLWtEZjNUMVZfQTE0b2lVc0ZvaFgyNzJnajVGamxHSEM0eERDOExuem1VNkVYSy16TEs5R29BSlpCcXRIUzhB?oc=5",
+      "published": "2026-08-11T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -282,6 +318,18 @@
       "summary": "Doctors say to ignore Trump as he cites hearsay to upend vaccines amid historic measles outbreak Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZm03Nk40d0MwNnNfY3czY2NSeXJPanJsWFdzbTkzejhtRFRjU2hBb2dmckpUeVJGMGtQVDVfbWtLRDdTRjkyS0hRa0s4LXRXVXQ2c1JaejNwTUdCWXc5ejBlOUQ5MGdDaXBkbzN1R2xhOUYxa2xUOWxKb01mNFdDTQ?oc=5",
       "published": "2026-08-11T14:58:10+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trump claims vaccines are the size of \"a bottle of soda\" before passing out",
+      "summary": "Trump claims vaccines are the size of \"a bottle of soda\" before passing out LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1g3RlhZd2laM1ZUb1AtNUF3dEQzWkMxUnVXeHdjRWE1LWRjNUxicEJiVkxYZ1h3M3hiUmNIWS1SV2lVSnEyY1ZjNFhQVDh5YWFVdTc2cDlmSnhRZ2xsaE13bFlxNm00VmdjTXNfNTMyb3pCbllfWUsxd3BPNFViT3dqTzc2bVRQbFZnUFNVNDE3VHBMTjVING44enNHZWFyT0o3TFZ3R1E2cC04ZVlWdHJ3alY?oc=5",
+      "published": "2026-08-11T14:30:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -330,54 +378,6 @@
       "summary": "A summer camp at UC Merced helps middle-school students enjoy and conquer math EdSource",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2VWXzNOMmp3ajlzbVhad1JTcVh0bUxtcFZNdmxaVVd4Rmd0Z2U0NlJwZ3VQeVowbGFPeno2dnRfLWRjTW5YYnd2YWVtcXVQdmZNUkYtRTJrcWdyOXNEVV9jQUlrT2FFWjh4NjM5QjFBczVMaXZIQ0l4YUNLQjdtcWYtVTNFelo3d2dudkQ3WExpWjBLS21iMmZ1ZmxES3A3b241ZzI1UXlJVndQcUdWSNIBuAFBVV95cUxPQjhpZExCdnJFMDVrb0kwX3FHWHF6c3JEN1ozbEtPQW9rTl9jWVMzQTAzazNYSDB6RjYxNzRlQUFYczBZMWxEaVdZTmdKX3FyMHVzTXQzaVdISlpCbHpYODVUN0V0ZEJkM3QxOVA5RmFvcnUwdHZrQkpTeklSM0JmNEdQYU5lQWFfaDdzWVN5ZThvUU5LN2lxQkQ0ZEY3VDVEYlkwemIwVGpLcXBobm1BY25KY3hkSkNL?oc=5",
       "published": "2026-08-11T08:06:30+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran",
-      "summary": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjJsRHJrbjIzT3ROcFV2SzFUUmlpUXA4TENVOXRDekFqbDlISVV6cUxKX1I0ZDJwdm1iMjY0cWdKMW9ieTlneTludWFxZmVUNm02VjNFbnVpcHFfOC1LTW5TaTltMEx1QTBjUUg3TnFkQ2VXSWpV?oc=5",
-      "published": "2026-08-11T02:57:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Sherwin-Williams to pay $124,700 penalty after Beaver County residents say air smells of \"pure chemicals\"",
-      "summary": "Sherwin-Williams to pay $124,700 penalty after Beaver County residents say air smells of \"pure chemicals\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGdDS2t0RmJmaWZic19KTjQzeHRqY3VRbzJ5NF9QQmdDbVN0QW14OW9UdmZzc3RyYV95bDdiVV9RNjl3cHdhS3FoU2dnWU5JQ2VqZ2NkQWllRHVJa0lDNkg3bkxfUUp4WlFIV2MxX2tXVDN6RzM2Q3VENXVMRWlGVThzQl9jTkdiLXgyeXNOcl9ZSlljWVgtWWx3?oc=5",
-      "published": "2026-08-10T22:23:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
-      "summary": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXpqdm5Lbnc1SjdTdkM1dUpRM2V1b3VOdjgydVlPN2RrRU9aMGE3WF9TYmpzWFM2emlUU3BudFRRZEU2bHN4eUhiMnF5alR3UXROZzhmbXFYS0dSMk9lZV9PN3BrWU5Wb1ZsS05TMkRSV3VrRXVRdjRHeEtqdGJYTEJfR1AxMnVySkVRQ05nMnM4dzVROVFJd1dhMA?oc=5",
-      "published": "2026-08-10T21:44:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Teacher Credibility: The Do’s and Don’ts of Earning Your Students’ Respect (Opinion)",
-      "summary": "Teacher Credibility: The Do’s and Don’ts of Earning Your Students’ Respect (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzZMdm85WEVTTGZQWE9ncTFqQko5aWdrckVZbU5jdEZ6bGdnM04tcnY3WkgyaU5vbkYzc1ZELUM1OWdFWUpvcnBiOWZpMFZlWFFqYUQ0Q1BFdWd2M0dLdHJULUVwUjl3czFzY1N3LV8xZnJKeU5EV0NfV1JKdTBWU24xZi1rZzBhWV96N1V5R1VfVS13ZVhuSHVwSnhqWEFSNWJjaVBYR3NJS3VZM3Rpd29ZVVQ1LU5sXzFqTkV0VlV1bnVZZmc?oc=5",
-      "published": "2026-08-10T20:03:13+00:00",
       "beats": [
         "Schools"
       ]
