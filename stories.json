@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:02:41.132615+00:00",
+  "updated_at": "2026-08-12T22:25:53.581307+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,115 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment",
+      "summary": "Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tOExLWGdieDU4VF9MUjhfTjFmbnkwTHh6MXZCQnlzQjRGZUJMUkQ3UlR1dnBmNy1wS1JTX3Rmd1VYUlRmZXotNWxCQ0pDUGUxTE5EVlgxUmtfcGFaMHZHenRmVUdFSGQyWlM0cGRoX092R3JXT3dr?oc=5",
+      "published": "2026-08-12T20:53:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Cisco's stock drops despite earnings, revenue beat",
+      "summary": "Cisco's stock drops despite earnings, revenue beat CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFBtZVBuaXd2OWtpV3AzNFItQl93WGRmRmtHcGFlc2s2NFlCMGRnOEVfWDFGU2ZRb1Nnd09vSzBwM0oyN0Z1dEl1bGR6dm9DTF9iNmtLNlhiQTMzMEplQm8teld2WXFBT09VR0ZWQW1CU20wRWMwUkNEWUZ1UXZDZzh4cUJkWWlBYWRNenJB0gGTAUFVX3lxTE03WFk3WWhMM3JsWExaTmFBa2Z0NFhRazZFajlRR2pTaXg4THhjWUJrWkhUa3RINXpWeUdXNUlkM3BkMWJXQnhzZ2lrSXQ2Ty1jR2RiM2RQaFpSWHN1WGc1NlRTSElBY1lXMVZ2X2pzOVNfQjZEQl9DZ09GOWxERERXR3lWTEdxS1J6V0g1MkEyWUNOMA?oc=5",
+      "published": "2026-08-12T20:51:07+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Virginia congressman's meeting with transgender Democrats erupts into profanity. Then he walked out",
+      "summary": "Virginia congressman's meeting with transgender Democrats erupts into profanity. Then he walked out Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbnZyNHJvZ0hNcDFFcU9DSHhOOUJWZDJQR3BBVEt2anZpTWc1dUxsRW5FNEZXTlBQRW5ncm94MDVjcWpCT05sWFlVZ0NWMXlaLTU3RTJmMlRCcFZreTZUSGp6SndlTER3SVg1WVEtczI3c1pod1NuZ1VaSkgySlVlZFRfX0JZZm9zNE9V?oc=5",
+      "published": "2026-08-12T20:40:48+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump sued over service selling faster access to Truth Social posts",
+      "summary": "Trump sued over service selling faster access to Truth Social posts NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUxwVjhqVXhzR3BvYjZGR2QybzN1bHNyTGs1S2dLS1d6TUJZX2tzbC11MC1nV3JqM3V4c2YybnVQZ19qcWRTVGkyY3JaWE1MUjZHcW1VSklGWHVoT3ZacUJBaTViaXJ0NUFseWRKY240c2U2Q0ptYWpvcmdZTF9meQ?oc=5",
+      "published": "2026-08-12T20:33:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
+      "summary": "Controversial group wins $158M-contract to represent unaccompanied immigrant children NPR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZHlIQnhBbElpYjgzdldTTjM5OHpXeW4yTXIxSDBOcVZXTkxDcGl1Z2RBdkV3eDdxdks0dWxJbWpOcHN5T0QzVkNFaWFhSUF4VzJITVZYMzFya05oaFAySHppSHFRYThfaC1iTkFCY2VvZjdPdkg1Y0pDNWw?oc=5",
+      "published": "2026-08-12T20:19:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "summary": "Cerebras stock plunges 14% after second earnings report following IPO CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJcHVySkhhUXc0UTFTUU44MC1zazJYSFpyMVRkdy1MUG5QSDBOX1dkVmstdi1VWVBZTm91U2ZXYzhXZmlzUlAzT2NNdExXMVZ6eWdyQkQ0eFA0UzU3amczTzYxQkthMTRWOXJGRjZ0bzQyT2F6b1pGbFMwN1hHcTDSAYQBQVVfeXFMTlk2ekExUzkydDVRQ1E3elduc0F5c08tUklVMFJBazUyS1lEZml4alVXSTdxYWpSdVdiVEFuVnMtVnFSTnNOWjZsaldlUlFyMnBEU0pWbkFJektITkdWSnItZS05aFBfRm94X1ZOV1J0Y3FIdXBUdklRLWZJSktrekxYRG8x?oc=5",
+      "published": "2026-08-12T20:15:47+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "2 dead after military helicopter crashes in Central Texas",
+      "summary": "2 dead after military helicopter crashes in Central Texas cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hU1dYNkpyWHpMVEpQcmZ1SWlsaURlcE11WGhDbS0wQ0NhY0g5aUVkU2daMnZoajUyY012aWZVYl80Y0tMemF4eWVYeE5nYXFuVV9VWUt6c0dvU1lkMXhDcmg0SEV6dHJLYUdwbU9McFFTUzJT?oc=5",
+      "published": "2026-08-12T20:12:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "White House press secretary leaving",
+      "summary": "White House press secretary leaving NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGFLaE9QOFp2TGhheVdHeWNNMmFkRl9WSTVLR3YzdDRCNGtzak5jM0NjZzBLcXZTTTlVcnpxdXFrM3hNeGM3cl9jTW4wbmV1YWhFNlN0ZFVGbkhoTUIteG5wdnhJb05zU1lKeW5aS1liQmFrbkxIYVZzakR2RVhIRjJWRXk4UVNtUVZwSGtKWUNBMWpDZnprTGx3RXFJQQ?oc=5",
+      "published": "2026-08-12T20:05:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "White House press secretary Karoline Leavitt leaving role, Trump announces",
+      "summary": "White House press secretary Karoline Leavitt leaving role, Trump announces cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZThyVDMwXzg3ZWl0M21JODRqNldqd2llVDNaZDl6MXhESHRDZVNENVRYS0RpVXZOcFgxYmlVUWM4MDdMYlozRVRhWWdqZFNqTGZsZlJsZDQyYmFiX3hxQjQzQ2ZpQ3ZRX0JuYWRxaWd6QUJhQ3Q5RkJqSUdYUmZ3WXJ3?oc=5",
+      "published": "2026-08-12T19:47:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -35,10 +144,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "NASA astronaut Mike Fincke leaves agency months after medical emergency in space",
-      "summary": "NASA astronaut Mike Fincke leaves agency months after medical emergency in space CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEaldfOFA1VmVtZmI1ZlB6aklKZ1VjWU5MTjVyaUE1a2hjTkhOWmc2b3FlaTlKNWVFSURCRG42R01DU2s2d0pNNkkzUWNQM1kwV01PZUs1djRzcldkYTBfMUpQZmhEWmZqMnBUdWNDVkh4aURRSzlnUElEQkZ1QQ?oc=5",
-      "published": "2026-08-12T17:58:45+00:00",
+      "title": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access",
+      "summary": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbi12ZTE2NFdGWWpYWXZXMzlBdTNwTzBsX3VTSXlKVXBMalp2d1c5MTl4QS0wakgwb09FQXVwOVBad2ZWcGQ2alFjanA3dXFDaTBjWmRBckV4X0h1WlRoWDhHQXk0amdNYWRwSg?oc=5",
+      "published": "2026-08-12T19:25:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,85 +156,13 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Virginia congressman's meeting with transgender Democrats erupts into profanity. Then he walked out",
-      "summary": "Virginia congressman's meeting with transgender Democrats erupts into profanity. Then he walked out Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbnZyNHJvZ0hNcDFFcU9DSHhOOUJWZDJQR3BBVEt2anZpTWc1dUxsRW5FNEZXTlBQRW5ncm94MDVjcWpCT05sWFlVZ0NWMXlaLTU3RTJmMlRCcFZreTZUSGp6SndlTER3SVg1WVEtczI3c1pod1NuZ1VaSkgySlVlZFRfX0JZZm9zNE9V?oc=5",
-      "published": "2026-08-12T17:56:55+00:00",
+      "title": "Top House Democrat presses Marco Rubio over Trump’s gutting of successful global HIV program",
+      "summary": "Top House Democrat presses Marco Rubio over Trump’s gutting of successful global HIV program Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLXRzX0xTU1k2a21kVnhQSTVqY244WDYyakItcHRvWUwwWlFhVFkyd3dNOGpEZnVjZGlSaFFPOWc3Q2c1M0RZXzZ0OC1JYnpPR1lpWXpCM192SGdyTng3VV9xa0c5UDZzdGZKOFR6MHFTTjBwR3d3NVMwOUoxZGNIcg?oc=5",
+      "published": "2026-08-12T13:42:34+00:00",
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Democrats Pull Back From the Edge of Disaster. Again.",
-      "summary": "Opinion | Democrats Pull Back From the Edge of Disaster. Again. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHJWZ0hVNUVSSG1vNF9XUVA0Xy1TeHRRdXEwVEVVZlNBYWZLVlNJSDlXeWI1bTVXZmg4aE5VNmNlUzh4ckQxSGFsMC1nRm1UMTBfRVAtUFV4bGV0MVdIS3NmR21sUk5GVUhWY1kxN1ZOSnpiN0Y1aUZoazVxZWJuWHBNajNXcmc?oc=5",
-      "published": "2026-08-12T17:53:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The Trump White House flat-out lied about his secret plane switch",
-      "summary": "The Trump White House flat-out lied about his secret plane switch CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BOS1lZC1pbWw4TVhWR1BGTlZiejZkSjhuc0xJYUE2OXkyTkpXRFBYQW9BLUc1NFE0cnNnUEF1bEFNckhlTmNMWXRhdkgyYmdBOTNNWFU0LVpCNktQbmYyZnhxWWlsdGNzcHpQRnZMYWs?oc=5",
-      "published": "2026-08-12T17:40:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-      "summary": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHo5ME56cGViSkk1QTAtb3RwVk5waTMxc09EY1VST3pjLVN6UDdrOWxORTJyeU5Kd3dmSlliVnJVUDlFOVVuRTZxUE1mSV95MXhuRWpZZVhuYkc3LUctSFNjOWd0dTNhcVZyc2dIUjE4eHpac1FsMlVvM3Z0a1JqT1lYOWtQNDk3djhQYUphbmlOMm94OE02N1d3S0EzeDNVakZQS05JNWNoYlNoQUIwc19BMEV6OVZUQzh4M9IBwgFBVV95cUxPMUJvQmpxOHZITFJNeFpTSlR5NFRKRk5pYmN5N2wxbVFhT0x0U1U1eHY1VUhUNUVfd29DYThzbGpJOGYyNElIZ2s4WGhJcFM4U0VrRnpza1lhT3V4bnplcGJXOU5nVnpWTU41VGlEd0pVYlBYLXExdzE1cURsQS13OUVKakdWeWpJbjJZOEFwUmxQdWhhbFdveGFYXzVEbExIQ00tODVlWFpSeUI0aU51NjFqclJNQVJ3RjdBZW0wUTZ1UQ?oc=5",
-      "published": "2026-08-12T17:31:04+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exclusive: Former employee at Southern Poverty Law Center arrested on fraud charges",
-      "summary": "Exclusive: Former employee at Southern Poverty Law Center arrested on fraud charges CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZEUtYmdvMG5DTjUyOWI1STFoRTBCQlE2eUNxUVVoZVJ2Qnl2UENmQldsaGw5WGdXSU1sYkxVLU9YSTNIUHlzRWVxNU12SEsySndLQWc1ekE3Ti1zelJHOHZhZEFiUzhqTm1aenBob2NkYmFqM0dwdHM5ZE0?oc=5",
-      "published": "2026-08-12T17:20:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump sued over Truth Social advance access sale",
-      "summary": "Trump sued over Truth Social advance access sale CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0R3U2djVuaHNkaDM1Q1dyMTlPWWkzVjVzOWpyaHkxdnVZVEZIVlpqM3ZwNmloSzJwNWlrdFdmQ1ZYT1NsQ1N4MFZ6R0pvOXBTSDZiaXd0Z3g2QzBWNDZJdmpPMW1JbjZPMjZTSk51LXDSAXZBVV95cUxPdzF3alRFb3plclRvbFA2eHk1VEFndVZHMHhFelRLa0F0dTFlTjd3OGNiWWs0U08xa1VDUkx4X056eDhBeXR6a0JZTnBwbTAyWXdMV0JsRUI4SDg1cm4ycy1mMXI2UUdpckV2dzdZTU5DczY0OEFn?oc=5",
-      "published": "2026-08-12T15:15:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-      "summary": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUk0wYmN3Nmk2c1MyNU4tYUVONkpUa095eENvMDJPRXU1dnVmSWFfRzhPbFVFUmlvdXprWmlHNWo3NU9HTThCX25xek4zc1VmVjFwQ2ZoaUlnNVFzZnVKLVZ6TUVXMXRUeTRBTTlIa3JxdlZWQ0dJSDRnRFRsWnZkZ2tkTmdxNFFqbzJZZ1RhTlNTbVVDNS10WkR1amIzZlNJN1hocw?oc=5",
-      "published": "2026-08-12T13:38:58+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -141,39 +178,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
-      "summary": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlcxN0ZxekJIc0Exc0E5MnlfR096OXYwZDlRYXB4TmFOemZmcTZMMHpicm9FY2xRQXhlOUc0SHhLY1pBaDhEWnJsNlRlMnhJWnR2bmVKVm9PV1p0YlkzRGFONGFnd1VBeXJ1cURrYk1lb3hnQkp2Z2cxS1Y1MUNrZWxpMjBqZ3FSUGN2enNfSmlVZmdZTkV6ZkdBTFhweTI1WnZRaDhtazg?oc=5",
-      "published": "2026-08-12T13:00:19+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why.",
-      "summary": "Opinion | I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why. The New York Times",
+      "title": "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health.",
+      "summary": "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92dTl0THFwbG55TmtyeTZkZDhsUGsxczd4akx3a1g4Q18wRGh4ZXhtY3VSaVNkcmR2STR0bk54dXBqYUFEb0p4cnhLdzNsRFh2YU5EV0xlbFpodFpWR2ZKQ0RST2k3bzN0NkhvNE5FejMwZ1pydGdyOFVR?oc=5",
       "published": "2026-08-12T09:00:16+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "University of Michigan won't use letter grades for some freshmen next fall",
-      "summary": "University of Michigan won't use letter grades for some freshmen next fall NPR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeHpNcFJva2tvSW9tY210QVdpSWNSd3lvMVk4ckxELTlNcmJFTkdXajdoTFdHdFFqdHZoU3FsMmU5emJtODMwVXkteTYwWm5jelkzaWktb3RtZ0dhM1pxa2hEYVlBS3hfY0l3VmpBcGd5VDFJeDNNaXV0THhFN19STzFISm00UFBTTlZ3b09MNTVPSkRuWVhFSVhoWExWa3RkYU11Umtn?oc=5",
-      "published": "2026-08-12T08:45:44+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -196,6 +209,18 @@
       "summary": "U.S. and Iran close to a \"peace arrangement or a deal,\" Pakistan says CBS News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFJmRllSZWd4dDRyLWZ3ZWU2NWVqRk9BekR5c0xkZG14Q3BKQmt1SnF4Q2VOX19IaWU1dUFTYXU4WTdENnBPWEk2cG1QU05WZHNnWWFPUWs4VFZadURZeTVnZG9kcEpTQ0lWVklCcUdfcUFoY0tFTjBrYXkwNUJXYTV3T1QwYlF0cGNUWkNXWnBnVmY5TXpOc1ZOMV9Udw?oc=5",
       "published": "2026-08-12T07:26:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump says security threat spurred secret plane swap in Turkey",
+      "summary": "Trump says security threat spurred secret plane swap in Turkey NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXkzUV9FZGJVRFdwWDhYa3JqckdsVHVWNWxQS2s3SjRULWU3MEpKMXpuR3dwOVhuT2x0MnhJUU5DcThrQnAtU2djN0k1Tjg2SkNtbGpKNGI5b25SN0tPaFVjYmg5ZklPU0pyd3dRZGZObkV0ZjNtRFB4WldfNEJ2UTdxRGFvdFN6WFdVd2gzb3JOa2N5SEpxTktxOWNwS3RLTnF4RDV3anFBbFdRbVBjYXN4YXMtTXR3UXdSUw?oc=5",
+      "published": "2026-08-12T03:10:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -250,18 +275,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump’s new Medicaid rule strips care from low-income families of transgender youth",
-      "summary": "Trump’s new Medicaid rule strips care from low-income families of transgender youth Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xYk5rUW9RU2FxanFuSUZqZV9rT1lUSGtzWXNzUVdwZUFjbklpNHhwLTVHWTJ3Sy0xTmxnc054MXBUaUo2dVFsSld0ZFpYQlhjTThTX0RUQTBmbE5UZ1A0MVEzYUdXOUFDNlFqMUtmN2M2Q1Vtb2dJSkY2aw?oc=5",
-      "published": "2026-08-11T21:24:13+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -308,18 +321,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Hawaii House Primary Election 2026 Live Results",
-      "summary": "Hawaii House Primary Election 2026 Live Results NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDlyWmJSUW0yR0ZFNk1lSHlLWVNzUDQ0dnJvX1o4NVhIV0RzSjNpUjFHU3RJNTZJRjV1SndNRE9qWlQ5TmtPZU52QWxDOHFfa0RjUWRTblgtV3kyTlpjLVQzVkZGYWRJcVJqaFIyLXJzRjViVU1iRF9iZkJsZkNjMFdB?oc=5",
-      "published": "2026-08-11T17:02:33+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -372,15 +373,15 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Special education state complaints jump nearly 50%",
-      "summary": "Special education state complaints jump nearly 50% K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHpWX0lWcjRtd3hHUkNLb1k0bGF2X1U1TDVqRDFuRWRORkF6Tm0tSWVnMlVJakEwbkYxaUhmd1VhSm0zWDFpZEs1ZGZlUmdKdVlLTFZnbUZsanFMdWtyTkVDQl9HT3NZLVZOTkRhemItOFNGUG12VzJobWtiRzBIQ2Z2a3pJYnpLaUdBYWNkRQ?oc=5",
-      "published": "2026-08-11T13:25:25+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trump claims vaccines are the size of \"a bottle of soda\" before passing out",
+      "summary": "Trump claims vaccines are the size of \"a bottle of soda\" before passing out LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1g3RlhZd2laM1ZUb1AtNUF3dEQzWkMxUnVXeHdjRWE1LWRjNUxicEJiVkxYZ1h3M3hiUmNIWS1SV2lVSnEyY1ZjNFhQVDh5YWFVdTc2cDlmSnhRZ2xsaE13bFlxNm00VmdjTXNfNTMyb3pCbllfWUsxd3BPNFViT3dqTzc2bVRQbFZnUFNVNDE3VHBMTjVING44enNHZWFyT0o3TFZ3R1E2cC04ZVlWdHJ3alY?oc=5",
+      "published": "2026-08-11T14:30:00+00:00",
       "beats": [
-        "Schools"
+        "LGBTQ+"
       ]
     }
   ]
