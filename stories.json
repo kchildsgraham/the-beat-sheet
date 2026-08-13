@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:25:53.581307+00:00",
+  "updated_at": "2026-08-13T05:19:34.519923+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,103 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Rep. Max Miller sued by ex-wife over release of ‘sensitive’ photo of child",
+      "summary": "Rep. Max Miller sued by ex-wife over release of ‘sensitive’ photo of child cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNlE5YjNFZ1FjWmp2S2hmVUs3bjFFaW1xVHZTZGFaSFphYXl0ZllaR3Z1NEg5M1JyZ1d6MFBHMUZlNFE0b2phUFVyLThQTWdsR0k4ZXpwdUY1amJ1VjJLTEJiNG9iNE41MElkTXpHMXdUNnlxVFE?oc=5",
+      "published": "2026-08-13T03:43:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Markets look past soaring U.S. budget deficit",
+      "summary": "CNBC Daily Open: Markets look past soaring U.S. budget deficit CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYTZwQjRyYVRNekwwSjVucE53ZVlMeFFCMnBXVG80WkxxQ3E2X01aaFVZRUtyclNDOXE3R29kTVZrTkFrWXhoQmRENFpTWlA1MXZTVUtoZkJTT2ZqbTRoWFZhSUIxUzdldUN0dDlPWktkVW5NSGhDOUNMblRhUlpiTE5VdnRkbmhVRENOX1RSTXZlSXRqRkpRRUdsNVBJZ9IBowFBVV95cUxOTmcxM0VBbXFHRXVzVGFqX0VMNmVLUkFtWG82TzY1TXNSd1B0Zm9UOUdwcklYRHg2bHYwSnJEcFdDWE95cjFCS1BBYkZjNVA3ZXZhWjY1Y04tVXZNSzhZU1VkSy1pV3hqRDVzb2pyVWI3a3hVVVBtUUtYSlFDcDZ5eFVKTXFEVVY0OUYtM1dFa3ZUZWs0ZkoyZ2ZlVkhxMEpBdXVR?oc=5",
+      "published": "2026-08-13T01:27:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
+      "summary": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcFlEZUloX0dlRHB6S0xLQ1JHRmVLSXItaUs1dndpNG15Z2RPV1g1QUNxZnF0MWtZc282dWlQeHRzaVJqeDhxVVV3bU9GdGsxOU9QcmNhMnEzaDZNZmVrUV9vdDZQMTRpcDdLdjgwSThBNnhtaTVWZ3M0TldfSXd1YlZMTdIBiAFBVV95cUxOQUJrNy15ckhJYTBseHRNenQ0SXpsSFRGa3lXZ3BmWXhhOF81aWlZOVZ4Z0VVcXJZaVJJQnVQU2l0bEJxeGxlTG9wQWlGcGlUUjEzWkdQV0NNVHBJT19aMHFkbm1YenA1d2ZZNEhXVHFmczFZS2FscHB2bmo2ZTdZQlV0MUFoQk5R?oc=5",
+      "published": "2026-08-13T01:12:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Colombia limits foreign rescue teams as earthquake survival window narrows",
+      "summary": "Colombia limits foreign rescue teams as earthquake survival window narrows cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWkxJOFA3dldiaXRfdmt5OGQwa2RMVkl6d1NHd1lKY3JKZVJzai1PME02VVByNTd5WDRPTXBiNERXWFVrdWZZekxIV0c1UUZlUERnQ2lDRm8tTHhEWS11bF9MUFlsMXJuVmdiZGxOd3k2YzRCX2EtR1o4VFYzU0pSYjVRTmJlcjQ?oc=5",
+      "published": "2026-08-13T00:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback",
+      "summary": "Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGxRUjRhdnE0eGZPZGc0SWlFQlZHbXBiX2dKdm4xdnRFNmxZWGUxYXpMNUM3YlNNbnFFTlVqMEMyV3RXX0J5WldiTDdOYUxhVk1GZnZELUhDN3EycWNEUzVFOUx4eDRJS3czMFJZUTZwc2NRb1I5M0dFd19zU015Vmw5LUdXV0FsWWdB0gGQAUFVX3lxTE9jbjlzRkJUaHhoYm1PV1dwSU5KdWRnVERncGhHOW1fOUJiamtXTzNGRGthZ2Q3cFZmZ1JzYlJjVF9fUFo4UXpXSFlCYU53SDl0NENlNmJxWWdWWktWSDZfc24yd2dHMW5SUjA5Y20tZjlnMzAzZFVEbW9aUURDRzdETXpTT1ZrTzNwWTNFSFpFNg?oc=5",
+      "published": "2026-08-12T22:27:52+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "ICE plans to outfit officers with electric shock gloves",
+      "summary": "ICE plans to outfit officers with electric shock gloves NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckVJdU1SeWVXanlsVUx4RTI3MDhXWlVLalEwQjkzWEpsYnU4NGF1YmhMdDNGNUx5OGlvNnc0WElNYWN5OXllZElNX3luVUZqdE1ONnhQb2tvLW1QdDdjQ2FMUGU2X0F3ekJmOHpIa08xeGJwbGdXNU40TGFPQVM1SQ?oc=5",
+      "published": "2026-08-12T22:13:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Sell Ukraine 10% of US Patriots and ‘we will destroy all the Russians’ ballistic missiles,’ Zelensky tells CNN",
+      "summary": "Sell Ukraine 10% of US Patriots and ‘we will destroy all the Russians’ ballistic missiles,’ Zelensky tells CNN cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHBUN0h5WlZwV054SWFJWmtCOEFOaFdJX0hQWnVuc1c1X1RXUzNTeWRYa0RxZk5sX0tIT24xY210RGRQdnI1dHBqczYwcmRtaVVlVnNaWXdzY0JEajZLX0I5SmdYUzdic3JZM3hjMmR4QjVkSTlhMW5mc1lBUm1KaHBXbVhpRTRxLUxrdnU4QUc?oc=5",
+      "published": "2026-08-12T21:38:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Karoline Leavitt will tell her last lie from the White House podium this month. Trump says she's leaving",
+      "summary": "Karoline Leavitt will tell her last lie from the White House podium this month. Trump says she's leaving Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOanlzcGpYaHFCd0FWSGpBc1dwTlNYSVFaTnlkWVZLU2pHRlBTQUI5ZmFJZC0tWEtlOGd3aU9NVUdfdTIxRVVPc2pkMTR5Q3k5OGZReHlhYkNvdmZxZ2pySnpjM3l5bG5ON0pVaGxDUzhKdVBMWllBRUV5bndLcFZ2Snl0RQ?oc=5",
+      "published": "2026-08-12T21:16:48+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -29,18 +126,6 @@
       "published": "2026-08-12T20:53:09+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Cisco's stock drops despite earnings, revenue beat",
-      "summary": "Cisco's stock drops despite earnings, revenue beat CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFBtZVBuaXd2OWtpV3AzNFItQl93WGRmRmtHcGFlc2s2NFlCMGRnOEVfWDFGU2ZRb1Nnd09vSzBwM0oyN0Z1dEl1bGR6dm9DTF9iNmtLNlhiQTMzMEplQm8teld2WXFBT09VR0ZWQW1CU20wRWMwUkNEWUZ1UXZDZzh4cUJkWWlBYWRNenJB0gGTAUFVX3lxTE03WFk3WWhMM3JsWExaTmFBa2Z0NFhRazZFajlRR2pTaXg4THhjWUJrWkhUa3RINXpWeUdXNUlkM3BkMWJXQnhzZ2lrSXQ2Ty1jR2RiM2RQaFpSWHN1WGc1NlRTSElBY1lXMVZ2X2pzOVNfQjZEQl9DZ09GOWxERERXR3lWTEdxS1J6V0g1MkEyWUNOMA?oc=5",
-      "published": "2026-08-12T20:51:07+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -60,46 +145,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump sued over service selling faster access to Truth Social posts",
-      "summary": "Trump sued over service selling faster access to Truth Social posts NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUxwVjhqVXhzR3BvYjZGR2QybzN1bHNyTGs1S2dLS1d6TUJZX2tzbC11MC1nV3JqM3V4c2YybnVQZ19qcWRTVGkyY3JaWE1MUjZHcW1VSklGWHVoT3ZacUJBaTViaXJ0NUFseWRKY240c2U2Q0ptYWpvcmdZTF9meQ?oc=5",
-      "published": "2026-08-12T20:33:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
       "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
       "summary": "Controversial group wins $158M-contract to represent unaccompanied immigrant children NPR",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZHlIQnhBbElpYjgzdldTTjM5OHpXeW4yTXIxSDBOcVZXTkxDcGl1Z2RBdkV3eDdxdks0dWxJbWpOcHN5T0QzVkNFaWFhSUF4VzJITVZYMzFya05oaFAySHppSHFRYThfaC1iTkFCY2VvZjdPdkg1Y0pDNWw?oc=5",
       "published": "2026-08-12T20:19:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
-      "summary": "Cerebras stock plunges 14% after second earnings report following IPO CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJcHVySkhhUXc0UTFTUU44MC1zazJYSFpyMVRkdy1MUG5QSDBOX1dkVmstdi1VWVBZTm91U2ZXYzhXZmlzUlAzT2NNdExXMVZ6eWdyQkQ0eFA0UzU3amczTzYxQkthMTRWOXJGRjZ0bzQyT2F6b1pGbFMwN1hHcTDSAYQBQVVfeXFMTlk2ekExUzkydDVRQ1E3elduc0F5c08tUklVMFJBazUyS1lEZml4alVXSTdxYWpSdVdiVEFuVnMtVnFSTnNOWjZsaldlUlFyMnBEU0pWbkFJektITkdWSnItZS05aFBfRm94X1ZOV1J0Y3FIdXBUdklRLWZJSktrekxYRG8x?oc=5",
-      "published": "2026-08-12T20:15:47+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "2 dead after military helicopter crashes in Central Texas",
-      "summary": "2 dead after military helicopter crashes in Central Texas cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hU1dYNkpyWHpMVEpQcmZ1SWlsaURlcE11WGhDbS0wQ0NhY0g5aUVkU2daMnZoajUyY012aWZVYl80Y0tMemF4eWVYeE5nYXFuVV9VWUt6c0dvU1lkMXhDcmg0SEV6dHJLYUdwbU9McFFTUzJT?oc=5",
-      "published": "2026-08-12T20:12:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -117,37 +166,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "White House press secretary Karoline Leavitt leaving role, Trump announces",
-      "summary": "White House press secretary Karoline Leavitt leaving role, Trump announces cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZThyVDMwXzg3ZWl0M21JODRqNldqd2llVDNaZDl6MXhESHRDZVNENVRYS0RpVXZOcFgxYmlVUWM4MDdMYlozRVRhWWdqZFNqTGZsZlJsZDQyYmFiX3hxQjQzQ2ZpQ3ZRX0JuYWRxaWd6QUJhQ3Q5RkJqSUdYUmZ3WXJ3?oc=5",
-      "published": "2026-08-12T19:47:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
-      "summary": "Trump says Karoline Leavitt resigning as White House press secretary CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEc1SE5vWmdheWI2YVhzWmlkV2tNVkNWVHpFTlBkZDRKZ1pGSUdwUldwWVlRZG44ZFktanl0TzNKUnh6dFVrX1VvcGpRNVVVYnNnVFBTNVJmdFVHWU1DaTN5T1ptVmFRcVZheVliWWRxSUFxQzVmLVFPNWlPU2lTd3pyT1hwM2gzTVHSAY8BQVVfeXFMTlpUTVVSSHB6TVRZbFhxVkNadDR6TkZKVm16M2QwZFJZRm13bUFDS3IwTGRWazlMUHNlZDR3WEVpa20ybHphUWsyM085NGRiQmdTcVZacGczb0o4UFhFejJROVQwNy1ZV3B5X3A1eThJVGF2VVFqQkJ2Rk1DNHJ0cjJiN2s4dDVTZWJpZDlQZ0k?oc=5",
-      "published": "2026-08-12T19:40:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access",
-      "summary": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbi12ZTE2NFdGWWpYWXZXMzlBdTNwTzBsX3VTSXlKVXBMalp2d1c5MTl4QS0wakgwb09FQXVwOVBad2ZWcGQ2alFjanA3dXFDaTBjWmRBckV4X0h1WlRoWDhHQXk0amdNYWRwSg?oc=5",
-      "published": "2026-08-12T19:25:15+00:00",
+      "title": "Nick Reiner indicted on murder charges in killings of parents Rob and Michele at their Los Angeles home",
+      "summary": "Nick Reiner indicted on murder charges in killings of parents Rob and Michele at their Los Angeles home CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWhoZXA3dFVjZG1xX3ZPMkRXbWZiTENXQUEtdHU5U1BFSFVFR3YySkdxRzZyZFllal9UTTRENlpEaUZuVk5XRHVTZ2VVVTZpcC1pV01xR0lmbS1uTmpDUEpaaEx3MzYyN21vZEg0aFJKTGhHUG9kTzBYekhickJKX1hMMERfbXhNU3R1WGlHUGpXUlBoUmF6M2FsTFVKVzhqc1E?oc=5",
+      "published": "2026-08-12T18:46:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -190,18 +215,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "David Crowley pulls off upset over Francesca Hong in Wisconsin’s Democratic primary for governor",
-      "summary": "David Crowley pulls off upset over Francesca Hong in Wisconsin’s Democratic primary for governor NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjMzemJmb2ZMaUtVRjR5WURSdGhtRnVIX0dDUGM0OXFjdV9PT0hrUGxCeFJhdTlEMHlEdHc1Y1RVTEUyUXZCVFU5XzdES0FwYTlhbjZSTm9DbGdnVmZxd1RUbVl3QUxhMmNoaFdQeFducmNhUzRWZEVreTh1MlZPVlRmM1RMRUl2NjAxSWJZZ013SUJiU3pfMUJnRFBIUWFsdUVJM3RwZUJUOEFHNlBlbXlYeGRuRGFOb0dpZFUxMi1Pdw?oc=5",
-      "published": "2026-08-12T07:39:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -217,22 +230,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Trump says security threat spurred secret plane swap in Turkey",
-      "summary": "Trump says security threat spurred secret plane swap in Turkey NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXkzUV9FZGJVRFdwWDhYa3JqckdsVHVWNWxQS2s3SjRULWU3MEpKMXpuR3dwOVhuT2x0MnhJUU5DcThrQnAtU2djN0k1Tjg2SkNtbGpKNGI5b25SN0tPaFVjYmg5ZklPU0pyd3dRZGZObkV0ZjNtRFB4WldfNEJ2UTdxRGFvdFN6WFdVd2gzb3JOa2N5SEpxTktxOWNwS3RLTnF4RDV3anFBbFdRbVBjYXN4YXMtTXR3UXdSUw?oc=5",
-      "published": "2026-08-12T03:10:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran",
-      "summary": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjJsRHJrbjIzT3ROcFV2SzFUUmlpUXA4TENVOXRDekFqbDlISVV6cUxKX1I0ZDJwdm1iMjY0cWdKMW9ieTlneTludWFxZmVUNm02VjNFbnVpcHFfOC1LTW5TaTltMEx1QTBjUUg3TnFkQ2VXSWpV?oc=5",
-      "published": "2026-08-12T02:03:00+00:00",
+      "title": "Democrat backed by Blue Dogs and Bernie Sanders wins primary as parties prepare to battle for the House",
+      "summary": "Democrat backed by Blue Dogs and Bernie Sanders wins primary as parties prepare to battle for the House nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS3Y4X1lpekpiNVp2NDhjS1MtbktrbXFEYXdHakdUdVZvcFNmQklNVDNYTFh4ZXBPN0JTUV9TWWRrOW94QWNUR3FjVHZLcDAxUkNRSG9nOFI4OUhodHVIM3BPVXpqVG9lQlp6TXNGcWtFRVZyT2xLUmxDOW5ReDBLbk8xdDJOS0dRNkEwMUZxNUtta1gtU2Z0VHZKcXdqN3VmSnVRWlBNVW0wME10TXhhc1NDNWF1b3ItRVVEaDhSMzVFd2RTLVE?oc=5",
+      "published": "2026-08-12T02:34:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -254,7 +255,7 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina",
-      "summary": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina NBC News",
+      "summary": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGNDZkJLbnVQWS04a25MYXF0T2hXX3BTVDc0QTYxUktZMy1tZ21wM0t1ZkFmU05oZ1dQaU9nNlRDcU1vampvVWpEbTBEREEyMjlCR090ZjR4OEgwV3hsdmZhSkQ0NllEcVZDc3VxRU44WTQtY0JpTE9xRVRrMmFvTHBjNVFSaXZYNV9uWEVXdm9UQTZHanIxU0FwVm5vSzZpNjZFMG95Rmtidm53TENVVl9MMVZ0TU9hTWFmd0w3c1E0RGJDZXc?oc=5",
       "published": "2026-08-12T00:02:00+00:00",
       "beats": [
@@ -275,6 +276,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "This French influencer’s hairy/smooth combo has the internet divided",
+      "summary": "This French influencer’s hairy/smooth combo has the internet divided Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkZialNtMkU1WGZIVmQ4cFVYM2VJTGI0STFxVks3OEl6bmxKYTh6T1ozRkNPZGJMVDJXTFpTWUtqOUE3dlVJOTNhZHo2ME1NOFNnc1Fremx0SGRSbGRWdWVmWHp3NG5HbmxPdEQwN3JHZnA1QUNYdVRGek1IVDZwZEFXUXNOTm9HeUlXQ0ZjM2JqU19uYWNJcEp3VnpOWU9sT3o4?oc=5",
+      "published": "2026-08-11T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -284,6 +297,18 @@
       "published": "2026-08-11T20:57:13+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Austin Leans Into All Things Matthew McConaughey",
+      "summary": "Austin Leans Into All Things Matthew McConaughey The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0tobEJ3bjhHaC1OMTVLZnBRd2hzWF9LME9XdlY2dUxHeFhSaUc1TmNYb0hpQk92YU5obm1KNUlIWUE4cmlrWDdpOWlKd3A4TnRKMDU5eU4xc1dXQ0lENXZpQXlWV3AzNW9EbllzNmZKYXI4bFlmM2FjX3hmdE9rb0dtcw?oc=5",
+      "published": "2026-08-11T20:43:54+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -304,8 +329,20 @@
       "lane": "General",
       "title": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal",
       "summary": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gH0AUFVX3lxTE5HanJ3VVFldExHZ2xlcjVWc01jcGV3VHo4SkxjZWpQYzExRWVoNTVKOUNlOVVDYkhWejBrTGVUNmtJb2JlSnQ1WEZfVDNLN25yaVZhS0wyRFhndExkLTJEdk5rVE15bmlLZVFsNkJOVDhxOFJtT2lOQmxWYWJFb1A4a0dZdXBmRkFheWJnUExhLWhLTDEtMkZobjNwRXVJaFBZY0M4aWdzdGFfY1JlbEdTYnptdTZFY01IWjFSdTBNeXRIbXYzQ2ExbXZOenMxbUxaS3hXdm9UekRXc1NyNmZMR0t6NmVLMzB0MWV5Q3huaTBpZXg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gGCAUFVX3lxTE0wSVo5d2xCSWtYZ2tfd2FfS3dpbVR2VmtkVkVQLThXamJwRUEzRGc3djhwUmtCeXpaa01ZLUR2VUVIcVJFR0ZzalNjNFNpX1RmYWNaT0lEaFF1M09pMGJNVmdJRFVOSUw4UG9wNlhJVzdLTHNBT1RlUVlCXy1qZVpmTUE?oc=5",
       "published": "2026-08-11T19:35:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: States’ special education complaints are up by almost 50%, survey says",
+      "summary": "UPDATE: States’ special education complaints are up by almost 50%, survey says EdSource",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZ0dTZEVnMtd1pURlVmUVMzNWlROFBKQWgzM3Q3NHJrdTRkeTZ5aFk4bWNLYzlKRmw3SER1UzNQV3Y2bkNYSGNWNlB5b1RLX2MzVVpkSmp3YkRmb0E4Z2ZQS3RzMUlnY2JDZWRGNXE5TG04NktZS2ZZa3VRZUxSdXJ5ZDVqTldxLWRWWUhlRmFXZ3ZYcHlaR05CTE8?oc=5",
+      "published": "2026-08-11T18:00:28+00:00",
       "beats": [
         "Schools"
       ]
@@ -324,6 +361,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Hawaii House Primary Election 2026 Live Results",
+      "summary": "Hawaii House Primary Election 2026 Live Results nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDlyWmJSUW0yR0ZFNk1lSHlLWVNzUDQ0dnJvX1o4NVhIV0RzSjNpUjFHU3RJNTZJRjV1SndNRE9qWlQ5TmtPZU52QWxDOHFfa0RjUWRTblgtV3kyTlpjLVQzVkZGYWRJcVJqaFIyLXJzRjViVU1iRF9iZkJsZkNjMFdB?oc=5",
+      "published": "2026-08-11T17:02:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -331,55 +380,6 @@
       "summary": "Alameda police say 900 victims uncovered in identity theft investigation CBS News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3hfV2FQWEUxdTJ2NmRveFVIY2JHN3BscVAtdlFleVpPYkVrQVpNdUpSRXJ6cXpSOUVtOHlfMzNQT1M5QzZ1M2RNOGd2RjNyOThtSlp4NTJrRlhWOG0yb1AwdXJ3NTFxLXFKSGxxak91cVpIclN3V3Zva2xKcnpMOGt2MnFCT3M0NXlyS0NkckItN1JIR1hteG5KdUVob3BoT0RuOEJYVWVnRWtmRkVuY1Fn?oc=5",
       "published": "2026-08-11T17:01:05+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Sydney Harcourt marks the closure of Cats by hitting the Eagle NYC: “Wear a jock”",
-      "summary": "Sydney Harcourt marks the closure of Cats by hitting the Eagle NYC: “Wear a jock” Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3p1UWtuZWs0VUp0RlFJUmxuOXRRU2FrX1prcUFTd2JYd3pBNDVPVFh5N1V3Wm9RdjY3bVJtU2RZUHNHQ0NGZy1BLVBiRjlNTll6YkVTcHRtWHJJYjYxbndpQ3o0d09CbjhJZ0pIejRadVlpbDlDX0FfSDFLSTJnT05sUGtZYnV0amxZTXFZc1VNcU5oSnh6bk5zMzBFVC1UNkF6WFZ4bE1zbEZBNlc3N0FB?oc=5",
-      "published": "2026-08-11T17:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "How many of these classic queer books have you actually read?",
-      "summary": "How many of these classic queer books have you actually read? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGJnM1ZiTDEzVUtZUXdob1ZvcGpwUTVXYnp3MHRha2oyMVhPbXU3QklkS0lndXdrN1N1Rmxha2U1WGlJT0pkRlM2YUJjek0tTlE2UGV3S3BPRnJPLWtEZjNUMVZfQTE0b2lVc0ZvaFgyNzJnajVGamxHSEM0eERDOExuem1VNkVYSy16TEs5R29BSlpCcXRIUzhB?oc=5",
-      "published": "2026-08-11T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Doctors say to ignore Trump as he cites hearsay to upend vaccines amid historic measles outbreak",
-      "summary": "Doctors say to ignore Trump as he cites hearsay to upend vaccines amid historic measles outbreak Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZm03Nk40d0MwNnNfY3czY2NSeXJPanJsWFdzbTkzejhtRFRjU2hBb2dmckpUeVJGMGtQVDVfbWtLRDdTRjkyS0hRa0s4LXRXVXQ2c1JaejNwTUdCWXc5ejBlOUQ5MGdDaXBkbzN1R2xhOUYxa2xUOWxKb01mNFdDTQ?oc=5",
-      "published": "2026-08-11T14:58:10+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trump claims vaccines are the size of \"a bottle of soda\" before passing out",
-      "summary": "Trump claims vaccines are the size of \"a bottle of soda\" before passing out LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1g3RlhZd2laM1ZUb1AtNUF3dEQzWkMxUnVXeHdjRWE1LWRjNUxicEJiVkxYZ1h3M3hiUmNIWS1SV2lVSnEyY1ZjNFhQVDh5YWFVdTc2cDlmSnhRZ2xsaE13bFlxNm00VmdjTXNfNTMyb3pCbllfWUsxd3BPNFViT3dqTzc2bVRQbFZnUFNVNDE3VHBMTjVING44enNHZWFyT0o3TFZ3R1E2cC04ZVlWdHJ3alY?oc=5",
-      "published": "2026-08-11T14:30:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
