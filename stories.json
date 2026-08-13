@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:47:21.255858+00:00",
+  "updated_at": "2026-08-13T22:24:03.264625+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,99 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Selena Gomez and her mental health startup accused of fraud",
+      "summary": "Selena Gomez and her mental health startup accused of fraud CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHRzXzBzSjI0b1ZYTi12TUc3aHhjTnlDVlJPb2lIb3IwWTRCbU9hbk5sX1pPWEVtb1QwaDdpNmlkaXptU19sU01YUjFmdUtadGwtTHo4Y3ZMbkZmcGI3aDRKM2JTVkQyQjl1a0pGeENxQlpGNDNpQVdyei1rUms3bEYxa0lQcGEtVElhaF9TdEplQQ?oc=5",
+      "published": "2026-08-13T21:35:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The Nuns Who Took Over an Assisted Living Center",
+      "summary": "The Nuns Who Took Over an Assisted Living Center The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82VG1lN0tGYVMxY3BTUzJtRG11cGo2dnNhMHJONDhoeHRDSmUxTWNlc2dEV0hpNU9CSE5sUmljTXFlanBKUWhlRnFoRlNrTXFzZHNpa3pqNDZyWHh2bFJfcTNvLXYzbTM1Q19zMFg5dGhzeXBYTGhMOGpMMXY?oc=5",
+      "published": "2026-08-13T21:30:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Minnesota Senate Primary Election 2026 Live Results: Tafoya, Craig, Flanagan and More",
       "summary": "Minnesota Senate Primary Election 2026 Live Results: Tafoya, Craig, Flanagan and More NBC News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmFiQnRuLWtOaW1sZ010dkpyd2NyN19pNkU0SFhlcXBSeWs4SkFrbUFibHE4MF9MNVliLTZ6QWJkM2N0OVZZYjY1andZLW1ZeFlqSlFQWTRYZlJXODFpOFhKalJxNHA2V2JuSjgyUmpyd1dWNTdlVmxtaDRSVE5KM05PSHVqREE?oc=5",
-      "published": "2026-08-13T19:22:36+00:00",
+      "published": "2026-08-13T21:29:13+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Female Afghans Erased From Public Life in Five Years of Taliban Rule",
+      "summary": "Female Afghans Erased From Public Life in Five Years of Taliban Rule The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0k5eFJpaHhhSnd4UE5rYURhUnFKNGxIaERrTmNYaG9CcWhpbFN2ZFFjc0djRHJnZ1pjM3ZoSHhROGEwbzRndVRCUHVFaU56elVzUjVSLUtWN0VVdDB4LXJ2ZlZQOGp0NWtlc3ZFVG1RV1NkeHotbnRBZHlhRnNvc2tR?oc=5",
+      "published": "2026-08-13T21:21:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Why officials decided to smuggle Trump out of Turkey with a catering truck and a secret plane",
+      "summary": "Why officials decided to smuggle Trump out of Turkey with a catering truck and a secret plane CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGOVNoemlYaXBzTUVMNUxwNnN3VEdWcnVSMVZRRC1oS3NzUkt6Uk1MU0Utb2Y1TnpRNHYtM3FuUWRoS041RDE4UTRNM0VzS01zYktKUzJCRGtmRmpmekVvSTZGSHZ3bGplZm9PN3BKLVlfdw?oc=5",
+      "published": "2026-08-13T19:31:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
+      "summary": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGZNbHpoemxwXzNBeWhxT0E0WG5fSjdHWFlYYkhxLTBjUC1LYVhxMGVtMkl0ODdDZUtIUk5pbTFpeWhJeC10QXlQRnNldWdYS2tHd2RfcGNudDd5TVhtNkhvUUdpb1VVbFVKU3NhMDhyN09KQnE3clFidTY2TFJpNW9vZ3dta0lfVllJcjhad2R6bnN4a2JjRmRwSlhneVl3cHVKLUFwTdIBrAFBVV95cUxQN2JBMGlISVZOdUJWWmx4a1BOZ09kb29RcUJQVlN6Wm1NbTJER2sxeFZ3OHpIUjFKbEx0dnRKZ1lBeWFIcDg4cXZ5WmM1MVJ3UkR0V25ZZEt6eXFMMlo4bG85ZmFDb0RvVUJnTkZVNHJ3bmROUDZqSVhUZk1rT05ubl8yLXlFOE1kZktiQ1R6VnZzMEFmSHRzYUdpQzFJRXNWRHRMSUdlczBqcGZn?oc=5",
+      "published": "2026-08-13T19:30:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump’s Iran headaches are mounting",
+      "summary": "Trump’s Iran headaches are mounting CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mMk8taUFGZjU1ZkFvZVVabVg2VEUyWHozQ3ZORVlST0NLUUdxSFY2eXpuc1ZQQUprWlIxa0p6a2QtYXVueldWZXZJbm5hTm4yMVkzN19xZjdKaXRTMTl5WF9GYXNIMEtEcWt2ekhJNEtCcVF2TFE?oc=5",
+      "published": "2026-08-13T19:02:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order",
+      "summary": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVE5ZOXFNYzFlU2N1THNOOWQzeUktT01IVjFvZ2VHb3hsRXVpa096aVg0SEtRMmZDQmhiajBUMnhCSFhnNXI2RUE0MGxNVXZnVW9McHRjVV9fSjNTYWNFYW1xN1lLSVY4bElQN21xa0ZORTYzMTZfOFIzUlNRMFk0Xw?oc=5",
+      "published": "2026-08-13T19:01:42+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -47,12 +131,36 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Workday skyrockets 20% before trading halted on report of Silver Lake takeover",
-      "summary": "Workday skyrockets 20% before trading halted on report of Silver Lake takeover CNBC",
+      "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
+      "summary": "Workday shares post best day in 10 years on Silver Lake takeover report cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczQ0NVBickJUOFVKTVdwLUZxQjVKU2hIc3NuTnhNUXRiVHJ0dGQ3VVlsRnQ1aVloOGdkQUx5QWZ2cUpzby1IQVlBUkV5aWw1ZUQycmRLaU0wcWstZkdDTnFISmtKUzNDUEttNE82dGVwMVZ0SEdWdnNnOUtYWHNBR3BKSG16NW9RbkwzRE9DWVdxMU9kancwVWJnUi12WXI3WjV0YmlNNE0tOUxYd0w3Wk5mRGVRdGEwaTBLMkR30gHDAUFVX3lxTE9wdTRrV0Njdi1uVldkY0wyY3BJWnZkZENoODBpczBhOFoyUTk5R3VVaG80YWtPUGZKNkZXNWhRWF93a0lacXQ5V09qcG0yYlhmOXBXd0RtelgyX0NXbWtwU1lDb0xOcHJUMU5mMjhkZ0NOamtXcUZ6WjdZNnF2RDE5RnV0MmRVeUt6VEJpMHBvMERuY1NfRmlvbmNGczRnMVFGZ2RtbHY5cExaaWZTaUhmZFpiZzFLeHNiWDh3NHB6bnZFUQ?oc=5",
       "published": "2026-08-13T18:47:17+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Judge dismisses Trump administration’s lawsuit against Harvard",
+      "summary": "Judge dismisses Trump administration’s lawsuit against Harvard NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cc29aaFc1WUVmX09MVHc3c24tTkx3ZGtKajJuSW4wODExWWVNVTFmOEpWOFVmS0tXUEFzZ1JUNXBscmJlYTFjQ1B4NUZCeC1MM1lqZS1QVmxYcGJueDFkNVptLVNqRGsxY1hoTHlfaDJoNjBnZC1mT1EtZ1pILXc?oc=5",
+      "published": "2026-08-13T18:46:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Texas District Solicits Instructional Materials; Mississippi System Looks for High-Dosage Tutoring",
+      "summary": "Texas District Solicits Instructional Materials; Mississippi System Looks for High-Dosage Tutoring Education Week",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQemhqUHlBbVZDTFFBYVg2aVJ0b2ctTGIydkpBNkZNNjAzRHlUN05kQXVMMUdWd2lMeW9xeTN2TDcyb0pld3lxbWhrNjFENWtrczJFWWMyQWM0Z1JHRUlMOVQ0dFBCWlRpa1Q3dkZpUXBsVEh4R2FTR2JWSUprVWg3VGVQYkJnRHpYd3lVWTBCRWUzR1czMXhWNHhGVGdZWGxTY3lyTEYyZmZGMk1fdmZaa0YyaDVScWktaDRNZGlQYjlTYTRrM2JrSGhkUkJac3ZRdGwtejkxSUpCMHBudEh5YnU4emJtQ01xY2c?oc=5",
+      "published": "2026-08-13T18:22:58+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -68,15 +176,16 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump’s handpicked Kennedy Center board votes a second time to close performing arts center for renovations",
-      "summary": "Trump’s handpicked Kennedy Center board votes a second time to close performing arts center for renovations CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iaVZ2aHc3bXQtVUE1MDNUaFJnTmc4cGdDVlp5cmR6Q3U4M3pGRXV1UENrRHZILU9YVldidzcxci1UYWtDVGRDQ0ItRk14bEJUTFZNVUxoMTRhMmEtVEMyTFJ4ekIxaHFkNDNPd09Lb3pSRWs?oc=5",
-      "published": "2026-08-13T17:13:31+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Peggy Flanagan wins Minnesota Senate primary with unapologetic defense of trans rights",
+      "summary": "Peggy Flanagan wins Minnesota Senate primary with unapologetic defense of trans rights Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEgtQ2NwTTZUNWc4TjlFdG9rX2tNRko1TWVyU1ZKeFhLY3Jkakh0a0tUdHNubWlwMHM2TlIzdXIyZy0zdndHRmxXSV9lemNybXpLUnVza1N1djhDbWFBWk1PUmxONUw5aWtPMEFIcHhtb2VKX0lDSFpUbVN0XzdxbDAwMA?oc=5",
+      "published": "2026-08-13T17:25:24+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -84,7 +193,7 @@
       "source_feed": "CNBC",
       "lane": "General",
       "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-      "summary": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say CNBC",
+      "summary": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5",
       "published": "2026-08-13T17:00:49+00:00",
       "beats": [
@@ -92,75 +201,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Todd Blanche makes plea for unity at Justice Department",
-      "summary": "Todd Blanche makes plea for unity at Justice Department CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUNVckpxT3BwUjRKMW1SWElJTHNwdEk5aGxEZGNUZ0hfMFZFcDhYM0czOGk5cVNZMFEyWThxYmZINFhwUWRNM1FZb2VSVWJOcW1OSGFaMVoxbDYzam5Hbmo4TGxxWmFSS0hDSGZVdWktc1lvSEVvMldwVmtKZlY1SHZYczUzVThzYng0aTNxU0pUYXc?oc=5",
-      "published": "2026-08-13T16:29:38+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Republicans were just busted creating fake \"local news\" outlets to deceive swing state voters",
+      "summary": "Republicans were just busted creating fake \"local news\" outlets to deceive swing state voters Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSUg5bDliYVV1azBlVFJhdThpV1dURG5QNXU2b1MtQkpZNDJYM0FSUlVvUjVaaXRpb1hER29qUEx2emVQRWljTHdIMnQ1UkxrQl9FaWZTTGRtMzJnb3N4MmY3a0N2aFRaT2pFUTh6VmdoWE9wbWprNzFDdmhqV25ZbEFkbFJiajRENmVmOXEtRDB3ckFPRVFSRmNmUnd4Wlp4UGtadm5sYU14a1FmRG1JVDFiVGpoYTdYQjdqbnRNbUNCNWc?oc=5",
+      "published": "2026-08-13T16:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
-      "summary": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzUDJHcGxIMHA5TEdHVkpQNWNndlFIdFdJYVNnSGtBQnRvZ2ZHUnhXQ3lsMVpxcWZ6R0ZiSTB0UXNJSXlUcmFwRDVHWHhWVTBXczM5bnBHUWtySHdzVzNWYTMyWTQzYzdHdTZqbmJ0cHd4OHlLRE1kRGM1YUluNknSAYQBQVVfeXFMUFU3RUdtT3VLNFJNdFExaUM1QTB5d0s0WDBnMk04TFR5VXVTcFA0Z3VWX3BZb1JlcklGN0ZtdE1nY2xCMVhxbV9PeEtJWnQzRVZvOU5WbGZudnVXM2pzeTNha3JuR1JhYUt5Qk9waEpVNGNqUHpweTF4ZWFkUktMOTkwOW54?oc=5",
-      "published": "2026-08-13T16:12:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-      "summary": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEUyakM1WEozYjRrZEFjU3ZVM1BMYVFIMFZZd1dwanhiUlJNRjY4b01kdEJ2Y0g2YW84aGZFblZ4emVkczlGM2wyMGlzQUg4dnFvS0tpSTdUcXJZbnRUSXhZQ3hKNnFTdHowemRVMEdObGJiTEpNZXFRdmFzNlVEcENOc1Rjazg?oc=5",
-      "published": "2026-08-13T15:18:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Lawmakers leave the VA secretary out of veterans bill discussions: ‘They don’t trust him anymore’",
-      "summary": "Lawmakers leave the VA secretary out of veterans bill discussions: ‘They don’t trust him anymore’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFN5Tjc0MmVxY2tubEQtNVlGNmpKcGV1cExVU1c4cWUtLU84UFZKWUZYZ1dYVUNoZnM2R19jYWZZaFR1aHdjTTllQmZvbElkSTNYRHJPQnB0cGxRcHJCSVIwcWlqNFV1dFdkWk5EdVBVVWF0bGMxMTdZZ1JmdEtFVlBENUd4RTRPV1dxbmtRdnZmQWc?oc=5",
-      "published": "2026-08-13T14:40:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | What’s Happening in Kansas Should Alarm Us All",
-      "summary": "Opinion | What’s Happening in Kansas Should Alarm Us All The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUUVXdFJwWXh6WnRWNXBTSGFvVndRZllrT0dhY1FSZUk5X1d1QVFJUzNwMmR5VEhWR3ZQc0tnbXFGY2xvdk9YdVY3eUx0R0I0eWFHOGZHbVMyRF9CdWp3ZjFrRmNPbE5wZnNGeUF5cUdjUHV4cE5DX0NlREdTTTBBSnRPQUVZdjJWcGlRY3FiZw?oc=5",
-      "published": "2026-08-13T09:03:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks",
-      "summary": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXc3ZnJEY3ZvOU5QLUs3YlNmNTNsQ1FSdS1LT0phclRMZmZmaTNzMWFpcUt3NUZEdXhXNlUwVjhiWmNGNlFJMjhiUlk0elA5X3B4c2V3Z1oyMWpHcXZIWEFIbFQtazRYQnVENFc2dTJneXJTdzZDNW9OVDFpZHp4dkdaSmRxdmot?oc=5",
-      "published": "2026-08-13T05:00:07+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -198,42 +247,6 @@
       "beats": [
         "Business",
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Colorado man shot in head during antigay road rage confrontation, police say",
-      "summary": "Colorado man shot in head during antigay road rage confrontation, police say Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hWGFYZHBaQUdMZnhQWnFwNzR6aV80cm9Bd3hxQlFjQ183VFY2cU1mZEtLczY5WTJZaG53SWxFNmE4TXZlSnJvb3N2MVd6YXNiMy1GUHAzZ2ZDb096OHlQUmt5MWxYbl9peTZfSkhpNlJkUnVZWWN1ZFdxQQ?oc=5",
-      "published": "2026-08-12T21:42:48+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "The 21 most sexually liberal cities in the world for LGBTQ+ people",
-      "summary": "The 21 most sexually liberal cities in the world for LGBTQ+ people Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVUZyY2xZci15X05sMHpsVkNtMk9uSmRZNG4xbFZyc3FRYUZiWG5NTjVueG9vdGN6NVJjdkVsV3k4dFlCUjJlSGJBWXM4alJnM3BYRjZibWhTenVZVkNnTjRWTmg5Z1ZkczFEaG5ZNlNfVGFHcmtQc1Y0ZW54YU5ZdmptWQ?oc=5",
-      "published": "2026-08-12T21:42:48+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Did we just get scientific proof that the global \"top shortage\" is real?",
-      "summary": "Did we just get scientific proof that the global \"top shortage\" is real? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjJ2MHJlOU1mdjdrdUNuZ3lZMXAzOG1QWFpkUUw1cjNmYXpmNmJiZ3YxeGRsMHhKR18xckdYVmxFblJaeEhnOTdSSUszclNCZDlMZUtBaG1tYjRwSGxiYTdrbDdQSTBuaDdjd0RsZUEwb3Y4OV81azFoSVB1NWZhN0JueDV2b3hReFRFZkxxZXFDM2R1M29RRjZHZ0tOcUM0eFBkRUtB?oc=5",
-      "published": "2026-08-12T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -284,6 +297,18 @@
       "beats": [
         "Politics",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Bumble scraps signature rule and now allows men to make first move on dating app",
+      "summary": "Bumble scraps signature rule and now allows men to make first move on dating app NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTU9SaHdVNnl5c2JRWkFKR2M4WThPR0ZlRVpYTE00SzNudVFpUGpMaWt0UVpIS1N4UkV3ZS1hZUpNdEtOUjU2R2ZHVzBXcVJQUFplc0lpQmVkZGJEQUVMYmp1OHFOS25ORjV3TDZQaUNyd1lHVTBtNDVPRGlFaWxaVmIzbDNzdVlzdDRkWTVFUWVqdHRkVjV3aDFFck14cEdheVlzVlRhVHdRYlV2azZmMnVvUHRTTTZCN3c?oc=5",
+      "published": "2026-08-12T14:31:37+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -358,30 +383,6 @@
       "published": "2026-08-11T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal",
-      "summary": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gG7AkFVX3lxTE1qbFpsQVJmZEFyUGNnWkdWc0QzRkg2a21hdnNzenVmeEZ0bm9rM0prd1RsVC1xWlR4UDdvWGh6ZjVjSy1jc2YtVUd5SFFISnpvX3FDWEY1ZHlFVjAteEpCVHFkM01YaGxrT1FZZGFpNUxnS2dvZzZncGRXVlRPTVg2UlBrQnk2NU9PdldLVWNoTk51aUk1MVJfSjhBbldUVktWdURjdlI3bXdwNjNxaHZwc2ZmblFwTXhCUHB0NmhtTy1LT1FYMlNCc2pqRnlHM2RzanZPQ1BsVkpOc084ZG8tbktTNll6NjNVTWg5Sm85dm5rLW5DN0lHS3N6M2hTYVhrcnZZWmRUYnBYSnJNYUN4b0I3a1phcUpqYjJic2F4OFpod0FjNDV6MzRrUXU0N0N3RmEtcm9Ld0hyQQ?oc=5",
-      "published": "2026-08-11T19:35:28+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Principals, Don't Start the School Year Without This Commitment (Opinion)",
-      "summary": "Principals, Don't Start the School Year Without This Commitment (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUN1N0VPUHVobHgzWkRsdE0ydS0xeExqZ0xUS0dXT3NhOWN5WlVOR0QzMnhiRVJiUDdpMlZwZjRjT0p5bU9IUnpMeWJkTzlScnZ1VHFpcjZma3FkcHBFWEdUY3FoTUNzX2VjTVJpc0RyU0VfWHNPRzAxLVhJQVBTNGxBa2ZPQWRNVEFQcm5WXy16dUVrTlpyNEdmRnN5VXJlNTNtbDVrOA?oc=5",
-      "published": "2026-08-11T18:46:09+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
