@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T18:30:52.832313+00:00",
+  "updated_at": "2026-08-14T20:17:47.012691+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Regulators and banks step up scrutiny of prediction markets",
+      "summary": "Regulators and banks step up scrutiny of prediction markets CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc2ZSOE55QldiVnNNazR3ZUFrblJtc3F1UW9VSXBhSmlrZ25IRE5ZSUZfZ2JXcVRmLXg4c0IzdUw4X3lGWUo3b1d1S3VkUHM5aDhZQy1NMXZHV29obG95dUc1d0hnLWdvQWtST01FWks4TktUTVotTF9SWGhKeGs1SWliQTZvbzlxRG44aDNDMnd3MnhyVzNSUzVHNHdLd9IBowFBVV95cUxOV3AxYzNSWnBFTUJKbVhfU3BtQjE2M3NKb1Z2VDg0QmZ1MFRBdXA1ZDdWd0dVM3BxSVRQWGY2WHlnMEhrQ3k1X0xCSjdMUVpRTnptT0twdWxWSmVJWGZxTy14OFhIYW5Gc3RuS0ZENlU0cU9sMm02NTlWa3o4ekNfTzVCYU9zclNBSHhqdGo1ZDZoa1VMemZwUWw1UWx0VllPYU9B?oc=5",
+      "published": "2026-08-14T19:21:49+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -32,6 +44,18 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Great Minds Sets Its Sights on Foundational Literacy With Latest Rollout",
+      "summary": "Great Minds Sets Its Sights on Foundational Literacy With Latest Rollout Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaERRRndweWQtcm1uZ1loUzJRZlFmWDdvcWtmRXpjMkludVRlLTJ2RHRCbWp1TmgwcE9tTzByeThMODZ4UEE4Zm95ODctSGp2STlRVU9tQk9tWHd6dk8tN1JTRko0TVRaMlcwZ3dyZVkzZC14S19aRThvVmJyeW9zaEp4U0hPUk1DcUFpQVQ2b080WUhaUVUxOHJoREdValQtbTk0ZUc4TTZoYjgxTGIzdHlLOG9qSlNvc1Jmd1R6cDJ5Z3I2b0xwZlIxdw?oc=5",
+      "published": "2026-08-14T17:23:25+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -39,18 +63,6 @@
       "summary": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO NBC News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
       "published": "2026-08-14T16:55:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "As speed cameras spread to more states, so does the backlash from drivers",
-      "summary": "As speed cameras spread to more states, so does the backlash from drivers NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fcnRpWFhaNDNNMXBYX2RSVjVJYlZHNGRZQUJmY1Z2TkMyX01vT0JCb2lxM3lmN1FRUUMtTTJjRGZHdkktSTFGcl80YnQzX2pJYWVxTEtlRWxPX2FGWHlwamVkUTJKY1NvdVd6TmRYX3hkdUhhMUc2NjQwRjd2LTQ?oc=5",
-      "published": "2026-08-14T16:54:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,6 +104,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Mangione speaks in court: ‘I shot Mr. Thompson and he died’",
+      "summary": "Mangione speaks in court: ‘I shot Mr. Thompson and he died’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWFNOWxJS2RUMGxUM1J3NmFMb3lYSnlZd1lDRzQtSWZ6NUtTZmNQdktKdXRsdGQwbTRTdjZVMDZ6aTItTWNnd0x4RlpfMzU3NUQwdEFXX0pmeURWb01fUHFBempfYUhleXJUelV6ZGpFbHpIM3RyYjNIZzV0NVdXS0tQNlhSb0FscDVOZXNuX3k?oc=5",
+      "published": "2026-08-14T15:52:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -99,30 +123,6 @@
       "summary": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing CNBC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUFKUUg1SDFpSnpqT3pPemdESEZneFZfNVNQN0N5UmEyWmdEMDdCRVF2TF9rRjRPUjVJRHhTc0piUEx2V1pfcl8yQkxKWVF6ZmUxRHUtX3k3bHNHN1YxdUNHSEU3MkxwanNweFVtWFNVTzBOWW1CWko0RWk2empydHNWdTlwdVh6WGZoSGVpNnMyd9IBlwFBVV95cUxPZlVZNkkxemRYZi03M2QwN3NBYzlvdzNiYTF6RTZqSGN3di1FZnVqUkU0dDZiaUVRcVl5TEFlRS1nZFNtQVpNRWlNLVlNZmZSRWJBODVEd0hEMFJadTFiZy1kTVVuUmxzTzk2bE9mZkRFOG1zMmdFZThVWWVTeUZKRHRKRHYxblNKY1daYmEwbWJ6cDBhdlJ3?oc=5",
       "published": "2026-08-14T15:47:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-      "summary": "Trump asks Supreme Court to let White House ballroom construction continue CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc05MS2NFbGt1OWk4eGFVTTA2QXRJNlllSTF6ek9NOUNZS0pRekdyX2pPQV9BYVlJZDdYVmhGcF9qdlVPSEtzcEZuWnRiUWd1Q1VobjkwZnBhSnBtRFptb0VEbTgwcEZnbmNrNnh5LU1aTjJxYjVIelVWNlFsRG9zNXota9IBiAFBVV95cUxQanA5WUhOUGdNYl9EX2VIcW5PZXUwdjI1eldyVEJHX3hCU1NMX2lEWk5DbFUtcGEzV2g5Vko2WGEzc3BTaDNZN1d4SjhjeURoNmduMkhQMDRNV2l0V1BvZWxHeWZKWW1abklpdWw3eEtCamw0VWNlSnhUSGJTT3h4d05sSmJkYWhD?oc=5",
-      "published": "2026-08-14T15:11:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "France’s top court blocks bill banning social media for under-15s",
-      "summary": "France’s top court blocks bill banning social media for under-15s CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWkItRWRhQWRYNnFTa0l3N21nUTMxZDF5dWQ0T0NmcmtMeFlTTGVJNUdnNm9fNzdoSUFsaENFclhqX3dJd2JfYnpwYjgwR0lZU2lzVHgzTi1JMnBUcUFkbjdwT2RQWDBXV3RMci1md1c2VzE4MXA0aEIzZXlaZExTa01kMGNFU0RNcHdZMEtZM1RUcVk?oc=5",
-      "published": "2026-08-14T13:44:33+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,24 +143,48 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.",
-      "summary": "Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway. The New York Times",
+      "title": "Opinion | This Is One of the Most Important Policy Decisions of Our Lifetime",
+      "summary": "Opinion | This Is One of the Most Important Policy Decisions of Our Lifetime The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdFlBMlUxc0xaTnhhTTRQRlFmUk51cWVxbGNBdzdpbW12bFZNRHhxYnJVM25vempiejFpVFJJVWhmZ1lpZ2NvV0RNcFBiMzNhVVlvQkdPTndmbkpKVDZaODNTWWpFZ3pqbXAwdlctQjZGN084M3RoMGFtMjc?oc=5",
       "published": "2026-08-14T09:02:24+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "A K-Pop Star Turned Art Collector Gets His Feet Wet as Curator",
-      "summary": "A K-Pop Star Turned Art Collector Gets His Feet Wet as Curator The New York Times",
+      "title": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator",
+      "summary": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator The New York Times",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PV19xRTV5cjU4djRVUmxMSDNnY2ZnOGFCTGw5cllJWUZ0S09FbFRuanlCY1c5RFhZWjZ5bzJiQ3pHUHRjaTdUQ05kZnF2NmlQZHBWenRPMURFYnR1UVdVeEtUZE02Tk51WG9acllGLV9Rei1pSmZNag?oc=5",
       "published": "2026-08-14T09:00:42+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "How would a Kennedy Center shutdown impact artists and audiences?",
+      "summary": "How would a Kennedy Center shutdown impact artists and audiences? NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyckozcXpnaWt5S3FGb2ZUSmpTYU5Ram9zTjZSNmZlcmxfVU1tQmFsZkhkcmMwaDZsN0FUcjIzYk1uenZHbzY2VXVUZFFGcmZmRnhxaDBJM3p2TlF0eGFLem9yeWpPc3ZwMkRrbTctRUh4S3I0QVZJ?oc=5",
+      "published": "2026-08-14T08:43:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Fortune Feimster shares bittersweet update on mom’s cancer battle",
+      "summary": "Fortune Feimster shares bittersweet update on mom’s cancer battle queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelJIc3RZTjdaQzM1eWN2eXB0WC1NSllCTHBCUlpyc3ZkWk5EdGFzWFY3WUhHcUtqNnh6U3d5UHVsaXlaMWh6TkJfLTAzVk8zNFJkaDFROWtQZG1IRHdXRkZoWnZwSzdGLUxtZGg4dlRwN09lRmtnUFR6bTI1WHIxYkR1WDVQOTBPTi1GUWZRRms0T2ZwOXZfTmhscWt5cHc?oc=5",
+      "published": "2026-08-14T00:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -204,7 +228,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Massachusetts AG struggles to explain why she won’t sue hospitals abandoning trans kids in heated exchange",
-      "summary": "Massachusetts AG struggles to explain why she won’t sue hospitals abandoning trans kids in heated exchange Advocate.com",
+      "summary": "Massachusetts AG struggles to explain why she won’t sue hospitals abandoning trans kids in heated exchange advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXQ3dlRlR21BdmdSSFFXcnB2SnJyVEszcW9SV0xBVkx4YnBDcVotMEJQR1JoV21RSlFET0xxQ1hRelhoSGRJMmZrU3l2Tk1mZF90bkdCNFZ3ZkFUeE9LdHFTd0lNV3FGeHBhck40dnZmS3QxNERNNkZSSU95dnA3Z1V3?oc=5",
       "published": "2026-08-13T20:05:23+00:00",
       "beats": [
@@ -216,7 +240,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order",
-      "summary": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order Advocate.com",
+      "summary": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVE5ZOXFNYzFlU2N1THNOOWQzeUktT01IVjFvZ2VHb3hsRXVpa096aVg0SEtRMmZDQmhiajBUMnhCSFhnNXI2RUE0MGxNVXZnVW9McHRjVV9fSjNTYWNFYW1xN1lLSVY4bElQN21xa0ZORTYzMTZfOFIzUlNRMFk0Xw?oc=5",
       "published": "2026-08-13T19:25:24+00:00",
       "beats": [
@@ -228,7 +252,7 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Matrix director Lilly Wachowski says she can’t get Hollywood to fund her new all-trans movie",
-      "summary": "Matrix director Lilly Wachowski says she can’t get Hollywood to fund her new all-trans movie LGBTQ Nation",
+      "summary": "Matrix director Lilly Wachowski says she can’t get Hollywood to fund her new all-trans movie lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWRHOVJ5bkZxTUZrUkgxNENiZVFxZ0stVmFka2NwTmpOSWxLWWhKakprbGhuR0tvWW9WQ2xkRjZDQzB5RkNER1M4Xy12TGdMWWN1S2hqN0RGVExjV1ctc190R3R1NHVvR3N0RWFmVjdnNUxMSG5RZjYwd3ZMbEV2M3Z5QUgtbTgzVVlQQ1IwN0RENFg1TUZUdzFiT0FwQTktQm54R0ExM1pnbFo1V2hvbENlQ3dIeTVQZFAtOFBwN3lpQXpVOUhZ?oc=5",
       "published": "2026-08-13T17:28:06+00:00",
       "beats": [
@@ -240,7 +264,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Peggy Flanagan wins Minnesota Senate primary with unapologetic defense of trans rights",
-      "summary": "Peggy Flanagan wins Minnesota Senate primary with unapologetic defense of trans rights Advocate.com",
+      "summary": "Peggy Flanagan wins Minnesota Senate primary with unapologetic defense of trans rights advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEgtQ2NwTTZUNWc4TjlFdG9rX2tNRko1TWVyU1ZKeFhLY3Jkakh0a0tUdHNubWlwMHM2TlIzdXIyZy0zdndHRmxXSV9lemNybXpLUnVza1N1djhDbWFBWk1PUmxONUw5aWtPMEFIcHhtb2VKX0lDSFpUbVN0XzdxbDAwMA?oc=5",
       "published": "2026-08-13T17:25:24+00:00",
       "beats": [
@@ -357,31 +381,6 @@
       "beats": [
         "Business",
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Baby with heart defect born to surrogate must receive treatment, Texas court rules, amid multistate legal battle",
-      "summary": "Baby with heart defect born to surrogate must receive treatment, Texas court rules, amid multistate legal battle CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0RiY2VBenhfcHVLOFc1a2xydG9FRFoxN1g1M1BpNzdDazU5WFNEVG5fUFZKeHdTSG9MdU8yMnVnSHJ2RGFMbkhwZWYtMzJybGNXd3RPZ0h1cHFiNkQxQlhPVXQ4WkJvdGxmN0V3cTFZRVBGS1BhcDJyNkRLd0k2X2p0U3M?oc=5",
-      "published": "2026-08-12T17:03:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Democratic Rep. John Larson loses his primary to opponent calling for generational change",
-      "summary": "Democratic Rep. John Larson loses his primary to opponent calling for generational change NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHRQbXdhbUVXUmFEZzlaOUFBaEFsVjdRZ21qOTU3ci1vNTl2LVJrSWprRUgyMk8wQ0xqOThPRHc4U0E1cmE5WjFmUVVJRTdnS3FJMmdJVHVoalM0SGdQd1JEV1VIbkVxck1nTk12Z25lWVRCR1UyYjlWM2dySll5ZnRYR1YxNWpxYU5tN0F3bUQ5Vkc1cjNuNWFkVGpwWjdabGl2a0R4UUQxZ1Q4YUw4WkV2a2piRU1XSEFPTklvVGJQYzV6TlFR?oc=5",
-      "published": "2026-08-12T01:43:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
