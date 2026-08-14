@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T20:17:47.012691+00:00",
+  "updated_at": "2026-08-14T21:44:09.786893+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO",
+      "summary": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
+      "published": "2026-08-14T20:59:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+      "summary": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
+      "published": "2026-08-14T20:31:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Could Your Classroom Use a Little More Fun? Start Here (Opinion)",
+      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXBQNEhFRE5mMFFxSXRrU2V4RmlZcEl2eGJvYUFiZmcxRTdEYnhhOUlPX25FdURtZHJYWHpkWGE4bkFaNlVPclpOY0NfVUFsbllLNGJQZjJiWEM5UnlGWnRieHd3RmQ0QjZNOTZjNno4am40dWdDM20xSDhxUDh4RElGOG8tWGhwMkxFLXlDejZFTklIcVh0aTRVb0ctUDBvanNTcVd5Vkt6RHpYa2Fv?oc=5",
+      "published": "2026-08-14T20:28:35+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -29,6 +65,31 @@
       "published": "2026-08-14T19:21:49+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows",
+      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXE5Sk0ydmxVeS1TT2ZXUkhLd29VUkR1dld2OXJ2UUJ2X3lFaEc5YjBqb0MxUWZnMGUzVXdpWHNMaldDLUk4ZGxDNXRXbDlVUGRtdlM1REVxQ0Zzbnd3ZTZibkthSlpWVm16TEFhdXVBZFNNM2Z1eFA4YmZIbTdMMU0zZF8?oc=5",
+      "published": "2026-08-14T18:45:25+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘Very outdated’: Trump’s directive to revert to steam catapults on new aircraft carrier baffles naval experts",
+      "summary": "‘Very outdated’: Trump’s directive to revert to steam catapults on new aircraft carrier baffles naval experts CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nVEhkSXl5Zk85SzJTbnJqUXcybEFQV0Y3QVpOYlpYekNLMGFIcWE5R0lGak1iVGdjeGthQS1rNW4zN3BzNmlqTnp3b19mT0o5dnp0dzZCOWQzQnhWVHd5QUNES2pXZ0N0X0FvTFhKbWV3QjA?oc=5",
+      "published": "2026-08-14T18:34:40+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -53,18 +114,6 @@
       "published": "2026-08-14T17:23:25+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO",
-      "summary": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
-      "published": "2026-08-14T16:55:07+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -116,48 +165,24 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-      "summary": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUFKUUg1SDFpSnpqT3pPemdESEZneFZfNVNQN0N5UmEyWmdEMDdCRVF2TF9rRjRPUjVJRHhTc0piUEx2V1pfcl8yQkxKWVF6ZmUxRHUtX3k3bHNHN1YxdUNHSEU3MkxwanNweFVtWFNVTzBOWW1CWko0RWk2empydHNWdTlwdVh6WGZoSGVpNnMyd9IBlwFBVV95cUxPZlVZNkkxemRYZi03M2QwN3NBYzlvdzNiYTF6RTZqSGN3di1FZnVqUkU0dDZiaUVRcVl5TEFlRS1nZFNtQVpNRWlNLVlNZmZSRWJBODVEd0hEMFJadTFiZy1kTVVuUmxzTzk2bE9mZkRFOG1zMmdFZThVWWVTeUZKRHRKRHYxblNKY1daYmEwbWJ6cDBhdlJ3?oc=5",
-      "published": "2026-08-14T15:47:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump asks Supreme Court to let him build ballroom, citing national security needs and architectural values",
-      "summary": "Trump asks Supreme Court to let him build ballroom, citing national security needs and architectural values CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0ZqWTVlakptR05fdzJ0NHA5OWU4S0YwbGhDcXZLcmhrUW9HNGRjXzFWSUtmWGJ3NXlTQzdpUHMtOWNBbzVFLVl5M1J1WVlBa05PSFlTNGt1Y3U3ZXpwZUFuUjhneUxqVHJPUEJ2R0FkQURtcmVlTDNISDFFajZ5d2dDSlduRW0ydldBeGV3?oc=5",
-      "published": "2026-08-14T13:31:46+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | This Is One of the Most Important Policy Decisions of Our Lifetime",
-      "summary": "Opinion | This Is One of the Most Important Policy Decisions of Our Lifetime The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdFlBMlUxc0xaTnhhTTRQRlFmUk51cWVxbGNBdzdpbW12bFZNRHhxYnJVM25vempiejFpVFJJVWhmZ1lpZ2NvV0RNcFBiMzNhVVlvQkdPTndmbkpKVDZaODNTWWpFZ3pqbXAwdlctQjZGN084M3RoMGFtMjc?oc=5",
-      "published": "2026-08-14T09:02:24+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator",
       "summary": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator The New York Times",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PV19xRTV5cjU4djRVUmxMSDNnY2ZnOGFCTGw5cllJWUZ0S09FbFRuanlCY1c5RFhZWjZ5bzJiQ3pHUHRjaTdUQ05kZnF2NmlQZHBWenRPMURFYnR1UVdVeEtUZE02Tk51WG9acllGLV9Rei1pSmZNag?oc=5",
+      "published": "2026-08-14T09:00:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "How Rep. Max Miller’s Democratic opponent is navigating a ‘surreal’ political opportunity",
+      "summary": "How Rep. Max Miller’s Democratic opponent is navigating a ‘surreal’ political opportunity NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHZNOFhnLU52MG9YdEg1cFU3X0pHNHdlVjF4ZmtnelUtR0NkRXdWLWg4Rzk5enZSeUY5LVJuNDB0aFlsUUs3U2FYOGNsbUc2cld0TXVkMTdOZzNvUzdCZnBkZUgwM0tIcHY4UVM3dUZxUDllRldiS21iUVFZdEdmVUxtOXZqSHJjazR0NnpuTS1SWnRoRGhyNHhnT3FUa2VQTUtfNDJJSUQwVFN2VGt6T3dPb0dWQ3hoVkpQNUtiay1QaWtLU09B?oc=5",
       "published": "2026-08-14T09:00:42+00:00",
       "beats": [
         "Politics"
@@ -176,27 +201,27 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Fortune Feimster shares bittersweet update on mom’s cancer battle",
-      "summary": "Fortune Feimster shares bittersweet update on mom’s cancer battle queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelJIc3RZTjdaQzM1eWN2eXB0WC1NSllCTHBCUlpyc3ZkWk5EdGFzWFY3WUhHcUtqNnh6U3d5UHVsaXlaMWh6TkJfLTAzVk8zNFJkaDFROWtQZG1IRHdXRkZoWnZwSzdGLUxtZGg4dlRwN09lRmtnUFR6bTI1WHIxYkR1WDVQOTBPTi1GUWZRRms0T2ZwOXZfTmhscWt5cHc?oc=5",
-      "published": "2026-08-14T00:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "New York City Public Schools to place ‘school avoidance’ liaisons in every building",
-      "summary": "New York City Public Schools to place ‘school avoidance’ liaisons in every building K-12 Dive",
+      "summary": "New York City Public Schools to place ‘school avoidance’ liaisons in every building k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFZWc1lOVmc2bS1jZnkzOUd2ZzM0WldZYnFGU0x1TDcwWHFkb1ljR2Jzbm9VVVJxNENPc3hYaFRPSGdJbkNxNWZZSHlZb2M1SFl2NUZmUFROVHM4dlhfODVSdlFGNm5rZ3hrMDBRSFl0TDBJaDVveXNsZ1gzb2ZSRjExSDlqaUktQ1JXNUNNVndkTlp6eXhUMG9EMVdUd015RFI0bzBrZFJ1ZGZDU1E?oc=5",
       "published": "2026-08-13T22:20:29+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "1 dead, 1 injured after car plunges off Santa Cruz cliff into ocean near Steamer Lane surf spot",
+      "summary": "1 dead, 1 injured after car plunges off Santa Cruz cliff into ocean near Steamer Lane surf spot CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUGpwNUtmdHlITUIxYnM5UVlsZVJZRVFEODhQNTlkcWw1NlNIelRLN0tRZ1VlR3RnR3hwd09vVzBNMXpGQVA4UVlCNE5sek51VUdfUGx6VDdjYm1CUDVBVkFOM0s3aWlVZkZzR2hpRjhNdk5UOU5FSkktN0JnYWRReVNHcmZ1OFVHbDhVWTdJa2dhQnNYOFVvR3BmYw?oc=5",
+      "published": "2026-08-13T21:15:59+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -228,7 +253,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Massachusetts AG struggles to explain why she won’t sue hospitals abandoning trans kids in heated exchange",
-      "summary": "Massachusetts AG struggles to explain why she won’t sue hospitals abandoning trans kids in heated exchange advocate.com",
+      "summary": "Massachusetts AG struggles to explain why she won’t sue hospitals abandoning trans kids in heated exchange Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXQ3dlRlR21BdmdSSFFXcnB2SnJyVEszcW9SV0xBVkx4YnBDcVotMEJQR1JoV21RSlFET0xxQ1hRelhoSGRJMmZrU3l2Tk1mZF90bkdCNFZ3ZkFUeE9LdHFTd0lNV3FGeHBhck40dnZmS3QxNERNNkZSSU95dnA3Z1V3?oc=5",
       "published": "2026-08-13T20:05:23+00:00",
       "beats": [
@@ -240,7 +265,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order",
-      "summary": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order advocate.com",
+      "summary": "Trump’s Kennedy Center board votes to put his name back on the building — despite a judge’s explicit order Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVE5ZOXFNYzFlU2N1THNOOWQzeUktT01IVjFvZ2VHb3hsRXVpa096aVg0SEtRMmZDQmhiajBUMnhCSFhnNXI2RUE0MGxNVXZnVW9McHRjVV9fSjNTYWNFYW1xN1lLSVY4bElQN21xa0ZORTYzMTZfOFIzUlNRMFk0Xw?oc=5",
       "published": "2026-08-13T19:25:24+00:00",
       "beats": [
@@ -252,23 +277,10 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Matrix director Lilly Wachowski says she can’t get Hollywood to fund her new all-trans movie",
-      "summary": "Matrix director Lilly Wachowski says she can’t get Hollywood to fund her new all-trans movie lgbtqnation.com",
+      "summary": "Matrix director Lilly Wachowski says she can’t get Hollywood to fund her new all-trans movie LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWRHOVJ5bkZxTUZrUkgxNENiZVFxZ0stVmFka2NwTmpOSWxLWWhKakprbGhuR0tvWW9WQ2xkRjZDQzB5RkNER1M4Xy12TGdMWWN1S2hqN0RGVExjV1ctc190R3R1NHVvR3N0RWFmVjdnNUxMSG5RZjYwd3ZMbEV2M3Z5QUgtbTgzVVlQQ1IwN0RENFg1TUZUdzFiT0FwQTktQm54R0ExM1pnbFo1V2hvbENlQ3dIeTVQZFAtOFBwN3lpQXpVOUhZ?oc=5",
       "published": "2026-08-13T17:28:06+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Peggy Flanagan wins Minnesota Senate primary with unapologetic defense of trans rights",
-      "summary": "Peggy Flanagan wins Minnesota Senate primary with unapologetic defense of trans rights advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEgtQ2NwTTZUNWc4TjlFdG9rX2tNRko1TWVyU1ZKeFhLY3Jkakh0a0tUdHNubWlwMHM2TlIzdXIyZy0zdndHRmxXSV9lemNybXpLUnVza1N1djhDbWFBWk1PUmxONUw5aWtPMEFIcHhtb2VKX0lDSFpUbVN0XzdxbDAwMA?oc=5",
-      "published": "2026-08-13T17:25:24+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     },
@@ -298,6 +310,18 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "\"Shut the f**k up!\" Democrat storms out of event as voters voice criticism of anti-trans bill",
+      "summary": "\"Shut the f**k up!\" Democrat storms out of event as voters voice criticism of anti-trans bill LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSS1MZHFhaXYzQzA4MDJwOTk3WG14aXg2dndSdVYwVDN2SGFDM1pzSDdYaC1BdjcyNWV4UzZVZ1c0dkxYLXpleUZTWnNmbDVUT0h3N05ReHVyRnBNYlhUYlpsOHlJV1VQRlZSTXdfU1dwNHpiOUZyVnBqVFBRTl9USmJsclNKRzlXTERSVndITktaQS1mRjRHV05OVkJVa0cxZWpnZWlocVp1WWhvWmVWc1p4cW5EU1N0Y3dhT19KbEc4OWs?oc=5",
+      "published": "2026-08-13T15:14:13+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -322,6 +346,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "😭 or 😂: Do Your Emojis Make You Look Old?",
+      "summary": "😭 or 😂: Do Your Emojis Make You Look Old? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT0lUT2Q0MFVlR3NTSW45WTIyVTBBdG5yUi1LUXAzOG1ySUhhTHMtNEVQV08tLVI4ZzI3aG14cDB3NGdzNTBwSjNVQXFFMFZ2ajRBalF4bEFpaDJVbmFmMTdhdTVIYjdjOGdvWVRVOWNFTGhRUndVa2xhWEh6c3ZCaW53?oc=5",
+      "published": "2026-08-13T00:49:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -338,46 +374,9 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Unions sue Education Department over ‘professional’ degree rule",
-      "summary": "Unions sue Education Department over ‘professional’ degree rule K-12 Dive",
+      "summary": "Unions sue Education Department over ‘professional’ degree rule k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVhqWFhxT3lJME1pVllmRnYySjF0NFJPZEhDUUZXeElqVGx6RUJJc0pkWHJfMWN1U3dJSUJMMUF2Q3F1a1JBOGZpcjVsZ3Z2Q3FYdkxLa3J3NUNwcXdoMGhpemhMcGhHb3VMSXByRU1McTV4eldIbWx6V2FScUFVMWxMWlZ4aDNMRGdzZjVkN0ZPbDY5LWx0SjM2NWZPWk0?oc=5",
       "published": "2026-08-12T22:10:27+00:00",
-      "beats": [
-        "Business",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "5 tornadoes confirmed in Illinois from Tuesday's severe weather outbreak; Monee tornado upgraded to EF-2",
-      "summary": "5 tornadoes confirmed in Illinois from Tuesday's severe weather outbreak; Monee tornado upgraded to EF-2 CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUxiVkVJNTJzX2x6blk1QWR5RUdRNnN5YUpObTBPelozSzQ4bkhuUENYR2FjaldBQUY4NFM3SEN5VmtJRjZZZ01RUlRMUXA3OHgtVWw0VmpFYXNDbjRCdDI1S051MXhuQVBPQVhPWlFrNHd5aU1pUjRjRkp1S1R0ZDdQYlZNOHEydUhnZlEtZnUyRDYyNHVzUkVWV3ZubGs?oc=5",
-      "published": "2026-08-12T19:57:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Improv can help educators draw students out of their seats and shells",
-      "summary": "Improv can help educators draw students out of their seats and shells K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDBlZlE0b2pkUEhobkd4enlzQ2ZsbGY5bkVQZnE1RjdtaERRdnBFbnRCU29hSS05VTBvQm1QeXc0YWFqWEFJU2QwS1UtVllEOExCd0c1dVJ3ZEx0NFdrNDNYdW05cThVMkttODFjZXdCWFIyTVkxc19ZZE0za3hrMHZOeWMtZWVMV24wZ2h0TnNYVzI0S3lWTWhYUG56TGJfTThzOGVlLUl5UQ?oc=5",
-      "published": "2026-08-12T18:45:27+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: California recruits teens to help advise on state’s AI and technology decisions",
-      "summary": "UPDATE: California recruits teens to help advise on state’s AI and technology decisions EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVRRTjVmc05oeUdDN1ppZkYwNzROWGdhc0c4OGRDakhCNnFxVlZtaERadWdyN3ZMLXFQZTFxMjVQc293Qm44RnhKc2tuaFdhS2IzSy1fUlBJMk53ckdaQUFWOGhZaWFMQjRFdWZ0Q1BVVEpaeWZ3SkVLOTdOQkxjdk9hQ3lZcHFYNDdxTDh1RzllQ241UlgzaW9ERmo4elYxbUljbE9GZmNLSkE?oc=5",
-      "published": "2026-08-12T17:40:22+00:00",
       "beats": [
         "Business",
         "Schools"
