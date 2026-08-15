@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:43:58.367245+00:00",
+  "updated_at": "2026-08-15T16:54:28.067926+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+      "summary": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
+      "published": "2026-08-15T14:45:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -35,12 +47,24 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Multiple shooters and 5 people shot at Virginia State University",
-      "summary": "Multiple shooters and 5 people shot at Virginia State University CNBC",
+      "title": "5 people shot at Virginia State University as police investigate multiple shooters",
+      "summary": "5 people shot at Virginia State University as police investigate multiple shooters CNBC",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlZ0RUxJcXNxSVRob09GOTBVOVZ6Q29Pa2VsOEJVLWp6SzY0NmhGWTMtTFdDUVlkNXZiMGsxczIzMzE2d0hTZjRCdk90RlRlT1J0QjltRi1CN0c5dWR0UG1WRktEVjZkUzJ0QWFtWmhjZVpDVXhwNmNaMm5YYkFYS3UzN3lHOEdtM0F6ZVVhcFNSWklSR0s0bzlOdUNKdHVq0gGmAUFVX3lxTE1hdVdYU3NvZ3d4dkpPMVBJQnExcHpCQ2hMMmVpdm9tWVVZZENleUZ2ZlZlM3Y5eXFQTkw3U0FsVjR3OXhadGQxZkpQQVhwWWF2UGI4MHJaVElKZGVBUEVRR1RSbU4zM0RWLU5NYXBhWDNBLTlLZzZkY1JGRVBnTUpDTWJQbHFOcHZRRFJrMHVtbzRFX0dTbzNrYWNXc2otazdzVUtRWXc?oc=5",
       "published": "2026-08-15T12:30:22+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Hawaii's Big Island lashed by rain and wind as Tropical Storm Lala closes in",
+      "summary": "Hawaii's Big Island lashed by rain and wind as Tropical Storm Lala closes in CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUZpM0VSOFFtTTVwazdaWElMZ2pPUUcxTDBiZS01WXlHOFFCeGR2WGI4UGtfTkFzalNKMHA3UGI0b0Q4MV9RamRSVDI3MzZUTzBHa1RqWUhKWmctblVOQ3FuOTZUalFDTHEtU1pkOEYySjVIbUNYVXFvVlBjZE1PUFRkVldDTGJhd1ZKS0gyeFZGZ3BsNXgxVUh4THhaUmxPdXlB0gGoAUFVX3lxTFBKb09jeVBLOUxHbEdWSDRFNHNsY1RGdnZKeGtlSGZmNTN3OGgwZ3VOSkYwRDc1NUdtamtibWdnZTkwRnVnTVVWM3EzZEx3Qm1qaDNOd05nUi1lZjlqbWEzSUdocUtLV1FvclAwRUpnX3haMDFNdVdDckpqNTc3dnpCZnFFcnhaUmxKWFlxdUxXRTBDTEFEZWxhYUNZR3dlOW93bnQ4WVdwOA?oc=5",
+      "published": "2026-08-15T10:35:20+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -104,18 +128,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
-      "summary": "Russia's economy has defied the skeptics. Cracks are getting harder to hide CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96UGNCYjQ5UkVsaFZxY0tzRUJnN2RYLXZqY0tXOTJGbHFKUnVrY2VlOVh5ckMxWllZYTVlZHBUd2hBTGhnTjVTT2NaeXJfQmdKQkZBd3hBdmktZ1JINjFHWVJFWDFSNHhKYWlqRkQyUVpjNlRzMHdSLWRlSzNVUdIBgwFBVV95cUxQOXpuZFNVaTJmTUhuLTlMM2gxbTM2Z0FRME1tMVR6T0NXU2ZidGxFeHNiWkQxY3p5OVZBbG92OXdRQ3hRRUF2d2xVbGlRamdua09sYkFGNDh1R19LOFcwbXJ1THFtbVcxTlQ2OVQ3LTRkUlFISU80OUozM3NvRk5VNFlJNA?oc=5",
-      "published": "2026-08-15T05:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -140,15 +152,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-      "summary": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczZFNXoxeDBQS1Y4T3ZvdW96QzNlUlBGOWZ3WEtqbDZXaTc5MTZESDJyRTNha1F3WWhwdHNfYXd5RDhqR2psbjFYRWZsR2tJNmVBc1J6THl2cWt0TFduRHRySG5YR250N1hQUkdKLUNHd1hZM2wxbkNRWlJWZ25UVHpFa0Q5bmUteGJ4bjh6c1IyY1lHZlBwMUMzLW5YS09sQ21oN1F3aGTSAa4BQVVfeXFMT2ZZMHJZWGxvZ1FCZTQ4SVFmUVJqck5xTGdLNzNOYjRSYjRIU1V1OHNvM2lqQnpKQWYzWGVIbGpsNTFpWE1mTHcyNmZfWDBHUnVhMm11NzBjbGF3Wk1WZ0FnVjhmVjBOZXk3a09aZ1R4eFJqUHhwUmY2VXg5ckdzOGR4YTF6X1BLY1hSd2hsbWd1NnJfZ093cXY0MkpMeFEzbUFFRXByVlRzNnpzM3dB?oc=5",
-      "published": "2026-08-14T21:45:19+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Jonathan Groff & Daniel Radcliffe wrap filming on homoerotic Vietnam War thriller Trust the Man",
+      "summary": "Jonathan Groff & Daniel Radcliffe wrap filming on homoerotic Vietnam War thriller Trust the Man Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFJRdjVxeHFnWUlGam5TT1BBSmFuNk9GUGxFRVdRb3NZR0dxaVUxcmFGeEQ4Qml4VnNqcjFVejZKUU03Yjl4bFlxZHZCLWJxWFJzamMtN1ptR3NxVkI3SHFHY0VWQ2lBWFQxdWxpQWJJQzdXN0NMeVh2OWpFSXBXMTZvTXVQYWZIQnp0SVVUZ0tHWVRIZWt4b0RzLVpRYW93eC1Rb2dlWjdMZ0JkdDBoTnJSRWp5bm8tRTJoaV9tTlI?oc=5",
+      "published": "2026-08-14T23:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -180,7 +192,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients",
-      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients Advocate.com",
+      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
       "published": "2026-08-14T20:07:26+00:00",
       "beats": [
@@ -204,7 +216,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows",
-      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows Advocate.com",
+      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows advocate.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXE5Sk0ydmxVeS1TT2ZXUkhLd29VUkR1dld2OXJ2UUJ2X3lFaEc5YjBqb0MxUWZnMGUzVXdpWHNMaldDLUk4ZGxDNXRXbDlVUGRtdlM1REVxQ0Zzbnd3ZTZibkthSlpWVm16TEFhdXVBZFNNM2Z1eFA4YmZIbTdMMU0zZF8?oc=5",
       "published": "2026-08-14T18:45:25+00:00",
       "beats": [
@@ -229,7 +241,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Gay bear culture survived body fascism. It can survive Ozempic",
-      "summary": "Gay bear culture survived body fascism. It can survive Ozempic Advocate.com",
+      "summary": "Gay bear culture survived body fascism. It can survive Ozempic advocate.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xZVIxd3I0dC01VFlSSW9wWXhscXdrX3VOT21GY3pzZ1Bma1czS1o5MlJGQWIxWUwxT29Cb2dGemFoUWVFbkxaNkhWM29FbDlGRFByUmNTTnRjU0FOQndZc3VoMXl0a0ItaU9MV1V3QQ?oc=5",
       "published": "2026-08-14T17:07:25+00:00",
       "beats": [
@@ -246,18 +258,6 @@
       "published": "2026-08-14T17:01:05+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "U.S. and Iran in \"deadlock\" as both claim control of Stait of Hormuz, expert says",
-      "summary": "U.S. and Iran in \"deadlock\" as both claim control of Stait of Hormuz, expert says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2tYUmRtaGhTelB3d3ZRSVpVLVVGV25TUFVDRVFYMHdxNl9KNWdOY0xZVldEWE1UY21NUUliY1FUbkZjY1ZjTXI3UVdOU3FyemRleXMyTEhsMkQtV2I4dzRDclNsMTNqdVBUNlRxS3BIbExRWnU1RGIwYUstbG9RdFFwaUtBdnlfbFhj?oc=5",
-      "published": "2026-08-14T14:13:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -369,13 +369,13 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Republicans were just busted creating fake \"local news\" outlets to deceive swing state voters",
-      "summary": "Republicans were just busted creating fake \"local news\" outlets to deceive swing state voters Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSUg5bDliYVV1azBlVFJhdThpV1dURG5QNXU2b1MtQkpZNDJYM0FSUlVvUjVaaXRpb1hER29qUEx2emVQRWljTHdIMnQ1UkxrQl9FaWZTTGRtMzJnb3N4MmY3a0N2aFRaT2pFUTh6VmdoWE9wbWprNzFDdmhqV25ZbEFkbFJiajRENmVmOXEtRDB3ckFPRVFSRmNmUnd4Wlp4UGtadm5sYU14a1FmRG1JVDFiVGpoYTdYQjdqbnRNbUNCNWc?oc=5",
-      "published": "2026-08-13T16:00:00+00:00",
+      "title": "\"Shut the f**k up!\" Democrat storms out of event as voters voice criticism of anti-trans bill",
+      "summary": "\"Shut the f**k up!\" Democrat storms out of event as voters voice criticism of anti-trans bill LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSS1MZHFhaXYzQzA4MDJwOTk3WG14aXg2dndSdVYwVDN2SGFDM1pzSDdYaC1BdjcyNWV4UzZVZ1c0dkxYLXpleUZTWnNmbDVUT0h3N05ReHVyRnBNYlhUYlpsOHlJV1VQRlZSTXdfU1dwNHpiOUZyVnBqVFBRTl9USmJsclNKRzlXTERSVndITktaQS1mRjRHV05OVkJVa0cxZWpnZWlocVp1WWhvWmVWc1p4cW5EU1N0Y3dhT19KbEc4OWs?oc=5",
+      "published": "2026-08-13T15:14:13+00:00",
       "beats": [
         "LGBTQ+"
       ]
