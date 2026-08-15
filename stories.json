@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:52:58.227515+00:00",
+  "updated_at": "2026-08-15T15:43:58.367245+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Cambridge professor found dead after scrutiny over academic record faced ‘sustained abuse,’ family say",
+      "summary": "Cambridge professor found dead after scrutiny over academic record faced ‘sustained abuse,’ family say CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTV95UjRhaVhZMVpHeEdtQzJ3VjVSS0oxSGN1dVVTTS1mYklnR0ZQbzZTQmV1UUpId1loSTNxZFg4SVFHZnFSVFFsT2V6YnN4TGt0ODVaSm8yME13UFZzX1I3Um4waFBSblFXcGJXMlhhQ2l1NTlpLXVWTk9GUmpxNFZn?oc=5",
+      "published": "2026-08-15T12:56:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -71,10 +83,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-      "summary": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDBoTEw3SVJ6dVVRRHl3QngwOGJaVk9PUWJPeUVBY01abWVfbjhOeVoyZGZnaUI0UEtpT1BlYUx6YUljRFhjTDRiWkpQVHhFQ184TVdzZlhZeWZjY1hFNzNDN3BnVlIwWXB0X0dyNl9JamlmOXNKSHRxZE4tN1lnSjg4RXVxQQ?oc=5",
-      "published": "2026-08-15T09:00:00+00:00",
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "summary": "5 exercises that can prevent (and relieve!) pregnancy pain NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXZOa013R29RWjU1VndIMUVDbUtpR1FKYWhrNzRKU1V6Y0VlRFUyeFVrXzU1XzNYc1lzcWJNbzE3d2hHb0YtMnNwWEp0ZTFTZkhqZ1RHSWd0Mi16MGM1NGRUZjctT0tEbmhTLUFMd1pRQmVXNlZxRUpuczZkdzZtUUllcmpuQmx3RWVseHk1V0dQMVZFazZLNVVyZEtzZw?oc=5",
+      "published": "2026-08-15T09:04:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,22 +95,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-      "summary": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTMFR6Q3U5c1N5djNCTERscVlDLWl4QWV6RTNoVzRIQkVyemJMQnlIZTYxUHNJcld0VnlMYl9BQWhoSnN6Q2NRZl90anY0X0s5SkJGVlhpN2J4MlctOG0zc3pTQ0JxRzl6TVhrMURmUktSZUE?oc=5",
-      "published": "2026-08-15T08:29:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "What comes next after Luigi Mangione pleads guilty to federal charges in killing of UnitedHealthcare CEO",
-      "summary": "What comes next after Luigi Mangione pleads guilty to federal charges in killing of UnitedHealthcare CEO CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Bd1RmYUtvZEI4ZHkzM3N0bzVoTThPd3h1dXM4ZkMwWGZBeFgxaGJpR0pEbU80cERkRjVpcTVXOG8zVEFxVHlyRmkzN3ZZblZ5ZUZwR1lzQ3Jrdi1JX2hHZFFNcTdVQ1pGVXN0bjFxdzNhLUFDS2IzS2VXaw?oc=5",
-      "published": "2026-08-15T08:00:29+00:00",
+      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "summary": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDBoTEw3SVJ6dVVRRHl3QngwOGJaVk9PUWJPeUVBY01abWVfbjhOeVoyZGZnaUI0UEtpT1BlYUx6YUljRFhjTDRiWkpQVHhFQ184TVdzZlhZeWZjY1hFNzNDN3BnVlIwWXB0X0dyNl9JamlmOXNKSHRxZE4tN1lnSjg4RXVxQQ?oc=5",
+      "published": "2026-08-15T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -132,7 +132,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-      "summary": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead nytimes.com",
+      "summary": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead The New York Times",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcHNzX2xsZTJCeHVDZTFqT0FNSEl0dHZXdGFqUENQVWpCSFg3QldZazBOMWJMS19pc29tSVA1ZEczWGRwTGdqek1sQVllSElWM0JFd1dyMzIxMll3VEF4eXBMa1lSWGQtWTZmMjBQTXZvS3hWWk1RNw?oc=5",
       "published": "2026-08-15T01:00:46+00:00",
       "beats": [
@@ -168,7 +168,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Could Your Classroom Use a Little More Fun? Start Here (Opinion)",
-      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) edweek.org",
+      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXBQNEhFRE5mMFFxSXRrU2V4RmlZcEl2eGJvYUFiZmcxRTdEYnhhOUlPX25FdURtZHJYWHpkWGE4bkFaNlVPclpOY0NfVUFsbllLNGJQZjJiWEM5UnlGWnRieHd3RmQ0QjZNOTZjNno4am40dWdDM20xSDhxUDh4RElGOG8tWGhwMkxFLXlDejZFTklIcVh0aTRVb0ctUDBvanNTcVd5Vkt6RHpYa2Fv?oc=5",
       "published": "2026-08-14T20:28:35+00:00",
       "beats": [
@@ -249,11 +249,23 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "U.S. and Iran in \"deadlock\" as both claim control of Stait of Hormuz, expert says",
+      "summary": "U.S. and Iran in \"deadlock\" as both claim control of Stait of Hormuz, expert says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2tYUmRtaGhTelB3d3ZRSVpVLVVGV25TUFVDRVFYMHdxNl9KNWdOY0xZVldEWE1UY21NUUliY1FUbkZjY1ZjTXI3UVdOU3FyemRleXMyTEhsMkQtV2I4dzRDclNsMTNqdVBUNlRxS3BIbExRWnU1RGIwYUstbG9RdFFwaUtBdnlfbFhj?oc=5",
+      "published": "2026-08-14T14:13:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator",
-      "summary": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator nytimes.com",
+      "summary": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator The New York Times",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PV19xRTV5cjU4djRVUmxMSDNnY2ZnOGFCTGw5cllJWUZ0S09FbFRuanlCY1c5RFhZWjZ5bzJiQ3pHUHRjaTdUQ05kZnF2NmlQZHBWenRPMURFYnR1UVdVeEtUZE02Tk51WG9acllGLV9Rei1pSmZNag?oc=5",
       "published": "2026-08-14T09:00:42+00:00",
       "beats": [
@@ -277,7 +289,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "The New York Times News Quiz, August 14, 2026",
-      "summary": "The New York Times News Quiz, August 14, 2026 nytimes.com",
+      "summary": "The New York Times News Quiz, August 14, 2026 The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DMmtTZTkzT3E2aS1fWmtYa1RBd3M3Mm9xZ0RQbXN5b3RBMTFISURQY3lfeTFDUmxuTDhrZlF1ZHhFbVBycEdPLWFRQ1JoUkhibUxWSi1CeGxMT1BYS2t0YjlVdEtodWJZYkxxVHF0N04xYk1paFFLOUZn?oc=5",
       "published": "2026-08-14T09:00:00+00:00",
       "beats": [
@@ -325,7 +337,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "A New Phonics Debate Shows How the ‘Science of Reading’ Movement Is Evolving",
-      "summary": "A New Phonics Debate Shows How the ‘Science of Reading’ Movement Is Evolving edweek.org",
+      "summary": "A New Phonics Debate Shows How the ‘Science of Reading’ Movement Is Evolving Education Week",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc19GekZJczBzemNkRTFmREpEYWtkNUtRTE12RnVOREFJbEdtQ25RVXZpRUtYd1RzcUVCQ1VHVC1FaDh0WVc4akQ0dnoyVWpkeGFkQmFidmxadFBUYlJ6X0ZEdWV5bm16MVM1R0JDZFpkN2ltcVpOQ0lHbzJvUGRPRHhzakpOck01a2k4cVpQbExFd01obEs5OUxGR09vSzc1SjRsZlhTT3BhUU9mT1o1UjY4Rkh3N25DVjFyUExRRWo?oc=5",
       "published": "2026-08-13T20:58:30+00:00",
       "beats": [
@@ -366,18 +378,6 @@
       "published": "2026-08-13T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "LAUSD students return amid environmental, immigration concerns",
-      "summary": "LAUSD students return amid environmental, immigration concerns EdSource",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUi1XQnFCeWwzeC1PMFpnVGdUbzhDanNLOV9KTE1CSzRFd1E5Y2VPV0pLQ1N4QlFxZDBaMk10Q1RXOUphZnJUeU1kN0c3N3dCZktHRTdKSjcwbFBzUWNpak1pbWFLVWlyU2dyWHFwUUZQOW9EZ3BFM19raExUdDZYM2x6VjB5WWt3ZmJVMWhwYjJseEk2ZE9rTnh30gGiAUFVX3lxTE5VeE8yOF9TTndHckRaZzhScF9qbjVNeFdyYll0eHRHajBRcV9fMUM2RDFtSnAySDFzTzEyZGw4OWpTUUVHbEQ3czBxMnpfS3lHcTRHRm1oTFpnSDNpc3F2VExvT2hZcjRsbm1FM1RJS3Q3Z09EN3M3RWV4elp2bWU5S3YxRUxaTUZYeHhKZGJJb1hVYy1CV3M0UkJCejNEamxFZw?oc=5",
-      "published": "2026-08-13T01:46:06+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
