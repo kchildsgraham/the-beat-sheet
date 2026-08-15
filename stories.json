@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T09:54:01.303863+00:00",
+  "updated_at": "2026-08-15T10:51:08.708038+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,66 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "summary": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis npr.org",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXhRS1dOOUNpQW1DRzFWd3FxckQ5RVFCUU94dFVLbDJqb25ZdnBkdFRHeGxUZ0p2QURxRjJWeW93Qm1mQzJmVm4tdHNzNU53clFzYjVzTmFidEJSTmV0U3lMUkI1dEhZUl9UZmJHQWgtTV9jR2VUZkhwY1BDWlpjS0psVGRPU2NxM18xekdIeW16X1VRQTVOSU5aU1VKU2kydkZSR01odFYyNDY5dFVqZk8zVE9Bam1MMU8xWHhXVEUwTGliWVE?oc=5",
+      "published": "2026-08-15T10:10:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+      "summary": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 npr.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTMFR6Q3U5c1N5djNCTERscVlDLWl4QWV6RTNoVzRIQkVyemJMQnlIZTYxUHNJcld0VnlMYl9BQWhoSnN6Q2NRZl90anY0X0s5SkJGVlhpN2J4MlctOG0zc3pTQ0JxRzl6TVhrMURmUktSZUE?oc=5",
+      "published": "2026-08-15T09:40:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "summary": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards npr.org",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDBoTEw3SVJ6dVVRRHl3QngwOGJaVk9PUWJPeUVBY01abWVfbjhOeVoyZGZnaUI0UEtpT1BlYUx6YUljRFhjTDRiWkpQVHhFQ184TVdzZlhZeWZjY1hFNzNDN3BnVlIwWXB0X0dyNl9JamlmOXNKSHRxZE4tN1lnSjg4RXVxQQ?oc=5",
+      "published": "2026-08-15T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "summary": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREdmSGtXU3JNa3lWSlk3YUJ5Qi13N001SWFvaTh0U1dOa3E5ZmR5UVVRN2Y1T2RCdi1XOFVUS1Y4NmpkY3dUOXNNc3RCek1oQ0RzaHV4ZnFPZUdkSXBkZldsSmNRMVY4Q0Q5R09qdVZXRXdOcGRoQnJ5SlZDNW9mbHllaWVWQ1ZZbF9wRDVyc3Ywa2tMOVE?oc=5",
+      "published": "2026-08-15T08:50:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "What comes next after Luigi Mangione pleads guilty to federal charges in killing of UnitedHealthcare CEO",
+      "summary": "What comes next after Luigi Mangione pleads guilty to federal charges in killing of UnitedHealthcare CEO CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Bd1RmYUtvZEI4ZHkzM3N0bzVoTThPd3h1dXM4ZkMwWGZBeFgxaGJpR0pEbU80cERkRjVpcTVXOG8zVEFxVHlyRmkzN3ZZblZ5ZUZwR1lzQ3Jrdi1JX2hHZFFNcTdVQ1pGVXN0bjFxdzNhLUFDS2IzS2VXaw?oc=5",
+      "published": "2026-08-15T08:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -32,15 +92,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "The world’s oldest president left for a ‘brief stay’ in Europe. He hasn’t returned in two months",
-      "summary": "The world’s oldest president left for a ‘brief stay’ in Europe. He hasn’t returned in two months CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFBzZ182Qk5qTXJkR1NQR1oxYjVUaXFFRXJLWWZMLWV0RFN4LWFhYmE5bVV1MXFuTEF0MFM5UDdlM1VybjVuVGNVaUppOXpoRmNhck82eGl5R0t1RVUwMzRjLXBrdEZVQU1zOVJXc2ptcVN6ZWUwUlJYbEF4SDdub1pB?oc=5",
-      "published": "2026-08-15T04:01:30+00:00",
+      "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
+      "summary": "Russia's economy has defied the skeptics. Cracks are getting harder to hide CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96UGNCYjQ5UkVsaFZxY0tzRUJnN2RYLXZqY0tXOTJGbHFKUnVrY2VlOVh5ckMxWllZYTVlZHBUd2hBTGhnTjVTT2NaeXJfQmdKQkZBd3hBdmktZ1JINjFHWVJFWDFSNHhKYWlqRkQyUVpjNlRzMHdSLWRlSzNVUdIBgwFBVV95cUxQOXpuZFNVaTJmTUhuLTlMM2gxbTM2Z0FRME1tMVR6T0NXU2ZidGxFeHNiWkQxY3p5OVZBbG92OXdRQ3hRRUF2d2xVbGlRamdua09sYkFGNDh1R19LOFcwbXJ1THFtbVcxTlQ2OVQ3LTRkUlFISU80OUozM3NvRk5VNFlJNA?oc=5",
+      "published": "2026-08-15T05:00:01+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -59,10 +119,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "6 dead, including suspect, in series of killings in Michigan",
-      "summary": "6 dead, including suspect, in series of killings in Michigan CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vWlB3cGtuc1BmWDBYUTQxYlU1TVMyWUNNdnlpRWNuUXBra3JHTXlqeXluZjlzYnJJR0lpOHM0Rm5qS2Fkc0hCNzBsc21acTRHMmQ1OFpxbVVNdTBlc3pLMy1jNVNqSUVWbTh4MGxFajc5TlU?oc=5",
-      "published": "2026-08-15T02:34:00+00:00",
+      "title": "Sailors on carriers like the USS Abraham Lincoln feel the strain as Navy deployments stretch longer",
+      "summary": "Sailors on carriers like the USS Abraham Lincoln feel the strain as Navy deployments stretch longer CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmxLOFY4UnhBaHNlY1ZZN3JMempqbkpNT2I5MzhlWUdGclpmeWIwZk11QkEwNm5KMm1jOXA3dkUzTFlfUm9OYUxrbVpibV9hZlQtOVh5czNGMHRvcUdlT3ZZa3h6ZVc2QWp6UmlUTldCSWV6NjRKWHpZM2loUEF5ZTRVQ2JPdHZaWHlJaWk4X3hzR0x1VnhHT3BremRJSUtyOE5qZlZSN0I?oc=5",
+      "published": "2026-08-15T04:01:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,18 +140,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-      "summary": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmM3dG5KVndKS29hWHNaQVcxZm9GQ2JELXNjTUdFWFpWbklYMjhvR21iYzl2bXFMYkV2R25YM0pKUXFaNWVOZ0N6S1pyeVNMc3pDa0tnaFJVWUdMWS1nSThWaGpuYktjd29kMV9QY1lFZGw3Rm9JVFk3c1BUSDQ1SHFxaF8tcTFLOExVZtIBkgFBVV95cUxNeng3eU1XTTBKSEl4NFlJQ2t5emxuOHVVOUd4dEJvNkhvQzJudVh1VS1jRnI3Vzk5NzF3X1FIaXBreVZDRzE2NDh6TEhsaVNVZnQ1aGI1YkcwQnYtOWIxV2gxY3BRUWFIay13UEhTSm5vXzAwNUNqaWNLdHYyb2Q3b3ZOa25fYWJOZjNmNkRIaHRHZw?oc=5",
-      "published": "2026-08-14T21:10:27+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -99,18 +147,6 @@
       "summary": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO NBC News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
       "published": "2026-08-14T20:59:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "No privacy, little downtime: Life aboard the USS Abraham Lincoln",
-      "summary": "No privacy, little downtime: Life aboard the USS Abraham Lincoln NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXhIV2FqcTRPRGdSOTRFZUpidlNUUzlTT3k5TTRlQmFQejY3dW95SW9jRFdUU3Q2WU5vLTRCWGpCcHRQYkRwNVk4dUdNd3BjaVpBbW9JZFpqZG81di1uT0RhXy16YnBlRTNXRGhQcm5GRl9PWnpkUlVKVkQ1bGVmb29oYXA0UjBpSXJ3ZDJUMXhibklpa1YzVV9SUzFSZFZTV2hoUXozMktEdG8?oc=5",
-      "published": "2026-08-14T20:49:32+00:00",
       "beats": [
         "Politics"
       ]
@@ -169,7 +205,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Oakland real estate developer announces downtown data center plan",
-      "summary": "Oakland real estate developer announces downtown data center plan CBS News",
+      "summary": "Oakland real estate developer announces downtown data center plan cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbk00T21iS2w5NlJQUk5aX25wWTVvNVpsUDU5ZDBKNjRSTHhsV0tzcmp3QTVDcFc5NVhBWUktZkpndzRtVHRHdjlzNm9BNlhLY2pFSDhPS0VycXpyRUlZRmFsTkc2SHg0bHJTN0RVVVU3TVQ1VXI4OVB2RXh3QzRhaF9ZdTEyRUhCM19pSGdqSFhGZWxFdnplazRURm1rTjQ?oc=5",
       "published": "2026-08-14T17:30:58+00:00",
       "beats": [
@@ -211,42 +247,6 @@
       "published": "2026-08-14T17:01:05+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "As speed cameras spread to more states, so does the backlash from drivers",
-      "summary": "As speed cameras spread to more states, so does the backlash from drivers NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fcnRpWFhaNDNNMXBYX2RSVjVJYlZHNGRZQUJmY1Z2TkMyX01vT0JCb2lxM3lmN1FRUUMtTTJjRGZHdkktSTFGcl80YnQzX2pJYWVxTEtlRWxPX2FGWHlwamVkUTJKY1NvdVd6TmRYX3hkdUhhMUc2NjQwRjd2LTQ?oc=5",
-      "published": "2026-08-14T16:54:58+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Is there a summer COVID-19 surge this year? Yep, it’s ramping up again",
-      "summary": "Is there a summer COVID-19 surge this year? Yep, it’s ramping up again NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56cVVRdVNLNFZQamRMYWNRRUhnRGswWEJjQnZfdHRXMGczSHBWQ3JxeFktam1Sa2dRZU5mTXcxbzhXM3QybWQ1N2k5ek5RQjFYalBoSVduSFltZzNkampNb0lqWlNGYVRpVzdVd0VONjk4cURPcWZXbzMyZGNmVlU?oc=5",
-      "published": "2026-08-14T16:37:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Brad Pitt’s Return to Drinking Is Not Unsafe, Experts Say, but It’s Not for Everyone",
-      "summary": "Brad Pitt’s Return to Drinking Is Not Unsafe, Experts Say, but It’s Not for Everyone The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mVnREUURVZGFXMWpXMEdITjNpd0poSENKUkNiYlBUV0dNQmIxTi1QWTVWc2E4UUtKRFdnRkxJczdWWEhDWGE4cFd5bVFzRGdHZFdJNGRHMU43VXF0U2JqLURkeEUyQXBpV0t5QlV2VzlWODFxWGwxOQ?oc=5",
-      "published": "2026-08-14T09:03:43+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -302,7 +302,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "1 dead, 1 injured after car plunges off Santa Cruz cliff into ocean near Steamer Lane surf spot",
-      "summary": "1 dead, 1 injured after car plunges off Santa Cruz cliff into ocean near Steamer Lane surf spot CBS News",
+      "summary": "1 dead, 1 injured after car plunges off Santa Cruz cliff into ocean near Steamer Lane surf spot cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUGpwNUtmdHlITUIxYnM5UVlsZVJZRVFEODhQNTlkcWw1NlNIelRLN0tRZ1VlR3RnR3hwd09vVzBNMXpGQVA4UVlCNE5sek51VUdfUGx6VDdjYm1CUDVBVkFOM0s3aWlVZkZzR2hpRjhNdk5UOU5FSkktN0JnYWRReVNHcmZ1OFVHbDhVWTdJa2dhQnNYOFVvR3BmYw?oc=5",
       "published": "2026-08-13T21:15:59+00:00",
       "beats": [
@@ -326,7 +326,7 @@
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Global Group JO1 performing at KCON",
-      "summary": "Global Group JO1 performing at KCON CBS News",
+      "summary": "Global Group JO1 performing at KCON cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFRVT2xoR0h0bjVWMmJxMkRVVld4OEFTcDA0ODUzVDJtVjRKdGRxNXZZVkVDRWY4VFVFODEzc2VOMVp0eUQyMm1LZmVCTUNwTUFLZ0YtMXVBVUJFVHFYdnhwZjVxeW9hVWpPWVlfQi1ObnlBeHZBcU81SmpNa2xYVHdMUQ?oc=5",
       "published": "2026-08-13T20:08:00+00:00",
       "beats": [
