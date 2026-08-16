@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:48:29.082122+00:00",
+  "updated_at": "2026-08-16T16:55:09.080478+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,54 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+      "summary": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbG5Gem5FcEFWU0VtZHpMYTgyVEd5aVY0LUV4SGZNVEMxd3BXUlJsYnY5QXNhU0lfaVAxTy1yUlB6Rlh5aUVQeFIyX2xiU09kS0x0bTZlbklDTk1NLURZcWlldlRDeC1OVDZfTVVKc01CeFJZVnJkNUF1VzdjQmt2N3RxTjQ4UQ?oc=5",
+      "published": "2026-08-16T15:47:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "What really happened in Ceuta? Why we may never find out",
+      "summary": "What really happened in Ceuta? Why we may never find out NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdHJVQ1F0S0hLN2hUTUdXdXdoUUxHdmVIOEVfUHB2VE1jMElCTzhxWGRDZElKM0l4LXFOV0R6eVJad1ZvUzdoMUtnT2RwdG1rS0hyNmdxbUZPb21VbzFDU2w3UkVsTVdtRmltNWxQNWxxOXNJWXc?oc=5",
+      "published": "2026-08-16T15:38:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘Uncharted territory’: Second-largest reservoir in US plunges to a record low",
+      "summary": "‘Uncharted territory’: Second-largest reservoir in US plunges to a record low CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUZHajJYdG9kY1dpTUFCZ1pQT2xSdVc0NUdFQm5DU0RzbmlkcWZzWFVhb25QUVZpVUVPTXVRczNUVDg3eWpIX18xQnFNd1Axd1pVZnpqdm9vWjF0b1VLOGhlNTVhV1JSWk9wcGVBQmlnSTJBNjR2YkpqWE9UVllYM3dIcnU4RXNMOXJmc3lFTQ?oc=5",
+      "published": "2026-08-16T14:20:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Five shot in Lexington, Kentucky, park, leaving one dead",
+      "summary": "Five shot in Lexington, Kentucky, park, leaving one dead NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
+      "published": "2026-08-16T14:17:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -56,18 +104,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Aboard the USS Abraham Lincoln, where hardship and resilience share quarters",
-      "summary": "Aboard the USS Abraham Lincoln, where hardship and resilience share quarters CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZVXBSRUdPdjFSaGtyOHJVbk45TnlUQW4wbE01UDZ3bFRnSDJoNU1XTURtdG94SWFpSUpfYXdGa0R5emY4eHVFQk5lbWVnY3p4TDhudFZ6cVQxVW9Va0U4LVdSVjRiSWttdURQRmFIMVVUcFVuXy1Fc3VrYzI?oc=5",
-      "published": "2026-08-16T12:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -83,46 +119,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
+      "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+      "summary": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help CNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wYnRvMzEwVlF3SDRScTU5VzFJZ215Um9iWVhYS082NEN4bWJ1RTYyRE1xT2tObzRWNVlrNWxzc0l4MkNfQW45cXM2b1ZsRWRNUGVqQ2lRaEJBZGxCZ29tYnZPVFVId3hvNno1UjBjdnhoQmxYNFUtZmdDOGk?oc=5",
+      "published": "2026-08-16T10:30:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
       "title": "Why the middle of the country is back in the center of American politics",
       "summary": "Why the middle of the country is back in the center of American politics CNN",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EaFFzNlU0a3kwU1R1S2hHZVVSVGNsYk5qSlNCU19HdFhTc0dzWU5ORHpFRlEzUDlfVXR3cUJGNmZ0VjJCUkVGZTRLa0kwZmpWTkptNlhnZVNrR2xaNEREMGdQRUJUVzR1aWxoU2R2MzlPRzNB?oc=5",
       "published": "2026-08-16T10:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region",
-      "summary": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWdYa2twU1czd3Y0QnBPTHBuLW5BdnFaYzd3ZlNtS0FCY0JkSWhOdmVVa2JKRDRELWxnZWZJTldKT2kyR1lVc2N2dE1ibGlONEFKMU5Hb0RqcERPX0lKWXR5U1BIMW94UHBmMUphVUdaZy1WT3ZObXI0dTNwek9CUzJiR0ctRUE3cHoxUGFvZDhpYmdlT2fSAZsBQVVfeXFMTmhNTmthaXB4QzN3N3hqU3R4RzQ3aWZ0eXVtSXp4eHlJTlJsNTR3VnhLOEJuUFV4RUtjSFE3WHJZd1FNeURyWEpmUEcxMmtnYzJVUUROelkyQm05V1dfTmZMRFBSZHEyRlB1cm5DMUlHaTVIQkRaQ1R3YnpNcTItVDZrQW1JYm9SdGhLSjlDOXVpejZhUGMwTjd0blU?oc=5",
-      "published": "2026-08-16T09:32:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-      "summary": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2FQcEdEOFhnNm5yUllmT0d3OXg4dF9NRkM4bVFJU3lyaXNEMktSYlNKYkpEOGY1aHRLR05OSG42SGRBZDVhb0gxRGtzZnBVckpVcEVjZTlhdVRma0d5Yk5KemtxNE13dm9mV2xtTTFLRTBodFhmc0dYYVdmdjhRNGNhX0xoVlRFX0lmR25Zc21Jd3ZF?oc=5",
-      "published": "2026-08-16T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-      "summary": "Billions of sea stars have died. A Northwest tribe is trying to save the species NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3g3cFl2U0tMZjNOMXd3X29vSk9NNEt3R05zN0NFZFRrYm1POFN3RTkyYzlEVmhTdThoVFJFZkZEWXZmdGRpN0NqMU9VZXlONFp5YmtnQjRaSERvc3FoN3N2M091bjlQTWlzN3RJalR2anhmRjBEMjVkNHZBTVZmdUFINGRZUU94T1FwNWJMTW4?oc=5",
-      "published": "2026-08-16T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,15 +152,27 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Ukraine attacks Russia with hundreds of drones in one of Kyiv’s largest aerial assaults of the conflict",
-      "summary": "Ukraine attacks Russia with hundreds of drones in one of Kyiv’s largest aerial assaults of the conflict CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmdSWEZ5NElROFpKM0FTcGFmQWhhTGluZmQxbkRpc1B4NmxsaUdkV2Z5a1BsejRueTlTRWxJZUhUWklTQkxWdy1WZnpJSzMtVmxLeDNSaXR3SXo4WkxRWWpfTXoxT0J4a09RSW1hNDIyblRJN19QRFRFSE1KRUdMMw?oc=5",
-      "published": "2026-08-16T03:48:00+00:00",
+      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+      "summary": "Secret outperformer: Dispelling the 'myths' about an unloved stock market CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1faXRLdmNlRWlxS2VlY2lpaERuUUhaQ3VRS1UyZlA5RGg1eGFtUm9BcEsyd0xRMTRkc1lHRGhFSW9uX2dLZmlNRFg5ZkhYTXZ3a3oxVkZKYXBEejk4REIzWl9SbHNWbkt4QUxBTW9qZ0lnOENtQ0UxbFNVUGLSAYIBQVVfeXFMUExRZUdpemdOR2UxUWZGUW5WYzU1dUFCUHhoQlNUVk5ZVE1uUmxvQTFiNTNaVTVGd2lueHZXOTJYVXY1MnRyOVo0SE14LTAtMHRuUlVxTGNUNUV5TC1JbzlscXdyb2tiMFpMQ0lndlRiWkJOb1pESHFtb3dyci00d29aZw?oc=5",
+      "published": "2026-08-16T05:00:01+00:00",
       "beats": [
-        "Politics"
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Good Samaritan shot in Alameda parking lot during struggle with suspect, police say",
+      "summary": "Good Samaritan shot in Alameda parking lot during struggle with suspect, police say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2pyZWtVaG5WSEhqdjVLcHlkc1Mtdlg2RllaUFNhUE5qWjVYN1dpbU51di05bmpxV0xBVmt3TUV0dWdCZ2tzR21wcHBtYkdtVU5sbE9YUy1BN2U5ajg5Sktqa2ZMNERMdUlDQ2FNNTN0LUtTTDdablVDQTY5VmF2eWMzSlNxTjhtQTVycllRem11RE16?oc=5",
+      "published": "2026-08-16T03:11:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -161,6 +185,18 @@
       "published": "2026-08-15T22:50:40+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Sam Smith, Shannon Crave & paper pups: 10 things we’re obsessed with this week",
+      "summary": "Sam Smith, Shannon Crave & paper pups: 10 things we’re obsessed with this week Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVCSi0xcV9OV3NkTi1tazVqbWNjUkJqOUlyTUYtbDRTUGdvZFp1MHhSNTZxVmdfazBJdGhycF9KTENOajRuWUthMmxvSkFOS0d6bVZ2cS1Bc0dEUUJBa3hROG1XdEFXRVVGUUJzTWJOd2x4MTl1QkszcWtoZWNYTHBvdHJVeDUxdnlHUF9CZnFaMUtzajNJSlgtUkltTmJpQmhMOHlHNVdwVzA?oc=5",
+      "published": "2026-08-15T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -185,18 +221,6 @@
       "published": "2026-08-15T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
-      "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
-      "published": "2026-08-15T12:00:05+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -249,23 +273,11 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO",
-      "summary": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
-      "published": "2026-08-14T20:59:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Could Your Classroom Use a Little More Fun? Start Here (Opinion)",
-      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) edweek.org",
+      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXBQNEhFRE5mMFFxSXRrU2V4RmlZcEl2eGJvYUFiZmcxRTdEYnhhOUlPX25FdURtZHJYWHpkWGE4bkFaNlVPclpOY0NfVUFsbllLNGJQZjJiWEM5UnlGWnRieHd3RmQ0QjZNOTZjNno4am40dWdDM20xSDhxUDh4RElGOG8tWGhwMkxFLXlDejZFTklIcVh0aTRVb0ctUDBvanNTcVd5Vkt6RHpYa2Fv?oc=5",
       "published": "2026-08-14T20:28:35+00:00",
       "beats": [
@@ -288,24 +300,24 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
+      "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+      "summary": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcHNzX2xsZTJCeHVDZTFqT0FNSEl0dHZXdGFqUENQVWpCSFg3QldZazBOMWJMS19pc29tSVA1ZEczWGRwTGdqek1sQVllSElWM0JFd1dyMzIxMll3VEF4eXBMa1lSWGQtWTZmMjBQTXZvS3hWWk1RNw?oc=5",
+      "published": "2026-08-14T19:53:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
       "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
       "summary": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEZKcm5FNktoQkZuSkZDLXNEUDI0eEtkRlFqR2Y3WldGS2dJcGZsUTlWUkNqd3VsN20td2lxaXJzZU9xN19lZzcyTXhWS29zTXhrLVExUW1FVTRRNGU4bkdYTG9aNjFrRmRJRzR5MGFkbEdaYkRVbFFRc3I0WVlsajhpbVVwMm8wWHktOFI3Y2IybTdW?oc=5",
       "published": "2026-08-14T19:08:12+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "I’m a bicurious guy interested in checking out a gay resort. Will there be expectations?",
-      "summary": "I’m a bicurious guy interested in checking out a gay resort. Will there be expectations? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlZrREhqYjhORmV4dDdkNjA0ZmwzZHprUWtvMUtvbm4xWnZfSGx0bWNrel8tMnpCTEV2TDhuajBRelRKU0NGYnUyX0RLRFpoeFhEbEwxOEV4ay1SN1o3elpZd0stQkxPUVFHQ2xZaERBTURONXp0TXhKZzAtU0JvcTZwNFNXSkpONTc4c3hhS01maDNoVEk5SXIydDVYVlk4LUd3NXZ0dXpQNFpNUmIwZnRFRGhCNW0zMzRZ?oc=5",
-      "published": "2026-08-14T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -318,19 +330,6 @@
       "published": "2026-08-14T18:45:25+00:00",
       "beats": [
         "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Oakland real estate developer announces downtown data center plan",
-      "summary": "Oakland real estate developer announces downtown data center plan CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbk00T21iS2w5NlJQUk5aX25wWTVvNVpsUDU5ZDBKNjRSTHhsV0tzcmp3QTVDcFc5NVhBWUktZkpndzRtVHRHdjlzNm9BNlhLY2pFSDhPS0VycXpyRUlZRmFsTkc2SHg0bHJTN0RVVVU3TVQ1VXI4OVB2RXh3QzRhaF9ZdTEyRUhCM19pSGdqSFhGZWxFdnplazRURm1rTjQ?oc=5",
-      "published": "2026-08-14T17:30:58+00:00",
-      "beats": [
-        "Business",
         "LGBTQ+"
       ]
     },
@@ -359,6 +358,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "While Susie Wiles slept: Inside Kristi Noem’s failed after-hours Oval Office gambit",
+      "summary": "While Susie Wiles slept: Inside Kristi Noem’s failed after-hours Oval Office gambit Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmlzNlVFTV9DZUxQN2FNZ3R0c2tPWERvTmFLX3lmMTItOHg0SnYybFBRaklFT2hibzBXc2hmOHk5LXNkb3lNN1NGdzhoTmo2UkRhTDRlZ3NxTTV1eXViSDMzdzZLcEhqX2VxQlpzRGZlbzZkQTZhZ3BtTk1tbW82VHhhRkRjWEhlejBVYXE5UjhUR1EwOVo1TGRJeGQ2Y1J4QUlCY0d6Qno0Wjh6SkRUR2lZYlpuZw?oc=5",
+      "published": "2026-08-14T17:01:05+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -368,18 +379,6 @@
       "published": "2026-08-14T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "CISA issues K-12 cybersecurity guidance as schools’ risks persist",
-      "summary": "CISA issues K-12 cybersecurity guidance as schools’ risks persist K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnd3XzhDV1BMR0w0U0lTcWF6d2MxTlJMQWxLZWFSemQzNzJwVGZ5ZC16OFhGWXdSbmJIQm1XLWpSbmpmU3o4aEs1WEhFYXEtaDhDNFNWZlZsa1VlT0pHd05mUG5TcUp2UEhFQXIxSXBVZXlLMEJkOWU1aTh6YVhrN2pJMlc5VGhSR001NndoZGhqOE80REo1Z2lmR0dQZzhLTXFn?oc=5",
-      "published": "2026-08-14T13:25:36+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
