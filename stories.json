@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:41:05.112789+00:00",
+  "updated_at": "2026-08-16T22:49:01.537438+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
+      "summary": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGtkWi13blY0NzlDX2lNSDRLZGxudWxnODBoU1ZyQV9JODdCNHhFRlFSM01YNDM3Wm1oOFlMeHVWT1F0OHNFRjdwU1BaM2tHNTk5cUxZS3JiSWVlcXZUUmlYclpQT1JIa09SdXBJajczX29rVi1wTzQ0b1FZLUZnM1NwRDFaTlR3ZnRkT3d30gGTAUFVX3lxTE5ZV0lrN0tDRUN4bTZEX0NucXlvWmMtWmVicDhMeTRTQmp3SmNJUEY1MFdCeVlZQ2dTNVRyazBnNzVmcWFRM0Y1THVoUEZYeVRiWm14c2RGcExIZ1BpWEc4UjFwSzJnNmMtdVZvWXVqaGFvNV85aEJtNzg1UnFzTzdVa08zT0hyQ0NjbXZUUG9lTE1oMA?oc=5",
+      "published": "2026-08-16T20:53:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "1 killed, 4 others wounded in Lexington, Kentucky, shooting",
+      "summary": "1 killed, 4 others wounded in Lexington, Kentucky, shooting NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
+      "published": "2026-08-16T20:48:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -32,6 +56,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Blanche declines to pledge independence from the White House",
+      "summary": "Blanche declines to pledge independence from the White House CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43bjhtYU4wRGJCWjhrTmZHc0U5LVNzUUhWVnN2bkVqbFFfRGhlbnZ2aW1oZ3ozVXNmRjJPRVdBU2tsNU92bkp3ckhzWmg2SW1mdk9TWTd0emd5d1BISWp1R3I0MGxqamxhTHVJTktXakxWN0tzZ09QUkM5UDJWZw?oc=5",
+      "published": "2026-08-16T20:34:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -39,18 +75,6 @@
       "summary": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu NPR",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEFscm5SRTlubmdYeW1GYWw5WGxBU0x5UFdJbEFHcUFnUGxJMzg1WWQxVXFVNF9aeTBKb3Q3eU1TZVE3aXhra0lwY0g0dzRUOHdadFh0RkhIMDU2Qk84MXlGU3JzZzBhT0lUUWdzTnNMaU9DamhpZ3dZaWkyRVctNnVHd2t0ZktTckg0?oc=5",
       "published": "2026-08-16T20:20:22+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "1 killed, 4 others wounded in Lexington, Kentucky, shooting",
-      "summary": "1 killed, 4 others wounded in Lexington, Kentucky, shooting NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
-      "published": "2026-08-16T20:16:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,18 +140,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "How OJ Simpson’s infamous Bronco chase captured a changing era of US sports coverage in the 1990s",
-      "summary": "How OJ Simpson’s infamous Bronco chase captured a changing era of US sports coverage in the 1990s CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiUkZXQUowcVZEUXhBQVVUUXF6VVJremw0ODBkN2FwLTdCVTFGcTczR2lQNElCbC1mMVFIcjNuR19ZdTRUc1E3dkdBNkRCdTBpTnpfNXFNNzdCQkpoeXA3X05BcnozZGRZZ3dGOW5nbjVMbVo5YVBZRXh3?oc=5",
-      "published": "2026-08-16T16:25:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -152,15 +164,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-      "summary": "Top Wall Street analysts like these 3 dividend stocks for steady income CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX01sLVhuWWRLSXQteDI0N2hFdTIyQlFvdTJOYkNOVGlFQ3M2b3lONnlWYlJOazJCSWhreFRFeGFHZVkyT0Q0QlAyUmxsLXhJRld6SVBLVTJrX3NLR01YN28yU2FnWVVZU0thaXByWkZ0LVpyNkltaEp4bG5JQVZ1ZW84ZUN2Sm5tVGlaSlNKcl83Qllqa2Z3UkR4QnRZREZBTVF3bzlKMkVPd9IBrwFBVV95cUxNLWpSU3FpVTluMkZnVW0wd3VIOEVSc25Qay12UzNkbXJPcC1yZnltbTN5a29kcTdkU3FTYkZQSm10RUlUVEEyNVItc1FJMnJpbzloMEFEQXlOcnZNa21rNEhQVUt2cUQxbEVmYUpPZFVVTnlIdGVtV25jd1JseTNYWUpHNzYtYXRnczlEV281NXV2dDVFUHdNYVFjOUJWSnhrb0h3RkVCOUhNS19HZFkw?oc=5",
-      "published": "2026-08-16T11:58:15+00:00",
+      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
+      "published": "2026-08-16T09:01:01+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -337,23 +349,11 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients",
-      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients advocate.com",
+      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
       "published": "2026-08-14T20:07:26+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Senate Hopeful in Alaska Says ‘No Thanks’ to Kamala Harris’s Support",
-      "summary": "Senate Hopeful in Alaska Says ‘No Thanks’ to Kamala Harris’s Support The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEZKcm5FNktoQkZuSkZDLXNEUDI0eEtkRlFqR2Y3WldGS2dJcGZsUTlWUkNqd3VsN20td2lxaXJzZU9xN19lZzcyTXhWS29zTXhrLVExUW1FVTRRNGU4bkdYTG9aNjFrRmRJRzR5MGFkbEdaYkRVbFFRc3I0WVlsajhpbVVwMm8wWHktOFI3Y2IybTdW?oc=5",
-      "published": "2026-08-14T19:08:12+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -373,7 +373,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows",
-      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows advocate.com",
+      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXE5Sk0ydmxVeS1TT2ZXUkhLd29VUkR1dld2OXJ2UUJ2X3lFaEc5YjBqb0MxUWZnMGUzVXdpWHNMaldDLUk4ZGxDNXRXbDlVUGRtdlM1REVxQ0Zzbnd3ZTZibkthSlpWVm16TEFhdXVBZFNNM2Z1eFA4YmZIbTdMMU0zZF8?oc=5",
       "published": "2026-08-14T18:45:25+00:00",
       "beats": [
