@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:49:01.537438+00:00",
+  "updated_at": "2026-08-16T23:40:13.595474+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
+      "summary": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RM1hCU0w1Ymc5bmJYUlpoT0FsMXpRY1VZSWtvbExwb2hycWN6eUhtdjJZWE9FTmRVdkV6WmpkQkhjNjVMVVZUY1J3WmRQZ2JKMFZFVWpGRUlfbjVlX180SzNQRWNpNEVwVlRQUVE4bml6TWRZTUNGRNIBfkFVX3lxTE9qWkJMWFk2bGV0U1ZiZmt4eFlUSUtueGNhd3JoQW80cFN4TDQ5dVp1RWk0ajllYXhycUpqV2FNMWtwaHJVS3JCRHZkS3M3RktRTXpoQkFTcXp4WnRycDhiOWNvNFlsRFpudXk0UDN3RjVRN0hwc0M4alZ6Q1BqUQ?oc=5",
+      "published": "2026-08-16T22:18:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump says US will reduce military exercises with South Korea, citing lack of help with Iran",
+      "summary": "Trump says US will reduce military exercises with South Korea, citing lack of help with Iran CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkxBSTcycU1KSHpzYzYxdnNFYjVPeTBvRW80eEpydFlSdHdMYUJlOWZXN2dhMERDYS10VzlaRWJnWHZDZl9QZTFRTlEtSk5ZNnNZZHpicW5MQTBkY1ExVGRwZVRLRGtMZVJXaDFROVN1N1RrX0Y3d2ZFWHUzdzZWQTVaQ0g?oc=5",
+      "published": "2026-08-16T22:17:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -80,23 +104,11 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
-      "summary": "Top U.S. commander acknowledges mental health issues on USS Lincoln CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXhDUGpoQzItVV9PMjI1aERWNUVnb21FLUVnU0VlY0hlZTM0UWdvcUJwUGIxN0dCZ1l5VjJ6eXpySnk5WU00NHY0U3JJZkVnUVdsS3FtVEdvMmEtUkJiMWZzZ2k5ZXMyLTdfYjJJYk1UdXhVLW5zT29HTi0yMXRCYlRVTUZZMUZFUmtzTnZqRGEzdndIOF82SHZnX2Y4UFNqVHlzVNIBqgFBVV95cUxOeGtRQUJ4bWpZRUk5ajY4QmdjTm84WE9ESTA3S2RrNE1sV193cGttRk02S24wYktaRG5sUnRTbXZjODZJbW1sVUh0cl82Wm5VbkNJVlRqd0xzeGU1bDQ2VG9aemxVZEZwcHVfYllVWktodElEUE5qcDVjQ2pMMFczaE1Pck5FTWtBTFExd1RlamFDNEdaaXR2YjVxZ0NIOG5STFU1M1RCdFJRZw?oc=5",
-      "published": "2026-08-16T19:58:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Thousands without power and at least 100 homes damaged after Tropical Storm Lala lashes Hawaii",
-      "summary": "Thousands without power and at least 100 homes damaged after Tropical Storm Lala lashes Hawaii CNN",
+      "title": "Thousands without power and at least 100 homes damaged after Tropical Storm Lala starts to move away from Hawaii",
+      "summary": "Thousands without power and at least 100 homes damaged after Tropical Storm Lala starts to move away from Hawaii CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmpEVXJEX2N4YlowWkpRRVRFX25rNUFKTDNoSTl0Rl9xNGV0R3dCcU5ReTgyZnI1ZFdNSmJmMzRvaXg2cnBqQ0Rob3l0RlJUTnhjQVIyV2xhR0tFSkJCa2tvdi1sdlVpdHI1TTBXeEtSUktPMVROWU5aOXFZTGFxa05CS3Q1YWc?oc=5",
       "published": "2026-08-16T19:57:57+00:00",
       "beats": [
@@ -128,13 +140,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Tommy John, MLB pitcher and namesake of revolutionary elbow surgery, dies at 83",
-      "summary": "Tommy John, MLB pitcher and namesake of revolutionary elbow surgery, dies at 83 CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMFZ2Z0ZzbFZSMjFjcDc3dDBwWngzTEFyeFlBaFBNakVGN3pXLWFqa3RueDRBZ0dfT1V0NFpibko3eVlSVlBiZkJjWk1hYnp0cDBaU2V5OWhobmtlTktPVHB1VTYydUtPLTJFQw?oc=5",
-      "published": "2026-08-16T18:46:48+00:00",
+      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
+      "published": "2026-08-16T16:05:44+00:00",
       "beats": [
         "Politics"
       ]
@@ -147,30 +159,6 @@
       "summary": "8/16: Sunday Morning CBS News",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTkMycFhMcFEzcWlWOXdjUjhqNnBzdU9PNW0tRERLT05SSUNPcFpUZjFSaXFxRE9jMG5PWVBmTlZFZHVBeWtuNktLNW4tUk9IamcwMkM3b3pIZVRFZ3VjZGpn?oc=5",
       "published": "2026-08-16T16:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trump admin cuts off funding for low income trans kids while NBA players mock trans women",
-      "summary": "Trump admin cuts off funding for low income trans kids while NBA players mock trans women LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFRkcVZRZElBd3VKdnhwbVh1Zl9IcW9BbjQxMmtZaUxaeV8wTVhjRjgzdnB3YndLWDJxbkd6bWNaelptaTVoLVhvek5KRmNnREpUMUFfT2w3ZWtvdnZXeW0zb0FpbFNoNmlsbE5qMnJlbjhvYVRPd0tDRXVkZWxOLU10bHMzQWhRN0h6aW5Cal9CNjNuNTFNd2JMNlRBc0c2YkQ4NGQ1Yk9BZ2lncjZFM1JXSDlxYnc2d3BCVA?oc=5",
-      "published": "2026-08-16T13:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
-      "published": "2026-08-16T09:01:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -212,6 +200,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Sam Smith, Shannon Crave & paper pups: 10 things we’re obsessed with this week",
+      "summary": "Sam Smith, Shannon Crave & paper pups: 10 things we’re obsessed with this week queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVCSi0xcV9OV3NkTi1tazVqbWNjUkJqOUlyTUYtbDRTUGdvZFp1MHhSNTZxVmdfazBJdGhycF9KTENOajRuWUthMmxvSkFOS0d6bVZ2cS1Bc0dEUUJBa3hROG1XdEFXRVVGUUJzTWJOd2x4MTl1QkszcWtoZWNYTHBvdHJVeDUxdnlHUF9CZnFaMUtzajNJSlgtUkltTmJpQmhMOHlHNVdwVzA?oc=5",
+      "published": "2026-08-15T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -228,33 +228,9 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur",
-      "summary": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur Queerty",
+      "summary": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur queerty.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd19lXzBYRG9IT2NLckJ5WDZGRzBmZHpwYU45VnBxT1Q4RVo0aW9VNk9FaUxaVFRkMlF0WFB6VmdoV2F2RVNXaG42NTRUNS1ZV3VNSFJsQ0ZzT3ZKSmpXeTB1U0liMFdiVW5DWU9tS2Jna2MzNjgyTmc2YU9DTXlSM2NIOGlFZXR5aHZrVThzYUpGaGZjTnBDWXVR?oc=5",
       "published": "2026-08-15T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "summary": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREdmSGtXU3JNa3lWSlk3YUJ5Qi13N001SWFvaTh0U1dOa3E5ZmR5UVVRN2Y1T2RCdi1XOFVUS1Y4NmpkY3dUOXNNc3RCek1oQ0RzaHV4ZnFPZUdkSXBkZldsSmNRMVY4Q0Q5R09qdVZXRXdOcGRoQnJ5SlZDNW9mbHllaWVWQ1ZZbF9wRDVyc3Ywa2tMOVE?oc=5",
-      "published": "2026-08-15T17:31:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Queerty Crossword: Aug. 15, 2026",
-      "summary": "Queerty Crossword: Aug. 15, 2026 Queerty",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUW1Ralg1TE8wRGlFWUNrWDlxUDc4aVJHemlZcldMUGprMlFlT25IenF3UjN3SlFMaTVsMlA2eS1vaTByZk9nNVM3QnJkRzZjRmZsM3FZOGtiRi03VG5OMHZ6WlVUckNEcUF4MkpIdVU?oc=5",
-      "published": "2026-08-15T14:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -267,6 +243,18 @@
       "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
       "published": "2026-08-15T12:00:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "6 Exercises Physical Therapists Wish Everyone Did to Age Well",
+      "summary": "6 Exercises Physical Therapists Wish Everyone Did to Age Well The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHlwTDRwTll0cjVGMmpKYmlCZnhCVEhJUWhKcm1oWDZaQVRIYVhRU1lpcXhJSnFNWUlqd2tiUzRQaUE3R3ZFUzladE9IYmhFajFsLThXMzVMYVg3MFgtcGNGYWNTWlhGSHJWSFNHMHJqMmVyTnBzQXdTN3ZsOUpxUjg5NUFCQ2VXNGxrbEZwZ2xONDg?oc=5",
+      "published": "2026-08-15T09:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -378,6 +366,19 @@
       "published": "2026-08-14T18:45:25+00:00",
       "beats": [
         "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Oakland real estate developer announces downtown data center plan",
+      "summary": "Oakland real estate developer announces downtown data center plan CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbk00T21iS2w5NlJQUk5aX25wWTVvNVpsUDU5ZDBKNjRSTHhsV0tzcmp3QTVDcFc5NVhBWUktZkpndzRtVHRHdjlzNm9BNlhLY2pFSDhPS0VycXpyRUlZRmFsTkc2SHg0bHJTN0RVVVU3TVQ1VXI4OVB2RXh3QzRhaF9ZdTEyRUhCM19pSGdqSFhGZWxFdnplazRURm1rTjQ?oc=5",
+      "published": "2026-08-14T17:30:00+00:00",
+      "beats": [
+        "Business",
         "LGBTQ+"
       ]
     }
