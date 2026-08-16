@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:41:49.483465+00:00",
+  "updated_at": "2026-08-16T19:00:22.287285+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -39,6 +39,18 @@
       "summary": "8/16: Sunday Morning CBS News",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTkMycFhMcFEzcWlWOXdjUjhqNnBzdU9PNW0tRERLT05SSUNPcFpUZjFSaXFxRE9jMG5PWVBmTlZFZHVBeWtuNktLNW4tUk9IamcwMkM3b3pIZVRFZ3VjZGpn?oc=5",
       "published": "2026-08-16T16:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump’s vaccine order is counterproductive and ‘wrong on so many levels,’ GOP lawmaker says",
+      "summary": "Trump’s vaccine order is counterproductive and ‘wrong on so many levels,’ GOP lawmaker says CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfeE5OU05XeG5vbWtOVGFrZVVkemRpUHh0OVVSVHRyaW1CNFgzMXBwdTdrZXJkeUhGQlg1OW5rVDFfZklyMXRuaEhTZ0ZaS3dGcEpBdDNaUjhWODVnWmRvd0VXb0xUY2hvMmlKZl9lZjlxWFJNR3M3eDVJRlF2QQ?oc=5",
+      "published": "2026-08-16T15:54:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,18 +140,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
-      "summary": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wYnRvMzEwVlF3SDRScTU5VzFJZ215Um9iWVhYS082NEN4bWJ1RTYyRE1xT2tObzRWNVlrNWxzc0l4MkNfQW45cXM2b1ZsRWRNUGVqQ2lRaEJBZGxCZ29tYnZPVFVId3hvNno1UjBjdnhoQmxYNFUtZmdDOGk?oc=5",
-      "published": "2026-08-16T10:30:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -192,7 +192,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Sam Smith, Shannon Crave & paper pups: 10 things we’re obsessed with this week",
-      "summary": "Sam Smith, Shannon Crave & paper pups: 10 things we’re obsessed with this week Queerty",
+      "summary": "Sam Smith, Shannon Crave & paper pups: 10 things we’re obsessed with this week queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVCSi0xcV9OV3NkTi1tazVqbWNjUkJqOUlyTUYtbDRTUGdvZFp1MHhSNTZxVmdfazBJdGhycF9KTENOajRuWUthMmxvSkFOS0d6bVZ2cS1Bc0dEUUJBa3hROG1XdEFXRVVGUUJzTWJOd2x4MTl1QkszcWtoZWNYTHBvdHJVeDUxdnlHUF9CZnFaMUtzajNJSlgtUkltTmJpQmhMOHlHNVdwVzA?oc=5",
       "published": "2026-08-15T19:00:00+00:00",
       "beats": [
@@ -216,7 +216,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur",
-      "summary": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur Queerty",
+      "summary": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur queerty.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd19lXzBYRG9IT2NLckJ5WDZGRzBmZHpwYU45VnBxT1Q4RVo0aW9VNk9FaUxaVFRkMlF0WFB6VmdoV2F2RVNXaG42NTRUNS1ZV3VNSFJsQ0ZzT3ZKSmpXeTB1U0liMFdiVW5DWU9tS2Jna2MzNjgyTmc2YU9DTXlSM2NIOGlFZXR5aHZrVThzYUpGaGZjTnBDWXVR?oc=5",
       "published": "2026-08-15T18:00:00+00:00",
       "beats": [
@@ -227,10 +227,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
-      "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
-      "published": "2026-08-15T12:00:05+00:00",
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "summary": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREdmSGtXU3JNa3lWSlk3YUJ5Qi13N001SWFvaTh0U1dOa3E5ZmR5UVVRN2Y1T2RCdi1XOFVUS1Y4NmpkY3dUOXNNc3RCek1oQ0RzaHV4ZnFPZUdkSXBkZldsSmNRMVY4Q0Q5R09qdVZXRXdOcGRoQnJ5SlZDNW9mbHllaWVWQ1ZZbF9wRDVyc3Ywa2tMOVE?oc=5",
+      "published": "2026-08-15T17:31:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -239,10 +239,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "summary": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREdmSGtXU3JNa3lWSlk3YUJ5Qi13N001SWFvaTh0U1dOa3E5ZmR5UVVRN2Y1T2RCdi1XOFVUS1Y4NmpkY3dUOXNNc3RCek1oQ0RzaHV4ZnFPZUdkSXBkZldsSmNRMVY4Q0Q5R09qdVZXRXdOcGRoQnJ5SlZDNW9mbHllaWVWQ1ZZbF9wRDVyc3Ywa2tMOVE?oc=5",
-      "published": "2026-08-15T08:50:20+00:00",
+      "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
+      "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
+      "published": "2026-08-15T12:00:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -301,7 +301,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients",
-      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients Advocate.com",
+      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
       "published": "2026-08-14T20:07:26+00:00",
       "beats": [
@@ -325,7 +325,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows",
-      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows Advocate.com",
+      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows advocate.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXE5Sk0ydmxVeS1TT2ZXUkhLd29VUkR1dld2OXJ2UUJ2X3lFaEc5YjBqb0MxUWZnMGUzVXdpWHNMaldDLUk4ZGxDNXRXbDlVUGRtdlM1REVxQ0Zzbnd3ZTZibkthSlpWVm16TEFhdXVBZFNNM2Z1eFA4YmZIbTdMMU0zZF8?oc=5",
       "published": "2026-08-14T18:45:25+00:00",
       "beats": [
@@ -346,23 +346,11 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Bay Area high school cleared for students after chemical scare",
-      "summary": "UPDATE: Bay Area high school cleared for students after chemical scare EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFRwZTE3M0JGRmYyMXhqZFRyaTVQc1F1WTVfQUtRMXJkSERsZ0QyZF9kQ3Q3ZTRoUGpqcGFYaUxwR3Y5bG5GT2tzbmVtRlV2a0dPTFZYYnNzcDJWQmx1SHNtbTRnaU9ZQlJmZEdDdFJnTTA5R2cwRFg1UlRwZHlobWxUaUFEWnFDbGhR?oc=5",
-      "published": "2026-08-14T17:21:14+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "While Susie Wiles slept: Inside Kristi Noem’s failed after-hours Oval Office gambit",
-      "summary": "While Susie Wiles slept: Inside Kristi Noem’s failed after-hours Oval Office gambit Queerty",
+      "summary": "While Susie Wiles slept: Inside Kristi Noem’s failed after-hours Oval Office gambit queerty.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmlzNlVFTV9DZUxQN2FNZ3R0c2tPWERvTmFLX3lmMTItOHg0SnYybFBRaklFT2hibzBXc2hmOHk5LXNkb3lNN1NGdzhoTmo2UkRhTDRlZ3NxTTV1eXViSDMzdzZLcEhqX2VxQlpzRGZlbzZkQTZhZ3BtTk1tbW82VHhhRkRjWEhlejBVYXE5UjhUR1EwOVo1TGRJeGQ2Y1J4QUlCY0d6Qno0Wjh6SkRUR2lZYlpuZw?oc=5",
       "published": "2026-08-14T17:01:05+00:00",
       "beats": [
@@ -374,11 +362,23 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Lauren Boebert's son is such a bad dad he's going to jail but she thinks queer parents are worse",
-      "summary": "Lauren Boebert's son is such a bad dad he's going to jail but she thinks queer parents are worse lgbtqnation.com",
+      "summary": "Lauren Boebert's son is such a bad dad he's going to jail but she thinks queer parents are worse LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0lsYXpfWk9ERW51bjdSVUxaX2pVcThRdEZGSm1KZ2xsYUVITkJVMXRFU0RQcy1BdjVodDd3azdIZUpsQ0E3bDFrR2tfR2ZKWHNlZlFrdHI3WVZOR0J5SGx4Z05fWnBaX3pQVHZrYzF6VGVOVDZNR0lvZ0E3MDdoaXBMQk0tRENvMnRwSHJTQmRyTXR6N2VYT2dSZFpfSVN2Z3NmeU9tbjVGSnVrQUcxZVFNZ2puT2dSajRsVVRaUnM4VXNa?oc=5",
       "published": "2026-08-14T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "CISA issues K-12 cybersecurity guidance as schools’ risks persist",
+      "summary": "CISA issues K-12 cybersecurity guidance as schools’ risks persist K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnd3XzhDV1BMR0w0U0lTcWF6d2MxTlJMQWxLZWFSemQzNzJwVGZ5ZC16OFhGWXdSbmJIQm1XLWpSbmpmU3o4aEs1WEhFYXEtaDhDNFNWZlZsa1VlT0pHd05mUG5TcUp2UEhFQXIxSXBVZXlLMEJkOWU1aTh6YVhrN2pJMlc5VGhSR001NndoZGhqOE80REo1Z2lmR0dQZzhLTXFn?oc=5",
+      "published": "2026-08-14T13:25:36+00:00",
+      "beats": [
+        "Schools"
       ]
     }
   ]
