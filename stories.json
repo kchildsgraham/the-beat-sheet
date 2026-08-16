@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T14:53:31.141525+00:00",
+  "updated_at": "2026-08-16T15:48:29.082122+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Sunday Puzzle: O-OO",
+      "summary": "Sunday Puzzle: O-OO NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NVHFfbXRPR0pzYlo4cDdJY2s0a0tFdXk4VnRwM3FiU0k2a3JnbWZDQjZzVXBUcVYzNl9GZm9hVklTVF8ycjdvbDdBWlI5SjVieGZYVUoyc2pVREZyaUR0SnFuT0gzRDVRUUtNbjBR?oc=5",
+      "published": "2026-08-16T14:03:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -29,6 +41,18 @@
       "published": "2026-08-16T13:30:01+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "CBS News poll on whether Democrats split over socialism, and how Americans see parties in today's economy",
+      "summary": "CBS News poll on whether Democrats split over socialism, and how Americans see parties in today's economy CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaVhnbUgyM3RiUnlRVE9lOGp0NERPczdabnZoSnl5T20xazlVcHh1VTFNSG9qcVdMM3JGcF9lYklzNEZMNWVVQktpOEhQbkpYRDFoa1U4T0tKZVhISDd1eVBlYTIwREl0b0VxeHI2OFBKZzdSMEZpbUIwbXFzY3dGUkE1dEltUnpwLWpLT0FLVlpmdw?oc=5",
+      "published": "2026-08-16T13:00:16+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -44,15 +68,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-      "summary": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmNMVmVseE5TQjdHNXBpVEtpY2poeTRLMHl3SldhR2s5d05iUHRSZkpfY3pqekkyOFNiWWRoTTU4OXBpcktvWlhqS1BaQnJGWDJ4d2F1U1NzWkQzUU9ibEZ0cTlEUjZpVHNvcC1HY0JQTDYzcVBwTTNsNU5uRG11Nzl0Uk5nRTg?oc=5",
-      "published": "2026-08-16T10:12:09+00:00",
+      "title": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+      "summary": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUtnNnNZZGNWeC12aTljZGNzYXZuMmRjMk5wQ3d3SmZZT0R5R1oxa2ppN1Y5SXlKWkNEMFdKWWMxUWtOQWR2MW9YUE5yLXhUYW9JejBYVklOOWtRcFp1aTRpV2poRnVpZjlIWWVLamdzQTFNa3NZMkFrYVhjZnlGc3NkT004RjRQSEpteGVRWFg4SDlQdVNYWjc5ckItbDlaX2IyWHQyODRGd2JDSXdscmJKSQ?oc=5",
+      "published": "2026-08-16T11:55:08+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -63,6 +87,18 @@
       "summary": "Why the middle of the country is back in the center of American politics CNN",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EaFFzNlU0a3kwU1R1S2hHZVVSVGNsYk5qSlNCU19HdFhTc0dzWU5ORHpFRlEzUDlfVXR3cUJGNmZ0VjJCUkVGZTRLa0kwZmpWTkptNlhnZVNrR2xaNEREMGdQRUJUVzR1aWxoU2R2MzlPRzNB?oc=5",
       "published": "2026-08-16T10:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region",
+      "summary": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWdYa2twU1czd3Y0QnBPTHBuLW5BdnFaYzd3ZlNtS0FCY0JkSWhOdmVVa2JKRDRELWxnZWZJTldKT2kyR1lVc2N2dE1ibGlONEFKMU5Hb0RqcERPX0lKWXR5U1BIMW94UHBmMUphVUdaZy1WT3ZObXI0dTNwek9CUzJiR0ctRUE3cHoxUGFvZDhpYmdlT2fSAZsBQVVfeXFMTmhNTmthaXB4QzN3N3hqU3R4RzQ3aWZ0eXVtSXp4eHlJTlJsNTR3VnhLOEJuUFV4RUtjSFE3WHJZd1FNeURyWEpmUEcxMmtnYzJVUUROelkyQm05V1dfTmZMRFBSZHEyRlB1cm5DMUlHaTVIQkRaQ1R3YnpNcTItVDZrQW1JYm9SdGhLSjlDOXVpejZhUGMwTjd0blU?oc=5",
+      "published": "2026-08-16T09:32:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,18 +128,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions",
-      "summary": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORF9QUlRhVDloeEJsNW5MOVRpUWFrcHhYVFU1RzBpbmtNaVdTS0RIZ05mTzhDdVJXN09hMWtUNGxrOXo0d1VnUGpOTXZDamNINFFwalBUenduN0hBNzRxcmk0RC12VlQ1WE1tTTQ5OGdtSmtDUk5vSmpJOWlHby0tT1JrVF9Odzd0Zm90RmRKZE82WXhhNkZ30gGcAUFVX3lxTFBOR2p0YVUxcTZEZ2dlSVdfWWpVSkNTR3NaOE44aHlBejFCRGVvNXlPckdrQUJweldiTWpFWWFpSE1UYnNaMHd4UnFyUlIteS16bGhlQU5LRi1kSlg0WTJkV1F3YkJLZ0tvRlhFVGNCV3VCVDdUcnoybVc2bUVZSFhjMVB0MEdwRDRtY0ZRTWdNWFdleTh1ZzdJYzdYWQ?oc=5",
-      "published": "2026-08-16T06:43:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -113,18 +137,6 @@
       "published": "2026-08-16T06:23:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
-      "summary": "Secret outperformer: Dispelling the 'myths' about an unloved stock market CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1faXRLdmNlRWlxS2VlY2lpaERuUUhaQ3VRS1UyZlA5RGg1eGFtUm9BcEsyd0xRMTRkc1lHRGhFSW9uX2dLZmlNRFg5ZkhYTXZ3a3oxVkZKYXBEejk4REIzWl9SbHNWbkt4QUxBTW9qZ0lnOENtQ0UxbFNVUGLSAYIBQVVfeXFMUExRZUdpemdOR2UxUWZGUW5WYzU1dUFCUHhoQlNUVk5ZVE1uUmxvQTFiNTNaVTVGd2lueHZXOTJYVXY1MnRyOVo0SE14LTAtMHRuUlVxTGNUNUV5TC1JbzlscXdyb2tiMFpMQ0lndlRiWkJOb1pESHFtb3dyci00d29aZw?oc=5",
-      "published": "2026-08-16T05:00:01+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -179,10 +191,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "summary": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREdmSGtXU3JNa3lWSlk3YUJ5Qi13N001SWFvaTh0U1dOa3E5ZmR5UVVRN2Y1T2RCdi1XOFVUS1Y4NmpkY3dUOXNNc3RCek1oQ0RzaHV4ZnFPZUdkSXBkZldsSmNRMVY4Q0Q5R09qdVZXRXdOcGRoQnJ5SlZDNW9mbHllaWVWQ1ZZbF9wRDVyc3Ywa2tMOVE?oc=5",
-      "published": "2026-08-15T17:31:40+00:00",
+      "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
+      "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
+      "published": "2026-08-15T12:00:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -191,10 +203,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
-      "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
-      "published": "2026-08-15T12:00:05+00:00",
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "summary": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREdmSGtXU3JNa3lWSlk3YUJ5Qi13N001SWFvaTh0U1dOa3E5ZmR5UVVRN2Y1T2RCdi1XOFVUS1Y4NmpkY3dUOXNNc3RCek1oQ0RzaHV4ZnFPZUdkSXBkZldsSmNRMVY4Q0Q5R09qdVZXRXdOcGRoQnJ5SlZDNW9mbHllaWVWQ1ZZbF9wRDVyc3Ywa2tMOVE?oc=5",
+      "published": "2026-08-15T08:50:20+00:00",
       "beats": [
         "Politics"
       ]
@@ -253,7 +265,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Could Your Classroom Use a Little More Fun? Start Here (Opinion)",
-      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) Education Week",
+      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) edweek.org",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXBQNEhFRE5mMFFxSXRrU2V4RmlZcEl2eGJvYUFiZmcxRTdEYnhhOUlPX25FdURtZHJYWHpkWGE4bkFaNlVPclpOY0NfVUFsbllLNGJQZjJiWEM5UnlGWnRieHd3RmQ0QjZNOTZjNno4am40dWdDM20xSDhxUDh4RElGOG8tWGhwMkxFLXlDejZFTklIcVh0aTRVb0ctUDBvanNTcVd5Vkt6RHpYa2Fv?oc=5",
       "published": "2026-08-14T20:28:35+00:00",
       "beats": [
@@ -344,18 +356,6 @@
       "published": "2026-08-14T17:21:14+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Justice Department expands military's power to detain migrants accused of trespassing",
-      "summary": "Justice Department expands military's power to detain migrants accused of trespassing CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXhSMWd5M3ZBQTBORGJxZmFIcWFFUVJBRTF5NXVndmlvQ0c3OUN5OUhKTVE1QU4xMWdRUWlPY0FsR3dTa2gwcklrNVhRNk5MT0VEUGV4Ty11N2RVTDQwR0tILV9RaUlfel9rdGF3VEVpU3FxdGxRZ3FJQ0szaVE1b0diT0FUcEt3Ulk1UmpHQQ?oc=5",
-      "published": "2026-08-14T16:48:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
