@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:22:25.013706+00:00",
+  "updated_at": "2026-08-17T08:03:27.286478+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,85 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36",
-      "summary": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36 CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUU4RllJeFE4SkQ3c1NnT28zRVJrOVNMeFZzNFBTckdZUWdfNmFMbmk3N05GMTA3QS1mUU1YdlF4eE5wVlQyRkViZ0wzeFlyMmRldngydVVyLVJXMTU1SFhqdzZRdHl2TDhZSzlBMHd5NkU1RnhJOE1DZVcwelR3Yg?oc=5",
-      "published": "2026-08-17T03:57:17+00:00",
+      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+      "summary": "China's economy slows further in July as retail sales barely grow, investment slump steepens CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZGdkVVJkZHZ5d3lVb1R4RkdNUlkxdVNkWWVuLURTQkQzLVRMTVQxUnZoa3Nza3N1NEoyU1ZadU1rLS1BRVc1bm1zVlJCWS1ibXc2SkgzYTB4RVJFSTlDbDc3T1hPcjU5dG5aWnFvcWhhWnU4a0FOYml2cHlDUdIBgwFBVV95cUxOUzRLenVfQ1RmOHhxNEtkbnludnFINl81RW1vdjVacE5lLVBtNERxa1NJNVg3Q2JtWGo3QXRUUDdBeWpsLTdrYzI5NEpNcF9nT0hhV2pzOUR2cmlJQTlUM3hLSnpWX0hkRmJBRnhRU0ROM0FqTllTWW1tblB0bnBOa0JVYw?oc=5",
+      "published": "2026-08-17T07:03:55+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
+      "summary": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vTm9ycy1GdXJaQWhrOWdQWXc4M1g4RlVnUVp3eUcxVWQ5bXYxb216aFYwNUl5UDBwUG9BOFBWUzFvWTg1X0NBTEFmZ1h4WWFMVUIwNHVqWVA2WkZGZ2tsUVJKajFZVG8zalJPR3pMSXExajVNSkJz0gF8QVVfeXFMUEM3VGFha1FGb2lJbTRNcU1SaVJ1NmhLRkpQRkpSSUp5V1N3dlZrVjlSaWJPbFVJVHVMVzBsOWxmaldwSlpoemZtMU0zNDBsSTZjQm8yZXBpejhGbTg3Q0tNR3JJX2NQM3ZVZnB3X0trbGxNVmxrSTlBWkNZVg?oc=5",
+      "published": "2026-08-17T06:40:29+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Hayden Panettiere, actress known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
-      "summary": "Hayden Panettiere, actress known for \"Heroes\" and \"Remember the Titans,\" dies at 36 CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlb3c4N0FQV1dJRDVMSnlySGN2T25DUFRfalV1SG5IVGFWQmFlaEdBWGdia2d3dE5tY240TjlJSVk1Q25WRmlrVHZMS1dBNG1pbzdQajIwUGl2VVg2eTNGTFVsQ0g1ZFZ0QXc?oc=5",
-      "published": "2026-08-17T03:54:00+00:00",
+      "title": "Xi says China needs ‘indomitable fighting spirit,’ praises Tiananmen crackdown",
+      "summary": "Xi says China needs ‘indomitable fighting spirit,’ praises Tiananmen crackdown CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnZrU2JVVk5VbkhaUVlvaGhXNVNORnRPY0lTR2UxU1JtWUtMQXlfcUJwMGxCMGZhbXc2N3VQYmFXQXVoeUMwVVFGeFpTSVhPMUsxUTJxQzBaNFhCbk9Pbm45N1F6QVZ3SjdXQjdqOUZTazlTUlViRjMtZ0NzV2twOUlvOXN0RGE1V0E0SEsyTnFYWlk?oc=5",
+      "published": "2026-08-17T05:29:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "summary": "Trump orders Pentagon to scale back joint exercises with South Korea NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vNWdubnhjZlhERy00ZHk5SnhZdDRIMExDbjFLek1xeGQ0U1RTb0hXckxYUlNCZm50a2tZUl9zQndXdDQ2eDR0UWFxUWg4b3dtLUFKQnc1dGpLRGN4U3JfVlphMEEzNjVHem56bnJFbllqeS1BOFZLcXlR?oc=5",
+      "published": "2026-08-17T05:21:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Wait… how much oil is actually leaving the Persian Gulf?",
+      "summary": "Wait… how much oil is actually leaving the Persian Gulf? CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYVYtcDNBX1hmaTg3d0Z6UDQ1b1NNdTlVaVk0MnZ1SVkxbDlkRjFXbXZhMkxoeVdkWWtWZEt3b0V0czIyVXc0akJqYUoyWWd0Tk5FdkpUQ1kzZ2QxZnB3ZEhaNnlPeG52U1N3bEJ6UnVxbG0wYWkxQW81cWdVdw?oc=5",
+      "published": "2026-08-17T04:01:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36",
+      "summary": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36 CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MeVQwT01YLXk5QjVPLW1ZVlkwejVIVkNwVG9FLTdfYmlYSWlIYUR6SjF5eDZsQ3ZNR1FZNjdfdG1sQ2pKeUpVenhHR2tYRGRzanZzYXRMVUJtOW5MTjdoU3ljeXRNNDk1cmRlbXAxWHNZRHliR3RXeVY2TQ?oc=5",
+      "published": "2026-08-17T03:48:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘Lanterns’ Season 1 Premiere Recap: No Evil Shall Escape",
+      "summary": "‘Lanterns’ Season 1 Premiere Recap: No Evil Shall Escape The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZThkazE3VG5CSGg1TkNpREtYZWJRSUg2alRVN0d1UzZmeFdVdWd5ZzZKd3ZfVlRYMTg2LU5BVUxUdnRralBVaExJdzdFV3lUMU1mYTdiSHdiWkF0ZlhqajY1R18wN25lcC12QWpMVE03eU42eW9CVnVYZjdDTXdHLXd3NEZSQzBVeVRKRnNyQlR6WFU?oc=5",
+      "published": "2026-08-17T02:00:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,51 +116,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
-      "summary": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG9EMVN6cWVPaXVTaFI2eG95dHZRX1dTMjhuejBDYmRsdDRQc2ktUHRya0hFVWNCLVotNWZhdUtubi1fY3Y4UkJ2cmtWa0NtaFc0LUNWc0FoMVJiZzR3R2lockVJR1FfTkpKVnVJRmFfTjlRNjNvSWJfZk81X2gzNm54a2p5MEhjN3Mw?oc=5",
-      "published": "2026-08-17T00:01:00+00:00",
+      "title": "Bay Area asylum-seeker returns home after nearly a month in ICE detention",
+      "summary": "Bay Area asylum-seeker returns home after nearly a month in ICE detention CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2ZLYUF0VUh6NUltcmJodERkVGR4dy1aUW1GRlpOVXpFSU1PVUhVVUJvSXMxMkhlOE9qLXhETGtwQUdDZVVqSDlMVVhQRFJXMlJHYmx3cV9heW1pTjJibnRKeG1vWHpqWnZOVURvc2lBYkRXVnRCamxOa1N5UGpyS0tOMHVtbnpUcG1sbWEwNjN5U1QzTkVXdmN4Z05VTXM?oc=5",
+      "published": "2026-08-17T00:31:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump says US will reduce military exercises with South Korea, citing lack of help with Iran",
-      "summary": "Trump says US will reduce military exercises with South Korea, citing lack of help with Iran CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkxBSTcycU1KSHpzYzYxdnNFYjVPeTBvRW80eEpydFlSdHdMYUJlOWZXN2dhMERDYS10VzlaRWJnWHZDZl9QZTFRTlEtSk5ZNnNZZHpicW5MQTBkY1ExVGRwZVRLRGtMZVJXaDFROVN1N1RrX0Y3d2ZFWHUzdzZWQTVaQ0g?oc=5",
-      "published": "2026-08-16T22:17:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
-      "summary": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGtkWi13blY0NzlDX2lNSDRLZGxudWxnODBoU1ZyQV9JODdCNHhFRlFSM01YNDM3Wm1oOFlMeHVWT1F0OHNFRjdwU1BaM2tHNTk5cUxZS3JiSWVlcXZUUmlYclpQT1JIa09SdXBJajczX29rVi1wTzQ0b1FZLUZnM1NwRDFaTlR3ZnRkT3d30gGTAUFVX3lxTE5ZV0lrN0tDRUN4bTZEX0NucXlvWmMtWmVicDhMeTRTQmp3SmNJUEY1MFdCeVlZQ2dTNVRyazBnNzVmcWFRM0Y1THVoUEZYeVRiWm14c2RGcExIZ1BpWEc4UjFwSzJnNmMtdVZvWXVqaGFvNV85aEJtNzg1UnFzTzdVa08zT0hyQ0NjbXZUUG9lTE1oMA?oc=5",
-      "published": "2026-08-16T20:53:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "1 killed, 4 others wounded in Lexington, Kentucky, shooting",
-      "summary": "1 killed, 4 others wounded in Lexington, Kentucky, shooting NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
-      "published": "2026-08-16T20:48:58+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -128,27 +152,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-      "summary": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEFscm5SRTlubmdYeW1GYWw5WGxBU0x5UFdJbEFHcUFnUGxJMzg1WWQxVXFVNF9aeTBKb3Q3eU1TZVE3aXhra0lwY0g0dzRUOHdadFh0RkhIMDU2Qk84MXlGU3JzZzBhT0lUUWdzTnNMaU9DamhpZ3dZaWkyRVctNnVHd2t0ZktTckg0?oc=5",
-      "published": "2026-08-16T20:20:22+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Rosie O’Donnell on coming out: “It’s not an easy life. But it’s a true life”",
+      "summary": "Rosie O’Donnell on coming out: “It’s not an easy life. But it’s a true life” queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX25EYzVnb01saVdtOXFRQUYtNzA0T29YM0NZS1B5QTBKcUcwNFVPWFRKdlZUV3NDRFNwSHE5Y1FsS1hTaExEQ0tWc0hPM2x6bTBVQTZFNFcxUmlmWC1xeGFtMC03Y0k1ZGc3aWZUYllaMGNseU94UXRncllUMUEzM3AwanhtUUtOVTRtcFNHaE1UWHF5WTJJQWE2a3hrWlpTUTMzQ3RR?oc=5",
+      "published": "2026-08-16T19:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
-      "summary": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83 CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFNuVFVWN0ZhQnBpc1dzSk9OSmdzUWEzR3dNWHBZRGRpdFlXTUVxMUs0UzhOcm9EdjJQS1RldVV6dGROMjE0NTZFZVFhSmpXWExfS2hxS0hiTG1MRkY3LUw5Tnl6c0dCTzVTUmI2UV9pLTNSMlRGY2tncTJRSFFDQlcwNUpuMVJtVVUwQlZ1VUhNbFZGS1VIb20zdXdpYXRoMTA40gGoAUFVX3lxTE9IYkRMdU1TX1N6Z0ozZWcwcnJaYlFMSnQ5RFhHU2E4RURCc1liMEt5aGRodi1vZEdYVzRyQmRLZDZFSXJMZmVSNzhlTjJ3LWFhb2N2SmZWQ1hQWEt3eXBPd2JmbGJiWXZ1UzB4MFA3Nll2VF9jODV0dXZ4MTR0VWVnNDBUcEhiVThTSk1UeHZzdmozUFlEMnk0S2NjVFVUY2hlcjRlZTd0LQ?oc=5",
-      "published": "2026-08-16T19:36:49+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -164,16 +176,27 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "A deceitful Dom, cocky co-workers & a best friend's evil ex: Gays reveal their most toxic crushes",
-      "summary": "A deceitful Dom, cocky co-workers & a best friend's evil ex: Gays reveal their most toxic crushes queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHo1VGJLVnNOSHNrUUhfNHlYdTdraF83d181bmxuTjdWaWVzV3RycDlBTEQtcjBTRHl4MEVlcml5bnJTYXhBRG1QMXM3Mk1yUGFxclNqNTBQaEpJbi1PX1N0VnAyano5aDRkdDNUOTBBWmJoLXVmdWJEVzJMOFYzbk4xYkRxMUJpQ2RVblhldzdsenROb3lzaWFlWUoxQUVsVXpzYzJ6cmQzOFRPUjZ4MG94TTJnTDZzWTRFRnFYOFBHalFK?oc=5",
-      "published": "2026-08-16T16:00:00+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
+      "published": "2026-08-16T16:05:44+00:00",
       "beats": [
-        "Business",
-        "LGBTQ+"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Arrest made in shooting that killed 1, wounded 4 others in Lexington, Kentucky",
+      "summary": "Arrest made in shooting that killed 1, wounded 4 others in Lexington, Kentucky NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
+      "published": "2026-08-16T14:17:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -198,6 +221,18 @@
       "published": "2026-08-16T03:11:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister",
+      "summary": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2ZHhvZGJ5alZCYWhrWnZkYw?oc=5",
+      "published": "2026-08-16T02:18:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -240,34 +275,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
-      "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
-      "published": "2026-08-15T12:00:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "6 Exercises Physical Therapists Wish Everyone Did to Age Well",
       "summary": "6 Exercises Physical Therapists Wish Everyone Did to Age Well The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHlwTDRwTll0cjVGMmpKYmlCZnhCVEhJUWhKcm1oWDZaQVRIYVhRU1lpcXhJSnFNWUlqd2tiUzRQaUE3R3ZFUzladE9IYmhFajFsLThXMzVMYVg3MFgtcGNGYWNTWlhGSHJWSFNHMHJqMmVyTnBzQXdTN3ZsOUpxUjg5NUFCQ2VXNGxrbEZwZ2xONDg?oc=5",
       "published": "2026-08-15T09:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "summary": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREdmSGtXU3JNa3lWSlk3YUJ5Qi13N001SWFvaTh0U1dOa3E5ZmR5UVVRN2Y1T2RCdi1XOFVUS1Y4NmpkY3dUOXNNc3RCek1oQ0RzaHV4ZnFPZUdkSXBkZldsSmNRMVY4Q0Q5R09qdVZXRXdOcGRoQnJ5SlZDNW9mbHllaWVWQ1ZZbF9wRDVyc3Ywa2tMOVE?oc=5",
-      "published": "2026-08-15T08:50:20+00:00",
       "beats": [
         "Politics"
       ]
@@ -305,8 +316,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG5IUkRaU1YxdnFndTN2Vk9SaWxLVnVFU2l4NXU5SFN6anloZFNfVndTSDZmSW5jcmxyOFMyMXB0dm93MmtwSjFCbFlHX2xZQ3VmVVMxRlBab1dsSXd2djJrQXRkaDZRT0JoRzNyTFA5aVJ1VE9EQ3d6LXpvZFYtZnByR1pZLUlFdmhPS2Zjc2xRUGRKY2JzQXJWaDQ1MEE?oc=5",
       "published": "2026-08-15T01:35:56+00:00",
       "beats": [
-        "Business",
-        "LGBTQ+"
+        "Business"
       ]
     },
     {
@@ -319,6 +329,18 @@
       "published": "2026-08-14T22:53:23+00:00",
       "beats": [
         "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Several key education bills advance in California Legislature",
+      "summary": "UPDATE: Several key education bills advance in California Legislature EdSource",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVmxNY0lhdU5vV3BsZXhET0tpdm1WaGtIcHJvNmdoNGZXelZPUkw5YkNEelhmNGRwdTY5MENmNHBqTUk3OVFrcTFuZ2JjOEpLNnV5NXlWQzJ4SW5rZTBHREpTRVZ0UGdId2oyTjNsZVM5d0dOMWZNV1RFbGUwbjRVUmFIMmxoNUMwUnNzVkFYT3JpR0dJ?oc=5",
+      "published": "2026-08-14T21:31:27+00:00",
+      "beats": [
         "Schools"
       ]
     },
@@ -355,31 +377,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
       "published": "2026-08-14T20:07:26+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trans activist confronts Dem AG in fiery public protest: \"Clinics are dropping like flies!\"",
-      "summary": "Trans activist confronts Dem AG in fiery public protest: \"Clinics are dropping like flies!\" lgbtqnation.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2dkMUhnOF9jVFREQ0N0SG02bDU2cmpmd2tDbnA5VXdwQjZHdXdwbGppOUhPZTQ1M19wRTZQN3NFVmJxUUt6ektWMzlDcTJMLXVXc2JiYkhJdVFkcXR6UzltX0J0WWl1UnVkUVV0UTFsQ01pRzB3SGdNemZ3NXAxT1ZxakFRdk9TZDNiYmR4bkMwQWxCOGFmbW1OZmU4ajMxZ0JxWmRLbXpuemwxcEFqUmRFMXdtbDQ?oc=5",
-      "published": "2026-08-14T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows",
-      "summary": "Sean Duffy’s MAGA son-in-law wants a seat in Congress. The internet wants answers about his eyebrows Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXE5Sk0ydmxVeS1TT2ZXUkhLd29VUkR1dld2OXJ2UUJ2X3lFaEc5YjBqb0MxUWZnMGUzVXdpWHNMaldDLUk4ZGxDNXRXbDlVUGRtdlM1REVxQ0Zzbnd3ZTZibkthSlpWVm16TEFhdXVBZFNNM2Z1eFA4YmZIbTdMMU0zZF8?oc=5",
-      "published": "2026-08-14T18:45:25+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     }
