@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T14:57:50.677817+00:00",
+  "updated_at": "2026-08-17T15:54:14.305088+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Actress Hayden Panettiere dies days before her 37th birthday",
-      "summary": "Actress Hayden Panettiere dies days before her 37th birthday CNN",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnF5ZTZmLXhBc1BaQWNfaHZHSFlJUnNCVE92dE56MGZPUXY5VWtrYlMxaWhFRXZRb2w3MXFSM05OWVd2WnE3dDNaRE5rSG9OdXJPY2VJLXdQcHBsQk1NU3dCMVM0b0gzY0U4cE1qUGthU1lKcnVzdnZjS01aTFFxaV9vT18tVG05MWlrb05UNmlMeEdkb05XLVp4VndFaTQ2cUZDRC1Gaw?oc=5",
-      "published": "2026-08-17T14:16:00+00:00",
+      "title": "Killings Plunge in a City Once Known for Violence",
+      "summary": "Killings Plunge in a City Once Known for Violence The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTJVR2lYbU1kUzRUV3c0NXY4X2Y0QjlDVGw5WHZzbm9wUlRmYmZIaUg2SXJ5bkhjdXd4UkdIcHpYOFRRcnM0UHhpUnlXcmlEcDVhZGRjd2xscDN3QWFfVnlBemYwa2JqT2J0dC1STDlydTFyZmhtX1VPa3BSamR0SEVPTzZaV0dnVHozYlZ3?oc=5",
+      "published": "2026-08-17T14:51:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+      "summary": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LNHllU1M3SzllSHBDOXVtMUhGNEtMZEJhemxyc1ZBdGplaTNUZmNEdDFOeHMxUU1aTjJvV2tzOEE5M2FHSU81Yl9zeWdoMjB0anM0bE5fM0FoSEMzd1NBdmhuRkxFd25JbTRDZ1d5QXFmMUFIREdMbzBlZ9IBgAFBVV95cUxNQ0ZTVXBabVdPdnNPRnpTdkhVWGZYWW4xZVRjY2NTOTc5b1A5eTJrcXA0dmp4LU1Ya0pRV2drb1AxV3dUdHlscS1ZMVllVGpVR1BSNlhTU1B2UkJYczlhVXp6UHhCQ1NfQ242RktvSEhqNk0wQm1Sc1JydFF3QlFBZA?oc=5",
+      "published": "2026-08-17T14:12:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -39,6 +51,18 @@
       "summary": "Supreme Court rebuffs Trump’s latest effort to deny $5.6 million payment to E. Jean Carroll CNN",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NDFlR0o1c2dzUWxZTVRPcG1xbkVCYjBVckpUSF9uTjBsNWhQblptbUhpZTktYWt1NWRfU2dqc1d6VFhpQklrWndfQUdBYlpCQ3VKNU9EYjF6V2M1UDlYZUhVd192ZFprSXo4UGI4clNKZUFrV19ZQXFiODZTSGM?oc=5",
       "published": "2026-08-17T13:52:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Exclusive model of Ferrari’s first electric car, Luce, sells for record $40 million",
+      "summary": "Exclusive model of Ferrari’s first electric car, Luce, sells for record $40 million CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2ZGb3JYbVZLN0pOaW56ektqSHFiTkdoLUh5YkNEWnhSalFZQmprMGVxam9idVp3SmdXX2dyYThXazZMTWVNeTVUcmRYd0JCRHg4RktZWm03NDVybC1HYzdkNVJMNU9fcDhtaGlDS21ad0ZqeEpFeVlMaktPS0NzdnVHb19Ldw?oc=5",
+      "published": "2026-08-17T13:47:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -63,18 +87,6 @@
       "summary": "DHS defends investigating agency critics and giving them warning notices NPR",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnQtX2JqSlNTTm5ORmlBeGNHNUtZemIzdXBtS3JwdnlRSGhxcV9qMW9CaVVwVk9hVWZ0TFhEd3R3aktvd1FtblkwVUNYZml2UHo0QmRia2pBNXhlOW5nWDNMVHRrZmUyZlVTSi01R3cxWHNfcVNsT0RRY18xa1FsTg?oc=5",
       "published": "2026-08-17T13:31:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
-      "published": "2026-08-17T13:28:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,13 +128,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
-      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
-      "published": "2026-08-17T11:24:23+00:00",
+      "title": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln",
+      "summary": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZfZWp6WGFjUGNiZ1NoakRrMVcxSUE2VDJkQW5IVEkwREpxdEprckhBR29xYTEyLVNRQjM3cUJpSHpIRktTaW00N3RBV1FQYS1XeWRnem5TVW5ZTFFCWkpqYno1Q3d5UWJUTGp3Tms4VGlfMURJaVJtcWdZdTE5ZDltNmNjT3M0UmgzX21jVDVUOHlPOGJMVHV0b0pDMXBGcThfTW5n?oc=5",
+      "published": "2026-08-17T10:49:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -144,21 +156,9 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Elon Musk’s Starbase wants to expand in south Texas",
-      "summary": "Elon Musk’s Starbase wants to expand in south Texas NPR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHVpaS1RQmlRSzE0WE5SMVlMUG82dE9BOWs1QUpPbllMY3U5VlRsZS1XWTBTSjNBbG1WRFRnT1hROU5ud3hQQ21ZSFRpSEltUWxqX19ueGZFa0g2aVZRa0N0RWI0VHZyb2lZdWJoYzdSaEtLcWtDTU9hUmMzMkNlWWxR?oc=5",
-      "published": "2026-08-17T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Meta heads to court in a landmark trial about kids and social media addiction",
-      "summary": "Meta heads to court in a landmark trial about kids and social media addiction NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOODRFY0VHWmJmMGNUQlVzYllPMGhUY1NGNURNaWxYRXRnMXVjdUxqUEZFWFdJdkVaa2FFYWlDby0yVjZLelFGanlvRy1UZ1RXNEtFNzJBbVFlS1hwOFBNNEdtU3FkMENjUmpHU19yV2R2cmlaWXhlTHFESDBjOGVPODZScVY0OFBpN1ZJ?oc=5",
+      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "summary": "Cialis is an erectile dysfunction drug. Could it also help you live longer? NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSF91YzlRdDJBRENFMUJ3QzdMOG9LZW8wNDBGM1h4TkVvYXBwQTY3TWxpdDlkQWNqNS1SUFBUbTNxc0ZFNWZSNVpBcTU5SEw2M1pQeVp1alV4ZHN5WDllRGVYWkRJbXJjZXZTNXk1bGhla3BLak5GZGtHTWg4RDhQaHBPMC1iWEJBdEhRN05rYi0zTzZ5NGc?oc=5",
       "published": "2026-08-17T09:00:00+00:00",
       "beats": [
         "Politics"
