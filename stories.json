@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-17T10:09:40.677420+00:00",
+  "updated_at": "2026-08-17T11:45:03.264813+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,369 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: Unions sue over ‘professional’ degrees",
+      "summary": "Week In Review: Unions sue over ‘professional’ degrees K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zR1ZsZkhnRm56OWxycGp4ZEhNRzN4c0puYVBzNzVTRkhQLXZ1WlFQUzRaZnZZaUgyek1pdUU5cUhCZzhSR2F3MFluSDgxYnJlZ0w3QXNSXzNOWEYwbmkxMWhXYmFhWmxMOTVhcy1MM1ZZYTZN?oc=5",
+      "published": "2026-08-17T09:03:13+00:00",
+      "beats": [
+        "Business",
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Elon Musk’s Starbase wants to expand in south Texas",
+      "summary": "Elon Musk’s Starbase wants to expand in south Texas NPR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHVpaS1RQmlRSzE0WE5SMVlMUG82dE9BOWs1QUpPbllMY3U5VlRsZS1XWTBTSjNBbG1WRFRnT1hROU5ud3hQQ21ZSFRpSEltUWxqX19ueGZFa0g2aVZRa0N0RWI0VHZyb2lZdWJoYzdSaEtLcWtDTU9hUmMzMkNlWWxR?oc=5",
+      "published": "2026-08-17T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Car problems? No childcare? How an app is helping people get to work",
+      "summary": "Car problems? No childcare? How an app is helping people get to work NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHNZWVdhWWVhLXllMnVma2hFLWhTTnhoakhaYlRXUmpoWWY5bWhfekhDb2l1N3hiN1VvSktUZXJ5R1lVMkx1cGdLODhiTUtIVzJvYURpY2kzQy12RHNybW9ia2dEWVNZSDV2UnhQREgzM00taGw4UE9PUkRvUTh5MnhGcEROZw?oc=5",
+      "published": "2026-08-17T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+      "summary": "Meta heads to court in a landmark trial about kids and social media addiction NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOODRFY0VHWmJmMGNUQlVzYllPMGhUY1NGNURNaWxYRXRnMXVjdUxqUEZFWFdJdkVaa2FFYWlDby0yVjZLelFGanlvRy1UZ1RXNEtFNzJBbVFlS1hwOFBNNEdtU3FkMENjUmpHU19yV2R2cmlaWXhlTHFESDBjOGVPODZScVY0OFBpN1ZJ?oc=5",
+      "published": "2026-08-17T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US Navy destroyer spent four days without power last month in South China Sea",
+      "summary": "US Navy destroyer spent four days without power last month in South China Sea CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFdBZE5RazhfM1k1d0FWUmRFNmZ6d0hUSlNhdGRDV3JRcG4wOUtLUjU0WjFHSzBYWUstRFN3SWpIZHRhcGwxcTBKSzNDWTViNVRXTVpVRWU4RjZyM0JDZXR5d2xGbHYtMnBHZlhneUlBZ0hrOFNCcHRxanlRLTRuUDNPY200T1U?oc=5",
+      "published": "2026-08-17T08:43:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump has handed a gift to Kim Jong Un and deepened concerns over US reliability",
+      "summary": "Trump has handed a gift to Kim Jong Un and deepened concerns over US reliability CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDV1RkpsVFNFdDBlRjhSbTJsaFY0SkpxMG1paEw0UHVvYWZMR0V0bm5YN1RLTERNbFBSUUJVNjJnZTVweEprSDlDOE5LOFJoS0tnOU9VYkNtZXlBWF9fRmJlZFQxbDJydmZZOVFxVm1ueF9pX29BZ0czV29PMHRxR1pYZ2RRcXZabkVIZFVnbGhaY0lndzZNMFhfWkg?oc=5",
+      "published": "2026-08-17T07:53:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
+      "summary": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yYUVkY2dPZ0gwUXljWl91UW90Tk9Yb0J0NlRaZTdESlhoMmtneGpFZUhQSkd3ZzhhX3l2RGZJUmdDSzFhVnczRFhnY2tsaHBqMHFqN0lTS2Q3bjJEUm9QUFJmSHM0M25OcHV4RnZn0gFzQVVfeXFMTUx6bEdGYlhiR1ZTbVVyTzFaY1ZZcy1WQ1pQSXRyVjBfa0o0TVZ5VW83ZUsyMmtPTGNxQ3RscjR0ajdSTjA1akVxclViUWlRd19STTRDcVVuSkp3VURicGtUZkhJMHZqTHZhWjg5Zk1VRHRybw?oc=5",
+      "published": "2026-08-17T07:46:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+      "summary": "China's economy slows further in July as retail sales barely grow, investment slump steepens CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZGdkVVJkZHZ5d3lVb1R4RkdNUlkxdVNkWWVuLURTQkQzLVRMTVQxUnZoa3Nza3N1NEoyU1ZadU1rLS1BRVc1bm1zVlJCWS1ibXc2SkgzYTB4RVJFSTlDbDc3T1hPcjU5dG5aWnFvcWhhWnU4a0FOYml2cHlDUdIBgwFBVV95cUxOUzRLenVfQ1RmOHhxNEtkbnludnFINl81RW1vdjVacE5lLVBtNERxa1NJNVg3Q2JtWGo3QXRUUDdBeWpsLTdrYzI5NEpNcF9nT0hhV2pzOUR2cmlJQTlUM3hLSnpWX0hkRmJBRnhRU0ROM0FqTllTWW1tblB0bnBOa0JVYw?oc=5",
+      "published": "2026-08-17T07:03:55+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
+      "summary": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vTm9ycy1GdXJaQWhrOWdQWXc4M1g4RlVnUVp3eUcxVWQ5bXYxb216aFYwNUl5UDBwUG9BOFBWUzFvWTg1X0NBTEFmZ1h4WWFMVUIwNHVqWVA2WkZGZ2tsUVJKajFZVG8zalJPR3pMSXExajVNSkJz0gF8QVVfeXFMUEM3VGFha1FGb2lJbTRNcU1SaVJ1NmhLRkpQRkpSSUp5V1N3dlZrVjlSaWJPbFVJVHVMVzBsOWxmaldwSlpoemZtMU0zNDBsSTZjQm8yZXBpejhGbTg3Q0tNR3JJX2NQM3ZVZnB3X0trbGxNVmxrSTlBWkNZVg?oc=5",
+      "published": "2026-08-17T06:40:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’",
+      "summary": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’ EdSource",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LY1l6c2hCLTczN091WTMycGJyTXc0UGxWSUJIT2ppN2trd1JFdUI4TFl0bjY2VUZUTlAxQ0RCcnQ3MUVCTnh1YkkxQzRYNGRVbWh4ZlJ1Y1dFTTJucXZwOUVxU2szUW40VGpHeHNzbVFtMlRVNlF3aE5CWjlMZ1HSAYcBQVVfeXFMTUZvc0cxYncteEoxU0VrQ2wwY2xSeWxkSG5DQkRUOEpLUWtHYzhLZUlfVWRQNXNRWnJUdlIyWC0wYTFsSTVtT3ByUHdPVUtxVFJmbEFCdmt2TVU3a1FEZkV1bW9KbGxzVG9jbVZudUNXb3BVRHotMTB2cjF2Z25XVDBLYVhPUnE4?oc=5",
+      "published": "2026-08-17T06:12:16+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36",
+      "summary": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36 CNN",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObzlxMVVmS2h1TDduem5BNjQ5V2F1ZkItWTRLYjVNbWIxaEpFNjJTLVpGRnBSYk14SWRGU2p2cDZXQXpJM2wtTkhSU242YlQ1ZlNjXzhoZ2hOSTVaQ3JZUzN4bEV6QV9aaGwtRTlta2NxVlIyblNwTVZVWl9WRnZWOWI5WS11OG50UnNBd3RhcDdsRnY4eldjd0VtYTJqbVk3M1h5UU4tOFBqRE5GYUNROWZUd2QwSUE2SVM4UDlGQllXanNfMmt0TWMwMG00UWtQOVNUTjdwejlxZGw5SE43cXh3b0lsMmN6eXk1THFfWExOSFlSdkxB?oc=5",
+      "published": "2026-08-17T05:54:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
+      "summary": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzR6ak14NUFEVDZJZ1M2UnFISXJ5Ymx4ZWg3TllRa1NpQVJscnVYVm9BYjJ2eHVlM2tLSHNvY2VSV3dldkhxZkVCRnc1RWVnb3VtQkRPX0xyT0J1N3F3dWRPbWF5Y1NURWE0dHNSX1VYaHhOMFdTVEpNOUJUcWtKSjBYaEE?oc=5",
+      "published": "2026-08-17T04:14:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘Lanterns’ Season 1 Premiere Recap: No Evil Shall Escape",
+      "summary": "‘Lanterns’ Season 1 Premiere Recap: No Evil Shall Escape The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZThkazE3VG5CSGg1TkNpREtYZWJRSUg2alRVN0d1UzZmeFdVdWd5ZzZKd3ZfVlRYMTg2LU5BVUxUdnRralBVaExJdzdFV3lUMU1mYTdiSHdiWkF0ZlhqajY1R18wN25lcC12QWpMVE03eU42eW9CVnVYZjdDTXdHLXd3NEZSQzBVeVRKRnNyQlR6WFU?oc=5",
+      "published": "2026-08-17T02:00:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Bay Area asylum-seeker returns home after nearly a month in ICE detention",
+      "summary": "Bay Area asylum-seeker returns home after nearly a month in ICE detention CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2ZLYUF0VUh6NUltcmJodERkVGR4dy1aUW1GRlpOVXpFSU1PVUhVVUJvSXMxMkhlOE9qLXhETGtwQUdDZVVqSDlMVVhQRFJXMlJHYmx3cV9heW1pTjJibnRKeG1vWHpqWnZOVURvc2lBYkRXVnRCamxOa1N5UGpyS0tOMHVtbnpUcG1sbWEwNjN5U1QzTkVXdmN4Z05VTXM?oc=5",
+      "published": "2026-08-17T00:31:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Rosie O’Donnell on coming out: “It’s not an easy life. But it’s a true life”",
+      "summary": "Rosie O’Donnell on coming out: “It’s not an easy life. But it’s a true life” queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX25EYzVnb01saVdtOXFRQUYtNzA0T29YM0NZS1B5QTBKcUcwNFVPWFRKdlZUV3NDRFNwSHE5Y1FsS1hTaExEQ0tWc0hPM2x6bTBVQTZFNFcxUmlmWC1xeGFtMC03Y0k1ZGc3aWZUYllaMGNseU94UXRncllUMUEzM3AwanhtUUtOVTRtcFNHaE1UWHF5WTJJQWE2a3hrWlpTUTMzQ3RR?oc=5",
+      "published": "2026-08-16T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig",
+      "summary": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV5OXEtVG5wbnV0OUhCOFZqOU5KYldtb08xdXg4WWs1eTdIeGFpZG9LdDVDakRxNW9ac0FBZ29aUkpBRkpxX3RELUstMklEalFKcGMwY1N4ckZFRy0xTjZXWUhwWFJhT01jdzlDZHllZnhMeDZpamtta1AwNWR0bVJ5dVpTVDF6cXUwb2p6Ymh5Z0dMVnZPam5R?oc=5",
+      "published": "2026-08-16T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
+      "published": "2026-08-16T16:05:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Arrest made in shooting that killed 1, wounded 4 others in Lexington, Kentucky",
+      "summary": "Arrest made in shooting that killed 1, wounded 4 others in Lexington, Kentucky NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
+      "published": "2026-08-16T14:17:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
+      "summary": "NATO fighter jet shoots down drone in Romania near border with Ukraine CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXotZ3BBMWFiSDViUkNBSGo3M2cxanBwcHF5bTNhWDdRazQxbm9qbVFaMHlFZ0xtWnUtbVh2UXhFc1ExQjlRcWFlME1pMVFyc3B5M2NOTFdaR3NvY2lvUkU2UmNvZHRkWVFZVWlydldPa012eU14cFd1c2dTcDVicDNHM2I1Ymc?oc=5",
+      "published": "2026-08-16T06:23:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Good Samaritan shot in Alameda parking lot during struggle with suspect, police say",
+      "summary": "Good Samaritan shot in Alameda parking lot during struggle with suspect, police say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2pyZWtVaG5WSEhqdjVLcHlkc1Mtdlg2RllaUFNhUE5qWjVYN1dpbU51di05bmpxV0xBVmt3TUV0dWdCZ2tzR21wcHBtYkdtVU5sbE9YUy1BN2U5ajg5Sktqa2ZMNERMdUlDQ2FNNTN0LUtTTDdablVDQTY5VmF2eWMzSlNxTjhtQTVycllRem11RE16?oc=5",
+      "published": "2026-08-16T03:11:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister",
+      "summary": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2ZHhvZGJ5alZCYWhrWnZkYw?oc=5",
+      "published": "2026-08-16T02:18:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Hawaii braces for impact from Lala",
+      "summary": "Hawaii braces for impact from Lala NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW1nbHk4cTVsd01FX1RQTHR2cDNaZ2FmTW9CY192eklKaUZiNC1MQ2hNY19rWGc5SVZtMVdEWEtxc3dOVE40eTRJeEVMWXU0a0dfaEYtNUJXNWU2YnBUdWVJZXU3SG5wTjNMeU9TODM0TDd5bVBoZTlxSmpPNGwyX09Bekc4QURjV3JJZk9sSUtfcnpY?oc=5",
+      "published": "2026-08-15T23:29:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Iran urges U.S. to ‘accept the reality of defeat’",
+      "summary": "Iran urges U.S. to ‘accept the reality of defeat’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUFINHZIWTh3Z2hXVVFjT2VzX2hLUVpPU0hKdHVsQ0YwdnVldUFvX19SNTk5bFhFWXQwS1NqUmhDQlNkTmxTOTFyS0ZUYU9MaFVPY2xRblJpTGpOX3BiSFdaWHBFckkyenFtZ01iT3BvVFp0cENhYmRWRS1sTVp5c1lXMkZ4WmpNTmdlTHktYXFKamtxUHFqRm1PYVo5a3VYTk5HXw?oc=5",
+      "published": "2026-08-15T22:50:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur",
+      "summary": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd19lXzBYRG9IT2NLckJ5WDZGRzBmZHpwYU45VnBxT1Q4RVo0aW9VNk9FaUxaVFRkMlF0WFB6VmdoV2F2RVNXaG42NTRUNS1ZV3VNSFJsQ0ZzT3ZKSmpXeTB1U0liMFdiVW5DWU9tS2Jna2MzNjgyTmc2YU9DTXlSM2NIOGlFZXR5aHZrVThzYUpGaGZjTnBDWXVR?oc=5",
+      "published": "2026-08-15T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Your CTE Pathways Are Strong. These AP Courses Can Make Them Stronger.",
+      "summary": "Your CTE Pathways Are Strong. These AP Courses Can Make Them Stronger. Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHlaTmUwNTUxd1pXQWhIQjVaNVlJMjRVaEVWYWNTVWIyY2VXV3pxY3NEeTNQUkpRZ0R1eDBKN0JIc0E0VC1Rc1duZXl6N2RLb19iUEhNaXBFcGpmZVNhS0RVMUtaTy0wQ1JTUVhNSkM1b3RsVjlDal8wSzhmZGwtVFRlOWZlVEk5TGx6WWlDcldNTWU4OVNSUThkd1pVS2lHOVIzM1QwNTdSY3ZBQnQySw?oc=5",
+      "published": "2026-08-15T04:03:01+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Bay Area woman learns to grow cannabis plants. Now, she's dispensing recipes.",
+      "summary": "Bay Area woman learns to grow cannabis plants. Now, she's dispensing recipes. CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXdRT25BdmFZQzJEV3FUcmRCMkJnemJ0ZEcwRWV6dXBlWkg3WHo1U2c2czk0T3pKaDV5V1EyU1B4WElfZllvZnk1VTVwbXEyOUpxc1NQRGloTnRYRGpjLVdZZUdkMUxWYWJrTkp5TDY1WXpjTXBSdU9OQm9kOW5WMTNtRWVkclJRZmpvdVdyMA?oc=5",
+      "published": "2026-08-15T02:39:23+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Oakland councilmember addresses pushback to proposed AI data center downtown",
+      "summary": "Oakland councilmember addresses pushback to proposed AI data center downtown CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG5IUkRaU1YxdnFndTN2Vk9SaWxLVnVFU2l4NXU5SFN6anloZFNfVndTSDZmSW5jcmxyOFMyMXB0dm93MmtwSjFCbFlHX2xZQ3VmVVMxRlBab1dsSXd2djJrQXRkaDZRT0JoRzNyTFA5aVJ1VE9EQ3d6LXpvZFYtZnByR1pZLUlFdmhPS2Zjc2xRUGRKY2JzQXJWaDQ1MEE?oc=5",
+      "published": "2026-08-15T01:35:56+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Judge dismisses Trump administration lawsuit accusing Harvard of antisemitism",
+      "summary": "UPDATE: Judge dismisses Trump administration lawsuit accusing Harvard of antisemitism EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHlHRTZ0Ml9xQ0h6WFNmNXFTQ1ZsdUVza2l0M3UzTGRhMHpUYlpxcVNPTzRBQmtlWWRMV3dZVTlJaFpkdk0yUE5vUjdYN2lNdGVCSjVSUkdpdXZOeTh2U1lqa09BeFVMNXJ2Y05GQ3AtQjJiN0VNSy1qaTNEcm5PNXRNRTdCMFlXeGxsRjd0U3g4YlpZeFdUakt1RGFVLUlVcGhCUmZEcVRMQQ?oc=5",
+      "published": "2026-08-14T22:53:23+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Houston ISD stays at B rating in 2025-26",
+      "summary": "Houston ISD stays at B rating in 2025-26 K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVBIeDNQZXpNS05GYkE1YWw2NWIzcENxSVlKYm1FcTZNeGdUUGVLc3dpQlpmakNDemlOS2pwa2hRSTJBLWx4MmxNMmdPRHFITENPZWRPaXdVSkFfazdsWFlLZjVubzNPQVhodzZjcTY5RDh5SXZvUmJwSExKY0IySXpuUQ?oc=5",
+      "published": "2026-08-14T21:30:36+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Could Your Classroom Use a Little More Fun? Start Here (Opinion)",
+      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXBQNEhFRE5mMFFxSXRrU2V4RmlZcEl2eGJvYUFiZmcxRTdEYnhhOUlPX25FdURtZHJYWHpkWGE4bkFaNlVPclpOY0NfVUFsbllLNGJQZjJiWEM5UnlGWnRieHd3RmQ0QjZNOTZjNno4am40dWdDM20xSDhxUDh4RElGOG8tWGhwMkxFLXlDejZFTklIcVh0aTRVb0ctUDBvanNTcVd5Vkt6RHpYa2Fv?oc=5",
+      "published": "2026-08-14T20:28:35+00:00",
+      "beats": [
+        "Schools"
+      ]
+    }
+  ]
 }
