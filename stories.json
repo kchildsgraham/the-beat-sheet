@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T15:54:14.305088+00:00",
+  "updated_at": "2026-08-17T17:01:00.567386+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -23,10 +23,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Killings Plunge in a City Once Known for Violence",
-      "summary": "Killings Plunge in a City Once Known for Violence The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTJVR2lYbU1kUzRUV3c0NXY4X2Y0QjlDVGw5WHZzbm9wUlRmYmZIaUg2SXJ5bkhjdXd4UkdIcHpYOFRRcnM0UHhpUnlXcmlEcDVhZGRjd2xscDN3QWFfVnlBemYwa2JqT2J0dC1STDlydTFyZmhtX1VPa3BSamR0SEVPTzZaV0dnVHozYlZ3?oc=5",
-      "published": "2026-08-17T14:51:19+00:00",
+      "title": "Hayden Panettiere Is Dead: Star of ‘Nashville’ and ‘Heroes’ Was 36",
+      "summary": "Hayden Panettiere Is Dead: Star of ‘Nashville’ and ‘Heroes’ Was 36 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzR6ak14NUFEVDZJZ1M2UnFISXJ5Ymx4ZWg3TllRa1NpQVJscnVYVm9BYjJ2eHVlM2tLSHNvY2VSV3dldkhxZkVCRnc1RWVnb3VtQkRPX0xyT0J1N3F3dWRPbWF5Y1NURWE0dHNSX1VYaHhOMFdTVEpNOUJUcWtKSjBYaEE?oc=5",
+      "published": "2026-08-17T16:12:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,11 +44,23 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "summary": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
+      "published": "2026-08-17T14:10:16+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Supreme Court rebuffs Trump’s latest effort to deny $5.6 million payment to E. Jean Carroll",
-      "summary": "Supreme Court rebuffs Trump’s latest effort to deny $5.6 million payment to E. Jean Carroll CNN",
+      "title": "Supreme Court rebuffs Trump’s last-ditch effort to deny $5.6 million payment to E. Jean Carroll",
+      "summary": "Supreme Court rebuffs Trump’s last-ditch effort to deny $5.6 million payment to E. Jean Carroll CNN",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NDFlR0o1c2dzUWxZTVRPcG1xbkVCYjBVckpUSF9uTjBsNWhQblptbUhpZTktYWt1NWRfU2dqc1d6VFhpQklrWndfQUdBYlpCQ3VKNU9EYjF6V2M1UDlYZUhVd192ZFprSXo4UGI4clNKZUFrV19ZQXFiODZTSGM?oc=5",
       "published": "2026-08-17T13:52:12+00:00",
       "beats": [
@@ -80,18 +92,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "summary": "DHS defends investigating agency critics and giving them warning notices NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnQtX2JqSlNTTm5ORmlBeGNHNUtZemIzdXBtS3JwdnlRSGhxcV9qMW9CaVVwVk9hVWZ0TFhEd3R3aktvd1FtblkwVUNYZml2UHo0QmRia2pBNXhlOW5nWDNMVHRrZmUyZlVTSi01R3cxWHNfcVNsT0RRY18xa1FsTg?oc=5",
-      "published": "2026-08-17T13:31:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -109,32 +109,8 @@
       "lane": "General",
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
       "summary": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVdIBgAFBVV95cUxPUExPRE4xdUpqRjE5UC1UcWNmVU1tSzMtSXN2cmlpd2hIN3ZZQkhlRjIyVlRWRTBjc2hnWnVUZkhjUnphR2VMcHIwaEJfQndWaE9YUkVnLU9PbHpjYzZqN1lKSDluVUpqTEJYWFl5OEwyYk9LSmZ3VlN3V3ZzdDNSRw?oc=5",
       "published": "2026-08-17T12:46:19+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Berkshire's Alphabet stake, Meta goes back to court, Europe's champagne problems and more in Morning Squawk",
-      "summary": "Berkshire's Alphabet stake, Meta goes back to court, Europe's champagne problems and more in Morning Squawk CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXZCZlNKaVZuMjA1Wk5odzdneDdRcXpBY3BFUGllR293TDIxaVo1SnlST3J5ZmlQeWZXMlZscTRmZkh0bUR3UGVNRXlDOWEyTURXWmoxaFlVSkVGOTRfQVN4RzUydVhraHV4UnRXTVN6eWJ1cVRWcmtUbnpMNkpSUjhMUEJQcHp2a0lB0gGQAUFVX3lxTE9reTBESlluVV9iakpUeEdHQzlxb21WY0lRMk1KZlItMmVLcFlPMkhrUVlqdGppa3FmVWFhcWZQSlZ4dEFBMFlzdURadUs3RURQRjBob3JhNEE0Y0N3TVFTOF9RRmFpY3hiZER0eTNNODh0QVE4WVh1d01hQkRTZjZ4T2xRaXdSNm9ZTUVBMFdtcA?oc=5",
-      "published": "2026-08-17T12:35:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln",
-      "summary": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln NPR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZfZWp6WGFjUGNiZ1NoakRrMVcxSUE2VDJkQW5IVEkwREpxdEprckhBR29xYTEyLVNRQjM3cUJpSHpIRktTaW00N3RBV1FQYS1XeWRnem5TVW5ZTFFCWkpqYno1Q3d5UWJUTGp3Tms4VGlfMURJaVJtcWdZdTE5ZDltNmNjT3M0UmgzX21jVDVUOHlPOGJMVHV0b0pDMXBGcThfTW5n?oc=5",
-      "published": "2026-08-17T10:49:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -153,13 +129,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-      "summary": "Cialis is an erectile dysfunction drug. Could it also help you live longer? NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSF91YzlRdDJBRENFMUJ3QzdMOG9LZW8wNDBGM1h4TkVvYXBwQTY3TWxpdDlkQWNqNS1SUFBUbTNxc0ZFNWZSNVpBcTU5SEw2M1pQeVp1alV4ZHN5WDllRGVYWkRJbXJjZXZTNXk1bGhla3BLak5GZGtHTWg4RDhQaHBPMC1iWEJBdEhRN05rYi0zTzZ5NGc?oc=5",
-      "published": "2026-08-17T09:00:00+00:00",
+      "title": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic",
+      "summary": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnJyUlNuMnZVZTNlLWVVVmlHNXp2TXdLSVNHZVJ1NFB3YV9CaS12SndKVkNfRW1nZFR2T1NOaXFhMkRHNnlQcDJOVzNvRExmU3NtRFhkSUVjY1prZ1NCdHltbzR1Y0tXVnpfSzRLV1d0ZURsSGo0V2JXNXhHRHRjcVNGX0p3eUdQYVN4SnFKdlhvUmlpS2tSSkpR?oc=5",
+      "published": "2026-08-17T09:03:12+00:00",
       "beats": [
         "Politics"
       ]
@@ -184,18 +160,6 @@
       "summary": "Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEZqZGZORUp2V1ZqVl9tVEZnSl81SnlFUkg3dmxBbUg2eUh6WTh0QkljQmtLaW5VWHlHWFJfU3pvb2hrTVFWSFlZNHhqbnhUb1BWYk5SUmItQ1FHYjFGUms5YnV5azJpdWIzNV9sc2w1Y3ZMNVpfVVd6NUhOckRtMnNuaVpublpCTFVWWUtR?oc=5",
       "published": "2026-08-17T05:28:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
-      "summary": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzR6ak14NUFEVDZJZ1M2UnFISXJ5Ymx4ZWg3TllRa1NpQVJscnVYVm9BYjJ2eHVlM2tLSHNvY2VSV3dldkhxZkVCRnc1RWVnb3VtQkRPX0xyT0J1N3F3dWRPbWF5Y1NURWE0dHNSX1VYaHhOMFdTVEpNOUJUcWtKSjBYaEE?oc=5",
-      "published": "2026-08-17T04:14:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -334,6 +298,18 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Text blast falsely claims gay Florida candidate is HIV positive: 'I knew exactly what they were trying to do'",
+      "summary": "Text blast falsely claims gay Florida candidate is HIV positive: 'I knew exactly what they were trying to do' Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KUnR3TDc0cF85ck82OFFvekhsSXVJYmlvOGl2bjBxSURUdlA0aU9ncmRTaHJIdENHNnc0cVBpQ2cydnhCTkc5cE5hNURYUHBYUnY0Q0I0Z0J6eTIxeU1DdUp5aE5iekJkejA1NXM5ZHpvYjljYlV2aVV3?oc=5",
+      "published": "2026-08-14T23:06:37+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -359,6 +335,18 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "“Absolutely f**king not!”: Queer directors refuse \"Harry Potter\" work over JK Rowling's transphobia",
+      "summary": "“Absolutely f**king not!”: Queer directors refuse \"Harry Potter\" work over JK Rowling's transphobia LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWhpRks0djV6RTVNbkx0LUk2aGZHOWl2WnYxMHMxQ05Eb2ZNSHNMZ3BqWFRDZlpYUGo1MzBSbXRvdWh3eXdQREx0NXEyRkhBcHFWWjYzWU1MMVBsenlERDhPX190c2szd3FndlNGTE9vYXBHdHNheDZ6eWJSOUZRUmt3Y0plY1JMaTRicDNydnBGU3pva0VOd0tuT2dTZU93V0xHR3VCMUdsLVRjZjc1bk44cUx1UEEzMzBWU0V0T1BmamJSTHc?oc=5",
+      "published": "2026-08-14T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -380,6 +368,18 @@
       "published": "2026-08-14T20:28:35+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients",
+      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
+      "published": "2026-08-14T20:07:26+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     }
   ]
