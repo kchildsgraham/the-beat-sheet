@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:16:35.148673+00:00",
+  "updated_at": "2026-08-17T05:22:25.013706+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36",
+      "summary": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36 CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUU4RllJeFE4SkQ3c1NnT28zRVJrOVNMeFZzNFBTckdZUWdfNmFMbmk3N05GMTA3QS1mUU1YdlF4eE5wVlQyRkViZ0wzeFlyMmRldngydVVyLVJXMTU1SFhqdzZRdHl2TDhZSzlBMHd5NkU1RnhJOE1DZVcwelR3Yg?oc=5",
+      "published": "2026-08-17T03:57:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Hayden Panettiere, actress known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
+      "summary": "Hayden Panettiere, actress known for \"Heroes\" and \"Remember the Titans,\" dies at 36 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlb3c4N0FQV1dJRDVMSnlySGN2T25DUFRfalV1SG5IVGFWQmFlaEdBWGdia2d3dE5tY240TjlJSVk1Q25WRmlrVHZMS1dBNG1pbzdQajIwUGl2VVg2eTNGTFVsQ0g1ZFZ0QXc?oc=5",
+      "published": "2026-08-17T03:54:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -39,18 +63,6 @@
       "summary": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history CNN",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG9EMVN6cWVPaXVTaFI2eG95dHZRX1dTMjhuejBDYmRsdDRQc2ktUHRya0hFVWNCLVotNWZhdUtubi1fY3Y4UkJ2cmtWa0NtaFc0LUNWc0FoMVJiZzR3R2lockVJR1FfTkpKVnVJRmFfTjlRNjNvSWJfZk81X2gzNm54a2p5MEhjN3Mw?oc=5",
       "published": "2026-08-17T00:01:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "summary": "Trump orders Pentagon to scale back joint exercises with South Korea CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkl0Tk5mZlgwM2J1UTAwRmxDWGdYZzRVNkE4V0FqY3lyVlJQWFdLT0tUYXg1UE9wMFF6cGVpeXBpMkRxbGIwNExQMC1wS3ZMaVVVX1VQU2UyZEd3b0pydzhXMzNVNWhQZlR4ZmxBeUZvUVVSREZVYnppRnlIV205d3Rad1JpckJWQWdXcTBQM2NjQ0tCZ3ZoWGNxNWNUTTRPVkNWaVdIQkvSAa4BQVVfeXFMTXVlUjNLWWdsbDdaUEtvNndlZE02Z2FISG9BMWRMd0RkSlVIdWZMN0lKQzk3dWFrVUZaYTZQbnRPX0VsSEdNMFFtTUY5ak1IU2h3cGFub0k3SUdNYXFfNzVtWUhPVU5qTWlKakFYZWM1cFY3eTVENXNkbnJMMXRHcXNnay1yVF9wUW1tbDhwek5CdDZtOXh1dnIza3JlemFia1pxUHNOMFMwRHNLdm9B?oc=5",
-      "published": "2026-08-16T22:51:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,6 +92,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "1 killed, 4 others wounded in Lexington, Kentucky, shooting",
+      "summary": "1 killed, 4 others wounded in Lexington, Kentucky, shooting NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
+      "published": "2026-08-16T20:48:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -104,18 +128,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Blanche declines to pledge independence from the White House",
-      "summary": "Blanche declines to pledge independence from the White House CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43bjhtYU4wRGJCWjhrTmZHc0U5LVNzUUhWVnN2bkVqbFFfRGhlbnZ2aW1oZ3ozVXNmRjJPRVdBU2tsNU92bkp3ckhzWmg2SW1mdk9TWTd0emd5d1BISWp1R3I0MGxqamxhTHVJTktXakxWN0tzZ09QUkM5UDJWZw?oc=5",
-      "published": "2026-08-16T20:34:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -123,6 +135,18 @@
       "summary": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu NPR",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEFscm5SRTlubmdYeW1GYWw5WGxBU0x5UFdJbEFHcUFnUGxJMzg1WWQxVXFVNF9aeTBKb3Q3eU1TZVE3aXhra0lwY0g0dzRUOHdadFh0RkhIMDU2Qk84MXlGU3JzZzBhT0lUUWdzTnNMaU9DamhpZ3dZaWkyRVctNnVHd2t0ZktTckg0?oc=5",
       "published": "2026-08-16T20:20:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
+      "summary": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFNuVFVWN0ZhQnBpc1dzSk9OSmdzUWEzR3dNWHBZRGRpdFlXTUVxMUs0UzhOcm9EdjJQS1RldVV6dGROMjE0NTZFZVFhSmpXWExfS2hxS0hiTG1MRkY3LUw5Tnl6c0dCTzVTUmI2UV9pLTNSMlRGY2tncTJRSFFDQlcwNUpuMVJtVVUwQlZ1VUhNbFZGS1VIb20zdXdpYXRoMTA40gGoAUFVX3lxTE9IYkRMdU1TX1N6Z0ozZWcwcnJaYlFMSnQ5RFhHU2E4RURCc1liMEt5aGRodi1vZEdYVzRyQmRLZDZFSXJMZmVSNzhlTjJ3LWFhb2N2SmZWQ1hQWEt3eXBPd2JmbGJiWXZ1UzB4MFA3Nll2VF9jODV0dXZ4MTR0VWVnNDBUcEhiVThTSk1UeHZzdmozUFlEMnk0S2NjVFVUY2hlcjRlZTd0LQ?oc=5",
+      "published": "2026-08-16T19:36:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,24 +167,13 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Brandon Hines talks flag football, smothering receivers & why \"Will Truman\" changed his life",
-      "summary": "Brandon Hines talks flag football, smothering receivers & why \"Will Truman\" changed his life queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekFUNUMwVS1NTm9pVnotUXhoTjlsSUg1bGhVRWJ4cTBtS1NZWHZQOFRsQVRWNE44S2x6M0xRYWxyUmNicXIxZFdvaHUxcjIxVl9WVFh1OGgyOUMyQ2ZnSTYzVWRvVHVYSkhNdkhTdndnTVNONW5fTC1UZXRQYldiWURhNUpJckk2eGZhc3IwSGV5VTNOcjM2YWk3RVBnczVmZHNMajlRX2pKV09hUUJVNW54WW1KVFN4eXJPNkN3?oc=5",
-      "published": "2026-08-16T17:00:00+00:00",
+      "title": "A deceitful Dom, cocky co-workers & a best friend's evil ex: Gays reveal their most toxic crushes",
+      "summary": "A deceitful Dom, cocky co-workers & a best friend's evil ex: Gays reveal their most toxic crushes queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHo1VGJLVnNOSHNrUUhfNHlYdTdraF83d181bmxuTjdWaWVzV3RycDlBTEQtcjBTRHl4MEVlcml5bnJTYXhBRG1QMXM3Mk1yUGFxclNqNTBQaEpJbi1PX1N0VnAyano5aDRkdDNUOTBBWmJoLXVmdWJEVzJMOFYzbk4xYkRxMUJpQ2RVblhldzdsenROb3lzaWFlWUoxQUVsVXpzYzJ6cmQzOFRPUjZ4MG94TTJnTDZzWTRFRnFYOFBHalFK?oc=5",
+      "published": "2026-08-16T16:00:00+00:00",
       "beats": [
+        "Business",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
-      "published": "2026-08-16T16:05:44+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -212,18 +225,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Democrats officially set their 2028 primary calendar, with South Carolina going first",
-      "summary": "Democrats officially set their 2028 primary calendar, with South Carolina going first NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGlRaVVtbzE1ZGxjVDV5U1dzNXRpVTFXNHJJN2VIQTBTV2l5Z1F0Y3pMNVcwd1BTaGwtUzRwTFhzcEE5X3JpMFF4M213ZExoQVNPOXNTZkZxVzJMN1E3SExrQjZsSHlSYlduUFN4WUIzYmhVZnMzOWlfcFBCdFl1UEdibHJDZ092alJWVFR0NzJGVkVGS0J3MmRBakdYSmViX2NsNFpQS0QzODUxTTJFR1pZakhOTkVrSmZnSm51bkNwRlR4dXZV?oc=5",
-      "published": "2026-08-15T18:55:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -233,6 +234,18 @@
       "published": "2026-08-15T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
+      "summary": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEFIcU5CRFlZNlpCOUxFUkUyVGxxV3lIWk4wajZRYVNhSFJmX204Tzg4MXI2bm9QWVNQSW5SWUwydzdCYmhKcG1tdU14ODY4WFNhX3VXZGlaZGpzdVVpTGkzTkNDa2xHaVlyZGpydUlwZ1RjVHdUX09KTEJGTGF1V1FpWHE?oc=5",
+      "published": "2026-08-15T12:00:06+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -297,18 +310,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Trump downplays concerns of mental health issues aboard USS Lincoln",
-      "summary": "Trump downplays concerns of mental health issues aboard USS Lincoln CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1VvT01DLUNNd2lWejEydHdKMWlsRkJjTFlLWlBYV1ZGVUUzNXFUWFpFckZjVmJjV2lQZ1Nsdm9PenNxLVpUS0Y4THVTVHlBT19BVmhoZWdmbVkzX3EyYWU4Q3ZIa3UxRXJtM3BpaUJ5RFo0UG5SQ0NQWDhQNFZiOWlELWUyT0NwelZDMHlGZV9nTzJ1VV93OTN6eFNYNlU?oc=5",
-      "published": "2026-08-14T23:05:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -362,7 +363,7 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Trans activist confronts Dem AG in fiery public protest: \"Clinics are dropping like flies!\"",
-      "summary": "Trans activist confronts Dem AG in fiery public protest: \"Clinics are dropping like flies!\" LGBTQ Nation",
+      "summary": "Trans activist confronts Dem AG in fiery public protest: \"Clinics are dropping like flies!\" lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2dkMUhnOF9jVFREQ0N0SG02bDU2cmpmd2tDbnA5VXdwQjZHdXdwbGppOUhPZTQ1M19wRTZQN3NFVmJxUUt6ektWMzlDcTJMLXVXc2JiYkhJdVFkcXR6UzltX0J0WWl1UnVkUVV0UTFsQ01pRzB3SGdNemZ3NXAxT1ZxakFRdk9TZDNiYmR4bkMwQWxCOGFmbW1OZmU4ajMxZ0JxWmRLbXpuemwxcEFqUmRFMXdtbDQ?oc=5",
       "published": "2026-08-14T19:00:00+00:00",
       "beats": [
