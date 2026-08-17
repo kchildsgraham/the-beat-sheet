@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:45:03.264813+00:00",
+  "updated_at": "2026-08-17T13:56:52.320864+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,66 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+      "summary": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVQ?oc=5",
+      "published": "2026-08-17T12:46:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Berkshire's Alphabet stake, Meta goes back to court, Europe's champagne problems and more in Morning Squawk",
+      "summary": "Berkshire's Alphabet stake, Meta goes back to court, Europe's champagne problems and more in Morning Squawk CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXZCZlNKaVZuMjA1Wk5odzdneDdRcXpBY3BFUGllR293TDIxaVo1SnlST3J5ZmlQeWZXMlZscTRmZkh0bUR3UGVNRXlDOWEyTURXWmoxaFlVSkVGOTRfQVN4RzUydVhraHV4UnRXTVN6eWJ1cVRWcmtUbnpMNkpSUjhMUEJQcHp2a0lB0gGQAUFVX3lxTE9reTBESlluVV9iakpUeEdHQzlxb21WY0lRMk1KZlItMmVLcFlPMkhrUVlqdGppa3FmVWFhcWZQSlZ4dEFBMFlzdURadUs3RURQRjBob3JhNEE0Y0N3TVFTOF9RRmFpY3hiZER0eTNNODh0QVE4WVh1d01hQkRTZjZ4T2xRaXdSNm9ZTUVBMFdtcA?oc=5",
+      "published": "2026-08-17T12:35:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
+      "published": "2026-08-17T11:24:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "While loudly stoking fear of communism, Trump is quietly changing US capitalism",
+      "summary": "While loudly stoking fear of communism, Trump is quietly changing US capitalism CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UUTIwQ25iQW9oZ0NtcXJPS3lqcUlNMm1lME1SR3B0OE9uSmU3ZjJhdDg0ZEo1eHNsVHl5Y25WZXpoejVXcDFlNDNmOS0zN3BINmItalc4OEdVaERZY3N4WHN2MXdYRVB6UHV2WVZJMGowakZEOTBz?oc=5",
+      "published": "2026-08-17T10:00:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How a California school is streamlining its approach to SEL supports",
+      "summary": "How a California school is streamlining its approach to SEL supports K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWFDZ1JpSUkwSVQ1WW1MakRsQ1d0SGJHdXkwaTZZQzBSdDBPVC16ZmRqRzM2bjZlczFGN2ljcEt4dmtfdDlSUVlfdkplODF1cnU3YXZ0bnRKOEljSTkzd2U2TVhrX0FOb3RQdnF2M2JQemkyU25vN0tpS1VqWVc0N1UtVTBCal9wR0pQNll6cVNURmJrSkpyNTlZT3dteHdUcGZSaXdvS3M?oc=5",
+      "published": "2026-08-17T09:23:46+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -30,6 +90,18 @@
       "beats": [
         "Business",
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Murder Drops to Historic Lows in Baltimore",
+      "summary": "Murder Drops to Historic Lows in Baltimore The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTJVR2lYbU1kUzRUV3c0NXY4X2Y0QjlDVGw5WHZzbm9wUlRmYmZIaUg2SXJ5bkhjdXd4UkdIcHpYOFRRcnM0UHhpUnlXcmlEcDVhZGRjd2xscDN3QWFfVnlBemYwa2JqT2J0dC1STDlydTFyZmhtX1VPa3BSamR0SEVPTzZaV0dnVHozYlZ3?oc=5",
+      "published": "2026-08-17T09:01:04+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -48,9 +120,9 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Car problems? No childcare? How an app is helping people get to work",
-      "summary": "Car problems? No childcare? How an app is helping people get to work NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHNZWVdhWWVhLXllMnVma2hFLWhTTnhoakhaYlRXUmpoWWY5bWhfekhDb2l1N3hiN1VvSktUZXJ5R1lVMkx1cGdLODhiTUtIVzJvYURpY2kzQy12RHNybW9ia2dEWVNZSDV2UnhQREgzM00taGw4UE9PUkRvUTh5MnhGcEROZw?oc=5",
+      "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+      "summary": "Meta heads to court in a landmark trial about kids and social media addiction NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOODRFY0VHWmJmMGNUQlVzYllPMGhUY1NGNURNaWxYRXRnMXVjdUxqUEZFWFdJdkVaa2FFYWlDby0yVjZLelFGanlvRy1UZ1RXNEtFNzJBbVFlS1hwOFBNNEdtU3FkMENjUmpHU19yV2R2cmlaWXhlTHFESDBjOGVPODZScVY0OFBpN1ZJ?oc=5",
       "published": "2026-08-17T09:00:00+00:00",
       "beats": [
         "Politics"
@@ -60,9 +132,9 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Meta heads to court in a landmark trial about kids and social media addiction",
-      "summary": "Meta heads to court in a landmark trial about kids and social media addiction NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOODRFY0VHWmJmMGNUQlVzYllPMGhUY1NGNURNaWxYRXRnMXVjdUxqUEZFWFdJdkVaa2FFYWlDby0yVjZLelFGanlvRy1UZ1RXNEtFNzJBbVFlS1hwOFBNNEdtU3FkMENjUmpHU19yV2R2cmlaWXhlTHFESDBjOGVPODZScVY0OFBpN1ZJ?oc=5",
+      "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+      "summary": "Missed shifts were costly to this McDonald's. An app has fixed the problem NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHNZWVdhWWVhLXllMnVma2hFLWhTTnhoakhaYlRXUmpoWWY5bWhfekhDb2l1N3hiN1VvSktUZXJ5R1lVMkx1cGdLODhiTUtIVzJvYURpY2kzQy12RHNybW9ia2dEWVNZSDV2UnhQREgzM00taGw4UE9PUkRvUTh5MnhGcEROZw?oc=5",
       "published": "2026-08-17T09:00:00+00:00",
       "beats": [
         "Politics"
@@ -93,42 +165,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
-      "summary": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yYUVkY2dPZ0gwUXljWl91UW90Tk9Yb0J0NlRaZTdESlhoMmtneGpFZUhQSkd3ZzhhX3l2RGZJUmdDSzFhVnczRFhnY2tsaHBqMHFqN0lTS2Q3bjJEUm9QUFJmSHM0M25OcHV4RnZn0gFzQVVfeXFMTUx6bEdGYlhiR1ZTbVVyTzFaY1ZZcy1WQ1pQSXRyVjBfa0o0TVZ5VW83ZUsyMmtPTGNxQ3RscjR0ajdSTjA1akVxclViUWlRd19STTRDcVVuSkp3VURicGtUZkhJMHZqTHZhWjg5Zk1VRHRybw?oc=5",
-      "published": "2026-08-17T07:46:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
-      "summary": "China's economy slows further in July as retail sales barely grow, investment slump steepens CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZGdkVVJkZHZ5d3lVb1R4RkdNUlkxdVNkWWVuLURTQkQzLVRMTVQxUnZoa3Nza3N1NEoyU1ZadU1rLS1BRVc1bm1zVlJCWS1ibXc2SkgzYTB4RVJFSTlDbDc3T1hPcjU5dG5aWnFvcWhhWnU4a0FOYml2cHlDUdIBgwFBVV95cUxOUzRLenVfQ1RmOHhxNEtkbnludnFINl81RW1vdjVacE5lLVBtNERxa1NJNVg3Q2JtWGo3QXRUUDdBeWpsLTdrYzI5NEpNcF9nT0hhV2pzOUR2cmlJQTlUM3hLSnpWX0hkRmJBRnhRU0ROM0FqTllTWW1tblB0bnBOa0JVYw?oc=5",
-      "published": "2026-08-17T07:03:55+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
-      "summary": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vTm9ycy1GdXJaQWhrOWdQWXc4M1g4RlVnUVp3eUcxVWQ5bXYxb216aFYwNUl5UDBwUG9BOFBWUzFvWTg1X0NBTEFmZ1h4WWFMVUIwNHVqWVA2WkZGZ2tsUVJKajFZVG8zalJPR3pMSXExajVNSkJz0gF8QVVfeXFMUEM3VGFha1FGb2lJbTRNcU1SaVJ1NmhLRkpQRkpSSUp5V1N3dlZrVjlSaWJPbFVJVHVMVzBsOWxmaldwSlpoemZtMU0zNDBsSTZjQm8yZXBpejhGbTg3Q0tNR3JJX2NQM3ZVZnB3X0trbGxNVmxrSTlBWkNZVg?oc=5",
-      "published": "2026-08-17T06:40:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -141,13 +177,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36",
-      "summary": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36 CNN",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObzlxMVVmS2h1TDduem5BNjQ5V2F1ZkItWTRLYjVNbWIxaEpFNjJTLVpGRnBSYk14SWRGU2p2cDZXQXpJM2wtTkhSU242YlQ1ZlNjXzhoZ2hOSTVaQ3JZUzN4bEV6QV9aaGwtRTlta2NxVlIyblNwTVZVWl9WRnZWOWI5WS11OG50UnNBd3RhcDdsRnY4eldjd0VtYTJqbVk3M1h5UU4tOFBqRE5GYUNROWZUd2QwSUE2SVM4UDlGQllXanNfMmt0TWMwMG00UWtQOVNUTjdwejlxZGw5SE43cXh3b0lsMmN6eXk1THFfWExOSFlSdkxB?oc=5",
-      "published": "2026-08-17T05:54:59+00:00",
+      "title": "Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital",
+      "summary": "Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEZqZGZORUp2V1ZqVl9tVEZnSl81SnlFUkg3dmxBbUg2eUh6WTh0QkljQmtLaW5VWHlHWFJfU3pvb2hrTVFWSFlZNHhqbnhUb1BWYk5SUmItQ1FHYjFGUms5YnV5azJpdWIzNV9sc2w1Y3ZMNVpfVVd6NUhOckRtMnNuaVpublpCTFVWWUtR?oc=5",
+      "published": "2026-08-17T05:28:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -162,30 +198,6 @@
       "published": "2026-08-17T04:14:41+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "‘Lanterns’ Season 1 Premiere Recap: No Evil Shall Escape",
-      "summary": "‘Lanterns’ Season 1 Premiere Recap: No Evil Shall Escape The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZThkazE3VG5CSGg1TkNpREtYZWJRSUg2alRVN0d1UzZmeFdVdWd5ZzZKd3ZfVlRYMTg2LU5BVUxUdnRralBVaExJdzdFV3lUMU1mYTdiSHdiWkF0ZlhqajY1R18wN25lcC12QWpMVE03eU42eW9CVnVYZjdDTXdHLXd3NEZSQzBVeVRKRnNyQlR6WFU?oc=5",
-      "published": "2026-08-17T02:00:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Bay Area asylum-seeker returns home after nearly a month in ICE detention",
-      "summary": "Bay Area asylum-seeker returns home after nearly a month in ICE detention CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2ZLYUF0VUh6NUltcmJodERkVGR4dy1aUW1GRlpOVXpFSU1PVUhVVUJvSXMxMkhlOE9qLXhETGtwQUdDZVVqSDlMVVhQRFJXMlJHYmx3cV9heW1pTjJibnRKeG1vWHpqWnZOVURvc2lBYkRXVnRCamxOa1N5UGpyS0tOMHVtbnpUcG1sbWEwNjN5U1QzTkVXdmN4Z05VTXM?oc=5",
-      "published": "2026-08-17T00:31:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -210,30 +222,6 @@
       "published": "2026-08-16T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
-      "published": "2026-08-16T16:05:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Arrest made in shooting that killed 1, wounded 4 others in Lexington, Kentucky",
-      "summary": "Arrest made in shooting that killed 1, wounded 4 others in Lexington, Kentucky NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFJTR2ltZ21rc3FGVmo3ZVR2dEtFT3JYRVp6ZUZkbTlER0pqVnl3eVFoblgwS0Z4bnlWUkRvR3haaWVuQUtvYUhhQmhnWkNRanhnZ1hseDZmMzduMUNwV2pndng2ejlOdTZ0V2xLbUVZOUYwek43T25BVmRCdVlhRXRwZU9GV3V6SXBNVnNBT1VlUDJVdVFn?oc=5",
-      "published": "2026-08-16T14:17:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -268,18 +256,6 @@
       "summary": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister CBS News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2ZHhvZGJ5alZCYWhrWnZkYw?oc=5",
       "published": "2026-08-16T02:18:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Hawaii braces for impact from Lala",
-      "summary": "Hawaii braces for impact from Lala NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW1nbHk4cTVsd01FX1RQTHR2cDNaZ2FmTW9CY192eklKaUZiNC1MQ2hNY19rWGc5SVZtMVdEWEtxc3dOVE40eTRJeEVMWXU0a0dfaEYtNUJXNWU2YnBUdWVJZXU3SG5wTjNMeU9TODM0TDd5bVBoZTlxSmpPNGwyX09Bekc4QURjV3JJZk9sSUtfcnpY?oc=5",
-      "published": "2026-08-15T23:29:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -341,7 +317,8 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG5IUkRaU1YxdnFndTN2Vk9SaWxLVnVFU2l4NXU5SFN6anloZFNfVndTSDZmSW5jcmxyOFMyMXB0dm93MmtwSjFCbFlHX2xZQ3VmVVMxRlBab1dsSXd2djJrQXRkaDZRT0JoRzNyTFA5aVJ1VE9EQ3d6LXpvZFYtZnByR1pZLUlFdmhPS2Zjc2xRUGRKY2JzQXJWaDQ1MEE?oc=5",
       "published": "2026-08-15T01:35:56+00:00",
       "beats": [
-        "Business"
+        "Business",
+        "LGBTQ+"
       ]
     },
     {
@@ -370,6 +347,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO",
+      "summary": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
+      "published": "2026-08-14T20:59:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -379,6 +368,18 @@
       "published": "2026-08-14T20:28:35+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients",
+      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
+      "published": "2026-08-14T20:07:26+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     }
   ]
