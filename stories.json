@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:56:52.320864+00:00",
+  "updated_at": "2026-08-17T14:57:50.677817+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,78 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Actress Hayden Panettiere dies days before her 37th birthday",
+      "summary": "Actress Hayden Panettiere dies days before her 37th birthday CNN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnF5ZTZmLXhBc1BaQWNfaHZHSFlJUnNCVE92dE56MGZPUXY5VWtrYlMxaWhFRXZRb2w3MXFSM05OWVd2WnE3dDNaRE5rSG9OdXJPY2VJLXdQcHBsQk1NU3dCMVM0b0gzY0U4cE1qUGthU1lKcnVzdnZjS01aTFFxaV9vT18tVG05MWlrb05UNmlMeEdkb05XLVp4VndFaTQ2cUZDRC1Gaw?oc=5",
+      "published": "2026-08-17T14:16:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Supreme Court rebuffs Trump’s latest effort to deny $5.6 million payment to E. Jean Carroll",
+      "summary": "Supreme Court rebuffs Trump’s latest effort to deny $5.6 million payment to E. Jean Carroll CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NDFlR0o1c2dzUWxZTVRPcG1xbkVCYjBVckpUSF9uTjBsNWhQblptbUhpZTktYWt1NWRfU2dqc1d6VFhpQklrWndfQUdBYlpCQ3VKNU9EYjF6V2M1UDlYZUhVd192ZFprSXo4UGI4clNKZUFrV19ZQXFiODZTSGM?oc=5",
+      "published": "2026-08-17T13:52:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How a California school is streamlining its approach to SEL supports",
+      "summary": "How a California school is streamlining its approach to SEL supports K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWFDZ1JpSUkwSVQ1WW1MakRsQ1d0SGJHdXkwaTZZQzBSdDBPVC16ZmRqRzM2bjZlczFGN2ljcEt4dmtfdDlSUVlfdkplODF1cnU3YXZ0bnRKOEljSTkzd2U2TVhrX0FOb3RQdnF2M2JQemkyU25vN0tpS1VqWVc0N1UtVTBCal9wR0pQNll6cVNURmJrSkpyNTlZT3dteHdUcGZSaXdvS3M?oc=5",
+      "published": "2026-08-17T13:40:01+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "DHS defends investigating agency critics and giving them warning notices",
+      "summary": "DHS defends investigating agency critics and giving them warning notices NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnQtX2JqSlNTTm5ORmlBeGNHNUtZemIzdXBtS3JwdnlRSGhxcV9qMW9CaVVwVk9hVWZ0TFhEd3R3aktvd1FtblkwVUNYZml2UHo0QmRia2pBNXhlOW5nWDNMVHRrZmUyZlVTSi01R3cxWHNfcVNsT0RRY18xa1FsTg?oc=5",
+      "published": "2026-08-17T13:31:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "summary": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
+      "published": "2026-08-17T13:28:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Exclusive: Ukraine reveals its Achilles’ heel to CNN as Patriot missile launchers run dry",
+      "summary": "Exclusive: Ukraine reveals its Achilles’ heel to CNN as Patriot missile launchers run dry CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVQzMlhlRHZlOUhWdktQQVVnOUFUNVZsbHpyTzRYdEt2SThYcGdwSFVsY1VKaGlVMXJrWUxJR3VQM3ZqVzZrQlQ5UnFPRF9qMlRMMVdSeTF2SXY3VXRWRjBYRXB4WVJQclJkemtacl9qUllWLWVuRFlDUTBYX1NaZW9XWHhGZHI0dG1NWQ?oc=5",
+      "published": "2026-08-17T12:59:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -56,30 +128,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "While loudly stoking fear of communism, Trump is quietly changing US capitalism",
-      "summary": "While loudly stoking fear of communism, Trump is quietly changing US capitalism CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UUTIwQ25iQW9oZ0NtcXJPS3lqcUlNMm1lME1SR3B0OE9uSmU3ZjJhdDg0ZEo1eHNsVHl5Y25WZXpoejVXcDFlNDNmOS0zN3BINmItalc4OEdVaERZY3N4WHN2MXdYRVB6UHV2WVZJMGowakZEOTBz?oc=5",
-      "published": "2026-08-17T10:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "How a California school is streamlining its approach to SEL supports",
-      "summary": "How a California school is streamlining its approach to SEL supports K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWFDZ1JpSUkwSVQ1WW1MakRsQ1d0SGJHdXkwaTZZQzBSdDBPVC16ZmRqRzM2bjZlczFGN2ljcEt4dmtfdDlSUVlfdkplODF1cnU3YXZ0bnRKOEljSTkzd2U2TVhrX0FOb3RQdnF2M2JQemkyU25vN0tpS1VqWVc0N1UtVTBCal9wR0pQNll6cVNURmJrSkpyNTlZT3dteHdUcGZSaXdvS3M?oc=5",
-      "published": "2026-08-17T09:23:46+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -90,18 +138,6 @@
       "beats": [
         "Business",
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Murder Drops to Historic Lows in Baltimore",
-      "summary": "Murder Drops to Historic Lows in Baltimore The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTJVR2lYbU1kUzRUV3c0NXY4X2Y0QjlDVGw5WHZzbm9wUlRmYmZIaUg2SXJ5bkhjdXd4UkdIcHpYOFRRcnM0UHhpUnlXcmlEcDVhZGRjd2xscDN3QWFfVnlBemYwa2JqT2J0dC1STDlydTFyZmhtX1VPa3BSamR0SEVPTzZaV0dnVHozYlZ3?oc=5",
-      "published": "2026-08-17T09:01:04+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -124,42 +160,6 @@
       "summary": "Meta heads to court in a landmark trial about kids and social media addiction NPR",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOODRFY0VHWmJmMGNUQlVzYllPMGhUY1NGNURNaWxYRXRnMXVjdUxqUEZFWFdJdkVaa2FFYWlDby0yVjZLelFGanlvRy1UZ1RXNEtFNzJBbVFlS1hwOFBNNEdtU3FkMENjUmpHU19yV2R2cmlaWXhlTHFESDBjOGVPODZScVY0OFBpN1ZJ?oc=5",
       "published": "2026-08-17T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-      "summary": "Missed shifts were costly to this McDonald's. An app has fixed the problem NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHNZWVdhWWVhLXllMnVma2hFLWhTTnhoakhaYlRXUmpoWWY5bWhfekhDb2l1N3hiN1VvSktUZXJ5R1lVMkx1cGdLODhiTUtIVzJvYURpY2kzQy12RHNybW9ia2dEWVNZSDV2UnhQREgzM00taGw4UE9PUkRvUTh5MnhGcEROZw?oc=5",
-      "published": "2026-08-17T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US Navy destroyer spent four days without power last month in South China Sea",
-      "summary": "US Navy destroyer spent four days without power last month in South China Sea CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFdBZE5RazhfM1k1d0FWUmRFNmZ6d0hUSlNhdGRDV3JRcG4wOUtLUjU0WjFHSzBYWUstRFN3SWpIZHRhcGwxcTBKSzNDWTViNVRXTVpVRWU4RjZyM0JDZXR5d2xGbHYtMnBHZlhneUlBZ0hrOFNCcHRxanlRLTRuUDNPY200T1U?oc=5",
-      "published": "2026-08-17T08:43:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump has handed a gift to Kim Jong Un and deepened concerns over US reliability",
-      "summary": "Trump has handed a gift to Kim Jong Un and deepened concerns over US reliability CNN",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDV1RkpsVFNFdDBlRjhSbTJsaFY0SkpxMG1paEw0UHVvYWZMR0V0bm5YN1RLTERNbFBSUUJVNjJnZTVweEprSDlDOE5LOFJoS0tnOU9VYkNtZXlBWF9fRmJlZFQxbDJydmZZOVFxVm1ueF9pX29BZ0czV29PMHRxR1pYZ2RRcXZabkVIZFVnbGhaY0lndzZNMFhfWkg?oc=5",
-      "published": "2026-08-17T07:53:53+00:00",
       "beats": [
         "Politics"
       ]
@@ -204,10 +204,10 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Rosie O’Donnell on coming out: “It’s not an easy life. But it’s a true life”",
-      "summary": "Rosie O’Donnell on coming out: “It’s not an easy life. But it’s a true life” queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX25EYzVnb01saVdtOXFRQUYtNzA0T29YM0NZS1B5QTBKcUcwNFVPWFRKdlZUV3NDRFNwSHE5Y1FsS1hTaExEQ0tWc0hPM2x6bTBVQTZFNFcxUmlmWC1xeGFtMC03Y0k1ZGc3aWZUYllaMGNseU94UXRncllUMUEzM3AwanhtUUtOVTRtcFNHaE1UWHF5WTJJQWE2a3hrWlpTUTMzQ3RR?oc=5",
-      "published": "2026-08-16T19:00:00+00:00",
+      "title": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig",
+      "summary": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV5OXEtVG5wbnV0OUhCOFZqOU5KYldtb08xdXg4WWs1eTdIeGFpZG9LdDVDakRxNW9ac0FBZ29aUkpBRkpxX3RELUstMklEalFKcGMwY1N4ckZFRy0xTjZXWUhwWFJhT01jdzlDZHllZnhMeDZpamtta1AwNWR0bVJ5dVpTVDF6cXUwb2p6Ymh5Z0dMVnZPam5R?oc=5",
+      "published": "2026-08-16T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -216,10 +216,10 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig",
-      "summary": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV5OXEtVG5wbnV0OUhCOFZqOU5KYldtb08xdXg4WWs1eTdIeGFpZG9LdDVDakRxNW9ac0FBZ29aUkpBRkpxX3RELUstMklEalFKcGMwY1N4ckZFRy0xTjZXWUhwWFJhT01jdzlDZHllZnhMeDZpamtta1AwNWR0bVJ5dVpTVDF6cXUwb2p6Ymh5Z0dMVnZPam5R?oc=5",
-      "published": "2026-08-16T18:00:00+00:00",
+      "title": "Brandon Hines talks flag football, smothering receivers & why \"Will Truman\" changed his life",
+      "summary": "Brandon Hines talks flag football, smothering receivers & why \"Will Truman\" changed his life queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekFUNUMwVS1NTm9pVnotUXhoTjlsSUg1bGhVRWJ4cTBtS1NZWHZQOFRsQVRWNE44S2x6M0xRYWxyUmNicXIxZFdvaHUxcjIxVl9WVFh1OGgyOUMyQ2ZnSTYzVWRvVHVYSkhNdkhTdndnTVNONW5fTC1UZXRQYldiWURhNUpJckk2eGZhc3IwSGV5VTNOcjM2YWk3RVBnczVmZHNMajlRX2pKV09hUUJVNW54WW1KVFN4eXJPNkN3?oc=5",
+      "published": "2026-08-16T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -256,6 +256,18 @@
       "summary": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister CBS News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2ZHhvZGJ5alZCYWhrWnZkYw?oc=5",
       "published": "2026-08-16T02:18:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Hawaii braces for impact from Lala",
+      "summary": "Hawaii braces for impact from Lala NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW1nbHk4cTVsd01FX1RQTHR2cDNaZ2FmTW9CY192eklKaUZiNC1MQ2hNY19rWGc5SVZtMVdEWEtxc3dOVE40eTRJeEVMWXU0a0dfaEYtNUJXNWU2YnBUdWVJZXU3SG5wTjNMeU9TODM0TDd5bVBoZTlxSmpPNGwyX09Bekc4QURjV3JJZk9sSUtfcnpY?oc=5",
+      "published": "2026-08-15T23:29:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -368,18 +380,6 @@
       "published": "2026-08-14T20:28:35+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients",
-      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
-      "published": "2026-08-14T20:07:26+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
