@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:01:00.567386+00:00",
+  "updated_at": "2026-08-17T19:15:48.619623+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Hayden Panettiere Is Dead: Star of ‘Nashville’ and ‘Heroes’ Was 36",
-      "summary": "Hayden Panettiere Is Dead: Star of ‘Nashville’ and ‘Heroes’ Was 36 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzR6ak14NUFEVDZJZ1M2UnFISXJ5Ymx4ZWg3TllRa1NpQVJscnVYVm9BYjJ2eHVlM2tLSHNvY2VSV3dldkhxZkVCRnc1RWVnb3VtQkRPX0xyT0J1N3F3dWRPbWF5Y1NURWE0dHNSX1VYaHhOMFdTVEpNOUJUcWtKSjBYaEE?oc=5",
-      "published": "2026-08-17T16:12:15+00:00",
+      "title": "UPDATE: Law firm claims Riverside County school district counted police costs as helping high-need students",
+      "summary": "UPDATE: Law firm claims Riverside County school district counted police costs as helping high-need students EdSource",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVVMVTZnNWswd1FDUlZsN3IzQ3VfVG1VdmY0REE3QkpJMVp5NEg1c3hRTW1ZMGpkNF9GM042dVBoX3hQbkpuUFBQV0kwYzRnZlVaVS1zc2pkZ0d4ZHV5NGNOMjRFXzBnRE5pNzVUekl6VXVMQ3BtbVhOVGNjSnR3bjR3LV8yaVY2WjVkczVwdnJsSEJ6end0ZlIzM2lFZ0d0N3dSMmkxRklJR3lYSXQ2aTJIWU5icW9saC1MZ3ZuTWVWZWx3MTUw?oc=5",
+      "published": "2026-08-17T18:19:04+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Madera Unified employee placed on leave after racially charged video",
+      "summary": "UPDATE: Madera Unified employee placed on leave after racially charged video EdSource",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0VYUTUtejhiaG0zMzN3c0pBYVdHYndmNGxCc29JZmZwV2RhbUFkN0JteFl4WXpDOTlIeEhQQ1hteUZQeU1kbmFRdWZkX0lZdE42eFRmUXpBUlJqa0xHZWc2Z3gxUDRwN2tjcE1HbzBwaWU5TmRrZ2R1Vkt4Wmo1X3Q4Snl4NEhCZ1RCX093dFJJVTZaS0xzUFdFSThZQQ?oc=5",
+      "published": "2026-08-17T17:59:02+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Ossoff targets a close Trump aide, launching a personal feud with the White House as midterms loom",
+      "summary": "Ossoff targets a close Trump aide, launching a personal feud with the White House as midterms loom CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80T0ZvdE9WTUo5NFNjUVBYREFEbFduQXl4bVdGVWVRMmFfM1dfWTZEYnJnbWR5VzBiSVB0YTV1RnE4d29jS2VwTmp1ZWNTYlBpNFVVRVJPcV9XOFZtNVFvc2ZRZk9LV3VfaTYyRW1YdEVHNkk?oc=5",
+      "published": "2026-08-17T17:47:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump weighs a plan for press briefings when Leavitt leaves, sources say",
+      "summary": "Trump weighs a plan for press briefings when Leavitt leaves, sources say CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMUld6SDdDRS1wSk9oQUtvQzlmdjN1U2p4THNYV2I0b1E1Z2pkVU5tT1ZSWlR2b3hUTUF6M1JZTkJDZUdUNUZlQ0trV3JfMVA3UXplTFcwckpqQW02THoyWXhjaUVvWm43SzR6NXV2ajMxbmlEY0NqQ2RRcHFmTmM?oc=5",
+      "published": "2026-08-17T17:09:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump’s TACOs on Iran loom over his big threat to Oman",
+      "summary": "Trump’s TACOs on Iran loom over his big threat to Oman CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIM1BzakFiWXdLd2hhQ3F5TEZRLXc0UVZVcEtsNnR6RjhmTm01bmZVWkZJd0dzUUlTRU94YUt3T3ZnQTZXNEU0aTdUTnlHNWNua25ZMWp6T0JWWU43RDJQWktETjZOSVNMVFVDbXJUdVU?oc=5",
+      "published": "2026-08-17T16:57:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,48 +83,61 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-      "summary": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LNHllU1M3SzllSHBDOXVtMUhGNEtMZEJhemxyc1ZBdGplaTNUZmNEdDFOeHMxUU1aTjJvV2tzOEE5M2FHSU81Yl9zeWdoMjB0anM0bE5fM0FoSEMzd1NBdmhuRkxFd25JbTRDZ1d5QXFmMUFIREdMbzBlZ9IBgAFBVV95cUxNQ0ZTVXBabVdPdnNPRnpTdkhVWGZYWW4xZVRjY2NTOTc5b1A5eTJrcXA0dmp4LU1Ya0pRV2drb1AxV3dUdHlscS1ZMVllVGpVR1BSNlhTU1B2UkJYczlhVXp6UHhCQ1NfQ242RktvSEhqNk0wQm1Sc1JydFF3QlFBZA?oc=5",
-      "published": "2026-08-17T14:12:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-      "summary": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
-      "published": "2026-08-17T14:10:16+00:00",
+      "title": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
+      "summary": "Refiner stocks are on a nearly unprecedented run. History says it could end soon CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3hLTFZwYzJNWVVqUFBfVGhEUDlGUnpfMzdyTEdqWGtGRUV5T1gxa0ZVYU41N29SZXpWaEFhaGZfQkVKZ2VMeWkxbS1FQ3J5azZCYUtKUHpjTjVINGEwNWl1WG1QT0hQbkN4SXMxSTZUd1M1YXhnVEp3cWVEaGJwLW9ERUFVVFlVV3ZCbkZGNHdYbVl0MjZYSGx4QmpKR1VfYl82RnhxMnIzWWVZLVk2VG1FcExiSkHSAbwBQVVfeXFMT0NzWUdUa0FaTUNwNzJLWDNtMHZlQk1LMEhRb0w4YTgtaktUbDZ5M0pyWlhxT0VVVV9rT0JQYW0xWlJrUUtYaDZJajlJdHZjMWR0eFRtSnVBVlpCX1JUUUFBV1hTbl80bEZ6REl2RUt2ald1WXh3X1kzSDBvYkxIdDhJNnZDdmRZVWQyNWhEX0piTGF1bnFKdmNHbUZ2ZDBNa2JSeDNqU2M5RmthY3djQVdZMUxlTWFFZE9VU2s?oc=5",
+      "published": "2026-08-17T16:51:45+00:00",
       "beats": [
         "Business"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Supreme Court rebuffs Trump’s last-ditch effort to deny $5.6 million payment to E. Jean Carroll",
-      "summary": "Supreme Court rebuffs Trump’s last-ditch effort to deny $5.6 million payment to E. Jean Carroll CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NDFlR0o1c2dzUWxZTVRPcG1xbkVCYjBVckpUSF9uTjBsNWhQblptbUhpZTktYWt1NWRfU2dqc1d6VFhpQklrWndfQUdBYlpCQ3VKNU9EYjF6V2M1UDlYZUhVd192ZFprSXo4UGI4clNKZUFrV19ZQXFiODZTSGM?oc=5",
-      "published": "2026-08-17T13:52:12+00:00",
+      "title": "Former Hurricane Lala drenches Hawaii as flash floods sweep away Big Island homes",
+      "summary": "Former Hurricane Lala drenches Hawaii as flash floods sweep away Big Island homes CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXZzZWY3ME12VmE4eDhzMW40ZkN6RGZSMmo5bUhZMkU2Y0NZSjZKYXZkYl93UXl2UmZ4dUkxNUJuUmZzbFhUVnFadlJ0aHMxd3EtQnJJaVZXOEo0ODBFS0xWLU9XT28yU1ZpUGtPYlEzUlcxWFNSTmk3QVhXb2F2Q0RLQTVCSXhtZ3Zr?oc=5",
+      "published": "2026-08-17T16:40:53+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Exclusive model of Ferrari’s first electric car, Luce, sells for record $40 million",
-      "summary": "Exclusive model of Ferrari’s first electric car, Luce, sells for record $40 million CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2ZGb3JYbVZLN0pOaW56ektqSHFiTkdoLUh5YkNEWnhSalFZQmprMGVxam9idVp3SmdXX2dyYThXazZMTWVNeTVUcmRYd0JCRHg4RktZWm03NDVybC1HYzdkNVJMNU9fcDhtaGlDS21ad0ZqeEpFeVlMaktPS0NzdnVHb19Ldw?oc=5",
-      "published": "2026-08-17T13:47:35+00:00",
+      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+      "summary": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVRuV1ZoS0pwVTRPZUpaMkg0R1pMMHI1Umhidk9ITjRmRHhVWXNNRHQxanNURWpxeXY2TWxuUzQ0eWFiR2hOdVdORlV3RW03WXFTSXl4eFRYdkVIdXpwQUpYZzBRUG1TTG53VXFaVE1tdGRjOFlUUkdueXBnNFF3T3puM3RCcVlTeGZPWXBQeGFDd0QtN0pQcXk4WEE2YVJTQXN1ZmZXWdIBrAFBVV95cUxQckpUTXBwVUZfZzRKNW9RaHMtM3l4TWNQaXhKcmJkWGx0Q3MyS2RyUE1YeFRTVm04LWdoNk1NRzA3eUFZTnVmUjZ5bkNyUmI4YWdfVWhObVZfWHpMSWpxXzlVcGtVWUZBdnh2czlNc2hHMk1UWE9mNkJqblUwZnRlQzN4Y0J0dFNWM2VyRV9NcjJHa0RvbUJNdk5FaVB6THRBLUlPZDNtcFpQa2o0?oc=5",
+      "published": "2026-08-17T16:19:37+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Cramer's advice on Apple after analyst upgrade. Plus, why 2 chipmakers are up big",
+      "summary": "Cramer's advice on Apple after analyst upgrade. Plus, why 2 chipmakers are up big CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXJBWEY4a0pDYzVIZXc4QUE1c3pjV1JXNE55N1BJaG96cEZlOFdFZjc0QmtjbGhfbXRkbUtSb2Q1eXE4ZnluNUFtUk1pR0pEdUVnc05EcnFqaVZTNlV1MHdkNXhGeF93NENMeW00SnQ5YkhlaDktcEtpOThGSThPSXdmUDVlSzhENng3TS1XNkRzMWROU1ZHWm5QZUQtU3JSc05COQ?oc=5",
+      "published": "2026-08-17T16:12:26+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Tatted-up Nancy Mace turns to podcasting after political career flames out",
+      "summary": "Tatted-up Nancy Mace turns to podcasting after political career flames out advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84S29HaG9fZWFnOXlOTktwN2dpcGNvMlZMM095emVSZnNpSzVXSEcwS0txSjkzMnB3SWdCSy1haXlTb2ZDMndLd1BmWEc3eXliLVI1QjZVR3Mtb3dISGNCU0xDbXRpczNMcDJSRnlPdnNCWmgtLWRUZg?oc=5",
+      "published": "2026-08-17T16:02:44+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -92,25 +153,25 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Exclusive: Ukraine reveals its Achilles’ heel to CNN as Patriot missile launchers run dry",
-      "summary": "Exclusive: Ukraine reveals its Achilles’ heel to CNN as Patriot missile launchers run dry CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVQzMlhlRHZlOUhWdktQQVVnOUFUNVZsbHpyTzRYdEt2SThYcGdwSFVsY1VKaGlVMXJrWUxJR3VQM3ZqVzZrQlQ5UnFPRF9qMlRMMVdSeTF2SXY3VXRWRjBYRXB4WVJQclJkemtacl9qUllWLWVuRFlDUTBYX1NaZW9XWHhGZHI0dG1NWQ?oc=5",
-      "published": "2026-08-17T12:59:53+00:00",
+      "title": "DHS defends investigating agency critics and giving them warning notices",
+      "summary": "DHS defends investigating agency critics and giving them warning notices NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnQtX2JqSlNTTm5ORmlBeGNHNUtZemIzdXBtS3JwdnlRSGhxcV9qMW9CaVVwVk9hVWZ0TFhEd3R3aktvd1FtblkwVUNYZml2UHo0QmRia2pBNXhlOW5nWDNMVHRrZmUyZlVTSi01R3cxWHNfcVNsT0RRY18xa1FsTg?oc=5",
+      "published": "2026-08-17T13:31:13+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-      "summary": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVdIBgAFBVV95cUxPUExPRE4xdUpqRjE5UC1UcWNmVU1tSzMtSXN2cmlpd2hIN3ZZQkhlRjIyVlRWRTBjc2hnWnVUZkhjUnphR2VMcHIwaEJfQndWaE9YUkVnLU9PbHpjYzZqN1lKSDluVUpqTEJYWFl5OEwyYk9LSmZ3VlN3V3ZzdDNSRw?oc=5",
-      "published": "2026-08-17T12:46:19+00:00",
+      "title": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln",
+      "summary": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZfZWp6WGFjUGNiZ1NoakRrMVcxSUE2VDJkQW5IVEkwREpxdEprckhBR29xYTEyLVNRQjM3cUJpSHpIRktTaW00N3RBV1FQYS1XeWRnem5TVW5ZTFFCWkpqYno1Q3d5UWJUTGp3Tms4VGlfMURJaVJtcWdZdTE5ZDltNmNjT3M0UmgzX21jVDVUOHlPOGJMVHV0b0pDMXBGcThfTW5n?oc=5",
+      "published": "2026-08-17T10:49:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -132,24 +193,24 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic",
-      "summary": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnJyUlNuMnZVZTNlLWVVVmlHNXp2TXdLSVNHZVJ1NFB3YV9CaS12SndKVkNfRW1nZFR2T1NOaXFhMkRHNnlQcDJOVzNvRExmU3NtRFhkSUVjY1prZ1NCdHltbzR1Y0tXVnpfSzRLV1d0ZURsSGo0V2JXNXhHRHRjcVNGX0p3eUdQYVN4SnFKdlhvUmlpS2tSSkpR?oc=5",
-      "published": "2026-08-17T09:03:12+00:00",
+      "title": "Opinion | I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything.",
+      "summary": "Opinion | I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything. nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFBRGRqenpIa2ZLNnRiUG1fbGZNU3I1NGNSRlZ0RWQybVZibWNZY2doYlNFbFB1T244U0ZjZzhOQkVGSEVOdzA3dnRHbzg4TGdaY1RPc2t3Ykc0bk1id3daVFQyNlRkX2hocm9SMDRNbU9XNzJMMWhQUUhHNzJ3V19rYUM?oc=5",
+      "published": "2026-08-17T09:01:56+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’",
-      "summary": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’ EdSource",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LY1l6c2hCLTczN091WTMycGJyTXc0UGxWSUJIT2ppN2trd1JFdUI4TFl0bjY2VUZUTlAxQ0RCcnQ3MUVCTnh1YkkxQzRYNGRVbWh4ZlJ1Y1dFTTJucXZwOUVxU2szUW40VGpHeHNzbVFtMlRVNlF3aE5CWjlMZ1HSAYcBQVVfeXFMTUZvc0cxYncteEoxU0VrQ2wwY2xSeWxkSG5DQkRUOEpLUWtHYzhLZUlfVWRQNXNRWnJUdlIyWC0wYTFsSTVtT3ByUHdPVUtxVFJmbEFCdmt2TVU3a1FEZkV1bW9KbGxzVG9jbVZudUNXb3BVRHotMTB2cjF2Z25XVDBLYVhPUnE4?oc=5",
-      "published": "2026-08-17T06:12:16+00:00",
+      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "summary": "Cialis is an erectile dysfunction drug. Could it also help you live longer? NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSF91YzlRdDJBRENFMUJ3QzdMOG9LZW8wNDBGM1h4TkVvYXBwQTY3TWxpdDlkQWNqNS1SUFBUbTNxc0ZFNWZSNVpBcTU5SEw2M1pQeVp1alV4ZHN5WDllRGVYWkRJbXJjZXZTNXk1bGhla3BLak5GZGtHTWg4RDhQaHBPMC1iWEJBdEhRN05rYi0zTzZ5NGc?oc=5",
+      "published": "2026-08-17T09:00:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -157,9 +218,33 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital",
-      "summary": "Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital The New York Times",
+      "summary": "Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEZqZGZORUp2V1ZqVl9tVEZnSl81SnlFUkg3dmxBbUg2eUh6WTh0QkljQmtLaW5VWHlHWFJfU3pvb2hrTVFWSFlZNHhqbnhUb1BWYk5SUmItQ1FHYjFGUms5YnV5azJpdWIzNV9sc2w1Y3ZMNVpfVVd6NUhOckRtMnNuaVpublpCTFVWWUtR?oc=5",
       "published": "2026-08-17T05:28:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Woodland family-owned pharmacy vandalized in potential hate crime",
+      "summary": "Woodland family-owned pharmacy vandalized in potential hate crime CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPem5BeHU1MU5PMU9uanpWMmIwc2MwUGlta1hZbVZTVU40RGJ4ZC1ZZkVNYTd1a3BGalB1Z05obVZ2ZGoyOTdSMG1HRm9kRjdmVncwUEI4V2Q2N2N2emZVRm5nVWF4N19IWXpGSFBWazhOTTZTQlg2MXk5REdWUkpGeF9nZnZSUHEwUTFtNG5fVjh5ZnpkTlJFODEtejU?oc=5",
+      "published": "2026-08-17T05:20:46+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
+      "summary": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36 nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzR6ak14NUFEVDZJZ1M2UnFISXJ5Ymx4ZWg3TllRa1NpQVJscnVYVm9BYjJ2eHVlM2tLSHNvY2VSV3dldkhxZkVCRnc1RWVnb3VtQkRPX0xyT0J1N3F3dWRPbWF5Y1NURWE0dHNSX1VYaHhOMFdTVEpNOUJUcWtKSjBYaEE?oc=5",
+      "published": "2026-08-17T04:14:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -169,7 +254,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig",
-      "summary": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig queerty.com",
+      "summary": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig Queerty",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV5OXEtVG5wbnV0OUhCOFZqOU5KYldtb08xdXg4WWs1eTdIeGFpZG9LdDVDakRxNW9ac0FBZ29aUkpBRkpxX3RELUstMklEalFKcGMwY1N4ckZFRy0xTjZXWUhwWFJhT01jdzlDZHllZnhMeDZpamtta1AwNWR0bVJ5dVpTVDF6cXUwb2p6Ymh5Z0dMVnZPam5R?oc=5",
       "published": "2026-08-16T18:00:00+00:00",
       "beats": [
@@ -181,7 +266,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Brandon Hines talks flag football, smothering receivers & why \"Will Truman\" changed his life",
-      "summary": "Brandon Hines talks flag football, smothering receivers & why \"Will Truman\" changed his life queerty.com",
+      "summary": "Brandon Hines talks flag football, smothering receivers & why \"Will Truman\" changed his life Queerty",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekFUNUMwVS1NTm9pVnotUXhoTjlsSUg1bGhVRWJ4cTBtS1NZWHZQOFRsQVRWNE44S2x6M0xRYWxyUmNicXIxZFdvaHUxcjIxVl9WVFh1OGgyOUMyQ2ZnSTYzVWRvVHVYSkhNdkhTdndnTVNONW5fTC1UZXRQYldiWURhNUpJckk2eGZhc3IwSGV5VTNOcjM2YWk3RVBnczVmZHNMajlRX2pKV09hUUJVNW54WW1KVFN4eXJPNkN3?oc=5",
       "published": "2026-08-16T17:00:00+00:00",
       "beats": [
@@ -201,35 +286,11 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Good Samaritan shot in Alameda parking lot during struggle with suspect, police say",
-      "summary": "Good Samaritan shot in Alameda parking lot during struggle with suspect, police say CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2pyZWtVaG5WSEhqdjVLcHlkc1Mtdlg2RllaUFNhUE5qWjVYN1dpbU51di05bmpxV0xBVmt3TUV0dWdCZ2tzR21wcHBtYkdtVU5sbE9YUy1BN2U5ajg5Sktqa2ZMNERMdUlDQ2FNNTN0LUtTTDdablVDQTY5VmF2eWMzSlNxTjhtQTVycllRem11RE16?oc=5",
-      "published": "2026-08-16T03:11:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister",
-      "summary": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2ZHhvZGJ5alZCYWhrWnZkYw?oc=5",
-      "published": "2026-08-16T02:18:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Hawaii braces for impact from Lala",
-      "summary": "Hawaii braces for impact from Lala NBC News",
+      "summary": "Hawaii braces for impact from Lala nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW1nbHk4cTVsd01FX1RQTHR2cDNaZ2FmTW9CY192eklKaUZiNC1MQ2hNY19rWGc5SVZtMVdEWEtxc3dOVE40eTRJeEVMWXU0a0dfaEYtNUJXNWU2YnBUdWVJZXU3SG5wTjNMeU9TODM0TDd5bVBoZTlxSmpPNGwyX09Bekc4QURjV3JJZk9sSUtfcnpY?oc=5",
       "published": "2026-08-15T23:29:01+00:00",
       "beats": [
@@ -241,7 +302,7 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Iran urges U.S. to ‘accept the reality of defeat’",
-      "summary": "Iran urges U.S. to ‘accept the reality of defeat’ NBC News",
+      "summary": "Iran urges U.S. to ‘accept the reality of defeat’ nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUFINHZIWTh3Z2hXVVFjT2VzX2hLUVpPU0hKdHVsQ0YwdnVldUFvX19SNTk5bFhFWXQwS1NqUmhDQlNkTmxTOTFyS0ZUYU9MaFVPY2xRblJpTGpOX3BiSFdaWHBFckkyenFtZ01iT3BvVFp0cENhYmRWRS1sTVp5c1lXMkZ4WmpNTmdlTHktYXFKamtxUHFqRm1PYVo5a3VYTk5HXw?oc=5",
       "published": "2026-08-15T22:50:40+00:00",
       "beats": [
@@ -253,11 +314,35 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur",
-      "summary": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur queerty.com",
+      "summary": "Lucas Leto’s wink, Gus Kenworthy’s view, & Chris Salvatore’s fur Queerty",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd19lXzBYRG9IT2NLckJ5WDZGRzBmZHpwYU45VnBxT1Q4RVo0aW9VNk9FaUxaVFRkMlF0WFB6VmdoV2F2RVNXaG42NTRUNS1ZV3VNSFJsQ0ZzT3ZKSmpXeTB1U0liMFdiVW5DWU9tS2Jna2MzNjgyTmc2YU9DTXlSM2NIOGlFZXR5aHZrVThzYUpGaGZjTnBDWXVR?oc=5",
       "published": "2026-08-15T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "A gay basher's brutal crime haunted him. His penance turned him into a crusader against hate.",
+      "summary": "A gay basher's brutal crime haunted him. His penance turned him into a crusader against hate. lgbtqnation.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORk9GTVY4ZEtpeENPdHNKcGdGVTZqRUJoUWIzN2xkMkRXa0FsdTZVRVJJMEtvRXh1a3Z3aTFRMlRwM2F1aG80cjBsVFZXN0w2WWVpNFFTN01rSWF1SEZPRjBXMjJIUHphSmg1dTFJWF9HMjBENnI0SFBrRENlLThfSEpmNWducUpGYXVpVzJlTU1MdFhaU0xjWU5jYlJJbFBGU1h1WTk4ZmpEeFIyUW0tLWxObjUzaHRjM3BMd2pR?oc=5",
+      "published": "2026-08-15T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Thank you for completing the form",
+      "summary": "Thank you for completing the form Education Week",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMWVjUjZuOFBXVGEyZU1yMzQzUC00WXY0R0otNmNJMENXUUZtemxMVFZrWWN2MDF1cHpvLXM3TWl5UEdwSWZ0NFBqeldKczZ2Y1dLUkNkX3d0bV9DN3JQRWJpeDg0LWl3MlhUYjlvX3VTY1JpM0ZncEZGMWEyVmVfc1BRUQ?oc=5",
+      "published": "2026-08-15T14:01:35+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -274,18 +359,6 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Bay Area woman learns to grow cannabis plants. Now, she's dispensing recipes.",
-      "summary": "Bay Area woman learns to grow cannabis plants. Now, she's dispensing recipes. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXdRT25BdmFZQzJEV3FUcmRCMkJnemJ0ZEcwRWV6dXBlWkg3WHo1U2c2czk0T3pKaDV5V1EyU1B4WElfZllvZnk1VTVwbXEyOUpxc1NQRGloTnRYRGpjLVdZZUdkMUxWYWJrTkp5TDY1WXpjTXBSdU9OQm9kOW5WMTNtRWVkclJRZmpvdVdyMA?oc=5",
-      "published": "2026-08-15T02:39:23+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Oakland councilmember addresses pushback to proposed AI data center downtown",
@@ -293,8 +366,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG5IUkRaU1YxdnFndTN2Vk9SaWxLVnVFU2l4NXU5SFN6anloZFNfVndTSDZmSW5jcmxyOFMyMXB0dm93MmtwSjFCbFlHX2xZQ3VmVVMxRlBab1dsSXd2djJrQXRkaDZRT0JoRzNyTFA5aVJ1VE9EQ3d6LXpvZFYtZnByR1pZLUlFdmhPS2Zjc2xRUGRKY2JzQXJWaDQ1MEE?oc=5",
       "published": "2026-08-15T01:35:56+00:00",
       "beats": [
-        "Business",
-        "LGBTQ+"
+        "Business"
       ]
     },
     {
@@ -302,82 +374,9 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Text blast falsely claims gay Florida candidate is HIV positive: 'I knew exactly what they were trying to do'",
-      "summary": "Text blast falsely claims gay Florida candidate is HIV positive: 'I knew exactly what they were trying to do' Advocate.com",
+      "summary": "Text blast falsely claims gay Florida candidate is HIV positive: 'I knew exactly what they were trying to do' advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KUnR3TDc0cF85ck82OFFvekhsSXVJYmlvOGl2bjBxSURUdlA0aU9ncmRTaHJIdENHNnc0cVBpQ2cydnhCTkc5cE5hNURYUHBYUnY0Q0I0Z0J6eTIxeU1DdUp5aE5iekJkejA1NXM5ZHpvYjljYlV2aVV3?oc=5",
       "published": "2026-08-14T23:06:37+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Judge dismisses Trump administration lawsuit accusing Harvard of antisemitism",
-      "summary": "UPDATE: Judge dismisses Trump administration lawsuit accusing Harvard of antisemitism EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHlHRTZ0Ml9xQ0h6WFNmNXFTQ1ZsdUVza2l0M3UzTGRhMHpUYlpxcVNPTzRBQmtlWWRMV3dZVTlJaFpkdk0yUE5vUjdYN2lNdGVCSjVSUkdpdXZOeTh2U1lqa09BeFVMNXJ2Y05GQ3AtQjJiN0VNSy1qaTNEcm5PNXRNRTdCMFlXeGxsRjd0U3g4YlpZeFdUakt1RGFVLUlVcGhCUmZEcVRMQQ?oc=5",
-      "published": "2026-08-14T22:53:23+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Houston ISD stays at B rating in 2025-26",
-      "summary": "Houston ISD stays at B rating in 2025-26 K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVBIeDNQZXpNS05GYkE1YWw2NWIzcENxSVlKYm1FcTZNeGdUUGVLc3dpQlpmakNDemlOS2pwa2hRSTJBLWx4MmxNMmdPRHFITENPZWRPaXdVSkFfazdsWFlLZjVubzNPQVhodzZjcTY5RDh5SXZvUmJwSExKY0IySXpuUQ?oc=5",
-      "published": "2026-08-14T21:30:36+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "“Absolutely f**king not!”: Queer directors refuse \"Harry Potter\" work over JK Rowling's transphobia",
-      "summary": "“Absolutely f**king not!”: Queer directors refuse \"Harry Potter\" work over JK Rowling's transphobia LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWhpRks0djV6RTVNbkx0LUk2aGZHOWl2WnYxMHMxQ05Eb2ZNSHNMZ3BqWFRDZlpYUGo1MzBSbXRvdWh3eXdQREx0NXEyRkhBcHFWWjYzWU1MMVBsenlERDhPX190c2szd3FndlNGTE9vYXBHdHNheDZ6eWJSOUZRUmt3Y0plY1JMaTRicDNydnBGU3pva0VOd0tuT2dTZU93V0xHR3VCMUdsLVRjZjc1bk44cUx1UEEzMzBWU0V0T1BmamJSTHc?oc=5",
-      "published": "2026-08-14T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO",
-      "summary": "Luigi Mangione pleads guilty to federal charges in the killing of UnitedHealthcare’s CEO NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
-      "published": "2026-08-14T20:59:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Could Your Classroom Use a Little More Fun? Start Here (Opinion)",
-      "summary": "Could Your Classroom Use a Little More Fun? Start Here (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXBQNEhFRE5mMFFxSXRrU2V4RmlZcEl2eGJvYUFiZmcxRTdEYnhhOUlPX25FdURtZHJYWHpkWGE4bkFaNlVPclpOY0NfVUFsbllLNGJQZjJiWEM5UnlGWnRieHd3RmQ0QjZNOTZjNno4am40dWdDM20xSDhxUDh4RElGOG8tWGhwMkxFLXlDejZFTklIcVh0aTRVb0ctUDBvanNTcVd5Vkt6RHpYa2Fv?oc=5",
-      "published": "2026-08-14T20:28:35+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients",
-      "summary": "JD Vance demands that the DOJ investigate hospitals caring for transgender patients Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVA5bmFEZGt1Q3lIbXZDeWh4Vm9BbEpQMjNuLTlSYzMydE92NHk5d3pqWE9id2t1RlJTUEdHbE9VVlVpeWF0SjQ2RWhoMVVzTXo4MHRGTjhYSkN0MV9lZkpGQWFzOW5xM3BBWFlpQVpkdzB5d05CMUZMRXRNWmJxTVdKZw?oc=5",
-      "published": "2026-08-14T20:07:26+00:00",
       "beats": [
         "LGBTQ+"
       ]
