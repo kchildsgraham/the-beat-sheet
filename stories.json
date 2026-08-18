@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T11:56:23.243930+00:00",
+  "updated_at": "2026-08-18T14:06:54.623934+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "FCC opens comment period on E-rate’s future",
+      "summary": "FCC opens comment period on E-rate’s future k12dive.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2tjZ1ZxdVpmNmk0ZXpEOVNuTTVBLTRscUZGRXFlSTh1WW05RFExV0tEV0NyVVhKclFBYVVSbnJWSzRLMnFaU0dndDRPZmN3MGRvQlAzbTV1NU9DWmlHQVRFUV9XbndQcFMwbTc4WGlrRzJNTHpxdTV5VlhlcjBSQ0dxVXBtZw?oc=5",
+      "published": "2026-08-18T13:30:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Nvidia's AI moat is shifting from chips to capital",
-      "summary": "Nvidia's AI moat is shifting from chips to capital cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUVqUjhzeWswMXdGZlJFMWFhbWxRMHBlSTFQMEFaTjNWbWVla29BNGtPUDFLdTI3NGg2WE9zRE85QjZyaXdpU0doeDBzM1QzdGM1aG9GSTQ5cWxOUDlSX2lNekRWMkxlR1FKMjVwQVphOFAzRmVjZGRfOU03M2VGdWVNWGNvdHdXUjlFMXNBUdIBlAFBVV95cUxPOVJVZ203Y0JGbnk3WGNFWm1jcmNobDNzZ3dJSF9fNVp1c0RzYUtoQWtscGpaRlN6VWRDUEM1dUY5NW1xc2tBM0ItWWtTV2IxMDI3cjZidmNaVjZ6LWRfdWdrUW9keUcxdEc1VFBObmRxaTV1aHFzc1dzZHFTS1FZTjNmWUpWVmJsRDdrWmJvOExEVTdL?oc=5",
-      "published": "2026-08-18T11:00:01+00:00",
+      "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
+      "summary": "Disney-owned ABC files First Amendment lawsuit against FCC CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVm5UcjFFczBWSmlFQTgwMUl6cUdMQ1dieXpiY0ZYZG1fTFE2VmdrMXRDUGdBaUNURGVBWEdYRHlfMTgzMi1oMWFUY2JLcjhHRmh6N1JNRmhSR3I1Um9uN1NlMnVES2o3N0x4ZlJyX0IwODRaUWJBMFRocnZyLWtiQtIBhgFBVV95cUxQTmJXNk1BYlNQdUE2cXEtVDlHbm1EYTZqYVRZbk5OekpTUF9ZaFZQbEJqaGFCbTNZVVJqZ1p1SDVTeC1EcFEzV0Y0VUhwNmtOcjZyUWJIc0gyTVJJQ09TQ0RwNDBoTVczOVVjZUN4VFRwdXR1STJNelhPa3ZyWGtwVlhtZGxnZw?oc=5",
+      "published": "2026-08-18T13:11:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +47,34 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-      "summary": "Home Depot reaffirms guidance amid 'frozen housing market conditions' cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odE44aTh0V3JNckJkRnU1VzZsdHFiLWM1OFJpdmNYc1R1ZC1mWjk1ZWtFamhtQ0k1dWJ3TGVkYW5nZnJic0Rvb2ZiejJrSVdrVGRLX0E2VGFDa2hueldndFlyaWFqTS1OT1dyVGFudUVNX1JldEHSAXtBVV95cUxPNEYyTmNCWUxSdWlJSzZNNnRYZi1aZnVoMkg2M1JUUU1feWpfdlhjc1lacGhkcS1YbFl4SkwwUnZSVll4SzdSZnFta1BmT1R0UnRnaWZvZ2lSSnR6bzI2aUlwRFRtSnRCUGRvWkgyNjFpaWFDU05sTFJabjg?oc=5",
-      "published": "2026-08-18T10:00:31+00:00",
+      "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
+      "summary": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwcEtzQjRRZUpPSmNyMVI0TFVrZnNjQVZRdVg3V1hha2RDc0lCUzNFSjFjQ1BELXo4U1BfcnNwQWVSOVJJTW5EUTkzM2ZGaEd3aU9Ebi1OSERhUGNfcUhCcUphOUotdEliYS1SZ1daWUtIaGJxRERoVGhYRdIBgAFBVV95cUxOLUFRVlBvSjlKRG9URWpuWnVpUVgxWGFqRE50dU5zbnBFU0RuVVZwN3lwR1NOZHZPQjZzR3BxRDhmWEhYbDZ1dFBBejNGYkN3QUVxOVZ0YVgwMkt5anJfT0xUX1BVTkZGcTh6eGxIUm1TYXplUXN3cjhwbWVQa25iYQ?oc=5",
+      "published": "2026-08-18T13:00:01+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Disney sues Trump’s FCC over ‘retaliatory campaign’ against ABC",
+      "summary": "Disney sues Trump’s FCC over ‘retaliatory campaign’ against ABC CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbG5DR1hPcV9ZWWVPcUxZQWdWV0NaSXV4UTdza1FnWmJGOVpFMXlONERubUlqS1NPTjNFaE5Ib2VTYm5sdUp3bTV4anBncjc1a0stbXRES3ZZaDhpNzRoUVhyd29TdUw2X3k3c1NLbThpNWQ3YnRUVml5cjBCaHRqbk50dkVCYXlSWlZQX0RSMA?oc=5",
+      "published": "2026-08-18T12:17:31+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-      "summary": "Russia says its economy is strong. It just fired a top economist who warned otherwise cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcTVKTXdMcmJ0REdKcEUwMTY3NDNocklwMktZMjNQbTd2X0VzTG04QzVTSWQ0eFBjenZsZTFfRzZ3WU1SN2J5NnJEdmh0M1gwS3EyRnJuQ2c4YUY1ekxhMUpuZlBFR3h6SXBzX1ZoWHNPeW9kNExHN0dRRdIBgAFBVV95cUxQOVZfTFNLVHRNXzl0dU9xTVg4VjdiSFBwZVQ0akZ1RjhkYlNrbkI5YkRvdldMYS1zS0N6VmpJUTdKd2VOMC0wTU5DTGVMczBua1JXQWd1N3RlWkhkSlVzMFFpZDh4dTc1Yml1bU1CYVNnV2owSnBGd0dEeXhKS2NGMg?oc=5",
-      "published": "2026-08-18T09:50:10+00:00",
+      "title": "Prediction markets entrant Novig posts more than $125 million in trading volume during its first week",
+      "summary": "Prediction markets entrant Novig posts more than $125 million in trading volume during its first week CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTNNNDNmdnpJcEpnVEVkXy02TlJVNFFac2pESU5BRE5HX1hadmVhcV85VVhHR0hROExJa0o5T0hqTTUzTlJ2TzVRNEVEM1hvRldQcVg0QW5XZW8xYnIxM1JIbGlhSURDTkxqX19Db1V1UmlsRlIwbWRWWWpGaml5TU84YjhKaERUZnBxMnlOc0pmS2EzRG1pZmUwX0xnc08tZFZzNHF2R1dJZ9IBrwFBVV95cUxQMVhQX3FDVUZkNTRleWF4N0RxbFRiWFh0N0VwZU5TaWJabDRXT1BkSndJaXVQSnNDemdzRVEtb2dmcVBzTHNZNTZnX3J5YTU2VW00djFBMFAxdGtwYVQxYldVWFozYkV6WS1tUEQxNlBySnEzMGxQTGc3YUotTlZ6cEhROXNGR3dZcTQwRENrOXJja3JFdUVnU25Rb3BWa1JDajBQSXZPRk9TdlZHYWpv?oc=5",
+      "published": "2026-08-18T12:00:01+00:00",
       "beats": [
         "Business"
       ]
@@ -59,36 +83,24 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "summary": "In Portland, this soap box derby combines downhill speed with extreme pageantry npr.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1FrUzIxQTVHeTFLSDZGb1ZVMUs5dTZwZktXRV9RUGVyWndVQVJHX3NWTlg1SkxJRFo3M3g3RkIyYkJJQVVkSnFCUmdfUjZEUHFDeEpta3M1VUhIdlViTGE0ajFDOHY2dXF1Qzg2VVdtYjZVQWUxYjhNd0dqWlAwQkx3bWdYNlEwZUdXaA?oc=5",
-      "published": "2026-08-18T09:30:00+00:00",
+      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+      "summary": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries NPR",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2VEekdSdFEzcHRlN2dJQ3M3czM3MzdFdExjS1FpTnRDSG51VGZELTNwNi1tT2JtSXBGR2RMZExqYUJjZ0RXLWZRSG5MYVdzYUw4VUhHeE5hMlhRU21lVnNKNzItV1NUSm9KbUVxeUM0ZHY5dU9IdzFmc0dWWE0yQ2FvNWNrRURoR1B5emMwV3pQUkljdHBlLWo5a2NLM0RGa2RFUjJOclh3SDExcHJHWTgxRVB0TmRwbVNSNy0tQnRVdFhIYXA4NjBudHE1MmxEaklPNVZRWTk?oc=5",
+      "published": "2026-08-18T11:40:35+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "FCC opens comment period on E-rate’s future",
-      "summary": "FCC opens comment period on E-rate’s future K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2tjZ1ZxdVpmNmk0ZXpEOVNuTTVBLTRscUZGRXFlSTh1WW05RFExV0tEV0NyVVhKclFBYVVSbnJWSzRLMnFaU0dndDRPZmN3MGRvQlAzbTV1NU9DWmlHQVRFUV9XbndQcFMwbTc4WGlrRzJNTHpxdTV5VlhlcjBSQ0dxVXBtZw?oc=5",
-      "published": "2026-08-18T09:03:26+00:00",
+      "title": "Senate Democrats have 1 unpopular candidate. It’s much worse for Republicans",
+      "summary": "Senate Democrats have 1 unpopular candidate. It’s much worse for Republicans CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlZKcV9yZUNsay1Ock1mSnhCS2lseGU2Q3ZHX2dlRUx6QkpHMFVmVGZVT3F2RkU3RzNhdjlyTEhTVXB6OXRIYTM3a2NGZklnTTBNZmlZNnRhWU9zNGdkY1lTaWNQblI4V1BnWFdSa3BjUGpvNzdDNGpwNU5VOHBwYXFMQkRjdk81?oc=5",
+      "published": "2026-08-18T10:00:29+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "1 Dead After Student Livestreams School Shooting in the Philippines",
-      "summary": "1 Dead After Student Livestreams School Shooting in the Philippines The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDNXRk1Xajc1d0VLejZmU0lUbXoyVzBZZDhoZmhlclRqR19iblh3RXE2TmlUVkRldU05ZkdEWm80a3hfRG9aTlktM2VVcUhiOVN5V0toQUdyTnZlZFFRWnUwYTlaS0RjcUQ2RUljeENwbXNRS2VEdFF0ckZUM3RBZlZ2RmxRZFNVaDJyaTJCSTJSNXBka0x4Uw?oc=5",
-      "published": "2026-08-18T09:01:59+00:00",
-      "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -107,20 +119,8 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-      "summary": "She told no one about her agony except ChatGPT. What her death reveals about AI risks npr.org",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzRIY2luTW9qRzJPVGZiMy1KOFcwZjdRakpLUDA2bTdYaWoxMjdZdTRSeXZ6Uno4M0ltNngycElPOXM5SzNvUVpsX0ozSUFLQm91X3V4UWZtMWFmNWRQV1MtVDRGYzZVc3lnanRQbDFwN2hfS2tMRnFWbTEwOU8wdw?oc=5",
-      "published": "2026-08-18T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
       "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-      "summary": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure npr.org",
+      "summary": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure NPR",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV6TXZVZjNrcHRWbzZTTWZmRHJ3aXFsMXhwMWgwVklKb1RRMHhZdS1jS1l5YVlsVHhVWmwyaWFVOGdCUl8tNHg2UlNjdC1jRE02YnJhei1WUjlmdGZnLXNoMnk4cENKMG9nLUZ5Nm83TmZLTEMyS2pHalRWWktRWWhpZlkxZHhZRnc4Q3ZZZEFvZGZSY3lvdzhobWNFYlh0YlA1T1RjczlXc284?oc=5",
       "published": "2026-08-18T09:00:00+00:00",
       "beats": [
@@ -128,25 +128,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Six-minute ‘eclipse of the century’ is coming to the Valley of the Kings",
-      "summary": "Six-minute ‘eclipse of the century’ is coming to the Valley of the Kings CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSENVSnZZMERodHpoQmpzb0cxQjlLUXMteWZpTlo2QWw3blJuVWN3V0tfSEd3S3JjcVhnOUd1REFJSTE5VkF1NEllTFdKZEFXMTVybGtyS1ZZcGkzenJWQlNfbDBlTF84c09sVDRwdmJ2LUVrTVVJSS10WXI0LVF2VzBpbXNMeFE1?oc=5",
-      "published": "2026-08-18T08:18:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "China’s most famous comedian under investigation for joke about communist song",
-      "summary": "China’s most famous comedian under investigation for joke about communist song CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS1fa3g4RG5PWS13Z1BEUUtmcGVkOVRJUExLRnpic3JqdWF4ZjhDRXUxN2NwV1hRWnVTWVZKVTh1R2RZQmd1UDhmRXRKSkRtaVBETHhrbm4zN0NKZ3FfbXNxYVdNVDl2MDVmSEVuekJlRE44djZVdFlWaFZIcmNzU0o0UnYzZVhkQnZIOQ?oc=5",
-      "published": "2026-08-18T06:47:23+00:00",
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "summary": "She told no one about her agony except ChatGPT. What her death reveals about AI risks NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzRIY2luTW9qRzJPVGZiMy1KOFcwZjdRakpLUDA2bTdYaWoxMjdZdTRSeXZ6Uno4M0ltNngycElPOXM5SzNvUVpsX0ozSUFLQm91X3V4UWZtMWFmNWRQV1MtVDRGYzZVc3lnanRQbDFwN2hfS2tMRnFWbTEwOU8wdw?oc=5",
+      "published": "2026-08-18T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -176,18 +164,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Former Hurricane Lala drenches Hawaii as flash floods sweep away Big Island homes",
-      "summary": "Former Hurricane Lala drenches Hawaii as flash floods sweep away Big Island homes CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXZzZWY3ME12VmE4eDhzMW40ZkN6RGZSMmo5bUhZMkU2Y0NZSjZKYXZkYl93UXl2UmZ4dUkxNUJuUmZzbFhUVnFadlJ0aHMxd3EtQnJJaVZXOEo0ODBFS0xWLU9XT28yU1ZpUGtPYlEzUlcxWFNSTmk3QVhXb2F2Q0RLQTVCSXhtZ3Zr?oc=5",
-      "published": "2026-08-17T23:49:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -201,16 +177,52 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Marine veteran on challenges of multi-month deployment at sea: \"Your daily life is really limited\"",
+      "summary": "Marine veteran on challenges of multi-month deployment at sea: \"Your daily life is really limited\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVVuUThGdTI2VEFpdzhJZS1Vam9TZ2FyN2NRRmtZTFpWV2FPdGswQUVFUW1YaEpaOTVGYUM4cVpmYU53NllReTdYYmJuaGdGVXlkZTRYbTJyMmFibkJjTlIzNTB1VE1JZXNmN1J5bkpudU9ZWGVsbWNNd2FxV0NXTWt3bGk4NWFvWXFxRno4dw?oc=5",
+      "published": "2026-08-17T22:40:32+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Ten Commandments law appealed to Supreme Court",
-      "summary": "Ten Commandments law appealed to Supreme Court K-12 Dive",
+      "summary": "Ten Commandments law appealed to Supreme Court k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMUN6XzVrb1NXODhRaXQ2c2paNUF0ZDVhVWRoMkhza2tsODRtLS1zMTdTOUVyMW16cmdES3lPMEVWbzFJZy1Ra2xFY0hzby1ZQ21EZkVLdHluV25STnRFelByY0NueFI1dVdRMDFMOVFKRExEUXJkR3BLN3hLMFVhWTdnZndha1FGWE1v?oc=5",
       "published": "2026-08-17T22:25:00+00:00",
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Video shows police arresting lesbian bar owner as she protests, \"We did nothing wrong!\"",
+      "summary": "Video shows police arresting lesbian bar owner as she protests, \"We did nothing wrong!\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajNhM3NHbVhIZFlFcC1hd3VJMHZXeUdoWVNUb0pmX0t5NEVSRWxhU09BRUxXRU44M2xxYlJ4NHZULVZNb1NyRjhtT0kyQ1FscXNkZHRaQlR5cTJ4RzI4dkNvXzc5QVlmbFlDTWszS2c2eWRMVGhuLWFGNFBOSDFPbTNDdmhEUVdORHd3Nm84cmJuVEhpSVU4V1dQaGFYNWpIOXh1OGJ1RnJSdTVZTVFXSTRrWFdXZDZnMVY2LQ?oc=5",
+      "published": "2026-08-17T22:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Why Is It So Hard to Build a Transformer?",
+      "summary": "Why Is It So Hard to Build a Transformer? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVhxejNhU3NlRmxrUmYxN0t2bkpiVXN1VWZnc2prQkhPeTUxbzRhTTZLQU50c2FrS3B4NHgyMUR1UEJHSFJUR1RGemoxT3ZiUFpnRHBnc0dSVFYxU2pDREJfZmlwNTZlaUljV1pzX01yQzZzS09VV3NUVEdNcWVmMEl4WnFkS0VEbTZINFZqX0g0eXV1ZjZBSA?oc=5",
+      "published": "2026-08-17T21:54:39+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -288,6 +300,19 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Republican Byron Donalds attacks Democrat David Jolly over trans rights in Florida governor’s race",
+      "summary": "Republican Byron Donalds attacks Democrat David Jolly over trans rights in Florida governor’s race Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOekJja1lPSF9tU3VLeVlLd3ZsUTVNWnZLTTRVRGlMRDh0cHJiNGZaOTA1ZmlzbFo4bXVYUXNpdXlrZ3hDNHR4SUxGZjJRSUdOVXFnU1UzcEd1VUZkM1RBOGMzM25BQ1BZSmgtY0t0ZUF3ODY3SjdCRnVZb2xyeW9zUjJKdkNSLUk?oc=5",
+      "published": "2026-08-17T18:44:29+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -312,18 +337,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "The despair on the USS Abraham Lincoln exposes the deadly fraud of Pete Hegseth’s machismo",
-      "summary": "The despair on the USS Abraham Lincoln exposes the deadly fraud of Pete Hegseth’s machismo Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQWtyVGNjRFg5YUF2RUJHdkN2RE1WZ1o3RjEyLThtS1E3QzBSVzlGR1ZaOUdNekZoMXdWQkk3NnVIVnprRmlhSlF3WmQ3cUN4Ym1UMkV6RWdSN241SVIyWmRiV0xUcEJfYmUwZA?oc=5",
-      "published": "2026-08-17T16:51:33+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -340,7 +353,7 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Week In Review: Unions sue over ‘professional’ degrees",
-      "summary": "Week In Review: Unions sue over ‘professional’ degrees K-12 Dive",
+      "summary": "Week In Review: Unions sue over ‘professional’ degrees k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zR1ZsZkhnRm56OWxycGp4ZEhNRzN4c0puYVBzNzVTRkhQLXZ1WlFQUzRaZnZZaUgyek1pdUU5cUhCZzhSR2F3MFluSDgxYnJlZ0w3QXNSXzNOWEYwbmkxMWhXYmFhWmxMOTVhcy1MM1ZZYTZN?oc=5",
       "published": "2026-08-17T16:25:01+00:00",
       "beats": [
@@ -362,27 +375,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic",
-      "summary": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnJyUlNuMnZVZTNlLWVVVmlHNXp2TXdLSVNHZVJ1NFB3YV9CaS12SndKVkNfRW1nZFR2T1NOaXFhMkRHNnlQcDJOVzNvRExmU3NtRFhkSUVjY1prZ1NCdHltbzR1Y0tXVnpfSzRLV1d0ZURsSGo0V2JXNXhHRHRjcVNGX0p3eUdQYVN4SnFKdlhvUmlpS2tSSkpR?oc=5",
-      "published": "2026-08-17T09:03:12+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Karoline Leavitt's WH exit takes a messy turn after she ignites fresh speculation over Tr*mp’s health & diaper rumors",
+      "summary": "Karoline Leavitt's WH exit takes a messy turn after she ignites fresh speculation over Tr*mp’s health & diaper rumors Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFhQeFFzUDMwbENUMFRlNURTeHhmUklJN2tBdmp0Um16LU5Ma0Q3dFlBbjVMNC1SeDJteUhvMkdnSDhfWERrVjdiLVl0MDRpYXJ1ZHFzMXBpSXQ4LUh6b2xUNWI2OXRqemVjalkwX3hIbVF6YWlBdmg5UWNOQmU2ZUhMU0NyM0R0S05ocGYwMkloTEE0a2hyUEctNkp1NVV2dW1hQTliRHozT3h0Zm9BTTdXaWs0RUIzQTNUaDFZTzI5MGJmcGZ3QUJBUTB0Z1NTMmZhaExEU2Z4c2ozbUJN?oc=5",
+      "published": "2026-08-17T15:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Fresno Unified shrinks budget gap to start school year, but tough decisions remain",
-      "summary": "Fresno Unified shrinks budget gap to start school year, but tough decisions remain EdSource",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGpQU0hLWUJvbkNRWVVwTkNIRGZ3QUxGdjUxVFlZMDZaeDdWekF4ZUlDOGtRLW5mNG83WUFGazR2MlJNVTBXdTZseDQzbUowOFpNODlzdlBtYVltMUNyVkF4eEFEMS1nblJVZnA1OVpHNUxWVm5FX2t6eXMtZm0wRmVjbDVVclAzdFhpMkl0Mld2dUNHSWZtSFRsd2FEYzNL0gGoAUFVX3lxTE1ROHBHVktqbGJtWE1Yd1ZZaUNBUUtmOHpEYWN5eFpremJzWjFURU5vcXNDQnRkRGNwXzJ1aFRXVW9IWW1FVUNXNmRXLUNNS2h1ajNlaEQ2cDlFcnoyUzFYOVJxOFA2TXF5TlV2WFFiQzc0TTVoc29CTDFLMkRKSW81WjJ3VUgtTFRMMmhiMXBrSkhNUDhMZjctRno4VGVvcU5OdGFub3BmMA?oc=5",
-      "published": "2026-08-17T07:21:57+00:00",
-      "beats": [
-        "Schools"
+        "LGBTQ+"
       ]
     }
   ]
