@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18T05:06:52.016720+00:00",
+  "updated_at": "2026-08-18T07:26:09.962266+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,372 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump swings hard at Oman and South Korea, but his foreign policy misses are piling up",
+      "summary": "Trump swings hard at Oman and South Korea, but his foreign policy misses are piling up CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXg1Z3FBczRxeWF3b1dJTDhsOFE0VF94VWFJNGU1bTRXSjdJemcwbjBBV0JncmItSkJSODVtSnpsemJMOUVzU3FmZzdOWlZKRXhZTTc1LVJIa1NXLVhsNXhWVHFnaTlHbGFQTFI0cm5NTkN2STRHQjRLVkE1RlpXYjBoUl9QQnBDbnpKVW5zVXNVZw?oc=5",
+      "published": "2026-08-18T04:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Student and teen gunman dead in rare Philippines school shooting, officials say",
+      "summary": "Student and teen gunman dead in rare Philippines school shooting, officials say CNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfaXl0Y29xai1VSlhOSXd0RzlSUDBBSTVfZTBuSjkwTUpSemxPb0NvRVJWUEJEUXhDMXdJMUJCZjZ3TWc2WWd4Z1hKYzk5MVo0TkNfd3p0YzBqSGlKanFZeU5KLUFHQXNLYVdSM2RXMHhYYlZndmJjeEVCYy0?oc=5",
+      "published": "2026-08-18T03:13:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bitcoin is overdue for moves of 30% or more, Fundstrat says",
+      "summary": "Bitcoin is overdue for moves of 30% or more, Fundstrat says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VZ1lKSkx3SHlwRkpqbE5Ma0gtYkhMdWdOMkFPTW9Wa1VDUUtfTmFKX0NXOWU2Tk9RTkY5dlhvOUhJSXNjYVMzby0tYng1YzdFRThhQW9aS2pINERsM25abmV4UzdfOGd2UW9rcHZlT0pqWExaMWdWQk1uRQ?oc=5",
+      "published": "2026-08-18T03:02:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Hayden Panettiere Is Dead: Star of ‘Remember the Titans’ and ‘Heroes’ Was 36",
+      "summary": "Hayden Panettiere Is Dead: Star of ‘Remember the Titans’ and ‘Heroes’ Was 36 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzR6ak14NUFEVDZJZ1M2UnFISXJ5Ymx4ZWg3TllRa1NpQVJscnVYVm9BYjJ2eHVlM2tLSHNvY2VSV3dldkhxZkVCRnc1RWVnb3VtQkRPX0xyT0J1N3F3dWRPbWF5Y1NURWE0dHNSX1VYaHhOMFdTVEpNOUJUcWtKSjBYaEE?oc=5",
+      "published": "2026-08-18T02:16:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Pennsylvania cocaine trafficking case has ties to 2 fraternities",
+      "summary": "Pennsylvania cocaine trafficking case has ties to 2 fraternities CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDlMZTJNbFZiQkI1S2dVaXNEQ0NmbzBPaVhscXFnNDU5ZzZ3anZLRkRtSE1yUjVsblVIQVl6Ul9wemFBbFZ0anhycGxodUhWSFFqcEpZV1U2NVlFRmNuT2FDWVktMXR3XzZuSlRwakM3QlZWc0p3c0VkMnBCMTBOQUFlNTh2cXNUSWc?oc=5",
+      "published": "2026-08-18T01:14:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Markets caught between Mideast worries and AI optimism",
+      "summary": "CNBC Daily Open: Markets caught between Mideast worries and AI optimism CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXJZV1lBYWJ3TEtFcjlWMXM2VS1xNm1OTHBlaFJsb09tNGVQQkFrMUtYSmNfWVJnaUppRkJMMXdhQ0tuWjROdm5fZU9iUk9XYlZxTFkxWFp2cWNmeFVELVhWU292NWJRY0xNcU5KOU5heDJibVByeXZqLWhIT19FY0t5djQtQnYtdXhyWmFpUdIBlAFBVV95cUxPSWE4S3ZxN3VYbWc3S3A0NElVU0hGRGV1NUlQQjFaM3Rtbm9POEJSUkR2TTFlYVdMRlBqQktFVWlvSkNjdUpkVGlmbExoVFdfRGhWZFprcVNkQkFPYkxUZFQzWVIxTXRSaW5oaF9xd005R3BIR2kzMVZBNlY5NnYtdHo0MmFucVVfT2RJZTViZXA4V19r?oc=5",
+      "published": "2026-08-18T01:13:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point",
+      "summary": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmU2SFM3SHZaZUxxaW03VTFyOEcwaXlwVnZxZFJ5andjdnhkdUtjX2Z3b1g0ZWdWaXRRa2paUTRZYzRIbW4zYjRubEk0ellPVU1zd054cW85d2NucVdPTUhzZ0lzYTJudlVlWEtUTGY4SjU1TV9Ycl9UWVFobGdKLXAzeEo5S1p0NWlCU1FWcVJUOFRISWtPdG41eFQ5Zk1VRkhVYzBGSVFDR2oxMU9zRDlVbw?oc=5",
+      "published": "2026-08-18T00:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Former Hurricane Lala drenches Hawaii as flash floods sweep away Big Island homes",
+      "summary": "Former Hurricane Lala drenches Hawaii as flash floods sweep away Big Island homes CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXZzZWY3ME12VmE4eDhzMW40ZkN6RGZSMmo5bUhZMkU2Y0NZSjZKYXZkYl93UXl2UmZ4dUkxNUJuUmZzbFhUVnFadlJ0aHMxd3EtQnJJaVZXOEo0ODBFS0xWLU9XT28yU1ZpUGtPYlEzUlcxWFNSTmk3QVhXb2F2Q0RLQTVCSXhtZ3Zr?oc=5",
+      "published": "2026-08-17T23:49:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+      "summary": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHpTdzJUWTR6NVFLWWJZd2dnTWJwcWpOZ0xlcVpQRHE3aHRQeXFfcElaZWkyOVhOM3hqWG1xUnk4MU5OTjFpOF82VG83X01FMnhlaTN6VVdYcms3MUk3WG5HQ2MtX1Mtc0hqc1MyYWl6S1NhYVBGeS00b05RaEZKdjY1Wm9wczVvWDM5OFpmVUJZcXVSWnJLOVRJSlRuOEXSAaQBQVVfeXFMT1daNjdYdTJkekFUYVhwSm9MVTdlSWoteDRhaW5zaVlFTHFhNDVMUm4zNXpLTng4YU4wZml0WW4zb21ub0djLWVyQWg3X1psaUk2alNmTUlvcy15eVNIbFM0alNZdmppRTgwQ2FJYXZBTTZQYXlvZVZjWmNlWHA1RHd1LVY0dGFRdjJGMkV1RHpLa1ZFaXFIUHlKNGFIYTVmTWZoWk4?oc=5",
+      "published": "2026-08-17T23:39:54+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Ten Commandments law appealed to Supreme Court",
+      "summary": "Ten Commandments law appealed to Supreme Court K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMUN6XzVrb1NXODhRaXQ2c2paNUF0ZDVhVWRoMkhza2tsODRtLS1zMTdTOUVyMW16cmdES3lPMEVWbzFJZy1Ra2xFY0hzby1ZQ21EZkVLdHluV25STnRFelByY0NueFI1dVdRMDFMOVFKRExEUXJkR3BLN3hLMFVhWTdnZndha1FGWE1v?oc=5",
+      "published": "2026-08-17T22:25:00+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
+      "summary": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWJrbGlOamZZbFU5ZHpPSEZFRGNvUUFvZWJjTjJvek4yZ09YTjlPMjNXZWxIT3hDZHlxVmthMDFaZDRxM2dkdnFDUDlTRmZGV0JtUkZYVWNXYkpuX1RxUDJVY1ZYOEl4TzVuSlBTc29tX0ZPT3dLTnhwbzRwQld0LVd2VjB2TUVYLUxUY0d6MHVqejU2Uzg4WDRkbw?oc=5",
+      "published": "2026-08-17T21:01:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "The Most Pressing Problems Schools Count on SEL to Address",
+      "summary": "The Most Pressing Problems Schools Count on SEL to Address Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQlc0WmIzS1FPanF4R2RDNl9GaDY0eDVfWkdhY191bFBTWDYyVUVxMzB1b0pxeG9VaHZnWEtqdjBZRWpJZlZQbHpNOHpWU1UwMUxyWlpaR1RnUHc1NHhVY0NKYV8zaDFCemFRUWVqZUdIOW1KTm9sMG1Va1k0YS16N05iUXhzV1VBVnNoTEx5d0lfWkdGVWRKMzV4MlhxT2dzYmc?oc=5",
+      "published": "2026-08-17T20:51:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Body recovered from water near San Francisco Ferry Building",
+      "summary": "Body recovered from water near San Francisco Ferry Building CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUk1RUNLaTNFeTVMNTRiMjJhMHU0ZmFZNU5NMHUwUDlNcDN2MGlrYy00bm5LbVctdWJRLThqREdfem05YkNmakFuTUVNaG5RQjdoUGtTWmV4MzJ2a0l0YmIycXBFcnhaUWF1aXZmQVFpNXdhb1NRcWtvNmVZUDVvNGhXMDA0cXhPcjYyai1nYw?oc=5",
+      "published": "2026-08-17T20:14:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
+      "summary": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVI3WURJMWoyUkdpX3lmR2NvSTBmNkxIWHEzR3FaYVhaT2doSUs3cTc3clAtbGdSRENMdmxrSlIwSU5ydmdKa0U0UHFYMVJsTlFQV3BPM0laVVA3N1J6T3dWUmxLTnM3Zy1NQy1BV1BnRWxoeDZOSFVOUHdrUWVjUkZEMENKbFdmNUkw?oc=5",
+      "published": "2026-08-17T19:53:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "White House trusted a transgender CIA briefer with the most sensitive secrets until her identity went public",
+      "summary": "White House trusted a transgender CIA briefer with the most sensitive secrets until her identity went public Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmNKaUVXeXVtVW52OEV4RWNfcmtGeXc5MlVhZXphcklKWUNUczlqazBmVFg1UzJEcFB4MUtaZkphWDktUFF6RE1zajdVdGxLVEdQWEUxVHVSVlF2VDBORzFGOC0wcExRWlUzWFVDTG1pWG8zYkNPNFlFckpBZVpiQl9yYkRUQQ?oc=5",
+      "published": "2026-08-17T19:48:30+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Are school closures on the rise in California?",
+      "summary": "Are school closures on the rise in California? EdSource",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3JkamYwSkxkS1pxVWtqRXBuQ1UyeGJpcFZaM1dRZW9EWV9VY19hdUd5ZVF6OXM4Z05lbnRaUlBSckg5MzBGalB4R1ZRRm9yN2RJZ0JjTDEwbG1JX2FOOFlNTDdmQmZGOS1Kb0phQ2I1T3pCdDJmZlRnV3NXZVlhQ2FtMlc?oc=5",
+      "published": "2026-08-17T19:16:14+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Gay principal says school board made up fake pedophilia allegations to fire him",
+      "summary": "Gay principal says school board made up fake pedophilia allegations to fire him LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazllY3RZcVpULXY0a3VrZDJ5QUxmRDZOYmtkd3JtaWxfWVNrWXE4UEtKSXVvM05QV3U5SzVQbUhtaEpGMzBoLTVIYnprdEp4LVk4NV93eXIwQ3RXT2Z0SWF3dHAtY2RzQVpJQlpCckZmWmxCRnpXRTRWYVNwcDZ5V2RveWhNYWdNV0R4bGJpLW9udUVHWTZ2WjNBek9xay1LSmJEckliVU0?oc=5",
+      "published": "2026-08-17T18:57:03+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Defense Dept. Schools Put New Emphasis on Western Civilization, Christianity",
+      "summary": "Defense Dept. Schools Put New Emphasis on Western Civilization, Christianity Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkFtUDk2TzVTc3p6SHlWeENpUjVZREppMm9IYVdxVnJtQU96bnpleGhpUF93Q3B1WmZ1MXE4YXhxdkVxVEdEUGcyNHRzX2MtQ2ZQOHpjNmY0MDlxUGh1VGxvSzdiWGh0SHFuTGZxU0FBMDFySXVCanRiOEUwVzk4TFljWmFJWElQNWhBM21hclVVUWM3MXdUX0ZNaXZfYUxyczZ0YlkyRVNNUlg1UnFXcElZWi1ONU9tZTJZNjJlU0M?oc=5",
+      "published": "2026-08-17T17:01:58+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "The despair on the USS Abraham Lincoln exposes the deadly fraud of Pete Hegseth’s machismo",
+      "summary": "The despair on the USS Abraham Lincoln exposes the deadly fraud of Pete Hegseth’s machismo Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQWtyVGNjRFg5YUF2RUJHdkN2RE1WZ1o3RjEyLThtS1E3QzBSVzlGR1ZaOUdNekZoMXdWQkk3NnVIVnprRmlhSlF3WmQ3cUN4Ym1UMkV6RWdSN241SVIyWmRiV0xUcEJfYmUwZA?oc=5",
+      "published": "2026-08-17T16:51:33+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: Unions sue over ‘professional’ degrees",
+      "summary": "Week In Review: Unions sue over ‘professional’ degrees K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zR1ZsZkhnRm56OWxycGp4ZEhNRzN4c0puYVBzNzVTRkhQLXZ1WlFQUzRaZnZZaUgyek1pdUU5cUhCZzhSR2F3MFluSDgxYnJlZ0w3QXNSXzNOWEYwbmkxMWhXYmFhWmxMOTVhcy1MM1ZZYTZN?oc=5",
+      "published": "2026-08-17T16:25:01+00:00",
+      "beats": [
+        "Business",
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Tatted-up Nancy Mace turns to podcasting after political career flames out",
+      "summary": "Tatted-up Nancy Mace turns to podcasting after political career flames out Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84S29HaG9fZWFnOXlOTktwN2dpcGNvMlZMM095emVSZnNpSzVXSEcwS0txSjkzMnB3SWdCSy1haXlTb2ZDMndLd1BmWEc3eXliLVI1QjZVR3Mtb3dISGNCU0xDbXRpczNMcDJSRnlPdnNCWmgtLWRUZg?oc=5",
+      "published": "2026-08-17T16:02:44+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How a California school is streamlining its approach to SEL supports",
+      "summary": "How a California school is streamlining its approach to SEL supports K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWFDZ1JpSUkwSVQ1WW1MakRsQ1d0SGJHdXkwaTZZQzBSdDBPVC16ZmRqRzM2bjZlczFGN2ljcEt4dmtfdDlSUVlfdkplODF1cnU3YXZ0bnRKOEljSTkzd2U2TVhrX0FOb3RQdnF2M2JQemkyU25vN0tpS1VqWVc0N1UtVTBCal9wR0pQNll6cVNURmJrSkpyNTlZT3dteHdUcGZSaXdvS3M?oc=5",
+      "published": "2026-08-17T13:40:01+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Sen. Mark Kelly says USS Lincoln sailors ‘can’t get basic needs met’",
+      "summary": "Sen. Mark Kelly says USS Lincoln sailors ‘can’t get basic needs met’ NPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUZwT0xxUTdfejlETHpNQlJuTjNyMVRHRThjOXJVRUdMTEE5cjViN2t0R1NwZUpZV1pKeXJaRWVNLWJsekEwb21nd2djc3NWLXhZcURpRmc1RUhpTlU1RVgxcnFFVC1HaU9ORzJSZnk0Y2JjT2FSV2U5QmRXQkJoTEJNV0thRjdjeWU1NlNnTzRyN2kw?oc=5",
+      "published": "2026-08-17T10:49:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic",
+      "summary": "Opinion | How to Stop a Lab Leak From Starting the Next Pandemic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnJyUlNuMnZVZTNlLWVVVmlHNXp2TXdLSVNHZVJ1NFB3YV9CaS12SndKVkNfRW1nZFR2T1NOaXFhMkRHNnlQcDJOVzNvRExmU3NtRFhkSUVjY1prZ1NCdHltbzR1Y0tXVnpfSzRLV1d0ZURsSGo0V2JXNXhHRHRjcVNGX0p3eUdQYVN4SnFKdlhvUmlpS2tSSkpR?oc=5",
+      "published": "2026-08-17T09:03:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything.",
+      "summary": "Opinion | I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFBRGRqenpIa2ZLNnRiUG1fbGZNU3I1NGNSRlZ0RWQybVZibWNZY2doYlNFbFB1T244U0ZjZzhOQkVGSEVOdzA3dnRHbzg4TGdaY1RPc2t3Ykc0bk1id3daVFQyNlRkX2hocm9SMDRNbU9XNzJMMWhQUUhHNzJ3V19rYUM?oc=5",
+      "published": "2026-08-17T09:01:56+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Fresno Unified shrinks budget gap to start school year, but tough decisions remain",
+      "summary": "Fresno Unified shrinks budget gap to start school year, but tough decisions remain EdSource",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGpQU0hLWUJvbkNRWVVwTkNIRGZ3QUxGdjUxVFlZMDZaeDdWekF4ZUlDOGtRLW5mNG83WUFGazR2MlJNVTBXdTZseDQzbUowOFpNODlzdlBtYVltMUNyVkF4eEFEMS1nblJVZnA1OVpHNUxWVm5FX2t6eXMtZm0wRmVjbDVVclAzdFhpMkl0Mld2dUNHSWZtSFRsd2FEYzNL0gGoAUFVX3lxTE1ROHBHVktqbGJtWE1Yd1ZZaUNBUUtmOHpEYWN5eFpremJzWjFURU5vcXNDQnRkRGNwXzJ1aFRXVW9IWW1FVUNXNmRXLUNNS2h1ajNlaEQ2cDlFcnoyUzFYOVJxOFA2TXF5TlV2WFFiQzc0TTVoc29CTDFLMkRKSW81WjJ3VUgtTFRMMmhiMXBrSkhNUDhMZjctRno4VGVvcU5OdGFub3BmMA?oc=5",
+      "published": "2026-08-17T07:21:57+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’",
+      "summary": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’ EdSource",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LY1l6c2hCLTczN091WTMycGJyTXc0UGxWSUJIT2ppN2trd1JFdUI4TFl0bjY2VUZUTlAxQ0RCcnQ3MUVCTnh1YkkxQzRYNGRVbWh4ZlJ1Y1dFTTJucXZwOUVxU2szUW40VGpHeHNzbVFtMlRVNlF3aE5CWjlMZ1HSAYcBQVVfeXFMTUZvc0cxYncteEoxU0VrQ2wwY2xSeWxkSG5DQkRUOEpLUWtHYzhLZUlfVWRQNXNRWnJUdlIyWC0wYTFsSTVtT3ByUHdPVUtxVFJmbEFCdmt2TVU3a1FEZkV1bW9KbGxzVG9jbVZudUNXb3BVRHotMTB2cjF2Z25XVDBLYVhPUnE4?oc=5",
+      "published": "2026-08-17T07:07:50+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Actress Hayden Panettiere dies at 36",
+      "summary": "Actress Hayden Panettiere dies at 36 NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHFTUFpsdW02X25zQWpFdklEdk1nWVp5SzEwRjdnaGd6SmwtS3diNl9OUWJ1LXVlWldqUmNvUlIyTjNJaW1pdmFpcUd0OFRQRTBFLW5tYU5vYXJRbzBFRmNHeENlQ19KT2dEWUxUMF9mNms4dzhqQzVlaVlFLXZ2aWkzZERwdw?oc=5",
+      "published": "2026-08-17T04:31:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Denver Jewish Community Center supports new parents with opening of free baby supply closet",
+      "summary": "Denver Jewish Community Center supports new parents with opening of free baby supply closet CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkxKdTVIRDk4b1pETVdabFhVSlFXOUl2WVNCc2JkTHdVaHdxaTBlblBVSXVFT2dybHU0WEZtMlI1NW44LW93enp1NS12cFVINnNUdk5QbGFjX2RZNlFHSXJCLXFfUmdlOVU1R2VlQVpMaEh6aWZ3czh6OVlydXpPZUFoaFJ4OGE3VFVyb2lWMUJSMF9URW9sTw?oc=5",
+      "published": "2026-08-17T00:41:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig",
+      "summary": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig Queerty",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV5OXEtVG5wbnV0OUhCOFZqOU5KYldtb08xdXg4WWs1eTdIeGFpZG9LdDVDakRxNW9ac0FBZ29aUkpBRkpxX3RELUstMklEalFKcGMwY1N4ckZFRy0xTjZXWUhwWFJhT01jdzlDZHllZnhMeDZpamtta1AwNWR0bVJ5dVpTVDF6cXUwb2p6Ymh5Z0dMVnZPam5R?oc=5",
+      "published": "2026-08-16T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    }
+  ]
 }
