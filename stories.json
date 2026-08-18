@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:41:33.764159+00:00",
+  "updated_at": "2026-08-18T22:55:57.033381+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,49 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
+      "summary": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hT1haZXNjMWYxSjNLTXJ3d3liejhCUWNPOFZIUGdjNWFWcnRMdnd6NjBpNUFHN1lXVjF4X19DMkNsckpKWlNpQWdlY0c0RDB2Yks0ZHA3MXVCMzNMVEE5WVZnX2xoY0hKdE4xRlFGMjZiSGwxRndB0gF8QVVfeXFMTk5VdnN6enlhQi03NF9hWW16OXVMM3hJX1NNa2pkNVE0QURNMUZ4LTlPOVlxcVJDR0ZLUzVfWXNzNlRoWHBmaFpuM0piRnpPSlFqMjZucTdrR3VBZzRkZHBtZFpOMUdxblVVY0Z2NXhUemthU2FDUjc0MGx3dA?oc=5",
+      "published": "2026-08-18T21:11:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump halts talks with Iran, signaling a new approach in the nearly 6-month war",
-      "summary": "Trump halts talks with Iran, signaling a new approach in the nearly 6-month war CNN",
+      "title": "Trump tries a new approach in Iran war: Disengage",
+      "summary": "Trump tries a new approach in Iran war: Disengage CNN",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbzZuOXMzb3Vwc0FxSTVoZXc2bTJuQ1ZRbmpsc09jS1RUeXBuemtQQ1dJRzlNNm5kQVA3c1BQb1BUS0Z1aXdENGt5M0pfSndsa25DQkJIcWlVekRYUTJXVU9mMzE2c2JhWXNQY0xBV3NRaUE?oc=5",
       "published": "2026-08-18T20:39:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
+      "summary": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYWVMTUFGSlBEY2tXR2M1YWVPcGdvWG1qak5GLXNjenVjV0dFa05IbzM3UEhMMjhVY29oQmpENGNwSTkxX0hlSU1oZm82eGlndzFEemVPeEkzbnBXMGdscTR5MlhuQTAwcnhNRklwbW5UZzBjS1RWRllTcTBzR28?oc=5",
+      "published": "2026-08-18T20:32:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+      "summary": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0h4RWJJR2E4bHNFMVdNM1ZHcDZGRWZSVmQyNHVEZ0VUN04wQ2Zma25oREpYREdQbHpiWjRXeWNqUjJyYndxZDJ3djhrbU1ueW1JS3JhRlR3V0pwWlRXd2I4WHNfMS1TbDVTd2lQS0lyeWROSmhLNmhnRGhSbDFnT2tubndGbDNtdkZjbw?oc=5",
+      "published": "2026-08-18T20:04:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,32 +83,20 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | The New Physics of Power",
-      "summary": "Opinion | The New Physics of Power The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbExCRWotTXRyQlVNZlBiaU9BSzhOQ1VfRE5rUUlyWmd3ZGswWUJkS2VDd1M4MXhTcnlHZlVUNVVnMmJ6MlQyX295OWp5YVJLUVNmNDY5UDJfd1dKUF8xZFVZQ215QXBzRmdtUzJzNFF2b3lZT2dsODlZeGVOM01IMnpsMEEweUtIRFdxeWpZbw?oc=5",
-      "published": "2026-08-18T19:31:56+00:00",
+      "title": "ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses",
+      "summary": "ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTlqeXFVTlJGLVdRZXp3VW51TU94VzFIU2FYdVIxdm4wUVdWS2hGZEZrTTR4V0ZiSk8tWjQzMDQ1X01PbW9kZkZ3WnM1YzRyRmphZnJnSVIwdTFqamllNmRiM1ZuWTJ3SHBERUR1SkpBU2ZWbVdoVGhVWjRISmdkYzZrd1Q4aXE2aGVkN2tRZ21RMTA?oc=5",
+      "published": "2026-08-18T19:49:36+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Retail giant Costco sets its sights on a new kind of product: Medicare Advantage",
-      "summary": "Retail giant Costco sets its sights on a new kind of product: Medicare Advantage CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUhaVV9BcWNfSl8zV1BoMUVMb1BlVjRwSGV1VmpsaDdiQnktQWxpc0lJaWRPZ0JZVFYweXJQMHNGV051ZHRYekNFb2l6aWduOVNpVzN4MDNLZGNNU09laXFjMFlycUJQSWZpRkU2NU9MdDBZaVR2akVNZkVXdlpWbFJlT2tuemVFX2VSelJSQ1Q2aVVWb0UwWEQ4ZE94VVljWVF2V3hn?oc=5",
-      "published": "2026-08-18T19:08:02+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House",
-      "summary": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House CNN",
+      "title": "Ossoff denounces Trump as ‘draft-dodging, crook president,’ intensifying White House feud",
+      "summary": "Ossoff denounces Trump as ‘draft-dodging, crook president,’ intensifying White House feud CNN",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
       "published": "2026-08-18T18:51:18+00:00",
       "beats": [
@@ -95,24 +119,36 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Rubio announces sanctions on ICC officials amid campaign to dismantle the court",
-      "summary": "Rubio announces sanctions on ICC officials amid campaign to dismantle the court CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWU1wTElhS1Q4a2VvTTU4Z1RIZjFRRGc2YWlmdHYyRjQ4RTY2MnFOZ0hyeEhYSnJkdGlFYmtSaTNnQkJ2TDNqeFFUaWNxT01nRkRBRzB3S0lCZjJlNzhLQlhsNlZtQWFkcmtZdWhxcERXNHlvVExZSkdqUm5wb2h3SHZDNEZldw?oc=5",
-      "published": "2026-08-18T17:53:01+00:00",
+      "title": "Iran has lost significant control of the Strait of Hormuz",
+      "summary": "Iran has lost significant control of the Strait of Hormuz CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UYmdZbW8tMm55Yzg4Z3VFeDFiWUk2TDNWWU13aVdKU2tSSmtOb3FMWnBaOWRxMW1tMUZna01vZnpZUXdMaDNKLVVVR1FOMTlrZm03V2JWeGVzR2VxY19QbkdCaFR6ckdhOVdFU05PWEhvMnc?oc=5",
+      "published": "2026-08-18T18:17:01+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "'Shrinking' star Jason Segel isn't afraid to share the 'dirty underneath'",
-      "summary": "'Shrinking' star Jason Segel isn't afraid to share the 'dirty underneath' NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtMHZFbnFlTnl3VnUxdlJoSTZaOEwzdkRzV2k4T2I2dEs2d0lQS012OUllR052ejREcnNGWXJpbjNWUzE5ck1oWWNzZmxocDdnYlg0cFhaemZQQzVTWHg1eVdjYjFSdFRDbU5SMmlxOHJFWEVf?oc=5",
-      "published": "2026-08-18T17:40:43+00:00",
+      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
+      "summary": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMG4xS2RTa0FyWENERFh0NGlySXRhUi1SelpnNmhYQmhzeEdpbjg4U05zMWh1VFl2amlqWFFJZnhZSWJoRFZpT1M4dEpONkN4VTVQbGR0NG1JaFVQTDR1Wjktb0d4ODliU1JUY0ZodzRXN053QWpTYUFOTVJfdi1ySnNlLTDSAYoBQVVfeXFMUFhjX1UtTk1vaWRTY2tpTWV2SWltVG8yeGYzbW5mYXpNajVWOEtWQ0c4aEJsbkNkVU1CYzlDUnhhV181N2ZPcFFNQ2lJdzNCSnQ1SnRNY0NlWEJ1a201OS1CUE83cHl2Y2NUUVg2MDVvQjJBZ0JDRkg4NHR5NVdHSDNsNzB0ZUtSNUpR?oc=5",
+      "published": "2026-08-18T18:05:05+00:00",
       "beats": [
-        "Politics"
+        "Business"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Good news for those living with HIV & currently taking a daily pill",
+      "summary": "Good news for those living with HIV & currently taking a daily pill Queerty",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHNJTGpiOEtTWDB1eVFwMHFGbWhkc21mS0lJWnN4WDFqWTBOQWw3WW4zWDRFVEQyS3RkdkpHdHY4cThlWFlqYWtxZTZVS0tpbWVkdTZuZkRxTkhHSWdxQW81XzcxSndIZHhFUGs0UXc4U3RiRnJldHZtWmdVckNvUXU3M3ZUVEVud0o1dVZpaGNYajRkZTJINTE0LWpod3Vv?oc=5",
+      "published": "2026-08-18T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -152,18 +188,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Bond yields are climbing. Here’s what that means for mortgages and other consumer borrowing",
-      "summary": "Bond yields are climbing. Here’s what that means for mortgages and other consumer borrowing CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0RiRExxR2t5ZXExSk41NEpoSjh6OWoyakE1N2ZCTlFPcGlHV0dranFhNG1ZcXhma1d3TmJuOTYxZ3ZYRnMycnNFSDFWT3ZEd2N4TUJVVzhReF9COFFwbFdFeUpHbzh1dk5WWnFyNXplWFdhTUZtTnE5Z0x1SVQxM2h0LXd3MVF0VDl1OERISGHSAZYBQVVfeXFMTmI3RUx1bDhWcUFtVkdET2JJNlA2OEhqUy10NzhZRjlmQXRYSElIVEM5WExKa1h2ODJiWWc0OGVGaFRqb3poczF2M01lcmpCSVdzellJOTRXVTJCNVo1TXpSOXhpMEFUeXNMaUdxY041a0VoTWw5ZjRtc2otck1LMHBxNURpc0c0QVUtUDFyeXNHVElUODBB?oc=5",
-      "published": "2026-08-18T16:58:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -171,18 +195,6 @@
       "summary": "‘High T’ Pete Hegseth hurls anti-trans slur at Iowa State Fair campaign stop while Iran war rages on Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzNZdDA0OUN4aHZ4d2wyd0FhdzV4bjF6bUR2MGxHeWowSWVERjFxQUZtWFBHNGJTTzJfdTl4WmtOM0dTWlVPdkR0VTNLNW9CS2NIcnI0ZDNLY0JjbFZibEhPTTR6bzRxV1F5cWgwUGxHR2t4MDNXWF9BbzFyVkFiRkEzdw?oc=5",
       "published": "2026-08-18T16:57:07+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Nancy Mace’s accidental lesbian tattoo is raising eyebrows across the internet",
-      "summary": "Nancy Mace’s accidental lesbian tattoo is raising eyebrows across the internet Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDhlV01jamx3ZFpwa1NMbmJibWR6ODB0LTRlUm9LQkJhRHMtWTg0V19Ga2ZVV3o0MEFyX0N6QWNLVGRXcWdSbTQ2LWprRnMxQVQwNjhoT2oteF9JOEt6S014YlV0OVJPcUFCSXJ4aHRZSzNvcG1FLVRPb2tQQTlDeEJ5VWNEZ1RQYUlZNmt3U21fLW1mVTdVV1FtZkhoUVVlRWdJSGlKOF92c0tkSk84Mw?oc=5",
-      "published": "2026-08-18T15:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -248,6 +260,18 @@
       ]
     },
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges",
+      "summary": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges EdSource",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZxUnJYdlc0VmFyREpvVWZqTXBRVGRTbzRpR3Axa1FldmZpMHpFRmtIVkRWTDhvVTNMTTdOaXRvWXRLSmZZRVRiLWhPWElycElibHVFMDQ5eUM2aHVCS3ZOMUgyV05CbV82NVVXanFIemNFZVhhRWdMdlAyOWVRUWpDcGlmX2RGUTRxYnEzbEIxUWc4V3pacHBmMFg4cW01ekRSMUk0R3AxdEdYeTNYcHBVMXBZMDlHMmtiMU9NQdIBxwFBVV95cUxQWWJ0YnpDeHRua0pDbXkya3Q5aU1USXJCSV82eVNxUFZqRXMwY3I4dExPMGpMTHBaSDRiNThwaXNHXy1BX2pkaGtUNDhVSHlfclMyalJhWFVUZUlkY2RsemVxS2UxSHMzX251MWZyNmNNdHpDNEEwMXdocm9SRFZYd2h4anRHQ1kwOGIxWlJTbDk5aXhjT1c3QWdwcTBoY2dCcFhqZ3VURGVEc1owakoyOFN4Tm1XSHU5Q3lRWm9GY2VueDNnZXZn?oc=5",
+      "published": "2026-08-18T10:01:08+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -272,16 +296,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Does this comment on your school report mean you’re more likely to be gay?",
-      "summary": "Does this comment on your school report mean you’re more likely to be gay? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORk90ZktWSnYtWURnVk8xN1liLTNzTF9ZNmludzRmMkdwUGNFUHZGLWJlQWhLZVNKdEE4UThLS1VUaThHU0czd3VwdjBuSzJCSVhmNWhkMkFPcGxXay1zNVBndXVTS3lRZ3QwYUdoOGtObW5xZVJXdnFEeEpNRDNabVM2SXZ5dmtXUmcydExUakhUQjJKdEVkbGx0OHRtd3VRU0FGdW1CVmU2QQ?oc=5",
-      "published": "2026-08-17T23:00:00+00:00",
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Marine veteran on challenges of multi-month deployment at sea: \"Your daily life is really limited\"",
+      "summary": "Marine veteran on challenges of multi-month deployment at sea: \"Your daily life is really limited\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVVuUThGdTI2VEFpdzhJZS1Vam9TZ2FyN2NRRmtZTFpWV2FPdGswQUVFUW1YaEpaOTVGYUM4cVpmYU53NllReTdYYmJuaGdGVXlkZTRYbTJyMmFibkJjTlIzNTB1VE1JZXNmN1J5bkpudU9ZWGVsbWNNd2FxV0NXTWt3bGk4NWFvWXFxRno4dw?oc=5",
+      "published": "2026-08-17T22:40:32+00:00",
       "beats": [
-        "Schools",
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -295,30 +318,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Video shows police arresting lesbian bar owner as she protests, \"We did nothing wrong!\"",
-      "summary": "Video shows police arresting lesbian bar owner as she protests, \"We did nothing wrong!\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajNhM3NHbVhIZFlFcC1hd3VJMHZXeUdoWVNUb0pmX0t5NEVSRWxhU09BRUxXRU44M2xxYlJ4NHZULVZNb1NyRjhtT0kyQ1FscXNkZHRaQlR5cTJ4RzI4dkNvXzc5QVlmbFlDTWszS2c2eWRMVGhuLWFGNFBOSDFPbTNDdmhEUVdORHd3Nm84cmJuVEhpSVU4V1dQaGFYNWpIOXh1OGJ1RnJSdTVZTVFXSTRrWFdXZDZnMVY2LQ?oc=5",
-      "published": "2026-08-17T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Why Is It So Hard to Build a Transformer?",
-      "summary": "Why Is It So Hard to Build a Transformer? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVhxejNhU3NlRmxrUmYxN0t2bkpiVXN1VWZnc2prQkhPeTUxbzRhTTZLQU50c2FrS3B4NHgyMUR1UEJHSFJUR1RGemoxT3ZiUFpnRHBnc0dSVFYxU2pDREJfZmlwNTZlaUljV1pzX01yQzZzS09VV3NUVEdNcWVmMEl4WnFkS0VEbTZINFZqX0g0eXV1ZjZBSA?oc=5",
-      "published": "2026-08-17T21:54:44+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -358,6 +357,18 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trans CIA analyst explains how Laura Loomer got her fired from her job briefing Trump officials",
+      "summary": "Trans CIA analyst explains how Laura Loomer got her fired from her job briefing Trump officials LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVY5cmtHQThhcTVYNkROZEMyMGN0YmdHX2lpVVR6Wm05ZzM1SHc0VmxLYXJVM2hxYlNrdFdtOFIxRUIzZkpRQlkxQ29GM3hlX3RqeERxU0tVZ1pvSkFOM1piZFRubTY5Y3FiYW5GN2toamc1VHktdzd6M3B6bG5pbmoweDJncWJpM0Yzb1hYTmM2MUtHbkQxWFlaZktrNnBmT0JvOFg3cWU1SlZOZVVqdEFwY1NqajJRYkk5WGNyVlB3TTFM?oc=5",
+      "published": "2026-08-17T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -367,19 +378,6 @@
       "published": "2026-08-17T19:16:14+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Gay principal says school board made up fake pedophilia allegations to fire him",
-      "summary": "Gay principal says school board made up fake pedophilia allegations to fire him LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazllY3RZcVpULXY0a3VrZDJ5QUxmRDZOYmtkd3JtaWxfWVNrWXE4UEtKSXVvM05QV3U5SzVQbUhtaEpGMzBoLTVIYnprdEp4LVk4NV93eXIwQ3RXT2Z0SWF3dHAtY2RzQVpJQlpCckZmWmxCRnpXRTRWYVNwcDZ5V2RveWhNYWdNV0R4bGJpLW9udUVHWTZ2WjNBek9xay1LSmJEckliVU0?oc=5",
-      "published": "2026-08-17T18:57:03+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
       ]
     }
   ]
