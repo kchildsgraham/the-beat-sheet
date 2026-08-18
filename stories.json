@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:06:17.156348+00:00",
+  "updated_at": "2026-08-18T10:55:47.068983+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,99 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+      "summary": "Russia says its economy is strong. It just fired a top economist who warned otherwise CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcTVKTXdMcmJ0REdKcEUwMTY3NDNocklwMktZMjNQbTd2X0VzTG04QzVTSWQ0eFBjenZsZTFfRzZ3WU1SN2J5NnJEdmh0M1gwS3EyRnJuQ2c4YUY1ekxhMUpuZlBFR3h6SXBzX1ZoWHNPeW9kNExHN0dRRdIBgAFBVV95cUxQOVZfTFNLVHRNXzl0dU9xTVg4VjdiSFBwZVQ0akZ1RjhkYlNrbkI5YkRvdldMYS1zS0N6VmpJUTdKd2VOMC0wTU5DTGVMczBua1JXQWd1N3RlWkhkSlVzMFFpZDh4dTc1Yml1bU1CYVNnV2owSnBGd0dEeXhKS2NGMg?oc=5",
+      "published": "2026-08-18T09:50:10+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+      "summary": "In Portland, this soap box derby combines downhill speed with extreme pageantry NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1FrUzIxQTVHeTFLSDZGb1ZVMUs5dTZwZktXRV9RUGVyWndVQVJHX3NWTlg1SkxJRFo3M3g3RkIyYkJJQVVkSnFCUmdfUjZEUHFDeEpta3M1VUhIdlViTGE0ajFDOHY2dXF1Qzg2VVdtYjZVQWUxYjhNd0dqWlAwQkx3bWdYNlEwZUdXaA?oc=5",
+      "published": "2026-08-18T09:30:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "FCC opens comment period on E-rate’s future",
-      "summary": "FCC opens comment period on E-rate’s future k12dive.com",
+      "summary": "FCC opens comment period on E-rate’s future K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2tjZ1ZxdVpmNmk0ZXpEOVNuTTVBLTRscUZGRXFlSTh1WW05RFExV0tEV0NyVVhKclFBYVVSbnJWSzRLMnFaU0dndDRPZmN3MGRvQlAzbTV1NU9DWmlHQVRFUV9XbndQcFMwbTc4WGlrRzJNTHpxdTV5VlhlcjBSQ0dxVXBtZw?oc=5",
       "published": "2026-08-18T09:03:26+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘One person kind of controls our fate’: Republicans confront growing midterm peril due to Iran war",
+      "summary": "‘One person kind of controls our fate’: Republicans confront growing midterm peril due to Iran war CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hbHdfNHVBRjJjQTJkR2xucHJobE9YM1FMNFpwXzY2TnpNaldlRFljVWR0LWRyVmY5a3pFdlA1dUVQd0FWelluRm05MXZRYXQwNVhGNFZoN3dyR3Y0NGotWUdsQmphV2pFM3RWWFozeGpFY2ZJOWVXaDVYLWpIZw?oc=5",
+      "published": "2026-08-18T09:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "summary": "She told no one about her agony except ChatGPT. What her death reveals about AI risks NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzRIY2luTW9qRzJPVGZiMy1KOFcwZjdRakpLUDA2bTdYaWoxMjdZdTRSeXZ6Uno4M0ltNngycElPOXM5SzNvUVpsX0ozSUFLQm91X3V4UWZtMWFmNWRQV1MtVDRGYzZVc3lnanRQbDFwN2hfS2tMRnFWbTEwOU8wdw?oc=5",
+      "published": "2026-08-18T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+      "summary": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure NPR",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV6TXZVZjNrcHRWbzZTTWZmRHJ3aXFsMXhwMWgwVklKb1RRMHhZdS1jS1l5YVlsVHhVWmwyaWFVOGdCUl8tNHg2UlNjdC1jRE02YnJhei1WUjlmdGZnLXNoMnk4cENKMG9nLUZ5Nm83TmZLTEMyS2pHalRWWktRWWhpZlkxZHhZRnc4Q3ZZZEFvZGZSY3lvdzhobWNFYlh0YlA1T1RjczlXc284?oc=5",
+      "published": "2026-08-18T09:00:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "China’s most famous comedian under investigation for joke about communist song",
+      "summary": "China’s most famous comedian under investigation for joke about communist song CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS1fa3g4RG5PWS13Z1BEUUtmcGVkOVRJUExLRnpic3JqdWF4ZjhDRXUxN2NwV1hRWnVTWVZKVTh1R2RZQmd1UDhmRXRKSkRtaVBETHhrbm4zN0NKZ3FfbXNxYVdNVDl2MDVmSEVuekJlRE44djZVdFlWaFZIcmNzU0o0UnYzZVhkQnZIOQ?oc=5",
+      "published": "2026-08-18T06:47:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US tourist dies after being struck by lightning while hiking Sicily’s Mount Etna",
+      "summary": "US tourist dies after being struck by lightning while hiking Sicily’s Mount Etna CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGNubVdFWGJhbl90ZG1HYkpfY24yMENpdWEzM3RVbWwyOTBjRTI4ZkNvdTVBT0U0TUtKUG8zOXBEdVFkN2hOb1pUQjlOcHpBVVpvU3hDWFdLZmctOWllTl9zZlZFc2lZQjdQamRrZElCWjRTY3pxYnJBWWxhcjNUQTVkYVJOeUNDanFfbmZwYw?oc=5",
+      "published": "2026-08-18T06:42:05+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -56,37 +140,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
-      "summary": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmNIbjN3eXVyMkpCaFZaMHg0NHNPQUhEQjM2QmNTTllUdFhENXNabXp0SGl6LUtodTE3WGFmN2FhaHVsbndwUTVIWXlVMjA3NTJ3MklSa1BPUS1mTFR5VjUyUzdfenpfWXNZZlM0S05SekstNlA2RDFoYjFjN1d2QkhhWFUtTFlYMDdLZEFjaWlhNWwzMTFTX2MtOWzSAaIBQVVfeXFMUHRPcHFyUW0ya1NIS241cXhCaXdmRl9QZ2JSWEJwUWYycXBXU0tpb2tFdFM3LXRBUXVIdkJJNUl6VmlDYVhNQjZxX2dOdWdYYXU0akx1QUlZY0JkVW1HeUc2c2tFZjN4bzZIUG55WlpXOERpOU0tbHVFWU9mNFJfcHpqZkRpWGU3QVVVVTFUZ1hkTmZNS3RyZ3dGNm04Wk55SWFB?oc=5",
-      "published": "2026-08-18T04:01:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump swings hard at Oman and South Korea, but his foreign policy misses are piling up",
-      "summary": "Trump swings hard at Oman and South Korea, but his foreign policy misses are piling up CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXg1Z3FBczRxeWF3b1dJTDhsOFE0VF94VWFJNGU1bTRXSjdJemcwbjBBV0JncmItSkJSODVtSnpsemJMOUVzU3FmZzdOWlZKRXhZTTc1LVJIa1NXLVhsNXhWVHFnaTlHbGFQTFI0cm5NTkN2STRHQjRLVkE1RlpXYjBoUl9QQnBDbnpKVW5zVXNVZw?oc=5",
-      "published": "2026-08-18T04:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Student and teen gunman dead in rare Philippines school shooting, officials say",
-      "summary": "Student and teen gunman dead in rare Philippines school shooting, officials say CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfaXl0Y29xai1VSlhOSXd0RzlSUDBBSTVfZTBuSjkwTUpSemxPb0NvRVJWUEJEUXhDMXdJMUJCZjZ3TWc2WWd4Z1hKYzk5MVo0TkNfd3p0YzBqSGlKanFZeU5KLUFHQXNLYVdSM2RXMHhYYlZndmJjeEVCYy0?oc=5",
-      "published": "2026-08-18T03:13:00+00:00",
+      "title": "1 Dead After Student Livestreams School Shooting in the Philippines",
+      "summary": "1 Dead After Student Livestreams School Shooting in the Philippines The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDNXRk1Xajc1d0VLejZmU0lUbXoyVzBZZDhoZmhlclRqR19iblh3RXE2TmlUVkRldU05ZkdEWm80a3hfRG9aTlktM2VVcUhiOVN5V0toQUdyTnZlZFFRWnUwYTlaS0RjcUQ2RUljeENwbXNRS2VEdFF0ckZUM3RBZlZ2RmxRZFNVaDJyaTJCSTJSNXBka0x4Uw?oc=5",
+      "published": "2026-08-18T04:56:57+00:00",
       "beats": [
         "Schools"
       ]
@@ -95,22 +155,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Hayden Panettiere Is Dead: Star of ‘Remember the Titans’ and ‘Heroes’ Was 36",
-      "summary": "Hayden Panettiere Is Dead: Star of ‘Remember the Titans’ and ‘Heroes’ Was 36 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzR6ak14NUFEVDZJZ1M2UnFISXJ5Ymx4ZWg3TllRa1NpQVJscnVYVm9BYjJ2eHVlM2tLSHNvY2VSV3dldkhxZkVCRnc1RWVnb3VtQkRPX0xyT0J1N3F3dWRPbWF5Y1NURWE0dHNSX1VYaHhOMFdTVEpNOUJUcWtKSjBYaEE?oc=5",
-      "published": "2026-08-18T02:16:24+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Pennsylvania cocaine trafficking case has ties to 2 fraternities",
-      "summary": "Pennsylvania cocaine trafficking case has ties to 2 fraternities CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDlMZTJNbFZiQkI1S2dVaXNEQ0NmbzBPaVhscXFnNDU5ZzZ3anZLRkRtSE1yUjVsblVIQVl6Ul9wemFBbFZ0anhycGxodUhWSFFqcEpZV1U2NVlFRmNuT2FDWVktMXR3XzZuSlRwakM3QlZWc0p3c0VkMnBCMTBOQUFlNTh2cXNUSWc?oc=5",
-      "published": "2026-08-18T01:14:00+00:00",
+      "title": "Zambia Says President Won Re-election After Tumultuous Campaign",
+      "summary": "Zambia Says President Won Re-election After Tumultuous Campaign The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFd1ZlZiS0J3ZmtyekJEb3RGRkJVZHBhREduTDZKM0lfRnBLdF9lOXcyajRlSHpiazZfdXo0VktwQWoxRWI3RGc3TVY5enZpMUZvaVVrbjVWMU9tOGR2NmhFTzNnYVZ2X0ROTTl3bExPZU1RazJ5dGlvSmhwaU9aOWktM28?oc=5",
+      "published": "2026-08-18T02:21:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,28 +188,29 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Does this comment on your school report mean you’re more likely to be gay?",
+      "summary": "Does this comment on your school report mean you’re more likely to be gay? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORk90ZktWSnYtWURnVk8xN1liLTNzTF9ZNmludzRmMkdwUGNFUHZGLWJlQWhLZVNKdEE4UThLS1VUaThHU0czd3VwdjBuSzJCSVhmNWhkMkFPcGxXay1zNVBndXVTS3lRZ3QwYUdoOGtObW5xZVJXdnFEeEpNRDNabVM2SXZ5dmtXUmcydExUakhUQjJKdEVkbGx0OHRtd3VRU0FGdW1CVmU2QQ?oc=5",
+      "published": "2026-08-17T23:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Ten Commandments law appealed to Supreme Court",
-      "summary": "Ten Commandments law appealed to Supreme Court k12dive.com",
+      "summary": "Ten Commandments law appealed to Supreme Court K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMUN6XzVrb1NXODhRaXQ2c2paNUF0ZDVhVWRoMkhza2tsODRtLS1zMTdTOUVyMW16cmdES3lPMEVWbzFJZy1Ra2xFY0hzby1ZQ21EZkVLdHluV25STnRFelByY0NueFI1dVdRMDFMOVFKRExEUXJkR3BLN3hLMFVhWTdnZndha1FGWE1v?oc=5",
       "published": "2026-08-17T22:25:00+00:00",
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
-      "summary": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing NPR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWJrbGlOamZZbFU5ZHpPSEZFRGNvUUFvZWJjTjJvek4yZ09YTjlPMjNXZWxIT3hDZHlxVmthMDFaZDRxM2dkdnFDUDlTRmZGV0JtUkZYVWNXYkpuX1RxUDJVY1ZYOEl4TzVuSlBTc29tX0ZPT3dLTnhwbzRwQld0LVd2VjB2TUVYLUxUY0d6MHVqejU2Uzg4WDRkbw?oc=5",
-      "published": "2026-08-17T21:01:54+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -189,13 +238,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
-      "summary": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVI3WURJMWoyUkdpX3lmR2NvSTBmNkxIWHEzR3FaYVhaT2doSUs3cTc3clAtbGdSRENMdmxrSlIwSU5ydmdKa0U0UHFYMVJsTlFQV3BPM0laVVA3N1J6T3dWUmxLTnM3Zy1NQy1BV1BnRWxoeDZOSFVOUHdrUWVjUkZEMENKbFdmNUkw?oc=5",
-      "published": "2026-08-17T19:53:37+00:00",
+      "title": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran",
+      "summary": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUlydHRybjBqaUhIeC01Sld1cUpGVEJmbU5MRE9ydEdKVUNfOGQzQm4zN0o3TDZWSi1aaUZHM0tUYnJ1NTlBbk5rdzlQaHIyemtDbkZtdTNhWHVIQm5aRURudXpyTG1id2pFVzdUVW5NX3ZSOUVrUW0zOURoamJUU0xqOVFSWndYc0lsRjNn?oc=5",
+      "published": "2026-08-17T20:10:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -239,6 +288,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Penn State frat brothers charged with running cocaine trafficking ring",
+      "summary": "Penn State frat brothers charged with running cocaine trafficking ring CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenYyOXlhM3dyQzhWUjZNUkhlVHdvZ1RPQzluemlZYXpxSmd5a09DeW4xTXE5X1FSNlNrbFR6Zm1YNkw0OWxUYVdvbjg4UWdqM21XLV9VMDR4bjR1QnJ3WkJlajMxZDUxZFJnWUFaTE1MR0FhbURtOXM4Sy12SWdBTEk1UVU0Tk9xYkRhaU9aY0I?oc=5",
+      "published": "2026-08-17T17:17:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -263,11 +324,23 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Why a ‘Blunt Force’ Approach to Screen Time May Be Problematic",
+      "summary": "Why a ‘Blunt Force’ Approach to Screen Time May Be Problematic Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHNTNEM0eVhjWHYxb2ZITkNYRERzY19UNjhlaFpLU25HUjRqTjM4YXZqYUpzZHVxcDdZUWRMak96amh4Wm1jRUkzLTBvdUlQMDNJODJNcHktbXJrMmFfZ1JHSXBrcXAzVVN0MzdaYW9ZdVlXc3pLUWRqam90dXlrS1ZzVVJJV1JwN0VzMGJOUFBvbTc3QTV5NkxzQjM5NlBvOWduUg?oc=5",
+      "published": "2026-08-17T16:49:59+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Week In Review: Unions sue over ‘professional’ degrees",
-      "summary": "Week In Review: Unions sue over ‘professional’ degrees k12dive.com",
+      "summary": "Week In Review: Unions sue over ‘professional’ degrees K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zR1ZsZkhnRm56OWxycGp4ZEhNRzN4c0puYVBzNzVTRkhQLXZ1WlFQUzRaZnZZaUgyek1pdUU5cUhCZzhSR2F3MFluSDgxYnJlZ0w3QXNSXzNOWEYwbmkxMWhXYmFhWmxMOTVhcy1MM1ZZYTZN?oc=5",
       "published": "2026-08-17T16:25:01+00:00",
       "beats": [
@@ -289,18 +362,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Sen. Mark Kelly says USS Lincoln sailors ‘can’t get basic needs met’",
-      "summary": "Sen. Mark Kelly says USS Lincoln sailors ‘can’t get basic needs met’ NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUZwT0xxUTdfejlETHpNQlJuTjNyMVRHRThjOXJVRUdMTEE5cjViN2t0R1NwZUpZV1pKeXJaRWVNLWJsekEwb21nd2djc3NWLXhZcURpRmc1RUhpTlU1RVgxcnFFVC1HaU9ORzJSZnk0Y2JjT2FSV2U5QmRXQkJoTEJNV0thRjdjeWU1NlNnTzRyN2kw?oc=5",
-      "published": "2026-08-17T10:49:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -313,18 +374,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything.",
-      "summary": "Opinion | I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFBRGRqenpIa2ZLNnRiUG1fbGZNU3I1NGNSRlZ0RWQybVZibWNZY2doYlNFbFB1T244U0ZjZzhOQkVGSEVOdzA3dnRHbzg4TGdaY1RPc2t3Ykc0bk1id3daVFQyNlRkX2hocm9SMDRNbU9XNzJMMWhQUUhHNzJ3V19rYUM?oc=5",
-      "published": "2026-08-17T09:01:56+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -334,54 +383,6 @@
       "published": "2026-08-17T07:21:57+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’",
-      "summary": "I bet literacy reform can work in California — if we train teachers in ‘the science of reading’ EdSource",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LY1l6c2hCLTczN091WTMycGJyTXc0UGxWSUJIT2ppN2trd1JFdUI4TFl0bjY2VUZUTlAxQ0RCcnQ3MUVCTnh1YkkxQzRYNGRVbWh4ZlJ1Y1dFTTJucXZwOUVxU2szUW40VGpHeHNzbVFtMlRVNlF3aE5CWjlMZ1HSAYcBQVVfeXFMTUZvc0cxYncteEoxU0VrQ2wwY2xSeWxkSG5DQkRUOEpLUWtHYzhLZUlfVWRQNXNRWnJUdlIyWC0wYTFsSTVtT3ByUHdPVUtxVFJmbEFCdmt2TVU3a1FEZkV1bW9KbGxzVG9jbVZudUNXb3BVRHotMTB2cjF2Z25XVDBLYVhPUnE4?oc=5",
-      "published": "2026-08-17T07:07:50+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Actress Hayden Panettiere dies at 36",
-      "summary": "Actress Hayden Panettiere dies at 36 NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHFTUFpsdW02X25zQWpFdklEdk1nWVp5SzEwRjdnaGd6SmwtS3diNl9OUWJ1LXVlWldqUmNvUlIyTjNJaW1pdmFpcUd0OFRQRTBFLW5tYU5vYXJRbzBFRmNHeENlQ19KT2dEWUxUMF9mNms4dzhqQzVlaVlFLXZ2aWkzZERwdw?oc=5",
-      "published": "2026-08-17T04:31:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Denver Jewish Community Center supports new parents with opening of free baby supply closet",
-      "summary": "Denver Jewish Community Center supports new parents with opening of free baby supply closet CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkxKdTVIRDk4b1pETVdabFhVSlFXOUl2WVNCc2JkTHdVaHdxaTBlblBVSXVFT2dybHU0WEZtMlI1NW44LW93enp1NS12cFVINnNUdk5QbGFjX2RZNlFHSXJCLXFfUmdlOVU1R2VlQVpMaEh6aWZ3czh6OVlydXpPZUFoaFJ4OGE3VFVyb2lWMUJSMF9URW9sTw?oc=5",
-      "published": "2026-08-17T00:41:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig",
-      "summary": "Airport chair-ography, Michael Doherty’s hose, & Bev’s blowOUT wig Queerty",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV5OXEtVG5wbnV0OUhCOFZqOU5KYldtb08xdXg4WWs1eTdIeGFpZG9LdDVDakRxNW9ac0FBZ29aUkpBRkpxX3RELUstMklEalFKcGMwY1N4ckZFRy0xTjZXWUhwWFJhT01jdzlDZHllZnhMeDZpamtta1AwNWR0bVJ5dVpTVDF6cXUwb2p6Ymh5Z0dMVnZPam5R?oc=5",
-      "published": "2026-08-16T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
