@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:58:08.454332+00:00",
+  "updated_at": "2026-08-18T17:03:36.398872+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,63 @@
   "errors": [],
   "stories": [
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "FCC opens comment period on E-rate’s future",
-      "summary": "FCC opens comment period on E-rate’s future K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2tjZ1ZxdVpmNmk0ZXpEOVNuTTVBLTRscUZGRXFlSTh1WW05RFExV0tEV0NyVVhKclFBYVVSbnJWSzRLMnFaU0dndDRPZmN3MGRvQlAzbTV1NU9DWmlHQVRFUV9XbndQcFMwbTc4WGlrRzJNTHpxdTV5VlhlcjBSQ0dxVXBtZw?oc=5",
-      "published": "2026-08-18T13:30:00+00:00",
+      "title": "San Diego Padres staffer in ICE custody after arrest at Texas airport",
+      "summary": "San Diego Padres staffer in ICE custody after arrest at Texas airport CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84UjBBN0ZFNm04MHBXdTNLeUIwSW9lR01QVFNsZ3FpRUpCejdBbFRTVHZBaDdSWmJzZ1NLM1loS1p5UmlnWlR5cGtCRzdtdEpuaVlIbmxUdEY2NFhqNVVVdklOLUdtb0ZtbHl5UTFQZmdIMnFsRlNr?oc=5",
+      "published": "2026-08-18T15:40:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+      "summary": "S. Korea stresses US alliance amid confusion over Trump drill cut NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0hHcURzLTMtaWtPNTNVV3Bzanp0ekxlMFpTQXJYZ2VTbGozaDFnOGYzOTgzSzZxUzFGd3Bvb3c4aUlObGJZaDREVTRVeGNFdl9Jc3NiUTBfb1BkakRkRko5M1cwWTZYdTBvTWI4Z1Y3RW9pWEJhU2R0WTZBSjlobGstcldGOC1scUwtZlRjYTVxSV9NMnl6cVU0Wm05MTluWnVKZjBxZUJUd3c?oc=5",
+      "published": "2026-08-18T15:19:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Nancy Mace’s accidental lesbian tattoo is raising eyebrows across the internet",
+      "summary": "Nancy Mace’s accidental lesbian tattoo is raising eyebrows across the internet Queerty",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDhlV01jamx3ZFpwa1NMbmJibWR6ODB0LTRlUm9LQkJhRHMtWTg0V19Ga2ZVV3o0MEFyX0N6QWNLVGRXcWdSbTQ2LWprRnMxQVQwNjhoT2oteF9JOEt6S014YlV0OVJPcUFCSXJ4aHRZSzNvcG1FLVRPb2tQQTlDeEJ5VWNEZ1RQYUlZNmt3U21fLW1mVTdVV1FtZkhoUVVlRWdJSGlKOF92c0tkSk84Mw?oc=5",
+      "published": "2026-08-18T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Judge rules FBI can’t abandon Biden-era plan to relocate headquarters to Maryland",
+      "summary": "Judge rules FBI can’t abandon Biden-era plan to relocate headquarters to Maryland CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUNLMDZPWkxLTEpEOWk5djJ0T0JfOUxxOWtndEFielFHSm9DWjBDTGt5SkcxeVJldC1aa0NIVkJ6UklZOEJnQ1I0aGdsMUlDMkZzTjJaUF8tMXFWU1g5LWZXZ3dsNTBMSkVXTUJubHFsUGtFX3FqQW56UWtGRjNQOXUxd3VfOFhCdWVOUTFZamJnUQ?oc=5",
+      "published": "2026-08-18T13:40:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Primary election season rolls into Alaska, Florida and Wyoming",
+      "summary": "Primary election season rolls into Alaska, Florida and Wyoming CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmtJVHpMV2E3NUhjVmZmZGJIalh3R0tOTzZIQ25GMGdJVnpQQ1VqV3VEaHlVaEdSZl9oSEJNeHdsSjBBMGVTemZXNXZFaUZHQUNwWWRYdVVlMDRTbjZZTERIekJ4YVkya09qekZoRTRnbnJjVVBabzNjWDVNSV9XVk4xM3JNNWFvRXp5VlNSbw?oc=5",
+      "published": "2026-08-18T13:34:30+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -47,12 +95,12 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Google is buying all of Spirit Airlines’ data to feed its AI models | CNN Business",
-      "summary": "Google is buying all of Spirit Airlines’ data to feed its AI models | CNN Business CNN",
+      "title": "Google is buying all of Spirit Airlines’ data to feed its AI models",
+      "summary": "Google is buying all of Spirit Airlines’ data to feed its AI models CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15SktKM2stNHFPNnl2OG84cHk5TTBaeHRtSnllOE4wLXV4ejdZNy1vZ0ZxNFJVa29lWUVEa29UX1ZGRWtaNjVDUmRaZ3g2Q1V2ckZkX3VIc0lhRnlXMWJhY2hjUVBQakZFN1EyQkVvZ2pVMWRZY1E?oc=5",
-      "published": "2026-08-18T13:09:38+00:00",
+      "published": "2026-08-18T13:08:44+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -63,18 +111,6 @@
       "summary": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United CNBC",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwcEtzQjRRZUpPSmNyMVI0TFVrZnNjQVZRdVg3V1hha2RDc0lCUzNFSjFjQ1BELXo4U1BfcnNwQWVSOVJJTW5EUTkzM2ZGaEd3aU9Ebi1OSERhUGNfcUhCcUphOUotdEliYS1SZ1daWUtIaGJxRERoVGhYRdIBgAFBVV95cUxOLUFRVlBvSjlKRG9URWpuWnVpUVgxWGFqRE50dU5zbnBFU0RuVVZwN3lwR1NOZHZPQjZzR3BxRDhmWEhYbDZ1dFBBejNGYkN3QUVxOVZ0YVgwMkt5anJfT0xUX1BVTkZGcTh6eGxIUm1TYXplUXN3cjhwbWVQa25iYQ?oc=5",
       "published": "2026-08-18T13:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Disney sues Trump’s FCC over ‘retaliatory campaign’ against ABC",
-      "summary": "Disney sues Trump’s FCC over ‘retaliatory campaign’ against ABC CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbG5DR1hPcV9ZWWVPcUxZQWdWV0NaSXV4UTdza1FnWmJGOVpFMXlONERubUlqS1NPTjNFaE5Ib2VTYm5sdUp3bTV4anBncjc1a0stbXRES3ZZaDhpNzRoUVhyd29TdUw2X3k3c1NLbThpNWQ3YnRUVml5cjBCaHRqbk50dkVCYXlSWlZQX0RSMA?oc=5",
-      "published": "2026-08-18T12:17:31+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,18 +128,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn",
-      "summary": "'Worrisome': AI is driving a looming market correction, European central bank economists warn CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xbVRBdlNrTkdsNEU3bWtMMWxmN3d0a0oyOWpBaFJtYV9TaXZvb2htSVdObVZ5eWs3YmxrWGVvbU9MclJBS0UyYjBlREpPQmhpNW5JbmhFMDZmUHpXbHI1bjhMejV3MkRabHRiRGVTeFJmYUxyZnBvVDFwc2nSAYIBQVVfeXFMUEp3Y0tlNzlTZ1RpYmVEUndHRkxPMklEZnBUNHBvWmdfZ2QyNC16b2pJZFp0MUhyVFhzUnhwMWVGX3ZwMXlrcGxjT0xSaW5RNG4waWoyWnRUVnhSS0d6dXlJaDZJcUZSdDNuTkxad1U1SW8zNG45Nm1uaDBGYUtxVUVWZw?oc=5",
-      "published": "2026-08-18T12:07:05+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -111,18 +135,6 @@
       "summary": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries NPR",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2VEekdSdFEzcHRlN2dJQ3M3czM3MzdFdExjS1FpTnRDSG51VGZELTNwNi1tT2JtSXBGR2RMZExqYUJjZ0RXLWZRSG5MYVdzYUw4VUhHeE5hMlhRU21lVnNKNzItV1NUSm9KbUVxeUM0ZHY5dU9IdzFmc0dWWE0yQ2FvNWNrRURoR1B5emMwV3pQUkljdHBlLWo5a2NLM0RGa2RFUjJOclh3SDExcHJHWTgxRVB0TmRwbVNSNy0tQnRVdFhIYXA4NjBudHE1MmxEaklPNVZRWTk?oc=5",
       "published": "2026-08-18T11:40:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety",
-      "summary": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oUGRmRnEwRkQzS1RQSldaRi11S1ZOZDQtMldTMnpLTkFScTlRYkRLN216cFZ6UnBfdTJBUWp0dWxBd3pmOFNqYmxBckhUNU03ZTRQUkFsalNoYXBydTdhYXdMaHlQd1Q2VXNGMg?oc=5",
-      "published": "2026-08-18T11:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -149,18 +161,6 @@
       "published": "2026-08-18T09:00:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-      "summary": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure NPR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV6TXZVZjNrcHRWbzZTTWZmRHJ3aXFsMXhwMWgwVklKb1RRMHhZdS1jS1l5YVlsVHhVWmwyaWFVOGdCUl8tNHg2UlNjdC1jRE02YnJhei1WUjlmdGZnLXNoMnk4cENKMG9nLUZ5Nm83TmZLTEMyS2pHalRWWktRWWhpZlkxZHhZRnc4Q3ZZZEFvZGZSY3lvdzhobWNFYlh0YlA1T1RjczlXc284?oc=5",
-      "published": "2026-08-18T09:00:00+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -201,19 +201,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Ten Commandments law appealed to Supreme Court",
-      "summary": "Ten Commandments law appealed to Supreme Court K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMUN6XzVrb1NXODhRaXQ2c2paNUF0ZDVhVWRoMkhza2tsODRtLS1zMTdTOUVyMW16cmdES3lPMEVWbzFJZy1Ra2xFY0hzby1ZQ21EZkVLdHluV25STnRFelByY0NueFI1dVdRMDFMOVFKRExEUXJkR3BLN3hLMFVhWTdnZndha1FGWE1v?oc=5",
-      "published": "2026-08-17T22:25:00+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -229,8 +216,20 @@
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
+      "title": "How Teaching Handwriting Supports Brain Development (Opinion)",
+      "summary": "How Teaching Handwriting Supports Brain Development (Opinion) edweek.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVlJbzVzLVJ3RlBuYzgzc3JJMHFVMndTTWN5WmNGWlJxeTI2eC1TZVVLdC1vTEd1X3A5dzVGTGVPYzJOcmN6S0lEeUwtbUYtMHItQ2NkZ1htNzZrUzQ2NE1WNjA0STRIS3hwQ0had2kzY2t0Uy0wTzZTVFVSU3ZmXzVSbnpoMmJQaldKQ2t4NE05NEVPWXgwRE5XV2Etd0R3Sm5RTjdhZFotZFFY?oc=5",
+      "published": "2026-08-17T20:51:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
       "title": "The Most Pressing Problems Schools Count on SEL to Address",
-      "summary": "The Most Pressing Problems Schools Count on SEL to Address Education Week",
+      "summary": "The Most Pressing Problems Schools Count on SEL to Address edweek.org",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQlc0WmIzS1FPanF4R2RDNl9GaDY0eDVfWkdhY191bFBTWDYyVUVxMzB1b0pxeG9VaHZnWEtqdjBZRWpJZlZQbHpNOHpWU1UwMUxyWlpaR1RnUHc1NHhVY0NKYV8zaDFCemFRUWVqZUdIOW1KTm9sMG1Va1k0YS16N05iUXhzV1VBVnNoTEx5d0lfWkdGVWRKMzV4MlhxT2dzYmc?oc=5",
       "published": "2026-08-17T20:51:47+00:00",
       "beats": [
@@ -329,35 +328,10 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Defense Dept. Schools Put New Emphasis on Western Civilization, Christianity",
-      "summary": "Defense Dept. Schools Put New Emphasis on Western Civilization, Christianity Education Week",
+      "summary": "Defense Dept. Schools Put New Emphasis on Western Civilization, Christianity edweek.org",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkFtUDk2TzVTc3p6SHlWeENpUjVZREppMm9IYVdxVnJtQU96bnpleGhpUF93Q3B1WmZ1MXE4YXhxdkVxVEdEUGcyNHRzX2MtQ2ZQOHpjNmY0MDlxUGh1VGxvSzdiWGh0SHFuTGZxU0FBMDFySXVCanRiOEUwVzk4TFljWmFJWElQNWhBM21hclVVUWM3MXdUX0ZNaXZfYUxyczZ0YlkyRVNNUlg1UnFXcElZWi1ONU9tZTJZNjJlU0M?oc=5",
       "published": "2026-08-17T17:01:58+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Why a ‘Blunt Force’ Approach to Screen Time May Be Problematic",
-      "summary": "Why a ‘Blunt Force’ Approach to Screen Time May Be Problematic Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHNTNEM0eVhjWHYxb2ZITkNYRERzY19UNjhlaFpLU25HUjRqTjM4YXZqYUpzZHVxcDdZUWRMak96amh4Wm1jRUkzLTBvdUlQMDNJODJNcHktbXJrMmFfZ1JHSXBrcXAzVVN0MzdaYW9ZdVlXc3pLUWRqam90dXlrS1ZzVVJJV1JwN0VzMGJOUFBvbTc3QTV5NkxzQjM5NlBvOWduUg?oc=5",
-      "published": "2026-08-17T16:49:59+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: Unions sue over ‘professional’ degrees",
-      "summary": "Week In Review: Unions sue over ‘professional’ degrees K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zR1ZsZkhnRm56OWxycGp4ZEhNRzN4c0puYVBzNzVTRkhQLXZ1WlFQUzRaZnZZaUgyek1pdUU5cUhCZzhSR2F3MFluSDgxYnJlZ0w3QXNSXzNOWEYwbmkxMWhXYmFhWmxMOTVhcy1MM1ZZYTZN?oc=5",
-      "published": "2026-08-17T16:25:01+00:00",
-      "beats": [
-        "Business",
         "Schools"
       ]
     },
@@ -384,6 +358,30 @@
       "published": "2026-08-17T15:07:31+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "In Ellensburg, Wash., Building a Home to Live for a Long Time",
+      "summary": "In Ellensburg, Wash., Building a Home to Live for a Long Time The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTERVb2w4aHRDSmRtWjY2WlJTOS1vbFhUUzFZT1g5OEZVaVJDekJqQ0RtVVZmdUxlQm45dzhYUzhpU2ZadE1TcUtGenQwOHo2N0oxcFdwRVFad053cTRCTldmVmgwSEp3RlIyRFhLYWJ1SVk0STEyU29VMVE2T19mZ2FUdHhHcVl2c1JMZg?oc=5",
+      "published": "2026-08-17T09:03:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Fresno Unified shrinks budget gap to start school year, but tough decisions remain",
+      "summary": "Fresno Unified shrinks budget gap to start school year, but tough decisions remain EdSource",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGpQU0hLWUJvbkNRWVVwTkNIRGZ3QUxGdjUxVFlZMDZaeDdWekF4ZUlDOGtRLW5mNG83WUFGazR2MlJNVTBXdTZseDQzbUowOFpNODlzdlBtYVltMUNyVkF4eEFEMS1nblJVZnA1OVpHNUxWVm5FX2t6eXMtZm0wRmVjbDVVclAzdFhpMkl0Mld2dUNHSWZtSFRsd2FEYzNL0gGoAUFVX3lxTE1ROHBHVktqbGJtWE1Yd1ZZaUNBUUtmOHpEYWN5eFpremJzWjFURU5vcXNDQnRkRGNwXzJ1aFRXVW9IWW1FVUNXNmRXLUNNS2h1ajNlaEQ2cDlFcnoyUzFYOVJxOFA2TXF5TlV2WFFiQzc0TTVoc29CTDFLMkRKSW81WjJ3VUgtTFRMMmhiMXBrSkhNUDhMZjctRno4VGVvcU5OdGFub3BmMA?oc=5",
+      "published": "2026-08-17T07:21:57+00:00",
+      "beats": [
+        "Schools"
       ]
     }
   ]
