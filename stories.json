@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:32:27.691997+00:00",
+  "updated_at": "2026-08-19T22:26:21.528739+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,47 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Duke and Duchess of Sussex to move back to Britain",
+      "summary": "Duke and Duchess of Sussex to move back to Britain CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUNmZzNhdVBOdXo1ZV9fdEM2aEFwSi1CVnFFUTFQN2tBWjdWQjhVaW5FcG5FYVlxVnFaSTBqRURZVXN1TE5yS00zSkV5aGZFei0yUk1sam1MVWtwZlFsV1k3ZmoxUklXMTZuZE16WVZONng3b09DRWtMbmNORGtGUkNXdXJ4WnZxb19tZQ?oc=5",
+      "published": "2026-08-19T21:29:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+      "summary": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGYzUi1laHEtRmkwZjhndkpRYXVqeFg4OWtfTWFWb2ItLWZMXzAwSWdSNVRqS3VLNVhNQnVMUnB3MDhIQ211c2ZUOFZtZUtYUnZ0UnctQWFjNElyWndGT1hFUUxYTllLelV0aFZWcllQQWFJOWVhQURPS28tQXJxWG8ySUZmb3hMN3c?oc=5",
+      "published": "2026-08-19T21:27:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+      "summary": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5",
+      "published": "2026-08-19T21:20:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "U.S. government debt passes $40 trillion mark for the first time",
-      "summary": "U.S. government debt passes $40 trillion mark for the first time CNBC",
+      "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+      "summary": "U.S. government debt passes $40 trillion, more than doubling in a decade CNBC",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0syUURsd25oZ1hkM0FkZ1NoMW1tU19ZUVlHOE5rWkNjcWxvczZYb01sNVZ1VnRySzFwa2pGcUF0RFBhc0tGUW1jb0ZsZGI1U0pVQzBLNVpxLXNtY2tyQ0NtT0ZDQ0NyZ2Nsc3JINUdDY3dqdjBzcmJ4aFFISTEyZ0dfd0RmTm1vWnpPSE9OMTB5aUxPMjJjdGg3OVlVNGfSAaQBQVVfeXFMTzFOcEFsaUU0N1FsaXVmUzZOWURqdkY0Mmg3YWMwZ3lUdTFKRm1zdkJySGRkcndpQjNjeEg3eXpENTJWdmZXOVhyanFCOHBfNVVCVlY3dmZrTWUtYWhCY096czRJSGdTY3pCcm9VNVhEVWFQdXpRbUpvSzJ5UFVVWDZ5NklSUC1vSW95TVB5a0RmVmQtRktvMFdwR3NKeU5rdi1ZUXc?oc=5",
       "published": "2026-08-19T20:35:07+00:00",
       "beats": [
@@ -47,22 +83,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "National debt reaches grim $40 trillion milestone. Here’s why that matters | CNN Business",
-      "summary": "National debt reaches grim $40 trillion milestone. Here’s why that matters | CNN Business CNN",
+      "title": "National debt reaches grim $40 trillion milestone. Here’s why that matters",
+      "summary": "National debt reaches grim $40 trillion milestone. Here’s why that matters CNN",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHNXZmZtd1lmeHg5S0dfY1Fjd1NjaEdsRUNzdDBCY29zN19YcU9fSmY5U184VmRNOWF3bVBXTWJnT1dhUTIwbnVhSUlUb1I3dG5rS3BJMUlsajlVQzN4ekVuWDZKdHhycTFfdmoyb1UtbFpHWkZpbFViOTR6R0FWQmE0cjg0dW1k?oc=5",
-      "published": "2026-08-19T20:12:17+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
-      "summary": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T. npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC1BVWNwSHZMeGd6SDI3OE5QejYxUWF5aHpSbEtwV3UyMXJLNkxkSE5tQkRkMU5DT2NwaUpOWmVzU3JVclpVSGpORFBSMDFyTmN3Yk5QMzNOVFV2Y25MUzBZQXJoVVdkWlVzNWhGd3RieFV4MFBRQXFlcGlyTTFqMHdYQko4T1dEMFRVeGJDUmU2eFlHbENvS3VlOHZqUTdiSzZ4LUIwZzB6YlE?oc=5",
-      "published": "2026-08-19T20:09:39+00:00",
+      "published": "2026-08-19T20:11:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,10 +95,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-      "summary": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records npr.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1g4bm1LbUZJdXdnRE1Rei1rdjlYMExmSERyUmNRLVRvTVRlRkxVRDRzXzVRRERncDZNYTRsLURRLVFsQ2ZRMWxUaENyaXFjU0NZOFFaVFRPS0lkWW5RaTg0Z2piZW95OHpsRkhLUFpES1dxLVlLX1NrdU4wa25SZDFzUVVscVlxVmxfTw?oc=5",
-      "published": "2026-08-19T19:45:11+00:00",
+      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+      "summary": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T. NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC1BVWNwSHZMeGd6SDI3OE5QejYxUWF5aHpSbEtwV3UyMXJLNkxkSE5tQkRkMU5DT2NwaUpOWmVzU3JVclpVSGpORFBSMDFyTmN3Yk5QMzNOVFV2Y25MUzBZQXJoVVdkWlVzNWhGd3RieFV4MFBRQXFlcGlyTTFqMHdYQko4T1dEMFRVeGJDUmU2eFlHbENvS3VlOHZqUTdiSzZ4LUIwZzB6YlE?oc=5",
+      "published": "2026-08-19T20:09:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,30 +128,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Lindsay Clancy trial ends earlier than expected \"due to unforeseen circumstances\"",
-      "summary": "Lindsay Clancy trial ends earlier than expected \"due to unforeseen circumstances\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzZUZFdOVGdraDMxWlV0aDB0eDQ3cjRMc1VweXpGZUM2Q25fRjd5SkwtUE5EbElWVGJuOFp1dDRZaWVwQ3hlTHo1T0ttNzZSUUZqeGctMk9EUGpKR3FST3VVek5wZDZFTGxCLURkOHlGdWVwLXlvX3JFSm9oWTdwag?oc=5",
-      "published": "2026-08-19T18:48:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US airman arrested at Capitol after calling for Trump’s impeachment is detained again",
-      "summary": "US airman arrested at Capitol after calling for Trump’s impeachment is detained again CNN",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc25mYUYtRlk2TjQyMGVEY0JiN1BHRDAxWUZkc3dKckZlNjVwUEhFWERxYjdrc0FFN2N0dElnSHlTQzVDNHE0MlZFOE9TNGdiaGVGQUFsSXg4WW1aT3g1UUVyc2hYLU5FTXBZcUk3bkNvX3pfRjR1XzhhQmhXdmZnUS1ZUVF6UGNHM2VPdVpsVmVfdHV4WFJXZVhLdXU?oc=5",
-      "published": "2026-08-19T18:40:46+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -140,13 +140,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-      "summary": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8 npr.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVFPVmZULWZmM1RWb09JS0JhOG41el96QzVqN244Ty1zQ2hINGRDX053RUt3NzVtSnQ2YW5xZ2xUdTFNZDdkNEpMRDJDNUw4OHpORHFMWTkxWGEwdDd2X0ZHU1BmZkNua2RDM3FCVW0tVkJUTWpaTDBpUWpETVpFVHhldU51MFU?oc=5",
-      "published": "2026-08-19T18:01:03+00:00",
+      "title": "Propane investigated after deadly explosion collapses Annapolis home",
+      "summary": "Propane investigated after deadly explosion collapses Annapolis home CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHAweVVoVlFkWU9NVzRNZ0RSVmpYamhhWkt0WVNHS1lranVwazZqTXpMVGlFeU9SbWMzdHh3ZHJ3UGs4RjBlSGFISko0bUFmWGNWOGJXOGhqTmVMMF9fM2dWN2JoMjAxenNHUUJCRXFtcGFUcWxydUZkenNSc1M2U1lmVV9WNTJLbkt5UkpyRkFyOEZiNjh5Z21iQjBKSG1JYlpDLWE3NVhYSGdMOFNj?oc=5",
+      "published": "2026-08-19T17:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -201,18 +201,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Democrats Can’t Fix This Mess Without a Supermajority",
-      "summary": "Opinion | Democrats Can’t Fix This Mess Without a Supermajority The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDBDcnNxMGpCd3VpdWM3RzZwaWlsVUZLRDFBbEpHeVYzUk00UThVVHpnWlNKZVQyT3dLQkFRTzZHbHdUTHNIZWo0UVhFS0REdTEyYllnMkhqR21iWV92eTZBXy1wMmg3akEyMlo3bVVnb2dFYlo5UXdaWjdxN2hmZmZ0djlsOHM?oc=5",
-      "published": "2026-08-19T09:02:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -237,6 +225,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Rancher Beats Trump-Backed Candidate in Primary for Governor of Wyoming",
+      "summary": "Rancher Beats Trump-Backed Candidate in Primary for Governor of Wyoming The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMi1GMU1ScFlmZnQ4WGxXUEJrSldQakZobEtNOXR6V3BaNXJYUTNtX3ZVcjFTZWJnVmdhcklOc1pJM3JKdHhjYkpXT2VHVzJQLUpZYjY2cU9UUTJVd3BzVEpTWjZsMzlfMHo0aDhYOERJMm9rU09Bay1xVkRSd1pidVFPYlV6c00tX05ZMUdVUHo?oc=5",
+      "published": "2026-08-19T02:58:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -253,7 +253,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Education Department Tells Schools Race Can’t Factor Into Student Discipline",
-      "summary": "Education Department Tells Schools Race Can’t Factor Into Student Discipline edweek.org",
+      "summary": "Education Department Tells Schools Race Can’t Factor Into Student Discipline Education Week",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDVOMklLVFdLMzllaVFPeGUwcWJJSnllY292MldlSFZZR1A4Uml4dkY0WnVvZ0lEVllhdG00dVByUnZOUFc5Z3dCX0RVUFBzOVZNY0NpaXhtSnNrTHk3akRFbXlBejFIVEpIblAzcktqRExFZkRIdlZ3ZklLYkVtVWU3TE8yaDdCdDlLeUd4N3dkaFU3TmRkTGxSQXFESUhILUhaN05YSGpETkRHNHFKQXBubzBRcU12UlFyWkt0dw?oc=5",
       "published": "2026-08-18T22:08:15+00:00",
       "beats": [
@@ -277,7 +277,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks",
-      "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks queerty.com",
+      "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks Queerty",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTlseTRqVWNPWlcyRUZrX1diZmFxS0hqX3Z0M1FDTlFHYWVPMldhTWN1eV9kcUFISzdxQTB5MFU0M21rUm9ZNDlKR3RkQy1RdmNJX1JXNWFWS2Z4YzU3c1FtUTlkcGdvU1RDdTFrS0oxWnd2VE5ERjdzTDRFb05odGlaa3N4QVlueGw3RDhiZVpQbXE3dVhub0cwVDRLMHBMTTN3MG9ueDRjMC01WGlVOXZOeHJWckwxWnRyalRRZEJ2QndDYjFHZw?oc=5",
       "published": "2026-08-18T20:00:00+00:00",
       "beats": [
@@ -314,7 +314,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it",
-      "summary": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it queerty.com",
+      "summary": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it Queerty",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLTJDdVlTZ0YtVl9LZjNCTGFSeDIxOFdyUDQzMTNDaTlqX3hGUTVkanBvaG5tajBuT0FoblloZmNTWVFnY3pHcXZWVUs3X0l3Nzl6UW1nNHFjQ1Y0blFVUkg5RlAtZzJzSjRob3ZnNFNSOFI1ZW1YcTh1SXpSUjVLQjBXLV9KdFhCVjN4WWFLaDVVT0NJX2VPTkNoWEh3b2xfZEJtMUdFSi1pbUNZbFl3alBKV01kWk1kQWpvbjlTTjZxS2JXMnI2ZlZ6ek8xQTRTZU1pWg?oc=5",
       "published": "2026-08-18T17:00:00+00:00",
       "beats": [
@@ -362,7 +362,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion)",
-      "summary": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion) edweek.org",
+      "summary": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1RsMVdjZ1lBYnNtTGdzbXlPLUkyZHdoNkwyaXJrYTFaSE1vMmQ0cnd2b0JqR1ZfS0I1YXVydU1wcGJ1UHc3WUoxVlNjajdPRllsYWktZ0d0WWtyTnpHMTE1aW82QUk0Q0s4T2pGbExQR0JWY2k5S0g0dkhjazJmTnhkWTQ5NHJqS3BzbndtdFNPYi1fUENOMVhXODlsSEZKYWZ1S09SemQ3QQ?oc=5",
       "published": "2026-08-18T10:03:55+00:00",
       "beats": [
