@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T20:29:47.360262+00:00",
+  "updated_at": "2026-08-19T20:57:14.759443+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,42 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. government debt passes $40 trillion mark for the first time",
+      "summary": "U.S. government debt passes $40 trillion mark for the first time CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0syUURsd25oZ1hkM0FkZ1NoMW1tU19ZUVlHOE5rWkNjcWxvczZYb01sNVZ1VnRySzFwa2pGcUF0RFBhc0tGUW1jb0ZsZGI1U0pVQzBLNVpxLXNtY2tyQ0NtT0ZDQ0NyZ2Nsc3JINUdDY3dqdjBzcmJ4aFFISTEyZ0dfd0RmTm1vWnpPSE9OMTB5aUxPMjJjdGg3OVlVNGfSAaQBQVVfeXFMTzFOcEFsaUU0N1FsaXVmUzZOWURqdkY0Mmg3YWMwZ3lUdTFKRm1zdkJySGRkcndpQjNjeEg3eXpENTJWdmZXOVhyanFCOHBfNVVCVlY3dmZrTWUtYWhCY096czRJSGdTY3pCcm9VNVhEVWFQdXpRbUpvSzJ5UFVVWDZ5NklSUC1vSW95TVB5a0RmVmQtRktvMFdwR3NKeU5rdi1ZUXc?oc=5",
+      "published": "2026-08-19T20:35:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "National debt reaches grim $40 trillion milestone. Here’s why that matters | CNN Business",
+      "summary": "National debt reaches grim $40 trillion milestone. Here’s why that matters | CNN Business CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHNXZmZtd1lmeHg5S0dfY1Fjd1NjaEdsRUNzdDBCY29zN19YcU9fSmY5U184VmRNOWF3bVBXTWJnT1dhUTIwbnVhSUlUb1I3dG5rS3BJMUlsajlVQzN4ekVuWDZKdHhycTFfdmoyb1UtbFpHWkZpbFViOTR6R0FWQmE0cjg0dW1k?oc=5",
+      "published": "2026-08-19T20:12:17+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+      "summary": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T. NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC1BVWNwSHZMeGd6SDI3OE5QejYxUWF5aHpSbEtwV3UyMXJLNkxkSE5tQkRkMU5DT2NwaUpOWmVzU3JVclpVSGpORFBSMDFyTmN3Yk5QMzNOVFV2Y25MUzBZQXJoVVdkWlVzNWhGd3RieFV4MFBRQXFlcGlyTTFqMHdYQko4T1dEMFRVeGJDUmU2eFlHbENvS3VlOHZqUTdiSzZ4LUIwZzB6YlE?oc=5",
+      "published": "2026-08-19T20:09:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -68,18 +104,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-19T18:14:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -104,18 +128,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
-      "summary": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDTUVkejJpY2hodGNXTExESGhQczNQRjFMRUdZMnh2TGR4eHlOQThIaG15MDFUY1JzWHNaR1phNTFMYTFPT1J3TTB0cF94SkRHcVhBZTE4TnphbUJqRzhvQnExN3Ytb1BKTHRZQUZ0VW55Zm5sY0pWTGFiS0N5MEHSAYQBQVVfeXFMUDU4N0phMUxxWmxvRk5Pc2QyRnJ3dl9mUXdpTzVVZE5IN21rUV9EaDRwc1lETmJEOThjM2RWTGVtd1JlazRRdTNnZExUUWFzTXFEUmhZQ2loZVJuOG10a3ZFLVFHV1lxU3RDSGJJZm5rLTF4TGtUUVVTZTNudVV6T2p5Yi11?oc=5",
-      "published": "2026-08-19T17:58:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -123,18 +135,6 @@
       "summary": "Why Aitana’s ‘Superestrella’ is the surprise Latin hit song of the summer NPR",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEFSMG5fZ0E2ZHBXU2JTd205czRxMGZZTkhkVXFNYnpFdFNwM3YwX01WaWUyejhwSFgxTzRjT3VfeVlqbWlFRXJIMkczbnlTeGkyeUlDenRUZXM1S1l2dmNKMVpFSmkwOUZvNE9QSnp2eGQ4Rk4tRFhvQW91dnFackdWOXJWdXd4YUVtNg?oc=5",
       "published": "2026-08-19T17:03:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘Very special stone’: Trump unveils another White House construction project",
-      "summary": "‘Very special stone’: Trump unveils another White House construction project CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbG5kc3hPS3BOS20xd1NPaEhsT1N0Zk5JcG82c3JwM1VBRHRnRjk5NkRTMzVoZEtuQnhtNHc2S2pkVWdGbFk4elg5U1U2ZUJQUnhrRkJOOTNkQXNWZjlzeGYzY1VfR1VtR3pYek9NZDVpdjZMTUtXMmNMZ0s3ZDF4VnJwRWo?oc=5",
-      "published": "2026-08-19T16:56:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -165,13 +165,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-      "summary": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1NQRnk2OWttRUZLNTNIWXBzSmdZRzRPdlo2REJudGNsUWM1MnJlQzNzYUNCakZKR3BuRHlYZWpfN3h6NE1RZTNLY3hNeGN3cDdYN09zUDBNbzlBRk9zaHhMeV90d2wxaExnaHRheEw1Z0diVkdudTNMZXV3aWxfeDRSZ1pIOFNYZzl1WnhtdzZGZw?oc=5",
-      "published": "2026-08-19T14:19:20+00:00",
+      "title": "A New mRNA Vaccine Could Prevent Skin Cancer From Returning",
+      "summary": "A New mRNA Vaccine Could Prevent Skin Cancer From Returning The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhkUXhtcXpNZm5MUjg4NWNBR1JUNGRPaDVhdXh5aUg5WFBXSzNPSV9PVEU3ZV9VV2xPUExRS0E5WHlJS09Fc01wcWZwdHduTGZYX2FvdDNKQW9RSnY3c2FrV2FoZXVhM3FiMWNUVWYzQ2lHREdPenB1VWVOT3pVVkJGdzJsZE9QWllF?oc=5",
+      "published": "2026-08-19T14:43:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -180,10 +180,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "El Niño Is Back. And Worse Than Ever.",
-      "summary": "El Niño Is Back. And Worse Than Ever. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJ3eUZldkVrd1RkaS1pMGE0SF9qckxMTVBFb3JsZWtPbjRQODgtNGxLLUYwcnM4Wm40dzJMWXZhV3phWXQxcEdoRk0zd1lLU1ZYQnhMZHRFYVo2LVAxS1lIbzZtQnktZnBXTFVfa1F2a0hrdjNra2dyMHZ6SnlVYlJycFZldk9SdWZLVktHM0hDSlBDS0gxRzFyT0FFTkRu?oc=5",
-      "published": "2026-08-19T10:00:16+00:00",
+      "title": "At Tree 55, Vietnam’s Gen Z Demands to Hold the Privileged Accountable",
+      "summary": "At Tree 55, Vietnam’s Gen Z Demands to Hold the Privileged Accountable The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-19T13:46:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -228,12 +228,12 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Trump pauses 50% tariffs on Canada for 3 days",
-      "summary": "Trump pauses 50% tariffs on Canada for 3 days NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0JmNE9BTlRBeUhlOURZanBDcTVvb1Z0VEc1elUtblkwMU9PS0JqREVqb2xNRnVGOThwUlZ4VGRtRV9PcURZSjZxZlJ6UU5zakJHa1A0OWU0WGVQMzQ4OW9raHBXcnlsV01ldGFRaEtJaWx4TFV0NF8xcEZHXy1fV1dEWmk5dw?oc=5",
-      "published": "2026-08-19T02:22:00+00:00",
+      "title": "Two Trump-backed candidates lose, Debbie Wasserman Schultz wins in Tuesday’s House primaries in Florida",
+      "summary": "Two Trump-backed candidates lose, Debbie Wasserman Schultz wins in Tuesday’s House primaries in Florida NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWFsd2JNZ2pfRTRGZTZrZXBxck5JeXlYTkc3ajJRek5jNFNQRHIzTFl6bVVkeTRfTWRtM3JweGZPNDVJWjhUb2dzNkhicUtKTzNQR3RCcTBEWUlSVElQS0ZaU0E1MFFuNkkzQk10bW9aa295bUMta1JJbTlLLVVJWktwRnhvVC1PdlVjc2ZZVWVZMzV6UmRDem9oa1kyb21iRUkwTlU5UXgwSEpsWlFtRGcxbk40QkJUMWpTVFJrNFFBbVRQdTdZ?oc=5",
+      "published": "2026-08-19T01:00:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -265,7 +265,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks",
-      "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks queerty.com",
+      "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks Queerty",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTlseTRqVWNPWlcyRUZrX1diZmFxS0hqX3Z0M1FDTlFHYWVPMldhTWN1eV9kcUFISzdxQTB5MFU0M21rUm9ZNDlKR3RkQy1RdmNJX1JXNWFWS2Z4YzU3c1FtUTlkcGdvU1RDdTFrS0oxWnd2VE5ERjdzTDRFb05odGlaa3N4QVlueGw3RDhiZVpQbXE3dVhub0cwVDRLMHBMTTN3MG9ueDRjMC01WGlVOXZOeHJWckwxWnRyalRRZEJ2QndDYjFHZw?oc=5",
       "published": "2026-08-18T20:00:00+00:00",
       "beats": [
@@ -302,7 +302,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it",
-      "summary": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it queerty.com",
+      "summary": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it Queerty",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLTJDdVlTZ0YtVl9LZjNCTGFSeDIxOFdyUDQzMTNDaTlqX3hGUTVkanBvaG5tajBuT0FoblloZmNTWVFnY3pHcXZWVUs3X0l3Nzl6UW1nNHFjQ1Y0blFVUkg5RlAtZzJzSjRob3ZnNFNSOFI1ZW1YcTh1SXpSUjVLQjBXLV9KdFhCVjN4WWFLaDVVT0NJX2VPTkNoWEh3b2xfZEJtMUdFSi1pbUNZbFl3alBKV01kWk1kQWpvbjlTTjZxS2JXMnI2ZlZ6ek8xQTRTZU1pWg?oc=5",
       "published": "2026-08-18T17:00:00+00:00",
       "beats": [
@@ -374,7 +374,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point",
-      "summary": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point queerty.com",
+      "summary": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point Queerty",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmU2SFM3SHZaZUxxaW03VTFyOEcwaXlwVnZxZFJ5andjdnhkdUtjX2Z3b1g0ZWdWaXRRa2paUTRZYzRIbW4zYjRubEk0ellPVU1zd054cW85d2NucVdPTUhzZ0lzYTJudlVlWEtUTGY4SjU1TV9Ycl9UWVFobGdKLXAzeEo5S1p0NWlCU1FWcVJUOFRISWtPdG41eFQ5Zk1VRkhVYzBGSVFDR2oxMU9zRDlVbw?oc=5",
       "published": "2026-08-18T00:00:00+00:00",
       "beats": [
