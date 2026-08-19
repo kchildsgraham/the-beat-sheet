@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:59:13.239510+00:00",
+  "updated_at": "2026-08-19T17:02:08.608852+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,115 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How would Head Start programs fare if federal standards are pared down?",
+      "summary": "How would Head Start programs fare if federal standards are pared down? K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUM2ZW9oM1hYZkVEVzBqWnpqdlBld3FIT2xvLU1Bc3FWTnFmQm56a0x2NEtXQ204SjgwZUYxYkhXakZCb21mQUhLUlppdWZfYUZuaERKRU5KaFdHN3JLYmJremRfMGg3Z0FoOFFJSXNTN2V4NE5PYkV4Rk1PdWd6MU82OWw5SlJaNmhiMXJHQ3ZnS2pjYlJJUUNvbkdRald2VlpWYUxHal9Mbk0?oc=5",
+      "published": "2026-08-19T16:51:29+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. military drills with South Korea are cut short after surprise Trump order",
+      "summary": "U.S. military drills with South Korea are cut short after surprise Trump order NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGk1aHE0S1c2NVVlR1JEVUs1MmI2bzNwZzJycGtDLWFGeXNMbm8yYjRhM0tmc1dBeC0wZDFHUENNSzhPclYyVFNLcE1sRkdKa2tNSEZPT19uaV9iZ2NKWUppQWYweS1TU284WkZfZXAwOU5LdzJrYy1uVlBzbmw5WDRRemtXZGZRcTVHNFFEMENjNlBYZWQxYUdmSkFtRU5PNm02Vk15Q1FlZw?oc=5",
+      "published": "2026-08-19T16:32:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist who met with her after murders",
+      "summary": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist who met with her after murders CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzZUZFdOVGdraDMxWlV0aDB0eDQ3cjRMc1VweXpGZUM2Q25fRjd5SkwtUE5EbElWVGJuOFp1dDRZaWVwQ3hlTHo1T0ttNzZSUUZqeGctMk9EUGpKR3FST3VVek5wZDZFTGxCLURkOHlGdWVwLXlvX3JFSm9oWTdwag?oc=5",
+      "published": "2026-08-19T16:07:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Kennedy Center says it will add Trump’s name back to building in early September",
+      "summary": "Kennedy Center says it will add Trump’s name back to building in early September CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmNBXzdtdjc3ZHRUS3paTkNOVjhCcThKclpBRUFOazNaM2hqc3ZSaGtaVmR0ZEw3QmhhOTc5cEJINFcya09qRFBGZHZUQWRwRnNlQWhVejJRX3MyZnBubnJ1VlFaaXQ0blJ5M2lMNkZKdkh1aldaSlBSYThKSDhGag?oc=5",
+      "published": "2026-08-19T15:46:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
+      "published": "2026-08-19T15:40:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+      "summary": "This high-speed star is whipping around the black hole in the middle of our galaxy NPR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTBCVEwzYmU1QktRUFBFaG5GNmIxUFV0QjhfNHFGVFAtUHBFMnY2MjJvNTMzeEFFRG56cnNQb01WLWJoWVFMbnMxS2htekpOaFgxcDVVYlhKbkRRUkgyRjNkNEV5RV9uTENMdWtLSjdPbVV1NDZUWEstR0dyUUdvaTlUMG5DbTNNalIzLUtGYXFwYjVWbE1Lei1ZdUdKaVM2?oc=5",
+      "published": "2026-08-19T15:38:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Rep. Jimmy Gomez accuser told House Ethics Committee he sexually assaulted her, attorneys say",
+      "summary": "Rep. Jimmy Gomez accuser told House Ethics Committee he sexually assaulted her, attorneys say CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjFlSDZmMjU1N0hiU19OSHlWRGZUQkRjN0JfNU84aEZzUkpjX2RYYjVtWTRNRDZfMUNfMUw5ZEN6Q1pHUS0wSS1tSFhHX1gyMTZ5a3pnbWxySVp2ZjQwbnl6VG5kWlpiOElZR2IzWnl0X3AyaGdrVDVJS2JMWF9VMTYzeGhLbHBueFV3WTVpMlRsYXk0U0xvcE42NA?oc=5",
+      "published": "2026-08-19T15:35:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
+      "summary": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUTlIR0J3WlVHSURhM3ZJZGx2SmdQek5jSk54VkVhNnhRRmxORzItc1pMTWZFcjlHRC1VTDFTQ3NLTVczTnNWaWZGUVJNbGN4Vi1TZnpkekVfZm5GcVBGbUY2Ukg1aGw5V2JDU3hxTVBNZ2IyWEE?oc=5",
+      "published": "2026-08-19T15:30:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "A real-world study of Oregon's nonmedical psilocybin program shows promise",
+      "summary": "A real-world study of Oregon's nonmedical psilocybin program shows promise NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0daZUN4OEtITHJIdG9YUTZBZDc0RzAyMnJfZ29lVko0dFlFcDhfNVdlNGhMTnZPYm1GX0ctWTRWWFZrd292N04ycDdGNVNMTE96QzhPV1U4azU3NTBSZ1hhWjFzdjE0VWRJeG9lNzRLdVhNMEFFS2d3Y3M1Ukxzdl9KM25ETWJrSF9RdXhpOA?oc=5",
+      "published": "2026-08-19T15:22:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -44,42 +153,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-      "summary": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1NQRnk2OWttRUZLNTNIWXBzSmdZRzRPdlo2REJudGNsUWM1MnJlQzNzYUNCakZKR3BuRHlYZWpfN3h6NE1RZTNLY3hNeGN3cDdYN09zUDBNbzlBRk9zaHhMeV90d2wxaExnaHRheEw1Z0diVkdudTNMZXV3aWxfeDRSZ1pIOFNYZzl1WnhtdzZGZw?oc=5",
-      "published": "2026-08-19T14:19:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
-      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
-      "published": "2026-08-19T13:27:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "U.S. military drills with South Korea are cut short after surprise Trump order",
-      "summary": "U.S. military drills with South Korea are cut short after surprise Trump order NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGk1aHE0S1c2NVVlR1JEVUs1MmI2bzNwZzJycGtDLWFGeXNMbm8yYjRhM0tmc1dBeC0wZDFHUENNSzhPclYyVFNLcE1sRkdKa2tNSEZPT19uaV9iZ2NKWUppQWYweS1TU284WkZfZXAwOU5LdzJrYy1uVlBzbmw5WDRRemtXZGZRcTVHNFFEMENjNlBYZWQxYUdmSkFtRU5PNm02Vk15Q1FlZw?oc=5",
-      "published": "2026-08-19T12:53:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -89,66 +162,6 @@
       "published": "2026-08-19T12:50:20+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist who met with her after murders",
-      "summary": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist who met with her after murders CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzZUZFdOVGdraDMxWlV0aDB0eDQ3cjRMc1VweXpGZUM2Q25fRjd5SkwtUE5EbElWVGJuOFp1dDRZaWVwQ3hlTHo1T0ttNzZSUUZqeGctMk9EUGpKR3FST3VVek5wZDZFTGxCLURkOHlGdWVwLXlvX3JFSm9oWTdwag?oc=5",
-      "published": "2026-08-19T12:44:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial",
-      "summary": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rdk1JZHNYak56OXBuQ1JlcjdfM3FOdTJEUEJ1UXJ5Ri1yOGxjNWQwZWF0VGw0emZ6dFlsS2VYc1lYTkl3QjBQeWVvOWpOcE1MazVPY1NBZjgtR0tQZndfS1BCQjhvUEM5MWZaV0dKb3AtQi11S1NEZXJRcXo3QQ?oc=5",
-      "published": "2026-08-19T12:03:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Israeli military admits for first time to firing on car carrying 5-year-old Hind Rajab, opens criminal probe",
-      "summary": "Israeli military admits for first time to firing on car carrying 5-year-old Hind Rajab, opens criminal probe CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3pLYzRFcVoyN3NqU05KdWV2NW1vbVR6WElDQ3AyT0Y4UlhGZzJnbGt4RzBBNVl4MEtPWGR2RlhBMjhiQkpPUEdEaUlxT295dzZvcVJ3eWQ4SE9ac3VBY0h0Y0s1bG5HZ0NBT0JOU0JQc21LODBuR3ZkMDFWTUdWYU8wZE9UVTg2ZXp0bQ?oc=5",
-      "published": "2026-08-19T11:33:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
-      "summary": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries NPR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFhZa0ZqTmpGa2lmeWhLZjVmMmJlMFo0Zmw2cllRRGloZlVUMGFEaE5qV3dudW1yOGxKeHRSRUh2bmZ5Ul85TkJqYlIxdUlJREtzM1JOZng4OUl2aTU5TlRXaDFLc3p0NGpiWE5RNVRIOHptaEZrcU53bTNuVnZqZ0NlRzJwZm8xUkpycVM2bFNsc1ZPaEVlczhWQVgwa1VKX2owME56QWx5UDZhTnJR?oc=5",
-      "published": "2026-08-19T11:14:31+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "What we know about the controversial border security project in Big Bend National Park",
-      "summary": "What we know about the controversial border security project in Big Bend National Park CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKQlJGU3RZUlNZS1lIVF9MWmtrU21wenIxd2Zma1F4Q1BPWDNpY2xDUS1RYkczSnhzcXJ6bFVsbXJQZ1haM19WUmJLRmRRaEgycndKYkxILVExS1A0bThzYThYYWZGSDBhNkUxOHh0SVFUaEFpVlBQNE12ZFM?oc=5",
-      "published": "2026-08-19T11:00:29+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -216,7 +229,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Disturbing unearthed details about “Tr*mp’s Eva Braun” have us feeling collectively ill",
-      "summary": "Disturbing unearthed details about “Tr*mp’s Eva Braun” have us feeling collectively ill Queerty",
+      "summary": "Disturbing unearthed details about “Tr*mp’s Eva Braun” have us feeling collectively ill queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0tYbE9SM1hTa0dST2l1c3MwcVVMdFAwX1VwTHRSOGpZdkV1cFM4Mjdub2tEdV8xcEVFX3JzY05RNWl3YmlSOF9KQ0JFVW5IMVA2TzZuZ1FjbkdJRlBBTHpiUk13VV94OG5GLWdoOU00T25zM1NoaWlRUk5DT1NyWlV5X0VJUjIxMUlDcHNpenVCQXhkM25yckIxOUdydTZfSHNmX29WZUtoRkVTU1V2cFZQUVN3a0Vf?oc=5",
       "published": "2026-08-18T21:00:00+00:00",
       "beats": [
@@ -249,18 +262,6 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Temporary Protected Status revoked for more than 1 million people from 13 countries",
-      "summary": "Temporary Protected Status revoked for more than 1 million people from 13 countries CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWC1NZFZTNFZMak1RZjkxSUYzSmp5VnhIMVE2dEZVd19aeU1ZVUVyS2JIczRMS3dHeUVaMndIMFdJSi1vOEpiWGF3T2JLb25JWVJJQU5BQnJ6eGExVER1d0lIRVZwNWF2NW5VWU8zYW93TGtEMmpzaTlodTgyNVpOM0xTTjFRQTZkNjZjQy1tMHVISXYtd0tHaEpnenFCZ3JieE1hb2FRYk1PV3FzSVBUemx1MWc?oc=5",
-      "published": "2026-08-18T19:30:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Northern California asylum-seeker detained by ICE released on bond",
@@ -276,7 +277,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it",
-      "summary": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it Queerty",
+      "summary": "Rosie's Kimmel debut was 100% unfiltered petty perfection & you know \"Mango Mussolini\" is melting down over it queerty.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLTJDdVlTZ0YtVl9LZjNCTGFSeDIxOFdyUDQzMTNDaTlqX3hGUTVkanBvaG5tajBuT0FoblloZmNTWVFnY3pHcXZWVUs3X0l3Nzl6UW1nNHFjQ1Y0blFVUkg5RlAtZzJzSjRob3ZnNFNSOFI1ZW1YcTh1SXpSUjVLQjBXLV9KdFhCVjN4WWFLaDVVT0NJX2VPTkNoWEh3b2xfZEJtMUdFSi1pbUNZbFl3alBKV01kWk1kQWpvbjlTTjZxS2JXMnI2ZlZ6ek8xQTRTZU1pWg?oc=5",
       "published": "2026-08-18T17:00:00+00:00",
       "beats": [
@@ -360,7 +361,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point",
-      "summary": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point Queerty",
+      "summary": "With three joint scandals in play, Tr*mp’s Epstein drama reaches new boiling point queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmU2SFM3SHZaZUxxaW03VTFyOEcwaXlwVnZxZFJ5andjdnhkdUtjX2Z3b1g0ZWdWaXRRa2paUTRZYzRIbW4zYjRubEk0ellPVU1zd054cW85d2NucVdPTUhzZ0lzYTJudlVlWEtUTGY4SjU1TV9Ycl9UWVFobGdKLXAzeEo5S1p0NWlCU1FWcVJUOFRISWtPdG41eFQ5Zk1VRkhVYzBGSVFDR2oxMU9zRDlVbw?oc=5",
       "published": "2026-08-18T00:00:00+00:00",
       "beats": [
