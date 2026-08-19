@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T14:06:56.628675+00:00",
+  "updated_at": "2026-08-19T15:59:13.239510+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "summary": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
+      "published": "2026-08-19T15:08:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+      "summary": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4teEJkRklqaHFoUnU0NzFTNk5CQ0hxS1hvT25ocVR0UW8tSEt3UTZGZXRHNjNzZ0ZnVk9rOGdXZGJ0bGsxb25PYTR5RlRTUVBVb0x3VENKU3RIU2drVXI0Z1JJelVQNXEyWnRlUnk4QXlCTlpW0gF6QVVfeXFMTTRWbmNYcnlQMVNoZF9sWjBLOHVSTTdOcGx4Nl9tT2ZTS055SXRVaVNaSjFlNUlITHJZRlNnY01GNk40XzR3Z0YwQmNEN0R6QVhnQkhGcXljTXJySFRWYVgyUHZzTGU4RlNiaHh6ZlNBM0ZLRXNSMUtsT2c?oc=5",
+      "published": "2026-08-19T14:21:59+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+      "summary": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1NQRnk2OWttRUZLNTNIWXBzSmdZRzRPdlo2REJudGNsUWM1MnJlQzNzYUNCakZKR3BuRHlYZWpfN3h6NE1RZTNLY3hNeGN3cDdYN09zUDBNbzlBRk9zaHhMeV90d2wxaExnaHRheEw1Z0diVkdudTNMZXV3aWxfeDRSZ1pIOFNYZzl1WnhtdzZGZw?oc=5",
+      "published": "2026-08-19T14:19:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -35,10 +71,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma",
-      "summary": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGR4cnJhdGF4MkVpcU9yanlWZUpFVDd6SzJpSTVGR2tJT28zd2JxYmpKOTdXU0VpSjA1aFRVNzd6c0lCU0d0TFJ4WWxqdDE0Ml95UmFBVTR2Q3lnZ3NuRGZwc1FBVDJGeUhGemxGZTRjWExhWkd3SERWTXJNZXNfWnJXUFZSeDMzRGxVdWlKQ3VRU196WDRvaEVIRHhjT2RRSUpzWHlRdTBKeHI5MzRaSG9iVy1uZENBR3lhNWlVRQ?oc=5",
-      "published": "2026-08-19T13:15:00+00:00",
+      "title": "U.S. military drills with South Korea are cut short after surprise Trump order",
+      "summary": "U.S. military drills with South Korea are cut short after surprise Trump order NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGk1aHE0S1c2NVVlR1JEVUs1MmI2bzNwZzJycGtDLWFGeXNMbm8yYjRhM0tmc1dBeC0wZDFHUENNSzhPclYyVFNLcE1sRkdKa2tNSEZPT19uaV9iZ2NKWUppQWYweS1TU284WkZfZXAwOU5LdzJrYy1uVlBzbmw5WDRRemtXZGZRcTVHNFFEMENjNlBYZWQxYUdmSkFtRU5PNm02Vk15Q1FlZw?oc=5",
+      "published": "2026-08-19T12:53:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +83,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Treasury announces upscaled buyback operation for longer-term debt, sending yields lower",
-      "summary": "Treasury announces upscaled buyback operation for longer-term debt, sending yields lower CNBC",
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+      "summary": "Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
       "published": "2026-08-19T12:50:20+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist who met with her after murders",
+      "summary": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist who met with her after murders CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzZUZFdOVGdraDMxWlV0aDB0eDQ3cjRMc1VweXpGZUM2Q25fRjd5SkwtUE5EbElWVGJuOFp1dDRZaWVwQ3hlTHo1T0ttNzZSUUZqeGctMk9EUGpKR3FST3VVek5wZDZFTGxCLURkOHlGdWVwLXlvX3JFSm9oWTdwag?oc=5",
+      "published": "2026-08-19T12:44:36+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,25 +152,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
-      "summary": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90% CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUlktR2pLY0JiWFdHWWtNb2ozX2ltdUZPV0F3SlNud0o5aUF0Nk16bEZjTU9yWW1sd044bnlwYWxrM0pGaDE5TGRQS2hlWGNtbVJIOF8zNVpQOWF5S1FMUXdCeV85Y1oxOG9Dck9ydjZGcGN2czgxOE5aeFY5Y3BVVExITTZpY1JUbG9sMHYtZmpCRzZGa1dGNUJBR0JvTl9TRmZ6R0NxSdIBrAFBVV95cUxNSDhhdThuTXRTbkNHRzIzVklfb3M0S1pjWWFSNTBhal9GQlVWZzBZVkpDeEVlREc2eEYyNTRNSkdvSzZ3cVBQanc3S012LWZocFVoTXJNMHVJaHFNSFBlZG1vMFZ3eTk0NzhSUEdXSGR4QXY5N1o5Q1FPN3czNTFHOURrektERU02MFQxRmMtTDJrNFhDeEE5OHBFVHBHRzRCeGZZNjBjV3BNZmVY?oc=5",
-      "published": "2026-08-19T10:46:09+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "summary": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BeFR6UFBDUUYtM2Y4Z3NjUURzakU5d0xpVkxneVpWRmhRUWF6MWYzeEpNN3FUZk4wYjJYNTlHOF8ybHV6bVJDYlpvcWRWc1BfeUMwYlZFMGdvTVB0MWxxUWRtc2RMRmROYmw5MTRBSXDSAXZBVV95cUxPNFNycU9hS0ZMVWRSdUZhb1ZxeEZHRzhwQWJ0R2RwbTg4NjlIYzE4TXFQUHJzVjZzNkE4QnRfMnVaTEEyUHowUlhmd3pTbUlJc29zVWhIbmc3Rlc1Tjl1ZmtEc0pqcVpvVVR3QW11LVNyUUxmMlZ3?oc=5",
-      "published": "2026-08-19T10:27:16+00:00",
+      "title": "El Niño Is Back. And Worse Than Ever.",
+      "summary": "El Niño Is Back. And Worse Than Ever. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJ3eUZldkVrd1RkaS1pMGE0SF9qckxMTVBFb3JsZWtPbjRQODgtNGxLLUYwcnM4Wm40dzJMWXZhV3phWXQxcEdoRk0zd1lLU1ZYQnhMZHRFYVo2LVAxS1lIbzZtQnktZnBXTFVfa1F2a0hrdjNra2dyMHZ6SnlVYlJycFZldk9SdWZLVktHM0hDSlBDS0gxRzFyT0FFTkRu?oc=5",
+      "published": "2026-08-19T10:00:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,22 +179,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-      "summary": "15 states have laws that allow corporal punishment in schools. Here's where, and why NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON096S2FLTVRUY0dZX0pCcWUzUVduM1JfbXY5TmZXQTJ0cDlwTGc0Mnc0UUJXUVVqS3NOVGhSQWpaUGt0TEw4bkJKSnF1NjFGcVd1aW9NWUphb2x5YjdnZlVJUEZ5ZTFxNkhoX0ROZTN6YkFyb3ZNNHU5UmdpeUVvNVh4eVVUVHVBSS1QOW52OA?oc=5",
-      "published": "2026-08-19T09:00:00+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-      "summary": "Why more than 400,000 kids are on waitlists for federal childcare assistance NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeE9lTTZBdk02YnVkcG5pUUd4Y2dST3ZXWWpvS1BoenJtbWc4NjN5N2V1elJXZGhmWUZNSVFKT0FxQ2lZbnpLUS05d0ZldnFoWU1WQmkteUtUcEhmUXo1ekRHdksyVml6a2UzbFBZWnBTaEtWUmdqTU9rU2dkTnQtRg?oc=5",
-      "published": "2026-08-19T09:00:00+00:00",
+      "title": "FCC's lone Democrat says Disney 'has found its courage' in lawsuit against agency",
+      "summary": "FCC's lone Democrat says Disney 'has found its courage' in lawsuit against agency NPR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUh5SjdlWXFUczJOUzRjMkJrcTdrdnpIQ1B4UWplNVk0ODVSc01fYXA5UmlkeVVSRGRYY2FtSHFZeDY0MnRtZzh0eHp0RGFSZEZIMHo4LVNhTHpLaHhaU2thSUdHMTlnLUl3WnJ0c3c2YVIzcGh1WUJtSXRxNE5Kd0JUVThhb3lKdml0WGp3c0txUko1OWo4Q1RB?oc=5",
+      "published": "2026-08-19T08:42:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -312,21 +336,9 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges",
-      "summary": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges EdSource",
+      "summary": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges edsource.org",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZxUnJYdlc0VmFyREpvVWZqTXBRVGRTbzRpR3Axa1FldmZpMHpFRmtIVkRWTDhvVTNMTTdOaXRvWXRLSmZZRVRiLWhPWElycElibHVFMDQ5eUM2aHVCS3ZOMUgyV05CbV82NVVXanFIemNFZVhhRWdMdlAyOWVRUWpDcGlmX2RGUTRxYnEzbEIxUWc4V3pacHBmMFg4cW01ekRSMUk0R3AxdEdYeTNYcHBVMXBZMDlHMmtiMU9NQdIBxwFBVV95cUxQWWJ0YnpDeHRua0pDbXkya3Q5aU1USXJCSV82eVNxUFZqRXMwY3I4dExPMGpMTHBaSDRiNThwaXNHXy1BX2pkaGtUNDhVSHlfclMyalJhWFVUZUlkY2RsemVxS2UxSHMzX251MWZyNmNNdHpDNEEwMXdocm9SRFZYd2h4anRHQ1kwOGIxWlJTbDk5aXhjT1c3QWdwcTBoY2dCcFhqZ3VURGVEc1owakoyOFN4Tm1XSHU5Q3lRWm9GY2VueDNnZXZn?oc=5",
       "published": "2026-08-18T10:01:08+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
-      "summary": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
-      "published": "2026-08-18T09:00:07+00:00",
       "beats": [
         "Schools"
       ]
@@ -353,19 +365,6 @@
       "published": "2026-08-18T00:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Ten Commandments law appealed to Supreme Court",
-      "summary": "Ten Commandments law appealed to Supreme Court K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMUN6XzVrb1NXODhRaXQ2c2paNUF0ZDVhVWRoMkhza2tsODRtLS1zMTdTOUVyMW16cmdES3lPMEVWbzFJZy1Ra2xFY0hzby1ZQ21EZkVLdHluV25STnRFelByY0NueFI1dVdRMDFMOVFKRExEUXJkR3BLN3hLMFVhWTdnZndha1FGWE1v?oc=5",
-      "published": "2026-08-17T22:25:00+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
       ]
     },
     {
