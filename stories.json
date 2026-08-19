@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:23:57.912720+00:00",
+  "updated_at": "2026-08-19T23:47:50.030991+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+      "summary": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjdQcUlraHYyYTY1UG5sUDJpV1dwZnpzWWZObU5iZ3g2RW1HSzFwTWNhcE1NaUR3Q3pWT1pYQXZibW1wMS1oQ1dUSVhObUhwcHN4MTVDWTNKOXFneGItamNBeWptNENKNHRiYXFJV0VJY2taaXFyRnJSQy1pRFlDbUhHMFnSAYoBQVVfeXFMUF9NTjA0UzQxLWRzdHFabk5acVdjbklmdzlGSlowZ3h4QnVIdmdGQjFfYUZsbEZSV1Bia1hISjZGVEgyNWlWcVBzMkVOSzYtR05OaXlBM3oxVkRKR0pycFZDeUxXejZnbXQzbF82Rjhud3NHR3VGZUhmQnl3MlpibFNGcFc4LTFHei1B?oc=5",
+      "published": "2026-08-19T23:11:20+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -32,12 +44,36 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "summary": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHVRY1BxQ2F0RzFSOTdOU25yeHE0UmxqUURfMFlfOWVuVkxGRDk0Q3d6aFhxMGlUdjJiVzJ3a3A3akNyRDBxQWU1REpzYVJVczR6WDljdTdneHNfRmhtc0FzMzVJbDZ5ZW1LbTNCSTFQZW50amJNcXp6Wk1rOWYxaEFLZlJrZnE4VnZYRkkyQmU1Qm1Gc3FUZkVkX243eHR4N3JpY2l6RlVUdzEySGlpM1VOTG1qSXA0eUNWSE9HRXDSAcYBQVVfeXFMTVJ3TW5fcGpDeHp4Wm1PYmRucUNaZFRMLU1qM0p6Mm9VRGV0dDVFU3RpM1ZwV3hEUjZlRWowUC1DQWVGZU1sVGpnTmRGQi11emw3UndjMkZvWXBtNno2eEtnbUtjYTNRMDNZYzd0bkZwY28yMV9nWnNfRHBEVk1KRDMyRE4tZXNJNnh6WUJmdG90cjRqN3ZOYlo1bFdYOGdXSkxtS1ZKR1U0RFdBTDhVdWhWeF81MTg3Y1lwbnJQYV9BbVlBVnlR?oc=5",
+      "published": "2026-08-19T22:39:40+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Prince Harry and Meghan to move back to Britain",
-      "summary": "Prince Harry and Meghan to move back to Britain CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2dUdjBxNTBWdWVMNk9TTDAtUk1DOG1KTHMxemoyajMycmE5M2owaGpUWThOV1N1ZGVKb0J2RjlDdWlzRk93X0I0aG5OZE1HS3J0ZTNOb2g1OG1KSmdtUE5LOTJSWVo3Z2EzS3Q4MzNMZTU2OWdoWTQ2ZWFHNXNWcDFXVXlPdjg?oc=5",
+      "title": "More than 750 US service members wounded since start of Iran War",
+      "summary": "More than 750 US service members wounded since start of Iran War CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXROaW5CZXFmcURNMzN0aWFmTm9xNlZGaG55cTE1LXFUOHp4UGdxRDFtY0xzYUtBbk92NGgtZVhici1rU1pqZGg5Q3V1dXd5V3pqUnNIZEZGclFvRXRMUzhpemdGaER4bmFpaDlJSEtZM2Uyc3puSk1FR29Ma0JnTVln?oc=5",
+      "published": "2026-08-19T22:36:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Duke and Duchess of Sussex to move back to Britain",
+      "summary": "Duke and Duchess of Sussex to move back to Britain CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUNmZzNhdVBOdXo1ZV9fdEM2aEFwSi1CVnFFUTFQN2tBWjdWQjhVaW5FcG5FYVlxVnFaSTBqRURZVXN1TE5yS00zSkV5aGZFei0yUk1sam1MVWtwZlFsV1k3ZmoxUklXMTZuZE16WVZONng3b09DRWtMbmNORGtGUkNXdXJ4WnZxb19tZQ?oc=5",
       "published": "2026-08-19T21:29:55+00:00",
       "beats": [
         "Politics"
@@ -51,6 +87,30 @@
       "summary": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGYzUi1laHEtRmkwZjhndkpRYXVqeFg4OWtfTWFWb2ItLWZMXzAwSWdSNVRqS3VLNVhNQnVMUnB3MDhIQ211c2ZUOFZtZUtYUnZ0UnctQWFjNElyWndGT1hFUUxYTllLelV0aFZWcllQQWFJOWVhQURPS28tQXJxWG8ySUZmb3hMN3c?oc=5",
       "published": "2026-08-19T21:27:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+      "summary": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5",
+      "published": "2026-08-19T21:20:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+      "summary": "U.S. government debt passes $40 trillion, more than doubling in a decade cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0syUURsd25oZ1hkM0FkZ1NoMW1tU19ZUVlHOE5rWkNjcWxvczZYb01sNVZ1VnRySzFwa2pGcUF0RFBhc0tGUW1jb0ZsZGI1U0pVQzBLNVpxLXNtY2tyQ0NtT0ZDQ0NyZ2Nsc3JINUdDY3dqdjBzcmJ4aFFISTEyZ0dfd0RmTm1vWnpPSE9OMTB5aUxPMjJjdGg3OVlVNGfSAaQBQVVfeXFMTzFOcEFsaUU0N1FsaXVmUzZOWURqdkY0Mmg3YWMwZ3lUdTFKRm1zdkJySGRkcndpQjNjeEg3eXpENTJWdmZXOVhyanFCOHBfNVVCVlY3dmZrTWUtYWhCY096czRJSGdTY3pCcm9VNVhEVWFQdXpRbUpvSzJ5UFVVWDZ5NklSUC1vSW95TVB5a0RmVmQtRktvMFdwR3NKeU5rdi1ZUXc?oc=5",
+      "published": "2026-08-19T20:35:07+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,82 +143,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
-      "summary": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T. NPR",
+      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
+      "summary": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T NPR",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC1BVWNwSHZMeGd6SDI3OE5QejYxUWF5aHpSbEtwV3UyMXJLNkxkSE5tQkRkMU5DT2NwaUpOWmVzU3JVclpVSGpORFBSMDFyTmN3Yk5QMzNOVFV2Y25MUzBZQXJoVVdkWlVzNWhGd3RieFV4MFBRQXFlcGlyTTFqMHdYQko4T1dEMFRVeGJDUmU2eFlHbENvS3VlOHZqUTdiSzZ4LUIwZzB6YlE?oc=5",
       "published": "2026-08-19T20:09:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-      "summary": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1g4bm1LbUZJdXdnRE1Rei1rdjlYMExmSERyUmNRLVRvTVRlRkxVRDRzXzVRRERncDZNYTRsLURRLVFsQ2ZRMWxUaENyaXFjU0NZOFFaVFRPS0lkWW5RaTg0Z2piZW95OHpsRkhLUFpES1dxLVlLX1NrdU4wa25SZDFzUVVscVlxVmxfTw?oc=5",
-      "published": "2026-08-19T19:45:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-      "summary": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5",
-      "published": "2026-08-19T19:23:36+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Five Americans, Ecuador intelligence chief killed in helicopter crash in Kenya",
-      "summary": "Five Americans, Ecuador intelligence chief killed in helicopter crash in Kenya CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53RE50ekgybzFhSWhsV1BBc2ZMdkNSb3VYSHoxTmVDNWJiLXQyVExSbkpyVXQ3WG9HVnc0Y2xfbW5taUxqa2k5S1BYMHIzZmwxRlpoUC1aN3E3T0N5Y0dMY1VVUnJPUl9XVHBKYXlaU0tweTF5WGxucUlITQ?oc=5",
-      "published": "2026-08-19T19:04:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-19T18:14:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "summary": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5",
-      "published": "2026-08-19T18:01:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
-      "summary": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDTUVkejJpY2hodGNXTExESGhQczNQRjFMRUdZMnh2TGR4eHlOQThIaG15MDFUY1JzWHNaR1phNTFMYTFPT1J3TTB0cF94SkRHcVhBZTE4TnphbUJqRzhvQnExN3Ytb1BKTHRZQUZ0VW55Zm5sY0pWTGFiS0N5MEHSAYQBQVVfeXFMUDU4N0phMUxxWmxvRk5Pc2QyRnJ3dl9mUXdpTzVVZE5IN21rUV9EaDRwc1lETmJEOThjM2RWTGVtd1JlazRRdTNnZExUUWFzTXFEUmhZQ2loZVJuOG10a3ZFLVFHV1lxU3RDSGJJZm5rLTF4TGtUUVVTZTNudVV6T2p5Yi11?oc=5",
-      "published": "2026-08-19T17:58:07+00:00",
       "beats": [
         "Politics"
       ]
@@ -192,8 +180,20 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
+      "title": "At Tree 55, Vietnam’s Gen Z Demands to Hold the Privileged Accountable",
+      "summary": "At Tree 55, Vietnam’s Gen Z Demands to Hold the Privileged Accountable The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-19T13:46:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
       "title": "Opinion | Democrats Can’t Fix This Mess Without a Supermajority",
-      "summary": "Opinion | Democrats Can’t Fix This Mess Without a Supermajority nytimes.com",
+      "summary": "Opinion | Democrats Can’t Fix This Mess Without a Supermajority The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDBDcnNxMGpCd3VpdWM3RzZwaWlsVUZLRDFBbEpHeVYzUk00UThVVHpnWlNKZVQyT3dLQkFRTzZHbHdUTHNIZWo0UVhFS0REdTEyYllnMkhqR21iWV92eTZBXy1wMmg3akEyMlo3bVVnb2dFYlo5UXdaWjdxN2hmZmZ0djlsOHM?oc=5",
       "published": "2026-08-19T09:02:39+00:00",
       "beats": [
@@ -229,7 +229,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Rancher Beats Trump-Backed Candidate in Primary for Governor of Wyoming",
-      "summary": "Rancher Beats Trump-Backed Candidate in Primary for Governor of Wyoming nytimes.com",
+      "summary": "Rancher Beats Trump-Backed Candidate in Primary for Governor of Wyoming The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMi1GMU1ScFlmZnQ4WGxXUEJrSldQakZobEtNOXR6V3BaNXJYUTNtX3ZVcjFTZWJnVmdhcklOc1pJM3JKdHhjYkpXT2VHVzJQLUpZYjY2cU9UUTJVd3BzVEpTWjZsMzlfMHo0aDhYOERJMm9rU09Bay1xVkRSd1pidVFPYlV6c00tX05ZMUdVUHo?oc=5",
       "published": "2026-08-19T02:58:35+00:00",
       "beats": [
