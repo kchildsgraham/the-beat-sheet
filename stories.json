@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T07:26:30.626292+00:00",
+  "updated_at": "2026-08-19T09:08:52.288843+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,78 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "World’s largest olive oil company pops over 17% as rivals circle in takeover battle",
+      "summary": "World’s largest olive oil company pops over 17% as rivals circle in takeover battle CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHdoVm00V0Z2bDlLTktiZWRYWktaVnVxNTdhWkxzZnR4a3NWeWtrTWF5aW1BUDR5b2hVMUx1QWZ1LUdwNUppU0hCZVFqYWhnQndOenY3cG9qX1p1WVEwOENOYm5wSWltaXo3My1ZcXFtS0VMTndTeEhFLXpGMFYxUtIBhgFBVV95cUxOejZzMFpSaExPZFdNMG5ITDFNb09aVzBPTXAwckZTN215Ry0wSUNLRGthd0dPVVZ0a0toQS1taFNZRndxVnBCb2VHcFB6Y3FIRXhIS2NMRWZnVFlRa0xOYmNSdFVDaHhEWm9qRVpxLXNpZFlra2dwRmFfR2JRcnl1U2RudTN6Zw?oc=5",
+      "published": "2026-08-19T08:14:50+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
+      "published": "2026-08-19T07:45:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+      "summary": "Liberia agrees to take 1,200 third-country deportees from the U.S. NPR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekNjVUpMejNQM09Md2liMGVwaGtKcjJpYkdqbzhwME4yUFhSS2dMMG1QdHFIdWtVZlNtbF9DV29JbmFZZUd1ZERoQmtwdDNRRkQwSW1Eay01cW9Sc1Z6OEIwSXY0TXNuOVB6b2wyNFc1cTE5Zll1TmdpNV9rY2EwVW9XZnE?oc=5",
+      "published": "2026-08-19T06:57:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "summary": "Goldman studied where AI is squeezing labor markets. Here's what it found CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53dEREYXBrV1VORWo3VGRpZUVURzk0WFcwVU9Rc0Jpb1hCSUd0OER1Q2o2cGxERGgtTjhReXBYcXBGZUhieGVkNkxrdjNQUElidk0weDZOdVMtdUg5SnJVWUhEa0o2NDRKRXlpamtxRlJBSlBDd0o3bjVn0gF_QVVfeXFMT050cFEyWHJPT3VfRzlQOFY1c1VleFRTYU41T0V3dFdVRmJDVjRCNktNcWpCZWd5Si1McmFIb2FNYWtoajFhdXg1emhNRTBvWGZ2S0t1SHQwTTg1SHI0ZjhRV2Fnc1pxSlhjNGFWeG4xZDI0ZlNTSllPZFBKbV9DOA?oc=5",
+      "published": "2026-08-19T06:55:57+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+      "summary": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xWXltSkJ1VVdJSDBqRktHbUd0bjg0cG5KcjhudGFwaUFCLUk2cUxndEpIalBiUndYRzM2azBKU1Q3VUdwTjZhNjM3SHVCS0Y1Ym9qSy1rSzlMUDMxb0lSLUxfekhvdHdPVlUtdnln0gFzQVVfeXFMTklBNnA3QkJxbGljbGpEei1oYnVWeWJ2Z1hjRjNaY0M0ZGlMR0xHa3ZlUEJrcEhBWG5qWHZ2Tk5KMWJPMkpQZFl1U0R2cnI1TngyQWVrY1NadEx6YUR3dTUxdGEtY2V3S3REdDA5bHNzRHZOVQ?oc=5",
+      "published": "2026-08-19T06:52:12+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+      "summary": "Meta to Stand Trial Over Claims It Addicted Children to Social Media The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0ZWSGp1V25wMVhUWFE3MnlqVnh3X3B6UzRRYjJiUzQwbTdSZXdkSERJakJmN3NtdC1FYkhRVHcyclhDc3c1NGxPZDNKSjRmR1FVUkgtVlNsSkJ1aW5GRERjazVkNzRQdmNKX29sVG9QVjZQOWQwbnhtSkpmazZRSGVnYkdITXl6bVlSYg?oc=5",
+      "published": "2026-08-19T04:58:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -35,22 +107,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Dem socialist Angie Nixon scores upset in Florida Dem Senate primary",
-      "summary": "Dem socialist Angie Nixon scores upset in Florida Dem Senate primary CNN",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUtSdzR3ZUdoSmNrXzJMNy1yZ3JrLVltQ1Qxekc3NTM5cEp4VndnV01LRGdwOWJKZ21MaWJOend6TkFuc1BfVGRiRTNpTG5BcnlGUW13UTNuczlfV1AtQThScXJ0Y3hVeTExRUJmZ0lXblUzMUJQTlVEOWdnanUwUkZwNHBDekhnN1NiWVhoTVRseVMzSXJVOFZkWGJfUVl3aU5aUlN1QkhoS0hFTHVseWtzVVNSQXhuS3c?oc=5",
-      "published": "2026-08-19T03:34:24+00:00",
+      "title": "Iran’s latest warning to the US signals the hardliners are just getting started",
+      "summary": "Iran’s latest warning to the US signals the hardliners are just getting started CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMU90bmlZbW9BQnBCclYtajE4aEh0bUNkNGdhNE43VWx3SWZibTZhSFNOR3cwWWpXUHllMEZNQTRXY0NIVFBYVjktUXZEblJpamw3Q3M5OXZYckE0cXF1RElHb3EzTU9VTW5QYU1nYUFGdFF4bUJWMUU1YVhuaElKUEJqRFl0WUlIX1dN?oc=5",
+      "published": "2026-08-19T04:01:29+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-      "summary": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYWVMTUFGSlBEY2tXR2M1YWVPcGdvWG1qak5GLXNjenVjV0dFa05IbzM3UEhMMjhVY29oQmpENGNwSTkxX0hlSU1oZm82eGlndzFEemVPeEkzbnBXMGdscTR5MlhuQTAwcnhNRklwbW5UZzBjS1RWRllTcTBzR28?oc=5",
-      "published": "2026-08-19T03:33:53+00:00",
+      "title": "Analysis: Why Ossoff’s savage lampooning of Trump is taking off",
+      "summary": "Analysis: Why Ossoff’s savage lampooning of Trump is taking off CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SV3RFeWhjQTZIWWpxRTBScUFiamdpdERGVjlPY01BZTloc2NOc1lySjVaUElrbFM0dVY4Qk5HbFA1b0paNk1qQ0wtODBjZm9Pc19aWXdVOU1uYUFkTGV0OW5OeWpaR1ZsdEVZb0dR?oc=5",
+      "published": "2026-08-19T04:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,42 +140,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump postpones 50% tariff he threatened for some Canadian goods",
-      "summary": "Trump postpones 50% tariff he threatened for some Canadian goods CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DTWFxTENXVl9Gdk1vNWJneTVmeXZsSjltWjBPM2ZRWlR2djhQY1RNVGkyblVTY1M1Uy14dmZxYm13VHU3bUtoSUJkbGRzZmg0cGhOeWMwVTNjVWxkU3pveW1oT3dWSWZJc0ln?oc=5",
-      "published": "2026-08-19T02:40:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-      "summary": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?oc=5",
-      "published": "2026-08-19T01:37:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: Trump puts 'open' sign on Hormuz. But traffic is barely trickling",
-      "summary": "CNBC Daily Open: Trump puts 'open' sign on Hormuz. But traffic is barely trickling cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdldPVW9oSWhHbjl5NG5kVmhBNUZTdUFoUk01dEdGQkVidEdXYThBdjczcjFWMDlrUDZ4Rk5fbENQQmdIbm93RDVqQ3ZJZzNPdmNLNmt4elFEZ2ZrWnZLaE1idmdXb2pqQTA5ZjRwYXI1YXBMbUl5Rms2aGtYVlZTNmN0MHI4UVHSAYwBQVVfeXFMTnRoY0VLeS1aZVhGTTlzV1ZTZFBrbjJqZWhwZGdCSTBsZURYSHkwTVN3ZUxrU2cxa01KVHozZXA0M2hfU2RtbGt3OVZPSFprSnhRcDlIWE81WVFFSklGM0lfNG1DckQ0aGR3WExxQ1VPNmhobUxrWFZLZVZPOUlQOFo0ckx6emE3RGhPSVM?oc=5",
-      "published": "2026-08-19T01:31:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -111,42 +147,6 @@
       "summary": "Trump administration moves to open untouched national forests to logging NPR",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWZwcnBjVzZka3ZkeFRTNFg5cWhzWl9xYURJcUNENmdjSmtoSFl1SFFOanBxMlpzUUtHdGtRb0pHcy03ay1hQ2VlVDhRNnBQX2xOQlk0ZW5WbkdaU2laYmdZaGJFcVMyS3RYX3NaT3JiTkdIV041S3UtX0U3WDJtcDNMcUxoN2hTRmx3V0k4M21BSURMMjI2NEw5amNwU0JvbnFvTFJVdUtFMGFJSHVzc3FwTUhLLXZC?oc=5",
       "published": "2026-08-19T00:58:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "In upset, Florida democratic socialist Nixon wins Democratic Senate primary",
-      "summary": "In upset, Florida democratic socialist Nixon wins Democratic Senate primary cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOWJ6eldoTzl0OXdtWVQ2NXR4ZmEtSTgxTG9kYklpYWN3Zm1aVFVMV1EycVJONXh0aFlFMlIxMHlQbDl3dlJuVWJDZlFpenFJMHVsRFZpZ0k3bkp3SGJCMWJ5UzI2d3NleW8xWWxjSjU1LVVwNU5xdHREWUN3ZUpJbU44TGhYZmJqZElFMjVMTm5iWlVKNkI0bENXU0VlbjRENDZqWUktMGpsNGR6aDIzX3BaYlU3N3dwWHN6bnBFUnNmVW4tdmpaY9IBzgFBVV95cUxPWm1XeFlZMzlGTEs0LUZ6ZTcxR3kyX1dzMlZubjRieGo0Y3FaNXpwaWNpUWptWEdRM2lLdU5nUXJzLW5fUnpVdWd0eDBZTDVnNERqOUxjZUlvUzYtQ0FQUlBHT251anljVmlZYnJlVUVJSW80RU4wTzRSdVg0eXJWSVM5RnZ6NHIwVlBBN0FmeVJLSG44U0EzWTkwXzV4aGZ5Q3JlZ19KRHotdHQxNVVZUmNPUFM4V3hfTlV2X1ZRZzVlTXlUeHZJTTNqM2FWQQ?oc=5",
-      "published": "2026-08-19T00:07:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
-      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
-      "published": "2026-08-18T23:47:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-      "summary": "Meta to Stand Trial Over Claims It Addicted Children to Social Media The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0ZWSGp1V25wMVhUWFE3MnlqVnh3X3B6UzRRYjJiUzQwbTdSZXdkSERJakJmN3NtdC1FYkhRVHcyclhDc3c1NGxPZDNKSjRmR1FVUkgtVlNsSkJ1aW5GRERjazVkNzRQdmNKX29sVG9QVjZQOWQwbnhtSkpmazZRSGVnYkdITXl6bVlSYg?oc=5",
-      "published": "2026-08-18T21:59:48+00:00",
       "beats": [
         "Politics"
       ]
@@ -164,13 +164,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Embattled Florida Republican Rep. Cory Mills loses his fights to keep his House seat",
-      "summary": "Embattled Florida Republican Rep. Cory Mills loses his fights to keep his House seat NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0h4RWJJR2E4bHNFMVdNM1ZHcDZGRWZSVmQyNHVEZ0VUN04wQ2Zma25oREpYREdQbHpiWjRXeWNqUjJyYndxZDJ3djhrbU1ueW1JS3JhRlR3V0pwWlRXd2I4WHNfMS1TbDVTd2lQS0lyeWROSmhLNmhnRGhSbDFnT2tubndGbDNtdkZjbw?oc=5",
-      "published": "2026-08-18T20:04:18+00:00",
+      "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
+      "summary": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYWVMTUFGSlBEY2tXR2M1YWVPcGdvWG1qak5GLXNjenVjV0dFa05IbzM3UEhMMjhVY29oQmpENGNwSTkxX0hlSU1oZm82eGlndzFEemVPeEkzbnBXMGdscTR5MlhuQTAwcnhNRklwbW5UZzBjS1RWRllTcTBzR28?oc=5",
+      "published": "2026-08-18T20:32:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -288,7 +288,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion)",
-      "summary": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion) edweek.org",
+      "summary": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1RsMVdjZ1lBYnNtTGdzbXlPLUkyZHdoNkwyaXJrYTFaSE1vMmQ0cnd2b0JqR1ZfS0I1YXVydU1wcGJ1UHc3WUoxVlNjajdPRllsYWktZ0d0WWtyTnpHMTE1aW82QUk0Q0s4T2pGbExQR0JWY2k5S0g0dkhjazJmTnhkWTQ5NHJqS3BzbndtdFNPYi1fUENOMVhXODlsSEZKYWZ1S09SemQ3QQ?oc=5",
       "published": "2026-08-18T10:03:55+00:00",
       "beats": [
@@ -349,7 +349,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "How Teaching Handwriting Supports Brain Development (Opinion)",
-      "summary": "How Teaching Handwriting Supports Brain Development (Opinion) edweek.org",
+      "summary": "How Teaching Handwriting Supports Brain Development (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVlJbzVzLVJ3RlBuYzgzc3JJMHFVMndTTWN5WmNGWlJxeTI2eC1TZVVLdC1vTEd1X3A5dzVGTGVPYzJOcmN6S0lEeUwtbUYtMHItQ2NkZ1htNzZrUzQ2NE1WNjA0STRIS3hwQ0had2kzY2t0Uy0wTzZTVFVSU3ZmXzVSbnpoMmJQaldKQ2t4NE05NEVPWXgwRE5XV2Etd0R3Sm5RTjdhZFotZFFY?oc=5",
       "published": "2026-08-17T20:51:47+00:00",
       "beats": [
@@ -361,7 +361,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System",
-      "summary": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System edweek.org",
+      "summary": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System Education Week",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTBYczhYRjYtc19zeDUtdE8zN21mV2x3ZmVEN2p5OGF5MFExT0hXRHdrd0w2OHBaWjJPT1pPNXFOTWlXekZrQkJ0R1NDYjR2X28xMmxRTFQ0cWVMZDhNczVXYmRmcXRNcWRIWHhmX1dpcnYtMUdHTkpYT3RpTG8yRjM2M1BNeDFmQVBYMGx6OVVkbUhUelBPQUZ6eW16T0N0c0kzNFcxbEJ5TzlKd2lFZzdKanRsZTQ0WXRXX3FmdWdEUQ?oc=5",
       "published": "2026-08-17T20:41:47+00:00",
       "beats": [
