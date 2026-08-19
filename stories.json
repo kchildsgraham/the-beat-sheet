@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:13:34.759223+00:00",
+  "updated_at": "2026-08-19T05:05:40.095518+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,63 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "ABC and Disney sue FCC, alleging First Amendment violations",
-      "summary": "ABC and Disney sue FCC, alleging First Amendment violations NPR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXR5VlJmck9ma3ExZlJaNWhWa05XU3ZmRWV1YzdnSlFIeXM3VWtPMnNpUjdjcG94THVkb0lsMzhhRGdjN0E4U3A5aDgwaWVrMVduOEkxMG40WUhkbE9yQnpwMnhwWGJMZ2dMQ19nZnpHbER5Y3lHRS01WlNyaS10bTFwdy1GWW9HdkpwaWlxTm1vY1pBd0lKdFdUU25KQW1TM3Q1T3Zn?oc=5",
-      "published": "2026-08-19T01:47:35+00:00",
+      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
+      "published": "2026-08-19T04:00:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Dem socialist Angie Nixon scores upset in Florida Dem Senate primary",
+      "summary": "Dem socialist Angie Nixon scores upset in Florida Dem Senate primary cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUtSdzR3ZUdoSmNrXzJMNy1yZ3JrLVltQ1Qxekc3NTM5cEp4VndnV01LRGdwOWJKZ21MaWJOend6TkFuc1BfVGRiRTNpTG5BcnlGUW13UTNuczlfV1AtQThScXJ0Y3hVeTExRUJmZ0lXblUzMUJQTlVEOWdnanUwUkZwNHBDekhnN1NiWVhoTVRseVMzSXJVOFZkWGJfUVl3aU5aUlN1QkhoS0hFTHVseWtzVVNSQXhuS3c?oc=5",
+      "published": "2026-08-19T03:34:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
+      "summary": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYWVMTUFGSlBEY2tXR2M1YWVPcGdvWG1qak5GLXNjenVjV0dFa05IbzM3UEhMMjhVY29oQmpENGNwSTkxX0hlSU1oZm82eGlndzFEemVPeEkzbnBXMGdscTR5MlhuQTAwcnhNRklwbW5UZzBjS1RWRllTcTBzR28?oc=5",
+      "published": "2026-08-19T03:33:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Key takeaways from Tuesday’s primaries in Florida, Alaska and Wyoming",
+      "summary": "Key takeaways from Tuesday’s primaries in Florida, Alaska and Wyoming cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Lbk80V3JsTV8zbjJ3bndEeGlWbF9mNm56WFZaTmliNmJ3bVFyZlo0Z0pIYlBTbHlxeWlGdHhHVE03ZGJxY0tVUHZIYU5wNW9VQkhRUXFWRjBLSXhDbk5UbXd3T09xSHQ0VjBYbEp2aGQtQ3c3WWRadk01c3RwbFE?oc=5",
+      "published": "2026-08-19T03:07:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump postpones 50% tariff he threatened for some Canadian goods",
+      "summary": "Trump postpones 50% tariff he threatened for some Canadian goods cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DTWFxTENXVl9Gdk1vNWJneTVmeXZsSjltWjBPM2ZRWlR2djhQY1RNVGkyblVTY1M1Uy14dmZxYm13VHU3bUtoSUJkbGRzZmg0cGhOeWMwVTNjVWxkU3pveW1oT3dWSWZJc0ln?oc=5",
+      "published": "2026-08-19T02:40:00+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -44,13 +92,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Military drills between US and South Korea cut short at Washington’s request",
-      "summary": "Military drills between US and South Korea cut short at Washington’s request CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzZtbTk1bnUwazRHbXE2cGdMYWVISE1RQXpkUXM0ejhoR04yMjhWRlFQemgza2ZJM19FTThQdGNxbG1Ecy1KU3U5bmk0MG5MVVk1VjEtZ1Z1SEVDUTVtTklGUWFnLXJ3RFU4RUZTVmEwOUxJZTJQNWVBQnB4RElCRnUzN281cjRBc1ZMWg?oc=5",
-      "published": "2026-08-19T01:04:00+00:00",
+      "title": "CNBC Daily Open: Trump puts 'open' sign on Hormuz. But traffic is barely trickling",
+      "summary": "CNBC Daily Open: Trump puts 'open' sign on Hormuz. But traffic is barely trickling CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdldPVW9oSWhHbjl5NG5kVmhBNUZTdUFoUk01dEdGQkVidEdXYThBdjczcjFWMDlrUDZ4Rk5fbENQQmdIbm93RDVqQ3ZJZzNPdmNLNmt4elFEZ2ZrWnZLaE1idmdXb2pqQTA5ZjRwYXI1YXBMbUl5Rms2aGtYVlZTNmN0MHI4UVHSAYwBQVVfeXFMTnRoY0VLeS1aZVhGTTlzV1ZTZFBrbjJqZWhwZGdCSTBsZURYSHkwTVN3ZUxrU2cxa01KVHozZXA0M2hfU2RtbGt3OVZPSFprSnhRcDlIWE81WVFFSklGM0lfNG1DckQ0aGR3WExxQ1VPNmhobUxrWFZLZVZPOUlQOFo0ckx6emE3RGhPSVM?oc=5",
+      "published": "2026-08-19T01:31:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,25 +116,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Natalie Harp’s brother speaks out about her loyalty to Trump",
-      "summary": "Natalie Harp’s brother speaks out about her loyalty to Trump CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ1dFNFA2UW8wQVcyVHE5b0dxVHlldlFfZzhJc3cxYlVLQnVNT1RZMHpRUjJQZmtxbGpQM2o2clNyczBPbmtqVjdjYVRHakR2UGhqSzU5RWxYQ19LcUxXWmR3bERvVUdMM2kzNERmUWN2ZjlXN3BzeF9NRDc5NjFLMXNienU2YklSV3NZOEllRk43d3d2alE?oc=5",
-      "published": "2026-08-18T23:57:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-      "summary": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77 nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYWVMTUFGSlBEY2tXR2M1YWVPcGdvWG1qak5GLXNjenVjV0dFa05IbzM3UEhMMjhVY29oQmpENGNwSTkxX0hlSU1oZm82eGlndzFEemVPeEkzbnBXMGdscTR5MlhuQTAwcnhNRklwbW5UZzBjS1RWRllTcTBzR28?oc=5",
-      "published": "2026-08-18T23:26:15+00:00",
+      "title": "In upset, Florida democratic socialist Nixon wins Democratic Senate primary",
+      "summary": "In upset, Florida democratic socialist Nixon wins Democratic Senate primary CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOWJ6eldoTzl0OXdtWVQ2NXR4ZmEtSTgxTG9kYklpYWN3Zm1aVFVMV1EycVJONXh0aFlFMlIxMHlQbDl3dlJuVWJDZlFpenFJMHVsRFZpZ0k3bkp3SGJCMWJ5UzI2d3NleW8xWWxjSjU1LVVwNU5xdHREWUN3ZUpJbU44TGhYZmJqZElFMjVMTm5iWlVKNkI0bENXU0VlbjRENDZqWUktMGpsNGR6aDIzX3BaYlU3N3dwWHN6bnBFUnNmVW4tdmpaY9IBzgFBVV95cUxPWm1XeFlZMzlGTEs0LUZ6ZTcxR3kyX1dzMlZubjRieGo0Y3FaNXpwaWNpUWptWEdRM2lLdU5nUXJzLW5fUnpVdWd0eDBZTDVnNERqOUxjZUlvUzYtQ0FQUlBHT251anljVmlZYnJlVUVJSW80RU4wTzRSdVg0eXJWSVM5RnZ6NHIwVlBBN0FmeVJLSG44U0EzWTkwXzV4aGZ5Q3JlZ19KRHotdHQxNVVZUmNPUFM4V3hfTlV2X1ZRZzVlTXlUeHZJTTNqM2FWQQ?oc=5",
+      "published": "2026-08-19T00:07:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -96,45 +132,9 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-      "summary": "Meta to Stand Trial Over Claims It Addicted Children to Social Media nytimes.com",
+      "summary": "Meta to Stand Trial Over Claims It Addicted Children to Social Media The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0ZWSGp1V25wMVhUWFE3MnlqVnh3X3B6UzRRYjJiUzQwbTdSZXdkSERJakJmN3NtdC1FYkhRVHcyclhDc3c1NGxPZDNKSjRmR1FVUkgtVlNsSkJ1aW5GRERjazVkNzRQdmNKX29sVG9QVjZQOWQwbnhtSkpmazZRSGVnYkdITXl6bVlSYg?oc=5",
       "published": "2026-08-18T23:16:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Meet Natalie Harp, the aide so close to Trump she once rode in an SUV trunk to accompany him",
-      "summary": "Meet Natalie Harp, the aide so close to Trump she once rode in an SUV trunk to accompany him CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HN1RXcVA2eUdackVRSUl5UWNybXpYdjEwSnZuekt1WlBNSEJYZ2cycnFJY284T3VPajdpUGVfR0Q1LTBEaE1sLVNrYk5fZmRIUE9sWXJRNGZibmgxbFZ6NF85Rk5WMVI3SVRwWGJ6TmE?oc=5",
-      "published": "2026-08-18T23:00:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
-      "summary": "Jim Cramer says the market is too negative — and that’s creating buying opportunities CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXJ4VllFMjVuMW5vYzZvamd2ekFuUFZqQVl5dGxVUzlqZW1fWlBwVTlOQzVJU0M3LXpPNzFIb1J5N04zdi12VkRxX0JCMC0xSi12QXdDcU5sbmItSUw3eVhiQy1WOG9GZ0x3c1dUU0g4czBDRERJNGdjenZPd25ITDA4QmgzYXhNTFBPc0NUcmtnd9IBlwFBVV95cUxQTThWSXlidU9lZk4wZDkxcUxTRklzUFBCNDFBX2hoa1BlbWE3RDE3eWl0UDM1XzhQUi1CR29nT0Y1RzBXYmlXVzlRSmcyZ25iSEpBQ3dYWC03WDd6QkZRYWJfa1RDVjJmei1NY01ZZ3kyOElxcmdMLXVBZnBVRW1oMmZlbUVVbEtURjBkOHdLZXBjS01OREdj?oc=5",
-      "published": "2026-08-18T22:23:36+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
-      "summary": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hT1haZXNjMWYxSjNLTXJ3d3liejhCUWNPOFZIUGdjNWFWcnRMdnd6NjBpNUFHN1lXVjF4X19DMkNsckpKWlNpQWdlY0c0RDB2Yks0ZHA3MXVCMzNMVEE5WVZnX2xoY0hKdE4xRlFGMjZiSGwxRndB0gF8QVVfeXFMTk5VdnN6enlhQi03NF9hWW16OXVMM3hJX1NNa2pkNVE0QURNMUZ4LTlPOVlxcVJDR0ZLUzVfWXNzNlRoWHBmaFpuM0piRnpPSlFqMjZucTdrR3VBZzRkZHBtZFpOMUdxblVVY0Z2NXhUemthU2FDUjc0MGx3dA?oc=5",
-      "published": "2026-08-18T21:11:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -171,6 +171,18 @@
       "summary": "David Morens, former NIAID adviser, pleads guilty in COVID-19 records scheme CBS News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDc0cGJXVURyanZrMWtoaFQyN0YybUJWSHNuZWYxTUZjSXFnS0sybnZJdVFaaHNpYWF2VENLRnM3Y0xsMmFhR0UtT1JTeW9FdGxoQWR3Z28yckZtanJpVU51aTdnVXd3QjMyN1VnNk1PUDVaOUhYdS1PQkVNa0RYUFpR?oc=5",
       "published": "2026-08-18T20:03:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "ABC and Disney sue FCC, alleging First Amendment violations",
+      "summary": "ABC and Disney sue FCC, alleging First Amendment violations NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXR5VlJmck9ma3ExZlJaNWhWa05XU3ZmRWV1YzdnSlFIeXM3VWtPMnNpUjdjcG94THVkb0lsMzhhRGdjN0E4U3A5aDgwaWVrMVduOEkxMG40WUhkbE9yQnpwMnhwWGJMZ2dMQ19nZnpHbER5Y3lHRS01WlNyaS10bTFwdy1GWW9HdkpwaWlxTm1vY1pBd0lKdFdUU25KQW1TM3Q1T3Zn?oc=5",
+      "published": "2026-08-18T19:51:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -216,7 +228,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "‘High T’ Pete Hegseth hurls anti-trans slur at Iowa State Fair campaign stop while Iran war rages on",
-      "summary": "‘High T’ Pete Hegseth hurls anti-trans slur at Iowa State Fair campaign stop while Iran war rages on Advocate.com",
+      "summary": "‘High T’ Pete Hegseth hurls anti-trans slur at Iowa State Fair campaign stop while Iran war rages on advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzNZdDA0OUN4aHZ4d2wyd0FhdzV4bjF6bUR2MGxHeWowSWVERjFxQUZtWFBHNGJTTzJfdTl4WmtOM0dTWlVPdkR0VTNLNW9CS2NIcnI0ZDNLY0JjbFZibEhPTTR6bzRxV1F5cWgwUGxHR2t4MDNXWF9BbzFyVkFiRkEzdw?oc=5",
       "published": "2026-08-18T16:57:07+00:00",
       "beats": [
@@ -228,7 +240,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Transgender U.S. Army pilot faces backlash for stance against ‘pro-trans’ issues",
-      "summary": "Transgender U.S. Army pilot faces backlash for stance against ‘pro-trans’ issues Advocate.com",
+      "summary": "Transgender U.S. Army pilot faces backlash for stance against ‘pro-trans’ issues advocate.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82UTJCYTdsN2YtaHJMS25xR1pubzZCMFpmd3dkWEZ1cXVpYjBwU2x1WTNzbGZrOVhHVDJfbWt0WmpibXozNnB0Q19kQ2lkemh6VXBrSmJhU2xpSlBvVVNBR2hGWS1BMlRuZGhfQ2M3c09Hc1ZscUVicG5uU1Y?oc=5",
       "published": "2026-08-18T14:36:37+00:00",
       "beats": [
@@ -252,7 +264,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Nancy Pelosi on AIDS, trans rights, the legacy she resists claiming — and why Democrats must ‘win big’",
-      "summary": "Nancy Pelosi on AIDS, trans rights, the legacy she resists claiming — and why Democrats must ‘win big’ Advocate.com",
+      "summary": "Nancy Pelosi on AIDS, trans rights, the legacy she resists claiming — and why Democrats must ‘win big’ advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92MGJ1QkpvV1Vxc19FYTBQOHBnTW96dnN1VzZMbW9VanlmNFVQQ2lPeFlyZlpQOGllRXpzZ1JOVFY1c21QQ2VFZFJVMUFqcEVBeWpJWDI2bEFwdmxHVDdHVmlqN1ZaOVdYMjcxMHItMUtzejQ2Nmo3ODRn?oc=5",
       "published": "2026-08-18T13:01:30+00:00",
       "beats": [
@@ -296,6 +308,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Inside the Bay Area's resort-style senior living community boom",
+      "summary": "Inside the Bay Area's resort-style senior living community boom CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHRGYm5udC1UM0tncndPLWhqWmZqVE9KczdZbU5yUGV6ejI3QTYwZ3dhYWtrWFZlNFNTZXR2Y25sNGprOVpFeVRLbkdNODdTN2FUQ2VqT1BianhZT3NBVEhTT0hudjBCWVpUQkp5dVl3TDJVT0hjemxsOTAzT1daNkljcHpybDB6MVdVZGRfdzhYc3A0MkI0TlpGSFZDR1B6VGFEVFFCNXU?oc=5",
+      "published": "2026-08-18T01:30:08+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -318,18 +342,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Why Is It So Hard to Build a Transformer?",
-      "summary": "Why Is It So Hard to Build a Transformer? nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVhxejNhU3NlRmxrUmYxN0t2bkpiVXN1VWZnc2prQkhPeTUxbzRhTTZLQU50c2FrS3B4NHgyMUR1UEJHSFJUR1RGemoxT3ZiUFpnRHBnc0dSVFYxU2pDREJfZmlwNTZlaUljV1pzX01yQzZzS09VV3NUVEdNcWVmMEl4WnFkS0VEbTZINFZqX0g0eXV1ZjZBSA?oc=5",
-      "published": "2026-08-17T21:54:44+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -364,18 +376,6 @@
       "summary": "Body recovered from water near San Francisco Ferry Building CBS News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUk1RUNLaTNFeTVMNTRiMjJhMHU0ZmFZNU5NMHUwUDlNcDN2MGlrYy00bm5LbVctdWJRLThqREdfem05YkNmakFuTUVNaG5RQjdoUGtTWmV4MzJ2a0l0YmIycXBFcnhaUWF1aXZmQVFpNXdhb1NRcWtvNmVZUDVvNGhXMDA0cXhPcjYyai1nYw?oc=5",
       "published": "2026-08-17T20:14:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trans CIA analyst explains how Laura Loomer got her fired from her job briefing Trump officials",
-      "summary": "Trans CIA analyst explains how Laura Loomer got her fired from her job briefing Trump officials LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVY5cmtHQThhcTVYNkROZEMyMGN0YmdHX2lpVVR6Wm05ZzM1SHc0VmxLYXJVM2hxYlNrdFdtOFIxRUIzZkpRQlkxQ29GM3hlX3RqeERxU0tVZ1pvSkFOM1piZFRubTY5Y3FiYW5GN2toamc1VHktdzd6M3B6bG5pbmoweDJncWJpM0Yzb1hYTmM2MUtHbkQxWFlaZktrNnBmT0JvOFg3cWU1SlZOZVVqdEFwY1NqajJRYkk5WGNyVlB3TTFM?oc=5",
-      "published": "2026-08-17T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
