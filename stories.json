@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T17:02:08.608852+00:00",
+  "updated_at": "2026-08-19T18:03:07.261583+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Why Aitana’s ‘Superestrella’ is the surprise Latin hit song of the summer",
+      "summary": "Why Aitana’s ‘Superestrella’ is the surprise Latin hit song of the summer NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEFSMG5fZ0E2ZHBXU2JTd205czRxMGZZTkhkVXFNYnpFdFNwM3YwX01WaWUyejhwSFgxTzRjT3VfeVlqbWlFRXJIMkczbnlTeGkyeUlDenRUZXM1S1l2dmNKMVpFSmkwOUZvNE9QSnp2eGQ4Rk4tRFhvQW91dnFackdWOXJWdXd4YUVtNg?oc=5",
+      "published": "2026-08-19T17:03:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
@@ -40,6 +52,42 @@
       "summary": "U.S. military drills with South Korea are cut short after surprise Trump order NBC News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGk1aHE0S1c2NVVlR1JEVUs1MmI2bzNwZzJycGtDLWFGeXNMbm8yYjRhM0tmc1dBeC0wZDFHUENNSzhPclYyVFNLcE1sRkdKa2tNSEZPT19uaV9iZ2NKWUppQWYweS1TU284WkZfZXAwOU5LdzJrYy1uVlBzbmw5WDRRemtXZGZRcTVHNFFEMENjNlBYZWQxYUdmSkFtRU5PNm02Vk15Q1FlZw?oc=5",
       "published": "2026-08-19T16:32:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Board approves $19.9 billion plan to overhaul Washington Dulles airport",
+      "summary": "Board approves $19.9 billion plan to overhaul Washington Dulles airport CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQngtZ1BsTVNoVHluc09VODYyZ3dUYmg5cmFpNExuOWtkZzViTjFETXFLR2lIUjRvVDlma0pFQ19yQ19SOVdzWUVhMklPeVlHYXNKMndmdFhjcTNVaGRWS3hmOUl6LTVQUTVveGYyQzBRUUhLZ2xUb2FvUERaSUdNeEZycWhnMGxXdHMxSXNPdXRhbm8xQ2QwR0RUY0hfenFJRldIaC1pc9IBrAFBVV95cUxPZWZHblVOdkZ3c3h0NlJacGNmcUxHYXFUXzh4alo0ZDZDbDZNakpZb3NjQTd3bGx6UExyaTR0dm5RY01KekRiaUFISUdCeVJ4VkdDaDd0WUNOdlV5ZDdGbTRBT0FMR3c1QklTanFldXJ3eEQ3MlY0MWh6d3E4RGtIalUzcWdWOFB4YV9CQm1mMXFuMEk2MS1ITnUtWENpNE5BRDZjWTRiZENQZ09Y?oc=5",
+      "published": "2026-08-19T16:30:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Losses are piling up for Trump-backed candidates",
+      "summary": "Losses are piling up for Trump-backed candidates CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpX1o1U2ljYlU0a3drcVhVS3ZoZUUzWTg5Qm1tdG4yR205X2dOeUtoaXlqNzVMSFA0Njd1SWN2RlNoRDNRWFZqdGtvWmpkNTZ5NVJyX3BWeGtCMzAzcnZYMW5tbndkNy14WjlYeWRJZUpCUFhNRGJMNWltcw?oc=5",
+      "published": "2026-08-19T16:23:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. warns Siemens devices can be hacked amid fears Iran is breaching water plants",
+      "summary": "U.S. warns Siemens devices can be hacked amid fears Iran is breaching water plants CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOXJtRXRtRk9xc25qUVFIZlBNYWpwMXhjQTIwTEd4N3A2SjlpRGlYNi1rUElzdlFUS25SVEdsZld1UE8zd2tmRHVBeERJemxQdUdvRnd4aDd1VWx1M1lER0xKT252aEVsYl8wOUdNMEw4d05oa21KTXM3dUJxdk9pdVk0OHNqc3Y5cHp4bmZn0gGTAUFVX3lxTFBkQ1FoaFo1eFV0RXZJQUNhb2dObEZxVjVyYWNHaVFZNWxCbng0akxuMzBiMXFpS0dmM2ZDYkJ1bF9hd01BdktDZjlNV3A2QlU5WjhjelhoWGFhanQ0empNZGNhNXBDU1hTNGdLMXZiRWthTWNoRmFHb1RhTnJtQU1LODFfSVE0RjNkREZid296bTFDcw?oc=5",
+      "published": "2026-08-19T16:20:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -69,30 +117,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
-      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
-      "published": "2026-08-19T15:40:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
-      "summary": "This high-speed star is whipping around the black hole in the middle of our galaxy NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTBCVEwzYmU1QktRUFBFaG5GNmIxUFV0QjhfNHFGVFAtUHBFMnY2MjJvNTMzeEFFRG56cnNQb01WLWJoWVFMbnMxS2htekpOaFgxcDVVYlhKbkRRUkgyRjNkNEV5RV9uTENMdWtLSjdPbVV1NDZUWEstR0dyUUdvaTlUMG5DbTNNalIzLUtGYXFwYjVWbE1Lei1ZdUdKaVM2?oc=5",
-      "published": "2026-08-19T15:38:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -100,18 +124,6 @@
       "summary": "Rep. Jimmy Gomez accuser told House Ethics Committee he sexually assaulted her, attorneys say CNN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjFlSDZmMjU1N0hiU19OSHlWRGZUQkRjN0JfNU84aEZzUkpjX2RYYjVtWTRNRDZfMUNfMUw5ZEN6Q1pHUS0wSS1tSFhHX1gyMTZ5a3pnbWxySVp2ZjQwbnl6VG5kWlpiOElZR2IzWnl0X3AyaGdrVDVJS2JMWF9VMTYzeGhLbHBueFV3WTVpMlRsYXk0U0xvcE42NA?oc=5",
       "published": "2026-08-19T15:35:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
-      "summary": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUTlIR0J3WlVHSURhM3ZJZGx2SmdQek5jSk54VkVhNnhRRmxORzItc1pMTWZFcjlHRC1VTDFTQ3NLTVczTnNWaWZGUVJNbGN4Vi1TZnpkekVfZm5GcVBGbUY2Ukg1aGw5V2JDU3hxTVBNZ2IyWEE?oc=5",
-      "published": "2026-08-19T15:30:51+00:00",
       "beats": [
         "Politics"
       ]
@@ -138,30 +150,6 @@
       "published": "2026-08-19T15:08:05+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-      "summary": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4teEJkRklqaHFoUnU0NzFTNk5CQ0hxS1hvT25ocVR0UW8tSEt3UTZGZXRHNjNzZ0ZnVk9rOGdXZGJ0bGsxb25PYTR5RlRTUVBVb0x3VENKU3RIU2drVXI0Z1JJelVQNXEyWnRlUnk4QXlCTlpW0gF6QVVfeXFMTTRWbmNYcnlQMVNoZF9sWjBLOHVSTTdOcGx4Nl9tT2ZTS055SXRVaVNaSjFlNUlITHJZRlNnY01GNk40XzR3Z0YwQmNEN0R6QVhnQkhGcXljTXJySFRWYVgyUHZzTGU4RlNiaHh6ZlNBM0ZLRXNSMUtsT2c?oc=5",
-      "published": "2026-08-19T14:21:59+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-      "summary": "Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
-      "published": "2026-08-19T12:50:20+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -222,6 +210,18 @@
       "published": "2026-08-19T02:22:00+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
+      "published": "2026-08-18T23:47:26+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -337,23 +337,11 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges",
-      "summary": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges edsource.org",
+      "summary": "A canceled grant program deemed ‘discriminatory’ by Trump spurs cuts at California colleges EdSource",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZxUnJYdlc0VmFyREpvVWZqTXBRVGRTbzRpR3Axa1FldmZpMHpFRmtIVkRWTDhvVTNMTTdOaXRvWXRLSmZZRVRiLWhPWElycElibHVFMDQ5eUM2aHVCS3ZOMUgyV05CbV82NVVXanFIemNFZVhhRWdMdlAyOWVRUWpDcGlmX2RGUTRxYnEzbEIxUWc4V3pacHBmMFg4cW01ekRSMUk0R3AxdEdYeTNYcHBVMXBZMDlHMmtiMU9NQdIBxwFBVV95cUxQWWJ0YnpDeHRua0pDbXkya3Q5aU1USXJCSV82eVNxUFZqRXMwY3I4dExPMGpMTHBaSDRiNThwaXNHXy1BX2pkaGtUNDhVSHlfclMyalJhWFVUZUlkY2RsemVxS2UxSHMzX251MWZyNmNNdHpDNEEwMXdocm9SRFZYd2h4anRHQ1kwOGIxWlJTbDk5aXhjT1c3QWdwcTBoY2dCcFhqZ3VURGVEc1owakoyOFN4Tm1XSHU5Q3lRWm9GY2VueDNnZXZn?oc=5",
       "published": "2026-08-18T10:01:08+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Inside the Bay Area's resort-style senior living community boom",
-      "summary": "Inside the Bay Area's resort-style senior living community boom CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHRGYm5udC1UM0tncndPLWhqWmZqVE9KczdZbU5yUGV6ejI3QTYwZ3dhYWtrWFZlNFNTZXR2Y25sNGprOVpFeVRLbkdNODdTN2FUQ2VqT1BianhZT3NBVEhTT0hudjBCWVpUQkp5dVl3TDJVT0hjemxsOTAzT1daNkljcHpybDB6MVdVZGRfdzhYc3A0MkI0TlpGSFZDR1B6VGFEVFFCNXU?oc=5",
-      "published": "2026-08-18T01:30:08+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -376,6 +364,18 @@
       "summary": "How Teaching Handwriting Supports Brain Development (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVlJbzVzLVJ3RlBuYzgzc3JJMHFVMndTTWN5WmNGWlJxeTI2eC1TZVVLdC1vTEd1X3A5dzVGTGVPYzJOcmN6S0lEeUwtbUYtMHItQ2NkZ1htNzZrUzQ2NE1WNjA0STRIS3hwQ0had2kzY2t0Uy0wTzZTVFVSU3ZmXzVSbnpoMmJQaldKQ2t4NE05NEVPWXgwRE5XV2Etd0R3Sm5RTjdhZFotZFFY?oc=5",
       "published": "2026-08-17T20:51:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System",
+      "summary": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTBYczhYRjYtc19zeDUtdE8zN21mV2x3ZmVEN2p5OGF5MFExT0hXRHdrd0w2OHBaWjJPT1pPNXFOTWlXekZrQkJ0R1NDYjR2X28xMmxRTFQ0cWVMZDhNczVXYmRmcXRNcWRIWHhmX1dpcnYtMUdHTkpYT3RpTG8yRjM2M1BNeDFmQVBYMGx6OVVkbUhUelBPQUZ6eW16T0N0c0kzNFcxbEJ5TzlKd2lFZzdKanRsZTQ0WXRXX3FmdWdEUQ?oc=5",
+      "published": "2026-08-17T20:41:47+00:00",
       "beats": [
         "Schools"
       ]
