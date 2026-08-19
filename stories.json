@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T19:03:07.057360+00:00",
+  "updated_at": "2026-08-19T19:50:22.426778+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "summary": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5",
+      "published": "2026-08-19T19:23:36+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Five Americans, Ecuador intelligence chief killed in helicopter crash in Kenya",
+      "summary": "Five Americans, Ecuador intelligence chief killed in helicopter crash in Kenya cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53RE50ekgybzFhSWhsV1BBc2ZMdkNSb3VYSHoxTmVDNWJiLXQyVExSbkpyVXQ3WG9HVnc0Y2xfbW5taUxqa2k5S1BYMHIzZmwxRlpoUC1aN3E3T0N5Y0dMY1VVUnJPUl9XVHBKYXlaU0tweTF5WGxucUlITQ?oc=5",
+      "published": "2026-08-19T19:04:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -27,18 +51,6 @@
       "summary": "Lindsay Clancy trial ends earlier than expected \"due to unforeseen circumstances\" CBS News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzZUZFdOVGdraDMxWlV0aDB0eDQ3cjRMc1VweXpGZUM2Q25fRjd5SkwtUE5EbElWVGJuOFp1dDRZaWVwQ3hlTHo1T0ttNzZSUUZqeGctMk9EUGpKR3FST3VVek5wZDZFTGxCLURkOHlGdWVwLXlvX3JFSm9oWTdwag?oc=5",
       "published": "2026-08-19T18:48:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
-      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
-      "published": "2026-08-19T18:38:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,18 +80,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
-      "summary": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDTUVkejJpY2hodGNXTExESGhQczNQRjFMRUdZMnh2TGR4eHlOQThIaG15MDFUY1JzWHNaR1phNTFMYTFPT1J3TTB0cF94SkRHcVhBZTE4TnphbUJqRzhvQnExN3Ytb1BKTHRZQUZ0VW55Zm5sY0pWTGFiS0N5MEE?oc=5",
-      "published": "2026-08-19T17:58:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -96,7 +96,7 @@
       "source_feed": "CNN",
       "lane": "General",
       "title": "‘Very special stone’: Trump unveils another White House construction project",
-      "summary": "‘Very special stone’: Trump unveils another White House construction project CNN",
+      "summary": "‘Very special stone’: Trump unveils another White House construction project cnn.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbG5kc3hPS3BOS20xd1NPaEhsT1N0Zk5JcG82c3JwM1VBRHRnRjk5NkRTMzVoZEtuQnhtNHc2S2pkVWdGbFk4elg5U1U2ZUJQUnhrRkJOOTNkQXNWZjlzeGYzY1VfR1VtR3pYek9NZDVpdjZMTUtXMmNMZ0s3ZDF4VnJwRWo?oc=5",
       "published": "2026-08-19T16:56:06+00:00",
       "beats": [
@@ -145,21 +145,9 @@
       "source_feed": "CNN",
       "lane": "General",
       "title": "Trump says he intends to meet Kim Jong Un this year",
-      "summary": "Trump says he intends to meet Kim Jong Un this year CNN",
+      "summary": "Trump says he intends to meet Kim Jong Un this year cnn.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wYkFoc2ZSajJic1gzTk1YVUlnRV9PRGJMaUNKOWdia3NaVy1vbDBpWXpQVVlsdm56UDlyRFh2VnV4N2xJUllDSm9lSi1US3FKdnhiTlVkLVZPb2RCTzY5QlFMOHRydmNTR2lfWGhWc3ZNb2M?oc=5",
       "published": "2026-08-19T16:26:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Kennedy Center board tells judge it won’t remove tarp showing Trump’s name removed",
-      "summary": "Kennedy Center board tells judge it won’t remove tarp showing Trump’s name removed CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmNBXzdtdjc3ZHRUS3paTkNOVjhCcThKclpBRUFOazNaM2hqc3ZSaGtaVmR0ZEw3QmhhOTc5cEJINFcya09qRFBGZHZUQWRwRnNlQWhVejJRX3MyZnBubnJ1VlFaaXQ0blJ5M2lMNkZKdkh1aldaSlBSYThKSDhGag?oc=5",
-      "published": "2026-08-19T15:46:03+00:00",
       "beats": [
         "Politics"
       ]
@@ -172,6 +160,30 @@
       "summary": "A real-world study of Oregon's nonmedical psilocybin program shows promise NPR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0daZUN4OEtITHJIdG9YUTZBZDc0RzAyMnJfZ29lVko0dFlFcDhfNVdlNGhMTnZPYm1GX0ctWTRWWFZrd292N04ycDdGNVNMTE96QzhPV1U4azU3NTBSZ1hhWjFzdjE0VWRJeG9lNzRLdVhNMEFFS2d3Y3M1Ukxzdl9KM25ETWJrSF9RdXhpOA?oc=5",
       "published": "2026-08-19T15:22:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "At Tree 55, Vietnam’s Gen Z Demands to Hold the Privileged Accountable",
+      "summary": "At Tree 55, Vietnam’s Gen Z Demands to Hold the Privileged Accountable The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-19T13:46:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "El Niño Is Back. And Worse Than Ever.",
+      "summary": "El Niño Is Back. And Worse Than Ever. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJ3eUZldkVrd1RkaS1pMGE0SF9qckxMTVBFb3JsZWtPbjRQODgtNGxLLUYwcnM4Wm40dzJMWXZhV3phWXQxcEdoRk0zd1lLU1ZYQnhMZHRFYVo2LVAxS1lIbzZtQnktZnBXTFVfa1F2a0hrdjNra2dyMHZ6SnlVYlJycFZldk9SdWZLVktHM0hDSlBDS0gxRzFyT0FFTkRu?oc=5",
+      "published": "2026-08-19T10:00:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -192,22 +204,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The Tragic Story of Jason Arday",
-      "summary": "The Tragic Story of Jason Arday The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1FqN24wRmtUa243N3hZV0FEVXpUUmpJN2xlWXdDVV9SVjdEMUdjcmJGb2xBQU1yVFJwZ2tSaXBEWTRvZGlxczNkMFNqWnN3Y0RoZVpZQnZ2bThVZkRHdFVsRHgzQ1lGbjczS3IxcWl2OWROUWJSS1FFakE5aTZmcTRiSnE3Zw?oc=5",
-      "published": "2026-08-19T05:05:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-      "summary": "Meta to Stand Trial Over Claims It Addicted Children to Social Media The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0ZWSGp1V25wMVhUWFE3MnlqVnh3X3B6UzRRYjJiUzQwbTdSZXdkSERJakJmN3NtdC1FYkhRVHcyclhDc3c1NGxPZDNKSjRmR1FVUkgtVlNsSkJ1aW5GRERjazVkNzRQdmNKX29sVG9QVjZQOWQwbnhtSkpmazZRSGVnYkdITXl6bVlSYg?oc=5",
-      "published": "2026-08-19T04:58:00+00:00",
+      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+      "summary": "Liberia Agrees to Take 1,200 Deportees From U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWW5kSzFxRFlwN0UzY3VoU0NNUWw0ZVNtMDVxVDljeFdVR3lJcUU0a3hQNEVnTkZaTHlZeWhyR20wYURIZEJ5dVQ4Y0ZkcnJHakxMeTFzSVZLTl9Ja0Y4cmRzQQ?oc=5",
+      "published": "2026-08-19T08:53:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -269,6 +269,19 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm53R090aU43M3BtczR0eFdJeHc0SUpxOHNtN0tJdEF4V28yYUFRMllXd0c0QmhOSndOc3J6WnlVVHpiZmN1eXZUV2NSeTkzLS1vRHpIVTRiVUZLSUd3ekpOZVhHRUdLV2xmSlhPemx5bzAwWHQ5NVJUTEUzX2NnMWRnR2pGS1VXZ0Rr?oc=5",
       "published": "2026-08-18T19:48:34+00:00",
       "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Court allows Trump administration to access trans patients’ records",
+      "summary": "Court allows Trump administration to access trans patients’ records LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXBPenZnbXJqMHUzb1RkSGdmOV9LV20wMk9JSUhCVzA4dTRuS284dHJRUXdELWNLM2JCNVNxbGdVT1NmREVyOFk5MUlOdWFHUjlWcDloT3R1LXlGTXZCOU90MnlSYnlndHlDSGlDQU5zSzg2bTlUOE02OE5LVnoxd1hIb2tlOXBkV0VIYkZ1bkNYVzlzeEZodjJaeHFnUQ?oc=5",
+      "published": "2026-08-18T19:00:00+00:00",
+      "beats": [
+        "Politics",
         "LGBTQ+"
       ]
     },
@@ -364,18 +377,6 @@
       "summary": "How Teaching Handwriting Supports Brain Development (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVlJbzVzLVJ3RlBuYzgzc3JJMHFVMndTTWN5WmNGWlJxeTI2eC1TZVVLdC1vTEd1X3A5dzVGTGVPYzJOcmN6S0lEeUwtbUYtMHItQ2NkZ1htNzZrUzQ2NE1WNjA0STRIS3hwQ0had2kzY2t0Uy0wTzZTVFVSU3ZmXzVSbnpoMmJQaldKQ2t4NE05NEVPWXgwRE5XV2Etd0R3Sm5RTjdhZFotZFFY?oc=5",
       "published": "2026-08-17T20:51:47+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System",
-      "summary": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTBYczhYRjYtc19zeDUtdE8zN21mV2x3ZmVEN2p5OGF5MFExT0hXRHdrd0w2OHBaWjJPT1pPNXFOTWlXekZrQkJ0R1NDYjR2X28xMmxRTFQ0cWVMZDhNczVXYmRmcXRNcWRIWHhmX1dpcnYtMUdHTkpYT3RpTG8yRjM2M1BNeDFmQVBYMGx6OVVkbUhUelBPQUZ6eW16T0N0c0kzNFcxbEJ5TzlKd2lFZzdKanRsZTQ0WXRXX3FmdWdEUQ?oc=5",
-      "published": "2026-08-17T20:41:47+00:00",
       "beats": [
         "Schools"
       ]
