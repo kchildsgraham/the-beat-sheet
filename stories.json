@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:41:53.305899+00:00",
+  "updated_at": "2026-08-20T08:40:02.389908+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Russia again exploits Ukrainian air defense shortages as deadly strikes pound Kyiv",
+      "summary": "Russia again exploits Ukrainian air defense shortages as deadly strikes pound Kyiv CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90T2prZ3lKeEtrSmtVT0Mxdm0xMVRSenJNcHd1V0xFNWpVX25VZUdKSGpkczBhTWxKOXEwNWFQVW9fX3lJaVZuQXVYUFA5QURJbDBZVjNUN0lzY295YXpfdUxnblNpLTJwdmRvXzNxdXlISnRQclZiWi1ZTjJ2UQ?oc=5",
+      "published": "2026-08-20T06:39:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Trump bemoans 'ridiculous rates'",
+      "summary": "CNBC Daily Open: Trump bemoans 'ridiculous rates' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FdmhqUENLZEpyaVI3Wk1JemxvM05ISzhMTDgweTVaRWRydjBGNEJERElMWFJleDBxblZhNjZxbkpITDFnZ0prMXlxNktrT0NUZldDbDFMR0NEVW9GLWc3eWFXWkpGZnVZdk1YYUhTX0ZfWWx5S1dr0gF8QVVfeXFMTktNa0ZGNkpRRjczQ1NjZVZiTF9tWUQyWngxRjBOdGpiNG90WWlzTnNmSTM5Q0ZnVkozQXBpOW5pM09aOVZSSDUzclByendMb09MUHdHU3N0U0pGNkJDVnQta3d4ZEU5bDQ1NXBDT3R3SDM4ZHdRNjRycmZkcg?oc=5",
+      "published": "2026-08-20T06:22:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -35,9 +59,9 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Hui Ka Yan/Evergrande: Tycoon at the heart of China’s property crisis jailed for life",
-      "summary": "Hui Ka Yan/Evergrande: Tycoon at the heart of China’s property crisis jailed for life CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMksxN3VPWEVwa2ZZYmNWMTVneTU2RTloanZ5UDJnTGYwajUxLTkwbTU1VzJRVjZNSzFnWW1oeW02QmRYUXlYcG4tcDRGOV9QNGcwVXBwdWYweFBRNUh3cUJRbzRlSFdLVmU5UmRaaU1Yc0JoNnJ5dW4zMkVrMEVhNFF6MA?oc=5",
+      "title": "Evergrande tycoon at the heart of China’s property crisis jailed for life",
+      "summary": "Evergrande tycoon at the heart of China’s property crisis jailed for life CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEVDeGRNblVLUTY5N25KVmhrOXBySDE1Wk4wekl6d2J3SEVmVnZleHhSR01IVHAtd01nYXBfR2V2ZDhuUzZUTExHSWlxUWx2T1dPMmktMG55Ukp3aVlTbmtmNEdfbHV0dzc1QXZldW1YbDJyWlhudHJyZ2hNWExiVDJtVVZab0k?oc=5",
       "published": "2026-08-20T05:33:31+00:00",
       "beats": [
         "Politics"
@@ -80,37 +104,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump has a new plan to crush Iran’s economy. But will he stay the course?",
-      "summary": "Trump has a new plan to crush Iran’s economy. But will he stay the course? CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VR2cycmtJQVFMeVVSb19lUEJUS1U2RkVWUDVPSGo5WF9WUHVDOXhmSVZlMXlFcVJpVlY4elJNY2ttLWFsUzFKMmpuRnBvQ0VmUlNUdlNFWUxQZHhwbVNudnRuVTBuc2I1MzNPemo2cWYtVTBZZEkySjVEbw?oc=5",
-      "published": "2026-08-20T04:01:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: Treasury attempts to rein in bond yields as U.S. debt swells past $40 trillion",
-      "summary": "CNBC Daily Open: Treasury attempts to rein in bond yields as U.S. debt swells past $40 trillion CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUtwcjNOQmRwcHF6VlAzaXRsNHJ2Mm43ZVZnM05HR0xuYUs5SGRFR1hlLTQzSTAyTWNaZm81NEpNS0ZlV05XZUhnX2lzMHFvd2YtR1VKcWNYbUVocUd6X1d2OXF2dWpkTUlRTGJOSTlhSU1KaVVQamlvY0hrZEZTcUZZUE8yc2RKSGxfMtIBkgFBVV95cUxORnJ3SmRoelF6dUo0b3htRWtHUzk1U0xrZU5WbVQ3dFB6aUplbEZzeENTd3RfQmNFbEZ0emRRSUczU1FiTXg5S0pMV2t5RnhCb2NmeURYM0EyQmIyUEhFeDl4OFJ5VWRGU2d5ZmZyRkxyRkFHSTJWaFhBdFNwakxJVHVuVkR6TW1ub1l2QkRZblNsdw?oc=5",
-      "published": "2026-08-20T01:31:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
-      "summary": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjdQcUlraHYyYTY1UG5sUDJpV1dwZnpzWWZObU5iZ3g2RW1HSzFwTWNhcE1NaUR3Q3pWT1pYQXZibW1wMS1oQ1dUSVhObUhwcHN4MTVDWTNKOXFneGItamNBeWptNENKNHRiYXFJV0VJY2taaXFyRnJSQy1pRFlDbUhHMFnSAYoBQVVfeXFMUF9NTjA0UzQxLWRzdHFabk5acVdjbklmdzlGSlowZ3h4QnVIdmdGQjFfYUZsbEZSV1Bia1hISjZGVEgyNWlWcVBzMkVOSzYtR05OaXlBM3oxVkRKR0pycFZDeUxXejZnbXQzbF82Rjhud3NHR3VGZUhmQnl3MlpibFNGcFc4LTFHei1B?oc=5",
-      "published": "2026-08-19T23:11:20+00:00",
+      "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+      "summary": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDVHWVM4dVpSQUd2Y2JuLVltU0VJSjM4cFRfQXFqdXgzemNDWEZrWlF2X0ZteTlkeFdFb2dfNnhHcVdrbVkwQXZlRTFaeEtLd0p4RFFfS1lkNzBjS0EwUGhubHhHaHd5dkdmQ095RUFpekdNT1lBTDRKYUZSQm5OdEN0U294ZDNQdVp6OEdhNzfSAZYBQVVfeXFMTTRJaTdhaklVOUxPR09pN2lhQmFLbEZtS3VQVHVMS204aFVpdDV6VWd3U2x5U29qVUZCQ0xvN3Y0ZUVDSDVyMEZPWnNSNlhFSjJkWDRqWWxGMDlPcDByTnFKUUVjU09HWjM2VW42WjVnYnJZRUd0cktGTTNsTjVPM2ZsU3NOVEcyYWR3V05EQnI3LUZHLTdn?oc=5",
+      "published": "2026-08-20T03:30:00+00:00",
       "beats": [
         "Business"
       ]
@@ -135,18 +135,6 @@
       "summary": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T NPR",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC1BVWNwSHZMeGd6SDI3OE5QejYxUWF5aHpSbEtwV3UyMXJLNkxkSE5tQkRkMU5DT2NwaUpOWmVzU3JVclpVSGpORFBSMDFyTmN3Yk5QMzNOVFV2Y25MUzBZQXJoVVdkWlVzNWhGd3RieFV4MFBRQXFlcGlyTTFqMHdYQko4T1dEMFRVeGJDUmU2eFlHbENvS3VlOHZqUTdiSzZ4LUIwZzB6YlE?oc=5",
       "published": "2026-08-19T20:09:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-19T18:14:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -225,6 +213,30 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-19T13:46:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near",
+      "summary": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDQ4MzBmeUdBV0VLNnNTVXFKU3NkUVowYXZxVE5nNTJiYU9YT1dWOWRhdEg3ZG5NelNqSW55clZsb0lXbVdvOFQyVDdodGEzandYQ1BDUGZTbmc1eUU4c3pNUGlMUFc1b2Z1d0xQdGpEVHhzQnhNa1ZUdGNJZFREdVpyZmpkUQ?oc=5",
+      "published": "2026-08-19T12:04:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -246,18 +258,6 @@
       "published": "2026-08-19T03:31:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Eric Barlow Wins Wyoming’s Republican Governor Primary Over Trump-Backed Candidate",
-      "summary": "Eric Barlow Wins Wyoming’s Republican Governor Primary Over Trump-Backed Candidate The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMi1GMU1ScFlmZnQ4WGxXUEJrSldQakZobEtNOXR6V3BaNXJYUTNtX3ZVcjFTZWJnVmdhcklOc1pJM3JKdHhjYkpXT2VHVzJQLUpZYjY2cU9UUTJVd3BzVEpTWjZsMzlfMHo0aDhYOERJMm9rU09Bay1xVkRSd1pidVFPYlV6c00tX05ZMUdVUHo?oc=5",
-      "published": "2026-08-19T02:58:35+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
