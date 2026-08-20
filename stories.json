@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T06:49:19.358522+00:00",
+  "updated_at": "2026-08-20T07:41:53.305899+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+      "summary": "Prince Harry and Meghan are returning to the U.K. with their children NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmMlk2RExnSkoza3R2S1VRYjN2cXFfaXZaV2prUHRwUXdjc0w0Qnh4eUVtcV9vcjVOMXNBbjM2QTZMTFYtT2hsejNfY0dWdDJKQngtR05SQUNYamJOS3J0czVBVGk1Y1ZHSkU0bVVydllOdnQ5NlE?oc=5",
+      "published": "2026-08-20T06:17:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -27,6 +39,18 @@
       "summary": "Hui Ka Yan/Evergrande: Tycoon at the heart of China’s property crisis jailed for life CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMksxN3VPWEVwa2ZZYmNWMTVneTU2RTloanZ5UDJnTGYwajUxLTkwbTU1VzJRVjZNSzFnWW1oeW02QmRYUXlYcG4tcDRGOV9QNGcwVXBwdWYweFBRNUh3cUJRbzRlSFdLVmU5UmRaaU1Yc0JoNnJ5dW4zMkVrMEVhNFF6MA?oc=5",
       "published": "2026-08-20T05:33:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+      "summary": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVN1aWdNWVNNd21RNmo3MU0zOFlwMmZkT05zQ0JzeXl4eGxybnNIQkpjU1pwODNUbDg4cUhpVzlPSHQybTZOSUpNRXhQd1dRUGpMM3J0THpJQ05COWpvRVhIcW9HUTlMU1FreVJ6SUtmbUxucFM1Y29UUTVYUEV1TGdR0gGHAUFVX3lxTE9iX3dndjVoOEdJNWUxS2JMNUg1UzhOYVljd3g5WmFLdTE3TnVXNFhBdU1RbW9yUEJiT0RfOWNMSEUxQVEzUk5oUFk3aVlrNExVd2M3b2JfdVJVX09GQVl6ZlJaU0dLczdTeFdmdmtHTUNSZjFrY1FHTGdJSW5JRmoxZVJ3R2JOTQ?oc=5",
+      "published": "2026-08-20T05:29:50+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,12 +71,12 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump is squeezing Iran’s economy and oil sales. It may still have the upper hand in Hormuz",
-      "summary": "Trump is squeezing Iran’s economy and oil sales. It may still have the upper hand in Hormuz CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRUxzSWdmZFVpZDhTM2lDWVZSWDhGN2l5cUFCazZDNnhMa0ZDYTB4ZzdJZzdpbVItWHBIZ1EzaDBmSmk3ZjFOcTBvb3M4ekpSNVBwUFdxTDBVOHZiaml3SFBpOHNXNFlTZURDanlMMHRHc2tUOEhpTDdfanl3d0U?oc=5",
-      "published": "2026-08-20T04:01:30+00:00",
+      "title": "Reports: DEA joins investigation into Hayden Panettiere’s death",
+      "summary": "Reports: DEA joins investigation into Hayden Panettiere’s death CNN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHQwRVhaWUlIYkIwMFZZZnJGOG9zTVVrb3lOT3FZS2dfX2c1dDNLMi1qQTVJQnplVk9yNmEwVUpTTkp6MXBEb2JBNVN4cXNKR19aMFluUzdzVm5uMjVCdHZFRFFWcXR0NHZDemdIdHJPOXpSM0p3eVpqb0pQWHNRUUFKb1NwWnVOek5wd3BuWkppSzZ3ZWc?oc=5",
+      "published": "2026-08-20T04:58:18+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -92,18 +116,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-      "summary": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHVRY1BxQ2F0RzFSOTdOU25yeHE0UmxqUURfMFlfOWVuVkxGRDk0Q3d6aFhxMGlUdjJiVzJ3a3A3akNyRDBxQWU1REpzYVJVczR6WDljdTdneHNfRmhtc0FzMzVJbDZ5ZW1LbTNCSTFQZW50amJNcXp6Wk1rOWYxaEFLZlJrZnE4VnZYRkkyQmU1Qm1Gc3FUZkVkX243eHR4N3JpY2l6RlVUdzEySGlpM1VOTG1qSXA0eUNWSE9HRXDSAcYBQVVfeXFMTVJ3TW5fcGpDeHp4Wm1PYmRucUNaZFRMLU1qM0p6Mm9VRGV0dDVFU3RpM1ZwV3hEUjZlRWowUC1DQWVGZU1sVGpnTmRGQi11emw3UndjMkZvWXBtNno2eEtnbUtjYTNRMDNZYzd0bkZwY28yMV9nWnNfRHBEVk1KRDMyRE4tZXNJNnh6WUJmdG90cjRqN3ZOYlo1bFdYOGdXSkxtS1ZKR1U0RFdBTDhVdWhWeF81MTg3Y1lwbnJQYV9BbVlBVnlR?oc=5",
-      "published": "2026-08-19T22:39:40+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -111,18 +123,6 @@
       "summary": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGYzUi1laHEtRmkwZjhndkpRYXVqeFg4OWtfTWFWb2ItLWZMXzAwSWdSNVRqS3VLNVhNQnVMUnB3MDhIQ211c2ZUOFZtZUtYUnZ0UnctQWFjNElyWndGT1hFUUxYTllLelV0aFZWcllQQWFJOWVhQURPS28tQXJxWG8ySUZmb3hMN3c?oc=5",
       "published": "2026-08-19T21:27:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
-      "summary": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5",
-      "published": "2026-08-19T21:20:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -144,7 +144,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 nytimes.com",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
       "published": "2026-08-19T18:14:47+00:00",
       "beats": [
@@ -156,7 +156,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Melania goes MIA amid reports \"Tr*mp's Eva Braun\" has been passing him weird & desperate notes",
-      "summary": "Melania goes MIA amid reports \"Tr*mp's Eva Braun\" has been passing him weird & desperate notes queerty.com",
+      "summary": "Melania goes MIA amid reports \"Tr*mp's Eva Braun\" has been passing him weird & desperate notes Queerty",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXlWN0RjdV9jZWg3eTZaN1hhTDBpVGhkazYwNDYwbUdiT3R4ck5hZ3ZPeTQ2bnVlTXQyMVRJQnBuRmdIUzBzR3doMUNhZVVMVUQ4eXNWU29SREliQVpQOXF5UVRaOHlCV1J4OHQ0cERkUlJmeGRNT1MzX2ljMlktRTFvSW5nYmREeXZOLU5NTFhvMEpOb3RwcGNoc1kwRlBvOFhCb19EcVkzcHhoS3NlSzJyRkhfVnBNS25hUlVQdw?oc=5",
       "published": "2026-08-19T18:00:00+00:00",
       "beats": [
@@ -180,7 +180,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Rosie O'Donnell responds to Kathy Griffin’s Kimmel snub accusations: “Shoulda called me, honey”",
-      "summary": "Rosie O'Donnell responds to Kathy Griffin’s Kimmel snub accusations: “Shoulda called me, honey” queerty.com",
+      "summary": "Rosie O'Donnell responds to Kathy Griffin’s Kimmel snub accusations: “Shoulda called me, honey” Queerty",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTBUU3JOUmJ2dWJSSmx6bkRSdmxBaDFfcTZwMUI0V2JKX2tvY1hKNGRjQ09PODAyWUVsdnMwQnFLN2xlTXY1OTZnV3RKNDQ0a3hmVlh0MkdyMG05SXl6ZGpXRGZmbWpqLTdVSmtqdDdzQVcxOWFDSEM0aktSTWc3WkpNMTZwR0gwXzBtem9YVXRxMHVJaXhWdkpQd1ctWEFBVU5NY2NMcGV3ZHBTMFA5U29YQVdyeTYzT2lEMFhxYzI?oc=5",
       "published": "2026-08-19T17:00:00+00:00",
       "beats": [
@@ -217,7 +217,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | What Does the Trump Administration Have Against the 26th Amendment?",
-      "summary": "Opinion | What Does the Trump Administration Have Against the 26th Amendment? nytimes.com",
+      "summary": "Opinion | What Does the Trump Administration Have Against the 26th Amendment? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdy1QWlVTWTNmdmVEcFBQN3lmSFNMZl9OOHZLYlVISF9IVWI3UW01Z2stcElGTDUzbndLT0J3enVWclhaejVobTRGWkxVQTJCOFcyVlMxc1JzSzJOYVRHRnB4VU9XTU8zcnZ6MXZGbTJUaDNYcGQ4eGRGSlRWYnlEMkdwOA?oc=5",
       "published": "2026-08-19T15:00:06+00:00",
       "beats": [
@@ -253,7 +253,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Eric Barlow Wins Wyoming’s Republican Governor Primary Over Trump-Backed Candidate",
-      "summary": "Eric Barlow Wins Wyoming’s Republican Governor Primary Over Trump-Backed Candidate nytimes.com",
+      "summary": "Eric Barlow Wins Wyoming’s Republican Governor Primary Over Trump-Backed Candidate The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMi1GMU1ScFlmZnQ4WGxXUEJrSldQakZobEtNOXR6V3BaNXJYUTNtX3ZVcjFTZWJnVmdhcklOc1pJM3JKdHhjYkpXT2VHVzJQLUpZYjY2cU9UUTJVd3BzVEpTWjZsMzlfMHo0aDhYOERJMm9rU09Bay1xVkRSd1pidVFPYlV6c00tX05ZMUdVUHo?oc=5",
       "published": "2026-08-19T02:58:35+00:00",
       "beats": [
@@ -285,6 +285,18 @@
       ]
     },
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: California to distribute $450M in career tech funds to school districts this year",
+      "summary": "UPDATE: California to distribute $450M in career tech funds to school districts this year EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3pRaWpYUVJlSmVMT0ltalBsTkhyaEhaQnlXSklYekd6TXJWU0gwRUF0UjhYX2lUOU5fcDVkdGtXMHVkbDhMTk5qQlBnX0lPQ0E2eGotWjN4UXl2MXNvZXFaZlFpNG1ySHVBWUpTdk5OQURpalZkcWZWMlJlZU1EVnBtdnl5ajE1b1FqQjR1VTA1MGxaZnRWei1kc0RfZzFqMGRwblI2VVZHb19XN0gtLXUyUlotUWRrcFE?oc=5",
+      "published": "2026-08-18T22:45:37+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -313,7 +325,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks",
-      "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks queerty.com",
+      "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks Queerty",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTlseTRqVWNPWlcyRUZrX1diZmFxS0hqX3Z0M1FDTlFHYWVPMldhTWN1eV9kcUFISzdxQTB5MFU0M21rUm9ZNDlKR3RkQy1RdmNJX1JXNWFWS2Z4YzU3c1FtUTlkcGdvU1RDdTFrS0oxWnd2VE5ERjdzTDRFb05odGlaa3N4QVlueGw3RDhiZVpQbXE3dVhub0cwVDRLMHBMTTN3MG9ueDRjMC01WGlVOXZOeHJWckwxWnRyalRRZEJ2QndDYjFHZw?oc=5",
       "published": "2026-08-18T20:00:00+00:00",
       "beats": [
@@ -365,18 +377,6 @@
       "summary": "FCC opens comment period on E-rate’s future K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2tjZ1ZxdVpmNmk0ZXpEOVNuTTVBLTRscUZGRXFlSTh1WW05RFExV0tEV0NyVVhKclFBYVVSbnJWSzRLMnFaU0dndDRPZmN3MGRvQlAzbTV1NU9DWmlHQVRFUV9XbndQcFMwbTc4WGlrRzJNTHpxdTV5VlhlcjBSQ0dxVXBtZw?oc=5",
       "published": "2026-08-18T13:33:51+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion)",
-      "summary": "Howard Gardner: How AI Will Force Us to 'Rethink' Education (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1RsMVdjZ1lBYnNtTGdzbXlPLUkyZHdoNkwyaXJrYTFaSE1vMmQ0cnd2b0JqR1ZfS0I1YXVydU1wcGJ1UHc3WUoxVlNjajdPRllsYWktZ0d0WWtyTnpHMTE1aW82QUk0Q0s4T2pGbExQR0JWY2k5S0g0dkhjazJmTnhkWTQ5NHJqS3BzbndtdFNPYi1fUENOMVhXODlsSEZKYWZ1S09SemQ3QQ?oc=5",
-      "published": "2026-08-18T10:03:55+00:00",
       "beats": [
         "Schools"
       ]
