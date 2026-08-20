@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:40:02.389908+00:00",
+  "updated_at": "2026-08-20T09:36:02.192971+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "summary": "Chinese court sentences founder of property developer Evergrande to life in prison NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQamplSVNibHpZSEFPSmFPRFpoVEpYWUI5TlJwYmYtUFRnbm83elNVcTBhTEg1a0p0WVktNmZya2tTMkhDbFlmeUk1ZU5xMFRvY2pFRkoyY21oU0owOUNSYVJPdm92ak5MZThtNTlVSHpFMnBuVE5NRUUxQXVXNkF3a1RuNlZsWXc?oc=5",
+      "published": "2026-08-20T07:31:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -59,8 +71,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Evergrande tycoon at the heart of China’s property crisis jailed for life",
-      "summary": "Evergrande tycoon at the heart of China’s property crisis jailed for life CNN",
+      "title": "Evergrande tycoon at the heart of China’s property crisis sentenced to life in prison",
+      "summary": "Evergrande tycoon at the heart of China’s property crisis sentenced to life in prison CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEVDeGRNblVLUTY5N25KVmhrOXBySDE1Wk4wekl6d2J3SEVmVnZleHhSR01IVHAtd01nYXBfR2V2ZDhuUzZUTExHSWlxUWx2T1dPMmktMG55Ukp3aVlTbmtmNEdfbHV0dzc1QXZldW1YbDJyWlhudHJyZ2hNWExiVDJtVVZab0k?oc=5",
       "published": "2026-08-20T05:33:31+00:00",
       "beats": [
@@ -119,24 +131,24 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-      "summary": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGYzUi1laHEtRmkwZjhndkpRYXVqeFg4OWtfTWFWb2ItLWZMXzAwSWdSNVRqS3VLNVhNQnVMUnB3MDhIQ211c2ZUOFZtZUtYUnZ0UnctQWFjNElyWndGT1hFUUxYTllLelV0aFZWcllQQWFJOWVhQURPS28tQXJxWG8ySUZmb3hMN3c?oc=5",
-      "published": "2026-08-19T21:27:51+00:00",
+      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+      "summary": "California passes toughest wildfire rules in the U.S. for home landscaping NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczNPWnlGeXlLYmJveXFsRGJ5Um9Jenh5N2Vyb0c4c09PcElua0kzc2trX3hNUWE1Z01hY292eHhFS0NqY3RsaUl5dkk1ejA0WGVialdZVUpZZC1iQ203RHdGci04WWY0SEtZaXJGeDRYM2N0OER0MlVpVjBCaDNINXhyNEtTRUwzdF8taFNpMTg4UG9aUFE?oc=5",
+      "published": "2026-08-19T23:19:12+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
-      "summary": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC1BVWNwSHZMeGd6SDI3OE5QejYxUWF5aHpSbEtwV3UyMXJLNkxkSE5tQkRkMU5DT2NwaUpOWmVzU3JVclpVSGpORFBSMDFyTmN3Yk5QMzNOVFV2Y25MUzBZQXJoVVdkWlVzNWhGd3RieFV4MFBRQXFlcGlyTTFqMHdYQko4T1dEMFRVeGJDUmU2eFlHbENvS3VlOHZqUTdiSzZ4LUIwZzB6YlE?oc=5",
-      "published": "2026-08-19T20:09:39+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Ohio abruptly blocks transgender people from changing gender markers on IDs",
+      "summary": "Ohio abruptly blocks transgender people from changing gender markers on IDs Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KcTRDbUZIMHhBNGNPdFJyal9oWG4wbXQ0MmZEdFJmRi0yN0FGcGlZaGxQMEtMUVNNX1R0YWU3enRSUW40MDBmZTktZnpMdmpXQThzTVVKUTNpNGxiVGM2NEQ1c3d3UmVsVHNsQ2gtS3VzZVBIc0ZkcDFB?oc=5",
+      "published": "2026-08-19T20:40:26+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -219,7 +231,7 @@
       "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
       "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-19T13:46:11+00:00",
+      "published": "2026-08-19T13:46:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -328,18 +340,6 @@
       "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks Queerty",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTlseTRqVWNPWlcyRUZrX1diZmFxS0hqX3Z0M1FDTlFHYWVPMldhTWN1eV9kcUFISzdxQTB5MFU0M21rUm9ZNDlKR3RkQy1RdmNJX1JXNWFWS2Z4YzU3c1FtUTlkcGdvU1RDdTFrS0oxWnd2VE5ERjdzTDRFb05odGlaa3N4QVlueGw3RDhiZVpQbXE3dVhub0cwVDRLMHBMTTN3MG9ueDRjMC01WGlVOXZOeHJWckwxWnRyalRRZEJ2QndDYjFHZw?oc=5",
       "published": "2026-08-18T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump cannot strip Obamacare protections from trans people’s healthcare, judge rules",
-      "summary": "Trump cannot strip Obamacare protections from trans people’s healthcare, judge rules Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm53R090aU43M3BtczR0eFdJeHc0SUpxOHNtN0tJdEF4V28yYUFRMllXd0c0QmhOSndOc3J6WnlVVHpiZmN1eXZUV2NSeTkzLS1vRHpIVTRiVUZLSUd3ekpOZVhHRUdLV2xmSlhPemx5bzAwWHQ5NVJUTEUzX2NnMWRnR2pGS1VXZ0Rr?oc=5",
-      "published": "2026-08-18T19:48:34+00:00",
       "beats": [
         "LGBTQ+"
       ]
