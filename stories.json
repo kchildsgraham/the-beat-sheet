@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T11:55:03.328941+00:00",
+  "updated_at": "2026-08-20T12:52:14.124384+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Walmart gets $2.9 billion in tariff refunds | CNN Business",
+      "summary": "Walmart gets $2.9 billion in tariff refunds | CNN Business CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84bFRlaUZjVnNlZXFlaFRGeDRqZFdxSDZBZjhodkJHWVpGTTQtUjRULWIxYUZ2Zm80dVZWV1lCT2QzWHJ2X0lmMkhxcFJXN3dRZ0NmaVNILXpjcHE1M09vYTJ2UEpxeVV2TEQ0U2hR?oc=5",
+      "published": "2026-08-20T11:43:17+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Melania Trump prioritizes policy over public presence this term",
+      "summary": "Melania Trump prioritizes policy over public presence this term CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5scVlaajZWUzhLNWhsUnRacTRyQzVpeDl0QWZjNkRBYklxSG83TmJFQzRYNlFmZjd6OEpQUWVnQUxpTHRNbjE2OXdhNUNtMElCSmc4cmFHOUxmUkkwQjJzSEJ2QUtLVThoUmxFQXJ6SG00WjR3R0piR0NFUDRiYXM?oc=5",
+      "published": "2026-08-20T10:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -32,15 +56,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Disabled adults learn and work in their communities. That right is under threat",
-      "summary": "Disabled adults learn and work in their communities. That right is under threat NPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5VaTBiZGE2N25KaWFGRko4YkJOblI5NnQwYUotSVc5ZXpfc09sNGFiZ1JEQ0xMNmg1VGcyOHhMZGJidlhUc1NPVVZoSExQUUx1NEt6UXBuSG9GM0EtbkhxQ1ZSSkJnZFhuTGd1SUc0bFBLRjByZzhXNE93WHdYVFNtQkZSc2hkZzM1SjFaV3ZUQU1ZdC1aU0RwMHVkQQ?oc=5",
-      "published": "2026-08-20T09:00:00+00:00",
+      "title": "GOP candidate’s company paid $3M to settle claims it exploited immigrant nurses",
+      "summary": "GOP candidate’s company paid $3M to settle claims it exploited immigrant nurses CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVI0aFVtNzhOdjdnSy01Q29fM1lTRnQ3c1hMcTJlYU5CYy1SdFJ0RjRMLXY2YUM0RmhfWFdaa1VSanY3QmI3UUppRTMyLVFsdXg4aS12UTFIZlhhaVlacEh4YWZNUGxwcmNwUUVHYm4zaWhWQTRTbUI5VkpHa2tTd2szN3RMaXo2?oc=5",
+      "published": "2026-08-20T09:00:29+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -56,26 +80,26 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Disabled adults learn and work in their communities. That right is under threat",
+      "summary": "Disabled adults learn and work in their communities. That right is under threat NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5VaTBiZGE2N25KaWFGRko4YkJOblI5NnQwYUotSVc5ZXpfc09sNGFiZ1JEQ0xMNmg1VGcyOHhMZGJidlhUc1NPVVZoSExQUUx1NEt6UXBuSG9GM0EtbkhxQ1ZSSkJnZFhuTGd1SUc0bFBLRjByZzhXNE93WHdYVFNtQkZSc2hkZzM1SjFaV3ZUQU1ZdC1aU0RwMHVkQQ?oc=5",
+      "published": "2026-08-20T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
-      "summary": "Bond yields edge higher as traders digest Treasury debt buyback plan CNBC",
+      "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
+      "summary": "Treasury yields rebound, wiping out the decline following Bessent's intervention CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTnSAa4BQVVfeXFMUDJXVzY5dHRmMVcwS2RXRFNqbDVsUkFhMHpPRDdPd2pYYVZJZ293dUtXNU85M3BNR2pQaVNQa3I5MVY0eE5HS2JVZGFwM2J5eS1OVHBubTI5bEZZa2o5ZDBjUWdOeEF4b295NTc3XzNhUjNDUkZIaDN1Qy1FN2dhbDF6WWxweUhRUm00bVUxS3Ywd1F5M052cVViQ3NCX1MtNzJVVWkzVnAzZnZFbEJ3?oc=5",
       "published": "2026-08-20T08:57:47+00:00",
       "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "ICE detains captain of boat that capsized in NYC harbor, killing mother and infant",
-      "summary": "ICE detains captain of boat that capsized in NYC harbor, killing mother and infant CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kU1RoQVY3R291dkZuREF5OEs5WnU3V0hxNDNhMmJOWG5QdndaR2dzM3dVNFMxMEdMX3EyNkpBalJuVGZwdmF0TTVndUJNcjc4OU56bFB1OExEZUNmQTgxYUFIVmlMVm9ZOTdhMy1taDRxcFlrVE9CNHlXN1ZiUzQ?oc=5",
-      "published": "2026-08-20T08:35:08+00:00",
-      "beats": [
         "Politics"
       ]
     },
@@ -83,34 +107,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Oil prices rise as Trump sharpens Iran rhetoric amid talks impasse",
-      "summary": "Oil prices rise as Trump sharpens Iran rhetoric amid talks impasse CNBC",
+      "title": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse",
+      "summary": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse CNBC",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGdnA4OVZkTmFweUtBR0JuVmRXLXp4N2NrWS1Ya19XdjRDUjVKSy10Sy1Rbk5TZVpwTHRNVXdZcFcxcllnVGpzLUR4WHdpWnk0RkFDemFwdlphZms4ZUluV1dzVWZoY3ota2ZrUkJpNTlXTGQ5cXJZQU5n0gF_QVVfeXFMT18yT3pMYTJVSkNEMk85aFdpSlVvcmlTeEh0TlBpbExnWUREYW80NDdtWG9ySnR2N2dFenFRVlBVaWZmME5OQzB2VmxoYndUWV9pQTJtVFRsYlpOYWc0Qm9MWTNpWXZQNFRZVGdIbklTMVlLSEk4R05wcWxHd0Q4Zw?oc=5",
       "published": "2026-08-20T08:33:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-20T08:31:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Experts slam ‘flawed’ Trump administration Census report on alleged noncitizen voting",
-      "summary": "Experts slam ‘flawed’ Trump administration Census report on alleged noncitizen voting CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVURWNXVuWUNFNzhkU3Eway1YQkk4WVdjcTBSUlEzbXliZEMxV1ZKd2VhYTlTSmh5RElPN3M2MzZMMWVnN004WjRUVGNvZnphbDl2eWdZUlRrbEppT3dJOUNmT3V3c0RqdXVUVUo4clQ3YUtCS1djc2tzQmZMVkFWUHM0WG5wMFlmVUpGM0hucw?oc=5",
-      "published": "2026-08-20T08:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,25 +128,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Evergrande tycoon at the heart of China’s property crisis sentenced to life in prison",
-      "summary": "Evergrande tycoon at the heart of China’s property crisis sentenced to life in prison CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEVDeGRNblVLUTY5N25KVmhrOXBySDE1Wk4wekl6d2J3SEVmVnZleHhSR01IVHAtd01nYXBfR2V2ZDhuUzZUTExHSWlxUWx2T1dPMmktMG55Ukp3aVlTbmtmNEdfbHV0dzc1QXZldW1YbDJyWlhudHJyZ2hNWExiVDJtVVZab0k?oc=5",
-      "published": "2026-08-20T05:33:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
-      "published": "2026-08-20T00:36:08+00:00",
+      "title": "U.S. debt crosses $40 trillion threshold after doubling under Trump and Biden",
+      "summary": "U.S. debt crosses $40 trillion threshold after doubling under Trump and Biden NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTQyRHRjREVqSzd1R2NEV0U2c2I2WkxPbEo5Q1JmM0E4QUdnS1pFX0EzQ1V1U0JQZUJVNjh0SWtWZFdoNXFWVXRFRVpoajBwVU9YS0pIWUV0b0VfNVU5M2thV0Fnd3hLeG45QVNWZHRFLWlZMHVaS005QV9wWWgtbmhhU1BxT3BjRzlJNnVwbERKVkRGRldFS1pHOWJMZnUyZDRURVl1cVphLVdRcXNwckljTkNXX1k?oc=5",
+      "published": "2026-08-19T20:57:10+00:00",
       "beats": [
         "Politics"
       ]
@@ -249,13 +237,37 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Kit Connor joins the MCU, Cerulean City Gym leader hits the beach & Baku Taru shows skin",
+      "summary": "Kit Connor joins the MCU, Cerulean City Gym leader hits the beach & Baku Taru shows skin Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZV9ObHl4U0dzbXNhWmlRQ2lYUnFRUUhZSkg4b0s3ZzQ3SWlTVzhnQ2lMbEJQd1dfYVBrdkVocjVNa2xtUWpBZm5ZWU93UEFTUWtqUHZtcUFMUjdPczJkdHlOa3Qwb0NETEZZc01zWExwek9DVnkzMmhmbGdZZ24zeXRGanN4S0ZvVDB5Z1dHbnN5dGxUWFpXSVE5bG9leVRKU29tbW9IRXR4SmJOM0o1SGlRQXJocjVrdXl3?oc=5",
+      "published": "2026-08-19T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom",
-      "summary": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc01mMTVZOGREN1lkSVh5cmI0X2FYY0dXeXFzNnV5SnpSV3M2VFM1OExocG1JQld3U0FxcXB3djl3amFrMHBQTWlPeVVldV9DZjVFVnZ6c1RBOTkyRW1wYjJNVmZCWlZRYVhnWkF3eUFObHhSNDVkWjAxNXpVMmxqTExSekk4QlhTc1g2X3RBRElQTWdINE5ndXJtUHRwWVlNdHB2dl8waWItYllG?oc=5",
-      "published": "2026-08-19T09:54:09+00:00",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-19T13:46:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near",
+      "summary": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDQ4MzBmeUdBV0VLNnNTVXFKU3NkUVowYXZxVE5nNTJiYU9YT1dWOWRhdEg3ZG5NelNqSW55clZsb0lXbVdvOFQyVDdodGEzandYQ1BDUGZTbmc1eUU4c3pNUGlMUFc1b2Z1d0xQdGpEVHhzQnhNa1ZUdGNJZFREdVpyZmpkUQ?oc=5",
+      "published": "2026-08-19T12:04:00+00:00",
       "beats": [
         "Business"
       ]
@@ -330,18 +342,6 @@
       "published": "2026-08-18T20:03:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks",
-      "summary": "WATCH: Chris Salvatore haunts his ex at the end of days in queer apocalyptic horror Scorch Marks Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTlseTRqVWNPWlcyRUZrX1diZmFxS0hqX3Z0M1FDTlFHYWVPMldhTWN1eV9kcUFISzdxQTB5MFU0M21rUm9ZNDlKR3RkQy1RdmNJX1JXNWFWS2Z4YzU3c1FtUTlkcGdvU1RDdTFrS0oxWnd2VE5ERjdzTDRFb05odGlaa3N4QVlueGw3RDhiZVpQbXE3dVhub0cwVDRLMHBMTTN3MG9ueDRjMC01WGlVOXZOeHJWckwxWnRyalRRZEJ2QndDYjFHZw?oc=5",
-      "published": "2026-08-18T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
