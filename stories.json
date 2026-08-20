@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:36:10.527622+00:00",
+  "updated_at": "2026-08-20T22:29:26.529699+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "FBI Arrests Woman in Plot to Bomb New York State Capitol Building",
+      "summary": "FBI Arrests Woman in Plot to Bomb New York State Capitol Building The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUxtYTNibXVIYlUycnByVDRMSVhPOUV0TzNMdGdPTHRhN2gyQlA2TDVYcHZEOUltdDhRRG10b2RyNGJhdU5sNUNsVEZlai1mTWMzRzdrQzN4Zm1vUEJDTFZRU2NKRFdoZGNCRl9lbFlrdk5Ydm4wak9DOXFiRGtQU0stYWU?oc=5",
+      "published": "2026-08-20T21:20:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -39,6 +51,18 @@
       "summary": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC CNBC",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUs2ZndobXZzVWozaEljaDRzSUFyRUFUVnBXYXVmdktteFU2d01vMFZXOHFXbC1sUlVobkwtc3J5YTFLOTd0Q0VLWlRHWmNHcnk2THZ3ZW1VZ1lndkNGeS02OGg5TWRnSmQxaEtZa2VmeVVEQmx3dENDYnlHdldWV3JR0gGHAUFVX3lxTFBNUko1ZWZnRjdVNk5ZOVBJS21ScVhidlJHS2pvdkgyNlpNcjNqM3NRRXZiZEpkSEhNczBsWXZEQ2pWNV8zOVBlSlN5WlZSQXI5am9SVENud1pRZmVGdmU2SHBjZ0FkaUhnV2pRMWNWRnc4RWFwRnVKbHpKeFVXUW1WRlF0a0d1WQ?oc=5",
       "published": "2026-08-20T19:55:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+      "summary": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ?oc=5",
+      "published": "2026-08-20T19:54:19+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,25 +128,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-      "summary": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2RWOUVXampOMVQwQkRPeHZ4STFhTWE5Yk01Zk9MRjRoMmtzbld3bm9hbTZvRTlXVXlOVExsUk9XS2RHcERyTm93R3ZKRHVIS3dsaWVtaDZIeWFEYmZQNkVHb0szVVF1eHk2RlBRVml3dVFDa0RRUDIzNGYwWmFRdUJUSmFxRzZyZmJBNXdVZXg1YnpuZnRidDgyVl93cklD?oc=5",
-      "published": "2026-08-20T16:49:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
       "title": "Watch CNBC's full interview with Treasury Secretary Scott Bessent",
       "summary": "Watch CNBC's full interview with Treasury Secretary Scott Bessent CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnJwXzBLaVJIbWFWQVdvcFNmdlNsRUZ0WFd0YVhKNURvQWxBMlNGU19ZVDFtbjdFYnpvcUd0a1RWYUcyWnNXeXJTRkxrdVFLeHczWGtCUjg0TnUxQ1EtUEJGSnBCODJPd0NZQno4b1M1bUVjd3dGdDlFalc1bFB5S0xJYjJLalhwRVUyZVVHZGZUWVhiV29xQlk4U2JIOWllZy1hOFhaMERiS0k?oc=5",
-      "published": "2026-08-20T16:03:58+00:00",
+      "published": "2026-08-20T15:39:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -154,6 +166,30 @@
       ]
     },
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Efforts to keep ICE off of school grounds ramp up",
+      "summary": "Efforts to keep ICE off of school grounds ramp up K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXo0dkRabkN4WUdXcVBVQl81UXFad2o2M1BvZTlUUWVrR1dlSWZMZE5iY0JtSHVjZkxFMk9YWXNyUVE0ZWlGWVp5dTh6VW9UaVFVMUhaeUg1OVhWZnlRamNUZVJJYzhJeGdZUklDaDBhRi1fbjBXNWgtSk5jUU55ZGVXY0FMMGxIUUZEanVBOA?oc=5",
+      "published": "2026-08-20T13:01:29+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. to send hospital ship to Peru as El Niño threat looms",
+      "summary": "U.S. to send hospital ship to Peru as El Niño threat looms NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVprM1hBbGhWMlhINXdrZ0NIQ1haRUVDLVdCV1kwZ0x2SnpWYWFTbnp3ampxbXVZUnY0VVpOc0NKN29uR09VMHBkT01iVUs0WTQxM0hVMkdxNTdlak94M2RWZmw5TnlsX1F3Y1Jub2c2Z2h3NFpNQl9rcjdyMjhoN0dvbm1QNk0xeXpLRTlwVUdNWlg2Rms2dG8zWFk?oc=5",
+      "published": "2026-08-20T08:53:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -173,18 +209,6 @@
       "summary": "Opinion | America Is About to Get More Expensive The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX01mcm5aQWdVdUVpa0dYQWNFVV9ZcHBUZ0JKQjZ4TEpJWWJ0d1VrM053VHBNUkM4czdNWU1QNXE5bXlEdFhCM2YwMHIzLWlYT09mN3lzdjlNS0JNbFA3dGtqdVhtWENhNmx6TDNNZjJLRDFpUmsyTTk4c3ZJN0UwaHZ5RTFmX3RFNG01bEhEbjBfdw?oc=5",
       "published": "2026-08-20T05:00:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
-      "published": "2026-08-20T00:36:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -358,30 +382,6 @@
       "beats": [
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom",
-      "summary": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc01mMTVZOGREN1lkSVh5cmI0X2FYY0dXeXFzNnV5SnpSV3M2VFM1OExocG1JQld3U0FxcXB3djl3amFrMHBQTWlPeVVldV9DZjVFVnZ6c1RBOTkyRW1wYjJNVmZCWlZRYVhnWkF3eUFObHhSNDVkWjAxNXpVMmxqTExSekk4QlhTc1g2X3RBRElQTWdINE5ndXJtUHRwWVlNdHB2dl8waWItYllG?oc=5",
-      "published": "2026-08-19T09:54:09+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts",
-      "summary": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWW9ReHhCcHVnNWotc3N0NjZWYjctSmtIbHpnUkFfVW96WWRYV1labEVmdnE5ekp4M0d4bnRyQ3pTREpWU1Q5M2lLbk1Da1plVGFiMk5QcTdCLUJrbmRkdXl3MVBSQmhmNmJLMUxCSnlXRlFFT2hHNkx5SHdRSi1HNDBrZEhWazRpRGhscTMwaVZoU2NOT21TSVV5cHhFUlhOam4yanVLRjF1akpiLTllYkxrdw?oc=5",
-      "published": "2026-08-19T09:00:43+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
