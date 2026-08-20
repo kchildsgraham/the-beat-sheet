@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T19:32:53.080650+00:00",
+  "updated_at": "2026-08-20T20:29:49.620022+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
+      "summary": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUs2ZndobXZzVWozaEljaDRzSUFyRUFUVnBXYXVmdktteFU2d01vMFZXOHFXbC1sUlVobkwtc3J5YTFLOTd0Q0VLWlRHWmNHcnk2THZ3ZW1VZ1lndkNGeS02OGg5TWRnSmQxaEtZa2VmeVVEQmx3dENDYnlHdldWV3JR0gGHAUFVX3lxTFBNUko1ZWZnRjdVNk5ZOVBJS21ScVhidlJHS2pvdkgyNlpNcjNqM3NRRXZiZEpkSEhNczBsWXZEQ2pWNV8zOVBlSlN5WlZSQXI5am9SVENud1pRZmVGdmU2SHBjZ0FkaUhnV2pRMWNWRnc4RWFwRnVKbHpKeFVXUW1WRlF0a0d1WQ?oc=5",
+      "published": "2026-08-20T19:55:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Woman charged in alleged plot to detonate explosive device at New York State Capitol",
+      "summary": "Woman charged in alleged plot to detonate explosive device at New York State Capitol CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11U0lYcXFzR3Q2UXN4WHVWOUItT1l4TUY5QXd1R2ZMbDdXd3dXU1c5V1BFNjhPVVJrcXJLQTR5QUlyXzlIbFFlRXZWUEc1YktFSUhaQ09TbDdrUzRpR0RQLXBDWGhoTmVxSnVWNHY3b1FjdmYyaE1R?oc=5",
+      "published": "2026-08-20T19:14:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -118,51 +142,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-      "summary": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDNnSHdTRGNnTEhLcEZXb1lKWTlTX2FIVTRIakIycnNUNldkeTAwZXpKRmRNUlkyNEw1VHNfRXJwdzBLOWttSlF1VkZnSng0aEY0X3ZkSkFWVEpJcUV0cjU4Nk9MYnBiUXpVdnlrMl9kaXBfd3Z0dkoya1oybS1CcWNDeUJ1TXdBV29oeFJHb2XSAZYBQVVfeXFMTjBTVEdpV1NZMllaWFFjY2xhRHNrU0t2Y25PTlZFOFprOV94UTMxeUU0SjJhOHR3OFJWNkFxeFM1bFpOTVE0YkVOQzJMczNEcklCdHg0bnF5TmI1R0JfX1doUUM2R1dxMURfX2cxX0VhX19JV21HVGlmMEFmbWF6MnZ1bzc5ZmZyeHpSMlYwVlJtUXRWVHBB?oc=5",
-      "published": "2026-08-20T14:51:17+00:00",
+      "title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
+      "summary": "Trump announces \"crushing economic operation\" on Iran with talks in limbo CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
+      "published": "2026-08-20T07:15:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims",
-      "summary": "FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTdSU1NpUUVpXzNrYkYzVHZ2bl9WTEVKQ0pxTDlRY3FLTmdZdWk2S1F1LWpqRDJ2c3RhUFA3QWtCaWxNZi1zazNyX3JlTk9yRTJBLWhCa2kwRkZUQ1NZQl85U3FkME5sb2pycGNISk9YYzZFckN0MFpkY2R4VzZoR2ZsYzc2VVd0RklLRG5rbGJDWEU?oc=5",
-      "published": "2026-08-20T14:35:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Efforts to keep ICE off of school grounds ramp up",
-      "summary": "Efforts to keep ICE off of school grounds ramp up K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXo0dkRabkN4WUdXcVBVQl81UXFad2o2M1BvZTlUUWVrR1dlSWZMZE5iY0JtSHVjZkxFMk9YWXNyUVE0ZWlGWVp5dTh6VW9UaVFVMUhaeUg1OVhWZnlRamNUZVJJYzhJeGdZUklDaDBhRi1fbjBXNWgtSk5jUU55ZGVXY0FMMGxIUUZEanVBOA?oc=5",
-      "published": "2026-08-20T13:01:29+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-20T08:31:00+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -173,30 +161,6 @@
       "summary": "Opinion | America Is About to Get More Expensive The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX01mcm5aQWdVdUVpa0dYQWNFVV9ZcHBUZ0JKQjZ4TEpJWWJ0d1VrM053VHBNUkM4czdNWU1QNXE5bXlEdFhCM2YwMHIzLWlYT09mN3lzdjlNS0JNbFA3dGtqdVhtWENhNmx6TDNNZjJLRDFpUmsyTTk4c3ZJN0UwaHZ5RTFmX3RFNG01bEhEbjBfdw?oc=5",
       "published": "2026-08-20T05:00:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "FDA upgrades recall of frozen blueberries sold at Publix to highest health risk level",
-      "summary": "FDA upgrades recall of frozen blueberries sold at Publix to highest health risk level CBS News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OMENYR3lqaXo1X0h1czB6Vk1HTm00LWljWm5LTzFiaE5uU2sydm95dVVqOE9xSE1Ca3N3UGRySUtWdTR4RXFzX3JLbkJRSFZudlA5dVZzbVVaRVRXQXJSdzJEc1ZVV19ZOXNKNTUxVWM?oc=5",
-      "published": "2026-08-19T22:52:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Inside the investigation into Mark Walter amid his sale of the Los Angeles Lakers",
-      "summary": "Inside the investigation into Mark Walter amid his sale of the Los Angeles Lakers CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHEwVVhnZnlKdFdxOFlFNDdiVjZEZERXZmdhS2JMcWN1NU92S3VoZEdKN1FNZy1SV3dYSkVxVEpNamF6NVhJdWpXNTNGb1VnQ3BvNlVtWlJTSTViYmsza2pha214RzlPM3RHU1B0MEFoVnpZQkdKMVAtdVNqZ2c2bkNCMnVjUHZIdGw3aHRKVFF2SkVGaXhQNHhhbjNvdlVOMk10TUd5UE9nX2xy?oc=5",
-      "published": "2026-08-19T22:45:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -222,6 +186,31 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KcTRDbUZIMHhBNGNPdFJyal9oWG4wbXQ0MmZEdFJmRi0yN0FGcGlZaGxQMEtMUVNNX1R0YWU3enRSUW40MDBmZTktZnpMdmpXQThzTVVKUTNpNGxiVGM2NEQ1c3d3UmVsVHNsQ2gtS3VzZVBIc0ZkcDFB?oc=5",
       "published": "2026-08-19T20:40:26+00:00",
       "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows",
+      "summary": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aVFRcnVzOUk4bTFLdGNYTVgyUHpFYkpia3JLMk5IU2NHaFZpN1BtaWZxYV9Zc2dTMjB0a2Q5UE5zZ1lfN0prUWlMZ0Y3cFdIWEJCTlh6c1hOZmFaWkg1YWZJTFVaaWFiMlIzV2dHZF8tblc1S1N3?oc=5",
+      "published": "2026-08-19T20:05:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Richmond man accused of setting house fire that killed father, 5-year-old nephew",
+      "summary": "Richmond man accused of setting house fire that killed father, 5-year-old nephew CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWp5OVR6ZXhJeVJObFFtblBBZlA3c1pJMElLd2VJWndDUmhqZnpaVzlua19qaEtjMWpZX2dEYWRNay0wYkJwQXFMTXF2ZmdXd3pIaXR2WS1lckRGcjFZTkpZaVc1YjdkNFh6dFdKcWY1eTBEV3hEemxSZC1iQkYxeG5LRlktS0pXZkRibDJxSGFxelhWYnU3VmRFNEE?oc=5",
+      "published": "2026-08-19T19:28:00+00:00",
+      "beats": [
+        "Politics",
         "LGBTQ+"
       ]
     },
@@ -332,6 +321,18 @@
       "published": "2026-08-19T14:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-19T13:46:30+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
