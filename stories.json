@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T17:30:41.184209+00:00",
+  "updated_at": "2026-08-20T18:40:45.803177+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Yahya Abdul-Mateen II has a theory about Marvel's 'Wonder Man' cancellation",
+      "summary": "Yahya Abdul-Mateen II has a theory about Marvel's 'Wonder Man' cancellation NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSy10dzY3MG9wa1Nhd2ZDNEtiSHpWZ3REQk93LTlLSDNfdnFsMFY5MksxWEhfeW5qVm1ySjVtdlJTVUNybUxZVWR6dVpuQXBKbHktTE9LQVZ5bHpCLWFxS2lQakRYQWlaZDZlaERldndMT2NNOVRGWkxKQU9LQkdzcEhBQm5KbHczQXFRMw?oc=5",
+      "published": "2026-08-20T17:52:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Scott Jennings emerges as early favorite to replace Karoline Leavitt but process is just beginning",
+      "summary": "Scott Jennings emerges as early favorite to replace Karoline Leavitt but process is just beginning CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3pEa180RlJmcm11aGNTYUlmR3hUdXJmYm05Y1BWc0l6aHlEQTdLRlA1T1VOdy12R2FFak5BV3E0MEhGal85WDA0em1GMmM4azNmemcwV0NxZGU3dl9neXFfb2lVc2hrT0o3MW03UWliZWlaX0ZCMWZfWmVYZnZEVU1TSEUxOEw2OVhyYjNERUhnV1h2?oc=5",
+      "published": "2026-08-20T17:46:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -44,6 +68,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Donald Trump once called Michael Cohen a ‘rat.’ Now they’re sitting down for a public conversation",
+      "summary": "Donald Trump once called Michael Cohen a ‘rat.’ Now they’re sitting down for a public conversation CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHFlaDFteWg4SHN6MnVHN3Q5aWRGbUhIODMtOUxXUXpZYlFKSXZfNDAybEc0dHRaeE1YcXRqRU5iSDY4ZmMyZV8xMzR5OEl1YlZTS3hyX1Y5VzgzU2JoSkI2Q0IyVVdmMVh3T2IzT0F4aFdIbHJ3aGdpQXRtOEFvdUl3?oc=5",
+      "published": "2026-08-20T16:10:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -53,30 +89,6 @@
       "published": "2026-08-20T15:19:52+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "summary": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFJjWkdPN3hSc0tZU0hDSUl4dThwTXBTNHhxbk5QdlVJeUVLYlpOYS1weEdOTjBOTWlJcXZRR2JmX2ZDUS1IU3czYjhXUzctSHRFNy1vZFNjRFgzMFpNVHp6ZzNUYUxBejdqbmd0SkN1U2M3MnZ2b0J4VGlGUkp5UFZxQ3VrTVhvOHc?oc=5",
-      "published": "2026-08-20T15:18:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Bessent says Treasury buyback operation could be more than $4 billion",
-      "summary": "Bessent says Treasury buyback operation could be more than $4 billion CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWZjRVVHUzlOcHFTZ2hxdzZ4dFlaT3ZTU3F1Q2lmN04zaTJIc1N2UHBXX2trSnlVZHdPR0pyX3pSaVlhaGItcGliQ2VsMUQxaWI0MEg3UmVHWnQtYkdKVHJzNTZxUlJiY3FNaTU5eEVPSFBQRVVsNVF2LXVkS0ZWVUt0YTBMWFNjYWF2TExwZ1RkQ2Zkb1FfX3RBYnNISzFVcWVyTTNQRELSAa4BQVVfeXFMTjNnTXA3d05yZGM2amxXYnpNRVkyM0VmZVVRM1pidlhfNzU1a3JnZkN0VkNJckNTNVVJWFZzaEt3LUdycFFHYWswTGRXZUVneDlQZWVKQ3RnTVd0c3M3TkpXSFdrNGNMd1M1Tm04TUZpRzJWa05jWlBlNEhhSW5mLXEteFlzRmpwMWVidnJiVzRPMjk0OWo3RUpiODZ0a1hxQWpnUTBDdGZlUldtM3hR?oc=5",
-      "published": "2026-08-20T15:08:33+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -106,13 +118,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims",
-      "summary": "FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTdSU1NpUUVpXzNrYkYzVHZ2bl9WTEVKQ0pxTDlRY3FLTmdZdWk2S1F1LWpqRDJ2c3RhUFA3QWtCaWxNZi1zazNyX3JlTk9yRTJBLWhCa2kwRkZUQ1NZQl85U3FkME5sb2pycGNISk9YYzZFckN0MFpkY2R4VzZoR2ZsYzc2VVd0RklLRG5rbGJDWEU?oc=5",
-      "published": "2026-08-20T14:35:51+00:00",
+      "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+      "summary": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDNnSHdTRGNnTEhLcEZXb1lKWTlTX2FIVTRIakIycnNUNldkeTAwZXpKRmRNUlkyNEw1VHNfRXJwdzBLOWttSlF1VkZnSng0aEY0X3ZkSkFWVEpJcUV0cjU4Nk9MYnBiUXpVdnlrMl9kaXBfd3Z0dkoya1oybS1CcWNDeUJ1TXdBV29oeFJHb2XSAZYBQVVfeXFMTjBTVEdpV1NZMllaWFFjY2xhRHNrU0t2Y25PTlZFOFprOV94UTMxeUU0SjJhOHR3OFJWNkFxeFM1bFpOTVE0YkVOQzJMczNEcklCdHg0bnF5TmI1R0JfX1doUUM2R1dxMURfX2cxX0VhX19JV21HVGlmMEFmbWF6MnZ1bzc5ZmZyeHpSMlYwVlJtUXRWVHBB?oc=5",
+      "published": "2026-08-20T14:51:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -121,10 +133,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "El Niño will upend winter weather in the US. Here’s who will feel it the most",
-      "summary": "El Niño will upend winter weather in the US. Here’s who will feel it the most CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGJVSjFoMl9rbWdVcG1SdzBWUTdvS3RZRGpmblNpbkI3bm9HbHdJd0lma04wdTBpY19CUEIydFRNdFpUNllZV2FmdUhuUURUQV9pNjRvUmFaQlRCSTFnd2xuQ1RpX2hFZHN6NXozZFlPN0ZhYVNGdmVDRVhoS3RTUHpZTEd4UQ?oc=5",
-      "published": "2026-08-20T13:27:23+00:00",
+      "title": "FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims",
+      "summary": "FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTdSU1NpUUVpXzNrYkYzVHZ2bl9WTEVKQ0pxTDlRY3FLTmdZdWk2S1F1LWpqRDJ2c3RhUFA3QWtCaWxNZi1zazNyX3JlTk9yRTJBLWhCa2kwRkZUQ1NZQl85U3FkME5sb2pycGNISk9YYzZFckN0MFpkY2R4VzZoR2ZsYzc2VVd0RklLRG5rbGJDWEU?oc=5",
+      "published": "2026-08-20T14:35:51+00:00",
       "beats": [
         "Politics"
       ]
@@ -142,15 +154,39 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Higher gas prices bite Walmart sales growth, but says $2.9 billion tariff refund will feed price cuts",
-      "summary": "Higher gas prices bite Walmart sales growth, but says $2.9 billion tariff refund will feed price cuts CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84bFRlaUZjVnNlZXFlaFRGeDRqZFdxSDZBZjhodkJHWVpGTTQtUjRULWIxYUZ2Zm80dVZWV1lCT2QzWHJ2X0lmMkhxcFJXN3dRZ0NmaVNILXpjcHE1M09vYTJ2UEpxeVV2TEQ0U2hR?oc=5",
-      "published": "2026-08-20T11:41:59+00:00",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-20T08:31:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | America Is About to Get More Expensive",
+      "summary": "Opinion | America Is About to Get More Expensive The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX01mcm5aQWdVdUVpa0dYQWNFVV9ZcHBUZ0JKQjZ4TEpJWWJ0d1VrM053VHBNUkM4czdNWU1QNXE5bXlEdFhCM2YwMHIzLWlYT09mN3lzdjlNS0JNbFA3dGtqdVhtWENhNmx6TDNNZjJLRDFpUmsyTTk4c3ZJN0UwaHZ5RTFmX3RFNG01bEhEbjBfdw?oc=5",
+      "published": "2026-08-20T05:00:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "FDA upgrades recall of frozen blueberries sold at Publix to highest health risk level",
+      "summary": "FDA upgrades recall of frozen blueberries sold at Publix to highest health risk level CBS News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OMENYR3lqaXo1X0h1czB6Vk1HTm00LWljWm5LTzFiaE5uU2sydm95dVVqOE9xSE1Ca3N3UGRySUtWdTR4RXFzX3JLbkJRSFZudlA5dVZzbVVaRVRXQXJSdzJEc1ZVV19ZOXNKNTUxVWM?oc=5",
+      "published": "2026-08-19T22:52:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -275,18 +311,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-19T13:46:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -297,18 +321,6 @@
       "beats": [
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near",
-      "summary": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDQ4MzBmeUdBV0VLNnNTVXFKU3NkUVowYXZxVE5nNTJiYU9YT1dWOWRhdEg3ZG5NelNqSW55clZsb0lXbVdvOFQyVDdodGEzandYQ1BDUGZTbmc1eUU4c3pNUGlMUFc1b2Z1d0xQdGpEVHhzQnhNa1ZUdGNJZFREdVpyZmpkUQ?oc=5",
-      "published": "2026-08-19T12:04:00+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -367,18 +379,6 @@
       "summary": "UPDATE: California to distribute $450M in career tech funds to school districts this year EdSource",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3pRaWpYUVJlSmVMT0ltalBsTkhyaEhaQnlXSklYekd6TXJWU0gwRUF0UjhYX2lUOU5fcDVkdGtXMHVkbDhMTk5qQlBnX0lPQ0E2eGotWjN4UXl2MXNvZXFaZlFpNG1ySHVBWUpTdk5OQURpalZkcWZWMlJlZU1EVnBtdnl5ajE1b1FqQjR1VTA1MGxaZnRWei1kc0RfZzFqMGRwblI2VVZHb19XN0gtLXUyUlotUWRrcFE?oc=5",
       "published": "2026-08-18T22:45:37+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Education Department Tells Schools Race Can’t Factor Into Student Discipline",
-      "summary": "Education Department Tells Schools Race Can’t Factor Into Student Discipline Education Week",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDVOMklLVFdLMzllaVFPeGUwcWJJSnllY292MldlSFZZR1A4Uml4dkY0WnVvZ0lEVllhdG00dVByUnZOUFc5Z3dCX0RVUFBzOVZNY0NpaXhtSnNrTHk3akRFbXlBejFIVEpIblAzcktqRExFZkRIdlZ3ZklLYkVtVWU3TE8yaDdCdDlLeUd4N3dkaFU3TmRkTGxSQXFESUhILUhaN05YSGpETkRHNHFKQXBubzBRcU12UlFyWkt0dw?oc=5",
-      "published": "2026-08-18T22:08:15+00:00",
       "beats": [
         "Schools"
       ]
