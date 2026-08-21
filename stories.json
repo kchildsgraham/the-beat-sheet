@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:33:17.343191+00:00",
+  "updated_at": "2026-08-21T01:22:29.062412+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,27 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Aisha Wahab Wins California Special Election to Replace Eric Swalwell",
-      "summary": "Aisha Wahab Wins California Special Election to Replace Eric Swalwell The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHV4QW54YkY1dk9kZWVhMHFHU25YeTFrbGFCUUxMOWJEUU1JemktRkhydnBoRno5ZlZGS3REMmFLeVpmYVl5dFdnX1BING9lWUZNOXZDdmpTdDJ3QjhvR0p0dUV3eWp0RWZKRTNpRkt6MHZwOVVyUmZ1RFhHYUdqZUZWTXRaaDBMRG1Wa3p1bVdjVWpVYTRHaHh6cw?oc=5",
-      "published": "2026-08-20T23:06:04+00:00",
+      "title": "Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending",
+      "summary": "Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzJQVVZzLU1teDhEM0tSa1JUTkNncGM4Ung2OEYwTW1FRmtRSXZuaVFMS21KYWpKN3dSdDA5U1pUVDFtbUt2NjNNaE9Zc0VsOWVBbXoySUFIbWdQYTJxVTBsWlZ1RVQzRHFIYUlUaW1FS1NqcWR6QWlhbXVaU0UxeklMVQ?oc=5",
+      "published": "2026-08-20T22:41:27+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "State Sen. Aisha Wahab will serve remainder of former Rep. Eric Swalwell's term, CBS News projects",
+      "summary": "State Sen. Aisha Wahab will serve remainder of former Rep. Eric Swalwell's term, CBS News projects CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1ZVU1NEaVhOZ3QxSGVqMWtYSGt0VnJPMmx5dEZCekFKTUNqSjlVVV9IU1cybUJHLW1RQmxrUWFWSDZHY09qYUxIemNIMkFCUTdlY3RIN25EeHRrOC0yV3A5RzEwT2JacWFERmN0by05cVhwTFFmSm5pS1VHVmFJUEFuQkIwc2d4VTFQeEtyZUdZMEJ6Y08yTGRnREEtbGNMUTlfMHBDdWY1cmM?oc=5",
+      "published": "2026-08-20T22:33:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -44,11 +56,47 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Log Cabin Republicans announce they no longer support trans rights",
+      "summary": "Log Cabin Republicans announce they no longer support trans rights LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHpLaXFHZlI5Wi16VXZrRkVsLVEtREdfR3FYaFc2Q3JSQUVwZVZuQTNWcm9mbVN6Zmtkb0M4Vnl6ZlA2aGZoa3VjM0FaQWUzTFhuQ0dORFVBOXFOZkl5T0xlUUZ0c2diWW9aRndNWWtwVHFfcjVVRG9lUlVtWnh0QnVPNHNpSVRlekRfXy1ObFlCdTh3TUJjc2w1WWhVVXVUS1phaDNn?oc=5",
+      "published": "2026-08-20T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty",
+      "summary": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaHVPWHZWMDV1LVdhejFpalEyeG1pVFFPcFVXMmFVNHZic0xFRWk5SXJIeWFVNHFtQldfWl9oZ2NlMXRyQjNrSjQzQTR4NnBHTEFrWkFZMmJPSXo1U0ZCMk1GaG1KaFhNNTlaOTVMR3NCOXdDTnhCZG5kZWFQVlk?oc=5",
+      "published": "2026-08-20T20:10:58+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
-      "summary": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC CNBC",
+      "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+      "summary": "Warsh faces Fed independence test as Bessent moves in on central bank's turf CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUVSTjd5bEhZTDcwVG55a05tQ05tU0ZZNmZETXZma0k0RFFmdUZNY3lZd1ZKZlZTM1o1LWZSNDVJWHdRc192VkNKa1hxMjRFbEUyeXY2S1NPdjZSRE41TDluLVBoc0l0T3lpZ21DN2pSNEJlT3hQdXpseHJXNG96OWI5NTFuVEZrRVHSAY8BQVVfeXFMTWJROXFhcXR5TWZXVDlTZ3k4OHdpWkRzWGNiUVJUdFZFczgyM0lCQVVRdnJvdnhIWUNhWnNTRFAtUHdqVnlLOFVvUXc2dW9HMHNwZE9UdnY2Uy0xSHRlVWtnWkZjWThHcjZTU2p3LWs5Y0NFS3F1eDVCUXFaVDdYSXBjTFM2S1ludmhRS1dZWE0?oc=5",
+      "published": "2026-08-20T20:02:18+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+      "summary": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC CNBC",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUs2ZndobXZzVWozaEljaDRzSUFyRUFUVnBXYXVmdktteFU2d01vMFZXOHFXbC1sUlVobkwtc3J5YTFLOTd0Q0VLWlRHWmNHcnk2THZ3ZW1VZ1lndkNGeS02OGg5TWRnSmQxaEtZa2VmeVVEQmx3dENDYnlHdldWV3JR0gGHAUFVX3lxTFBNUko1ZWZnRjdVNk5ZOVBJS21ScVhidlJHS2pvdkgyNlpNcjNqM3NRRXZiZEpkSEhNczBsWXZEQ2pWNV8zOVBlSlN5WlZSQXI5am9SVENud1pRZmVGdmU2SHBjZ0FkaUhnV2pRMWNWRnc4RWFwRnVKbHpKeFVXUW1WRlF0a0d1WQ?oc=5",
       "published": "2026-08-20T19:55:52+00:00",
       "beats": [
@@ -104,18 +152,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Scott Jennings emerges as early favorite to replace Karoline Leavitt but process is just beginning",
-      "summary": "Scott Jennings emerges as early favorite to replace Karoline Leavitt but process is just beginning CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3pEa180RlJmcm11aGNTYUlmR3hUdXJmYm05Y1BWc0l6aHlEQTdLRlA1T1VOdy12R2FFak5BV3E0MEhGal85WDA0em1GMmM4azNmemcwV0NxZGU3dl9neXFfb2lVc2hrT0o3MW03UWliZWlaX0ZCMWZfWmVYZnZEVU1TSEUxOEw2OVhyYjNERUhnV1h2?oc=5",
-      "published": "2026-08-20T17:46:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -135,18 +171,6 @@
       "summary": "3 things to know about the $40 trillion federal debt NPR",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0WWM4OTFiQ1RXRTFadDhWc2JRVDk1b3J4NTdTNVpNd1dzYkpaUUdQYnRtQ1p0VENvek9WY0VvWllNSVNsYlRYbTNEWTFtSlM3eTFEZERQN0ZmUEt5X19lWHFDVUFONVAxV1FwVUtiVVlHcW1ZWERCSQ?oc=5",
       "published": "2026-08-20T16:50:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Watch CNBC's full interview with Treasury Secretary Scott Bessent",
-      "summary": "Watch CNBC's full interview with Treasury Secretary Scott Bessent CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnJwXzBLaVJIbWFWQVdvcFNmdlNsRUZ0WFd0YVhKNURvQWxBMlNGU19ZVDFtbjdFYnpvcUd0a1RWYUcyWnNXeXJTRkxrdVFLeHczWGtCUjg0TnUxQ1EtUEJGSnBCODJPd0NZQno4b1M1bUVjd3dGdDlFalc1bFB5S0xJYjJLalhwRVUyZVVHZGZUWVhiV29xQlk4U2JIOWllZy1hOFhaMERiS0k?oc=5",
-      "published": "2026-08-20T15:39:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -178,13 +202,13 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "U.S. to send hospital ship to Peru as El Niño threat looms",
-      "summary": "U.S. to send hospital ship to Peru as El Niño threat looms NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVprM1hBbGhWMlhINXdrZ0NIQ1haRUVDLVdCV1kwZ0x2SnpWYWFTbnp3ampxbXVZUnY0VVpOc0NKN29uR09VMHBkT01iVUs0WTQxM0hVMkdxNTdlak94M2RWZmw5TnlsX1F3Y1Jub2c2Z2h3NFpNQl9rcjdyMjhoN0dvbm1QNk0xeXpLRTlwVUdNWlg2Rms2dG8zWFk?oc=5",
-      "published": "2026-08-20T08:53:58+00:00",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-20T08:31:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -205,10 +229,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | America Is About to Get More Expensive",
-      "summary": "Opinion | America Is About to Get More Expensive The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX01mcm5aQWdVdUVpa0dYQWNFVV9ZcHBUZ0JKQjZ4TEpJWWJ0d1VrM053VHBNUkM4czdNWU1QNXE5bXlEdFhCM2YwMHIzLWlYT09mN3lzdjlNS0JNbFA3dGtqdVhtWENhNmx6TDNNZjJLRDFpUmsyTTk4c3ZJN0UwaHZ5RTFmX3RFNG01bEhEbjBfdw?oc=5",
-      "published": "2026-08-20T05:00:06+00:00",
+      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+      "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
+      "published": "2026-08-20T06:51:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -262,19 +286,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Richmond man accused of setting house fire that killed father, 5-year-old nephew",
-      "summary": "Richmond man accused of setting house fire that killed father, 5-year-old nephew CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWp5OVR6ZXhJeVJObFFtblBBZlA3c1pJMElLd2VJWndDUmhqZnpaVzlua19qaEtjMWpZX2dEYWRNay0wYkJwQXFMTXF2ZmdXd3pIaXR2WS1lckRGcjFZTkpZaVc1YjdkNFh6dFdKcWY1eTBEV3hEemxSZC1iQkYxeG5LRlktS0pXZkRibDJxSGFxelhWYnU3VmRFNEE?oc=5",
-      "published": "2026-08-19T19:28:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -294,18 +305,6 @@
       "summary": "Golden State Valkyries remain winless against Lynx after 77-66 loss CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVU16Mnk4dVdfWDdLYWp4eFNHRHNKbUdRZ0lMbHVJZ0FJX1I0eGVtWUd5NThHSEhubndXQ2xVcnUzY2pRYUE5TkQtU0s4MEZIRjUxbUZmY1gwbjJuYVM0MFkweGJGTy1ZdktyeHhFaEh4Z1pZaE9lYTEyVEtTLTdYN1J4aU9Ia0tnSFlTN0xndXBZQkw4X0RIc1pUdnZUZms?oc=5",
       "published": "2026-08-19T17:59:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Rosie O’Donnell tells Jesse Watters to ‘stay out of my orbit’ before roasting Trump on Kimmel",
-      "summary": "Rosie O’Donnell tells Jesse Watters to ‘stay out of my orbit’ before roasting Trump on Kimmel Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJT1FxVDAyd3JvTHRyLTlvOVROWTZGekl5dGdSNUhDX2NERTlxSlZvSFdFT1hwYTRwUTlUdFJ5VUFFVVdWSDc3MXVDZG05aG83cHlxNV9xY3VVZnZYdVhlWnB1Ym5DWV9UZ2trZ0NKUmgwTnYw?oc=5",
-      "published": "2026-08-19T17:46:16+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -348,25 +347,13 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "“One of the worst responses”: Lindsey Graham’s sister fumbles debate question hard",
-      "summary": "“One of the worst responses”: Lindsey Graham’s sister fumbles debate question hard LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlgwSzBreDJUbFUwZklPZXd6a0xMOXBiOUpnOUVHaXBoQThocjhiU0R5Rlp0Qy1scDlxaERrVGFPMlJZbUhoLTJQdXBsZEVvLTdCc2Y1Y1pFQ1RENnpZcl90RWxYV3dfMjZONWtyYU1DQ19qT1h4QjlfbVd1X0FxREhEYnEyRWJrNzA2REF2NEtsdmNRMjdKSjN5X1pyRDd0aW5CMzAySHhiemVxdTlvRUVubEg1MnFyc0NTQzVjNkNUVW8?oc=5",
-      "published": "2026-08-19T14:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-19T13:46:30+00:00",
+      "title": "Opinion | What Does the Trump Administration Have Against the 26th Amendment?",
+      "summary": "Opinion | What Does the Trump Administration Have Against the 26th Amendment? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdy1QWlVTWTNmdmVEcFBQN3lmSFNMZl9OOHZLYlVISF9IVWI3UW01Z2stcElGTDUzbndLT0J3enVWclhaejVobTRGWkxVQTJCOFcyVlMxc1JzSzJOYVRHRnB4VU9XTU8zcnZ6MXZGbTJUaDNYcGQ4eGRGSlRWYnlEMkdwOA?oc=5",
+      "published": "2026-08-19T15:00:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -382,6 +369,18 @@
       "beats": [
         "Schools",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom",
+      "summary": "China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc01mMTVZOGREN1lkSVh5cmI0X2FYY0dXeXFzNnV5SnpSV3M2VFM1OExocG1JQld3U0FxcXB3djl3amFrMHBQTWlPeVVldV9DZjVFVnZ6c1RBOTkyRW1wYjJNVmZCWlZRYVhnWkF3eUFObHhSNDVkWjAxNXpVMmxqTExSekk4QlhTc1g2X3RBRElQTWdINE5ndXJtUHRwWVlNdHB2dl8waWItYllG?oc=5",
+      "published": "2026-08-19T09:54:09+00:00",
+      "beats": [
+        "Business"
       ]
     }
   ]
