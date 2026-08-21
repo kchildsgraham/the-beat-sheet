@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T16:35:53.484608+00:00",
+  "updated_at": "2026-08-21T17:30:17.274876+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+      "summary": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkFjRGVjNjdCS3NyY0l2WFlLMFNpN1VUb3ZGbFBmVUR1dWo4SGpzSnAzcG5qcHh0MDRwMlZ6QlM0bm83WFlRbTFGV181bVdEbGR3WGZvYzMwT0VrZHJDdW9hc2MwVEVDb3d1azBxWXoxSTVKSTlvVGNlMTUycm9tdFlzX2hENWVmUmc?oc=5",
+      "published": "2026-08-21T16:40:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -37,8 +49,20 @@
       "lane": "General",
       "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
       "summary": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkhFYXFnV0F0Ql9yQmczVDJWVzB0MjJteHVzZF9NNW53UkRob05mNkFNQkN0T3QwWXRhQTlsQktXZ0I3LWZ6cVlQNmhUV2hYWVFQeHJ1YnQ3dU5xVlJ6bl8tMDBydzBIYmxEUFQ2RUFuRTVqeWxmcWkteF9JTjgyVUtuRnE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkhFYXFnV0F0Ql9yQmczVDJWVzB0MjJteHVzZF9NNW53UkRob05mNkFNQkN0T3QwWXRhQTlsQktXZ0I3LWZ6cVlQNmhUV2hYWVFQeHJ1YnQ3dU5xVlJ6bl8tMDBydzBIYmxEUFQ2RUFuRTVqeWxmcWkteF9JTjgyVUtuRnHSAYoBQVVfeXFMUDFRcWFtNlpESGFPcFFYMDFuR19qZm1jemcyQ1pMNE5VU0JFSUItVnkxcy1Id2E3a2ZESkdlcXkwcXl4bmxzZGoyVDZpN2JsTlJhRF9heHhaaXlLd21ET1d2cmxudG5iVllRTUJKaVhuLUdBMF9jX1B2VXVQeEtFbkVzaGFiNzFqUGpn?oc=5",
       "published": "2026-08-21T14:39:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Under Trump, Protected Wild Horses Are Going to Slaughter",
+      "summary": "Under Trump, Protected Wild Horses Are Going to Slaughter The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVd6dmlwcFlZaUhadHBCa0Y1d3U2bnhmRDZocTZSbFE3WV80cGE1ZFNJS1BNcGtmd3hRWXRKbENJeURsQ1RHSzRycFJPRlY3RXNpNy1SYlhObmpRd0lFRnBwUlMxc3hLRmJTVjIyVTFsNTFjVkxIQXB4NVpzRHU3WmlsczV2WXB4RC10ZHhB?oc=5",
+      "published": "2026-08-21T14:20:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -89,19 +113,6 @@
       "published": "2026-08-21T13:13:54+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Former CIA officers warn Trump's administration is reviving the Lavender Scare",
-      "summary": "Former CIA officers warn Trump's administration is reviving the Lavender Scare Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVVOazl3WUlXWF92NGxaWHpQWUxUeEM2UndjUnQ0OU50bkVJeWt5bDBKTXJhV1F4MjQyZnBBOWUzVDRMeV9KVy14QUM2M3NBd2J1OE1xbzBNekNHVk1NZlNSVFdiRHhxX3lDWTd1T2tRSUVIZ1BjLVBOMnU5RzVRLQ?oc=5",
-      "published": "2026-08-21T12:47:15+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
@@ -156,24 +167,13 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-      "summary": "Amid intense backlash, people are vandalizing Flock surveillance cameras NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUhwRXUzM1JGdmtVZ0RlZmZ4c0t4S19nc3pZak5lNUt0ZkZvanh0S1BKeWttZUdjTGJIRHhHZmt3NUFtc3o5d0E2SU5hRHYyNERYNlUycWN3RkRfaFlRUmdQRXdDQ1FBSEpNOTIxXzdzdlhfLUw1YkhQYXl2MGRVZzhOY29UbjZabGN4VHc4d3ZyV1JNVVgtcmJn?oc=5",
-      "published": "2026-08-21T09:00:00+00:00",
+      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "summary": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom NPR",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2k2TWI5enZ2V2Ffajl1SGcwQWNyUXQ3dmpjdGRyVlFVWG1qWVl6VnBpVXZVSHNEWDZvQWNwclNCUDRqZW51MUl2aUd4b1UySEluajVEWDNMNUxNVjE0alpTbGk1V3FLbkU5em9ndVpnWVEyOUgzSU1IbzlET0lMVEoyc2g3NjhKVGJOanRoVk9KTGxNTmxkbjZjLWNlT1RlVE5YWGtFakhRU1NFMmg5ZjRRUzk?oc=5",
+      "published": "2026-08-21T11:25:10+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Federal government thins the herds of wild horses in Colorado",
-      "summary": "Federal government thins the herds of wild horses in Colorado NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXN1ekY2WVh4Mk9ZWXotOUt1OUU1UGs0MmFmelVVaWIyUWpnc0cwSjEydFExQkk0cGVaSXUyT2lMb0pkNmhPcEdIaTFjeFpaa2tPSG15RFc0UENGUHZQRkxFcVJKeEZzMGF3ekZuQlQ0UF9GWUMzUHFLLXJJOURLVUdaeEdtNG54Q295UXZSUWZiMW5kSHVz?oc=5",
-      "published": "2026-08-21T09:00:00+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "Business"
       ]
     },
     {
@@ -183,7 +183,7 @@
       "title": "The New York Times Loses Defamation Lawsuit in Alabama",
       "summary": "The New York Times Loses Defamation Lawsuit in Alabama The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWdsc1FrNXZPUGdJb295dXlzM2JCVC1Cc1AtYU9KV09lQUlKalBPUEtRM1pQclZZUGl4VF96ajZKRjY2VWYwV3JKa09nOExzY3Z5dFZzZGNDT1AzdjBpMF9md21rMU1kMEZQNjB5dERSOEhBWGM3WkJwQTFYR3UtWGFIdkVlRHRwcm8waWw3VTlHRVc0SkFNZlhyLTI?oc=5",
-      "published": "2026-08-21T06:52:00+00:00",
+      "published": "2026-08-21T01:35:53+00:00",
       "beats": [
         "Politics"
       ]
@@ -201,19 +201,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Darline Graham tries to distract from embarrassing foreign policy gaffe by attacking trans kids (of course!)",
-      "summary": "Darline Graham tries to distract from embarrassing foreign policy gaffe by attacking trans kids (of course!) Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUjdPTUVkUzZYODFLU0VDT1lRN2FIT1BTeVhsQWFjMnEyZU4xcVdkMnBWaHdoMEVKTmNQQThIRjU5VEpCOWNtZUJHaUlpRXl6RUFVeXpGb1Vka1lRQk4yUWxzREltTUNSeThSRDk0cU9jM2d4MVhETG10V1A2OVpPUkU5ZUowdGhfdHFYN2l6dGhzQ3B0bGZsVWJmNW51RWlrT0VJM0lObFpPTzBsWXZydFp2UVNwa2RpcTlvOTI5QURTNE5Ncm5wQm1TazJwYVJ2ZmxVNjh3?oc=5",
-      "published": "2026-08-20T22:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -223,6 +210,18 @@
       "published": "2026-08-20T21:30:06+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Log Cabin Republicans announce they no longer support trans rights",
+      "summary": "Log Cabin Republicans announce they no longer support trans rights LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHpLaXFHZlI5Wi16VXZrRkVsLVEtREdfR3FYaFc2Q3JSQUVwZVZuQTNWcm9mbVN6Zmtkb0M4Vnl6ZlA2aGZoa3VjM0FaQWUzTFhuQ0dORFVBOXFOZkl5T0xlUUZ0c2diWW9aRndNWWtwVHFfcjVVRG9lUlVtWnh0QnVPNHNpSVRlekRfXy1ObFlCdTh3TUJjc2w1WWhVVXVUS1phaDNn?oc=5",
+      "published": "2026-08-20T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -266,12 +265,50 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
+      "title": "Tr*mp’s Natalie Harp problem somehow keeps getting weirder",
+      "summary": "Tr*mp’s Natalie Harp problem somehow keeps getting weirder Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFdud0JjeUU4RGF6Sk1EX21IV05wRTNNTFgxc1hVeUw3X0REUUx3bzZCSmJFZklUV3dvdEIwYy1XOFlhaWJ0MFk3MXlJYnZyNnRJOGZvQ3BxVERyZko4RnpyR2JSSmZfUlB2YURHY2hSVERwcHFXSjJjRXh0TGVIVHBFT1l6bHpoYVZtdFBTUGZ4S09S?oc=5",
+      "published": "2026-08-20T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
       "title": "Tom Daley’s bedazzled swimming briefs enchant the internet",
       "summary": "Tom Daley’s bedazzled swimming briefs enchant the internet Queerty",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdG9UZGEwOHE3ak5OUXBYM2p5eS1vVV9pMzZkeDlhWTVHdHRhQmQ1eENkaXVpclJvTnVnc3VVclYzc09wRFVWZks4alZXbnpvS1E1SWFxdFRuMGJfQjNiNXJNZmc0b0pGTGlscWpuempITVk2elBDUFdVek81M1Z5WGRweW1QeHhGTGM3bDN0SzY4TjFrRkE?oc=5",
       "published": "2026-08-20T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students",
+      "summary": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GMFNFNUFEOEF3UHdXM1lsaV9XR25Zd2toclVhSk1PTXlhTGpJYV83RWRmRFZxVzE2WU9PYmJSd3Z2VkxkY09leVNvWEN4cmFfM3lJVEotYV9tOXpTd0ZJTzZLSjgtcnVfWkdqLXItTTBOR0FISlc4c1QyU00?oc=5",
+      "published": "2026-08-20T14:54:47+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. to send hospital ship to Peru as El Niño threat looms",
+      "summary": "U.S. to send hospital ship to Peru as El Niño threat looms NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVprM1hBbGhWMlhINXdrZ0NIQ1haRUVDLVdCV1kwZ0x2SnpWYWFTbnp3ampxbXVZUnY0VVpOc0NKN29uR09VMHBkT01iVUs0WTQxM0hVMkdxNTdlak94M2RWZmw5TnlsX1F3Y1Jub2c2Z2h3NFpNQl9rcjdyMjhoN0dvbm1QNk0xeXpLRTlwVUdNWlg2Rms2dG8zWFk?oc=5",
+      "published": "2026-08-20T08:53:58+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -284,18 +321,6 @@
       "published": "2026-08-20T07:15:00+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | America Is About to Get More Expensive",
-      "summary": "Opinion | America Is About to Get More Expensive The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX01mcm5aQWdVdUVpa0dYQWNFVV9ZcHBUZ0JKQjZ4TEpJWWJ0d1VrM053VHBNUkM4czdNWU1QNXE5bXlEdFhCM2YwMHIzLWlYT09mN3lzdjlNS0JNbFA3dGtqdVhtWENhNmx6TDNNZjJLRDFpUmsyTTk4c3ZJN0UwaHZ5RTFmX3RFNG01bEhEbjBfdw?oc=5",
-      "published": "2026-08-20T05:00:06+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -357,30 +382,6 @@
       "published": "2026-08-19T16:09:46+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "How Growing Up in a Digital World Affects Kids’ Academic and Social Skills",
-      "summary": "How Growing Up in a Digital World Affects Kids’ Academic and Social Skills Education Week",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcHVtbmE4Y1I4NFk4OFpnY1F0Z3dpTXZiRkkweGtJN09fZUpZN1RsU1NNV19VMHNvVzM3TlBnOF9LVFF6WHNJTEtVeXp5LS1RQW11cG0xRkRhSW9XWDVWZHR3a3MtN0RDcTZRaWZLT21Iam41cVF5NWhOalpGUkhZeHdsdm01ZmpWdjRtQWlTYW5qUnY3bXRiRnB3UHdIZW9yclU3bjM3R0VteHduR2hIRFNfWXVmdw?oc=5",
-      "published": "2026-08-19T15:07:06+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trans vet forced to ride electric trike to provide for disabled daughter after state revoked license",
-      "summary": "Trans vet forced to ride electric trike to provide for disabled daughter after state revoked license LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORXVfUl9tbmJpWmtJUGIyalQxUDQ2VGVBMWswVXlwNlBDWDlvMDlxZ3hfNmhkUkh6bUVocXBaUVdTUHZicWVIdXVJRi0wbHV6LU1mQjBHaHNQSkI1XzBuMUFyT0RyNXU2ODBOTk8wZ2RDSEV3cldXX1REU0JRWFdhNWRzZmdJU2pPa3ZIS244alRKbFY1bk44Z3BaSVdfNDJmbV96ZGRvTlhSMWVfVzljUlg1TjdHS0tYaDNkT1RBdVpOaDFiSmh1RWxNbGlfOVVmRlpJ?oc=5",
-      "published": "2026-08-19T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
