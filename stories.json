@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T10:32:01.825566+00:00",
+  "updated_at": "2026-08-21T11:27:47.145266+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "What to know about this weekend's IndyCar race on the National Mall",
-      "summary": "What to know about this weekend's IndyCar race on the National Mall NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjRBQ1dpSzNXZVdxQThaVjE5ZFI3RExRMlZZVDRyUm9nb2pKX09BXzlSc2RPUWRTRlFuX2ZfbXQ1Z0RKOVBTTEUyRFhST0xLZDlmbjJZeV9LVWtLWVVFSmJvUGJUc1E2SVNtM3NrQk5yTkVYU21VZXhZU0k5aWd1WEc4U3lIV0UzNEluVw?oc=5",
-      "published": "2026-08-21T09:01:00+00:00",
+      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+      "summary": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlGdzlYM2hVeGpjYjhQekxBMjc0WGZPLU5Pd1VuOWQ0ZTU0aHFaZ1k4U05GSVRQS3BEMGpzTnUtdmFtenMzY21FWGNVRE5hNVZLMUVIODJCbTF6UHpoSEk5eHVEY1IzUjdhQXYyNEhWVVlleWFPX0RhTERpbEtWaGM1VlRnanBrSDd3MU5ZY2VFUER2dktKcDhJbjczdkZYOFVz0gGoAUFVX3lxTE1ybUV2NWNiLWdsZHlzSHptOFoxYmJSU0hWb3BXUHhVT1YyTndCd1BtTm9McktvdXZ4Ylc3a2FqdzBxeGk0UVlaeXAxMjZjWloxdlNKV0hkUW5HM1JmNzVQVVJaSnRvMGtSYlpUTnVVU2JwVHRkUG5CS09CUXpEQmNuRVZ4bzl6LXBseHhtRmN2M25yZnBIZ2xTd3hqQUVFNUd3SE00UWRPMA?oc=5",
+      "published": "2026-08-21T09:08:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,6 +68,18 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+      "summary": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenI4X3JoTXc4RVVVeGRBSklSUEh2bVdVem1lUS16Q0hzNnlsdFlQVXNlejdoMDRJUGYyR1RiQm9XbS1EdUY4Mmx0ZFV6Ny1wN2ZDa3N2R0NMRlBfLVNPcGFtRGVlVWVzd1JaUXVFdzJ3TEk1U0c0WXhTenpsRzBPb3pMalM1dFdQM3ZiU0NHWUZacTFiYm5FYVlRUUgtdGhPUDRZbUlQUEZaTUhraVFqaFlSNmloT00?oc=5",
+      "published": "2026-08-21T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -87,18 +99,6 @@
       "summary": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board CNN",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
       "published": "2026-08-21T06:32:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: The 'Bessent Bid' wears off",
-      "summary": "CNBC Daily Open: The 'Bessent Bid' wears off CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFBXSkdJS3hLYUF5dkFJcDZjWkVCSG5ESXJRUTJZQVgtTFVXRFlTS3Zhb2Jpekh0WWdFRUhDRWRsMl83ZVFSWTRaUXJXbmN1UGVlSTVaVUFFUktKQ1F4cTJUNXJmR00wVkpjb1ZvQmpHaWo3Mnhvd3o1dXVJZnlvQ1JTQ0PSAYoBQVVfeXFMTkdTMEwteVNJVGtXSVBmbkR3Um42czhsQmlWNjkwbnI3Wmc4T0c4VllFbTRheVFpVEFkdEs3T2dqaHk3NE1kVXdxbTNuVmtnMmhNR2VnYUpKTVp1Z2hKWXNZcDdTUS0xREI0OE9neHVIMGdqOWs5czBsRndULXJHWHU3WjJnTUhQbjln?oc=5",
-      "published": "2026-08-21T05:54:24+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,28 +128,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Charter plane crash kills 8 at remote radar site in western Alaska, military says",
-      "summary": "Charter plane crash kills 8 at remote radar site in western Alaska, military says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
-      "published": "2026-08-21T02:51:00+00:00",
+      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
+      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
+      "published": "2026-08-20T21:30:06+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects",
-      "summary": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1ZVU1NEaVhOZ3QxSGVqMWtYSGt0VnJPMmx5dEZCekFKTUNqSjlVVV9IU1cybUJHLW1RQmxrUWFWSDZHY09qYUxIemNIMkFCUTdlY3RIN25EeHRrOC0yV3A5RzEwT2JacWFERmN0by05cVhwTFFmSm5pS1VHVmFJUEFuQkIwc2d4VTFQeEtyZUdZMEJ6Y08yTGRnREEtbGNMUTlfMHBDdWY1cmM?oc=5",
-      "published": "2026-08-20T22:33:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
@@ -252,13 +239,25 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
+      "summary": "Trump announces \"crushing economic operation\" on Iran with talks in limbo CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
+      "published": "2026-08-20T07:15:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
-      "published": "2026-08-20T06:51:00+00:00",
+      "title": "Opinion | America Is About to Get More Expensive",
+      "summary": "Opinion | America Is About to Get More Expensive The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX01mcm5aQWdVdUVpa0dYQWNFVV9ZcHBUZ0JKQjZ4TEpJWWJ0d1VrM053VHBNUkM4czdNWU1QNXE5bXlEdFhCM2YwMHIzLWlYT09mN3lzdjlNS0JNbFA3dGtqdVhtWENhNmx6TDNNZjJLRDFpUmsyTTk4c3ZJN0UwaHZ5RTFmX3RFNG01bEhEbjBfdw?oc=5",
+      "published": "2026-08-20T05:00:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -309,6 +308,19 @@
       "published": "2026-08-19T20:04:09+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Richmond man accused of setting house fire that killed father, 5-year-old nephew",
+      "summary": "Richmond man accused of setting house fire that killed father, 5-year-old nephew CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWp5OVR6ZXhJeVJObFFtblBBZlA3c1pJMElLd2VJWndDUmhqZnpaVzlua19qaEtjMWpZX2dEYWRNay0wYkJwQXFMTXF2ZmdXd3pIaXR2WS1lckRGcjFZTkpZaVc1YjdkNFh6dFdKcWY1eTBEV3hEemxSZC1iQkYxeG5LRlktS0pXZkRibDJxSGFxelhWYnU3VmRFNEE?oc=5",
+      "published": "2026-08-19T19:28:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -370,18 +382,6 @@
       "published": "2026-08-19T16:09:46+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
-      "summary": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhkUXhtcXpNZm5MUjg4NWNBR1JUNGRPaDVhdXh5aUg5WFBXSzNPSV9PVEU3ZV9VV2xPUExRS0E5WHlJS09Fc01wcWZwdHduTGZYX2FvdDNKQW9RSnY3c2FrV2FoZXVhM3FiMWNUVWYzQ2lHREdPenB1VWVOT3pVVkJGdzJsZE9QWllF?oc=5",
-      "published": "2026-08-19T14:43:11+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
