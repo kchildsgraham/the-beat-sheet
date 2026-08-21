@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:50:23.947169+00:00",
+  "updated_at": "2026-08-21T07:43:49.892494+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Charter plane crash kills 8 at remote radar site in western Alaska, military says",
+      "summary": "Charter plane crash kills 8 at remote radar site in western Alaska, military says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
+      "published": "2026-08-21T06:54:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Charter plane crashes in western Alaska, killing all 8 on board",
-      "summary": "Charter plane crashes in western Alaska, killing all 8 on board CNN",
+      "title": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board",
+      "summary": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board CNN",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
-      "published": "2026-08-21T05:28:33+00:00",
+      "published": "2026-08-21T06:32:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "North Korea boosts support for Russia to include drone operators, Ukraine says",
+      "summary": "North Korea boosts support for Russia to include drone operators, Ukraine says CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcEp4VGloVEs1ZkZZSWJ2QWRxemhJTklaNkllNXozVGM0dTdGQ2ZrZ2FxRUlCbzFrLS1Zd2EyQnN4amQ5YUQ3eno3UmNMem9RZWFPMzRuUzRIa3JlbVJkeWIwTDNpUWZham12NEVpME1yYTNvSHRfNklVWGtyOGNURXlB?oc=5",
+      "published": "2026-08-21T06:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+      "summary": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting NPR",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVJoM211SWRuc0pHazUtcC1pNlkwUDNHR3F6c29WTFpkZTVTdXp5cGZKd01qenV0d0lKRXRaWkExWlE0OHFYOVdheGNrTnRHMkdYOXJRcmNUeUNGSzllTE9lOENVVDVBanVoeGQwNXhVamN3LTVMdG9qaGRIWGFiOVlJV3JjNGk2VnlEdF9oeWNaOGxuSDg2eXJxdEFLQzFSQmowaUtfSDlOZzlwWE9lY19VTXdtTHpiVUE3WVlSY3Y5TjhFMEVXRFlQMzBPY0xEWWxxSUdB?oc=5",
+      "published": "2026-08-21T05:41:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Mexican fishermen floating in cooler rescued after 5 days stranded at sea",
+      "summary": "Mexican fishermen floating in cooler rescued after 5 days stranded at sea CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODB5X0ZZRUR2cHJvNVprTE9KRXZaaWNycVE0ZTZYM2FfWVJzZS1KY3FvbjFIN2pnRWNadzRNSHdNdXVTNmtYRTg0MFFOOS1PVFBlQ3A0U1ZfeUZFcWltdjVxQzNjV1cxZlpYc2w0Q3pFRUpkQ2F4Q3NLUFNVTVZxb3E2VXN4cE0?oc=5",
+      "published": "2026-08-21T05:09:12+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,46 +83,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
-      "summary": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHBXS2hmSlNmZzVtY2FfaFFydFY2eDFaR2dGVjdrUEpBUWUzUURPM3puUGt5TndMekZGTDE2VnRnbFBIc3FrVk5EZlRIVkxncHp4UFg3LWc1UEpPN0Z0Q1hydENEei1ZcjZmb0NqRlRqWDZUZFQ2UnFmRVB1M3JES1lzc3hWUktoZEVOa3RB0gGTAUFVX3lxTFB5eVVlZnpuQnpmbVItTHU2LUo4Wlc5emJKal9WUzJWRVBKQVJJRHFGNTRzZUg5NGlIMklqbUI0Qlhvb1MwSEpxTWJhbUVYT2JZMTNKdWJsX25HdWozeml6Zm1TZG5MdFJ6N1RxVEowZWpKMG43ZUdQQi1ScHBpTW9ZeEh6aFZ0Y0lIWDBUY1FxemxPRQ?oc=5",
-      "published": "2026-08-21T04:32:59+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Great nephew of Black WWII hero: ‘a shock’ to hear ship may be renamed",
-      "summary": "Great nephew of Black WWII hero: ‘a shock’ to hear ship may be renamed CNN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTF3bkl4TnJUc0NfTF9LVkdXYk5lOHpGbk1JLUJvOVFSTklHZERocFFfSFRxWHRxbXEtLU1jMjBJbWx2T1pkTFhsUFZ3MFNlYzdYYzdSRVlmaUhXbFdQM1BiaFI0WHVDQmlhR3NqbjBIUllMckRsRjdnOFpVSnVqZDgzY2VKcDluZU9taTVyQWYzLXZGaXFZWUh2aWgxRXNQT1N0WWR4ellValFZbDZQVUNpalR1WWRW?oc=5",
-      "published": "2026-08-21T03:20:34+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Charter plane crash kills 8 at remote radar site in western Alaska, military says",
-      "summary": "Charter plane crash kills 8 at remote radar site in western Alaska, military says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
-      "published": "2026-08-21T02:51:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Hong Kong’s Tiananmen vigil fell dark years ago. Now its organizers have been convicted",
-      "summary": "Hong Kong’s Tiananmen vigil fell dark years ago. Now its organizers have been convicted CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?oc=5",
-      "published": "2026-08-21T02:09:00+00:00",
+      "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
+      "summary": "'Perfect storm' brews for global food supply this winter as grain prices soar CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Da2lZOFg4YnZxUmozQjh2YmJrZzZmdmJ6Tjl5YWR4U0VmdzgtQlZiY1gtM2ctT2w3clllRWJrdzBDTjlyRHo1aVdCWXNjYlQzUXJKaXhGT2dIcjhiZW9NQ3NIWUxiak12LWR2TnVoZ3N3Y0tQV3fSAXtBVV95cUxPTjdfbW9jeUNjWjFLQ0UtQjZiOFRHWmpELS1jeUVBc1ZLVnZRWnY4RWdYUlZXMGY1RE9yQTgwZDlMOEZkdzE4bTI5Mmw0dHBOWmZrMnZkTU5CZm5lTHVXc01mUUh5UWhXbThsRXpXb0d1WjBDZkt5VFFFZ3c?oc=5",
+      "published": "2026-08-21T05:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -164,18 +176,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-      "summary": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2RWOUVXampOMVQwQkRPeHZ4STFhTWE5Yk01Zk9MRjRoMmtzbld3bm9hbTZvRTlXVXlOVExsUk9XS2RHcERyTm93R3ZKRHVIS3dsaWVtaDZIeWFEYmZQNkVHb0szVVF1eHk2RlBRVml3dVFDa0RRUDIzNGYwWmFRdUJUSmFxRzZyZmJBNXdVZXg1YnpuZnRidDgyVl93cklD?oc=5",
-      "published": "2026-08-20T16:49:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -217,10 +217,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "U.S. to send hospital ship to Peru as El Niño threat looms",
-      "summary": "U.S. to send hospital ship to Peru as El Niño threat looms NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVprM1hBbGhWMlhINXdrZ0NIQ1haRUVDLVdCV1kwZ0x2SnpWYWFTbnp3ampxbXVZUnY0VVpOc0NKN29uR09VMHBkT01iVUs0WTQxM0hVMkdxNTdlak94M2RWZmw5TnlsX1F3Y1Jub2c2Z2h3NFpNQl9rcjdyMjhoN0dvbm1QNk0xeXpLRTlwVUdNWlg2Rms2dG8zWFk?oc=5",
-      "published": "2026-08-20T08:53:58+00:00",
+      "title": "Trump nominates Heidi Overton to lead the FDA",
+      "summary": "Trump nominates Heidi Overton to lead the FDA NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzdRaW5XU0REbC1LMlJGWW14Z2Z6ZjhSX2pRdjMwSkhRYzkyQzNzRE5iLS1acTYzZUtfa0N3a3phYVB4TDNfS05vR05YQzJPSEN6dnd4Y2ZDWmZQY0xlckNHbDVJZGg3SGdsY3BvZnNKZ3UyQlY4Q3ZpSkdjeXFUVF9OSFFnVWEwb3VLeklsZkxxUEpFekFKLU56SGNfS0haRGdJ?oc=5",
+      "published": "2026-08-19T21:03:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -351,6 +351,18 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
+      "title": "Unitree unveils ‘Superman’ humanoid robot",
+      "summary": "Unitree unveils ‘Superman’ humanoid robot NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnJpWGtUWXdtakI2SUpQRFZhbHhqT2FKaGQ0TkRyMjVaWk9VOGZhRV9RcUYxbnE1dDZDVTloS2NEZTR1MkRfVTRHM2dDZkxpUjRRWG9IZHlQd1VSdEtYX0RmMjJYZHJILTZ1M3l3SDdWQlNTeER1SHl0ZkVnYlhwcExtZ29UU2pnOHc?oc=5",
+      "published": "2026-08-19T09:48:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
       "title": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts",
       "summary": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts NBC News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWW9ReHhCcHVnNWotc3N0NjZWYjctSmtIbHpnUkFfVW96WWRYV1labEVmdnE5ekp4M0d4bnRyQ3pTREpWU1Q5M2lLbk1Da1plVGFiMk5QcTdCLUJrbmRkdXl3MVBSQmhmNmJLMUxCSnlXRlFFT2hHNkx5SHdRSi1HNDBrZEhWazRpRGhscTMwaVZoU2NOT21TSVV5cHhFUlhOam4yanVLRjF1akpiLTllYkxrdw?oc=5",
@@ -369,18 +381,6 @@
       "published": "2026-08-19T03:31:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Trump pauses 50% tariffs on Canada for 3 days",
-      "summary": "Trump pauses 50% tariffs on Canada for 3 days NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0JmNE9BTlRBeUhlOURZanBDcTVvb1Z0VEc1elUtblkwMU9PS0JqREVqb2xNRnVGOThwUlZ4VGRtRV9PcURZSjZxZlJ6UU5zakJHa1A0OWU0WGVQMzQ4OW9raHBXcnlsV01ldGFRaEtJaWx4TFV0NF8xcEZHXy1fV1dEWmk5dw?oc=5",
-      "published": "2026-08-19T02:22:00+00:00",
-      "beats": [
-        "Business"
       ]
     }
   ]
