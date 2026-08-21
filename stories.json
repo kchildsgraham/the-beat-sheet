@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-21T08:43:41.344210+00:00",
+  "updated_at": "2026-08-21T09:37:44.892600+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,371 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+      "summary": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlGdzlYM2hVeGpjYjhQekxBMjc0WGZPLU5Pd1VuOWQ0ZTU0aHFaZ1k4U05GSVRQS3BEMGpzTnUtdmFtenMzY21FWGNVRE5hNVZLMUVIODJCbTF6UHpoSEk5eHVEY1IzUjdhQXYyNEhWVVlleWFPX0RhTERpbEtWaGM1VlRnanBrSDd3MU5ZY2VFUER2dktKcDhJbjczdkZYOFVz0gGoAUFVX3lxTE1ybUV2NWNiLWdsZHlzSHptOFoxYmJSU0hWb3BXUHhVT1YyTndCd1BtTm9McktvdXZ4Ylc3a2FqdzBxeGk0UVlaeXAxMjZjWloxdlNKV0hkUW5HM1JmNzVQVVJaSnRvMGtSYlpUTnVVU2JwVHRkUG5CS09CUXpEQmNuRVZ4bzl6LXBseHhtRmN2M25yZnBIZ2xTd3hqQUVFNUd3SE00UWRPMA?oc=5",
+      "published": "2026-08-21T09:08:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+      "summary": "Amid intense backlash, people are vandalizing Flock surveillance cameras NPR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUhwRXUzM1JGdmtVZ0RlZmZ4c0t4S19nc3pZak5lNUt0ZkZvanh0S1BKeWttZUdjTGJIRHhHZmt3NUFtc3o5d0E2SU5hRHYyNERYNlUycWN3RkRfaFlRUmdQRXdDQ1FBSEpNOTIxXzdzdlhfLUw1YkhQYXl2MGRVZzhOY29UbjZabGN4VHc4d3ZyV1JNVVgtcmJn?oc=5",
+      "published": "2026-08-21T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+      "summary": "Charter plane crash kills 8 near remote radar site in western Alaska, military says NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXRYSGZEV3RYS3hTdVRBaVJmN0ZvTjBKOFVlc2JDa3RJTFFTblkxTTNWMjVrUXJsSFBxT19rRXR0a1hJU2wzWGh0VHhNVGxLMzFyWFhhSXViWl80RW9IY0Mxb3loU0o3d2NYQjdrdjdVRUg2VTF0LVU0ZzFHQzFueFlmU2xpYmFocXQzZVVWMUxwZw?oc=5",
+      "published": "2026-08-21T06:41:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board",
+      "summary": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
+      "published": "2026-08-21T06:32:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "North Korea boosts support for Russia to include drone operators, Ukraine says",
+      "summary": "North Korea boosts support for Russia to include drone operators, Ukraine says CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcEp4VGloVEs1ZkZZSWJ2QWRxemhJTklaNkllNXozVGM0dTdGQ2ZrZ2FxRUlCbzFrLS1Zd2EyQnN4amQ5YUQ3eno3UmNMem9RZWFPMzRuUzRIa3JlbVJkeWIwTDNpUWZham12NEVpME1yYTNvSHRfNklVWGtyOGNURXlB?oc=5",
+      "published": "2026-08-21T06:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+      "summary": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting NPR",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVJoM211SWRuc0pHazUtcC1pNlkwUDNHR3F6c29WTFpkZTVTdXp5cGZKd01qenV0d0lKRXRaWkExWlE0OHFYOVdheGNrTnRHMkdYOXJRcmNUeUNGSzllTE9lOENVVDVBanVoeGQwNXhVamN3LTVMdG9qaGRIWGFiOVlJV3JjNGk2VnlEdF9oeWNaOGxuSDg2eXJxdEFLQzFSQmowaUtfSDlOZzlwWE9lY19VTXdtTHpiVUE3WVlSY3Y5TjhFMEVXRFlQMzBPY0xEWWxxSUdB?oc=5",
+      "published": "2026-08-21T05:41:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Mexican fishermen floating in cooler rescued after 5 days stranded at sea",
+      "summary": "Mexican fishermen floating in cooler rescued after 5 days stranded at sea CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODB5X0ZZRUR2cHJvNVprTE9KRXZaaWNycVE0ZTZYM2FfWVJzZS1KY3FvbjFIN2pnRWNadzRNSHdNdXVTNmtYRTg0MFFOOS1PVFBlQ3A0U1ZfeUZFcWltdjVxQzNjV1cxZlpYc2w0Q3pFRUpkQ2F4Q3NLUFNVTVZxb3E2VXN4cE0?oc=5",
+      "published": "2026-08-21T05:09:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+      "summary": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3lXajYxSGFNQnJrNWtBcDRBakF0amdndHNVRU5KQnFFS3NMbFhEY3pRZnhPbmVUTTh3N3U2VDluSmw1NjBraXdCTUV1eFREMUR5d0pVTEpNSUV0NE9RZmduMWU3VU5uT3REUTFIOW8xaHhGYzdpVE03VWs5UXNJY1d1VFdTeFA5UVNsSDZvenhOX0o2RHVOWFlRbHBaaWZr0gGmAUFVX3lxTE5mYlFNdWRTWFN2Y21zeF94WjlaY0ZmZTNrS2E0ak8zSTVSVnV3dWcyNTBsZVdCVmI2YVVlU2w4YVNCX3JWdzJLT09Hc19PQnN0R2hhcERNbjlNemtIN3o3eG9OR2dDUDB6WUNiNjkxS1ZDN29JODBQdVVrSUxlUkJpZEpwN2lVcTdwQkxhdFU5V1BSMjJzaWh4Y2tUazhpM0FxOUN5WGc?oc=5",
+      "published": "2026-08-21T05:03:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
+      "summary": "'Perfect storm' brews for global food supply this winter as grain prices soar CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Da2lZOFg4YnZxUmozQjh2YmJrZzZmdmJ6Tjl5YWR4U0VmdzgtQlZiY1gtM2ctT2w3clllRWJrdzBDTjlyRHo1aVdCWXNjYlQzUXJKaXhGT2dIcjhiZW9NQ3NIWUxiak12LWR2TnVoZ3N3Y0tQV3fSAXtBVV95cUxPTjdfbW9jeUNjWjFLQ0UtQjZiOFRHWmpELS1jeUVBc1ZLVnZRWnY4RWdYUlZXMGY1RE9yQTgwZDlMOEZkdzE4bTI5Mmw0dHBOWmZrMnZkTU5CZm5lTHVXc01mUUh5UWhXbThsRXpXb0d1WjBDZkt5VFFFZ3c?oc=5",
+      "published": "2026-08-21T05:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Charter plane crash kills 8 at remote radar site in western Alaska, military says",
+      "summary": "Charter plane crash kills 8 at remote radar site in western Alaska, military says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
+      "published": "2026-08-21T02:51:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects",
+      "summary": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1ZVU1NEaVhOZ3QxSGVqMWtYSGt0VnJPMmx5dEZCekFKTUNqSjlVVV9IU1cybUJHLW1RQmxrUWFWSDZHY09qYUxIemNIMkFCUTdlY3RIN25EeHRrOC0yV3A5RzEwT2JacWFERmN0by05cVhwTFFmSm5pS1VHVmFJUEFuQkIwc2d4VTFQeEtyZUdZMEJ6Y08yTGRnREEtbGNMUTlfMHBDdWY1cmM?oc=5",
+      "published": "2026-08-20T22:33:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Log Cabin Republicans announce they no longer support trans rights",
+      "summary": "Log Cabin Republicans announce they no longer support trans rights LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHpLaXFHZlI5Wi16VXZrRkVsLVEtREdfR3FYaFc2Q3JSQUVwZVZuQTNWcm9mbVN6Zmtkb0M4Vnl6ZlA2aGZoa3VjM0FaQWUzTFhuQ0dORFVBOXFOZkl5T0xlUUZ0c2diWW9aRndNWWtwVHFfcjVVRG9lUlVtWnh0QnVPNHNpSVRlekRfXy1ObFlCdTh3TUJjc2w1WWhVVXVUS1phaDNn?oc=5",
+      "published": "2026-08-20T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty",
+      "summary": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaHVPWHZWMDV1LVdhejFpalEyeG1pVFFPcFVXMmFVNHZic0xFRWk5SXJIeWFVNHFtQldfWl9oZ2NlMXRyQjNrSjQzQTR4NnBHTEFrWkFZMmJPSXo1U0ZCMk1GaG1KaFhNNTlaOTVMR3NCOXdDTnhCZG5kZWFQVlk?oc=5",
+      "published": "2026-08-20T20:10:58+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
+      "summary": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkZVVjJmeGYzWkRFSGpuZjEtNDNDdlJxMlp1Q1lyTUloWWJOeEhrWmdSLVliNkVtbjlUMXpWeG9ObURkWmRoOWZGZ1JPNTZyVDVNS185M0FiUzd2QjFMYkFLR0ZYR20zWkMtekhiOExKSDFjNlFTOTFkWEY1LVktNEFzVDdEZlh4THhr?oc=5",
+      "published": "2026-08-20T18:10:48+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Tom Daley’s bedazzled swimming briefs enchant the internet",
+      "summary": "Tom Daley’s bedazzled swimming briefs enchant the internet Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdG9UZGEwOHE3ak5OUXBYM2p5eS1vVV9pMzZkeDlhWTVHdHRhQmQ1eENkaXVpclJvTnVnc3VVclYzc09wRFVWZks4alZXbnpvS1E1SWFxdFRuMGJfQjNiNXJNZmc0b0pGTGlscWpuempITVk2elBDUFdVek81M1Z5WGRweW1QeHhGTGM3bDN0SzY4TjFrRkE?oc=5",
+      "published": "2026-08-20T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students",
+      "summary": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GMFNFNUFEOEF3UHdXM1lsaV9XR25Zd2toclVhSk1PTXlhTGpJYV83RWRmRFZxVzE2WU9PYmJSd3Z2VkxkY09leVNvWEN4cmFfM3lJVEotYV9tOXpTd0ZJTzZLSjgtcnVfWkdqLXItTTBOR0FISlc4c1QyU00?oc=5",
+      "published": "2026-08-20T14:54:47+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Efforts to keep ICE off of school grounds ramp up",
+      "summary": "Efforts to keep ICE off of school grounds ramp up K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXo0dkRabkN4WUdXcVBVQl81UXFad2o2M1BvZTlUUWVrR1dlSWZMZE5iY0JtSHVjZkxFMk9YWXNyUVE0ZWlGWVp5dTh6VW9UaVFVMUhaeUg1OVhWZnlRamNUZVJJYzhJeGdZUklDaDBhRi1fbjBXNWgtSk5jUU55ZGVXY0FMMGxIUUZEanVBOA?oc=5",
+      "published": "2026-08-20T13:01:29+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
+      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
+      "published": "2026-08-20T09:04:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-20T08:31:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump nominates Heidi Overton to lead the FDA",
+      "summary": "Trump nominates Heidi Overton to lead the FDA NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzdRaW5XU0REbC1LMlJGWW14Z2Z6ZjhSX2pRdjMwSkhRYzkyQzNzRE5iLS1acTYzZUtfa0N3a3phYVB4TDNfS05vR05YQzJPSEN6dnd4Y2ZDWmZQY0xlckNHbDVJZGg3SGdsY3BvZnNKZ3UyQlY4Q3ZpSkdjeXFUVF9OSFFnVWEwb3VLeklsZkxxUEpFekFKLU56SGNfS0haRGdJ?oc=5",
+      "published": "2026-08-19T21:03:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "First Reading. Then Math. Is the ‘Science of Writing’ Next?",
+      "summary": "First Reading. Then Math. Is the ‘Science of Writing’ Next? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkZWMFZaMjV4QTFQZlN3RmdnX0U3UXlHWkdaRVV3cEhKVEk3SVlhdjhrakp1blh3TlYwcWdmUXlwTlpIbWZiRWVpTkxWRGROd2JWbjVRQ0NwLTEtUkc0YWtyR3VhMmNfMlY4Vm5aXzhNZ0N6cUxrUHhLYTVJclIxNDZPaDZMdFkySEJmLWdRS01EbjJxOHFCN2tWTDlSXzNNdGVybWNR?oc=5",
+      "published": "2026-08-19T20:16:31+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows",
+      "summary": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aVFRcnVzOUk4bTFLdGNYTVgyUHpFYkpia3JLMk5IU2NHaFZpN1BtaWZxYV9Zc2dTMjB0a2Q5UE5zZ1lfN0prUWlMZ0Y3cFdIWEJCTlh6c1hOZmFaWkg1YWZJTFVaaWFiMlIzV2dHZF8tblc1S1N3?oc=5",
+      "published": "2026-08-19T20:05:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Melania goes MIA amid reports \"Tr*mp's Eva Braun\" has been passing him weird & desperate notes",
+      "summary": "Melania goes MIA amid reports \"Tr*mp's Eva Braun\" has been passing him weird & desperate notes Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXlWN0RjdV9jZWg3eTZaN1hhTDBpVGhkazYwNDYwbUdiT3R4ck5hZ3ZPeTQ2bnVlTXQyMVRJQnBuRmdIUzBzR3doMUNhZVVMVUQ4eXNWU29SREliQVpQOXF5UVRaOHlCV1J4OHQ0cERkUlJmeGRNT1MzX2ljMlktRTFvSW5nYmREeXZOLU5NTFhvMEpOb3RwcGNoc1kwRlBvOFhCb19EcVkzcHhoS3NlSzJyRkhfVnBNS25hUlVQdw?oc=5",
+      "published": "2026-08-19T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Golden State Valkyries remain winless against top-seeded Minnesota; Lynx roll, 77-66",
+      "summary": "Golden State Valkyries remain winless against top-seeded Minnesota; Lynx roll, 77-66 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVU16Mnk4dVdfWDdLYWp4eFNHRHNKbUdRZ0lMbHVJZ0FJX1I0eGVtWUd5NThHSEhubndXQ2xVcnUzY2pRYUE5TkQtU0s4MEZIRjUxbUZmY1gwbjJuYVM0MFkweGJGTy1ZdktyeHhFaEh4Z1pZaE9lYTEyVEtTLTdYN1J4aU9Ia0tnSFlTN0xndXBZQkw4X0RIc1pUdnZUZms?oc=5",
+      "published": "2026-08-19T17:59:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Rosie O'Donnell responds to Kathy Griffin’s Kimmel snub accusations: “Shoulda called me, honey”",
+      "summary": "Rosie O'Donnell responds to Kathy Griffin’s Kimmel snub accusations: “Shoulda called me, honey” Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTBUU3JOUmJ2dWJSSmx6bkRSdmxBaDFfcTZwMUI0V2JKX2tvY1hKNGRjQ09PODAyWUVsdnMwQnFLN2xlTXY1OTZnV3RKNDQ0a3hmVlh0MkdyMG05SXl6ZGpXRGZmbWpqLTdVSmtqdDdzQVcxOWFDSEM0aktSTWc3WkpNMTZwR0gwXzBtem9YVXRxMHVJaXhWdkpQd1ctWEFBVU5NY2NMcGV3ZHBTMFA5U29YQVdyeTYzT2lEMFhxYzI?oc=5",
+      "published": "2026-08-19T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How would Head Start programs fare if federal standards are pared down?",
+      "summary": "How would Head Start programs fare if federal standards are pared down? K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUM2ZW9oM1hYZkVEVzBqWnpqdlBld3FIT2xvLU1Bc3FWTnFmQm56a0x2NEtXQ204SjgwZUYxYkhXakZCb21mQUhLUlppdWZfYUZuaERKRU5KaFdHN3JLYmJremRfMGg3Z0FoOFFJSXNTN2V4NE5PYkV4Rk1PdWd6MU82OWw5SlJaNmhiMXJHQ3ZnS2pjYlJJUUNvbkdRald2VlpWYUxHal9Mbk0?oc=5",
+      "published": "2026-08-19T16:51:55+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Trump’s visa policies are not deterring international students from California universities",
+      "summary": "Trump’s visa policies are not deterring international students from California universities EdSource",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HbWV2QUVaejc0Mk5CaEkwWG1VSTZqVUw0a1doZXJrVjIxLWRJUUp5ZGNxSFdhcXlkV0R0bXBMWVo1cXBhWE44dTlXT0xsbUdlSFFNLUM0OXJRTUsySmZXMV9ZZzlXZERFdEl3SU45OEZvb3M?oc=5",
+      "published": "2026-08-19T16:09:46+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
+      "summary": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhkUXhtcXpNZm5MUjg4NWNBR1JUNGRPaDVhdXh5aUg5WFBXSzNPSV9PVEU3ZV9VV2xPUExRS0E5WHlJS09Fc01wcWZwdHduTGZYX2FvdDNKQW9RSnY3c2FrV2FoZXVhM3FiMWNUVWYzQ2lHREdPenB1VWVOT3pVVkJGdzJsZE9QWllF?oc=5",
+      "published": "2026-08-19T14:43:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Unitree unveils ‘Superman’ humanoid robot",
+      "summary": "Unitree unveils ‘Superman’ humanoid robot NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnJpWGtUWXdtakI2SUpQRFZhbHhqT2FKaGQ0TkRyMjVaWk9VOGZhRV9RcUYxbnE1dDZDVTloS2NEZTR1MkRfVTRHM2dDZkxpUjRRWG9IZHlQd1VSdEtYX0RmMjJYZHJILTZ1M3l3SDdWQlNTeER1SHl0ZkVnYlhwcExtZ29UU2pnOHc?oc=5",
+      "published": "2026-08-19T09:48:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts",
+      "summary": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWW9ReHhCcHVnNWotc3N0NjZWYjctSmtIbHpnUkFfVW96WWRYV1labEVmdnE5ekp4M0d4bnRyQ3pTREpWU1Q5M2lLbk1Da1plVGFiMk5QcTdCLUJrbmRkdXl3MVBSQmhmNmJLMUxCSnlXRlFFT2hHNkx5SHdRSi1HNDBrZEhWazRpRGhscTMwaVZoU2NOT21TSVV5cHhFUlhOam4yanVLRjF1akpiLTllYkxrdw?oc=5",
+      "published": "2026-08-19T09:00:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    }
+  ]
 }
