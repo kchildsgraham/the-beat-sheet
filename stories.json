@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T11:54:49.640719+00:00",
+  "updated_at": "2026-08-21T12:51:02.658926+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows",
+      "summary": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aVFRcnVzOUk4bTFLdGNYTVgyUHpFYkpia3JLMk5IU2NHaFZpN1BtaWZxYV9Zc2dTMjB0a2Q5UE5zZ1lfN0prUWlMZ0Y3cFdIWEJCTlh6c1hOZmFaWkg1YWZJTFVaaWFiMlIzV2dHZF8tblc1S1N3?oc=5",
+      "published": "2026-08-21T11:49:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-      "summary": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlGdzlYM2hVeGpjYjhQekxBMjc0WGZPLU5Pd1VuOWQ0ZTU0aHFaZ1k4U05GSVRQS3BEMGpzTnUtdmFtenMzY21FWGNVRE5hNVZLMUVIODJCbTF6UHpoSEk5eHVEY1IzUjdhQXYyNEhWVVlleWFPX0RhTERpbEtWaGM1VlRnanBrSDd3MU5ZY2VFUER2dktKcDhJbjczdkZYOFVz0gGoAUFVX3lxTE1ybUV2NWNiLWdsZHlzSHptOFoxYmJSU0hWb3BXUHhVT1YyTndCd1BtTm9McktvdXZ4Ylc3a2FqdzBxeGk0UVlaeXAxMjZjWloxdlNKV0hkUW5HM1JmNzVQVVJaSnRvMGtSYlpUTnVVU2JwVHRkUG5CS09CUXpEQmNuRVZ4bzl6LXBseHhtRmN2M25yZnBIZ2xTd3hqQUVFNUd3SE00UWRPMA?oc=5",
-      "published": "2026-08-21T09:08:18+00:00",
+      "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+      "summary": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sLWt1d0VQQ2tCMnEwdC1ObFpmdnkwUmQzcXNNc2hWN0VVbXkzR3lxT011aUZwZDczNWRKS0xkT1ByXzluTWJIalVkM3gyejNnUjJ5UGdHcTdTNVJIOC04WVQyMjFhV1BqNExtQ1JJeUhzR2c0WHRqZ053OGJ5VTDSAYQBQVVfeXFMTkJUQ0R6eVluYjNEYTZaaGYtSERyU09xMVVhQmFVQkpwbnZIWUNLdUVqR3MxZEdsekxxeFlzSlVRQXVsZjdIdmMybEhDRHFyaFo3dWhfZ0lvZmdHZkxPeGdHdU1wQjVlZENVMjI3Y3E3NVpGZHRJZFU5ZkxCM0xMd1I3MDFw?oc=5",
+      "published": "2026-08-21T10:15:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "What we know about the IndyCar race taking over the heart of DC",
+      "summary": "What we know about the IndyCar race taking over the heart of DC CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zSFQ1S0ZhR2ZUQ2NfZjhEZTIzbE51YVAwbHdvRkFZQXJwcG1mU1hybGRNVS1UQjJSSmZ1SFFiQnFCVG1LTm5ldURJUmtlR05oY1J0Y0k4X1VZU25KMm5VYUVBN2tpNzFOQXFhenV6Nlo0Rms?oc=5",
+      "published": "2026-08-21T10:00:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
+      "summary": "New York unseats San Francisco as the top market for tech talent, CBRE reports CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmplNXdkR2duMDFjSXJlT0ZIanIxVDNJREMzX3BMbnd6MkV0OFNablVvOGlWNC1TM0R4NDdtT2dIVDVtSXptcGdTbUJaLVJ6ZWY0S2hTcGZlcDFfbFRGb0RaRDhaZkJLWWxZa0JtazRkcE5qZkdqVk5RNlRoc2M0a3RR0gGHAUFVX3lxTE5jOGlBN3dvaVRiOENPdkJ1SXN2Rk1WR2xGTHFOR3N2enB1WnVQdTRJMy1ZeG1NeFRGWm5XWGZHb29sMGswYV8xTEJ3R1h0UDJMTlBHdVZSZy1CY1FoNnVfOGNqRVdrUnd5SWV3NlFpYTltNXI3SXQ2OE9mTVRHbW4xLXJFal9wZw?oc=5",
+      "published": "2026-08-21T10:00:02+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "What to know about this weekend's IndyCar race on the National Mall",
+      "summary": "What to know about this weekend's IndyCar race on the National Mall NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjRBQ1dpSzNXZVdxQThaVjE5ZFI3RExRMlZZVDRyUm9nb2pKX09BXzlSc2RPUWRTRlFuX2ZfbXQ1Z0RKOVBTTEUyRFhST0xLZDlmbjJZeV9LVWtLWVVFSmJvUGJUc1E2SVNtM3NrQk5yTkVYU21VZXhZU0k5aWd1WEc4U3lIV0UzNEluVw?oc=5",
+      "published": "2026-08-21T09:01:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,18 +116,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-      "summary": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined NPR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenI4X3JoTXc4RVVVeGRBSklSUEh2bVdVem1lUS16Q0hzNnlsdFlQVXNlejdoMDRJUGYyR1RiQm9XbS1EdUY4Mmx0ZFV6Ny1wN2ZDa3N2R0NMRlBfLVNPcGFtRGVlVWVzd1JaUXVFdzJ3TEk1U0c0WXhTenpsRzBPb3pMalM1dFdQM3ZiU0NHWUZacTFiYm5FYVlRUUgtdGhPUDRZbUlQUEZaTUhraVFqaFlSNmloT00?oc=5",
-      "published": "2026-08-21T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -87,18 +123,6 @@
       "summary": "Bitcoin on track for 20% weekly gain as investor optimism floods back CNBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRGYUZ1N0FTMjBSWUZKS3BUU2dhVVVxYzdLQ0lMRkhNZ0hua3c3Uzg2N3AyNThYb3JfR3BYQ09sWkl1Ni1Pd3R3UEFkNFRRUGtMNW9TTllKQ2huZ1c3UWN5ME85dHFOblprdVNjWk5GN2xvRXBXSU1HdTNyRmpyVUtZTUZDV08xVzN3dUJR0gGTAUFVX3lxTE91YXlLVVY1aGtjTzVEU05mWTU4c0pFT0I4ZW5OOHltMk1zV0FwNTVQZnZrQzlVazVIOTgtWkp6d3lxTmljc0ptZUwtU05oUEs0MXNRYXlDVmpjUHVuRnFMdzBEbGMzWDFrekdnbmY2ajl1TzRkQ09TcDZTWlBYWlJGak4xOFkzMElveWZOVzBKcEpxWQ?oc=5",
       "published": "2026-08-21T08:13:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "North Korea boosts support for Russia to include drone operators, Ukraine says",
-      "summary": "North Korea boosts support for Russia to include drone operators, Ukraine says CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcEp4VGloVEs1ZkZZSWJ2QWRxemhJTklaNkllNXozVGM0dTdGQ2ZrZ2FxRUlCbzFrLS1Zd2EyQnN4amQ5YUQ3eno3UmNMem9RZWFPMzRuUzRIa3JlbVJkeWIwTDNpUWZham12NEVpME1yYTNvSHRfNklVWGtyOGNURXlB?oc=5",
-      "published": "2026-08-21T06:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,15 +140,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
-      "summary": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3lXajYxSGFNQnJrNWtBcDRBakF0amdndHNVRU5KQnFFS3NMbFhEY3pRZnhPbmVUTTh3N3U2VDluSmw1NjBraXdCTUV1eFREMUR5d0pVTEpNSUV0NE9RZmduMWU3VU5uT3REUTFIOW8xaHhGYzdpVE03VWs5UXNJY1d1VFdTeFA5UVNsSDZvenhOX0o2RHVOWFlRbHBaaWZr0gGmAUFVX3lxTE5mYlFNdWRTWFN2Y21zeF94WjlaY0ZmZTNrS2E0ak8zSTVSVnV3dWcyNTBsZVdCVmI2YVVlU2w4YVNCX3JWdzJLT09Hc19PQnN0R2hhcERNbjlNemtIN3o3eG9OR2dDUDB6WUNiNjkxS1ZDN29JODBQdVVrSUxlUkJpZEpwN2lVcTdwQkxhdFU5V1BSMjJzaWh4Y2tUazhpM0FxOUN5WGc?oc=5",
-      "published": "2026-08-21T05:03:25+00:00",
+      "title": "New details and troubling backgrounds for Austin Metcalf and Karmelo Anthony revealed in retrial hearing",
+      "summary": "New details and troubling backgrounds for Austin Metcalf and Karmelo Anthony revealed in retrial hearing CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWtuWFZGdkg5QnVDakpLNFJYNTBoeld2M1ItSzZMb2dMM09wMTRQWm9hcmhEZmZ2Mm53SzBrQ1B4VVdpOFRudnA1dFRuWmRHQXdLTjkzNjBwU0tISndIeXpEUWlhUElKUTdyLVpzWVMyWTQ4S3dVMHZaWEdPTmRSVUVwdWlfX25iUEZ3UjkxRzF1aHNzY3B4S0E2N0N0cnNzTmM4?oc=5",
+      "published": "2026-08-20T22:11:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -140,13 +164,13 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Log Cabin Republicans announce they no longer support trans rights",
-      "summary": "Log Cabin Republicans announce they no longer support trans rights LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHpLaXFHZlI5Wi16VXZrRkVsLVEtREdfR3FYaFc2Q3JSQUVwZVZuQTNWcm9mbVN6Zmtkb0M4Vnl6ZlA2aGZoa3VjM0FaQWUzTFhuQ0dORFVBOXFOZkl5T0xlUUZ0c2diWW9aRndNWWtwVHFfcjVVRG9lUlVtWnh0QnVPNHNpSVRlekRfXy1ObFlCdTh3TUJjc2w1WWhVVXVUS1phaDNn?oc=5",
-      "published": "2026-08-20T21:00:00+00:00",
+      "title": "The closetocracy? 11 anti-LGBTQ+ Republicans dogged by gay rumors",
+      "summary": "The closetocracy? 11 anti-LGBTQ+ Republicans dogged by gay rumors Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGOWxkeUlOLW1Hb0VmTW1uWWp0V0I3YUtCZGV5RVpiQVdsTXZsWXh0MEQwQ210NzdYdHNVMjZybEY3QzJBTVRnR01Rd1pDQVlKWjR2bzNGc19aLW9IRGlSbWk0Z283SGJYeGx0TW02dHNBc28?oc=5",
+      "published": "2026-08-20T20:25:13+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -174,18 +198,6 @@
       "beats": [
         "Business",
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
-      "summary": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkZVVjJmeGYzWkRFSGpuZjEtNDNDdlJxMlp1Q1lyTUloWWJOeEhrWmdSLVliNkVtbjlUMXpWeG9ObURkWmRoOWZGZ1JPNTZyVDVNS185M0FiUzd2QjFMYkFLR0ZYR20zWkMtekhiOExKSDFjNlFTOTFkWEY1LVktNEFzVDdEZlh4THhr?oc=5",
-      "published": "2026-08-20T18:10:48+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -275,18 +287,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows",
-      "summary": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aVFRcnVzOUk4bTFLdGNYTVgyUHpFYkpia3JLMk5IU2NHaFZpN1BtaWZxYV9Zc2dTMjB0a2Q5UE5zZ1lfN0prUWlMZ0Y3cFdIWEJCTlh6c1hOZmFaWkg1YWZJTFVaaWFiMlIzV2dHZF8tblc1S1N3?oc=5",
-      "published": "2026-08-19T20:05:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -296,19 +296,6 @@
       "published": "2026-08-19T20:04:09+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Richmond man accused of setting house fire that killed father, 5-year-old nephew",
-      "summary": "Richmond man accused of setting house fire that killed father, 5-year-old nephew CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWp5OVR6ZXhJeVJObFFtblBBZlA3c1pJMElLd2VJWndDUmhqZnpaVzlua19qaEtjMWpZX2dEYWRNay0wYkJwQXFMTXF2ZmdXd3pIaXR2WS1lckRGcjFZTkpZaVc1YjdkNFh6dFdKcWY1eTBEV3hEemxSZC1iQkYxeG5LRlktS0pXZkRibDJxSGFxelhWYnU3VmRFNEE?oc=5",
-      "published": "2026-08-19T19:28:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
@@ -382,6 +369,19 @@
       "published": "2026-08-19T13:46:11+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Rightwing school board member called out to her face for transphobic T-shirt at meeting",
+      "summary": "Rightwing school board member called out to her face for transphobic T-shirt at meeting LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODBVSnFiRm10c05QRHk4Rk9zeWpoejcxS0pkMFZ5NnhELTRsVERwWG5rd1dudXJCWlpEeUxZR2xjeGZVMm54R3JVbjktaTF3eXdIWlJBa2ZtOFBPVWJGd3BDdExYWnBlSjJTZERZTl9sNVk3LUd2Y0xxbERlWUpjQUxLSE1GMVdnbWlGZV9wbmV3NkdQTENBRXhhSlV1Q3R5VnNVRm9BMG4tUjNvUTgwZ3JDZVZ4U25aaFhlYmtwVWYwZw?oc=5",
+      "published": "2026-08-19T13:30:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
       ]
     }
   ]
