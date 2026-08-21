@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:26:03.989247+00:00",
+  "updated_at": "2026-08-21T21:51:05.966860+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Under Trump, Protected Wild Horses Are Going to Slaughter",
+      "summary": "Under Trump, Protected Wild Horses Are Going to Slaughter The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVd6dmlwcFlZaUhadHBCa0Y1d3U2bnhmRDZocTZSbFE3WV80cGE1ZFNJS1BNcGtmd3hRWXRKbENJeURsQ1RHSzRycFJPRlY3RXNpNy1SYlhObmpRd0lFRnBwUlMxc3hLRmJTVjIyVTFsNTFjVkxIQXB4NVpzRHU3WmlsczV2WXB4RC10ZHhB?oc=5",
+      "published": "2026-08-21T21:47:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -51,18 +63,6 @@
       "summary": "Supreme Court allows Trump’s ballroom construction to continue for now NPR",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLURhNWJndWU1aFA5d243WVJyNHEzTnlZZE5idHlsMHRBVUFhMUxieEtGeDFOeWJFU0s2VjJRdEtLd1FRSXhrYW5nM25YTDhlOEJsc1dlQjllQlppUnc1aGFXc0ZjMk9qTXpnU1Z3MnRBeE9BdFBxLTNYUGRoMjZXVFlaLVlCalctOW1JQWFfOEZmTlNNSDFKQURVZjd2eUZnNWU0R3JRWGhXby1NdlNJc09ZblM?oc=5",
       "published": "2026-08-21T18:47:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Under Trump, Protected Wild Horses Are Going to Slaughter",
-      "summary": "Under Trump, Protected Wild Horses Are Going to Slaughter The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVd6dmlwcFlZaUhadHBCa0Y1d3U2bnhmRDZocTZSbFE3WV80cGE1ZFNJS1BNcGtmd3hRWXRKbENJeURsQ1RHSzRycFJPRlY3RXNpNy1SYlhObmpRd0lFRnBwUlMxc3hLRmJTVjIyVTFsNTFjVkxIQXB4NVpzRHU3WmlsczV2WXB4RC10ZHhB?oc=5",
-      "published": "2026-08-21T18:45:28+00:00",
       "beats": [
         "Politics"
       ]
