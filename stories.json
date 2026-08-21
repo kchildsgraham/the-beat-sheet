@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T05:34:12.533323+00:00",
+  "updated_at": "2026-08-21T06:50:23.947169+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Charter plane crashes in western Alaska, killing all 8 on board",
+      "summary": "Charter plane crashes in western Alaska, killing all 8 on board CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
+      "published": "2026-08-21T05:28:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -35,10 +47,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Charter plane carrying 8 people crashes in western Alaska",
-      "summary": "Charter plane carrying 8 people crashes in western Alaska CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
-      "published": "2026-08-21T04:19:42+00:00",
+      "title": "Great nephew of Black WWII hero: ‘a shock’ to hear ship may be renamed",
+      "summary": "Great nephew of Black WWII hero: ‘a shock’ to hear ship may be renamed CNN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTF3bkl4TnJUc0NfTF9LVkdXYk5lOHpGbk1JLUJvOVFSTklHZERocFFfSFRxWHRxbXEtLU1jMjBJbWx2T1pkTFhsUFZ3MFNlYzdYYzdSRVlmaUhXbFdQM1BiaFI0WHVDQmlhR3NqbjBIUllMckRsRjdnOFpVSnVqZDgzY2VKcDluZU9taTVyQWYzLXZGaXFZWUh2aWgxRXNQT1N0WWR4ellValFZbDZQVUNpalR1WWRW?oc=5",
+      "published": "2026-08-21T03:20:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,8 +59,8 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Charter plane carrying 8 crashes in western Alaska, federal officials say",
-      "summary": "Charter plane carrying 8 crashes in western Alaska, federal officials say CBS News",
+      "title": "Charter plane crash kills 8 at remote radar site in western Alaska, military says",
+      "summary": "Charter plane crash kills 8 at remote radar site in western Alaska, military says CBS News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
       "published": "2026-08-21T02:51:00+00:00",
       "beats": [
@@ -80,18 +92,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Questions grow over why Trump & Cohen reunite after massive rift",
-      "summary": "Questions grow over why Trump & Cohen reunite after massive rift CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1pjYjBnX2ZsOWdjdU1GeTY3TWdxSlFuT1o0SzJ2LWxYbV9tNFNnM3BNMFF2LWFIS28taVpFb090WG9PcHNvc3l3TzFoSUkzcDFtQ2Q3UjhvZ1hkWmJHeGxGOVRENkR6bUNuVXh0Z294dW42WGoxajl5aHFUODNFbjZHMTRKRkFibXJrVE5RRFEtdF95MHo2X2IyRDB6YVJVMUJMMFBwdHRMdw?oc=5",
-      "published": "2026-08-21T00:10:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -101,18 +101,6 @@
       "published": "2026-08-21T00:00:00+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
-      "published": "2026-08-20T21:30:06+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -214,6 +202,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
+      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
+      "published": "2026-08-20T09:04:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -221,18 +221,6 @@
       "summary": "U.S. to send hospital ship to Peru as El Niño threat looms NBC News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVprM1hBbGhWMlhINXdrZ0NIQ1haRUVDLVdCV1kwZ0x2SnpWYWFTbnp3ampxbXVZUnY0VVpOc0NKN29uR09VMHBkT01iVUs0WTQxM0hVMkdxNTdlak94M2RWZmw5TnlsX1F3Y1Jub2c2Z2h3NFpNQl9rcjdyMjhoN0dvbm1QNk0xeXpLRTlwVUdNWlg2Rms2dG8zWFk?oc=5",
       "published": "2026-08-20T08:53:58+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
-      "published": "2026-08-20T06:51:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -333,6 +321,18 @@
       "published": "2026-08-19T16:09:46+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
+      "summary": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhkUXhtcXpNZm5MUjg4NWNBR1JUNGRPaDVhdXh5aUg5WFBXSzNPSV9PVEU3ZV9VV2xPUExRS0E5WHlJS09Fc01wcWZwdHduTGZYX2FvdDNKQW9RSnY3c2FrV2FoZXVhM3FiMWNUVWYzQ2lHREdPenB1VWVOT3pVVkJGdzJsZE9QWllF?oc=5",
+      "published": "2026-08-19T14:43:11+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
