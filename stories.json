@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:39:47.474451+00:00",
+  "updated_at": "2026-08-21T05:34:12.533323+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,47 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+      "summary": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHBXS2hmSlNmZzVtY2FfaFFydFY2eDFaR2dGVjdrUEpBUWUzUURPM3puUGt5TndMekZGTDE2VnRnbFBIc3FrVk5EZlRIVkxncHp4UFg3LWc1UEpPN0Z0Q1hydENEei1ZcjZmb0NqRlRqWDZUZFQ2UnFmRVB1M3JES1lzc3hWUktoZEVOa3RB0gGTAUFVX3lxTFB5eVVlZnpuQnpmbVItTHU2LUo4Wlc5emJKal9WUzJWRVBKQVJJRHFGNTRzZUg5NGlIMklqbUI0Qlhvb1MwSEpxTWJhbUVYT2JZMTNKdWJsX25HdWozeml6Zm1TZG5MdFJ6N1RxVEowZWpKMG43ZUdQQi1ScHBpTW9ZeEh6aFZ0Y0lIWDBUY1FxemxPRQ?oc=5",
+      "published": "2026-08-21T04:32:59+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Tiananmen vigil organizers found guilty of inciting subversion in Hong Kong",
-      "summary": "Tiananmen vigil organizers found guilty of inciting subversion in Hong Kong CNN",
+      "title": "Charter plane carrying 8 people crashes in western Alaska",
+      "summary": "Charter plane carrying 8 people crashes in western Alaska CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
+      "published": "2026-08-21T04:19:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Charter plane carrying 8 crashes in western Alaska, federal officials say",
+      "summary": "Charter plane carrying 8 crashes in western Alaska, federal officials say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
+      "published": "2026-08-21T02:51:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Hong Kong’s Tiananmen vigil fell dark years ago. Now its organizers have been convicted",
+      "summary": "Hong Kong’s Tiananmen vigil fell dark years ago. Now its organizers have been convicted CNN",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?oc=5",
       "published": "2026-08-21T02:09:00+00:00",
       "beats": [
@@ -44,6 +80,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Questions grow over why Trump & Cohen reunite after massive rift",
+      "summary": "Questions grow over why Trump & Cohen reunite after massive rift CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1pjYjBnX2ZsOWdjdU1GeTY3TWdxSlFuT1o0SzJ2LWxYbV9tNFNnM3BNMFF2LWFIS28taVpFb090WG9PcHNvc3l3TzFoSUkzcDFtQ2Q3UjhvZ1hkWmJHeGxGOVRENkR6bUNuVXh0Z294dW42WGoxajl5aHFUODNFbjZHMTRKRkFibXJrVE5RRFEtdF95MHo2X2IyRDB6YVJVMUJMMFBwdHRMdw?oc=5",
+      "published": "2026-08-21T00:10:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -56,37 +104,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The Route 66 midpoint: ugly pies and an iconic café",
-      "summary": "The Route 66 midpoint: ugly pies and an iconic café CNN",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0h2eXY1a0NpRTl6M1JNREhRdmYteUFGTmJzc3pTMEl1bHlwbjdhVXl5OFBEVnZJRzk3OU1pMTZrZS1kc0Q3YTJoTUI1ZUpFZWNYejg3YmdwNjByZ0dkRG9YRUFwQnB2Nllvem4tVVYwS05ub2NDeWlZQ3NlR3JyNm5NNzdXZG5pODB6eGhJXzhhU3pWaENtYjV2bHhjUXpRa3E2LUpn?oc=5",
-      "published": "2026-08-20T22:51:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
-      "summary": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHJDX0FqdzZsbVdTTWJzbzhFdFRpMHBFVjVfODAwODlNRERQSUlXZlNrUTdNdHBKSlBhc3JFMkxKa3VEN1dTLV94UTUzbjhIcEs4T00yQk14VXRxWEdROEhzbW5oZl8wczh1dWswT2YyREdScVFMa183MThOQjDSAYQBQVVfeXFMTWV6WGhRb3VDVWFvSF9sUU9sS25ma0w3YUJtZ1pZVUN4ZGphWlVCWU83TVF4b0psLVhLeV85TWY1aGpiOHZfNmRMcHZuSHVUMUlRcmd2dHhsbXJ5bUgwc2tfRmk5eUlicFBFU2dTSkk3RkNwNWtyMVlOUlJFZThKcy0tblhn?oc=5",
-      "published": "2026-08-20T22:51:36+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending",
-      "summary": "Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzJQVVZzLU1teDhEM0tSa1JUTkNncGM4Ung2OEYwTW1FRmtRSXZuaVFMS21KYWpKN3dSdDA5U1pUVDFtbUt2NjNNaE9Zc0VsOWVBbXoySUFIbWdQYTJxVTBsWlZ1RVQzRHFIYUlUaW1FS1NqcWR6QWlhbXVaU0UxeklMVQ?oc=5",
-      "published": "2026-08-20T22:41:27+00:00",
+      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
+      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
+      "published": "2026-08-20T21:30:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -205,30 +229,6 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-20T08:31:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
-      "summary": "Trump announces \"crushing economic operation\" on Iran with talks in limbo CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-      "published": "2026-08-20T07:15:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
       "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
@@ -339,10 +339,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | What Does the Trump Administration Have Against the 26th Amendment?",
-      "summary": "Opinion | What Does the Trump Administration Have Against the 26th Amendment? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdy1QWlVTWTNmdmVEcFBQN3lmSFNMZl9OOHZLYlVISF9IVWI3UW01Z2stcElGTDUzbndLT0J3enVWclhaejVobTRGWkxVQTJCOFcyVlMxc1JzSzJOYVRHRnB4VU9XTU8zcnZ6MXZGbTJUaDNYcGQ4eGRGSlRWYnlEMkdwOA?oc=5",
-      "published": "2026-08-19T15:00:06+00:00",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-19T13:46:11+00:00",
       "beats": [
         "Politics"
       ]
