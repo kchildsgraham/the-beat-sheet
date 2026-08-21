@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T19:49:27.315535+00:00",
+  "updated_at": "2026-08-21T20:27:05.620063+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "summary": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlpMVmlPbE96c3VpMVNEbGJmOGlZd1V5Z3dqOWJ4RzRfb19nZG1JMkliOEJ1Qll4YlRSUWlITlhob1BGS2RaNUJlTEM2LUdyWUxGN1F3ODBZMXN1SHE5ZTZRVnlnNm5DdVNrakUzdU4tQzZjc3VhVzJqTG9mbHpKMnlIOFdMZ9IBiwFBVV95cUxQNnpCY0Uxa0NfV2hMQjNiVVZVdDlncUpZTENQSUh2QWtpeFJNUEcxd0xUeENhdzk2MG1YcXA2RGhqOFJSMVZJa3ZmMGpmVlVLZTJiU1MyV2hsTDk3VGxFYndQa0taSDJ3VU0xS2d1RnJDVExtUFZlMzRFejA5TnFjSlVNZ2E4NGRWbS1r?oc=5",
+      "published": "2026-08-21T19:21:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -71,24 +83,48 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump officials touted a voter fraud bombshell. Their data hasn’t proved it",
-      "summary": "Trump officials touted a voter fraud bombshell. Their data hasn’t proved it CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRjJPcWpHOWpkWGxOTllHc0hHdDVwZXNzMmFtTmRtcWZMdVdpSGdXbTF1N1Nsem5MWHJubkY4VDg1TkRGNmlRV3Z1N0lmYm1Kcnd0TnVxWk02YU9BYUo5WTdQUzdUcmV0VEFEYkZQZjNlUnVMOThzdGxwUWFxR2FUeg?oc=5",
-      "published": "2026-08-21T18:06:46+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
       "title": "Trump US attorney pick can no longer investigate one of the president’s top foes, court rules",
       "summary": "Trump US attorney pick can no longer investigate one of the president’s top foes, court rules CNN",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS0M0cXVOVGRqdHFFZnVGV3VtRU50QUZmbTFCSmMwSnRTT1dQVnNrWDdvWHJwRzU4UHlPWTBsVFZVMXFkSFpEWWJaTlJYejRqbUFyclF4ZnBLLThnTERkejlOSnpZWS1tNzlaZHEzX1IyYThHMFVUXzZOTm9TYzB5TEV6cUJGWHVMRWlyZDliWnNoZUo4bUhTeWpobmF0cTVCOEJqbWFiVjFCSkVVbzVTSC12OGFJS2RSOVdkeXVGRnhvdVU?oc=5",
       "published": "2026-08-21T18:02:48+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'Dreams in Nightmares' is a road-trip movie about living on your own terms",
+      "summary": "'Dreams in Nightmares' is a road-trip movie about living on your own terms NPR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rcXFIUkdYb2cyNnNicUdDbHo1YktMZUNFZzBDcl92MHlad2s1amRJRkZFRGR2ckRNaExBcC03ajZ6RGhCZ2Z5a1Z3czRTZ2tMR01ucnoxaW00QnhFZEk4WENtZDBuXzJsdUtmbUxwdVpydUR4bWpCR2hPV3U?oc=5",
+      "published": "2026-08-21T16:51:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+      "summary": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkFjRGVjNjdCS3NyY0l2WFlLMFNpN1VUb3ZGbFBmVUR1dWo4SGpzSnAzcG5qcHh0MDRwMlZ6QlM0bm83WFlRbTFGV181bVdEbGR3WGZvYzMwT0VrZHJDdW9hc2MwVEVDb3d1azBxWXoxSTVKSTlvVGNlMTUycm9tdFlzX2hENWVmUmc?oc=5",
+      "published": "2026-08-21T16:40:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report",
+      "summary": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXlKeWpMV1hGa1JqWUxscXpzc3JlSUpkVzk4a3FMVWphcUhTNEh6bGJSUWJxai1SMnVwZHo4SDVFWDVzbHR3eEE0T2djTTZMU21hbFJSVUp3WjEwOFZpcGdJaXNfZW1RNHBLM2dfWm1iZ1lQOU1FRHdBSzVEdkJCSVJ3b0FKRzd3dEZGLUJhSFl1Rmw4aWZmOXVSLTdheF9VeHBmbWY2Q3RTUUF5a2hZeVJBQnBuMWJSQ29JYnJn?oc=5",
+      "published": "2026-08-21T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -104,13 +140,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-      "summary": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkhFYXFnV0F0Ql9yQmczVDJWVzB0MjJteHVzZF9NNW53UkRob05mNkFNQkN0T3QwWXRhQTlsQktXZ0I3LWZ6cVlQNmhUV2hYWVFQeHJ1YnQ3dU5xVlJ6bl8tMDBydzBIYmxEUFQ2RUFuRTVqeWxmcWkteF9JTjgyVUtuRnHSAYoBQVVfeXFMUDFRcWFtNlpESGFPcFFYMDFuR19qZm1jemcyQ1pMNE5VU0JFSUItVnkxcy1Id2E3a2ZESkdlcXkwcXl4bmxzZGoyVDZpN2JsTlJhRF9heHhaaXlLd21ET1d2cmxudG5iVllRTUJKaVhuLUdBMF9jX1B2VXVQeEtFbkVzaGFiNzFqUGpn?oc=5",
-      "published": "2026-08-21T14:39:24+00:00",
+      "title": "Defense rests in Lindsay Clancy’s triple-murder trial",
+      "summary": "Defense rests in Lindsay Clancy’s triple-murder trial CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hRlJNY2pwLVBEbEZKbGtGaGV4Q283N21tdzhSdmx5Y1lheUx3blVHcnJHM1hfMXZqd29mbUJES0Nna2c0MnVwaUtMTktBX1lWRE1GeUJQTG9PTGJxQjA2c0dTTGdPemRvMWVrZkx5RmJ0UlJ0RjJB?oc=5",
+      "published": "2026-08-21T15:56:38+00:00",
       "beats": [
         "Politics"
       ]
@@ -149,31 +185,6 @@
       "published": "2026-08-21T11:43:02+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
-      "summary": "Top Iran official says US focus on economic warfare shows it has failed militarily NPR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3p4enFfTGhkOEU4VkprbkZPLU1DQ0lBOXM1b0wwUlBjS1pwOXY3VnNrbE9Uc0kybHp2bUlsYURlRzF1ejV5cHR5SkVTNUQyc2R4bkxoOEdUWTJ1VzhwWnFmWWhSRF84aTlSWWI0UGY4c1FpNmViOXhWY3JNamJ0d1Zn?oc=5",
-      "published": "2026-08-21T11:42:10+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-      "summary": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom NPR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2k2TWI5enZ2V2Ffajl1SGcwQWNyUXQ3dmpjdGRyVlFVWG1qWVl6VnBpVXZVSHNEWDZvQWNwclNCUDRqZW51MUl2aUd4b1UySEluajVEWDNMNUxNVjE0alpTbGk1V3FLbkU5em9ndVpnWVEyOUgzSU1IbzlET0lMVEoyc2g3NjhKVGJOanRoVk9KTGxNTmxkbjZjLWNlT1RlVE5YWGtFakhRU1NFMmg5ZjRRUzk?oc=5",
-      "published": "2026-08-21T11:25:10+00:00",
-      "beats": [
-        "Politics",
-        "Business"
       ]
     },
     {
@@ -247,18 +258,6 @@
       "beats": [
         "Business",
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Tr*mp’s Natalie Harp problem somehow keeps getting weirder",
-      "summary": "Tr*mp’s Natalie Harp problem somehow keeps getting weirder Queerty",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFdud0JjeUU4RGF6Sk1EX21IV05wRTNNTFgxc1hVeUw3X0REUUx3bzZCSmJFZklUV3dvdEIwYy1XOFlhaWJ0MFk3MXlJYnZyNnRJOGZvQ3BxVERyZko4RnpyR2JSSmZfUlB2YURHY2hSVERwcHFXSjJjRXh0TGVIVHBFT1l6bHpoYVZtdFBTUGZ4S09S?oc=5",
-      "published": "2026-08-20T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -358,19 +357,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "How would Head Start programs fare if federal standards are pared down?",
-      "summary": "How would Head Start programs fare if federal standards are pared down? K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUM2ZW9oM1hYZkVEVzBqWnpqdlBld3FIT2xvLU1Bc3FWTnFmQm56a0x2NEtXQ204SjgwZUYxYkhXakZCb21mQUhLUlppdWZfYUZuaERKRU5KaFdHN3JLYmJremRfMGg3Z0FoOFFJSXNTN2V4NE5PYkV4Rk1PdWd6MU82OWw5SlJaNmhiMXJHQ3ZnS2pjYlJJUUNvbkdRald2VlpWYUxHal9Mbk0?oc=5",
-      "published": "2026-08-19T16:51:55+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -378,6 +364,18 @@
       "summary": "Trump’s visa policies are not deterring international students from California universities EdSource",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HbWV2QUVaejc0Mk5CaEkwWG1VSTZqVUw0a1doZXJrVjIxLWRJUUp5ZGNxSFdhcXlkV0R0bXBMWVo1cXBhWE44dTlXT0xsbUdlSFFNLUM0OXJRTUsySmZXMV9ZZzlXZERFdEl3SU45OEZvb3M?oc=5",
       "published": "2026-08-19T16:09:46+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How Growing Up in a Digital World Affects Kids’ Academic and Social Skills",
+      "summary": "How Growing Up in a Digital World Affects Kids’ Academic and Social Skills Education Week",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcHVtbmE4Y1I4NFk4OFpnY1F0Z3dpTXZiRkkweGtJN09fZUpZN1RsU1NNV19VMHNvVzM3TlBnOF9LVFF6WHNJTEtVeXp5LS1RQW11cG0xRkRhSW9XWDVWZHR3a3MtN0RDcTZRaWZLT21Iam41cVF5NWhOalpGUkhZeHdsdm01ZmpWdjRtQWlTYW5qUnY3bXRiRnB3UHdIZW9yclU3bjM3R0VteHduR2hIRFNfWXVmdw?oc=5",
+      "published": "2026-08-19T15:07:06+00:00",
       "beats": [
         "Schools"
       ]
