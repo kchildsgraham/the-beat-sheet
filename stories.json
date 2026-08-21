@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T17:30:17.274876+00:00",
+  "updated_at": "2026-08-21T18:38:09.781983+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -27,6 +27,30 @@
       "summary": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkFjRGVjNjdCS3NyY0l2WFlLMFNpN1VUb3ZGbFBmVUR1dWo4SGpzSnAzcG5qcHh0MDRwMlZ6QlM0bm83WFlRbTFGV181bVdEbGR3WGZvYzMwT0VrZHJDdW9hc2MwVEVDb3d1azBxWXoxSTVKSTlvVGNlMTUycm9tdFlzX2hENWVmUmc?oc=5",
       "published": "2026-08-21T16:40:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+      "summary": "Broadcom debt deal expected to reach upwards of $70 billion, sources say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdHdTRkJtbmdWdUNiV1NVeHNybVJfaGo4WnJIcWhfcmxGVkE4dE5ILTlUM2dLNnBOREQ0eXBLMFdsdHBaX3N4QlZVblNTRGdUWnczR0dlUVVFdWJDN0lKVE5TZXFRR1ZLcnIyWXBEbWxyelJIYmozSTdMUW9YQ0FLem9ab1ZrUHY4MkpteWtnSjIyTjZOT0lPdkVJNlFWdGhndTNUbXJn0gGrAUFVX3lxTE9oNGVBMHU1VGxMRjlEMmZITmJUMHdDc184VnhTSVpRYVZ6dUphOFN3aWthQ2RIYVlVQmticXNiVmFjN0luQ1ZlZF9UbzdEd1dsY25NbWhDclVnXzBSRnNlZDZ1c3hlSW02eWxxMHZrbkcwbjRVbVVjSEs3R3JqVHAzd2EyWXEwRnlGaHZLUkhWOEM2UUtvWTJFOWVUMHdhbnpYQUVfQnl0UkZiRQ?oc=5",
+      "published": "2026-08-21T15:58:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Defense rests in Lindsay Clancy’s triple-murder trial",
+      "summary": "Defense rests in Lindsay Clancy’s triple-murder trial CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hRlJNY2pwLVBEbEZKbGtGaGV4Q283N21tdzhSdmx5Y1lheUx3blVHcnJHM1hfMXZqd29mbUJES0Nna2c0MnVwaUtMTktBX1lWRE1GeUJQTG9PTGJxQjA2c0dTTGdPemRvMWVrZkx5RmJ0UlJ0RjJB?oc=5",
+      "published": "2026-08-21T15:56:38+00:00",
       "beats": [
         "Politics"
       ]
@@ -77,30 +101,6 @@
       "published": "2026-08-21T13:46:16+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "summary": "Trump to allow import of 300,000 metric tons of ground beef without tariff CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRHNHQW5JbkljQWlxRlEzWlYwcFlhdkNjaW5BYXE3V0tVQlhoTG8zZ1k2dVJvYnJZX19vZGZNMWFmeGVCQzYyVkZvTmJpYWRFemJ4VXZVdHd6N3JHNmFyMGJMSzRMRUFTVGJNV194ZFZ6Rkd2emJj0gF8QVVfeXFMT2tnWEk2MXlQMXEwRUZvUTRYVHJ6UkhDd2F0c1lLc3M3OVRzblg2QWdjMWFSZjdfa0VfalFKaUdOc1dnaVZFUlZoVUFPbjhTZkJzOC1DUkhKank2eFVlTE51NVYtYnExMWljU0pwbm03Zk5hdlRpd0xXUE9VbA?oc=5",
-      "published": "2026-08-21T13:37:43+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Several people injured in sword attack at Swedish school",
-      "summary": "Several people injured in sword attack at Swedish school CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iM3JqQ3dMYUVTTFBLSUlzLUJoYzhSbUs5UllEYktwcTJhVVY5Y0RubGtKZXNpUGY0YmF3WklhN2xmT1NON0xGNEczbjdGcDdaY1lnSzdzV2RIYjBpNzJoVHVMeXFJVzZpVUxoVFFqdzJqdm9EbEVIaXln?oc=5",
-      "published": "2026-08-21T13:16:15+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -228,6 +228,18 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
+      "title": "The closetocracy? 11 anti-LGBTQ+ Republicans dogged by gay rumors",
+      "summary": "The closetocracy? 11 anti-LGBTQ+ Republicans dogged by gay rumors Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGOWxkeUlOLW1Hb0VmTW1uWWp0V0I3YUtCZGV5RVpiQVdsTXZsWXh0MEQwQ210NzdYdHNVMjZybEY3QzJBTVRnR01Rd1pDQVlKWjR2bzNGc19aLW9IRGlSbWk0Z283SGJYeGx0TW02dHNBc28?oc=5",
+      "published": "2026-08-20T20:25:13+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
       "title": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty",
       "summary": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaHVPWHZWMDV1LVdhejFpalEyeG1pVFFPcFVXMmFVNHZic0xFRWk5SXJIeWFVNHFtQldfWl9oZ2NlMXRyQjNrSjQzQTR4NnBHTEFrWkFZMmJPSXo1U0ZCMk1GaG1KaFhNNTlaOTVMR3NCOXdDTnhCZG5kZWFQVlk?oc=5",
@@ -282,20 +294,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdG9UZGEwOHE3ak5OUXBYM2p5eS1vVV9pMzZkeDlhWTVHdHRhQmQ1eENkaXVpclJvTnVnc3VVclYzc09wRFVWZks4alZXbnpvS1E1SWFxdFRuMGJfQjNiNXJNZmc0b0pGTGlscWpuempITVk2elBDUFdVek81M1Z5WGRweW1QeHhGTGM3bDN0SzY4TjFrRkE?oc=5",
       "published": "2026-08-20T16:00:00+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students",
-      "summary": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GMFNFNUFEOEF3UHdXM1lsaV9XR25Zd2toclVhSk1PTXlhTGpJYV83RWRmRFZxVzE2WU9PYmJSd3Z2VkxkY09leVNvWEN4cmFfM3lJVEotYV9tOXpTd0ZJTzZLSjgtcnVfWkdqLXItTTBOR0FISlc4c1QyU00?oc=5",
-      "published": "2026-08-20T14:54:47+00:00",
-      "beats": [
-        "Politics",
-        "Schools",
         "LGBTQ+"
       ]
     },
