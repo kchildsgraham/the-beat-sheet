@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T09:37:44.892600+00:00",
+  "updated_at": "2026-08-21T10:32:01.825566+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
-      "summary": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlGdzlYM2hVeGpjYjhQekxBMjc0WGZPLU5Pd1VuOWQ0ZTU0aHFaZ1k4U05GSVRQS3BEMGpzTnUtdmFtenMzY21FWGNVRE5hNVZLMUVIODJCbTF6UHpoSEk5eHVEY1IzUjdhQXYyNEhWVVlleWFPX0RhTERpbEtWaGM1VlRnanBrSDd3MU5ZY2VFUER2dktKcDhJbjczdkZYOFVz0gGoAUFVX3lxTE1ybUV2NWNiLWdsZHlzSHptOFoxYmJSU0hWb3BXUHhVT1YyTndCd1BtTm9McktvdXZ4Ylc3a2FqdzBxeGk0UVlaeXAxMjZjWloxdlNKV0hkUW5HM1JmNzVQVVJaSnRvMGtSYlpUTnVVU2JwVHRkUG5CS09CUXpEQmNuRVZ4bzl6LXBseHhtRmN2M25yZnBIZ2xTd3hqQUVFNUd3SE00UWRPMA?oc=5",
-      "published": "2026-08-21T09:08:18+00:00",
+      "title": "What to know about this weekend's IndyCar race on the National Mall",
+      "summary": "What to know about this weekend's IndyCar race on the National Mall NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjRBQ1dpSzNXZVdxQThaVjE5ZFI3RExRMlZZVDRyUm9nb2pKX09BXzlSc2RPUWRTRlFuX2ZfbXQ1Z0RKOVBTTEUyRFhST0xLZDlmbjJZeV9LVWtLWVVFSmJvUGJUc1E2SVNtM3NrQk5yTkVYU21VZXhZU0k5aWd1WEc4U3lIV0UzNEluVw?oc=5",
+      "published": "2026-08-21T09:01:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump tries to push Sen. Darline Graham across the finish line over some Republicans’ objections",
+      "summary": "Trump tries to push Sen. Darline Graham across the finish line over some Republicans’ objections CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckRkUUFlOHN3cUE2eEEzdFJ2Y0sxaW9xRFRLTHE3c3ZMV2xRZGZJQXdrckFJdXZwRm1lTlpWdW84d1A3NUtOelVEWG94WUltLTlFczVlSmtoUDBRTHVzaDJhUWNEdHNKYi16S3BFUGMtMnZmYVBUc2VIR1JSRzQyZHhkUm42UQ?oc=5",
+      "published": "2026-08-21T09:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +59,22 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-      "summary": "Charter plane crash kills 8 near remote radar site in western Alaska, military says NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXRYSGZEV3RYS3hTdVRBaVJmN0ZvTjBKOFVlc2JDa3RJTFFTblkxTTNWMjVrUXJsSFBxT19rRXR0a1hJU2wzWGh0VHhNVGxLMzFyWFhhSXViWl80RW9IY0Mxb3loU0o3d2NYQjdrdjdVRUg2VTF0LVU0ZzFHQzFueFlmU2xpYmFocXQzZVVWMUxwZw?oc=5",
-      "published": "2026-08-21T06:41:33+00:00",
+      "title": "Federal government thins the herds of wild horses in Colorado",
+      "summary": "Federal government thins the herds of wild horses in Colorado NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXN1ekY2WVh4Mk9ZWXotOUt1OUU1UGs0MmFmelVVaWIyUWpnc0cwSjEydFExQkk0cGVaSXUyT2lMb0pkNmhPcEdIaTFjeFpaa2tPSG15RFc0UENGUHZQRkxFcVJKeEZzMGF3ekZuQlQ0UF9GWUMzUHFLLXJJOURLVUdaeEdtNG54Q295UXZSUWZiMW5kSHVz?oc=5",
+      "published": "2026-08-21T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+      "summary": "Bitcoin on track for 20% weekly gain as investor optimism floods back CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRGYUZ1N0FTMjBSWUZKS3BUU2dhVVVxYzdLQ0lMRkhNZ0hua3c3Uzg2N3AyNThYb3JfR3BYQ09sWkl1Ni1Pd3R3UEFkNFRRUGtMNW9TTllKQ2huZ1c3UWN5ME85dHFOblprdVNjWk5GN2xvRXBXSU1HdTNyRmpyVUtZTUZDV08xVzN3dUJR0gGTAUFVX3lxTE91YXlLVVY1aGtjTzVEU05mWTU4c0pFT0I4ZW5OOHltMk1zV0FwNTVQZnZrQzlVazVIOTgtWkp6d3lxTmljc0ptZUwtU05oUEs0MXNRYXlDVmpjUHVuRnFMdzBEbGMzWDFrekdnbmY2ajl1TzRkQ09TcDZTWlBYWlJGak4xOFkzMElveWZOVzBKcEpxWQ?oc=5",
+      "published": "2026-08-21T08:13:56+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,25 +92,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "North Korea boosts support for Russia to include drone operators, Ukraine says",
-      "summary": "North Korea boosts support for Russia to include drone operators, Ukraine says CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcEp4VGloVEs1ZkZZSWJ2QWRxemhJTklaNkllNXozVGM0dTdGQ2ZrZ2FxRUlCbzFrLS1Zd2EyQnN4amQ5YUQ3eno3UmNMem9RZWFPMzRuUzRIa3JlbVJkeWIwTDNpUWZham12NEVpME1yYTNvSHRfNklVWGtyOGNURXlB?oc=5",
-      "published": "2026-08-21T06:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
-      "summary": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting NPR",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVJoM211SWRuc0pHazUtcC1pNlkwUDNHR3F6c29WTFpkZTVTdXp5cGZKd01qenV0d0lKRXRaWkExWlE0OHFYOVdheGNrTnRHMkdYOXJRcmNUeUNGSzllTE9lOENVVDVBanVoeGQwNXhVamN3LTVMdG9qaGRIWGFiOVlJV3JjNGk2VnlEdF9oeWNaOGxuSDg2eXJxdEFLQzFSQmowaUtfSDlOZzlwWE9lY19VTXdtTHpiVUE3WVlSY3Y5TjhFMEVXRFlQMzBPY0xEWWxxSUdB?oc=5",
-      "published": "2026-08-21T05:41:15+00:00",
+      "title": "CNBC Daily Open: The 'Bessent Bid' wears off",
+      "summary": "CNBC Daily Open: The 'Bessent Bid' wears off CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFBXSkdJS3hLYUF5dkFJcDZjWkVCSG5ESXJRUTJZQVgtTFVXRFlTS3Zhb2Jpekh0WWdFRUhDRWRsMl83ZVFSWTRaUXJXbmN1UGVlSTVaVUFFUktKQ1F4cTJUNXJmR00wVkpjb1ZvQmpHaWo3Mnhvd3o1dXVJZnlvQ1JTQ0PSAYoBQVVfeXFMTkdTMEwteVNJVGtXSVBmbkR3Um42czhsQmlWNjkwbnI3Wmc4T0c4VllFbTRheVFpVEFkdEs3T2dqaHk3NE1kVXdxbTNuVmtnMmhNR2VnYUpKTVp1Z2hKWXNZcDdTUS0xREI0OE9neHVIMGdqOWs5czBsRndULXJHWHU3WjJnTUhQbjln?oc=5",
+      "published": "2026-08-21T05:54:24+00:00",
       "beats": [
         "Politics"
       ]
@@ -111,18 +123,6 @@
       "summary": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data CNBC",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3lXajYxSGFNQnJrNWtBcDRBakF0amdndHNVRU5KQnFFS3NMbFhEY3pRZnhPbmVUTTh3N3U2VDluSmw1NjBraXdCTUV1eFREMUR5d0pVTEpNSUV0NE9RZmduMWU3VU5uT3REUTFIOW8xaHhGYzdpVE03VWs5UXNJY1d1VFdTeFA5UVNsSDZvenhOX0o2RHVOWFlRbHBaaWZr0gGmAUFVX3lxTE5mYlFNdWRTWFN2Y21zeF94WjlaY0ZmZTNrS2E0ak8zSTVSVnV3dWcyNTBsZVdCVmI2YVVlU2w4YVNCX3JWdzJLT09Hc19PQnN0R2hhcERNbjlNemtIN3o3eG9OR2dDUDB6WUNiNjkxS1ZDN29JODBQdVVrSUxlUkJpZEpwN2lVcTdwQkxhdFU5V1BSMjJzaWh4Y2tUazhpM0FxOUN5WGc?oc=5",
       "published": "2026-08-21T05:03:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
-      "summary": "'Perfect storm' brews for global food supply this winter as grain prices soar CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Da2lZOFg4YnZxUmozQjh2YmJrZzZmdmJ6Tjl5YWR4U0VmdzgtQlZiY1gtM2ctT2w3clllRWJrdzBDTjlyRHo1aVdCWXNjYlQzUXJKaXhGT2dIcjhiZW9NQ3NIWUxiak12LWR2TnVoZ3N3Y0tQV3fSAXtBVV95cUxPTjdfbW9jeUNjWjFLQ0UtQjZiOFRHWmpELS1jeUVBc1ZLVnZRWnY4RWdYUlZXMGY1RE9yQTgwZDlMOEZkdzE4bTI5Mmw0dHBOWmZrMnZkTU5CZm5lTHVXc01mUUh5UWhXbThsRXpXb0d1WjBDZkt5VFFFZ3c?oc=5",
-      "published": "2026-08-21T05:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -174,6 +174,19 @@
       "published": "2026-08-20T20:10:58+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Classroom interpreters in Clovis Unified agree to first union contract",
+      "summary": "UPDATE: Classroom interpreters in Clovis Unified agree to first union contract EdSource",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGZCd1JwWEplbUI4VjZoVG1MN0RCVWJhREN6M01NSEs1dEtUYWxGVzVwZHJvdWdsc2tfQ19lQXRhTWtiTGh1ejF3NWlzU012a2xkVU5rdk16eURyZk5TRDJiQ1Jpdjdjc3g4Y0plcEhlQzI4UG5JLUV1OEhGbExKMHhpX0dyVU8zblh3eWtZZ3RlTTdJb1gwSTJFNXRtZ3Y4?oc=5",
+      "published": "2026-08-20T18:24:01+00:00",
+      "beats": [
+        "Business",
+        "Schools"
       ]
     },
     {
@@ -230,10 +243,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
-      "published": "2026-08-20T09:04:01+00:00",
+      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
+      "published": "2026-08-20T08:31:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -242,10 +255,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "summary": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDE1d1BHcGFROGxYNGMwNWx0SGVPamFPU1lkQTk0Wk1ZLTF1SHRpTHBxTGY2bnlQcnVjRGtVMS1lQ1NsZDdqNHA0eUdZdFFjdUJ6QVhWV2c5eGx4d1prNWZPMGZ6MXU1MEo0OUx3SXdIZ0YxRXN0aHowdEtEZkVFWFVPUzRHZUlkZG9DekphTndiRnZvMzFJUWQ2QlNyZw?oc=5",
-      "published": "2026-08-20T08:31:00+00:00",
+      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+      "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
+      "published": "2026-08-20T06:51:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -284,6 +297,18 @@
       "published": "2026-08-19T20:05:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Which States Test English Learners in Their Native Languages?",
+      "summary": "Which States Test English Learners in Their Native Languages? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRnVtNHhIcklNeWV6WEk0UEE4aU9vekhlOTFBSEptVzlPN1JnSWtzT1d1aEhnQUQ0ZkZ3cTFkanYyNDZULTAwb2ljdjR1ZkdkRzE0UWpodGRyeXNEQ1V1RWZaQk82akMxazR6d1FvcXFXQk5qdzk5Ung1RnlrVFpVR1BKV05YbE9mYVIySER5X2hFMXpaQ0RsZVNuSFZmeVFvQlk0QjllcjlzR0pZQnc?oc=5",
+      "published": "2026-08-19T20:04:09+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -355,30 +380,6 @@
       "summary": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhkUXhtcXpNZm5MUjg4NWNBR1JUNGRPaDVhdXh5aUg5WFBXSzNPSV9PVEU3ZV9VV2xPUExRS0E5WHlJS09Fc01wcWZwdHduTGZYX2FvdDNKQW9RSnY3c2FrV2FoZXVhM3FiMWNUVWYzQ2lHREdPenB1VWVOT3pVVkJGdzJsZE9QWllF?oc=5",
       "published": "2026-08-19T14:43:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Unitree unveils ‘Superman’ humanoid robot",
-      "summary": "Unitree unveils ‘Superman’ humanoid robot NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnJpWGtUWXdtakI2SUpQRFZhbHhqT2FKaGQ0TkRyMjVaWk9VOGZhRV9RcUYxbnE1dDZDVTloS2NEZTR1MkRfVTRHM2dDZkxpUjRRWG9IZHlQd1VSdEtYX0RmMjJYZHJILTZ1M3l3SDdWQlNTeER1SHl0ZkVnYlhwcExtZ29UU2pnOHc?oc=5",
-      "published": "2026-08-19T09:48:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts",
-      "summary": "‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWW9ReHhCcHVnNWotc3N0NjZWYjctSmtIbHpnUkFfVW96WWRYV1labEVmdnE5ekp4M0d4bnRyQ3pTREpWU1Q5M2lLbk1Da1plVGFiMk5QcTdCLUJrbmRkdXl3MVBSQmhmNmJLMUxCSnlXRlFFT2hHNkx5SHdRSi1HNDBrZEhWazRpRGhscTMwaVZoU2NOT21TSVV5cHhFUlhOam4yanVLRjF1akpiLTllYkxrdw?oc=5",
-      "published": "2026-08-19T09:00:43+00:00",
       "beats": [
         "Politics"
       ]
