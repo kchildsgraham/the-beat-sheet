@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T12:51:02.658926+00:00",
+  "updated_at": "2026-08-21T13:46:42.286131+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Prince Harry, Elton John and other high-profile figures to pay £9.5 million toward legal costs of UK tabloid publisher",
+      "summary": "Prince Harry, Elton John and other high-profile figures to pay £9.5 million toward legal costs of UK tabloid publisher CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGkzb3FTYmtZeWNTa2hEcDBneHRIQTFVY3B1eVlVYlNrSHJtQUpMVmh6OEtjWjNibkRnNFh6Z0dEOWpqRzJvN0t0Vm9YUVdvUFU1RVFsTXN3OUF1c0ptOHh4aFIxZ1c1dDJ4TTNRY19nNjBJdkpPWVNGbEY5SzhEQWQ1OWZ5Ti0wbEs5dnlKOVZwZw?oc=5",
+      "published": "2026-08-21T13:13:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Greater Head Start flexibility will empower program leaders",
+      "summary": "Greater Head Start flexibility will empower program leaders K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnFyRDBFLXJQNEh4U2h3SmpnRlRJRjgyb3pndHhETkpnQl9Vck1KbXhueUxmNktLS1lRNmFqRy1aYWtEVE9oQVNaYy13ajZLaVdQVjVoRExEakFxT2J6X0pfMFk4UXBteHk2bGxrZEpNSkpUY3N3TlZTUEFQRHdPeFdTZllReVp5cGNDTy1BOV9CY3pBd2tLaDFObEE?oc=5",
+      "published": "2026-08-21T12:45:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -27,6 +51,31 @@
       "summary": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aVFRcnVzOUk4bTFLdGNYTVgyUHpFYkpia3JLMk5IU2NHaFZpN1BtaWZxYV9Zc2dTMjB0a2Q5UE5zZ1lfN0prUWlMZ0Y3cFdIWEJCTlh6c1hOZmFaWkg1YWZJTFVaaWFiMlIzV2dHZF8tblc1S1N3?oc=5",
       "published": "2026-08-21T11:49:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "summary": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom NPR",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2k2TWI5enZ2V2Ffajl1SGcwQWNyUXQ3dmpjdGRyVlFVWG1qWVl6VnBpVXZVSHNEWDZvQWNwclNCUDRqZW51MUl2aUd4b1UySEluajVEWDNMNUxNVjE0alpTbGk1V3FLbkU5em9ndVpnWVEyOUgzSU1IbzlET0lMVEoyc2g3NjhKVGJOanRoVk9KTGxNTmxkbjZjLWNlT1RlVE5YWGtFakhRU1NFMmg5ZjRRUzk?oc=5",
+      "published": "2026-08-21T11:25:10+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Moderna, Merck breakthrough could usher in wave of cancer vaccines",
+      "summary": "Moderna, Merck breakthrough could usher in wave of cancer vaccines CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aWEJuem1JckQ3OThGcmpLTmdpSG9CMDBaY2JFUnVILVFPRVJETklzTXkzS2podHBIYkxIc2tkQW9kbjdicE5SQmtmdEdiY1ZSZ1hPQ01ocXN5Nmh2QUlQMndZa0tmNi1xZU12OW5UZGk?oc=5",
+      "published": "2026-08-21T11:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,18 +93,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "What we know about the IndyCar race taking over the heart of DC",
-      "summary": "What we know about the IndyCar race taking over the heart of DC CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zSFQ1S0ZhR2ZUQ2NfZjhEZTIzbE51YVAwbHdvRkFZQXJwcG1mU1hybGRNVS1UQjJSSmZ1SFFiQnFCVG1LTm5ldURJUmtlR05oY1J0Y0k4X1VZU25KMm5VYUVBN2tpNzFOQXFhenV6Nlo0Rms?oc=5",
-      "published": "2026-08-21T10:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -65,18 +102,6 @@
       "published": "2026-08-21T10:00:02+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "What to know about this weekend's IndyCar race on the National Mall",
-      "summary": "What to know about this weekend's IndyCar race on the National Mall NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjRBQ1dpSzNXZVdxQThaVjE5ZFI3RExRMlZZVDRyUm9nb2pKX09BXzlSc2RPUWRTRlFuX2ZfbXQ1Z0RKOVBTTEUyRFhST0xLZDlmbjJZeV9LVWtLWVVFSmJvUGJUc1E2SVNtM3NrQk5yTkVYU21VZXhZU0k5aWd1WEc4U3lIV0UzNEluVw?oc=5",
-      "published": "2026-08-21T09:01:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -107,9 +132,9 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-      "summary": "Amid intense backlash, people are vandalizing Flock surveillance cameras NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUhwRXUzM1JGdmtVZ0RlZmZ4c0t4S19nc3pZak5lNUt0ZkZvanh0S1BKeWttZUdjTGJIRHhHZmt3NUFtc3o5d0E2SU5hRHYyNERYNlUycWN3RkRfaFlRUmdQRXdDQ1FBSEpNOTIxXzdzdlhfLUw1YkhQYXl2MGRVZzhOY29UbjZabGN4VHc4d3ZyV1JNVVgtcmJn?oc=5",
+      "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+      "summary": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGVHVzk5cDluMG1VUkhSdHE5a2V6WERfQXZ1MHhlbWVfaUZaTWZSVUU4RThoUWRnSjIxaWJUMFZZYUlodXpyV2NKQzlvQXdnOTkyS25JV2t3OFZENFJjbzU3TGM0aDZKUm92M2hJalV3VGxzZ19CV05fWWlXMTlhN3dmd041Q3V3dVJVRE9wdFF4dHZWa3hhTi1ETVg4QQ?oc=5",
       "published": "2026-08-21T09:00:00+00:00",
       "beats": [
         "Politics"
@@ -128,13 +153,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Mexican fishermen floating in cooler rescued after 5 days stranded at sea",
-      "summary": "Mexican fishermen floating in cooler rescued after 5 days stranded at sea CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODB5X0ZZRUR2cHJvNVprTE9KRXZaaWNycVE0ZTZYM2FfWVJzZS1KY3FvbjFIN2pnRWNadzRNSHdNdXVTNmtYRTg0MFFOOS1PVFBlQ3A0U1ZfeUZFcWltdjVxQzNjV1cxZlpYc2w0Q3pFRUpkQ2F4Q3NLUFNVTVZxb3E2VXN4cE0?oc=5",
-      "published": "2026-08-21T05:09:12+00:00",
+      "title": "The New York Times Loses Defamation Lawsuit in Alabama",
+      "summary": "The New York Times Loses Defamation Lawsuit in Alabama The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWdsc1FrNXZPUGdJb295dXlzM2JCVC1Cc1AtYU9KV09lQUlKalBPUEtRM1pQclZZUGl4VF96ajZKRjY2VWYwV3JKa09nOExzY3Z5dFZzZGNDT1AzdjBpMF9md21rMU1kMEZQNjB5dERSOEhBWGM3WkJwQTFYR3UtWGFIdkVlRHRwcm8waWw3VTlHRVc0SkFNZlhyLTI?oc=5",
+      "published": "2026-08-21T06:52:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,6 +213,18 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity",
+      "summary": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52aTBTRFNIOTNQSkdMbkhJN21sbTZhQkYwczZ0eW1jSDZaU2VsV2ZaamFTbU5ubVN1dkstN2Z2ODI1VnpidGlfWUtSSFhBYnF3bkg3dThnX0w4RG9sa1ZJdFhyS2xwUzc3Y3UxdzdOY2o?oc=5",
+      "published": "2026-08-20T19:30:51+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -213,32 +250,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students",
-      "summary": "Maryland school district caves to Trump and adopts forced outing policy to expose LGBTQ+ students Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GMFNFNUFEOEF3UHdXM1lsaV9XR25Zd2toclVhSk1PTXlhTGpJYV83RWRmRFZxVzE2WU9PYmJSd3Z2VkxkY09leVNvWEN4cmFfM3lJVEotYV9tOXpTd0ZJTzZLSjgtcnVfWkdqLXItTTBOR0FISlc4c1QyU00?oc=5",
-      "published": "2026-08-20T14:54:47+00:00",
-      "beats": [
-        "Politics",
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Efforts to keep ICE off of school grounds ramp up",
-      "summary": "Efforts to keep ICE off of school grounds ramp up K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXo0dkRabkN4WUdXcVBVQl81UXFad2o2M1BvZTlUUWVrR1dlSWZMZE5iY0JtSHVjZkxFMk9YWXNyUVE0ZWlGWVp5dTh6VW9UaVFVMUhaeUg1OVhWZnlRamNUZVJJYzhJeGdZUklDaDBhRi1fbjBXNWgtSk5jUU55ZGVXY0FMMGxIUUZEanVBOA?oc=5",
-      "published": "2026-08-20T13:01:29+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -248,18 +259,6 @@
       "published": "2026-08-20T07:15:00+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "summary": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObExfS0JyZ1ExTVg0SDduX3J2cjUzek53bWxNQ3g4T1QzcDVhRExUX3JabzlsWHhqYmI0blhsOVM2QzlkREN1b1A5UHF0dHJaclRSTExIZHR4bk9mNjRzSVQ5Y2RTWGJvSkpSZkxaYjAtZ2R0SDJUbkd0akVPSkZEazVTWG5URndGR2c?oc=5",
-      "published": "2026-08-20T06:51:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
