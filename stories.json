@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:47:16.651434+00:00",
+  "updated_at": "2026-08-22T16:26:07.565362+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion",
+      "summary": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "published": "2026-08-22T15:50:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -32,13 +44,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
-      "summary": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmg5TkVzckl1bHpaZ0t3RmdwX1ljTDJ5cUl5UEdCYS01c3pxUGtDMElkVFAtVjA2dzJsWi1hN0lDeHVkbUROZUxYN3EwckVDTG1sOXpPNXdSb3hxZnRhS1NzY1RLVXlRd29nTndaWFJQMURXREdfdlZ6eklXVDFCLUVPVl9UN2wzbjV2V0Rn0gGTAUFVX3lxTE00OFMxd0ZuVU96OVp1SEtwWGZWd0NzWkxuWkx5a1UzdW9HSWk2TU84S0VRWWs3QmJEbFJmTnlPSzRlQmNBZkMwcmdfdEdITkY2Y0JxaEJnX1lfRzNlOWVoS053b2tzdjZ2ZGhIV1BNNnBiTXBxcWVQbXdiQnZib0lRbE1OdlcxNWJ5UGtEVlJVYVk0aw?oc=5",
-      "published": "2026-08-22T12:00:01+00:00",
+      "title": "Some Americans don’t believe all people are created equal. Their movement is going mainstream, this author says",
+      "summary": "Some Americans don’t believe all people are created equal. Their movement is going mainstream, this author says CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3luY2R2OFd4YS1VSE1Ra2pYRnFtTDZDQUVoM000UHJOZ0pJaF9HbFBwSVdacEdOZE5CdTgtblJHTDREYkdNTTFpdEtqUnl6dWFBcGJXUHFXcHpmOW5TTUJ3N3Z5YU9NeHItaDdCQ2k4SWhHS3pLb0d5Zjc5cG5aTw?oc=5",
+      "published": "2026-08-22T12:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -53,6 +65,18 @@
       "published": "2026-08-22T12:00:01+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
+      "summary": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzdXMV9oYlc5OW5yWE9nMjVkT0Y4cXZ3RG01U18xd1Nja2VmNHExNkFRR2FDejhiS21JVVk3aDZXYlBvWTVkWXZuN0FzZnZ3QVpEYVNFMEp5WDRIdXF1Q0ktUDE3TUtKNUZicEtJT3d1MlBRdUVqczRib0xUZXA0V2VqWWllQy0tSzQ3NUlnM2xIT3BDc0gtQ1hYV3JTS0ZnUnM2R0oxVl9pbWpHR1RENFlGMNIBuAFBVV95cUxQX2IzVFRRVzRkS2dXZkVlbkZHemt0d3lBQno0ZjBzZ1oza3FfQXRpVTlVQTgxWVl5T2ttZ3BxTUlKMThYYWd5V1pHLTFTTWhmSkNwczdjTWJGRHV2dE9GS19oT3N5SnVrS3VuRmRYbjI2ZURVdTYxZzExMXlvc2YxNVE4eTZZbDc0U29Pc05rcU1TOGpHYWVuN1lzMmQyQjhvd3JmT2c1c2xMQzllN0hZQUsyVHZ1Slpy?oc=5",
+      "published": "2026-08-22T12:00:01+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -95,36 +119,12 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "The US-Mexico cattle border is reopening. Not every American rancher is celebrating",
-      "summary": "The US-Mexico cattle border is reopening. Not every American rancher is celebrating CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkhjUndlXzZVbzkzbmZLZnhaU3Y3ald6Wl9sRi0xbWxnajRhYlUzUVJobDg4ZUxNemJ5S0RZNWk5aHpOTnBrLUkzR3lDdnpUUmdBbF9lMW9CVmZvcGZGRl9RU1BOV2poSnV1VEhwdURYdm9pZTh2bjZrbi1hOVlmQ2lfS2h3TVJtR05mMg?oc=5",
-      "published": "2026-08-22T10:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
       "title": "After prison release, Tina Peters takes her election conspiracy roadshow to Washington",
       "summary": "After prison release, Tina Peters takes her election conspiracy roadshow to Washington CNN",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LN0hxd0NWNkhiUmEtYThTa3RNYmlZR2h3ejRDNkFzdEowT21aSDNyLU9oRHhzd2p6WkdSNTk1bWdhVjJ3WnVDeUhyUDBuR2hGZC1JUWo5YTZaVnZFOFVfT1QyeDY3T2NtR0tiZE9RYU93MHM5OEtNSEd6dmRuQQ?oc=5",
       "published": "2026-08-22T10:00:29+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion",
-      "summary": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
-      "published": "2026-08-22T07:04:00+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -149,18 +149,6 @@
       "published": "2026-08-21T22:16:46+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health",
-      "summary": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health Queerty",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER1RHpWS0V4WGVlbnR6V3pORnBTeHptaU40VzJSUmdQSW1uY05pVjBvUHhXVmI3N3ZiSVlqd1JoQjg2SDhERm40ZTgzSU9fa1FES20yRmFfSmVWRkQyWndBVEgyWlBKQ2pPeGFqNlFGY1hvRjBZRFlmc0p5WnI2bDBtZk9TM0ZOY1BYeFJSRTZFR1gtZ1I0am9JV05DSGUzZ3QzVWhHcVFaMU1jVUhDT1ZGTWo?oc=5",
-      "published": "2026-08-21T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -239,18 +227,6 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
-      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
-      "published": "2026-08-21T14:47:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
       "summary": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHJjSlpTT1poSjFTMDJHcXN1VUxBeUU3bm81VWxWSVFYeEFtN2lzbFhMWEhfZERUeUYtb29TRWpuTlk1WG4tMk9VT0I0NWltR0tQeGlMaFhWQjEzbjNvTEJkT3FGRjVlMXFHUVllRzd4c0lMZnV6akl2cmpfa0s0cTRCVHFvV2xxZVFaRQ?oc=5",
@@ -304,6 +280,18 @@
       "summary": "Meta’s Zuckerberg buys 19th-century castle in southeast of Ireland NBC News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVUyUm5CSmRBVTVBQ1NTZ0ExbDl0QWx6YmtNZ3Q2TGZVckpHTjUtMWFmS0pyNUZuc3BPeElHenNZYmhNbnk5QzdVNFI1Z0F2WEQwaE8wM0h0RUo0cGNtZWxHdXprSnB6Rnk5cEk5Vmc0djlQSEMxNWs3blBoT3ZKUnJTVmpCTzJ0aVRqSF9HekRSQjJPTENXbndrWWhFODZVaF9EcUlLdVB6aTJ6TjYtTDl3?oc=5",
       "published": "2026-08-21T11:43:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
+      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
+      "published": "2026-08-21T09:02:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -378,6 +366,18 @@
       "published": "2026-08-20T20:25:13+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "It’s About Quality Tech Use, Not Screen Time, Trump’s Top K-12 Official Argues",
+      "summary": "It’s About Quality Tech Use, Not Screen Time, Trump’s Top K-12 Official Argues Education Week",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWg5clY3WVFSSjNfZUM0NVZkeHdDSUp4a2xCeFdWYlY0d09BbkRFR0NmTGdxbmlMWlRGeGdiZnBqN0ZWb01kM1F6VEJqSUZoRzZyRnhzd3I0MXRoV2FWcS1MY20wNUNzRkhUZ2hDclJPY1hHZUNPa1FXNjN3Qk0yM1JKQTFJb011dHlZb19RemFodjFiWHdNeDhNV3pzRkRTRkNldTltcnJwNDFzYzRvSGUzWHpoSHc?oc=5",
+      "published": "2026-08-20T18:36:17+00:00",
+      "beats": [
+        "Schools"
       ]
     }
   ]
