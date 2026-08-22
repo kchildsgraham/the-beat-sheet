@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-22T05:30:40.742337+00:00",
+  "updated_at": "2026-08-22T05:55:48.429352+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,369 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+      "summary": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ek9UMzBJR2h5cVJkbzFpUzY5dkprSXNTNjZjR0RwWEc1RFlxSWlnWGtFaFg1bm5LUUpDUWhfZGRETW9PN1RiWEhxdXN2dUxVeFRZNjJhQ2tJYk1PUnZJYXRISk9oMGdWS1dTYUNiWQ?oc=5",
+      "published": "2026-08-22T04:36:27+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
+      "summary": "U.S., Canada fail to reach a tariff deal, deepen trade war CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwT19Hblg1YTVFeEk3MzNybVltamsyNDZ5YjhIUVJsQWxwVHdJeGtyaTBFME9tVzd1TFV0QnV5VHQ1YUE4ZW9pWlVxX0Z5QU1RTmJyWHdQaExVbWl0NHNhUXdMVWlFVURFVHhOUG5PM0dnSFlPVXhjdm9wZV9CZ3BJXzVnbXlCQjlMa1h3bnZDOXVMRWfSAZsBQVVfeXFMT1dXOXhjeFlQTWFYSUxYdVowbVMxb2J1eUU1M2E0MW9RWS1Vc3V1TU1hV3V0TlhnTW5KYUJuZlFpbFpZQ0FnUmszVnJBakRxU0N4YzFCdzlLWUdhRHNEZzlzSWFIQVl2ZHAzeGdGSUdqTkxnbUk5bkQ4WkJjTFBwTWt5VlVQS2hybkZXa0hUVDhSWlQtWFhDYWNMZEE?oc=5",
+      "published": "2026-08-22T04:28:44+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Education Department proposal would make it easier to end grants",
+      "summary": "Education Department proposal would make it easier to end grants K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU9KRGNnd0FSTERBYjQtUC1pTEdmdzV2dFdWTFlMZnFJQ0tXSnBoeTBhUDhmcE5PSjY1WXFiS3VKLUJBMmJEa2p4dGZBV3V2dW9WcGtmT0ZwRDd3aUVyLVpobmlDNVZKcHJ0SzZSbGpXd3VseWdsT0pNZk5lM1pibjF0WWxGS0tfZm1FVEZ0TGZHamFJd1UybmpIT2ZLU2JiNURF?oc=5",
+      "published": "2026-08-22T03:19:44+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump tries new midterm message to supporters: ‘Pretend, please, that I’m on the ballot’",
+      "summary": "Trump tries new midterm message to supporters: ‘Pretend, please, that I’m on the ballot’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFAyTGJfdEVLOUt5dHJFVC1yb3JNRlRWWFJDcW5SYlNlb3dMQ01oME5JWkZPVE0wOGdaYVdNX0lmaURKNHJmcXNFbm54TDY0Z3ZWVWF3TlVsTElLV0xhdzJUUnc4WndfUktYZnpaeEdxSUN2ckxkQ1dFQVV1NEtRY1QyVmZiSFV0QXo3UTdvMTFiaFRWN05YMW5pQlJFQmtxS0NuU0tYeGI0cE5qSTUtblM1eS1zVVU?oc=5",
+      "published": "2026-08-22T03:01:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Justice Department reaches $400 million settlement with TikTok over child privacy case",
+      "summary": "Justice Department reaches $400 million settlement with TikTok over child privacy case CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkRjZkptM0cyZUhSOWplMjB2WWVLYTlkVWJZeVZVQWo0R3NhQnRoaVpvSi1RT29jWnA3V2lsem5PWno0WHh0U1FUbUEzNjRJMHdrWS1RU0RBNVN0RWNBZy1XWk1KT2FzZUlzWDNKanFKUi0zanRrVFMzTGQwNXE4cEJTVHoyNzI2cFpfVFgyRQ?oc=5",
+      "published": "2026-08-21T23:30:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump defends pause on beef tariffs amid criticism from US cattle producers",
+      "summary": "Trump defends pause on beef tariffs amid criticism from US cattle producers CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0wzU2lDSm9xbW85RzFFVlRrRXJuWk5IcDFPMmFzekREeV96RHVOd0RuSGNLdG9NWjhDMnpvZURpM3B6azNPM2RVLWRSUzM4OUNVWmhzamZXcHNtYzlGc3FlSWhoT09xNDNFdDNhZDY3RVNjVzhjQy10NlRrQUZVS2ZGWTJyNGV0bTNpYkxGWmM?oc=5",
+      "published": "2026-08-21T23:14:40+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Supreme Court allows White House ballroom construction for now",
+      "summary": "Supreme Court allows White House ballroom construction for now NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSno2WmhKOEYtcnEya3NzLWRCdXVFMXQ3T0draDBkR3pPbkhQXzhJcWRDVVF5RDk1eV9xMG9wSXdXZUlwR3dtRXNtckFXWmxhSGpybzRNVXpQVzFaYlhiMWZyU2lXQ2lzUUZCZURPcTIwVnhmSHRQR1RnU2ZwNVRiOTViTmhoV3R2YnZNSTJNQ2t6am5lYTFja0lIWFRaNnBfdHBKWDNPd2dublZUUkNFSWV4VlZaeWw5cVE?oc=5",
+      "published": "2026-08-21T23:03:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5",
+      "published": "2026-08-21T21:44:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+      "summary": "Amid intense backlash, people are vandalizing Flock surveillance cameras NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcmpQaFBiQy0wNFdUZ3ZRWUJNYngxOXU5d1lSTE55bllxSDZDSElTb3RCYURibFNUN1hfa29NTWphUUlCTW45NjM3bmFtcWNFNmpuX3FjMEZuVW5HRlJOTGo5UjFPYm1ZMHpnWDRSMU8ydUdrTjVQcVQwU0dXZ04yM3NkaHB0MUM0QkliOGpPa3cwM01VOVI3ZnRRMTNoMEdCaEhHOUNRcXlTUXNYaXUzWjJ5dHAySEE?oc=5",
+      "published": "2026-08-21T20:58:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Pentagon fires Stars and Stripes leaders amid Hegseth pressure campaign",
+      "summary": "Pentagon fires Stars and Stripes leaders amid Hegseth pressure campaign CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUExCVUpTVVIyYzdIVXBPbmVRTVdTZkUtLVktc1VIbW9oVncwTW5rUXh6RjFxXzBGd0c5NnV4WmZETUtGX2VTdWNVU2ZjUjdKbU9qZWNObGt6M1Z0N0RnX1NZcUx6akhUUmlDanhoSVlfYkJuN05RTVhVZUZOZmEwVjAwWVgwNDY1UXJONEczSEo?oc=5",
+      "published": "2026-08-21T20:38:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
+      "published": "2026-08-21T19:37:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "summary": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlpMVmlPbE96c3VpMVNEbGJmOGlZd1V5Z3dqOWJ4RzRfb19nZG1JMkliOEJ1Qll4YlRSUWlITlhob1BGS2RaNUJlTEM2LUdyWUxGN1F3ODBZMXN1SHE5ZTZRVnlnNm5DdVNrakUzdU4tQzZjc3VhVzJqTG9mbHpKMnlIOFdMZ9IBiwFBVV95cUxQNnpCY0Uxa0NfV2hMQjNiVVZVdDlncUpZTENQSUh2QWtpeFJNUEcxd0xUeENhdzk2MG1YcXA2RGhqOFJSMVZJa3ZmMGpmVlVLZTJiU1MyV2hsTDk3VGxFYndQa0taSDJ3VU0xS2d1RnJDVExtUFZlMzRFejA5TnFjSlVNZ2E4NGRWbS1r?oc=5",
+      "published": "2026-08-21T19:21:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Supreme Court allows Trump’s ballroom construction to continue for now",
+      "summary": "Supreme Court allows Trump’s ballroom construction to continue for now NPR",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLURhNWJndWU1aFA5d243WVJyNHEzTnlZZE5idHlsMHRBVUFhMUxieEtGeDFOeWJFU0s2VjJRdEtLd1FRSXhrYW5nM25YTDhlOEJsc1dlQjllQlppUnc1aGFXc0ZjMk9qTXpnU1Z3MnRBeE9BdFBxLTNYUGRoMjZXVFlaLVlCalctOW1JQWFfOEZmTlNNSDFKQURVZjd2eUZnNWU0R3JRWGhXby1NdlNJc09ZblM?oc=5",
+      "published": "2026-08-21T18:47:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "People are sharing amazing stories about their experiences with Rosie O’Donnell",
+      "summary": "People are sharing amazing stories about their experiences with Rosie O’Donnell Queerty",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3NkR1padEdielo1bXc2RGppYkljRGswRGRTTTZESXhVblFkMGdtV3hiLUZWbmpEX0hPbURndmMwV0xUMGxyNEdLN1RxTWFrNlZhNkFSV0ttbVJiaUZYNVhPVG85a1ZwMFF6aExhQUtyMkY0R2FjMWRiU2cxWURCRWhIbTJnNHdodjhLV3ROR0xlYXRsNVNsbXBqMUFOZ2hRd0tuZl80eTVuMno1cTcwblR3?oc=5",
+      "published": "2026-08-21T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\"",
+      "summary": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5",
+      "published": "2026-08-21T17:49:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report",
+      "summary": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXlKeWpMV1hGa1JqWUxscXpzc3JlSUpkVzk4a3FMVWphcUhTNEh6bGJSUWJxai1SMnVwZHo4SDVFWDVzbHR3eEE0T2djTTZMU21hbFJSVUp3WjEwOFZpcGdJaXNfZW1RNHBLM2dfWm1iZ1lQOU1FRHdBSzVEdkJCSVJ3b0FKRzd3dEZGLUJhSFl1Rmw4aWZmOXVSLTdheF9VeHBmbWY2Q3RTUUF5a2hZeVJBQnBuMWJSQ29JYnJn?oc=5",
+      "published": "2026-08-21T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
+      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
+      "published": "2026-08-21T14:47:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Greater Head Start flexibility will empower program leaders",
+      "summary": "Greater Head Start flexibility will empower program leaders K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnFyRDBFLXJQNEh4U2h3SmpnRlRJRjgyb3pndHhETkpnQl9Vck1KbXhueUxmNktLS1lRNmFqRy1aYWtEVE9oQVNaYy13ajZLaVdQVjVoRExEakFxT2J6X0pfMFk4UXBteHk2bGxrZEpNSkpUY3N3TlZTUEFQRHdPeFdTZllReVp5cGNDTy1BOV9CY3pBd2tLaDFObEE?oc=5",
+      "published": "2026-08-21T12:59:18+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’",
+      "summary": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ182YjY0MlZYbEdUSk02bE5EVW5wU2VXeDV6bXZiMHUyVGhYS2NORnZrN1htanM2M1ZoTFN1Y3o3QlhkaFptai1QREdlNUY4R2dWcWRkNW42SDZiVDNxU1VhcnJUR0tJNnUtR2ttSmtManlsNTJxRU5Rcmx4RTFYVF9kZXBLY0R3aWw2T2Z3SQ?oc=5",
+      "published": "2026-08-21T12:30:12+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Meta’s Zuckerberg buys 19th-century castle in southeast of Ireland",
+      "summary": "Meta’s Zuckerberg buys 19th-century castle in southeast of Ireland NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVUyUm5CSmRBVTVBQ1NTZ0ExbDl0QWx6YmtNZ3Q2TGZVckpHTjUtMWFmS0pyNUZuc3BPeElHenNZYmhNbnk5QzdVNFI1Z0F2WEQwaE8wM0h0RUo0cGNtZWxHdXprSnB6Rnk5cEk5Vmc0djlQSEMxNWs3blBoT3ZKUnJTVmpCTzJ0aVRqSF9HekRSQjJPTENXbndrWWhFODZVaF9EcUlLdVB6aTJ6TjYtTDl3?oc=5",
+      "published": "2026-08-21T11:43:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "A family separation could not stop three California siblings from getting UC diplomas",
+      "summary": "A family separation could not stop three California siblings from getting UC diplomas EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSWhQUTNpcFhKdzFJZkFyalVLdXowcU5yVTlfYjdIU0l6NFV5bGlJd0lEVjRWOEJCQkF1ZjVvODlFN2VyaFdEdnBKXzViOUJuMk5xdFZWVU1TOTMweVQwaEt5dWV4dEdhWEtiaFpZdVM2SGkt0gF8QVVfeXFMTkNQSGVpN2tOR0RoQWJyZllIUEY3dHlXVHM1azFwNkVnNWw4UzlsRFFweGR5N295R2E2cDUzN3lrMV8wU0k2UkFTUV9Ba1gyY2dMWWtNZk1QTEhnMTE0RFVidjF2ZVJmLXF0aDFfZTJ6R1hDZTFmYXlEZFNzdg?oc=5",
+      "published": "2026-08-21T07:39:53+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Never Underestimate the Houthis",
+      "summary": "Opinion | Never Underestimate the Houthis The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVSG1RWlRiUkJpR2Q3ZTAzU3ZscmdqczhIZHAtazBTU2M4S282WHkyZWpWdzIwWWw2SzBndVBMSk5iVzZ5N3FvV3ptMWJYZlRzelR6LTYyQWZCbjFRemphR2lPLUZ4WG96Qjlrd0pwNkpiT2h4X0E?oc=5",
+      "published": "2026-08-21T05:00:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "She was a California comeback story, serving juvenile probation in a UC Davis dorm for killing a teen, when arrested again",
+      "summary": "She was a California comeback story, serving juvenile probation in a UC Davis dorm for killing a teen, when arrested again CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xSnV6WS1UTXhHaXFYNkVVcUdwbDhYMmkzZlF6dHRwTm8tNFpTajNVZExQUzlpalY2aFlObWRkWEstT1l4WTY1R1hKTUVxMEY5eFNUMHZacU5LMHk4U3V0TTlBbmtkM3I2azJtUjJTS0VyNHc0?oc=5",
+      "published": "2026-08-21T01:26:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects",
+      "summary": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1ZVU1NEaVhOZ3QxSGVqMWtYSGt0VnJPMmx5dEZCekFKTUNqSjlVVV9IU1cybUJHLW1RQmxrUWFWSDZHY09qYUxIemNIMkFCUTdlY3RIN25EeHRrOC0yV3A5RzEwT2JacWFERmN0by05cVhwTFFmSm5pS1VHVmFJUEFuQkIwc2d4VTFQeEtyZUdZMEJ6Y08yTGRnREEtbGNMUTlfMHBDdWY1cmM?oc=5",
+      "published": "2026-08-20T22:33:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "New details and troubling backgrounds for Austin Metcalf and Karmelo Anthony revealed in retrial hearing",
+      "summary": "New details and troubling backgrounds for Austin Metcalf and Karmelo Anthony revealed in retrial hearing CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWtuWFZGdkg5QnVDakpLNFJYNTBoeld2M1ItSzZMb2dMM09wMTRQWm9hcmhEZmZ2Mm53SzBrQ1B4VVdpOFRudnA1dFRuWmRHQXdLTjkzNjBwU0tISndIeXpEUWlhUElKUTdyLVpzWVMyWTQ4S3dVMHZaWEdPTmRSVUVwdWlfX25iUEZ3UjkxRzF1aHNzY3B4S0E2N0N0cnNzTmM4?oc=5",
+      "published": "2026-08-20T22:11:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "JK Rowling issues surprising message of support for trans adults",
+      "summary": "JK Rowling issues surprising message of support for trans adults LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVk1TWpmQkg0R2VKYm5xQ1lpcmF5YjIxYkhvTi13cTJDQjBoLUxBZEt2a2lWUEpqcDJOZzk2M1lFSjF6TEtCUmtTcjg2Y3poVkI0MWhBc3ozM1N3S2UxT2xFMGxMNWJqQy1tYWx2eVNOM2VpU3JDclBZTFRZRXhmX01vbzRweDFtd3ZWTUxzTXJGbEQ5MW9VS1Z3OU15OFpyYzdj?oc=5",
+      "published": "2026-08-20T21:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Does Pre-K Give Kids a Lasting Edge? Here’s What the Latest Study Says",
+      "summary": "Does Pre-K Give Kids a Lasting Edge? Here’s What the Latest Study Says Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXZ2ZURha3lWMkRQR2EzUjdGcVl5M3ljRmFWZjZlX1gwTFdzd0lRRHUzN0d0akZDYWxzdXJNQlhVdFY2Nm01Y19DQlBjc3lCOXpVYmRWS1VnUW94SmFfNnpDbWxSOGlJd2o4bmtkVm9Gc2N0V1EzNXE1eXN6RmVVMTM2QlNqMFVTTXJ2RzdHOWpjVWhlTnlxbll2UENIbm9qcGhYdU5nUmpmYUdkcWJjMnZuTklNZmYw?oc=5",
+      "published": "2026-08-20T20:39:38+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "The closetocracy? 11 anti-LGBTQ+ Republicans dogged by gay rumors",
+      "summary": "The closetocracy? 11 anti-LGBTQ+ Republicans dogged by gay rumors Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGOWxkeUlOLW1Hb0VmTW1uWWp0V0I3YUtCZGV5RVpiQVdsTXZsWXh0MEQwQ210NzdYdHNVMjZybEY3QzJBTVRnR01Rd1pDQVlKWjR2bzNGc19aLW9IRGlSbWk0Z283SGJYeGx0TW02dHNBc28?oc=5",
+      "published": "2026-08-20T20:25:13+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity",
+      "summary": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52aTBTRFNIOTNQSkdMbkhJN21sbTZhQkYwczZ0eW1jSDZaU2VsV2ZaamFTbU5ubVN1dkstN2Z2ODI1VnpidGlfWUtSSFhBYnF3bkg3dThnX0w4RG9sa1ZJdFhyS2xwUzc3Y3UxdzdOY2o?oc=5",
+      "published": "2026-08-20T19:30:51+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Classroom interpreters in Clovis Unified agree to first union contract",
+      "summary": "UPDATE: Classroom interpreters in Clovis Unified agree to first union contract EdSource",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGZCd1JwWEplbUI4VjZoVG1MN0RCVWJhREN6M01NSEs1dEtUYWxGVzVwZHJvdWdsc2tfQ19lQXRhTWtiTGh1ejF3NWlzU012a2xkVU5rdk16eURyZk5TRDJiQ1Jpdjdjc3g4Y0plcEhlQzI4UG5JLUV1OEhGbExKMHhpX0dyVU8zblh3eWtZZ3RlTTdJb1gwSTJFNXRtZ3Y4?oc=5",
+      "published": "2026-08-20T18:24:01+00:00",
+      "beats": [
+        "Business",
+        "Schools"
+      ]
+    }
+  ]
 }
