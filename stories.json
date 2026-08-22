@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T10:50:02.139108+00:00",
+  "updated_at": "2026-08-22T11:21:51.192500+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+      "summary": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5",
+      "published": "2026-08-22T10:21:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "After prison release, Tina Peters takes her election conspiracy roadshow to Washington",
+      "summary": "After prison release, Tina Peters takes her election conspiracy roadshow to Washington CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LN0hxd0NWNkhiUmEtYThTa3RNYmlZR2h3ejRDNkFzdEowT21aSDNyLU9oRHhzd2p6WkdSNTk1bWdhVjJ3WnVDeUhyUDBuR2hGZC1JUWo5YTZaVnZFOFVfT1QyeDY3T2NtR0tiZE9RYU93MHM5OEtNSEd6dmRuQQ?oc=5",
+      "published": "2026-08-22T10:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -92,18 +116,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Court cuts $50M judgment against Alex Jones over falsely labeling Sandy Hook killings a hoax",
-      "summary": "Court cuts $50M judgment against Alex Jones over falsely labeling Sandy Hook killings a hoax CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDJVemkwcjVLRl9lTFhKZU1lbDVDQWNJemNHZk14SzdCdVdwTldiYkRxbk1Da2Z2dmhTdG9uT2EtelhPWVRLbFVxT2phS3VidmdhMTFaLWx0dzNyMm5EZDlqbTdTMWdmWXNtSmpXVElDMzR2TktYS3NzMTNBMEZONmN3?oc=5",
-      "published": "2026-08-22T04:05:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -113,6 +125,18 @@
       "published": "2026-08-22T03:19:44+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Colton Underwood stripped NFL players to their undies and sent them down a runway",
+      "summary": "Colton Underwood stripped NFL players to their undies and sent them down a runway Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlRPdnFpZjJ3WUVpejBGRlhnZTRoTG9ONHZaMVFhYVNIVXl1c29vbTUyNnhmYlk1VkFhOC0waDRtOWxfU0J6SzJFT2Z0ZVI5RkdfRnZkTlliSXhiMEs0bUx6LXJYaTdHY00tNW1zTm14Z1dXdUJQZzgxUHZZUUJ3U204Vm1oUzQ5VmVOYzRqY2ttYkI4NGduV0pZUkhvUXdzd01uR0E1Tk42a1dMaFVENl94Qzh6UQ?oc=5",
+      "published": "2026-08-21T23:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -128,25 +152,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5",
-      "published": "2026-08-21T21:44:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Supreme Court allows Trump’s ballroom construction to continue for now",
-      "summary": "Supreme Court allows Trump’s ballroom construction to continue for now NPR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLURhNWJndWU1aFA5d243WVJyNHEzTnlZZE5idHlsMHRBVUFhMUxieEtGeDFOeWJFU0s2VjJRdEtLd1FRSXhrYW5nM25YTDhlOEJsc1dlQjllQlppUnc1aGFXc0ZjMk9qTXpnU1Z3MnRBeE9BdFBxLTNYUGRoMjZXVFlaLVlCalctOW1JQWFfOEZmTlNNSDFKQURVZjd2eUZnNWU0R3JRWGhXby1NdlNJc09ZblM?oc=5",
-      "published": "2026-08-21T18:47:48+00:00",
+      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
+      "published": "2026-08-21T19:37:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -249,18 +261,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
-      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
-      "published": "2026-08-21T09:00:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -358,19 +358,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Classroom interpreters in Clovis Unified agree to first union contract",
-      "summary": "UPDATE: Classroom interpreters in Clovis Unified agree to first union contract EdSource",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGZCd1JwWEplbUI4VjZoVG1MN0RCVWJhREN6M01NSEs1dEtUYWxGVzVwZHJvdWdsc2tfQ19lQXRhTWtiTGh1ejF3NWlzU012a2xkVU5rdk16eURyZk5TRDJiQ1Jpdjdjc3g4Y0plcEhlQzI4UG5JLUV1OEhGbExKMHhpX0dyVU8zblh3eWtZZ3RlTTdJb1gwSTJFNXRtZ3Y4?oc=5",
-      "published": "2026-08-20T18:24:01+00:00",
-      "beats": [
-        "Business",
-        "Schools"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -378,6 +365,18 @@
       "summary": "FBI seizes Swalwell's devices, executes search warrants in sexual misconduct probe CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGliWDYxeTVDR1p2V3VJWWRMR095VFZBUzBZQzc4X0R6Y0hPcmF3WE16SjhRV0dCb0lkaWRUMjBQU2VOMlk1SHgxb0pQZ0FOZ1BuNkpVNkNOM2RVSXVwMjNVN0pvYmx2LU1SMGd1LTE5bjhRdWJ1YXcwOGp4NzMxWm5xelhYXzhQaUw2a2dPZ2hRNmNfY2s0NG5MSHJ0NkU?oc=5",
       "published": "2026-08-20T15:10:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. to send hospital ship to Peru as El Niño threat looms",
+      "summary": "U.S. to send hospital ship to Peru as El Niño threat looms NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVprM1hBbGhWMlhINXdrZ0NIQ1haRUVDLVdCV1kwZ0x2SnpWYWFTbnp3ampxbXVZUnY0VVpOc0NKN29uR09VMHBkT01iVUs0WTQxM0hVMkdxNTdlak94M2RWZmw5TnlsX1F3Y1Jub2c2Z2h3NFpNQl9rcjdyMjhoN0dvbm1QNk0xeXpLRTlwVUdNWlg2Rms2dG8zWFk?oc=5",
+      "published": "2026-08-20T08:53:58+00:00",
       "beats": [
         "Politics"
       ]
