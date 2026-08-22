@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T18:32:16.698804+00:00",
+  "updated_at": "2026-08-22T19:23:28.765737+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -32,6 +32,30 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "summary": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZWx5RzFyeUdwM3dWQ1A5ek1VbmhWd2xqOEFlSGthUFNxbExWWkxrbnNyUHNaVnBTWTFCSVU4eENTMXJ5cjBHZjNaYjNpb25jbEhrOWU1M05tdGt5SWNfREpVRlhIekkzWTBFdy1OUGRZSzJHdzgtaDZVOG9GUEw2dTczV05nUC00SENKbFFRdUJqOFZsd3h2RXN1T0FMVE0tNVNQdjA4X196RGV1bG1hcFpJU0tEazU1TEQyWEV6LS1RVC1SQ2RxYdIBzgFBVV95cUxOSDNuZGNGcUhpX19VSk83SVhjb3J4QlNMQzVzWU9DMG9oMGU5TVoxdHY4bFlzdVQxM2tuQ01FMnBUQlExQXBkbkZUREdraUUwNmNpbllYcVAweG5YenZhdUNjSHR2Nm81N3VZOWkyMXNMZEFwb0hneFVEYjVURzh0a0dBZElXWnpfNnZoTTYweVQ4WGlUZm43MkdGV1ZLcVZkTVdRbkF2YXc2dFJ2MjUycTM3U0dkM2F1X3NuYmZKNXV2QkNJdTF0SWRJbWF6QQ?oc=5",
+      "published": "2026-08-22T17:33:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Arrest warrant issued amid search for founder of police mental health group after officer husband found dead, chief says",
+      "summary": "Arrest warrant issued amid search for founder of police mental health group after officer husband found dead, chief says CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWkFmZHNsTzFWaFBydThubGhydl9wS0ZEZld3YV9CM0hFUlVraW9pQmcxbVRnZFBUMDJwZ3JpNnNzN29HdUUwOFhvVTVkR3FEMjR3dm4xZTlWS1luZ3l4T1UteW5PM3dYNGs4aWh3S28tT0t2ZTdGYg?oc=5",
+      "published": "2026-08-22T16:28:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -44,49 +68,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Tariffs raised prices you paid. But most businesses won’t be passing tariffs refunds back to you",
-      "summary": "Tariffs raised prices you paid. But most businesses won’t be passing tariffs refunds back to you CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVZRT1RDXzJNSllfVGMzeE1ZZnpKSkE4eDRxSlJzbWV1Sml5RjlobzBleXhqa21hbWhCbVNkUEpCSHlpWHhNLXhxN1pkVFllNmoxQXIzTkxoZHlHSlF4bXZ6MHZtNEFUOHIzaDNQNVFVaEVQaEZRbmlIMUo0VjVRbA?oc=5",
-      "published": "2026-08-22T16:00:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion",
-      "summary": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
-      "published": "2026-08-22T15:50:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
-      "summary": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzdXMV9oYlc5OW5yWE9nMjVkT0Y4cXZ3RG01U18xd1Nja2VmNHExNkFRR2FDejhiS21JVVk3aDZXYlBvWTVkWXZuN0FzZnZ3QVpEYVNFMEp5WDRIdXF1Q0ktUDE3TUtKNUZicEtJT3d1MlBRdUVqczRib0xUZXA0V2VqWWllQy0tSzQ3NUlnM2xIT3BDc0gtQ1hYV3JTS0ZnUnM2R0oxVl9pbWpHR1RENFlGMNIBuAFBVV95cUxQX2IzVFRRVzRkS2dXZkVlbkZHemt0d3lBQno0ZjBzZ1oza3FfQXRpVTlVQTgxWVl5T2ttZ3BxTUlKMThYYWd5V1pHLTFTTWhmSkNwczdjTWJGRHV2dE9GS19oT3N5SnVrS3VuRmRYbjI2ZURVdTYxZzExMXlvc2YxNVE4eTZZbDc0U29Pc05rcU1TOGpHYWVuN1lzMmQyQjhvd3JmT2c1c2xMQzllN0hZQUsyVHZ1Slpy?oc=5",
-      "published": "2026-08-22T12:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
-      "summary": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmg5TkVzckl1bHpaZ0t3RmdwX1ljTDJ5cUl5UEdCYS01c3pxUGtDMElkVFAtVjA2dzJsWi1hN0lDeHVkbUROZUxYN3EwckVDTG1sOXpPNXdSb3hxZnRhS1NzY1RLVXlRd29nTndaWFJQMURXREdfdlZ6eklXVDFCLUVPVl9UN2wzbjV2V0Rn0gGTAUFVX3lxTE00OFMxd0ZuVU96OVp1SEtwWGZWd0NzWkxuWkx5a1UzdW9HSWk2TU84S0VRWWs3QmJEbFJmTnlPSzRlQmNBZkMwcmdfdEdITkY2Y0JxaEJnX1lfRzNlOWVoS053b2tzdjZ2ZGhIV1BNNnBiTXBxcWVQbXdiQnZib0lRbE1OdlcxNWJ5UGtEVlJVYVk0aw?oc=5",
-      "published": "2026-08-22T12:00:01+00:00",
+      "title": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
+      "summary": "Airbnb's new fee change frustrates hosts—what to know before renting out your home CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1R5OU03MW96WGEyNEo5VjUyNEJiV0oycEUxdHB5Q19OYjVFcTBTNl9ndkEtT3JVdlkyRmZoTVJvOXl2Wk5KWVhsRllMdFIwNnVNdk1IZmRzNnEyMERNN1NSeUt0NHVnOFdScW80QTFzRElHeW1JTmF1QnNNUnBHRmtLdlE3alpuNGwyWU9FeVY4dnNBVlVmVGxkcl9WeHZx?oc=5",
+      "published": "2026-08-22T14:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -119,10 +107,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "In which 'Winnie-the-Pooh' turns 100",
-      "summary": "In which 'Winnie-the-Pooh' turns 100 NPR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHZWMTJvTzZCTGdHMi1KUDRWZU9Fd1U2aXN6bU1LcXQ0cm9haS1UQklGRFZiWWhMT3Iwd1dYSG0xYWpaWUVzd18wT0NpeTFLT19PWXMyckg1VUZQTzVKY0o0YkxQNVNwRFhuMkNXUGQwV0x4SjBjaHd0UkFCQkhXRDhtMUxmSElqREZETDRzaXhpYVItd0dXZFZFQTQ2NnItU3ZR?oc=5",
-      "published": "2026-08-22T11:00:00+00:00",
+      "title": "Flock Safety alternatives: new names, same surveillance",
+      "summary": "Flock Safety alternatives: new names, same surveillance NPR",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlR3RjItRGNtMEZ6dmFPRkU0QUg0YWhQem1LOUliZlZDRnp5V0REcXpRMWM1NEtCcjBUN05VeVZ0ZW8wYU5pdDQzb3oxeDkwM1VPc2hzR0JRcTBWRFdxTWFEX2VfdzhhcXNGNE5TbktXaWlRaVczQU1ocm5OTTBGa0ttbEJoTTlDb2t0aUxDREFQZTdEZFByZHNRaW5XVms?oc=5",
+      "published": "2026-08-22T11:43:32+00:00",
       "beats": [
         "Politics"
       ]
@@ -164,6 +152,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Woman swept into the ocean while walking along Orange County beach",
+      "summary": "Woman swept into the ocean while walking along Orange County beach CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb011V1gtM2RSMnVnX2dYa1B1MUQwOHQwZmtFOE5UT2hxdGJpUkNvMGJROHpCaEE3VjI5TS12eVNCZmM2THo5RExnMkxNS0RQM2wxUUhOYVBNeFotLUMzNTM4NGd5ekhlTjlMNHctZFpqNWtZdnRoTFBrdEpDQzFJM0tBbFk0TnRMcUp5UWh6QjRvOFQ5Vy1LNnhvcTFmbGh3ODZ0aXJkRVNBMWc?oc=5",
+      "published": "2026-08-22T00:15:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -173,6 +173,30 @@
       "published": "2026-08-21T23:27:18+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "City leaders face death threats across the country as tensions grow over data centers",
+      "summary": "City leaders face death threats across the country as tensions grow over data centers NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdl9uWFZSNVFqVmYxUWQ0Z3lUOWNSVlBQSlpBMDhYVzdIM0s1d2RuWXBTNTdaMTRuNll6X2RPZV81UHJiREZzMUtIU2VuOEpFeTRBRXFSaXNNMUgzMlBGSHF6MlJwZDVsOTlDUWRqTlhLSmotQ2M2VDBfaktDS1dXUlMxZ1U4TWRiVXJONmJTUlNhLW0yX3ktaG5rcFZHTkhMTlZ5cnlMNnhxaXhWWWJyODZ5WkhGTjdTTzdET2hPU0taV0VSTThF?oc=5",
+      "published": "2026-08-21T23:01:39+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health",
+      "summary": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER1RHpWS0V4WGVlbnR6V3pORnBTeHptaU40VzJSUmdQSW1uY05pVjBvUHhXVmI3N3ZiSVlqd1JoQjg2SDhERm40ZTgzSU9fa1FES20yRmFfSmVWRkQyWndBVEgyWlBKQ2pPeGFqNlFGY1hvRjBZRFlmc0p5WnI2bDBtZk9TM0ZOY1BYeFJSRTZFR1gtZ1I0am9JV05DSGUzZ3QzVWhHcVFaMU1jVUhDT1ZGTWo?oc=5",
+      "published": "2026-08-21T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -188,18 +212,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
-      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
-      "published": "2026-08-21T19:37:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -209,18 +221,6 @@
       "published": "2026-08-21T18:29:33+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Pentagon moves to fire publisher and editor of Stars and Stripes",
-      "summary": "Pentagon moves to fire publisher and editor of Stars and Stripes CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlNZTTg3bmR2REZ5aE5xMk1ZUWZRSmx4ZXVnTUNLQjM1aDM1czFhZ2R1MjNkYU5FeE1wRkZRQ3R6ZlhhUVV2dVpzRDdiVWRZMnZMMVJUNGFsRDJaSjNZb0UyWFVhUFpzOWlKcDliR1J5NF96VjNqRWFIaWNVTndPU1A4YWpPTlhyOUpfT0JjRHVxMWNDQ0JZ?oc=5",
-      "published": "2026-08-21T18:24:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -248,18 +248,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "My sugar daddy is 28 years older, but somehow I'm the adult in the relationship. Is this a bad sign?",
-      "summary": "My sugar daddy is 28 years older, but somehow I'm the adult in the relationship. Is this a bad sign? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmk0YzFOLWVxUGQzeGJjYkRJVUQ4ZWRDRWZEdnlkVXVaUW1ZLVQ2eG01eF95Q3dvUXhxRXlBNUlIbjNLWlk0YktJWDVOS2hpZldaSkd5UG1peUJxUkxRNEVBUDhNelgzb0pfQjBwMmVwY0pMUmJsbTg0QlExTUxqSjA0clk0bHVheDg1VEMtRllsNWVpd05BUzFEX1FkZmlxdDJ4bnN1MWFoX2NGV0c4VkRQUGVwQ3lXYWdySWJIVkZ6SWhURGNnN3lB?oc=5",
-      "published": "2026-08-21T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -269,6 +257,18 @@
       "published": "2026-08-21T14:48:14+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
+      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
+      "published": "2026-08-21T14:47:03+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -321,13 +321,25 @@
       ]
     },
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California maintains school vaccine rules despite Trump order",
+      "summary": "California maintains school vaccine rules despite Trump order EdSource",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXdOZjlJVGtQTzNJSEVCWVlOR2VFeEp2ZndnMmdqaFRIN3phYVBUNUpXVEJKUDNKLWRrcXZ1WC02MmVpTF9xWVcwV3UyU0hldGxoZE8tMXUtUkEwUHVDZHdBUzJWbG1PWHlxeWdFaXNZd3BFS1BHdTdXaWZrTzNpR1ZUbHlrQmppXzg2dndGSnBMbV83UXIyc0FB0gH3AUFVX3lxTFA0MXVuNFJYeFRmSElaZlJaSERFUEwxQXNFVzlyRk53ZjdUQm01cm8xTzlSMHBmWXFBNThMSk42N1NPYk9yNElQNjB3X01uRjZpZzc4NXIyWGszTnJ0U1V5VFlkOHNWb3NiSXNNUUJHX202c3ZxcnA4YTRnNWE5d1U0cHd4OFJ1WXBDQVp6WkZHMUQwYjI2NHAybXd4S0ZadHlsY2VPN1U1WWVBbjZjdjhsb0YzdWNtcWNOSUNhMlIwWFBfdUhoYzBZb0R2ZFBySXpNNk1BWXV1V1JKUHpVTzFmbmJRbHF1QzBBMkUyUEJ2WkUyeG5Va00?oc=5",
+      "published": "2026-08-21T10:41:23+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
-      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
-      "published": "2026-08-21T09:02:01+00:00",
+      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
+      "published": "2026-08-21T09:00:13+00:00",
       "beats": [
         "Politics"
       ]
@@ -367,19 +379,6 @@
       "published": "2026-08-20T21:30:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Judge deals blow to Trump administration’s gutting of Teen Pregnancy Prevention Program",
-      "summary": "Judge deals blow to Trump administration’s gutting of Teen Pregnancy Prevention Program K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcnkzXzJUSHE0Zk0wNFB2a3dSRTB6RFU4UkwwZWhGSXAwSTQ1Rk1QR0JxV3BSN1FNanViZ0pzOUFkMkUtY2FSbS1pb25qRWZqa0tOV2hnR0pwN1NCYmVJNEdJcHEwbnZSSWoyRFRnblp0T2FUZmJhNm5wMERBVDZab1RuZGFhQjZSRVZiQnhuNld5V3JuVHpwdzJUbUVjc24yeDV4aGpkd2ZhRi11NVVaVA?oc=5",
-      "published": "2026-08-20T21:26:41+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
       ]
     }
   ]
