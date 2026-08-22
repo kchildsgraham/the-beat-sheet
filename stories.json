@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:49:25.113492+00:00",
+  "updated_at": "2026-08-22T01:18:18.086596+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump defends pause on beef tariffs amid criticism from US cattle producers",
+      "summary": "Trump defends pause on beef tariffs amid criticism from US cattle producers CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0wzU2lDSm9xbW85RzFFVlRrRXJuWk5IcDFPMmFzekREeV96RHVOd0RuSGNLdG9NWjhDMnpvZURpM3B6azNPM2RVLWRSUzM4OUNVWmhzamZXcHNtYzlGc3FlSWhoT09xNDNFdDNhZDY3RVNjVzhjQy10NlRrQUZVS2ZGWTJyNGV0bTNpYkxGWmM?oc=5",
+      "published": "2026-08-21T23:14:40+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
     {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
@@ -56,13 +68,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Meghan, Duchess of Sussex in talks for Guy Ritchie Netflix series in UK",
-      "summary": "Meghan, Duchess of Sussex in talks for Guy Ritchie Netflix series in UK CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zb25WM2dodS1BVkNxS3pOWkhHdzg2MFJKMUdyc1djZzFkdl9RN0tmX1ZENGNtZ1M0ODRFbm5ELW5NRVdUVTYxUDI0Q3NyZXJRV0d5WnhJLVpFbjFxTDNwRXVBOS1zUkNkcURVekpjOUR3YXI4RFdEb1JyendHdw?oc=5",
-      "published": "2026-08-21T20:02:52+00:00",
+      "title": "Some National Guard members speak out about D.C. deployment",
+      "summary": "Some National Guard members speak out about D.C. deployment NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnk1R0xmRFllbnpxMm91c2Itd2NhSGE2TlA0ZGZqbUE4SXBsanRud0RxMUpqUWRhY2d5ZmNIYnFSWWxwZVJlUzJzQU51ZF9xNmh3dDM0ZjJaVk05eURzSExuUjRUNGlZd2otY05vYmg3NlVGTnpiZ2trbDBIUnh2MU1MRV9USmU3LUFoZWhncDI4aUNQOVlaYzlzcmFjSS1wNE8xVUNn?oc=5",
+      "published": "2026-08-21T20:01:50+00:00",
       "beats": [
         "Politics"
       ]
@@ -75,6 +87,18 @@
       "summary": "Alfalfa sprout linked to food-poisoning outbreak in 15 states, health officials say CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0aU9hbjAzeDFaWHUwV3lvVzRqTElSVWJnWS0yYjRyQjVJWHMtMFZoUnRrSWJJMGtDSk9mNlNHRFRTU0J2M2hoclFvWkJhMDNoTlpzWFd0eFdXQ0JncUQ3SUsyb0pad0pRTzBTZ3U1QkVzVkNJTGc?oc=5",
       "published": "2026-08-21T19:42:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
+      "published": "2026-08-21T19:37:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,18 +164,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "summary": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkFjRGVjNjdCS3NyY0l2WFlLMFNpN1VUb3ZGbFBmVUR1dWo4SGpzSnAzcG5qcHh0MDRwMlZ6QlM0bm83WFlRbTFGV181bVdEbGR3WGZvYzMwT0VrZHJDdW9hc2MwVEVDb3d1azBxWXoxSTVKSTlvVGNlMTUycm9tdFlzX2hENWVmUmc?oc=5",
-      "published": "2026-08-21T16:40:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -164,6 +176,30 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "My sugar daddy is 28 years older, but somehow I'm the adult in the relationship. Is this a bad sign?",
+      "summary": "My sugar daddy is 28 years older, but somehow I'm the adult in the relationship. Is this a bad sign? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmk0YzFOLWVxUGQzeGJjYkRJVUQ4ZWRDRWZEdnlkVXVaUW1ZLVQ2eG01eF95Q3dvUXhxRXlBNUlIbjNLWlk0YktJWDVOS2hpZldaSkd5UG1peUJxUkxRNEVBUDhNelgzb0pfQjBwMmVwY0pMUmJsbTg0QlExTUxqSjA0clk0bHVheDg1VEMtRllsNWVpd05BUzFEX1FkZmlxdDJ4bnN1MWFoX2NGV0c4VkRQUGVwQ3lXYWdySWJIVkZ6SWhURGNnN3lB?oc=5",
+      "published": "2026-08-21T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
+      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
+      "published": "2026-08-21T14:47:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -173,6 +209,18 @@
       "published": "2026-08-21T12:59:18+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’",
+      "summary": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ182YjY0MlZYbEdUSk02bE5EVW5wU2VXeDV6bXZiMHUyVGhYS2NORnZrN1htanM2M1ZoTFN1Y3o3QlhkaFptai1QREdlNUY4R2dWcWRkNW42SDZiVDNxU1VhcnJUR0tJNnUtR2ttSmtManlsNTJxRU5Rcmx4RTFYVF9kZXBLY0R3aWw2T2Z3SQ?oc=5",
+      "published": "2026-08-21T12:30:12+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -207,18 +255,6 @@
       "summary": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGl2N1BxU19IaklnNzFuUW5iVHJSRnVRVDdRX1MxSll3WDBrX0dyN0Q0MHBhdlBtSy1MN1FNT0lEREphQjFiSUpmeGVHVFY5NzRGc3Zna1l3M282ejFaN0htbmJyTmdfWVhHekZqYU5TVEdSeGxQaW93M2Z5X2JKRmY4Tkd5Rm1F?oc=5",
       "published": "2026-08-21T09:02:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
-      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
-      "published": "2026-08-21T09:02:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -284,18 +320,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity",
-      "summary": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52aTBTRFNIOTNQSkdMbkhJN21sbTZhQkYwczZ0eW1jSDZaU2VsV2ZaamFTbU5ubVN1dkstN2Z2ODI1VnpidGlfWUtSSFhBYnF3bkg3dThnX0w4RG9sa1ZJdFhyS2xwUzc3Y3UxdzdOY2o?oc=5",
-      "published": "2026-08-20T19:30:51+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -309,15 +333,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Tom Daley’s bedazzled swimming briefs enchant the internet",
-      "summary": "Tom Daley’s bedazzled swimming briefs enchant the internet Queerty",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdG9UZGEwOHE3ak5OUXBYM2p5eS1vVV9pMzZkeDlhWTVHdHRhQmQ1eENkaXVpclJvTnVnc3VVclYzc09wRFVWZks4alZXbnpvS1E1SWFxdFRuMGJfQjNiNXJNZmc0b0pGTGlscWpuempITVk2elBDUFdVek81M1Z5WGRweW1QeHhGTGM3bDN0SzY4TjFrRkE?oc=5",
-      "published": "2026-08-20T16:00:00+00:00",
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "FBI seizes Swalwell's devices, executes search warrants in sexual misconduct probe",
+      "summary": "FBI seizes Swalwell's devices, executes search warrants in sexual misconduct probe CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGliWDYxeTVDR1p2V3VJWWRMR095VFZBUzBZQzc4X0R6Y0hPcmF3WE16SjhRV0dCb0lkaWRUMjBQU2VOMlk1SHgxb0pQZ0FOZ1BuNkpVNkNOM2RVSXVwMjNVN0pvYmx2LU1SMGd1LTE5bjhRdWJ1YXcwOGp4NzMxWm5xelhYXzhQaUw2a2dPZ2hRNmNfY2s0NG5MSHJ0NkU?oc=5",
+      "published": "2026-08-20T15:10:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -336,30 +360,6 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
-      "summary": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnJickNjcEg3Ykp6T0l3dk5kc296R1RUX3FaeGlESnNxNlgzd2tRYm1uMW8taV9GWmsxUmtXc2lBR2J6Z2dBWnZOcEVsV2JCelRPTmFGNDZlajZJeUtKcFZlTl9DOTFLQjZYbDlVTXNhbXNjcnRkM2lqLWc2ZHVtdDlUTmZpNjc1WXZYcl9JOWRtdDM2dkxOZFkycExLS3NCNjN1ZjRkdktRajJlQng4bElLcmdWclRWV3RIa05DYw?oc=5",
-      "published": "2026-08-20T12:02:24+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
-      "published": "2026-08-20T09:04:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
       "title": "U.S. to send hospital ship to Peru as El Niño threat looms",
       "summary": "U.S. to send hospital ship to Peru as El Niño threat looms NBC News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVprM1hBbGhWMlhINXdrZ0NIQ1haRUVDLVdCV1kwZ0x2SnpWYWFTbnp3ampxbXVZUnY0VVpOc0NKN29uR09VMHBkT01iVUs0WTQxM0hVMkdxNTdlak94M2RWZmw5TnlsX1F3Y1Jub2c2Z2h3NFpNQl9rcjdyMjhoN0dvbm1QNk0xeXpLRTlwVUdNWlg2Rms2dG8zWFk?oc=5",
@@ -369,15 +369,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
-      "summary": "Trump announces \"crushing economic operation\" on Iran with talks in limbo CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-      "published": "2026-08-20T07:15:00+00:00",
+      "title": "First Reading. Then Math. Is the ‘Science of Writing’ Next?",
+      "summary": "First Reading. Then Math. Is the ‘Science of Writing’ Next? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkZWMFZaMjV4QTFQZlN3RmdnX0U3UXlHWkdaRVV3cEhKVEk3SVlhdjhrakp1blh3TlYwcWdmUXlwTlpIbWZiRWVpTkxWRGROd2JWbjVRQ0NwLTEtUkc0YWtyR3VhMmNfMlY4Vm5aXzhNZ0N6cUxrUHhLYTVJclIxNDZPaDZMdFkySEJmLWdRS01EbjJxOHFCN2tWTDlSXzNNdGVybWNR?oc=5",
+      "published": "2026-08-19T20:16:31+00:00",
       "beats": [
-        "Business"
+        "Schools"
       ]
     }
   ]
