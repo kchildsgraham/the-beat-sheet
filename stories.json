@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:23:17.775137+00:00",
+  "updated_at": "2026-08-22T14:49:17.940468+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "summary": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmI2WjhqdHFkMnFON0xaNV9FWW13YUxwZ2h3YXlmdEpBUDItcEhydkVhYWhIOE4yeEdDQ2VQLWQyT0ZzUEdfV05Walh1OFAtU1V0aDFWUjNfSlYzUTdfSHZ6RmdXV0RxYkhCV04xOVBtX1EzTWdXZFF0VVNpaXVZdXR1Ql81Z2tSQXRDNFpnaVVfY2pmRF9BaTlldFYtT2di0gGmAUFVX3lxTE0zYXVjeXpjdXJMZDl3Rl9lUDVNSmU1Z0ZNcmtlSEZxVzRaQzNpdWdIZ0dCT05fTElGMUdtVUdWc2V0YzJGbFNWMk01ZHV4MUtfSmtRZF9HM0JkNFZWa3JUS1pNY3FFb21YZjZCblhGSWxMa1JZY0hRSjJ2b2ZrRXBqY1Y2Ukt3RUFlcnZPRGVlYjc5eGtXai1CMVlEN0RZS2ZKNWF2eHc?oc=5",
+      "published": "2026-08-22T13:57:48+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+      "summary": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmg5TkVzckl1bHpaZ0t3RmdwX1ljTDJ5cUl5UEdCYS01c3pxUGtDMElkVFAtVjA2dzJsWi1hN0lDeHVkbUROZUxYN3EwckVDTG1sOXpPNXdSb3hxZnRhS1NzY1RLVXlRd29nTndaWFJQMURXREdfdlZ6eklXVDFCLUVPVl9UN2wzbjV2V0Rn0gGTAUFVX3lxTE00OFMxd0ZuVU96OVp1SEtwWGZWd0NzWkxuWkx5a1UzdW9HSWk2TU84S0VRWWs3QmJEbFJmTnlPSzRlQmNBZkMwcmdfdEdITkY2Y0JxaEJnX1lfRzNlOWVoS053b2tzdjZ2ZGhIV1BNNnBiTXBxcWVQbXdiQnZib0lRbE1OdlcxNWJ5UGtEVlJVYVk0aw?oc=5",
+      "published": "2026-08-22T12:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -68,13 +92,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-      "summary": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5",
-      "published": "2026-08-22T10:21:47+00:00",
+      "title": "The US-Mexico cattle border is reopening. Not every American rancher is celebrating",
+      "summary": "The US-Mexico cattle border is reopening. Not every American rancher is celebrating CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkhjUndlXzZVbzkzbmZLZnhaU3Y3ald6Wl9sRi0xbWxnajRhYlUzUVJobDg4ZUxNemJ5S0RZNWk5aHpOTnBrLUkzR3lDdnpUUmdBbF9lMW9CVmZvcGZGRl9RU1BOV2poSnV1VEhwdURYdm9pZTh2bjZrbi1hOVlmQ2lfS2h3TVJtR05mMg?oc=5",
+      "published": "2026-08-22T10:00:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -87,18 +111,6 @@
       "summary": "After prison release, Tina Peters takes her election conspiracy roadshow to Washington CNN",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LN0hxd0NWNkhiUmEtYThTa3RNYmlZR2h3ejRDNkFzdEowT21aSDNyLU9oRHhzd2p6WkdSNTk1bWdhVjJ3WnVDeUhyUDBuR2hGZC1JUWo5YTZaVnZFOFVfT1QyeDY3T2NtR0tiZE9RYU93MHM5OEtNSEd6dmRuQQ?oc=5",
       "published": "2026-08-22T10:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "How the US and Middle East allies flipped the oil script on Iran",
-      "summary": "How the US and Middle East allies flipped the oil script on Iran CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YTC0xeHFnRksyMW1Za2NzTTNEdGNRTkpfRXIxNkppdklHTEpDUUd2QXdZd3EzbXB3SVpuVkFsVkUwNHMweVNnNkYwVHZfM3pyM3BnLXp2eTRjeFFPbXVTTmxjY0ZqdlgwSWRlUm9taTdoUFU?oc=5",
-      "published": "2026-08-22T09:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -123,18 +135,6 @@
       "summary": "U.S.-Canada trade talks collapse just before deadline for tariffs NPR",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ek9UMzBJR2h5cVJkbzFpUzY5dkprSXNTNjZjR0RwWEc1RFlxSWlnWGtFaFg1bm5LUUpDUWhfZGRETW9PN1RiWEhxdXN2dUxVeFRZNjJhQ2tJYk1PUnZJYXRISk9oMGdWS1dTYUNiWQ?oc=5",
       "published": "2026-08-22T04:36:27+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S., Canada fail to reach a tariff deal, deepening trade war",
-      "summary": "U.S., Canada fail to reach a tariff deal, deepening trade war CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwT19Hblg1YTVFeEk3MzNybVltamsyNDZ5YjhIUVJsQWxwVHdJeGtyaTBFME9tVzd1TFV0QnV5VHQ1YUE4ZW9pWlVxX0Z5QU1RTmJyWHdQaExVbWl0NHNhUXdMVWlFVURFVHhOUG5PM0dnSFlPVXhjdm9wZV9CZ3BJXzVnbXlCQjlMa1h3bnZDOXVMRWfSAZsBQVVfeXFMT1dXOXhjeFlQTWFYSUxYdVowbVMxb2J1eUU1M2E0MW9RWS1Vc3V1TU1hV3V0TlhnTW5KYUJuZlFpbFpZQ0FnUmszVnJBakRxU0N4YzFCdzlLWUdhRHNEZzlzSWFIQVl2ZHAzeGdGSUdqTkxnbUk5bkQ4WkJjTFBwTWt5VlVQS2hybkZXa0hUVDhSWlQtWFhDYWNMZEE?oc=5",
-      "published": "2026-08-22T04:28:44+00:00",
       "beats": [
         "Business"
       ]
@@ -285,18 +285,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "A family separation could not stop three California siblings from getting UC diplomas",
-      "summary": "A family separation could not stop three California siblings from getting UC diplomas EdSource",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSWhQUTNpcFhKdzFJZkFyalVLdXowcU5yVTlfYjdIU0l6NFV5bGlJd0lEVjRWOEJCQkF1ZjVvODlFN2VyaFdEdnBKXzViOUJuMk5xdFZWVU1TOTMweVQwaEt5dWV4dEdhWEtiaFpZdVM2SGkt0gF8QVVfeXFMTkNQSGVpN2tOR0RoQWJyZllIUEY3dHlXVHM1azFwNkVnNWw4UzlsRFFweGR5N295R2E2cDUzN3lrMV8wU0k2UkFTUV9Ba1gyY2dMWWtNZk1QTEhnMTE0RFVidjF2ZVJmLXF0aDFfZTJ6R1hDZTFmYXlEZFNzdg?oc=5",
-      "published": "2026-08-21T07:39:53+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -378,6 +366,18 @@
       "published": "2026-08-20T20:25:13+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "A family separation could not stop three California siblings from getting UC diplomas",
+      "summary": "A family separation could not stop three California siblings from getting UC diplomas EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSWhQUTNpcFhKdzFJZkFyalVLdXowcU5yVTlfYjdIU0l6NFV5bGlJd0lEVjRWOEJCQkF1ZjVvODlFN2VyaFdEdnBKXzViOUJuMk5xdFZWVU1TOTMweVQwaEt5dWV4dEdhWEtiaFpZdVM2SGkt0gF8QVVfeXFMTkNQSGVpN2tOR0RoQWJyZllIUEY3dHlXVHM1azFwNkVnNWw4UzlsRFFweGR5N295R2E2cDUzN3lrMV8wU0k2UkFTUV9Ba1gyY2dMWWtNZk1QTEhnMTE0RFVidjF2ZVJmLXF0aDFfZTJ6R1hDZTFmYXlEZFNzdg?oc=5",
+      "published": "2026-08-20T16:05:25+00:00",
+      "beats": [
+        "Schools"
       ]
     }
   ]
