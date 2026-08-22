@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:18:18.086596+00:00",
+  "updated_at": "2026-08-22T02:35:39.315221+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Justice Department reaches $400 million settlement with TikTok over child privacy case",
+      "summary": "Justice Department reaches $400 million settlement with TikTok over child privacy case CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkRjZkptM0cyZUhSOWplMjB2WWVLYTlkVWJZeVZVQWo0R3NhQnRoaVpvSi1RT29jWnA3V2lsem5PWno0WHh0U1FUbUEzNjRJMHdrWS1RU0RBNVN0RWNBZy1XWk1KT2FzZUlzWDNKanFKUi0zanRrVFMzTGQwNXE4cEJTVHoyNzI2cFpfVFgyRQ?oc=5",
+      "published": "2026-08-21T23:30:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -75,18 +87,6 @@
       "summary": "Some National Guard members speak out about D.C. deployment NPR",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnk1R0xmRFllbnpxMm91c2Itd2NhSGE2TlA0ZGZqbUE4SXBsanRud0RxMUpqUWRhY2d5ZmNIYnFSWWxwZVJlUzJzQU51ZF9xNmh3dDM0ZjJaVk05eURzSExuUjRUNGlZd2otY05vYmg3NlVGTnpiZ2trbDBIUnh2MU1MRV9USmU3LUFoZWhncDI4aUNQOVlaYzlzcmFjSS1wNE8xVUNn?oc=5",
       "published": "2026-08-21T20:01:50+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Alfalfa sprout linked to food-poisoning outbreak in 15 states, health officials say",
-      "summary": "Alfalfa sprout linked to food-poisoning outbreak in 15 states, health officials say CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0aU9hbjAzeDFaWHUwV3lvVzRqTElSVWJnWS0yYjRyQjVJWHMtMFZoUnRrSWJJMGtDSk9mNlNHRFRTU0J2M2hoclFvWkJhMDNoTlpzWFd0eFdXQ0JncUQ3SUsyb0pad0pRTzBTZ3U1QkVzVkNJTGc?oc=5",
-      "published": "2026-08-21T19:42:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -155,10 +155,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "'Dreams in Nightmares' is a road-trip movie about living on your own terms",
-      "summary": "'Dreams in Nightmares' is a road-trip movie about living on your own terms NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rcXFIUkdYb2cyNnNicUdDbHo1YktMZUNFZzBDcl92MHlad2s1amRJRkZFRGR2ckRNaExBcC03ajZ6RGhCZ2Z5a1Z3czRTZ2tMR01ucnoxaW00QnhFZEk4WENtZDBuXzJsdUtmbUxwdVpydUR4bWpCR2hPV3U?oc=5",
-      "published": "2026-08-21T16:51:41+00:00",
+      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+      "summary": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkFjRGVjNjdCS3NyY0l2WFlLMFNpN1VUb3ZGbFBmVUR1dWo4SGpzSnAzcG5qcHh0MDRwMlZ6QlM0bm83WFlRbTFGV181bVdEbGR3WGZvYzMwT0VrZHJDdW9hc2MwVEVDb3d1azBxWXoxSTVKSTlvVGNlMTUycm9tdFlzX2hENWVmUmc?oc=5",
+      "published": "2026-08-21T16:40:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -224,18 +224,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows",
-      "summary": "National debt tops $40 trillion after doubling in less than a decade, Treasury data shows CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aVFRcnVzOUk4bTFLdGNYTVgyUHpFYkpia3JLMk5IU2NHaFZpN1BtaWZxYV9Zc2dTMjB0a2Q5UE5zZ1lfN0prUWlMZ0Y3cFdIWEJCTlh6c1hOZmFaWkg1YWZJTFVaaWFiMlIzV2dHZF8tblc1S1N3?oc=5",
-      "published": "2026-08-21T11:49:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -257,6 +245,18 @@
       "published": "2026-08-21T09:02:32+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "A family separation could not stop three California siblings from getting UC diplomas",
+      "summary": "A family separation could not stop three California siblings from getting UC diplomas EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSWhQUTNpcFhKdzFJZkFyalVLdXowcU5yVTlfYjdIU0l6NFV5bGlJd0lEVjRWOEJCQkF1ZjVvODlFN2VyaFdEdnBKXzViOUJuMk5xdFZWVU1TOTMweVQwaEt5dWV4dEdhWEtiaFpZdVM2SGkt0gF8QVVfeXFMTkNQSGVpN2tOR0RoQWJyZllIUEY3dHlXVHM1azFwNkVnNWw4UzlsRFFweGR5N295R2E2cDUzN3lrMV8wU0k2UkFTUV9Ba1gyY2dMWWtNZk1QTEhnMTE0RFVidjF2ZVJmLXF0aDFfZTJ6R1hDZTFmYXlEZFNzdg?oc=5",
+      "published": "2026-08-21T07:39:53+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -311,10 +311,10 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty",
-      "summary": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaHVPWHZWMDV1LVdhejFpalEyeG1pVFFPcFVXMmFVNHZic0xFRWk5SXJIeWFVNHFtQldfWl9oZ2NlMXRyQjNrSjQzQTR4NnBHTEFrWkFZMmJPSXo1U0ZCMk1GaG1KaFhNNTlaOTVMR3NCOXdDTnhCZG5kZWFQVlk?oc=5",
-      "published": "2026-08-20T20:10:58+00:00",
+      "title": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity",
+      "summary": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52aTBTRFNIOTNQSkdMbkhJN21sbTZhQkYwczZ0eW1jSDZaU2VsV2ZaamFTbU5ubVN1dkstN2Z2ODI1VnpidGlfWUtSSFhBYnF3bkg3dThnX0w4RG9sa1ZJdFhyS2xwUzc3Y3UxdzdOY2o?oc=5",
+      "published": "2026-08-20T19:30:51+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -345,18 +345,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "PODCAST: The long road to college graduation for one immigrant family",
-      "summary": "PODCAST: The long road to college graduation for one immigrant family EdSource",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFgzMW4yMGpEMmQ5eHNXaDFpVnkzbTFPcFJrUEFacXFtbThnYVlqQmlGaTV3ZklDUnBWZXR1RGl6RmRxMlp6TlJqWVpNX28zX3R0WWp4SHNROTFETXJCREJnTUl1UmlFRDV5cGYwb3lzS2ROMlBzc0dQY0RxYlJZaFFnQ1F3YzBBZFE5TzNRQXRnWmc?oc=5",
-      "published": "2026-08-20T12:49:57+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -366,6 +354,18 @@
       "published": "2026-08-20T08:53:58+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
+      "summary": "Trump announces \"crushing economic operation\" on Iran with talks in limbo CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
+      "published": "2026-08-20T07:15:00+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
