@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:49:51.974691+00:00",
+  "updated_at": "2026-08-22T21:23:22.667295+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+      "summary": "Trump administration's 75-country visa ban was illegal, judge rules NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdURzS0F5VXV6cmRBNTl4dTdIbm5fOXFqTDFFNmkyZS1FZ0wtUTlzRWVMZkEyQlNNbmpIblF0SURNRG9OODh0TEozWnZNcnZVcVN5MlZPLTJCQnktSEpzdldwN3ljWGt1bHpVZkJHZU1lVW93Mjd4VVFZUmZGTHhSTVFSZG1ibTRVdnZIWA?oc=5",
+      "published": "2026-08-22T20:53:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "The Advocate",
       "source_feed": "The Advocate",
@@ -59,8 +71,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Arrest warrant issued amid search for founder of police mental health group after officer husband found dead, chief says",
-      "summary": "Arrest warrant issued amid search for founder of police mental health group after officer husband found dead, chief says CNN",
+      "title": "Wife of police officer who was found dead is considered ‘armed and dangerous,’ chief says",
+      "summary": "Wife of police officer who was found dead is considered ‘armed and dangerous,’ chief says CNN",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWkFmZHNsTzFWaFBydThubGhydl9wS0ZEZld3YV9CM0hFUlVraW9pQmcxbVRnZFBUMDJwZ3JpNnNzN29HdUUwOFhvVTVkR3FEMjR3dm4xZTlWS1luZ3l4T1UteW5PM3dYNGs4aWh3S28tT0t2ZTdGYg?oc=5",
       "published": "2026-08-22T16:28:09+00:00",
       "beats": [
@@ -111,18 +123,6 @@
       "summary": "As Flock battles public scrutiny, other police surveillance companies see an opening NPR",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGNNdGVQRHpabm5uZmZEUXhqbGY4ZFdzSVdpSEF2aDFKRzllT094REJOcWtJVzJPVVlTRDJDNU1UVkl4cFE2ZXFOWE9lUVltQ2dPTHBCbHVWTVJ6MEY5X0tYeHBGWW15eHF4OWpBYkhHc0dsdmpKSlUxbEtodG80azNPOTlFOEN2S3pNeld4MA?oc=5",
       "published": "2026-08-22T11:43:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "In which 'Winnie-the-Pooh' turns 100",
-      "summary": "In which 'Winnie-the-Pooh' turns 100 NPR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHZWMTJvTzZCTGdHMi1KUDRWZU9Fd1U2aXN6bU1LcXQ0cm9haS1UQklGRFZiWWhMT3Iwd1dYSG0xYWpaWUVzd18wT0NpeTFLT19PWXMyckg1VUZQTzVKY0o0YkxQNVNwRFhuMkNXUGQwV0x4SjBjaHd0UkFCQkhXRDhtMUxmSElqREZETDRzaXhpYVItd0dXZFZFQTQ2NnItU3ZR?oc=5",
-      "published": "2026-08-22T11:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,18 +188,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "City leaders face death threats across the country as tensions grow over data centers",
-      "summary": "City leaders face death threats across the country as tensions grow over data centers NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdl9uWFZSNVFqVmYxUWQ0Z3lUOWNSVlBQSlpBMDhYVzdIM0s1d2RuWXBTNTdaMTRuNll6X2RPZV81UHJiREZzMUtIU2VuOEpFeTRBRXFSaXNNMUgzMlBGSHF6MlJwZDVsOTlDUWRqTlhLSmotQ2M2VDBfaktDS1dXUlMxZ1U4TWRiVXJONmJTUlNhLW0yX3ktaG5rcFZHTkhMTlZ5cnlMNnhxaXhWWWJyODZ5WkhGTjdTTzdET2hPU0taV0VSTThF?oc=5",
-      "published": "2026-08-21T23:01:39+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -233,6 +221,18 @@
       "published": "2026-08-21T20:57:10+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Russian drone strike kills 15 people at shopping mall in Zelenskyy's hometown, Ukraine officials say",
+      "summary": "Russian drone strike kills 15 people at shopping mall in Zelenskyy's hometown, Ukraine officials say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QU1JJQnlZQ3k4c2FJVjF6ZE9RUkJjTC03X3dpQ1IyRVJCZTlYZnFlZ29qa1N4NjJVYndpWEFDTkdPU0ZaY3pNaURobk1BOVVvWWxRVTBrSVN4cE05cVRVcUU5ODduVm9nNzRzdkdmcnlrenFfcmIyaDBpYVhaZw?oc=5",
+      "published": "2026-08-21T19:50:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
