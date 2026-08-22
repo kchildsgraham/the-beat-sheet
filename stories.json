@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T03:43:04.815654+00:00",
+  "updated_at": "2026-08-22T04:34:08.444437+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Education Department proposal would make it easier to end grants",
+      "summary": "Education Department proposal would make it easier to end grants K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU9KRGNnd0FSTERBYjQtUC1pTEdmdzV2dFdWTFlMZnFJQ0tXSnBoeTBhUDhmcE5PSjY1WXFiS3VKLUJBMmJEa2p4dGZBV3V2dW9WcGtmT0ZwRDd3aUVyLVpobmlDNVZKcHJ0SzZSbGpXd3VseWdsT0pNZk5lM1pibjF0WWxGS0tfZm1FVEZ0TGZHamFJd1UybmpIT2ZLU2JiNURF?oc=5",
+      "published": "2026-08-22T03:19:44+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
     {
       "source": "NBC News",
       "source_feed": "NBC News",
@@ -65,18 +77,6 @@
       "published": "2026-08-21T23:03:01+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Education Department proposal would make it easier to end grants",
-      "summary": "Education Department proposal would make it easier to end grants K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU9KRGNnd0FSTERBYjQtUC1pTEdmdzV2dFdWTFlMZnFJQ0tXSnBoeTBhUDhmcE5PSjY1WXFiS3VKLUJBMmJEa2p4dGZBV3V2dW9WcGtmT0ZwRDd3aUVyLVpobmlDNVZKcHJ0SzZSbGpXd3VseWdsT0pNZk5lM1pibjF0WWxGS0tfZm1FVEZ0TGZHamFJd1UybmpIT2ZLU2JiNURF?oc=5",
-      "published": "2026-08-21T21:57:07+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -128,18 +128,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
-      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
-      "published": "2026-08-21T19:37:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -164,6 +152,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "People are sharing amazing stories about their experiences with Rosie O’Donnell",
+      "summary": "People are sharing amazing stories about their experiences with Rosie O’Donnell Queerty",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3NkR1padEdielo1bXc2RGppYkljRGswRGRTTTZESXhVblFkMGdtV3hiLUZWbmpEX0hPbURndmMwV0xUMGxyNEdLN1RxTWFrNlZhNkFSV0ttbVJiaUZYNVhPVG85a1ZwMFF6aExhQUtyMkY0R2FjMWRiU2cxWURCRWhIbTJnNHdodjhLV3ROR0xlYXRsNVNsbXBqMUFOZ2hRd0tuZl80eTVuMno1cTcwblR3?oc=5",
+      "published": "2026-08-21T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -179,10 +179,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "summary": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkFjRGVjNjdCS3NyY0l2WFlLMFNpN1VUb3ZGbFBmVUR1dWo4SGpzSnAzcG5qcHh0MDRwMlZ6QlM0bm83WFlRbTFGV181bVdEbGR3WGZvYzMwT0VrZHJDdW9hc2MwVEVDb3d1azBxWXoxSTVKSTlvVGNlMTUycm9tdFlzX2hENWVmUmc?oc=5",
-      "published": "2026-08-21T16:40:59+00:00",
+      "title": "'Dreams in Nightmares' is a road-trip movie about living on your own terms",
+      "summary": "'Dreams in Nightmares' is a road-trip movie about living on your own terms NPR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rcXFIUkdYb2cyNnNicUdDbHo1YktMZUNFZzBDcl92MHlad2s1amRJRkZFRGR2ckRNaExBcC03ajZ6RGhCZ2Z5a1Z3czRTZ2tMR01ucnoxaW00QnhFZEk4WENtZDBuXzJsdUtmbUxwdVpydUR4bWpCR2hPV3U?oc=5",
+      "published": "2026-08-21T16:51:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -195,18 +195,6 @@
       "summary": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report Queerty",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXlKeWpMV1hGa1JqWUxscXpzc3JlSUpkVzk4a3FMVWphcUhTNEh6bGJSUWJxai1SMnVwZHo4SDVFWDVzbHR3eEE0T2djTTZMU21hbFJSVUp3WjEwOFZpcGdJaXNfZW1RNHBLM2dfWm1iZ1lQOU1FRHdBSzVEdkJCSVJ3b0FKRzd3dEZGLUJhSFl1Rmw4aWZmOXVSLTdheF9VeHBmbWY2Q3RTUUF5a2hZeVJBQnBuMWJSQ29JYnJn?oc=5",
       "published": "2026-08-21T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "My sugar daddy is 28 years older, but somehow I'm the adult in the relationship. Is this a bad sign?",
-      "summary": "My sugar daddy is 28 years older, but somehow I'm the adult in the relationship. Is this a bad sign? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmk0YzFOLWVxUGQzeGJjYkRJVUQ4ZWRDRWZEdnlkVXVaUW1ZLVQ2eG01eF95Q3dvUXhxRXlBNUlIbjNLWlk0YktJWDVOS2hpZldaSkd5UG1peUJxUkxRNEVBUDhNelgzb0pfQjBwMmVwY0pMUmJsbTg0QlExTUxqSjA0clk0bHVheDg1VEMtRllsNWVpd05BUzFEX1FkZmlxdDJ4bnN1MWFoX2NGV0c4VkRQUGVwQ3lXYWdySWJIVkZ6SWhURGNnN3lB?oc=5",
-      "published": "2026-08-21T15:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -260,6 +248,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
+      "published": "2026-08-21T09:00:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -269,6 +269,18 @@
       "published": "2026-08-21T07:39:53+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "She was a California comeback story, serving juvenile probation in a UC Davis dorm for killing a teen, when arrested again",
+      "summary": "She was a California comeback story, serving juvenile probation in a UC Davis dorm for killing a teen, when arrested again CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xSnV6WS1UTXhHaXFYNkVVcUdwbDhYMmkzZlF6dHRwTm8tNFpTajNVZExQUzlpalY2aFlObWRkWEstT1l4WTY1R1hKTUVxMEY5eFNUMHZacU5LMHk4U3V0TTlBbmtkM3I2azJtUjJTS0VyNHc0?oc=5",
+      "published": "2026-08-21T01:26:09+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -365,18 +377,6 @@
       "summary": "FBI seizes Swalwell's devices, executes search warrants in sexual misconduct probe CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGliWDYxeTVDR1p2V3VJWWRMR095VFZBUzBZQzc4X0R6Y0hPcmF3WE16SjhRV0dCb0lkaWRUMjBQU2VOMlk1SHgxb0pQZ0FOZ1BuNkpVNkNOM2RVSXVwMjNVN0pvYmx2LU1SMGd1LTE5bjhRdWJ1YXcwOGp4NzMxWm5xelhYXzhQaUw2a2dPZ2hRNmNfY2s0NG5MSHJ0NkU?oc=5",
       "published": "2026-08-20T15:10:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-      "summary": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNHZWRjQ214OFlVNm1FLUVyYUxxeTZDQ21zc2NDWFRJdU8yNDNpd2hQUlozQV9FZnNVcERjakpwRGJySTBFS3c4MFZOMU54dWdhME1Oeld6Nk54X3RQVnQ4UWlvMllwbU5TeFd3SUE3Tmo3VEJRWnhiVmJlZF9wa282dHJtQnpmSjEwNXpiS3dOZUZpRGRFUzVR?oc=5",
-      "published": "2026-08-20T09:04:01+00:00",
       "beats": [
         "Politics"
       ]
