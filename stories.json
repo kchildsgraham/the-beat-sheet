@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T07:32:37.361754+00:00",
+  "updated_at": "2026-08-22T08:31:33.523070+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,23 @@
   "errors": [],
   "stories": [
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
+      "summary": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "published": "2026-08-22T07:04:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-      "summary": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products NPR",
+      "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+      "summary": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect NPR",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ek9UMzBJR2h5cVJkbzFpUzY5dkprSXNTNjZjR0RwWEc1RFlxSWlnWGtFaFg1bm5LUUpDUWhfZGRETW9PN1RiWEhxdXN2dUxVeFRZNjJhQ2tJYk1PUnZJYXRISk9oMGdWS1dTYUNiWQ?oc=5",
       "published": "2026-08-22T04:36:27+00:00",
       "beats": [
@@ -56,18 +68,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
-      "summary": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
-      "published": "2026-08-22T03:48:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -77,18 +77,6 @@
       "published": "2026-08-22T03:19:44+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Pilot reports possible burn injuries after passenger's laptop catches fire on American Airlines flight",
-      "summary": "Pilot reports possible burn injuries after passenger's laptop catches fire on American Airlines flight CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlFTckR5emJkcDBtSXlWcEg3MVpIb1JYUWNUS0F3WTJ6c0NkRy1HTkpKbm05NUtrYm5WYUYtZVF5NXVQc0pNZDMwVzdybW9MeXdpSE9PR1BRWlZXV0xuRWc0UzFULTFNeU84VmpPMUoyMmZXTEhGNDVWYUFvbjF5c3I4Tm54ak4yRk5nYU1nbnhxWjA?oc=5",
-      "published": "2026-08-22T02:19:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -116,6 +104,30 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "A battle over ‘Italian brainrot’ could shape who owns AI art",
+      "summary": "A battle over ‘Italian brainrot’ could shape who owns AI art NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzh1Mko3T1FvaWRhSi16X2NYTm5URmdpaXY2YjJGQXV2SFlmYkh4Y0ZGazBDOEhLck1RV2xfVVlRZVBSLWphc2dlTlFvZW5rd2Zwd2t2b1hNT19tWHVtYTZyUFBPVmtLN0FoR2dWeXRJNk5tMWRkWmQ3TENGSkxUdFFHMVExTEhucGJmUUZsbnRvMS1ZUzVYWGhJOVpKWHRvYVdqSDZKR00xaWJseEdSTUVfX0FQNFU?oc=5",
+      "published": "2026-08-21T22:16:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Boeing engineers, technical workers reject contract offer",
+      "summary": "Boeing engineers, technical workers reject contract offer CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWRLZV9NaG9pak9pZ050XzlKd0Y1eDFmYVBESlJnVHFOM1FQRHlsRy00UnRuU1FhMk1XeGRISXBibzE0a1QzeEZtSG5lUEp5cFhOOTl0MjJhcjJmX2RTZGFfU0ZKc0VEQ3VLdjk1OEdjV0s3V2RFSndXU0tnbDFabEpibTNpY0lPNnhaNWl0MWV5THQtTkt6TdIBngFBVV95cUxNd1JFMy1jQWtRdEw3Mkl4eTBCNU9TVjRuRnZQVVZfdGlLNXU1RnFZVHBVVmkyWTFPOVcyUWcteTFKSkNQMGlTYk1ZVHVtS213cmNLOExGTjYydkRGRko4OWNHZ25IdlA2VEpzMkJfbjhSWUdDWVNVb1JmYkk1eVdUSC1leHh0UGhJbElmaVlGYWJiQllwLVRmMk9jNTJfQQ?oc=5",
+      "published": "2026-08-21T21:51:22+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -128,18 +140,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-      "summary": "Amid intense backlash, people are vandalizing Flock surveillance cameras NPR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcmpQaFBiQy0wNFdUZ3ZRWUJNYngxOXU5d1lSTE55bllxSDZDSElTb3RCYURibFNUN1hfa29NTWphUUlCTW45NjM3bmFtcWNFNmpuX3FjMEZuVW5HRlJOTGo5UjFPYm1ZMHpnWDRSMU8ydUdrTjVQcVQwU0dXZ04yM3NkaHB0MUM0QkliOGpPa3cwM01VOVI3ZnRRMTNoMEdCaEhHOUNRcXlTUXNYaXUzWjJ5dHAySEE?oc=5",
-      "published": "2026-08-21T20:58:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -147,18 +147,6 @@
       "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
       "published": "2026-08-21T19:37:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "summary": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlpMVmlPbE96c3VpMVNEbGJmOGlZd1V5Z3dqOWJ4RzRfb19nZG1JMkliOEJ1Qll4YlRSUWlITlhob1BGS2RaNUJlTEM2LUdyWUxGN1F3ODBZMXN1SHE5ZTZRVnlnNm5DdVNrakUzdU4tQzZjc3VhVzJqTG9mbHpKMnlIOFdMZ9IBiwFBVV95cUxQNnpCY0Uxa0NfV2hMQjNiVVZVdDlncUpZTENQSUh2QWtpeFJNUEcxd0xUeENhdzk2MG1YcXA2RGhqOFJSMVZJa3ZmMGpmVlVLZTJiU1MyV2hsTDk3VGxFYndQa0taSDJ3VU0xS2d1RnJDVExtUFZlMzRFejA5TnFjSlVNZ2E4NGRWbS1r?oc=5",
-      "published": "2026-08-21T19:21:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,18 +176,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\"",
-      "summary": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5",
-      "published": "2026-08-21T17:49:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -209,6 +185,18 @@
       "published": "2026-08-21T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
+      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
+      "published": "2026-08-21T14:47:03+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -248,18 +236,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
-      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
-      "published": "2026-08-21T09:02:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -279,6 +255,18 @@
       "summary": "Opinion | Never Underestimate the Houthis The New York Times",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVSG1RWlRiUkJpR2Q3ZTAzU3ZscmdqczhIZHAtazBTU2M4S282WHkyZWpWdzIwWWw2SzBndVBMSk5iVzZ5N3FvV3ptMWJYZlRzelR6LTYyQWZCbjFRemphR2lPLUZ4WG96Qjlrd0pwNkpiT2h4X0E?oc=5",
       "published": "2026-08-21T05:00:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "She was a California comeback story, serving juvenile probation in a UC Davis dorm for killing a teen, when arrested again",
+      "summary": "She was a California comeback story, serving juvenile probation in a UC Davis dorm for killing a teen, when arrested again CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xSnV6WS1UTXhHaXFYNkVVcUdwbDhYMmkzZlF6dHRwTm8tNFpTajNVZExQUzlpalY2aFlObWRkWEstT1l4WTY1R1hKTUVxMEY5eFNUMHZacU5LMHk4U3V0TTlBbmtkM3I2azJtUjJTS0VyNHc0?oc=5",
+      "published": "2026-08-21T01:26:09+00:00",
       "beats": [
         "Politics"
       ]
@@ -348,10 +336,10 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity",
-      "summary": "Kansas law forced these men into women's bathrooms. Their compliance highlights the absurdity Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52aTBTRFNIOTNQSkdMbkhJN21sbTZhQkYwczZ0eW1jSDZaU2VsV2ZaamFTbU5ubVN1dkstN2Z2ODI1VnpidGlfWUtSSFhBYnF3bkg3dThnX0w4RG9sa1ZJdFhyS2xwUzc3Y3UxdzdOY2o?oc=5",
-      "published": "2026-08-20T19:30:51+00:00",
+      "title": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty",
+      "summary": "Florida voters deliver wins for LGBTQ+ candidates and losses for Moms for Liberty Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaHVPWHZWMDV1LVdhejFpalEyeG1pVFFPcFVXMmFVNHZic0xFRWk5SXJIeWFVNHFtQldfWl9oZ2NlMXRyQjNrSjQzQTR4NnBHTEFrWkFZMmJPSXo1U0ZCMk1GaG1KaFhNNTlaOTVMR3NCOXdDTnhCZG5kZWFQVlk?oc=5",
+      "published": "2026-08-20T20:10:58+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -377,6 +365,18 @@
       "summary": "FBI seizes Swalwell's devices, executes search warrants in sexual misconduct probe CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGliWDYxeTVDR1p2V3VJWWRMR095VFZBUzBZQzc4X0R6Y0hPcmF3WE16SjhRV0dCb0lkaWRUMjBQU2VOMlk1SHgxb0pQZ0FOZ1BuNkpVNkNOM2RVSXVwMjNVN0pvYmx2LU1SMGd1LTE5bjhRdWJ1YXcwOGp4NzMxWm5xelhYXzhQaUw2a2dPZ2hRNmNfY2s0NG5MSHJ0NkU?oc=5",
       "published": "2026-08-20T15:10:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "ICE, Iran quietly worked together on deporting Iranians to Iran, emails show",
+      "summary": "ICE, Iran quietly worked together on deporting Iranians to Iran, emails show CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmNGT2pMUWtuSElNWW9zU2dDYm5nYmN0N1RfSlRGQU5zVm5lTHJmUENkc2xXN2FENkR3QUlaN3lOVkRFME4xMmJLenRhU1NPMGlhcU9kdjNoLU1lU2VCREwtd0E5eUhnV3RoVHJyRks1WmRSVG1DSmw2Ylk4dXFOTHdWb21TT0RRMkUxTUFWcw?oc=5",
+      "published": "2026-08-20T09:44:00+00:00",
       "beats": [
         "Politics"
       ]
