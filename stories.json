@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T17:21:33.734894+00:00",
+  "updated_at": "2026-08-22T17:46:51.077800+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -92,6 +92,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+      "summary": "Belgian car salesman becomes prince after DNA test proves royal parentage CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kbDJ5bmR5bWxzak1IVjRGWTBoWVEtZ3Bvd252MDBMbzFUZWc2MmM0eUpMdVFOU3lIb0ZMbzA1b2RHazlHSXNQdWJWamZYSUJsQ20zazB3TnQ4aFZPVVlSaGJZWUpjd2RnOTNPNTVDalh6SkJkMy1YWVNpTzFtQQ?oc=5",
+      "published": "2026-08-22T11:56:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -111,18 +123,6 @@
       "summary": "In which 'Winnie-the-Pooh' turns 100 NPR",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHZWMTJvTzZCTGdHMi1KUDRWZU9Fd1U2aXN6bU1LcXQ0cm9haS1UQklGRFZiWWhMT3Iwd1dYSG0xYWpaWUVzd18wT0NpeTFLT19PWXMyckg1VUZQTzVKY0o0YkxQNVNwRFhuMkNXUGQwV0x4SjBjaHd0UkFCQkhXRDhtMUxmSElqREZETDRzaXhpYVItd0dXZFZFQTQ2NnItU3ZR?oc=5",
       "published": "2026-08-22T11:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump: ‘I view the Strait of Hormuz as an American territory’",
-      "summary": "Trump: ‘I view the Strait of Hormuz as an American territory’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVlYbS0wU005bjItOFRYMWlBZ29nRS0tT0VtdHA1TlVSTi1CbFZ1ZnZpajZuSlE2bDJsNEZPYVI1bjNzRnpVTW42Z1RuYkFqbUtNUWpUcnQ5SmpwY2ZXcVlJY3U1SW8wbmFFTnlrS3lySVYzbU1MWERMUE5lZWZGT2VLSDJZRUFpRUl4X0NQbFdFRE1vdURILWJrVzVWV29wdURtRUFhRQ?oc=5",
-      "published": "2026-08-22T10:46:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -153,6 +153,30 @@
     },
     {
       "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Shooting at Fremont home leaves 1 person dead",
+      "summary": "Shooting at Fremont home leaves 1 person dead CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTk85cWg0MzIyMzV4MFNLZ2xVTDg5cXZKZm50bzlCeGotcGRjZ1NzVFJyLUdfQ3lwenVaUWhqX2VYTURLSFJvbU93bGtOQWMtX2E2ekJSSVJObGdwRDRGckZZY3RwaV9SRkptcXhja0VnTHFCWk5sanNEMzRHWXByNGMybmdSNWxORS02YTg3SVEwUlE3N1hwQ1NTMW5ialhrM1BQQjNkRjh1Z21HLVFBeEU3MmV4N3lq?oc=5",
+      "published": "2026-08-22T01:16:21+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "ICE detained a green card holder from India, leaving her family frantic",
+      "summary": "ICE detained a green card holder from India, leaving her family frantic NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGpXYmRySl9YdVU1OVBtNDBkLWdXM19ndVV3eHpCa3ZTa044TjJyUGxLRlg0dUE3ZW5ZLXFSZzA1UHBkMEFnVW44eFIyaW5aTm1SOGdUamVVdExXcUF3SjVwa1JsY3d0elRrOFlBUlAwUzdaaWo5Njh6SFBJanNsZ1BlY3FFTm9TcWE1aDBQSW9WNGxLYWlvbTBXcldJNEJiWnVJVmdGUk9QbU5fS2p1YTJn?oc=5",
+      "published": "2026-08-21T23:27:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Suspect arrested on suspicion of starting Clover Fire in Alta Sierra area",
@@ -161,18 +185,6 @@
       "published": "2026-08-21T20:59:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Suspect in deadly East Palo Alto motorcycle hit-and-run arrested in Central California",
-      "summary": "Suspect in deadly East Palo Alto motorcycle hit-and-run arrested in Central California CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakVseEM3QkRvSEd1ZTJuRlEyTU1IVzJRd0NMdWU4UFFoYjA4alUzV3hxdnlGeEhtMXdQeGdMb0Y5Q0F1Zk45cjkxN1FpdDhmeW5CbDRyb1dLVGlCcjd2bXNqVnJjbmVjS2NwUGZxTWhraUNRVFFLUGJqN2RXaENQSmNqSHF4a3ROXzVNU01BcGNpX2V0UkhZOWwzUEg3MFFyODBBRm9fTkJiYl9nRnVKSEpEX2pQc0R5RWhJX2dfRUgxc19KNGFjYw?oc=5",
-      "published": "2026-08-21T18:29:33+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -218,7 +230,7 @@
       "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
       "summary": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHJjSlpTT1poSjFTMDJHcXN1VUxBeUU3bm81VWxWSVFYeEFtN2lzbFhMWEhfZERUeUYtb29TRWpuTlk1WG4tMk9VT0I0NWltR0tQeGlMaFhWQjEzbjNvTEJkT3FGRjVlMXFHUVllRzd4c0lMZnV6akl2cmpfa0s0cTRCVHFvV2xxZVFaRQ?oc=5",
-      "published": "2026-08-21T14:48:14+00:00",
+      "published": "2026-08-21T13:44:42+00:00",
       "beats": [
         "Business"
       ]
@@ -366,18 +378,6 @@
       "summary": "The closetocracy? 11 anti-LGBTQ+ Republicans dogged by gay rumors Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGOWxkeUlOLW1Hb0VmTW1uWWp0V0I3YUtCZGV5RVpiQVdsTXZsWXh0MEQwQ210NzdYdHNVMjZybEY3QzJBTVRnR01Rd1pDQVlKWjR2bzNGc19aLW9IRGlSbWk0Z283SGJYeGx0TW02dHNBc28?oc=5",
       "published": "2026-08-20T20:25:13+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Startling new study shows 12% of US adults are LGBTQ+, the highest estimate yet",
-      "summary": "Startling new study shows 12% of US adults are LGBTQ+, the highest estimate yet LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEp2bzNYTEhZeW93SjdZVnYzb0JiLUFSeGRXY0hOQ2d0RUYzeWxpZ2ppRGFGRndkVzdqY25XUEliZFlSWXhmT01wRmZuOGVyU3R6OERmT0IzLTdlbkF6VmduVS1wRWJPajM3Tm1JZ2ZJNUtLRmUxamRQRU83TGFPam03WHhocnhrblo4NFhhaW9GUnp2eDdlVFgtd09tWUg0dXJoSklwcmpGR2dJSFdobjJsUQ?oc=5",
-      "published": "2026-08-20T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
