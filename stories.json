@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T13:32:52.650688+00:00",
+  "updated_at": "2026-08-22T14:23:17.775137+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,42 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
+      "summary": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVk4Y2ZuYno5VHl6ek92WkFNbDlqX1FEUUhlSG5ISkVNelB0OTltMEstNmNhamhaM3JNempLdnA2ay1vMEw4OHZhQ0xKUVFOalp0cTR3TnNsQWc3dWJZZnNRdjM3ZnNJdm42Zk82RkpqbzA0MlBqdjRjcnRDWEtWUUpIV0hVRXJoZ1E?oc=5",
+      "published": "2026-08-22T12:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+      "summary": "Opinion: Mr. Rogers keeps finding a new neighborhood NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmFVQU0xOEtENy1TV3ZFT0ZsNmd4MGktY1Z2X29LS2NtRkZpNkFodHVuVTZFQ3ZxanRpUFBpOWYwNjJ1UGRIQS1zNGE1RjJsaHR5a2lHN2I4TEdMU2JmcVFQQ3BIY0dRbjdnTkpkZVJLTXRLVEIzZVhFOE9qYjROUGtoQ3Iwck9UQTJPTGRjdlpFbHhURUpIa3NqRQ?oc=5",
+      "published": "2026-08-22T12:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In which 'Winnie-the-Pooh' turns 100",
+      "summary": "In which 'Winnie-the-Pooh' turns 100 NPR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHZWMTJvTzZCTGdHMi1KUDRWZU9Fd1U2aXN6bU1LcXQ0cm9haS1UQklGRFZiWWhMT3Iwd1dYSG0xYWpaWUVzd18wT0NpeTFLT19PWXMyckg1VUZQTzVKY0o0YkxQNVNwRFhuMkNXUGQwV0x4SjBjaHd0UkFCQkhXRDhtMUxmSElqREZETDRzaXhpYVItd0dXZFZFQTQ2NnItU3ZR?oc=5",
+      "published": "2026-08-22T11:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -80,18 +116,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
-      "summary": "Six investors reveal the biggest market risks — and one strategy they agree on CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVVOVmM1RDEwbVJta1cxQXctLXR6cGI5VGhRZjRKWHVIWWFoTzlOTGFzRWI4a3MwbkctMzdHUVpfM0V5bmdqN25oWjREWW5nWFROdnhScVJENHpDVjQwSEd3MXFjemFEZEs2cV95bkI3Z01vclQ1djRpMWw1R3laZzZxSUFjcEdmdjJFZ0VLVEkzQdIBlwFBVV95cUxOclo0VHlaamFYUzFiR3l6RGgwQnhIbS1XTzJwQU1hc3ZrQm1pLVBsRzdyNG5jQUxfV2ZYNVpGeVE5a0wzcmU0RUhWdWJnZDFrM2NvclBPZ1VXX1JwNWpIaU9xaDcwMjVOYnhWdU9rVVRLSzg0NXNzenRPZzlDMDBoa0dkMnpPU0JaWWdLNmEyTTNGMmNuUjFR?oc=5",
-      "published": "2026-08-22T05:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -107,8 +131,8 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
-      "summary": "U.S., Canada fail to reach a tariff deal, deepen trade war CNBC",
+      "title": "U.S., Canada fail to reach a tariff deal, deepening trade war",
+      "summary": "U.S., Canada fail to reach a tariff deal, deepening trade war CNBC",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwT19Hblg1YTVFeEk3MzNybVltamsyNDZ5YjhIUVJsQWxwVHdJeGtyaTBFME9tVzd1TFV0QnV5VHQ1YUE4ZW9pWlVxX0Z5QU1RTmJyWHdQaExVbWl0NHNhUXdMVWlFVURFVHhOUG5PM0dnSFlPVXhjdm9wZV9CZ3BJXzVnbXlCQjlMa1h3bnZDOXVMRWfSAZsBQVVfeXFMT1dXOXhjeFlQTWFYSUxYdVowbVMxb2J1eUU1M2E0MW9RWS1Vc3V1TU1hV3V0TlhnTW5KYUJuZlFpbFpZQ0FnUmszVnJBakRxU0N4YzFCdzlLWUdhRHNEZzlzSWFIQVl2ZHAzeGdGSUdqTkxnbUk5bkQ4WkJjTFBwTWt5VlVQS2hybkZXa0hUVDhSWlQtWFhDYWNMZEE?oc=5",
       "published": "2026-08-22T04:28:44+00:00",
       "beats": [
@@ -131,24 +155,36 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Colton Underwood stripped NFL players to their undies and sent them down a runway",
-      "summary": "Colton Underwood stripped NFL players to their undies and sent them down a runway Queerty",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlRPdnFpZjJ3WUVpejBGRlhnZTRoTG9ONHZaMVFhYVNIVXl1c29vbTUyNnhmYlk1VkFhOC0waDRtOWxfU0J6SzJFT2Z0ZVI5RkdfRnZkTlliSXhiMEs0bUx6LXJYaTdHY00tNW1zTm14Z1dXdUJQZzgxUHZZUUJ3U204Vm1oUzQ5VmVOYzRqY2ttYkI4NGduV0pZUkhvUXdzd01uR0E1Tk42a1dMaFVENl94Qzh6UQ?oc=5",
-      "published": "2026-08-21T23:00:00+00:00",
+      "title": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health",
+      "summary": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER1RHpWS0V4WGVlbnR6V3pORnBTeHptaU40VzJSUmdQSW1uY05pVjBvUHhXVmI3N3ZiSVlqd1JoQjg2SDhERm40ZTgzSU9fa1FES20yRmFfSmVWRkQyWndBVEgyWlBKQ2pPeGFqNlFGY1hvRjBZRFlmc0p5WnI2bDBtZk9TM0ZOY1BYeFJSRTZFR1gtZ1I0am9JV05DSGUzZ3QzVWhHcVFaMU1jVUhDT1ZGTWo?oc=5",
+      "published": "2026-08-21T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "A battle over ‘Italian brainrot’ could shape who owns AI art",
-      "summary": "A battle over ‘Italian brainrot’ could shape who owns AI art NPR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzh1Mko3T1FvaWRhSi16X2NYTm5URmdpaXY2YjJGQXV2SFlmYkh4Y0ZGazBDOEhLck1RV2xfVVlRZVBSLWphc2dlTlFvZW5rd2Zwd2t2b1hNT19tWHVtYTZyUFBPVmtLN0FoR2dWeXRJNk5tMWRkWmQ3TENGSkxUdFFHMVExTEhucGJmUUZsbnRvMS1ZUzVYWGhJOVpKWHRvYVdqSDZKR00xaWJseEdSTUVfX0FQNFU?oc=5",
-      "published": "2026-08-21T22:16:46+00:00",
+      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
+      "published": "2026-08-21T19:37:41+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Suspect in deadly East Palo Alto motorcycle hit-and-run arrested in Central California",
+      "summary": "Suspect in deadly East Palo Alto motorcycle hit-and-run arrested in Central California CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakVseEM3QkRvSEd1ZTJuRlEyTU1IVzJRd0NMdWU4UFFoYjA4alUzV3hxdnlGeEhtMXdQeGdMb0Y5Q0F1Zk45cjkxN1FpdDhmeW5CbDRyb1dLVGlCcjd2bXNqVnJjbmVjS2NwUGZxTWhraUNRVFFLUGJqN2RXaENQSmNqSHF4a3ROXzVNU01BcGNpX2V0UkhZOWwzUEg3MFFyODBBRm9fTkJiYl9nRnVKSEpEX2pQc0R5RWhJX2dfRUgxc19KNGFjYw?oc=5",
+      "published": "2026-08-21T18:29:33+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -249,18 +285,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
-      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
-      "published": "2026-08-21T09:00:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -294,19 +318,6 @@
       "published": "2026-08-21T01:26:09+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects",
-      "summary": "Aisha Wahab wins special election to serve out remainder of former Rep. Eric Swalwell's term, AP projects CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1ZVU1NEaVhOZ3QxSGVqMWtYSGt0VnJPMmx5dEZCekFKTUNqSjlVVV9IU1cybUJHLW1RQmxrUWFWSDZHY09qYUxIemNIMkFCUTdlY3RIN25EeHRrOC0yV3A5RzEwT2JacWFERmN0by05cVhwTFFmSm5pS1VHVmFJUEFuQkIwc2d4VTFQeEtyZUdZMEJ6Y08yTGRnREEtbGNMUTlfMHBDdWY1cmM?oc=5",
-      "published": "2026-08-20T22:33:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
@@ -367,18 +378,6 @@
       "published": "2026-08-20T20:25:13+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "FBI seizes Swalwell's devices, executes search warrants in sexual misconduct probe",
-      "summary": "FBI seizes Swalwell's devices, executes search warrants in sexual misconduct probe CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGliWDYxeTVDR1p2V3VJWWRMR095VFZBUzBZQzc4X0R6Y0hPcmF3WE16SjhRV0dCb0lkaWRUMjBQU2VOMlk1SHgxb0pQZ0FOZ1BuNkpVNkNOM2RVSXVwMjNVN0pvYmx2LU1SMGd1LTE5bjhRdWJ1YXcwOGp4NzMxWm5xelhYXzhQaUw2a2dPZ2hRNmNfY2s0NG5MSHJ0NkU?oc=5",
-      "published": "2026-08-20T15:10:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
