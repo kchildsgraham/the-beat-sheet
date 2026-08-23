@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:50:04.523460+00:00",
+  "updated_at": "2026-08-23T21:22:29.125510+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "summary": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFdhUmtGRnFsYnRJblp0NXZ6LVNsWC1BRl9rTll5NV9sTi1WcFNnelBvVWdIVUxmR3BpZU1RRjBOaDI4MjlxS0JueTN2QkJFNFktRlpRYUpoVU9hdVBhMVZGbjFDUHJsRXg1c2FSWU8xdW5kVFV6SWhjczJNM2x1eWRWYlhMVWRBcFQzNndocDJOcUtiTWtZOS1yb1RmdEduVC0xXy1mRUfSAa4BQVVfeXFMT1ptUGp6QnZ4VTdsSnBkUXFkQ1FzR3p5TXhRUXpTUHBxejVJMTlERGcwS0N6R3Y4MFpqMTdkRUIybzJRbEVWQm1CckRfWWQ1QWVrYUdzTlYzT3c1blU3dnJ6am9CVGF1TVZFTzZZWXV3ajRCcnE0Ym1tWUo1WXhMLTU3SWxOSllza1ptVExTUWstR0J1aC1aMjVvSFZzaVVOWjYzZ1VHWnlMMnA2V3N3?oc=5",
+      "published": "2026-08-23T17:58:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -61,7 +73,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Gays name their favorite queer comics, & one surprising name stands well above the rest…",
-      "summary": "Gays name their favorite queer comics, & one surprising name stands well above the rest… Queerty",
+      "summary": "Gays name their favorite queer comics, & one surprising name stands well above the rest… queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU1TRy1VZ25MSjF2YU9BSmhzQ1JjM3Y5RnRab2VvakNpNWpDSXlMWmNXVnV0LVgtYkZRYzBsRmdScmRvNUI3SG51MDZkY1FjdG5McktwWHZibXA0dW1RZC0yVFNhbzd6bnE4VG9NTXJ5SkI2dXdPVGhIMVBGYXh1MmdBYm1ydUpocHB4S3l1NG5vckhBRkdidjVGeXJ3cl9WdjBjbUJSOFotMl84NkdZN1NKWnJ5dWFQRmc?oc=5",
       "published": "2026-08-23T15:00:00+00:00",
       "beats": [
@@ -108,18 +120,6 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Becerra, running for governor of California, faces a health insurance problem",
-      "summary": "Becerra, running for governor of California, faces a health insurance problem NPR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2IxRXdlb05yS2tSbUp4OWJWdFQzUkl4NUhBdXhwaGo3ZG5CalZZckpUUHFfenlvdWlUQzBrMDJWdzJUVGRJNFhEWlJNdE5OS1k3djZCZzExTktBVHhBRVVoOUR4NVV0Q2MyWUFYWVc4Qi13V2FTTGhaYU0zWUlEOC1lMVhQRWwzZFd6Qi03Z0l1MEpkOG1zYld6X0c?oc=5",
-      "published": "2026-08-23T12:50:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
       "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
       "summary": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala NPR",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FX09HWnFPbENmZkNxSmZ4OTRaZ2kxM19BS3BpV29EU1VOUUJmazNYT1VQZ1lsNG85eUZpRW1TVlRpck1SVFl1bFZCeFVwaUlQcEhxODhDeUJMckpKZ1JKQW95TGZPamE0aU1TZEJSX05fNkRMWnpnc3dZbw?oc=5",
@@ -141,13 +141,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Palantir has been on a tear this year. Two numbers signal investors should protect their gains",
-      "summary": "Palantir has been on a tear this year. Two numbers signal investors should protect their gains CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVG16eXJ5OGI3MVNnTW5fcDNVUlVDUHBLSFVzNXJ6Yjd0NGJwMWJYTWVyT0hhTnl4Q2VOTFg1VmdVczlOaHBJVEd5MW1aQzlDNWZmeG1YWjlZeGoydUd6LU9DUGswLVItSWdxeHlfMi1pTy1hSXJjcTJJQ05aYjRKRVRlTGRkWWFSLUtmWDVDX3RYRlhPejU0MGRYV3podi11Q0FNUWt4VmEwWHRzaU9FREk2YnNCRHprTUJPZjVhYjdYdkdoZmxQbDhR?oc=5",
-      "published": "2026-08-23T11:33:09+00:00",
+      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+      "summary": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2V6emYzQS1xd2dtVDlKa1N0NVRxbWNUamptYnE0TDNpclJndXZsTm82RWpjb1NPNHVKUE1ZSjZFTDcyYWc3c0o1MWpyQnlhVFJUajY2OWpBblAtWU55ZDJseGZ3dWVjbHhKREdiMUxGcU9IeWFuOVYtZFdTUVgwYmFHNC1weVE4ZWpoMjBFYTB0a3M?oc=5",
+      "published": "2026-08-23T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -193,7 +193,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "John Stamos’ gutters, Jack Laugher’s mist, & Francois Arnaud’s bag",
-      "summary": "John Stamos’ gutters, Jack Laugher’s mist, & Francois Arnaud’s bag Queerty",
+      "summary": "John Stamos’ gutters, Jack Laugher’s mist, & Francois Arnaud’s bag queerty.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnVyYnFZRjE2emQ3R3BFNGZqTWwwODhkaHliUWZUdV93MVhud1ZRNGJuX1E0c1FwZU9VNXlJWnd0azVUOW5GcUpNNE91VEhTMDQ0Zjc4dGgtWVVIakdNbF9tOFh2blI4S0VFbmVTaWg1RjBWbXlRQUxuWmtHaDN4bVdCZVVtYWp1RHBJWkRyZ2ZLYnRxUWo4Qg?oc=5",
       "published": "2026-08-22T18:00:00+00:00",
       "beats": [
@@ -312,6 +312,18 @@
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
+      "title": "How to Nurture Teacher Retention in Far-Flung Rural Districts",
+      "summary": "How to Nurture Teacher Retention in Far-Flung Rural Districts Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3RYS0NDUWlSZEpQWTdIc0FwdzhSbmpMdF84X0FTT2haOHNrSk9iOXNKOHRhVWZmWUJiODhPaThvYUUwLWRJYWgzV0c3SzFZMlFJTU5ubF9NVTIwdzZkYVRBUWJCc0FnZUl6U1lHaUEzT2dzVWxnNDJMSmZFTzV1X3NQTWszUWd5bG5Rb2VGRzF0ZHpUdE1HYnhPTmU4OFVtS1dzM0Jn?oc=5",
+      "published": "2026-08-21T20:57:10+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
       "title": "Funding, Tech, Politics: Here’s What’s Weighing on District Leaders This Year",
       "summary": "Funding, Tech, Politics: Here’s What’s Weighing on District Leaders This Year Education Week",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFpuelQ2WEJ3Yi1ucm9HenJJTGNvZFI3WTlFWE1aeTl6Nk1XQUNVbnRKSXRyb2hTMjNmRjdRaV9VNS00Qk1uSjlJS3A1bHBMb2ZocllIWFJJQmwyaEtKY1BGa3RBX3NRdUpjSHY4dDdpM1hva2VMbGFjVVhRLWdTYzM4SndYMlNBaHRSbWJGS1hyUUkwZVpWdkJhbFlpd19TVHA5SDFHOVFHOTNGNWlPbDl3R18?oc=5",
@@ -319,6 +331,18 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Pentagon moves to fire publisher and editor of Stars and Stripes",
+      "summary": "Pentagon moves to fire publisher and editor of Stars and Stripes CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlNZTTg3bmR2REZ5aE5xMk1ZUWZRSmx4ZXVnTUNLQjM1aDM1czFhZ2R1MjNkYU5FeE1wRkZRQ3R6ZlhhUVV2dVpzRDdiVWRZMnZMMVJUNGFsRDJaSjNZb0UyWFVhUFpzOWlKcDliR1J5NF96VjNqRWFIaWNVTndPU1A4YWpPTlhyOUpfT0JjRHVxMWNDQ0JZ?oc=5",
+      "published": "2026-08-21T18:24:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -339,7 +363,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report",
-      "summary": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report Queerty",
+      "summary": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report queerty.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXlKeWpMV1hGa1JqWUxscXpzc3JlSUpkVzk4a3FMVWphcUhTNEh6bGJSUWJxai1SMnVwZHo4SDVFWDVzbHR3eEE0T2djTTZMU21hbFJSVUp3WjEwOFZpcGdJaXNfZW1RNHBLM2dfWm1iZ1lQOU1FRHdBSzVEdkJCSVJ3b0FKRzd3dEZGLUJhSFl1Rmw4aWZmOXVSLTdheF9VeHBmbWY2Q3RTUUF5a2hZeVJBQnBuMWJSQ29JYnJn?oc=5",
       "published": "2026-08-21T16:00:00+00:00",
       "beats": [
@@ -357,31 +381,6 @@
       "beats": [
         "Politics",
         "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Greater Head Start flexibility will empower program leaders",
-      "summary": "Greater Head Start flexibility will empower program leaders K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnFyRDBFLXJQNEh4U2h3SmpnRlRJRjgyb3pndHhETkpnQl9Vck1KbXhueUxmNktLS1lRNmFqRy1aYWtEVE9oQVNaYy13ajZLaVdQVjVoRExEakFxT2J6X0pfMFk4UXBteHk2bGxrZEpNSkpUY3N3TlZTUEFQRHdPeFdTZllReVp5cGNDTy1BOV9CY3pBd2tLaDFObEE?oc=5",
-      "published": "2026-08-21T12:59:18+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Former CIA officers warn Trump's administration is reviving the Lavender Scare, endangering national security",
-      "summary": "Former CIA officers warn Trump's administration is reviving the Lavender Scare, endangering national security Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVVOazl3WUlXWF92NGxaWHpQWUxUeEM2UndjUnQ0OU50bkVJeWt5bDBKTXJhV1F4MjQyZnBBOWUzVDRMeV9KVy14QUM2M3NBd2J1OE1xbzBNekNHVk1NZlNSVFdiRHhxX3lDWTd1T2tRSUVIZ1BjLVBOMnU5RzVRLQ?oc=5",
-      "published": "2026-08-21T12:48:12+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     }
