@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T16:27:32.647946+00:00",
+  "updated_at": "2026-08-23T16:54:21.689654+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,49 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Robin Wall Kimmerer on the wonders of nature",
-      "summary": "Robin Wall Kimmerer on the wonders of nature CBS News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdVZoSEpJOUQxTS1Wd1RUYnVEUDNadGFwUHpPWDh2SWRqTjdJOXJmTGM4UERlb3E0NWQ1RU5ObUFzM0VWbVBlWlZLdUFZN2hyV29HendWMzNUUEZqOTctRWVIdU9TMEdzT1JSN210WlBVWkNGVmtMYkFIX0o3TUU?oc=5",
-      "published": "2026-08-23T14:25:32+00:00",
+      "title": "Pete Buttigieg returns to first-in-the-nation South Carolina with a fresh appeal to Black voters",
+      "summary": "Pete Buttigieg returns to first-in-the-nation South Carolina with a fresh appeal to Black voters CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFZZUTRTNU9RbWVoWW9XQlJDVEVrZEhJMC04a05KN2xnVE9RbVRJLW50cDl4dS1DVFBNalllQi1RdUh3ZE1GVEhaZHhsWl9zYklJV0V3cjlLdGVYQU4zZnMtWjB3VzVSSlBXNXVsLWV3VkE2QnBzUGNnVVlzU3hFS2hPZzB1SU40SEE?oc=5",
+      "published": "2026-08-23T16:00:29+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "China postpones launch of unprecedented water-hunting moon mission amid space race",
+      "summary": "China postpones launch of unprecedented water-hunting moon mission amid space race CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlVOWVVJbFFHVWI2WWlCZ0tEVzJGZkF6SnB0akV2QjNVc0M0NzV6RkpXUUtvXzZXbFYwakI4ZHFiRWV2WWozcExXZm1pdWhPRS00LVdnM0lveVlGNlphZkNsdGhweU5DTDE3VEFDazlMY01aczRhR19jODBWcHBYNTFzRGZuVDc1dGVz?oc=5",
+      "published": "2026-08-23T14:36:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Inside shooting victim Fletcher Merkel's bedroom",
+      "summary": "Inside shooting victim Fletcher Merkel's bedroom CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWtwMTBsTzZ3dEc0VXZ5VC1GbldwMThMcWNaMzJ3aG95ZnY0MTVPR2tMQWFZN184SXVVTEVZZnctc09FXzJCaWVJYnc5SGJObFhWZVlhamNTaUJxU096bFpmY0tWUjh1am1NaW5EYTNwNTRMVTYySjhoX0pHOEtUVFRSWFI?oc=5",
+      "published": "2026-08-23T14:01:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Becerra, running for governor of California, faces a health insurance problem",
-      "summary": "Becerra, running for governor of California, faces a health insurance problem NPR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2IxRXdlb05yS2tSbUp4OWJWdFQzUkl4NUhBdXhwaGo3ZG5CalZZckpUUHFfenlvdWlUQzBrMDJWdzJUVGRJNFhEWlJNdE5OS1k3djZCZzExTktBVHhBRVVoOUR4NVV0Q2MyWUFYWVc4Qi13V2FTTGhaYU0zWUlEOC1lMVhQRWwzZFd6Qi03Z0l1MEpkOG1zYld6X0c?oc=5",
-      "published": "2026-08-23T12:50:09+00:00",
+      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "summary": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FX09HWnFPbENmZkNxSmZ4OTRaZ2kxM19BS3BpV29EU1VOUUJmazNYT1VQZ1lsNG85eUZpRW1TVlRpck1SVFl1bFZCeFVwaUlQcEhxODhDeUJMckpKZ1JKQW95TGZPamE0aU1TZEJSX05fNkRMWnpnc3dZbw?oc=5",
+      "published": "2026-08-23T12:48:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,30 +128,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "A new app is bringing Vine back, with a very 2026 twist",
-      "summary": "A new app is bringing Vine back, with a very 2026 twist CNN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yQ25nMmU0YnVCaGNmUllabVYxaFFjVVN6VTFIWEQ5cXZRQ1BVSnN6d3Nua0k3NjRER2FkSWRVUmN0Y0x1bHRUcW90R1hUZmZqOW12ZVBiaU9fRThEbU5JbXY1d2tIcnNoM0E?oc=5",
-      "published": "2026-08-23T10:30:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "This immigrant left the US for Canada. Something stood out to her at the border",
-      "summary": "This immigrant left the US for Canada. Something stood out to her at the border CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PME43WGNIQjY1ZWxrZ3RnTFNWU0N3UU93d0t5OVF2d0lpZFQ3cTlObVk0MXBvSHRPQnRXSkFERmxjRWhSVWJteHdoWjdTMm9oNmh2YkwtVlloUjl3cFlkbmUxNF9hVkFzbXRqTDlfMXdEbjQ?oc=5",
-      "published": "2026-08-23T10:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -137,6 +137,18 @@
       "published": "2026-08-23T09:00:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Trestles catch fire near West Oakland, nearby residents urged to keep windows closed",
+      "summary": "Trestles catch fire near West Oakland, nearby residents urged to keep windows closed CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOWkzaHZoZjE5c1ZTUlBNdThIQXBJTi1yVnRYRGEyZlAyQ1NfLVBId3E2RDdIejVFUHVONDFrUkxNQ3duLWMzZ0dwZjJKanRHVV9lNHZZQnhDWlpfUGo0Q1lydG13aWw2eFRHN0FYeER6VGtINXlqTEFQbElzNlIzb2FZdGdCVE5VdkE?oc=5",
+      "published": "2026-08-23T05:24:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -367,18 +379,6 @@
       "published": "2026-08-21T10:41:23+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
-      "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
-      "published": "2026-08-21T09:02:01+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
