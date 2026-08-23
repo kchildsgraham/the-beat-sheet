@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:23:51.329701+00:00",
+  "updated_at": "2026-08-23T15:48:15.344593+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,37 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Robin Wall Kimmerer on the wonders of nature",
+      "summary": "Robin Wall Kimmerer on the wonders of nature CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdVZoSEpJOUQxTS1Wd1RUYnVEUDNadGFwUHpPWDh2SWRqTjdJOXJmTGM4UERlb3E0NWQ1RU5ObUFzM0VWbVBlWlZLdUFZN2hyV29HendWMzNUUEZqOTctRWVIdU9TMEdzT1JSN210WlBVWkNGVmtMYkFIX0o3TUU?oc=5",
+      "published": "2026-08-23T14:25:32+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-      "summary": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FX09HWnFPbENmZkNxSmZ4OTRaZ2kxM19BS3BpV29EU1VOUUJmazNYT1VQZ1lsNG85eUZpRW1TVlRpck1SVFl1bFZCeFVwaUlQcEhxODhDeUJMckpKZ1JKQW95TGZPamE0aU1TZEJSX05fNkRMWnpnc3dZbw?oc=5",
-      "published": "2026-08-23T12:48:05+00:00",
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "summary": "Becerra, running for governor of California, faces a health insurance problem NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2IxRXdlb05yS2tSbUp4OWJWdFQzUkl4NUhBdXhwaGo3ZG5CalZZckpUUHFfenlvdWlUQzBrMDJWdzJUVGRJNFhEWlJNdE5OS1k3djZCZzExTktBVHhBRVVoOUR4NVV0Q2MyWUFYWVc4Qi13V2FTTGhaYU0zWUlEOC1lMVhQRWwzZFd6Qi03Z0l1MEpkOG1zYld6X0c?oc=5",
+      "published": "2026-08-23T12:50:09+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Tropical Storm Moke to dump heavy rain on Hawaii’s Big Island just a week after Hurricane Lala",
-      "summary": "Tropical Storm Moke to dump heavy rain on Hawaii’s Big Island just a week after Hurricane Lala CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlQ5X0pFSENkV242UFg1RW5VZTByZW5jbUphYlFtd3VhWG93NlZ3SG5WQW1QdnpaX0pmbjBaNWN3V1B0T19XbG5mUnJBQ1k3TEEwTkMtdmpVRmloUEEwV3hwS0M0eHBESUFja0IzeGhqV0dRQklpUE13YmJvTEJ4dlpUZ2ZRUUZPX05fdVR3ZEdJNzdTVERkMG82aUY5M0QzTEtmdlpBcFd0T1U?oc=5",
-      "published": "2026-08-23T12:40:36+00:00",
+      "title": "Norway to give more than $9 billion to Ukraine in 2027",
+      "summary": "Norway to give more than $9 billion to Ukraine in 2027 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkw5V1JXYXFQNTRPNWdVczF2ak05LW82RVA5Q2hPczY1WVFvMExTaGFhbVVobkt2T0hLN0pRSERLY1hnYTZ0ZmkyWS1hY21UVVdMYU5FQi1iUXpWUFFLd0JRa2VFNnlvaGt4VlhwZThFeVBrT3lQWFdTRUllZERyZDFxTkJlanItb1pVWlp3a3pUNkN10gGaAUFVX3lxTFBBVFNlMGZibVRKWG5BSmpCek1faGF0eHFGNzBUSjVlUmpaaUNiSG90QmlOSE5KQVdkd2ZTc0lFV19GbXFYTzJ5bkxQMWNWYkhodm1OVERpTnhCdWtjcXM4bm1UOEFxYVBrQXhuRl92NFVPR0wyaXhFNVhDNWJ5R1FnR0pmYmJDeXdodjgtQkJBcjc0WEpZOHI5YUE?oc=5",
+      "published": "2026-08-23T12:05:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -63,18 +75,6 @@
       "summary": "Russia likely to mobilize at least 300,000 more troops to Ukraine war, Zelensky warns CNN",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGJRQmhkR0ROQmwxN09qQ2dYWHRjbjdfVmJwSFhvSG8zNkxUYllNcXhXa1RJVTF3VUs4OVlDSGZ4VS16cmd6R2JKOGFfUGM5QVVMb3l2S3UzLXgxU1dSTUwtRzNVR3JzOVBRM3hVbWs4bk1HNVYycER2UHBTWHVmbm1pTEMyUQ?oc=5",
       "published": "2026-08-23T12:00:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-      "summary": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QNEJTWmp2TUxZN0FZT1l2bnFzV0Fva1drcU1aUzFfSnhmNmpCNFV4NGFfelp4b09xeXJZQi1HR2VlcktTcS1FUlBtYWZfRXliSEhGbVpCUUJKUXUyUVlGdG05NC1IeExVdWNkQ2FVdGxRYXZhRWVv0gF8QVVfeXFMUEtrM2xoMUhWVzBrc0FlZ0xjek9SNGY2VkdYQ0VTRm1fZFZueFVlSkgzTjdOSXdreE5mUlpPUS1XNGJuUGxSNE01czZPdmNobzEzNUVGSEx1bW5mbE9jYkdHd0sxZFZLR2xiUmhFTDVtcGVNOUdaaURQWmktXw?oc=5",
-      "published": "2026-08-23T12:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,6 +116,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "This immigrant left the US for Canada. Something stood out to her at the border",
+      "summary": "This immigrant left the US for Canada. Something stood out to her at the border CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PME43WGNIQjY1ZWxrZ3RnTFNWU0N3UU93d0t5OVF2d0lpZFQ3cTlObVk0MXBvSHRPQnRXSkFERmxjRWhSVWJteHdoWjdTMm9oNmh2YkwtVlloUjl3cFlkbmUxNF9hVkFzbXRqTDlfMXdEbjQ?oc=5",
+      "published": "2026-08-23T10:00:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -137,18 +149,6 @@
       "published": "2026-08-23T02:14:22+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
-      "summary": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBLbDZLTVJiWmNOdzM1TE80Sk9uM0x2Q0RNNjZyQ2NpWFYyMUMxUVI4bW9mQU83OTctWWE4Q3JkMGtMN1k4UFlPX2U0ZXVMVUpyalNTYlQzQkZZemtYVzBjTUNPWkRqQ25jRjdMMkxkUXZrbzQ4WURPYlVaUWl6YjdR?oc=5",
-      "published": "2026-08-22T21:08:07+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -176,15 +176,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "CHP says girl taken in Newark was found, deactivates Amber Alert",
-      "summary": "CHP says girl taken in Newark was found, deactivates Amber Alert CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGRCS3ZaTGhPcnI4Q3NmQ19rWVJhdzFnV3hKTFROdllMT1phdXBuTWZuaUVSSDZsUFVUU1haT21vU3hQT2hmRWRtbWs1VGJYdUV1UzhYTmcyQ0VXVXhYZ0Q3UVZmRWRoRGVCeExmYkQwUGtoZmwtZE1CLTFOWnRHVWJLMFphUQ?oc=5",
-      "published": "2026-08-22T15:56:00+00:00",
+      "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+      "summary": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBLbDZLTVJiWmNOdzM1TE80Sk9uM0x2Q0RNNjZyQ2NpWFYyMUMxUVI4bW9mQU83OTctWWE4Q3JkMGtMN1k4UFlPX2U0ZXVMVUpyalNTYlQzQkZZemtYVzBjTUNPWkRqQ25jRjdMMkxkUXZrbzQ4WURPYlVaUWl6YjdR?oc=5",
+      "published": "2026-08-22T12:00:05+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -197,18 +197,6 @@
       "published": "2026-08-22T11:33:33+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Natalie’s Magnificent Obsession",
-      "summary": "Opinion | Natalie’s Magnificent Obsession The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHM4dGVQWndiem5jRFI3U1R5Ukg2QWVUVjJ4QjBHNGxDWnlicVcwYVFWZXY1RXNtMHRaX1hkT29wdGpvWGxHdy1wenJjaFdmTTFzOE1BalRVWXpvdzFHRTg0cEpmTHpJbm83Z2dMeGVrWWY3cDg2RG10U3lCMkl1NzROTQ?oc=5",
-      "published": "2026-08-22T11:00:24+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -349,12 +337,11 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Former CIA officers warn Trump's administration is reviving the Lavender Scare, endangering national security",
-      "summary": "Former CIA officers warn Trump's administration is reviving the Lavender Scare, endangering national security Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVVOazl3WUlXWF92NGxaWHpQWUxUeEM2UndjUnQ0OU50bkVJeWt5bDBKTXJhV1F4MjQyZnBBOWUzVDRMeV9KVy14QUM2M3NBd2J1OE1xbzBNekNHVk1NZlNSVFdiRHhxX3lDWTd1T2tRSUVIZ1BjLVBOMnU5RzVRLQ?oc=5",
-      "published": "2026-08-21T12:48:12+00:00",
+      "title": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’",
+      "summary": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ182YjY0MlZYbEdUSk02bE5EVW5wU2VXeDV6bXZiMHUyVGhYS2NORnZrN1htanM2M1ZoTFN1Y3o3QlhkaFptai1QREdlNUY4R2dWcWRkNW42SDZiVDNxU1VhcnJUR0tJNnUtR2ttSmtManlsNTJxRU5Rcmx4RTFYVF9kZXBLY0R3aWw2T2Z3SQ?oc=5",
+      "published": "2026-08-21T12:30:12+00:00",
       "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     },
@@ -378,6 +365,18 @@
       "summary": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm5McHhPblNpRDVVS3JfRS01QjVYWjdFV1hXMWZNbWpjZFhmb3cxanJpV21lZUVNNW5NT0lUVTIwYjduOEhLU3NBSXo5bnFvelpnMFM2YlhoLWtyNnllVFA4ang3VkdMUmNzUHpXT182S0wySmZjTTM3cmJCa19wdmQ4dVl3dlBZb1hfZldIcw?oc=5",
       "published": "2026-08-21T09:02:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "summary": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZYcGJ3eUt0MTRqV0kxbWJSVzF2ZjVNODBIYlZ6emJVT0xaemstS1lYOXgyd21TTkpvTXZHNGUzUUhzOWJDUWNfcWNLZjBxUEFRVWc0SkQweDJPV1hRam1hd2h5TFVXMUJBRzlGcjNLN2NQR1J0VlV6WkRRVXJMXzg0ZldEU0N4MmxhZTNDdF8?oc=5",
+      "published": "2026-08-21T09:00:13+00:00",
       "beats": [
         "Politics"
       ]
