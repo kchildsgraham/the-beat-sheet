@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:47:06.169726+00:00",
+  "updated_at": "2026-08-23T22:23:20.400654+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+      "summary": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlFGSWJ4Vkp6akJQYlVjQ0p2SUNsdFJudG1WNF9Va0FxajB0NHotMTBWVC0wMFNMTXE3QjNzUEdZdHAyRmE4bWRWTEhyN25PYmpOUHJPb1ZFQWtabEhLbzdvVGIzbWc4NHpXeFdxX3BNNXVTWkZLcms1bnI0ZmNVVTFSZGJfbmxERUN3RGl3T19qV1M1aEFmRm5ma9IBoAFBVV95cUxQSFctdWdZZTgxblpXNGw5TFVtNGxEdE9ETG80YmUyR2UwX3NWdXpNNlhUZzVLVUJYa1l4dFV4Zml0YWVoVEtKX21GNWlfSGJuWG5ad1pDejFKdUNYT1VHYkpQS1JFd1NPTEFvTTR3cktuaUVTNGJkZlNSVEtWTHlJVno4cDBzQzVseUg0ZUtTWUtDeEtuOG9rQTNvLUtKZmt6?oc=5",
+      "published": "2026-08-23T21:45:27+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -60,10 +72,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "The national debt just hit $40 trillion. But just how big is $40 trillion?",
-      "summary": "The national debt just hit $40 trillion. But just how big is $40 trillion? CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKeC1zRW5TWGdjNlVYd0ZPeHg1WTRvNU92OHBZNUpGVkkwRlJXSnFGX2VEU0ZUZGxNLUNlVmZ1c2RTczFFTlY4Tzg0X2ZialNuNFF6RF9CTmszM3VLbEpFU2t4LUpRejc0eElWS2N6dk56QQ?oc=5",
-      "published": "2026-08-23T16:00:29+00:00",
+      "title": "Cancer vaccines could transform treatment and prevention – but misinformation about mRNA vaccines threatens their potential",
+      "summary": "Cancer vaccines could transform treatment and prevention – but misinformation about mRNA vaccines threatens their potential CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xMVNWU19LX0N1UmhBbWpsLVhIUWxNVGpfbnhaT2J5TTVQTjY3RmZhNG1HUlRDTEQzLWFQVXRIaVlQOTVoaURoOUprOW9JSDNac2RpdVRINV8wQ2FwNFl3SXVVWWEydVNUZHJOdHE1X1BZbmZDMklwQlJuM2hNdw?oc=5",
+      "published": "2026-08-23T16:00:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -129,18 +141,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Norway to give more than $9 billion to Ukraine in 2027",
-      "summary": "Norway to give more than $9 billion to Ukraine in 2027 CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkw5V1JXYXFQNTRPNWdVczF2ak05LW82RVA5Q2hPczY1WVFvMExTaGFhbVVobkt2T0hLN0pRSERLY1hnYTZ0ZmkyWS1hY21UVVdMYU5FQi1iUXpWUFFLd0JRa2VFNnlvaGt4VlhwZThFeVBrT3lQWFdTRUllZERyZDFxTkJlanItb1pVWlp3a3pUNkN10gGaAUFVX3lxTFBBVFNlMGZibVRKWG5BSmpCek1faGF0eHFGNzBUSjVlUmpaaUNiSG90QmlOSE5KQVdkd2ZTc0lFV19GbXFYTzJ5bkxQMWNWYkhodm1OVERpTnhCdWtjcXM4bm1UOEFxYVBrQXhuRl92NFVPR0wyaXhFNVhDNWJ5R1FnR0pmYmJDeXdodjgtQkJBcjc0WEpZOHI5YUE?oc=5",
-      "published": "2026-08-23T12:05:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -165,6 +165,31 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "U.S. set to impose 50% tariffs on Canada after failed talks; Canada to match them \"dollar for dollar\"",
+      "summary": "U.S. set to impose 50% tariffs on Canada after failed talks; Canada to match them \"dollar for dollar\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVp1OXJCTUlOWC16bG1TeFdCVHVsRDgxenJhcGVuLVFSY3lvNm84VnZmd000WG5EMW52VTBPdE1PSnpUM1BpM3NTWl9sSnJsYUtrVVRLZXpfaHlDeHFfRDIwVGtJNWQ4NzI5QUtqREZIWk9tOFdHOW92enFsbjRYZ1JLbGxwQVBBYzk5VW5CcG9Dc1g5ZE0wWE4wcw?oc=5",
+      "published": "2026-08-23T06:14:20+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Mother of 2 children killed in Richmond house fire dies days later",
+      "summary": "Mother of 2 children killed in Richmond house fire dies days later CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUDAzOWhxR2V3cVA5Um9YNmN3eXR2RjlIajhMN0dLQWxzMTlaQkVOVDVtLWlBM3NaZnR3RDl0RHhtaDFYUWQ0dWEzSTZiVVM2N2NmczZHN0tVT0FSbTZXUldxc1NCZTl5ejF6S1lpMHBwdlZfbXVLYTNIVUoyM0RFZnZDblJwTEFpSW9WYjhB?oc=5",
+      "published": "2026-08-23T04:19:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -174,18 +199,6 @@
       "published": "2026-08-23T02:14:22+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
-      "summary": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBLbDZLTVJiWmNOdzM1TE80Sk9uM0x2Q0RNNjZyQ2NpWFYyMUMxUVI4bW9mQU83OTctWWE4Q3JkMGtMN1k4UFlPX2U0ZXVMVUpyalNTYlQzQkZZemtYVzBjTUNPWkRqQ25jRjdMMkxkUXZrbzQ4WURPYlVaUWl6YjdR?oc=5",
-      "published": "2026-08-22T21:08:07+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -213,6 +226,30 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Queer directors are saying no to HBO’s “Harry Potter” because of JK Rowling’s transphobia",
+      "summary": "Queer directors are saying no to HBO’s “Harry Potter” because of JK Rowling’s transphobia LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWZON0p1ZFZuZURhaEpzdGxTWWo1R3dJbWN0SmFYMVBuY3NyaERTNXBJQU1PaVh6LThXMDVNeVdCcEd5Tk9tYUlBeHZIUF92UEpJQkcxZDN0OC1TUWFaNU9UMmM1X1A1RU9SMldaTTBiamtrR1VlczI4aDYyXzBxVzNDQVYwdXNkTXpEdFRwbWozTmVYeHgzM1NMZVBqN2VBYjE2SkxGWjdjZU5YZzMzN3JoSTAxZVA3SlN3bk52Zw?oc=5",
+      "published": "2026-08-22T13:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+      "summary": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBLbDZLTVJiWmNOdzM1TE80Sk9uM0x2Q0RNNjZyQ2NpWFYyMUMxUVI4bW9mQU83OTctWWE4Q3JkMGtMN1k4UFlPX2U0ZXVMVUpyalNTYlQzQkZZemtYVzBjTUNPWkRqQ25jRjdMMkxkUXZrbzQ4WURPYlVaUWl6YjdR?oc=5",
+      "published": "2026-08-22T12:00:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -222,6 +259,18 @@
       "published": "2026-08-22T11:33:33+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "How Two British Historians Made a Smash Hit Podcast",
+      "summary": "How Two British Historians Made a Smash Hit Podcast The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGJ0MGxpVE5JUE5oMWRNX0JKTW9HM0FyajM5NlplNTA5OFdJRmd1TUNjVFVzd2hFWWRKcGRaMkszaUgwT2FZX0JwVlNzTTRCcGpaTDBVUnFHTGxxSExVZ2otbnlnMnNQWkpsYVMzVHVaTXVoVzRFQWtwZW5DWnM5VUdnRy1CVDh0eS1sdTBRaWgtcFJ5bVV5cXN3?oc=5",
+      "published": "2026-08-22T09:00:58+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -331,57 +380,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Pentagon moves to fire publisher and editor of Stars and Stripes",
-      "summary": "Pentagon moves to fire publisher and editor of Stars and Stripes CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlNZTTg3bmR2REZ5aE5xMk1ZUWZRSmx4ZXVnTUNLQjM1aDM1czFhZ2R1MjNkYU5FeE1wRkZRQ3R6ZlhhUVV2dVpzRDdiVWRZMnZMMVJUNGFsRDJaSjNZb0UyWFVhUFpzOWlKcDliR1J5NF96VjNqRWFIaWNVTndPU1A4YWpPTlhyOUpfT0JjRHVxMWNDQ0JZ?oc=5",
-      "published": "2026-08-21T18:24:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Will lawmakers revive school sex abuse lawsuit reform in Sacramento? Deadline nears",
-      "summary": "UPDATE: Will lawmakers revive school sex abuse lawsuit reform in Sacramento? Deadline nears EdSource",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1ZzNXloa0Vjd0ZnbVR2NDRzaXVZZmRkSVFHbGp4d01SVWNXWEplMjFLNjF2WU9RZHBuMS1NaHBXQTdKTnRjdFJtdUdvWmdPVXFkZEF6LWlzMmt5RndraVlWUnNzZS16OHJCOHVfSnVlZmpQdERZUENSZUxUUzN5VnJoekZfVXBsZGdSVGZjUEJCQW5DRFN6SEp1bHhZQVdnWmZyQXIyQ1VzTVRUclZoYw?oc=5",
-      "published": "2026-08-21T18:15:39+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report",
-      "summary": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report Queerty",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXlKeWpMV1hGa1JqWUxscXpzc3JlSUpkVzk4a3FMVWphcUhTNEh6bGJSUWJxai1SMnVwZHo4SDVFWDVzbHR3eEE0T2djTTZMU21hbFJSVUp3WjEwOFZpcGdJaXNfZW1RNHBLM2dfWm1iZ1lQOU1FRHdBSzVEdkJCSVJ3b0FKRzd3dEZGLUJhSFl1Rmw4aWZmOXVSLTdheF9VeHBmbWY2Q3RTUUF5a2hZeVJBQnBuMWJSQ29JYnJn?oc=5",
-      "published": "2026-08-21T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "School district changes trans student policies under threat from Trump administration",
-      "summary": "School district changes trans student policies under threat from Trump administration LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdW45UFRfMVhHSTNhSlZyQmhGNGhaQVQtbjRQWXNzWkN6UXp6UHRSVTRoR0VtM25XY05LYy00Xzk0R2M5RGVxUjVNT0hoaW5pcXZYUzRhTC1DUDVzT0JsQzF6M3lqUERucEtHOXBSTjd3QWhnOWV4ajBhbFBqTzlScXVRWFZqWVAtSXRIT1dxamlKLTdlM1ZFbFFOQXNpZkZ3Q0pxdWRkZmV2Z0daUkVJa1ZpNzBFWEE?oc=5",
-      "published": "2026-08-21T14:42:20+00:00",
-      "beats": [
-        "Politics",
-        "Schools",
-        "LGBTQ+"
       ]
     }
   ]
