@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:22:51.330805+00:00",
+  "updated_at": "2026-08-23T19:45:54.509780+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -64,6 +64,18 @@
       "summary": "The national debt just hit $40 trillion. But just how big is $40 trillion? CNN",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKeC1zRW5TWGdjNlVYd0ZPeHg1WTRvNU92OHBZNUpGVkkwRlJXSnFGX2VEU0ZUZGxNLUNlVmZ1c2RTczFFTlY4Tzg0X2ZialNuNFF6RF9CTmszM3VLbEpFU2t4LUpRejc0eElWS2N6dk56QQ?oc=5",
       "published": "2026-08-23T16:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "summary": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2RyLXFQbVpocEFDRVQ2OERLNnhMWGdfUDVtOExBd1I4OXhKZW9BZmxHcXB2SmpHbE9XMnhlQ09oZTZPLXNUTDBaWUxYOW9PYk55cFc4UEtVODVyU0tWSXhfbVpseC0xaUQ2VmtJcWF3REJEUjQ3VGpHblJCRG1peEw1cUZHcGg3MHJaQg?oc=5",
+      "published": "2026-08-23T15:07:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -174,18 +186,6 @@
       "published": "2026-08-23T02:14:22+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
-      "summary": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBLbDZLTVJiWmNOdzM1TE80Sk9uM0x2Q0RNNjZyQ2NpWFYyMUMxUVI4bW9mQU83OTctWWE4Q3JkMGtMN1k4UFlPX2U0ZXVMVUpyalNTYlQzQkZZemtYVzBjTUNPWkRqQ25jRjdMMkxkUXZrbzQ4WURPYlVaUWl6YjdR?oc=5",
-      "published": "2026-08-22T21:08:07+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -322,18 +322,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Body of New York grandmother who went missing in Las Vegas found, sister says",
-      "summary": "Body of New York grandmother who went missing in Las Vegas found, sister says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXhUX1JsRGJZOUhPV29MVDlpdVdaczV3Z2ZiNXZGaFFoTUdkRlVYbW1IZmwxVXdJeU85Q0hadDF5ZWludWN2c0YwOE9tY1lhRGZNRjZNc0tvV1NVZVZRYzhWY3BFcVdVLVFSYnNGZkZnTVQxSjQzejl5UTIwOEMwMWVEYS0zR0tfWjIzZkdoVmZoX3poX0xmbkRZX1c?oc=5",
-      "published": "2026-08-21T19:37:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -382,6 +370,19 @@
       "published": "2026-08-21T12:59:18+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Former CIA officers warn Trump's administration is reviving the Lavender Scare, endangering national security",
+      "summary": "Former CIA officers warn Trump's administration is reviving the Lavender Scare, endangering national security Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVVOazl3WUlXWF92NGxaWHpQWUxUeEM2UndjUnQ0OU50bkVJeWt5bDBKTXJhV1F4MjQyZnBBOWUzVDRMeV9KVy14QUM2M3NBd2J1OE1xbzBNekNHVk1NZlNSVFdiRHhxX3lDWTd1T2tRSUVIZ1BjLVBOMnU5RzVRLQ?oc=5",
+      "published": "2026-08-21T12:48:12+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     }
   ]
