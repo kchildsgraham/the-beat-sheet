@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:25:13.995125+00:00",
+  "updated_at": "2026-08-23T02:45:48.935548+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -32,6 +32,18 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Washington D.C. ready and set for historic IndyCar race",
+      "summary": "Washington D.C. ready and set for historic IndyCar race NPR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVdEQmhLYUVidlZvRUt5cFRkcG9ELUNhMkdpYkRyRm5odWRGZEdUWndTM3c4UElBdHFTeFdiWWhJUWJibUNFTldhS3JLa3h2eURwanlnLU9lTFpKZFlac3FVbEI3WkFjNmQwOXdpWmhwaUZiTzRvSEdxQW1kWkJRNkgzUEpPV3lsUVlidUVSNU96cEFjalJ4S19FbFFwTDJt?oc=5",
+      "published": "2026-08-22T21:30:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -51,18 +63,6 @@
       "summary": "Trump administration's 75-country visa ban was illegal, judge rules NPR",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdURzS0F5VXV6cmRBNTl4dTdIbm5fOXFqTDFFNmkyZS1FZ0wtUTlzRWVMZkEyQlNNbmpIblF0SURNRG9OODh0TEozWnZNcnZVcVN5MlZPLTJCQnktSEpzdldwN3ljWGt1bHpVZkJHZU1lVW93Mjd4VVFZUmZGTHhSTVFSZG1ibTRVdnZIWA?oc=5",
       "published": "2026-08-22T20:53:19+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-      "summary": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGlnMVo5R0pLVThKTDJzc1h1XzNzYkd2VDgwc2Z6NnNvcUIxaU9qT0J1a2pnMjFJWUdpbVNmZHpxaVdoMFRPNjdGeVpKNnd3TVota051YTV4cVR1NkdLXzVwc1VUWmF6TzRFaHZSNmgtU1BUYnVpS3UyYVFaUHZWS3RUdUwtTldMd0dCN1pYaXNYdHluSDZrUWhxWUUwNkNvRm1BYWNn0gGrAUFVX3lxTFBKYmlBNGZJaXNJQlJBMzV3ejJrdGRRMDNPR04xaF9SeTNzS1hiZ0V4al9CdnJpY2FaMXpCNTk1Xy1DMXJxVUVkdUhPaGZtRF9hdkRqNVMyVmF4eHAxU2wteUFnUGVNaFFiZzdib2ZrSW9ZQ0lMeHE0UlZ4cFM5TGxVc2pfemc2UjFxcTR1QmE2REFLWV80a1VpMXhGRFl4eXhsU3hxblVhOXV0WQ?oc=5",
-      "published": "2026-08-22T20:34:13+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,15 +140,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-      "summary": "Opinion: Mr. Rogers keeps finding a new neighborhood NPR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmFVQU0xOEtENy1TV3ZFT0ZsNmd4MGktY1Z2X29LS2NtRkZpNkFodHVuVTZFQ3ZxanRpUFBpOWYwNjJ1UGRIQS1zNGE1RjJsaHR5a2lHN2I4TEdMU2JmcVFQQ3BIY0dRbjdnTkpkZVJLTXRLVEIzZVhFOE9qYjROUGtoQ3Iwck9UQTJPTGRjdlpFbHhURUpIa3NqRQ?oc=5",
-      "published": "2026-08-22T12:00:00+00:00",
+      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "summary": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmI2WjhqdHFkMnFON0xaNV9FWW13YUxwZ2h3YXlmdEpBUDItcEhydkVhYWhIOE4yeEdDQ2VQLWQyT0ZzUEdfV05Walh1OFAtU1V0aDFWUjNfSlYzUTdfSHZ6RmdXV0RxYkhCV04xOVBtX1EzTWdXZFF0VVNpaXVZdXR1Ql81Z2tSQXRDNFpnaVVfY2pmRF9BaTlldFYtT2di0gGmAUFVX3lxTE0zYXVjeXpjdXJMZDl3Rl9lUDVNSmU1Z0ZNcmtlSEZxVzRaQzNpdWdIZ0dCT05fTElGMUdtVUdWc2V0YzJGbFNWMk01ZHV4MUtfSmtRZF9HM0JkNFZWa3JUS1pNY3FFb21YZjZCblhGSWxMa1JZY0hRSjJ2b2ZrRXBqY1Y2Ukt3RUFlcnZPRGVlYjc5eGtXai1CMVlEN0RZS2ZKNWF2eHc?oc=5",
+      "published": "2026-08-22T13:57:48+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -197,6 +197,18 @@
       "published": "2026-08-21T23:27:18+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health",
+      "summary": "Swollen eyes & gasping for breath: People have serious questions about Tr*mp’s health queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER1RHpWS0V4WGVlbnR6V3pORnBTeHptaU40VzJSUmdQSW1uY05pVjBvUHhXVmI3N3ZiSVlqd1JoQjg2SDhERm40ZTgzSU9fa1FES20yRmFfSmVWRkQyWndBVEgyWlBKQ2pPeGFqNlFGY1hvRjBZRFlmc0p5WnI2bDBtZk9TM0ZOY1BYeFJSRTZFR1gtZ1I0am9JV05DSGUzZ3QzVWhHcVFaMU1jVUhDT1ZGTWo?oc=5",
+      "published": "2026-08-21T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -272,14 +284,16 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report",
-      "summary": "Fresh Epstein trouble heads Tr*mp's way after damning \"follow the money\" Zorro Ranch report queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXlKeWpMV1hGa1JqWUxscXpzc3JlSUpkVzk4a3FMVWphcUhTNEh6bGJSUWJxai1SMnVwZHo4SDVFWDVzbHR3eEE0T2djTTZMU21hbFJSVUp3WjEwOFZpcGdJaXNfZW1RNHBLM2dfWm1iZ1lQOU1FRHdBSzVEdkJCSVJ3b0FKRzd3dEZGLUJhSFl1Rmw4aWZmOXVSLTdheF9VeHBmbWY2Q3RTUUF5a2hZeVJBQnBuMWJSQ29JYnJn?oc=5",
-      "published": "2026-08-21T16:00:00+00:00",
+      "title": "School district changes trans student policies under threat from Trump administration",
+      "summary": "School district changes trans student policies under threat from Trump administration LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdW45UFRfMVhHSTNhSlZyQmhGNGhaQVQtbjRQWXNzWkN6UXp6UHRSVTRoR0VtM25XY05LYy00Xzk0R2M5RGVxUjVNT0hoaW5pcXZYUzRhTC1DUDVzT0JsQzF6M3lqUERucEtHOXBSTjd3QWhnOWV4ajBhbFBqTzlScXVRWFZqWVAtSXRIT1dxamlKLTdlM1ZFbFFOQXNpZkZ3Q0pxdWRkZmV2Z0daUkVJa1ZpNzBFWEE?oc=5",
+      "published": "2026-08-21T14:42:20+00:00",
       "beats": [
+        "Politics",
+        "Schools",
         "LGBTQ+"
       ]
     },
@@ -305,18 +319,6 @@
       "published": "2026-08-21T12:48:12+00:00",
       "beats": [
         "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’",
-      "summary": "Lindsey Graham’s sister Darline, a current U.S. senator, admits national security is ‘not my thing’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ182YjY0MlZYbEdUSk02bE5EVW5wU2VXeDV6bXZiMHUyVGhYS2NORnZrN1htanM2M1ZoTFN1Y3o3QlhkaFptai1QREdlNUY4R2dWcWRkNW42SDZiVDNxU1VhcnJUR0tJNnUtR2ttSmtManlsNTJxRU5Rcmx4RTFYVF9kZXBLY0R3aWw2T2Z3SQ?oc=5",
-      "published": "2026-08-21T12:30:12+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     },
