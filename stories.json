@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:41:55.563257+00:00",
+  "updated_at": "2026-08-24T19:31:01.698678+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
+      "summary": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFnOTNLUVh4eHVUc3F4aC1lZFNDbGhSQzZfWVpZcDdWWEY1WE5OUldLRmFTV1hzOHFhZ3NaUFBmSlZSUDBKSjFFZzN2dGtzdmhIQXdHM1FlYXN1X21DcnlVZHM3ZHo2OEl1cWUxRnl1Q01kVm9vcVFndU9LR3BrbWNLZw?oc=5",
+      "published": "2026-08-24T18:37:48+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -32,15 +44,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "How Big Tech Captured American Schools",
-      "summary": "How Big Tech Captured American Schools The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
-      "published": "2026-08-24T17:59:04+00:00",
+      "title": "Fentanyl investigations and seizures dropped during Trump’s immigration crackdown, federal watchdog says",
+      "summary": "Fentanyl investigations and seizures dropped during Trump’s immigration crackdown, federal watchdog says CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHAtbDN3QzZwbUpOdWR6WW91WUdEcWJRNWg1dDBWWEhtV2tQeW5pdFVoVk51enZmdG0yZzV4OFRXQ2NoNXgtaXBiV2Q1WnRfbnNfZWx1Zm90OG5MeHNaLTNtejdDWUNxRUF2UGJqUWxlRWYtTmdWNDduaDVZd2M1MnZUSDBSSjQ?oc=5",
+      "published": "2026-08-24T17:46:41+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -116,15 +128,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The latest dangerous social media trend that ‘gamifies’ deadly driving",
-      "summary": "The latest dangerous social media trend that ‘gamifies’ deadly driving CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdldKM3FGR2VRbXZDWFFIWlZQc0UtUkV5OFlDbjN0bDB3TzAyUGt3Nlh2bWJzMXpoTkwyZy15MGdlNV8yQmo2QVV5WVZaYU1GVlBFSE5WeG9DWmRsNHQxaEtRV05ucElfMkVqNUxUd1Q4N21jb1laNEk3U1ZfOVlyTGVETXUtTWpKR3dNVXNtbw?oc=5",
-      "published": "2026-08-24T16:24:50+00:00",
+      "title": "How Big Tech Captured American Schools",
+      "summary": "How Big Tech Captured American Schools The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
+      "published": "2026-08-24T15:46:00+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -158,7 +170,7 @@
       "title": "3 ways states can support innovative high school principals",
       "summary": "3 ways states can support innovative high school principals K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUw1aEdGT21SMTh5cEZqanlxMWV3U2JjcVl1YU40Y19xMFNkYkhlVnUxZ20yZ0F4UVEtREVUZzBOMVhCWk1YZFJHb3V1TERDNG1zVk9qbVJTUUkzeXdxWE43MXktLV9lOHlGTnVZbGhsbWJIUVRkcGFBWHc5Qm9OTHpNSE9IZm92QldqZlpjZFRGRDVGWld4RlctTDc?oc=5",
-      "published": "2026-08-24T13:18:45+00:00",
+      "published": "2026-08-24T13:21:50+00:00",
       "beats": [
         "Schools"
       ]
@@ -207,18 +219,6 @@
       "summary": "Natalie Harp’s Devotion to Trump The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1NwTjBJNm55SUE1UzBpRlMtb3JkWWd6SDVzNHFXbGozMkI3amsyVGpoMVRhNFo4QjNOdC1GdUZ3UHRncW5UdjVYLTdNVmY2ZWhpcnpwZ3VoTzktcHVmT3I1REczdDJzODlxOVhyTlJjSjBLc1pnNVg0UG1qR0ZQLTVSbVlnV1RGeUtWekNqLVZpNVpQ?oc=5",
       "published": "2026-08-24T10:00:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Netflix, YouTube and Amazon Want You to Watch Everything From One App: Theirs",
-      "summary": "Netflix, YouTube and Amazon Want You to Watch Everything From One App: Theirs The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1kzSkJyTnlBSFNJLVVadG01U040ay1FR2dQOGhSbU11Zmo1VnVDOVhoMDk5TU0tVkExRXl4bENpcXl6aktNQXVXbV96SThWUjViU1R6VkFISzM1VFZEMUU5bFM5aHVScllrOFV0aHQ4MzVIak9xZEZ3NkxCcVZ6eVBrZldEcFBjM3FCay1saTctbndhWjR3WnFVb18?oc=5",
-      "published": "2026-08-24T09:02:58+00:00",
       "beats": [
         "Politics"
       ]
