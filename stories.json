@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24T13:54:49.178129+00:00",
+  "updated_at": "2026-08-24T14:43:22.947128+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,368 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Ex-NBA center Enes Kanter Freedom ejected from WNBA game after being confronted by Chicago Sky star Natasha Cloud",
+      "summary": "Ex-NBA center Enes Kanter Freedom ejected from WNBA game after being confronted by Chicago Sky star Natasha Cloud CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRThZMGJqY1NxZTljSlFEcUJXamVqbTdzbUlXZ0hBRC16eUtsSUFNVjVnYnpaeW1uRHQwNGVPSzZsWmxGb2pKQWdyUmFyTDVBNlZEeVVQbkt3Q3Uwa3dpanFUUklKelczREFydFQ3UWwyTFZ4LXUtbkxLRHdPZzlXYkRaWWpHbmRyel9QT2RwUjVRVFVTWFZB?oc=5",
+      "published": "2026-08-24T13:56:34+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+      "summary": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONm1oalE5dXROWVR2UEowQ3VDM2hNZ1ZVNTlrdm5GcjEwandIUDMtQVdOMjU3d0huRVBXNGpydjVJVmZrY2ZDMGhZemJrRFpRLThEcUdtbUZnM0pQNTFuOGNOZ0J2ZzdwR1REWUZ5N1g4MW1IR0lnNjZ3T3VzQ2hrdW1haGVFQUk0TzJqNFR30gGTAUFVX3lxTE1rTno0SmFPR2ZzS2JqQzJWcmtnbUhCMHZJcUc4WDVuR04wWFlaNnJ6Sk1ibTI4Rml0WnRPQnB6THpLemxMOU1tQkRicHhHR0RiR1dCNDU1VE1sM0pkYTNkZFF4RE1tYWNxZzBJTkV3TTJTNDdjMmFzbjFfYi11NW41dXlzcXhYeDE1MXZ1eWxPVDVLYw?oc=5",
+      "published": "2026-08-24T13:32:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "3 ways states can support innovative high school principals",
+      "summary": "3 ways states can support innovative high school principals K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUw1aEdGT21SMTh5cEZqanlxMWV3U2JjcVl1YU40Y19xMFNkYkhlVnUxZ20yZ0F4UVEtREVUZzBOMVhCWk1YZFJHb3V1TERDNG1zVk9qbVJTUUkzeXdxWE43MXktLV9lOHlGTnVZbGhsbWJIUVRkcGFBWHc5Qm9OTHpNSE9IZm92QldqZlpjZFRGRDVGWld4RlctTDc?oc=5",
+      "published": "2026-08-24T13:18:45+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "summary": "Jim Cramer's top 10 things to watch in the stock market Monday CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHI0Q3lUYS1wMk9TWWhsanJkMVRwQkQtZjFYVXVYa1dvd1RXNDlNMUJOaGhJRUJpRU5yYlpmOERVQjFMaC1iaFlUUFV3TFdFbzVlQ1Z3cFZZU1dZVF9PSUVxeVhTSndBRUk5Mi1sVGtrRWZLWHYzU3FfUTZzUThGTWEtLThUaGFOOERWYzl1dWNzY1VlcXpYM2U4VkpCVjg?oc=5",
+      "published": "2026-08-24T12:39:03+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'",
+      "summary": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EekJabXFaenV0eXFYMWRIM0dxbzMyTzBRMGN4Zzd1bUNQVlBiV3VMVTlfZkcxNEs2ZU95TTg5dEJzS3kxbTg1SnBNM1RKZWl2M18zRU5Ea0ljY0k5d0p6NnpJZ3NGNWVkZmRER3VWaE9EbXA1LXBvZdIBfkFVX3lxTE5NWEtlcWFWSVFxdEdXVzN3STVEOG90UWgtT0c0UTB5aFpJWnZ0SDR0NHNWMTFTbGlENlRrQlRMMmZOYjdYWmpzSm0xQU80T2w3RlZEamZ3SFJ3MFJidzl6ZTFSa3lYSzFhY0xLeC1YSUoxa2M1UjhiVV9YRmVCZw?oc=5",
+      "published": "2026-08-24T12:32:09+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "summary": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
+      "published": "2026-08-24T12:26:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+      "summary": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S. NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BGU1d2aGJlYWNZLThPa3ZYRElzLVBTQmg3b3JYTHhUQVM4UVN2Rkk0MFBmelZJZENHQlZEWjJSQjFaZHlIOUh2bmltSlktRDFTMHF0OEpIMUtUdko1ZjFkSTJNeFFxR2swb3gzRTBiTWl1X0JFYnUxUUtKUzF3QkRISG5fWWZ1bUFYSmdmb25jSHlvMzJrQ1JrOHlPWVlNT29fOVBmdzNlczVzVmlSckNVYUpzSnM?oc=5",
+      "published": "2026-08-24T11:27:44+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
+      "summary": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2ZXdkdEX0lOZ2tmcmt3OEw1cFFRU3FIQS1IY25VYl9LRHQ1UFJrQzJIOGxEbHVUdjVTMnhONmhXTFBvZXUySmNNYURLdFJoNS1qV3hPZ19wRE5LOTZZVlFZQkluTnFHNXFBNm1FalBjbTdfVEJXb0ZzYWdDVmNiS0N4aw?oc=5",
+      "published": "2026-08-24T11:00:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "California AG calls off Paramount settlement talks, accuses company of ‘playing games’",
+      "summary": "California AG calls off Paramount settlement talks, accuses company of ‘playing games’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmNZMDBiSjdkX0tZRXdNRm5IY2FFWl9ZVWZ2UHl4ZWl0OHI5UkcxS0NXaDBpTEZSalAxRV8tSkhncXdfZzNqWkZsejc1Z2dndXZQTnNLOERWTlM5WE0xMWg5cWtXY1RFeXRlSkpYaXVwdFBPS2RsTVBFN3hRcmpjcVItaXB5dU9UQUc3OXBSZVMxdEZGRkJWRm1DNA?oc=5",
+      "published": "2026-08-24T10:08:05+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘Aura farming’ began as a meme. Latin American youth have turned it into a competitive sport",
+      "summary": "‘Aura farming’ began as a meme. Latin American youth have turned it into a competitive sport CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3ZDVmRPYzJGemVEOUFNLU5nRUROZk1tM3BoRW1GYmNocE1xMXJsM2xBRXh3MHdnanloZFF1R0tDN0RGMkRZSVZ5TEREeEozVnVnV2ktZ0VkNXpRMjFlRDhDOHZVY3pkbXRSZ01Ccm9Ed2dNYVNXdnpqekp4R0s4WFdQWkY0RHU3Y0ZV?oc=5",
+      "published": "2026-08-24T10:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: Education Department issues Dear Colleague letters on discipline, tech use",
+      "summary": "Week In Review: Education Department issues Dear Colleague letters on discipline, tech use K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CelhuX0ZSNE9kOTlzTUY5LVR0S1RtX0l1Uk5XQlF1Y3djaTJyZHpPdXFKRlMzUzVpQ0VyZW52OTZ6U0x3Ny1hYml3Ni1OcElXLTZmZGtZVU5LQ3FFV1FiT1lpT1RkbDhpWEtZS2ZDNWFYSnRy?oc=5",
+      "published": "2026-08-24T09:14:11+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "It’s One of Our Greatest and Most Controversial Novels. How Should It Be Taught?",
+      "summary": "It’s One of Our Greatest and Most Controversial Novels. How Should It Be Taught? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0huYkkwakp5MUg4QUp0UlpSc2llYk5ySWpZeXdlU0ozZjZvMl9raWFZejFBcmZZeTdMVnA1NjZ2VmY3Vi10dGZWbldwblpiVjNtLUJHYTJsT2xFZ0VSaVRjSFB4d20xcHZublRTRzFYdG5FaTNueGFWd2liTWFYTWstMEg2TENHV2taR1VQcjlOX3Z1TEE?oc=5",
+      "published": "2026-08-24T09:00:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
+      "summary": "High-intensity sprints can trigger molecular changes in the bloodstream NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZzJYc2RGQWdLRlMtVDhPSm5GbWZlYnZfSlNkb3JVdjFfZFpaYXAtalVUYm0wejh3ZzU4b2ZiN0VLVkVZZjJ4dW85S1N1bkpGWlcxbUc3Ul9YZmEyYnBDcld4NVNNT2wyYnB4ZFpDSDR2OWM5dHJrbFlKLWpZRVhBcC1tMjg3R0RmbFZpQ05LMA?oc=5",
+      "published": "2026-08-24T08:45:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US Army attack helicopters crashing at historically high rate amid mechanical issues",
+      "summary": "US Army attack helicopters crashing at historically high rate amid mechanical issues CNN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGxwVk1FQWVkZHQ3LWlGdVRlendyZXAyVnEwbDdNZnlkQXVKLVFNR1I0SmdVQndUdzNVQ29Uc2o0ZGE5TXhZWGtlMWt6dWxXXzAyc0xJTTBBRmZxa1Z0UDhzQVF4d1hGMm5jUWNlbXhPUVJQcjhnZWhpdmVxVVQ1YWJMTVZNTTJRQ19uX1BXajZrR3FnR3dWTnBOZkJQczVqMzBj?oc=5",
+      "published": "2026-08-24T08:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "How three bills to close California’s student achievement gap ran aground",
+      "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAfYBQVVfeXFMUEg0ZnhYaGJldk9SWU9MZzNBQWpoSlpPTi10cXZHUW9oZzEycXp3MGJYV3hPTHlzZG9aTDZsZkZzSHVaYkJOdG9WVG1lXzZRZTJvVXpqc1ZqcVRXajZOY0V4SnVmTDRKUFl4eVBHLTUtcThKMkkwSl9iN1NOVzRhazZBQ0FNWjVBdzNOUGY1RzkwRWhPQnJLVkZiYnE2bU54aUdRNjZ2cVRsUHk1QVBFTkE3X1dsRC11bGlLWEVPcFZjUHQ1dWVQQXZtdk1jcXNMVEt6UWhxRlJtcTI3TnBBQ3RleEdVS2N6ZDFwb0NOdjRLTlhCb3hR?oc=5",
+      "published": "2026-08-24T07:16:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Six Principles That Turn Decoding into Reading Fluency",
+      "summary": "Six Principles That Turn Decoding into Reading Fluency Education Week",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlg4QWN4WnNvbTJiSS1lenJ1bDBLSU5pZnFYeVhGSzdMUU1wbmN6SW9kODU4OEs0VkpzMHdaajJMc1FrZUw5aVM0Y2k1WkpvUFB0OHRNZ05DNGVIZmJMNHRocHhJVzJKaGoyY19FMzhmX3R6dFk0RDV4dDZYZTZpMWRONHVOOG1IcHBPNkFkcjBUNlVzbVRlVDVGUjdadw?oc=5",
+      "published": "2026-08-24T04:03:48+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Small earthquake detected in Morris County, New Jersey",
+      "summary": "Small earthquake detected in Morris County, New Jersey CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTno1M2RMcjZKWnc2aUx0bjFZUmRYR1JzeUNTVWs4SUpQWExIQ1RkcHZzcXJ0aW5uc2hWNWxaeTVxWE0xbkp6RlVRbm52ZnZLRV9HYkM0cmIxa0VxdkZTQWdIRFVTZlJSbEQxUUNMX0pDSEpqNUZPUDdJaGJpUDh3WmxfMmNueFBM?oc=5",
+      "published": "2026-08-24T00:27:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Woman shot and killed in Essex, marking 4th homicide in less than 2 weeks",
+      "summary": "Woman shot and killed in Essex, marking 4th homicide in less than 2 weeks CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zWC1JYlNVamtHWnJrdjhsV2tFeEZhdXA5VzY5NnlZblQ5MEVvYmZEd1RMTXpsTW1Deld4a2tkNkx6TTBiTXBGSVRLd3k0Rk9FZW5rY08xMmpSMHpwQ3NJ?oc=5",
+      "published": "2026-08-23T21:03:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "NYPD probes fresh video of people climbing out of Manhattan manhole",
+      "summary": "NYPD probes fresh video of people climbing out of Manhattan manhole NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1NRZEZCOGF2RjBCY2hJb0c5Z0I1dHhzWVgxYW1ra1NxTG4yazAyejB0RkY2ZW0zZ0dfQzhJdy1ralpmOV9LZXVzLS1SSnR6WDZTZEtneUVBdkF2R0xnT1pUcXlEXy1CdTc0Z0h5bUUxRzhhQ1NnNE9BUVdjMDhKRVlkV1V6X3hEV3FnTFI2MnU2eDRadVNEZks0S0VlTWx0NUJnbkJiaTc?oc=5",
+      "published": "2026-08-23T18:36:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Marc Jacobs on Luigi, the men of Mister USA, & Zara Larsson’s message for the dolls",
+      "summary": "Marc Jacobs on Luigi, the men of Mister USA, & Zara Larsson’s message for the dolls Queerty",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkR1czhwbDlYaFlEa014dndoY0FJMFd1SEMxUkhQaUdDbjJ0YjBhM1JNSFh5YkhZNDE0aDhpQVh4aVVPQ2ZCZUdfUmwzRU5TVm5OU2c5ZU5jbXcyMk9hd0d5RHpTNkY0NUlZMkhzb3l1UmJacUtYcDQ4WlhIOU12N2lwZVlYaW5fdThaeGdjRXQzRWtPYmswY1B4X0ZkTEwzZXRCdTFaY2MwZnV6dWJsV1Fn?oc=5",
+      "published": "2026-08-23T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Haters are targeting a beloved trans teacher. Her defenders are fighting back.",
+      "summary": "Haters are targeting a beloved trans teacher. Her defenders are fighting back. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUJFbnpxaGNtRmVlU3kzb2Q4aTZuU0QxTlhKWUN2N1hJLXBqdC1YcHhjeWhTekoxYWxVRUlra3MtbE5DSEo4Z0ViXzZjeUVMTUlaRlNxTWltTkVDcUViR2lDc05sQ0FDczVvLXo3dFBVMDJ0dExWQ25nTWYzaGRPUGVHSVl2aW4zM2ROY2l3QndJZzJBX3FXaTRaVC12MHRqQ1dWaDM3Zl9oYjl5QTI4dlZndw?oc=5",
+      "published": "2026-08-23T15:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Gays name their favorite queer comics, & one surprising name stands well above the rest…",
+      "summary": "Gays name their favorite queer comics, & one surprising name stands well above the rest… Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU1TRy1VZ25MSjF2YU9BSmhzQ1JjM3Y5RnRab2VvakNpNWpDSXlMWmNXVnV0LVgtYkZRYzBsRmdScmRvNUI3SG51MDZkY1FjdG5McktwWHZibXA0dW1RZC0yVFNhbzd6bnE4VG9NTXJ5SkI2dXdPVGhIMVBGYXh1MmdBYm1ydUpocHB4S3l1NG5vckhBRkdidjVGeXJ3cl9WdjBjbUJSOFotMl84NkdZN1NKWnJ5dWFQRmc?oc=5",
+      "published": "2026-08-23T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Book excerpt: \"The Serviceberry\" by Robin Wall Kimmerer",
+      "summary": "Book excerpt: \"The Serviceberry\" by Robin Wall Kimmerer CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2tWRVQ4R09DVGNkUGJBckdZWEU1bTk5b1phQUgtUFl6N25kSUVDU1gxT0ZOUWFMdUdadVZiUk1ualhQaFRMNk1LZmgyUXJaN2ZkU1RQTzBlTFU4OTdERjdJQllObDFUdGtDRmNNUzU4Y3czREpLd3VRZzhEeEc3WXZ4Q0FucXh4RHc?oc=5",
+      "published": "2026-08-23T14:47:09+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Robin Wall Kimmerer on the wonders of nature",
+      "summary": "Robin Wall Kimmerer on the wonders of nature CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdVZoSEpJOUQxTS1Wd1RUYnVEUDNadGFwUHpPWDh2SWRqTjdJOXJmTGM4UERlb3E0NWQ1RU5ObUFzM0VWbVBlWlZLdUFZN2hyV29HendWMzNUUEZqOTctRWVIdU9TMEdzT1JSN210WlBVWkNGVmtMYkFIX0o3TUU?oc=5",
+      "published": "2026-08-23T14:25:32+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "summary": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2RyLXFQbVpocEFDRVQ2OERLNnhMWGdfUDVtOExBd1I4OXhKZW9BZmxHcXB2SmpHbE9XMnhlQ09oZTZPLXNUTDBaWUxYOW9PYk55cFc4UEtVODVyU0tWSXhfbVpseC0xaUQ2VmtJcWF3REJEUjQ3VGpHblJCRG1peEw1cUZHcGg3MHJaQg?oc=5",
+      "published": "2026-08-23T09:02:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump wildly claims hospitals are performing ‘reverse surgery’ on trans patients ’at my order'",
+      "summary": "Trump wildly claims hospitals are performing ‘reverse surgery’ on trans patients ’at my order' Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzhDS3RWa1ozSmNEQ015ZHRGU3lZWU1vaEY5TnNMVmpEUmJrX1dfWi1ZaHBLQTc4Vy1NR0ZBVHFoaEMzLU40T0pmYll2cVBsQ0Y2cXZTS2NldzRzWVkxbkRlcWk4YTh1WUQ4MnM2R2xXSmpVcTQyUHdodHlnbGRKQld3?oc=5",
+      "published": "2026-08-23T02:14:22+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse",
+      "summary": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "published": "2026-08-22T18:48:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Gay Republican group abandons transgender people, calling decision a return to ‘moral’ clarity",
+      "summary": "Gay Republican group abandons transgender people, calling decision a return to ‘moral’ clarity Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3dDRDVkdmQxOC1USExKOUM2UVlQWGx6NUNMY19qdjBkbDNabFNWbXhFVDQwVVViOFZzTXRYZWRZbjRfOVV3TkxFeEJxdFVPZnVMV1dmem9TUHE0ZW42TFpjWWNFSjJGVUxyT0tIQXYxaEd5cXhJUExmeGdVUDBXYlhVVHBGbWFX?oc=5",
+      "published": "2026-08-22T18:03:32+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Queer directors are saying no to HBO’s “Harry Potter” because of JK Rowling’s transphobia",
+      "summary": "Queer directors are saying no to HBO’s “Harry Potter” because of JK Rowling’s transphobia LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWZON0p1ZFZuZURhaEpzdGxTWWo1R3dJbWN0SmFYMVBuY3NyaERTNXBJQU1PaVh6LThXMDVNeVdCcEd5Tk9tYUlBeHZIUF92UEpJQkcxZDN0OC1TUWFaNU9UMmM1X1A1RU9SMldaTTBiamtrR1VlczI4aDYyXzBxVzNDQVYwdXNkTXpEdFRwbWozTmVYeHgzM1NMZVBqN2VBYjE2SkxGWjdjZU5YZzMzN3JoSTAxZVA3SlN3bk52Zw?oc=5",
+      "published": "2026-08-22T13:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "JK Rowling issues surprising message of support for trans adults",
+      "summary": "JK Rowling issues surprising message of support for trans adults LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVk1TWpmQkg0R2VKYm5xQ1lpcmF5YjIxYkhvTi13cTJDQjBoLUxBZEt2a2lWUEpqcDJOZzk2M1lFSjF6TEtCUmtTcjg2Y3poVkI0MWhBc3ozM1N3S2UxT2xFMGxMNWJqQy1tYWx2eVNOM2VpU3JDclBZTFRZRXhmX01vbzRweDFtd3ZWTUxzTXJGbEQ5MW9VS1Z3OU15OFpyYzdj?oc=5",
+      "published": "2026-08-22T07:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    }
+  ]
 }
