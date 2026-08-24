@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T07:00:56.294996+00:00",
+  "updated_at": "2026-08-24T08:11:21.549109+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,27 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US launches deadly strike on alleged drug boat, believed to be the first in two months",
+      "summary": "US launches deadly strike on alleged drug boat, believed to be the first in two months CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1BjbWxnWEJMVGZDQlBRcG1qaWF6cGRSVDExMV9ocWs0a1U5MHVLa3FycXB3YllfQlM1cHdaNTN4X0hTd0NoWEljc2pScFE0R3phNHJYYWVEUUQxMVR4U2FYWnFkMHozV2J1clREcGdOOXZHS0N2eDhYR1dvdFFNSW9EeXZvVHE5aUxNSjlB?oc=5",
+      "published": "2026-08-24T07:09:32+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'",
-      "summary": "CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWx2bjdlbm9MOENxMjZON0djNk1XMkg2c252QUZ2UkUycTlON2x2SmhaQ1B3QmZkbHZWQ0QwXzhnem5BS2xPU0V6V2QyTFZJU1hoY0RwLVpwR0FvQ0tQdW5VcC0tajhiNE5iV19VTmVjM0xtLVJtTWJOLUE1MU5EQdIBhgFBVV95cUxPT0EzV056aThwc3ltX1E5Z1ZxcGlxVzdOZTF0ZEVhbHZBbU1HYXZVdnhXQzhkakdyVHFVam5KUktndFdmLXRkRUJTZnMxOGZoemJPRlZmU0wzdjNNTzNRWGIyRjZVcGtvVERKazB2NzRlWUtSbUs4LTA4dlJaYV9jMmt2ejV4dw?oc=5",
-      "published": "2026-08-24T06:00:37+00:00",
+      "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
+      "summary": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVR24xbk45QlU3YlEwcXM5QzVwSVNpSHV6c05rcmZzWnB3YmZqOG90T1lXazQxSjBSVFl2OVpoMW9UWWt2UmhqTmJBb0xOdXZoV3ltLUZKZzE5eTVIcTA1Z3FvbERkNzFrMkJkcWJONDBHUFhK0gF6QVVfeXFMT2ZXVmdtb3BiaTFwWVhCYk9uTVZvUUZzNm1CQWI1dHd1LUhEbWNXOXBiZjRXSlowbXAtaWxDXy1jdUNSbEVEMDIwVkhFbGFFZDgwR3FGUmRQamV0VXF6bGJsNWRLcW90QUt5LTN2cGlDTUhndlFPV0tQNFE?oc=5",
+      "published": "2026-08-24T06:27:48+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -51,6 +63,18 @@
       "summary": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages NPR",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdDVIeHJ0SWh6UGhqb2VNX3piOVRUNklHQi05X3VNQW16V3NFbzZ5cFhwekxHd1JLUnlwSmwtRG9FdS1aUFpRaEc2d052ZGtudDZVbGp2bVZjTlVuOFFwV2ZMekhOSTA5S3ZnTGVubEtqY0hlakFhaEhKTkZYdlROaUFvZ3NVaVNiNEpjdzctUHdIWTh4X25SQjVsRHNTYkQ0T2ZkMmRwQTJ2STc2TFBaMEpldWU?oc=5",
       "published": "2026-08-24T03:47:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Enes Kanter Freedom ejected from WNBA game after he was confronted by player",
+      "summary": "Enes Kanter Freedom ejected from WNBA game after he was confronted by player CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aS2tTcXVKVURTdDBEZ0dhVzVGYWZQWGFMMWptQkRDLWNpRk1fWkhZS1I3Rk1BM3UyNGpkMlp4Zmdsa1FybGxqWnhtTThkZVE4Yk5PbXpYV04zUDNkS0hxVVlwNzNZVHJvQ1RwRHFyakd6NkVGT0RybnlLSFplYVU?oc=5",
+      "published": "2026-08-24T03:34:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,18 +116,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Two Phoenix police officers arrested and fired after violent, unreported traffic stop",
-      "summary": "Two Phoenix police officers arrested and fired after violent, unreported traffic stop CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10dHpEMWpDV3Q1VWxPc1BTNFVjNVdKeHZNbE03RjB1OU9LSTAwRm5nV21ZRU1BbVZ4ejdkSVVMeGpGQll5UW5GbHJKZTNib1VJR00zNjlpYVBta3NIVWZiWlV1bFpQOTB1UklGc1NPY3B6RW1kZUx1R0Jn?oc=5",
-      "published": "2026-08-23T23:43:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -128,18 +140,6 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Byron Donalds’ LGBTQ+ record shows he’s no ally to queer Floridians",
-      "summary": "Byron Donalds’ LGBTQ+ record shows he’s no ally to queer Floridians LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UTXBRaGFPTlQ5Zlh4OVV5dkVac21RSkdPb0V1V0huZW15aXdURS1WZTRmS2tBQndhc0gzOE9kTHpqXzE2OHNCbG1pZFU5WnNucFVFRG54VVdNY2hYQWxwd3lUWk1fYUdUVTRWa01mVGg?oc=5",
-      "published": "2026-08-23T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -149,6 +149,31 @@
       "published": "2026-08-23T16:55:37+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "summary": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2RyLXFQbVpocEFDRVQ2OERLNnhMWGdfUDVtOExBd1I4OXhKZW9BZmxHcXB2SmpHbE9XMnhlQ09oZTZPLXNUTDBaWUxYOW9PYk55cFc4UEtVODVyU0tWSXhfbVpseC0xaUQ2VmtJcWF3REJEUjQ3VGpHblJCRG1peEw1cUZHcGg3MHJaQg?oc=5",
+      "published": "2026-08-23T15:07:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Haters are targeting a beloved trans teacher. Her defenders are fighting back.",
+      "summary": "Haters are targeting a beloved trans teacher. Her defenders are fighting back. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUJFbnpxaGNtRmVlU3kzb2Q4aTZuU0QxTlhKWUN2N1hJLXBqdC1YcHhjeWhTekoxYWxVRUlra3MtbE5DSEo4Z0ViXzZjeUVMTUlaRlNxTWltTkVDcUViR2lDc05sQ0FDczVvLXo3dFBVMDJ0dExWQ25nTWYzaGRPUGVHSVl2aW4zM2ROY2l3QndJZzJBX3FXaTRaVC12MHRqQ1dWaDM3Zl9oYjl5QTI4dlZndw?oc=5",
+      "published": "2026-08-23T15:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
       ]
     },
     {
@@ -195,30 +220,6 @@
       "summary": "Capturing an immortal photograph of jazz legends CBS News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRFU2NmtxTHBlSGExUkh4N0xpRGtjNVdnbzhnTWg1ZUZYNHhoUEY4SlVIY0pRSm5aOGVueUpxVTUwMWd4WXFXMHE1Mll5WGJZaGJPWHkzWkpuNWpPZFZpUDlVdldtSjZLWkZ4M1gyTDBPNUd5OHc4U2FJWG5ZNkE?oc=5",
       "published": "2026-08-23T13:35:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
-      "summary": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2RyLXFQbVpocEFDRVQ2OERLNnhMWGdfUDVtOExBd1I4OXhKZW9BZmxHcXB2SmpHbE9XMnhlQ09oZTZPLXNUTDBaWUxYOW9PYk55cFc4UEtVODVyU0tWSXhfbVpseC0xaUQ2VmtJcWF3REJEUjQ3VGpHblJCRG1peEw1cUZHcGg3MHJaQg?oc=5",
-      "published": "2026-08-23T09:02:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "It’s ‘Black August’ in Russia, but Putin is sweeping this summer’s crisis under the rug",
-      "summary": "It’s ‘Black August’ in Russia, but Putin is sweeping this summer’s crisis under the rug CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2s5ZHZJY2dmb25HdEk4VGNaNWFwbjVnc3lLbUxkcWg4X0duZUEwdm9fakdBVVRjT0JONDRqU1N5RWVNaTdYQmtyQzdyNFZiV3B1QWd2S01VWFRSd2tEZU11V2pFY0pPTTdGd2FWcXV0WTNvQXhxczE5a3NYVndac1hDQQ?oc=5",
-      "published": "2026-08-23T06:35:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -273,6 +274,30 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Queer directors are saying no to HBO’s “Harry Potter” because of JK Rowling’s transphobia",
+      "summary": "Queer directors are saying no to HBO’s “Harry Potter” because of JK Rowling’s transphobia LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWZON0p1ZFZuZURhaEpzdGxTWWo1R3dJbWN0SmFYMVBuY3NyaERTNXBJQU1PaVh6LThXMDVNeVdCcEd5Tk9tYUlBeHZIUF92UEpJQkcxZDN0OC1TUWFaNU9UMmM1X1A1RU9SMldaTTBiamtrR1VlczI4aDYyXzBxVzNDQVYwdXNkTXpEdFRwbWozTmVYeHgzM1NMZVBqN2VBYjE2SkxGWjdjZU5YZzMzN3JoSTAxZVA3SlN3bk52Zw?oc=5",
+      "published": "2026-08-22T13:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "How Two British Historians Made a Smash Hit Podcast",
+      "summary": "How Two British Historians Made a Smash Hit Podcast The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGJ0MGxpVE5JUE5oMWRNX0JKTW9HM0FyajM5NlplNTA5OFdJRmd1TUNjVFVzd2hFWWRKcGRaMkszaUgwT2FZX0JwVlNzTTRCcGpaTDBVUnFHTGxxSExVZ2otbnlnMnNQWkpsYVMzVHVaTXVoVzRFQWtwZW5DWnM5VUdnRy1CVDh0eS1sdTBRaWgtcFJ5bVV5cXN3?oc=5",
+      "published": "2026-08-22T09:00:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -324,10 +349,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "ICE detained a green card holder from India, leaving her family frantic",
-      "summary": "ICE detained a green card holder from India, leaving her family frantic NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGpXYmRySl9YdVU1OVBtNDBkLWdXM19ndVV3eHpCa3ZTa044TjJyUGxLRlg0dUE3ZW5ZLXFSZzA1UHBkMEFnVW44eFIyaW5aTm1SOGdUamVVdExXcUF3SjVwa1JsY3d0elRrOFlBUlAwUzdaaWo5Njh6SFBJanNsZ1BlY3FFTm9TcWE1aDBQSW9WNGxLYWlvbTBXcldJNEJiWnVJVmdGUk9QbU5fS2p1YTJn?oc=5",
-      "published": "2026-08-21T23:27:18+00:00",
+      "title": "China is about to launch an ambitious moon mission to hunt for ice in one of the solar system’s coldest places",
+      "summary": "China is about to launch an ambitious moon mission to hunt for ice in one of the solar system’s coldest places NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFlJeFNsLVRiNW1zZG0tLU9tMUN2U0loVnJxd0NOUmhneWJuanpCN1c4T1lraldYQms5ZkI2RHhwdklYQnM3ZFZ1Vjh0QkZXVDNCaGJzUzZuZzNuempUenJnRGx1aXlDV2dnTXBuZUU5UHhndUc0bGJnTzJjV0M3YkRBZUY?oc=5",
+      "published": "2026-08-21T22:28:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -354,31 +379,6 @@
       "published": "2026-08-21T20:57:10+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Funding, Tech, Politics: Here’s What’s Weighing on District Leaders This Year",
-      "summary": "Funding, Tech, Politics: Here’s What’s Weighing on District Leaders This Year Education Week",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFpuelQ2WEJ3Yi1ucm9HenJJTGNvZFI3WTlFWE1aeTl6Nk1XQUNVbnRKSXRyb2hTMjNmRjdRaV9VNS00Qk1uSjlJS3A1bHBMb2ZocllIWFJJQmwyaEtKY1BGa3RBX3NRdUpjSHY4dDdpM1hva2VMbGFjVVhRLWdTYzM4SndYMlNBaHRSbWJGS1hyUUkwZVpWdkJhbFlpd19TVHA5SDFHOVFHOTNGNWlPbDl3R18?oc=5",
-      "published": "2026-08-21T19:49:10+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Body of New York grandmother who went missing in Las Vegas found, sister says",
-      "summary": "Body of New York grandmother who went missing in Las Vegas found, sister says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXhUX1JsRGJZOUhPV29MVDlpdVdaczV3Z2ZiNXZGaFFoTUdkRlVYbW1IZmwxVXdJeU85Q0hadDF5ZWludWN2c0YwOE9tY1lhRGZNRjZNc0tvV1NVZVZRYzhWY3BFcVdVLVFSYnNGZkZnTVQxSjQzejl5UTIwOEMwMWVEYS0zR0tfWjIzZkdoVmZoX3poX0xmbkRZX1c?oc=5",
-      "published": "2026-08-21T19:37:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
