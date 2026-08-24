@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:32:03.025068+00:00",
+  "updated_at": "2026-08-24T21:30:36.386666+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,54 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+      "summary": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZlMwWHR5MGI1S3FabnpPQjhHdTNfczJyNUFOX3BxamFHTlg2Y2pDZERFMU9Nam52ZlVOV01qeWI5S29GQ0Vfck56eXRlQzFlLUJBdHcyRnlTN0JvalgyekRDWWthQnAtWVBocE5teEN1RlFPbnM00gF8QVVfeXFMTnlJRkFLTjcyVm1uVXZQTkZuNDREZGU0NzBQNDNhc2cxanJaOGlqcDBxcDJSLU1VejNsRW82WnBGMVR5QndvV1k0WE9UeG56RTg1N0VuZndCSE55Tlc4eDY0SGh2RDdkbFM2QkdaQmhWZ3NWZ2IwMm9TdjB6Qg?oc=5",
+      "published": "2026-08-24T21:02:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "How Big Tech Captured American Schools",
+      "summary": "How Big Tech Captured American Schools The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
+      "published": "2026-08-24T20:59:04+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "summary": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
+      "published": "2026-08-24T20:53:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Supreme Court backs Trump’s order to curb mail ballots",
+      "summary": "Supreme Court backs Trump’s order to curb mail ballots CNN",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ickVhNERXWmpkSnRVelJocVpKWUlzNjFFUFg3dmxOOVpCWlVRZ1ktOEdycVhlZWpaWV9kX0k3d0xtX1VPRGx1RmoyR25tOEhKTzl5R3hvWW83UmZmNzFicVhYTQ?oc=5",
+      "published": "2026-08-24T20:53:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -32,38 +80,39 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "When Gunfire Interrupts High School Football: What Schools Should Do",
-      "summary": "When Gunfire Interrupts High School Football: What Schools Should Do Education Week",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVhHRy1MRTZQNUNURnJ4el94MEdpR1k1QnNFWl9sYnA5NDBtMUV4SDl4dDdzM2poeHNqWXYtVGlrY1FuUmRMVVAxX0NKQmNjTHBVUnRtajZuTTQ1OWJxYWtkc3Q4QlU5bGpoSkJNbEgyZmpQNUo4S0ZlcHRzcGxTODlUV3pDcXoyOG5CbzMwWThXa1E2R1JCcXhocEpFYy1IUXRHY3daQUQ5WnBSdkE?oc=5",
-      "published": "2026-08-24T20:20:31+00:00",
+      "title": "Karen Solomon, Massachusetts woman, wanted in death of police officer husband, found dead",
+      "summary": "Karen Solomon, Massachusetts woman, wanted in death of police officer husband, found dead CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GYjFEMGZOS0ZfeWszR0NndGIyNVNHVTFfRlNFc3VYMFNzc3drN3AwWXM1Z2VYcFV5aWtoTURNLXp2emwwQm5aNThCaEozbzdWZi1iLXF1Y0FjWDY1X1Rjb3dfaXRHSjN0RnltVE91M3pKOGRzbHc?oc=5",
+      "published": "2026-08-24T20:19:51+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-      "summary": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran NPR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
-      "published": "2026-08-24T20:19:58+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Macho man JD Vance says he hates ‘good-looking guys with beards’ during weird manufacturing speech",
+      "summary": "Macho man JD Vance says he hates ‘good-looking guys with beards’ during weird manufacturing speech Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxeUkteVpXOEcyR0VEeGU4aXpjM2t0V0Q3QmhvVm1FNVFUMHpSM2hHS0Y4NW5fdjN6c2Uwc0VSR253cXdtZ2FxQkpKRkVlV2ZDT2J1UXM0ZENqaWZjbHVCSUhJd19sQWNNaWxHbUVKblhYTU83MUFaeg?oc=5",
+      "published": "2026-08-24T19:28:04+00:00",
       "beats": [
-        "Business"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
-      "summary": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFnOTNLUVh4eHVUc3F4aC1lZFNDbGhSQzZfWVpZcDdWWEY1WE5OUldLRmFTV1hzOHFhZ3NaUFBmSlZSUDBKSjFFZzN2dGtzdmhIQXdHM1FlYXN1X21DcnlVZHM3ZHo2OEl1cWUxRnl1Q01kVm9vcVFndU9LR3BrbWNLZw?oc=5",
-      "published": "2026-08-24T18:37:48+00:00",
+      "title": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
+      "summary": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVnk0dk1CZnV3SHdna29hNGpmQUI3azFrd2FSNnctTy1wY1BxSS16Vk5lbzFkOVh0LUotRjhhSW1xRFdNWjZiaUs1R1NSdE1kaWNIalA2MW81M1EtNXFtRzVreFpRb2F5bGhrbkVuNzRFb1FYdFlJVzY0NEZjU2g4Q1FxNnJrNk1mU3Nvb19fVURTd9IBlwFBVV95cUxOXzdNN0N5Zzd5NHluZG1ZeThwNGFJX3h3XzJPZS1GNE5FRDFna05yTDJkcFpobmdNV0p5TU1Uakt4Q3RNYUZJbC1FZUNmTm41TVJDb05jU1BrZWFIeFJSdU1xUnhSTVQzWU5sUUxWQ2JuWm9tbmcxU2s0d3A4bFBnaU9xa0dZWF91V1Q5ZmFTZkMtX0pzenJj?oc=5",
+      "published": "2026-08-24T18:34:34+00:00",
       "beats": [
+        "Politics",
         "Business"
       ]
     },
@@ -80,39 +129,16 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts",
-      "summary": "Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2xST1lDQV9HX2lzMGY5ZlhpeXYwcDBTNlRlMTd5akVDc3IxaGZVekU1Q0V5QWNQclR0Q0pxNUgtZVhnLXZZUG9ESko1NHp6Nm1penVlNkRYdE1RbFQ1UVN5TU1JT3MyUmVMNFRpejVMUjJ4WW83MlRVdmNLRXgwcjY1SnFUeDNUTF9qZi1LS2ZYOUt2RzFWWXRBRloyY1lybTNhOA?oc=5",
-      "published": "2026-08-24T18:14:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: Education Department issues Dear Colleague letters on discipline, tech use",
-      "summary": "Week In Review: Education Department issues Dear Colleague letters on discipline, tech use K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CelhuX0ZSNE9kOTlzTUY5LVR0S1RtX0l1Uk5XQlF1Y3djaTJyZHpPdXFKRlMzUzVpQ0VyZW52OTZ6U0x3Ny1hYml3Ni1OcElXLTZmZGtZVU5LQ3FFV1FiT1lpT1RkbDhpWEtZS2ZDNWFYSnRy?oc=5",
-      "published": "2026-08-24T18:06:50+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Fentanyl investigations and seizures dropped during Trump’s immigration crackdown, federal watchdog says",
-      "summary": "Fentanyl investigations and seizures dropped during Trump’s immigration crackdown, federal watchdog says CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHAtbDN3QzZwbUpOdWR6WW91WUdEcWJRNWg1dDBWWEhtV2tQeW5pdFVoVk51enZmdG0yZzV4OFRXQ2NoNXgtaXBiV2Q1WnRfbnNfZWx1Zm90OG5MeHNaLTNtejdDWUNxRUF2UGJqUWxlRWYtTmdWNDduaDVZd2M1MnZUSDBSSjQ?oc=5",
-      "published": "2026-08-24T17:46:41+00:00",
+      "title": "Trump can’t stop rocking the economy — and causing more political problems for the GOP",
+      "summary": "Trump can’t stop rocking the economy — and causing more political problems for the GOP CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Yi1lTW15dzF6ZjJlQjFUbDY4bHJmQ0NJSDQ2VFBGSVJYV3UxMG5WNHMxaklfVjJlaUU4SWZRZzVEM1l1TW44QkJzemNQaWU4U3NaX0J0eVdKNXM1Uk1OZHZWTmJNTERZUEdYZk5qZlRuWVI3cW5QS1BOWHNuUEU?oc=5",
+      "published": "2026-08-24T18:12:33+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "Business"
       ]
     },
     {
@@ -128,18 +154,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "CNN signal interrupted by Warner Bros. Discovery technical issue",
-      "summary": "CNN signal interrupted by Warner Bros. Discovery technical issue CNN",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFdzWnlBWEJlS3ZfWGZ2YWtfZGEySHdyUE5HNVM2N3c1RjN6ejA5dDBPOGNuUS04QndVTWtWenYwR0JqOW1FTjdoQWJBUUNiMDF0YmNmSDFQV0o4ankxdDd4N21sN3pmbkh4azBWNXlmTTB2Y3RURms3Y195SVZ0X0FTVHNSN2ZVb2RhWEZJVlVfQXR5R1ItUg?oc=5",
-      "published": "2026-08-24T17:24:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -149,30 +163,6 @@
       "published": "2026-08-24T17:01:13+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "San Francisco 49ers owner Jed York arrested for ‘engaging in prostitution’ and later charged with disorderly conduct",
-      "summary": "San Francisco 49ers owner Jed York arrested for ‘engaging in prostitution’ and later charged with disorderly conduct CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ybWZiSmpDUC15VWhPaFoxa3FDVGlTNnE2SzlSX2Ywc1dPUHRnTldRVGpXYnRDLVo4d2hzb0JmMDIzSk5QQVRyOS1OaGhkQmdKYmFNRDBuMWRYdmNtcFdOdm9Wdzl6UWpobGU0XzNaVFVfTFgtQ1ctRTVhOA?oc=5",
-      "published": "2026-08-24T16:40:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "49ers owner Jed York pleads no contest after arrest in Ohio",
-      "summary": "49ers owner Jed York pleads no contest after arrest in Ohio CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTF2Z1pvRFNrclR6emNndHhkYzhRYm85akpHU2NQYWpVWHJkNGJueXRjUndGM0pSd0ZXXzlEeUtSdnc4OVdKYnRHNUg1WHoxS2lmR2t0bmhsb0FVdU9CQ3E5bVV5Q0NSOWtldkI0YmNaNFNuSWQ1enRfNHNvY0otU05MVXVPVFRUOEt2TklMMnE3N2FhZWJiS0d0RdIBoAFBVV95cUxQbXV1Vm9kZ3ladUpjT3VHYzB2M2JpOW5xbkFaZThJZlp1bmhfYWxqb1JuZTVXN0ZnWU81V3k1SmplbDhrZUFWSDMyZTg3ekhLR0c4d0ZfQ0pKaFktMEI0aTlDbEZrLUp2SThlR3FSc09rYXFydkVQNXVJUy11ZlgzUW9oNXZkNXRqaUwtbTRqY3RjOTAzX1VvaG1hQU5Idkwx?oc=5",
-      "published": "2026-08-24T16:35:35+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -215,12 +205,36 @@
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
+      "title": "4 questions every district should ask before adopting or scaling AI",
+      "summary": "4 questions every district should ask before adopting or scaling AI K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0Y0NGVzQzVuZVVFV3g2b05la3BIN202SFBkZjEzQzI4LWdmVlhXN2wyTER6U2lfYy1LNFhuVDVNaDJTTFdUakRscEV6X25LeURLOWMtUU15U2d6bnd0OWFRZ1ZCOUJmOEtCTS1kMWl2RFlhcWJRQV9QUDIyV25iSmlRXzRhZ3ZGd0JzZkxZY0NxOWZxLS1QQV9zQ2dkTlRlQlllVERsVlM?oc=5",
+      "published": "2026-08-24T13:41:50+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
       "title": "3 ways states can support innovative high school principals",
       "summary": "3 ways states can support innovative high school principals K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUw1aEdGT21SMTh5cEZqanlxMWV3U2JjcVl1YU40Y19xMFNkYkhlVnUxZ20yZ0F4UVEtREVUZzBOMVhCWk1YZFJHb3V1TERDNG1zVk9qbVJTUUkzeXdxWE43MXktLV9lOHlGTnVZbGhsbWJIUVRkcGFBWHc5Qm9OTHpNSE9IZm92QldqZlpjZFRGRDVGWld4RlctTDc?oc=5",
       "published": "2026-08-24T13:21:50+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
+      "summary": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
+      "published": "2026-08-24T12:26:00+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -233,18 +247,6 @@
       "published": "2026-08-24T11:51:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-      "summary": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S. NPR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BGU1d2aGJlYWNZLThPa3ZYRElzLVBTQmg3b3JYTHhUQVM4UVN2Rkk0MFBmelZJZENHQlZEWjJSQjFaZHlIOUh2bmltSlktRDFTMHF0OEpIMUtUdko1ZjFkSTJNeFFxR2swb3gzRTBiTWl1X0JFYnUxUUtKUzF3QkRISG5fWWZ1bUFYSmdmb25jSHlvMzJrQ1JrOHlPWVlNT29fOVBmdzNlczVzVmlSckNVYUpzSnM?oc=5",
-      "published": "2026-08-24T11:27:44+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -291,6 +293,18 @@
       "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAbABQVVfeXFMUE0tRkdVSUdiNE80dGgxaXNXRkhNeUVEUzFiWlBlZ3ROU25TMGFDWmZVLXZuemdXR0NXNkVnaktmc3FqMzNOR3JpVWMxTDhlSXdSRDlyWU1DdFBOSVVFNlNkV0Vlc2xkeGlCazBtVnpVLWxfVFRmcnAtVUQxZUUyYVQ3SzdfbzNIcTVFT2dNcnJldW5jRjBqN2Fub2VnQmJBakpUZFItQ2U3OEFaZ09OQlg?oc=5",
       "published": "2026-08-24T07:16:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion)",
+      "summary": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLU1QcGo4cDJFWWttMDVPdFZHZ0F0UEYtNk1FUlpZMXpNdEFYU1pjLVNWUmZlTXhHSFdZbGJHTDItc0F4UjItZEJaV0NvZTNVY2lDSThTTS04OUxjbHplZXRWM1dfQUdIWVAtZTVLMDNQNmtGanAxaE93VGtPSVk5OXBBMEVPVXh4cTdwbjdLdjZMSWVsQVR1bDdNbzV5WmNhUm5qSmVoYmtkbXdBVDBfM1NQdmE2ckpXdDVpQkpyYk8tdVYwVXljTE1fcmJfT0U?oc=5",
+      "published": "2026-08-24T05:41:24+00:00",
       "beats": [
         "Schools"
       ]
@@ -360,21 +374,9 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Michael Johnston reflects on his very first gay role: \"It was terrifying\"",
-      "summary": "Michael Johnston reflects on his very first gay role: \"It was terrifying\" queerty.com",
+      "summary": "Michael Johnston reflects on his very first gay role: \"It was terrifying\" Queerty",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHk0cm1RbUJmQ0hDM2lUaTR4aHBSZ2RXWFZvREpYOEw2YlkyQ2UxMXB6RnYwVGJ1Y3I2YTYzRUVDTTVjanRnRWNDSHZfZ3p2c2FrMjlCSC10dHM3VGh3bXh5N3FzV1FaQm9UMnAzX3JnUGNzMmh1ZlBfTVZheGNsM3FLbkpXT242NHA1eEpMLWozZm04SE1nU2ZEakxlSUFyTm1janNhQQ?oc=5",
       "published": "2026-08-23T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "How homemade \"slut serum\" saved me from my own gay sex party anxiety",
-      "summary": "How homemade \"slut serum\" saved me from my own gay sex party anxiety queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTThjMEI3bkNVRTNKOFJsNUplSE42NGFmTE5WYXU0YWx6Vk56VjVscUVNdkc1eGk5cXBCaGhKaG9ScmVHazNyUmVnNnY5cE02enc4VUZWVTAxSG9PbExxYVloZ1cwWHBXRjJ3WTZQMHJlNE45SVlRYVptTWRHTjlPaWptRzk3ZmRFbUk0UG02Ynd5dEJRdVE?oc=5",
-      "published": "2026-08-23T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
