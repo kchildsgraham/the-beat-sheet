@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:31:01.698678+00:00",
+  "updated_at": "2026-08-24T20:32:03.025068+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Grace Jiang",
+      "summary": "Grace Jiang Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KeFpVeHpKYV9YaGxLUkNyUUl4TzM1N3NrdHF4RE9tVTFDaG5aRzY1SWtTajU0OGdyTW5PNDd6Wm92eTBUUWtkQmhrTzROUQ?oc=5",
+      "published": "2026-08-24T20:21:16+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "When Gunfire Interrupts High School Football: What Schools Should Do",
+      "summary": "When Gunfire Interrupts High School Football: What Schools Should Do Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVhHRy1MRTZQNUNURnJ4el94MEdpR1k1QnNFWl9sYnA5NDBtMUV4SDl4dDdzM2poeHNqWXYtVGlrY1FuUmRMVVAxX0NKQmNjTHBVUnRtajZuTTQ1OWJxYWtkc3Q4QlU5bGpoSkJNbEgyZmpQNUo4S0ZlcHRzcGxTODlUV3pDcXoyOG5CbzMwWThXa1E2R1JCcXhocEpFYy1IUXRHY3daQUQ5WnBSdkE?oc=5",
+      "published": "2026-08-24T20:20:31+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
+      "summary": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
+      "published": "2026-08-24T20:19:58+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -29,6 +65,30 @@
       "published": "2026-08-24T18:37:48+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50%",
+      "summary": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50% NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1lmcVp0cU5yRWMtV3Y0eU4xUlR2aENvZ2hHZi1mM3ZYY1YzV0Z4UUw5STQ4Tms3X0N4S04zS3ppdWZObGpMcVNHZU5IN1lpOW51U2ZoRkhZbzFoMUJlc0tZYWYtWUdKMTRseTNkYWt6dGJwaVZXOG1Xc0lZZHRGMXhWckpfdU1HY09JRnRB?oc=5",
+      "published": "2026-08-24T18:15:45+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts",
+      "summary": "Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2xST1lDQV9HX2lzMGY5ZlhpeXYwcDBTNlRlMTd5akVDc3IxaGZVekU1Q0V5QWNQclR0Q0pxNUgtZVhnLXZZUG9ESko1NHp6Nm1penVlNkRYdE1RbFQ1UVN5TU1JT3MyUmVMNFRpejVMUjJ4WW83MlRVdmNLRXgwcjY1SnFUeDNUTF9qZi1LS2ZYOUt2RzFWWXRBRloyY1lybTNhOA?oc=5",
+      "published": "2026-08-24T18:14:03+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -92,18 +152,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Stocks making the biggest moves midday: Expedia, Nvidia, Strategy, Hims & Hers and more",
-      "summary": "Stocks making the biggest moves midday: Expedia, Nvidia, Strategy, Hims & Hers and more CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHVyb19DOGp0a25ZaU54Z0k0eWhLWHJMOWtyajlXVDhPNm5CSERQN1I5VEFNelBpZkJhSUhCTGFidzN1OGVNc240dkhzaTh5TXZIX0RSRFFqRUIxN0VFVVdoUUU1MUktYng2Q0R6YkZOS19kbTV0dTZiNGRxa1J2eGtFZF8zM3pjeWowMkJOdmtxdTFFRG04LXdjbw?oc=5",
-      "published": "2026-08-24T16:47:03+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -119,8 +167,8 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "49ers owner Jed York arrested in Ohio over weekend",
-      "summary": "49ers owner Jed York arrested in Ohio over weekend CNBC",
+      "title": "49ers owner Jed York pleads no contest after arrest in Ohio",
+      "summary": "49ers owner Jed York pleads no contest after arrest in Ohio CNBC",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTF2Z1pvRFNrclR6emNndHhkYzhRYm85akpHU2NQYWpVWHJkNGJueXRjUndGM0pSd0ZXXzlEeUtSdnc4OVdKYnRHNUg1WHoxS2lmR2t0bmhsb0FVdU9CQ3E5bVV5Q0NSOWtldkI0YmNaNFNuSWQ1enRfNHNvY0otU05MVXVPVFRUOEt2TklMMnE3N2FhZWJiS0d0RdIBoAFBVV95cUxQbXV1Vm9kZ3ladUpjT3VHYzB2M2JpOW5xbkFaZThJZlp1bmhfYWxqb1JuZTVXN0ZnWU81V3k1SmplbDhrZUFWSDMyZTg3ekhLR0c4d0ZfQ0pKaFktMEI0aTlDbEZrLUp2SThlR3FSc09rYXFydkVQNXVJUy11ZlgzUW9oNXZkNXRqaUwtbTRqY3RjOTAzX1VvaG1hQU5Idkwx?oc=5",
       "published": "2026-08-24T16:35:35+00:00",
       "beats": [
@@ -131,12 +179,12 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "How Big Tech Captured American Schools",
-      "summary": "How Big Tech Captured American Schools The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
-      "published": "2026-08-24T15:46:00+00:00",
+      "title": "Raiders running back Ashton Jeanty leaves practice with likely sprained ankle: Source - The Athletic",
+      "summary": "Raiders running back Ashton Jeanty leaves practice with likely sprained ankle: Source - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGlPUGJtenRmaENlMmlxdHhXS2NuU2w4N2RieUJWdXh6UVh0a0dKcDhTQ3RYN1BuUmtPOU95Q3ViNEhfZjYtUXF6Z3ZNcHB5Y3JxdjRuUEhEN2V6RWxoSnhvNHhETFRjMDlocTlqekIwams1TFM1UGFRcm9Zb1dtcUtiZ3FMSEFuNXBtQUlyc1JWS1M2Yk0wSjNn?oc=5",
+      "published": "2026-08-24T15:43:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -176,15 +224,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
-      "summary": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran NPR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
-      "published": "2026-08-24T12:26:00+00:00",
+      "title": "Out-of-control Hawk Fire in Reno, Nevada, keeping tens of thousands evacuated",
+      "summary": "Out-of-control Hawk Fire in Reno, Nevada, keeping tens of thousands evacuated CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWNERXBTMUJlellBckNXMmNaaExEZ2wzbVM4bE95VDQxbGFBcXFUNzBUTU03NmFWYW1hQnRxLW1NOGZkdVNBQlliZE90WklQSjlTYWtDbGdKMzdrZGdxOXdhYTBlZHo0N2lLa0IzN0ZJT0tqN08yY3JNUWtXWmJEZDhvRTFVRHZldkVvZFhHYWN0czFZVzZHZnVXSTFyUVRCMWdzNU02ODI?oc=5",
+      "published": "2026-08-24T11:51:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -215,10 +263,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Natalie Harp’s Devotion to Trump",
-      "summary": "Natalie Harp’s Devotion to Trump The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1NwTjBJNm55SUE1UzBpRlMtb3JkWWd6SDVzNHFXbGozMkI3amsyVGpoMVRhNFo4QjNOdC1GdUZ3UHRncW5UdjVYLTdNVmY2ZWhpcnpwZ3VoTzktcHVmT3I1REczdDJzODlxOVhyTlJjSjBLc1pnNVg0UG1qR0ZQLTVSbVlnV1RGeUtWekNqLVZpNVpQ?oc=5",
-      "published": "2026-08-24T10:00:13+00:00",
+      "title": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling?",
+      "summary": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3hVeW4zSm9IajFUcTA5ajRGUFpxZjhvYlNjNjJzdVlwYnFpN2o0cW1tTXBybDVKUUZsR0k0Y0NJMktwWlNublpuT04zeXVpREZfdi0zMTRwa0ZyS3plbTI1WG9TNEZiQ1lpV0dlUW93TkNULUtrcUtEdkhiTFRkbXlULTZGak54bHdLSA?oc=5",
+      "published": "2026-08-24T09:02:37+00:00",
       "beats": [
         "Politics"
       ]
@@ -233,6 +281,18 @@
       "published": "2026-08-24T08:45:44+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "How three bills to close California’s student achievement gap ran aground",
+      "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAbABQVVfeXFMUE0tRkdVSUdiNE80dGgxaXNXRkhNeUVEUzFiWlBlZ3ROU25TMGFDWmZVLXZuemdXR0NXNkVnaktmc3FqMzNOR3JpVWMxTDhlSXdSRDlyWU1DdFBOSVVFNlNkV0Vlc2xkeGlCazBtVnpVLWxfVFRmcnAtVUQxZUUyYVQ3SzdfbzNIcTVFT2dNcnJldW5jRjBqN2Fub2VnQmJBakpUZFItQ2U3OEFaZ09OQlg?oc=5",
+      "published": "2026-08-24T07:16:28+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -261,18 +321,6 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Small earthquake detected in Morris County, New Jersey",
-      "summary": "Small earthquake detected in Morris County, New Jersey CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTno1M2RMcjZKWnc2aUx0bjFZUmRYR1JzeUNTVWs4SUpQWExIQ1RkcHZzcXJ0aW5uc2hWNWxaeTVxWE0xbkp6RlVRbm52ZnZLRV9HYkM0cmIxa0VxdkZTQWdIRFVTZlJSbEQxUUNMX0pDSEpqNUZPUDdJaGJpUDh3WmxfMmNueFBM?oc=5",
-      "published": "2026-08-24T00:27:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Man killed in El Cerrito shopping center parking lot shooting, suspects on the run",
@@ -296,18 +344,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Marc Jacobs on Luigi, the men of Mister USA, & Zara Larsson’s message for the dolls",
-      "summary": "Marc Jacobs on Luigi, the men of Mister USA, & Zara Larsson’s message for the dolls queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkR1czhwbDlYaFlEa014dndoY0FJMFd1SEMxUkhQaUdDbjJ0YjBhM1JNSFh5YkhZNDE0aDhpQVh4aVVPQ2ZCZUdfUmwzRU5TVm5OU2c5ZU5jbXcyMk9hd0d5RHpTNkY0NUlZMkhzb3l1UmJacUtYcDQ4WlhIOU12N2lwZVlYaW5fdThaeGdjRXQzRWtPYmswY1B4X0ZkTEwzZXRCdTFaY2MwZnV6dWJsV1Fn?oc=5",
-      "published": "2026-08-23T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -323,10 +359,10 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "How homemade \"slut serum\" saved me from my own gay sex party anxiety",
-      "summary": "How homemade \"slut serum\" saved me from my own gay sex party anxiety queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTThjMEI3bkNVRTNKOFJsNUplSE42NGFmTE5WYXU0YWx6Vk56VjVscUVNdkc1eGk5cXBCaGhKaG9ScmVHazNyUmVnNnY5cE02enc4VUZWVTAxSG9PbExxYVloZ1cwWHBXRjJ3WTZQMHJlNE45SVlRYVptTWRHTjlPaWptRzk3ZmRFbUk0UG02Ynd5dEJRdVE?oc=5",
-      "published": "2026-08-23T16:00:00+00:00",
+      "title": "Michael Johnston reflects on his very first gay role: \"It was terrifying\"",
+      "summary": "Michael Johnston reflects on his very first gay role: \"It was terrifying\" queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHk0cm1RbUJmQ0hDM2lUaTR4aHBSZ2RXWFZvREpYOEw2YlkyQ2UxMXB6RnYwVGJ1Y3I2YTYzRUVDTTVjanRnRWNDSHZfZ3p2c2FrMjlCSC10dHM3VGh3bXh5N3FzV1FaQm9UMnAzX3JnUGNzMmh1ZlBfTVZheGNsM3FLbkpXT242NHA1eEpMLWozZm04SE1nU2ZEakxlSUFyTm1janNhQQ?oc=5",
+      "published": "2026-08-23T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -335,48 +371,12 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Gays name their favorite queer comics, & one surprising name stands well above the rest…",
-      "summary": "Gays name their favorite queer comics, & one surprising name stands well above the rest… queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU1TRy1VZ25MSjF2YU9BSmhzQ1JjM3Y5RnRab2VvakNpNWpDSXlMWmNXVnV0LVgtYkZRYzBsRmdScmRvNUI3SG51MDZkY1FjdG5McktwWHZibXA0dW1RZC0yVFNhbzd6bnE4VG9NTXJ5SkI2dXdPVGhIMVBGYXh1MmdBYm1ydUpocHB4S3l1NG5vckhBRkdidjVGeXJ3cl9WdjBjbUJSOFotMl84NkdZN1NKWnJ5dWFQRmc?oc=5",
-      "published": "2026-08-23T15:00:00+00:00",
+      "title": "How homemade \"slut serum\" saved me from my own gay sex party anxiety",
+      "summary": "How homemade \"slut serum\" saved me from my own gay sex party anxiety queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTThjMEI3bkNVRTNKOFJsNUplSE42NGFmTE5WYXU0YWx6Vk56VjVscUVNdkc1eGk5cXBCaGhKaG9ScmVHazNyUmVnNnY5cE02enc4VUZWVTAxSG9PbExxYVloZ1cwWHBXRjJ3WTZQMHJlNE45SVlRYVptTWRHTjlPaWptRzk3ZmRFbUk0UG02Ynd5dEJRdVE?oc=5",
+      "published": "2026-08-23T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Capturing an immortal photograph of jazz legends",
-      "summary": "Capturing an immortal photograph of jazz legends CBS News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRFU2NmtxTHBlSGExUkh4N0xpRGtjNVdnbzhnTWg1ZUZYNHhoUEY4SlVIY0pRSm5aOGVueUpxVTUwMWd4WXFXMHE1Mll5WGJZaGJPWHkzWkpuNWpPZFZpUDlVdldtSjZLWkZ4M1gyTDBPNUd5OHc4U2FJWG5ZNkE?oc=5",
-      "published": "2026-08-23T13:35:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump wildly claims hospitals are performing ‘reverse surgery’ on trans patients ’at my order'",
-      "summary": "Trump wildly claims hospitals are performing ‘reverse surgery’ on trans patients ’at my order' Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzhDS3RWa1ozSmNEQ015ZHRGU3lZWU1vaEY5TnNMVmpEUmJrX1dfWi1ZaHBLQTc4Vy1NR0ZBVHFoaEMzLU40T0pmYll2cVBsQ0Y2cXZTS2NldzRzWVkxbkRlcWk4YTh1WUQ4MnM2R2xXSmpVcTQyUHdodHlnbGRKQld3?oc=5",
-      "published": "2026-08-23T02:14:22+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse",
-      "summary": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
-      "published": "2026-08-22T18:48:00+00:00",
-      "beats": [
-        "Business"
       ]
     }
   ]
