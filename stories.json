@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:43:22.947128+00:00",
+  "updated_at": "2026-08-24T15:40:10.841330+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,18 +19,6 @@
   ],
   "errors": [],
   "stories": [
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Ex-NBA center Enes Kanter Freedom ejected from WNBA game after being confronted by Chicago Sky star Natasha Cloud",
-      "summary": "Ex-NBA center Enes Kanter Freedom ejected from WNBA game after being confronted by Chicago Sky star Natasha Cloud CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRThZMGJqY1NxZTljSlFEcUJXamVqbTdzbUlXZ0hBRC16eUtsSUFNVjVnYnpaeW1uRHQwNGVPSzZsWmxGb2pKQWdyUmFyTDVBNlZEeVVQbkt3Q3Uwa3dpanFUUklKelczREFydFQ3UWwyTFZ4LXUtbkxLRHdPZzlXYkRaWWpHbmRyel9QT2RwUjVRVFVTWFZB?oc=5",
-      "published": "2026-08-24T13:56:34+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -80,6 +68,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The walls appeared to be closing in on Gianni Infantino. Not everyone wants him gone",
+      "summary": "The walls appeared to be closing in on Gianni Infantino. Not everyone wants him gone CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53MHVHemNtbzZwT0lHWTZEZVhGNzQxTUJac2tHaGF2cFJqVEtwU0FQUWdGdFlhR0Y2bVNFbnM5WjhYOVo5SmE5UEJRWmFZcTk1X0JneFVMb3p0dGhFWmM5THJiTWpqUzBWdi1CRXI2b2U?oc=5",
+      "published": "2026-08-24T12:30:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -101,6 +101,18 @@
       "published": "2026-08-24T11:27:44+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Ex-NBA center Enes Kanter Freedom ejected from WNBA game after being confronted by Chicago Sky star Natasha Cloud",
+      "summary": "Ex-NBA center Enes Kanter Freedom ejected from WNBA game after being confronted by Chicago Sky star Natasha Cloud CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRThZMGJqY1NxZTljSlFEcUJXamVqbTdzbUlXZ0hBRC16eUtsSUFNVjVnYnpaeW1uRHQwNGVPSzZsWmxGb2pKQWdyUmFyTDVBNlZEeVVQbkt3Q3Uwa3dpanFUUklKelczREFydFQ3UWwyTFZ4LXUtbkxLRHdPZzlXYkRaWWpHbmRyel9QT2RwUjVRVFVTWFZB?oc=5",
+      "published": "2026-08-24T11:01:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -176,24 +188,12 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US Army attack helicopters crashing at historically high rate amid mechanical issues",
-      "summary": "US Army attack helicopters crashing at historically high rate amid mechanical issues CNN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGxwVk1FQWVkZHQ3LWlGdVRlendyZXAyVnEwbDdNZnlkQXVKLVFNR1I0SmdVQndUdzNVQ29Uc2o0ZGE5TXhZWGtlMWt6dWxXXzAyc0xJTTBBRmZxa1Z0UDhzQVF4d1hGMm5jUWNlbXhPUVJQcjhnZWhpdmVxVVQ1YWJMTVZNTTJRQ19uX1BXajZrR3FnR3dWTnBOZkJQczVqMzBj?oc=5",
-      "published": "2026-08-24T08:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
       "title": "How three bills to close California’s student achievement gap ran aground",
       "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAfYBQVVfeXFMUEg0ZnhYaGJldk9SWU9MZzNBQWpoSlpPTi10cXZHUW9oZzEycXp3MGJYV3hPTHlzZG9aTDZsZkZzSHVaYkJOdG9WVG1lXzZRZTJvVXpqc1ZqcVRXajZOY0V4SnVmTDRKUFl4eVBHLTUtcThKMkkwSl9iN1NOVzRhazZBQ0FNWjVBdzNOUGY1RzkwRWhPQnJLVkZiYnE2bU54aUdRNjZ2cVRsUHk1QVBFTkE3X1dsRC11bGlLWEVPcFZjUHQ1dWVQQXZtdk1jcXNMVEt6UWhxRlJtcTI3TnBBQ3RleEdVS2N6ZDFwb0NOdjRLTlhCb3hR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAbABQVVfeXFMUE0tRkdVSUdiNE80dGgxaXNXRkhNeUVEUzFiWlBlZ3ROU25TMGFDWmZVLXZuemdXR0NXNkVnaktmc3FqMzNOR3JpVWMxTDhlSXdSRDlyWU1DdFBOSVVFNlNkV0Vlc2xkeGlCazBtVnpVLWxfVFRmcnAtVUQxZUUyYVQ3SzdfbzNIcTVFT2dNcnJldW5jRjBqN2Fub2VnQmJBakpUZFItQ2U3OEFaZ09OQlg?oc=5",
       "published": "2026-08-24T07:16:28+00:00",
       "beats": [
         "Schools"
@@ -248,27 +248,26 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Marc Jacobs on Luigi, the men of Mister USA, & Zara Larsson’s message for the dolls",
-      "summary": "Marc Jacobs on Luigi, the men of Mister USA, & Zara Larsson’s message for the dolls Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkR1czhwbDlYaFlEa014dndoY0FJMFd1SEMxUkhQaUdDbjJ0YjBhM1JNSFh5YkhZNDE0aDhpQVh4aVVPQ2ZCZUdfUmwzRU5TVm5OU2c5ZU5jbXcyMk9hd0d5RHpTNkY0NUlZMkhzb3l1UmJacUtYcDQ4WlhIOU12N2lwZVlYaW5fdThaeGdjRXQzRWtPYmswY1B4X0ZkTEwzZXRCdTFaY2MwZnV6dWJsV1Fn?oc=5",
-      "published": "2026-08-23T18:00:00+00:00",
+      "title": "Trump isn’t just a man, and that’s a problem.",
+      "summary": "Trump isn’t just a man, and that’s a problem. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtMDY1VUs5OHdtVjJjZm9mNG1WcFpnaXV1ek9vMEFhOUY1TldULTVMdFRNX2xvckx0Rmw4WTNCS191aWNmMlg4amMwN3FpaXphOGtEZWRUQnROWU5LZElNVnlNTDdlQV9QMWtWbGIzMkNId3dMTjJvRmxQVkU?oc=5",
+      "published": "2026-08-23T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
+      "source": "Queerty",
+      "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Haters are targeting a beloved trans teacher. Her defenders are fighting back.",
-      "summary": "Haters are targeting a beloved trans teacher. Her defenders are fighting back. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUJFbnpxaGNtRmVlU3kzb2Q4aTZuU0QxTlhKWUN2N1hJLXBqdC1YcHhjeWhTekoxYWxVRUlra3MtbE5DSEo4Z0ViXzZjeUVMTUlaRlNxTWltTkVDcUViR2lDc05sQ0FDczVvLXo3dFBVMDJ0dExWQ25nTWYzaGRPUGVHSVl2aW4zM2ROY2l3QndJZzJBX3FXaTRaVC12MHRqQ1dWaDM3Zl9oYjl5QTI4dlZndw?oc=5",
-      "published": "2026-08-23T15:00:00+00:00",
+      "title": "How homemade \"slut serum\" saved me from my own gay sex party anxiety",
+      "summary": "How homemade \"slut serum\" saved me from my own gay sex party anxiety Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTThjMEI3bkNVRTNKOFJsNUplSE42NGFmTE5WYXU0YWx6Vk56VjVscUVNdkc1eGk5cXBCaGhKaG9ScmVHazNyUmVnNnY5cE02enc4VUZWVTAxSG9PbExxYVloZ1cwWHBXRjJ3WTZQMHJlNE45SVlRYVptTWRHTjlPaWptRzk3ZmRFbUk0UG02Ynd5dEJRdVE?oc=5",
+      "published": "2026-08-23T16:00:00+00:00",
       "beats": [
-        "Schools",
         "LGBTQ+"
       ]
     },
