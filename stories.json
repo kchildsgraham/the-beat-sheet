@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:27:55.970600+00:00",
+  "updated_at": "2026-08-24T22:55:32.863578+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "summary": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
+      "published": "2026-08-24T22:08:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -39,18 +51,6 @@
       "summary": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZlMwWHR5MGI1S3FabnpPQjhHdTNfczJyNUFOX3BxamFHTlg2Y2pDZERFMU9Nam52ZlVOV01qeWI5S29GQ0Vfck56eXRlQzFlLUJBdHcyRnlTN0JvalgyekRDWWthQnAtWVBocE5teEN1RlFPbnM0?oc=5",
       "published": "2026-08-24T21:02:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-      "summary": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
-      "published": "2026-08-24T20:53:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -263,10 +263,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Natalie Harp’s Devotion to Trump",
-      "summary": "Natalie Harp’s Devotion to Trump The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1NwTjBJNm55SUE1UzBpRlMtb3JkWWd6SDVzNHFXbGozMkI3amsyVGpoMVRhNFo4QjNOdC1GdUZ3UHRncW5UdjVYLTdNVmY2ZWhpcnpwZ3VoTzktcHVmT3I1REczdDJzODlxOVhyTlJjSjBLc1pnNVg0UG1qR0ZQLTVSbVlnV1RGeUtWekNqLVZpNVpQ?oc=5",
-      "published": "2026-08-24T10:00:13+00:00",
+      "title": "2025 NHL re-draft: Matthew Schaefer, Michael Misa, Porter Martone lead the class",
+      "summary": "2025 NHL re-draft: Matthew Schaefer, Michael Misa, Porter Martone lead the class The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejZ3U2NraGYzMGFXanJmc08xOWFDYzNEUnRQa25veWNuUi1tR1NhMUotU25mTVFPZjE2TVRQblE1OFA2dFo5TkFXNm5SVHNiZnprdzdaOW9qZ28wN3ljM2hlNURhRTdrbGs4LWhXZDBiMWwzZjF5M3Y1dXVxb1dPUDN3?oc=5",
+      "published": "2026-08-24T10:00:04+00:00",
       "beats": [
         "Politics"
       ]
