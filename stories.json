@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:56:31.410850+00:00",
+  "updated_at": "2026-08-25T18:46:13.454951+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,51 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Dolly Parton, one of country music’s most singular performers, has died at age 80",
+      "summary": "Dolly Parton, one of country music’s most singular performers, has died at age 80 NPR",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yaHd4bHJuR2JyUlAwb2lpWGpaQzAzMHlQTC1FZ1BCN3pCV1RGUDg0WjlselVQSkt0dHpmTHI5dGhpMjNOZEpwYV8tZURtUkJLTjJnS3UtU3dJMG10YlBkZVQyN2g0WjFBVU1wMEV5NnlxUHFi?oc=5",
+      "published": "2026-08-25T18:17:32+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Dolly Parton, queen of country music and humanitarian hero, dead at 80",
+      "summary": "Dolly Parton, queen of country music and humanitarian hero, dead at 80 CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5udmFyN1VzcVpjbWh5NlFhaEhJM1BDSmpfN1hTTWJmRlh2SGFscWNodHJ5QnVWQUJkcFVrTGYwNkRVM2t3dGF2dUkxWFV2bHVQdDdRX3BpWmdIVHBsZktpVmc4SklFeEFPVWM2ZGVZREU?oc=5",
+      "published": "2026-08-25T18:03:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
-      "summary": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S. CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54VGN4VVduR1JsVVQxc25RalhXaVduaTd0MEpsM1lxR1BkSzZKZElEOTNDWE12Y1RzUXJXdHNQcVVvSGRqQ05GTGlPMmlETzl1V2MtOFlhOWVoSGtONjdQVlVWc3hfNHhfbGRKOHRSbTBwd9IBd0FVX3lxTE53Q2ZCRlhkMXdEUHM2aXI4LVZzbE1tb1U2UG1rS3dzbDFobWNJcEtFWjlRVDFFQWVMSlI4ZnZEZ3pUbTJEdHhWdE8xTHMzWGxsMHNnQXB1Z0dzc0RZZXJwWW5Rd3NaQk85a1AyaWFscmIycVR1Wnlj?oc=5",
-      "published": "2026-08-25T17:07:00+00:00",
+      "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+      "summary": "SpaceX plans to build a $100 billion spaceport in Louisiana CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcE1IdmEtTGRwSDhkYUlSdEdMNkQyVEZIMDZyUEhvQ29QTUYwZEdtQWFRNUNveG1YWEU5ZFFfSkVUeUwzSFRJQzZIUHNYZl9QVkJYekJKWnNudzlQN01OSllTQnNqUGxJbmtldHVsMUQ?oc=5",
+      "published": "2026-08-25T17:29:32+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
+      "summary": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
+      "published": "2026-08-25T17:16:25+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -44,25 +80,13 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump-backed House candidate removes mentions of the president from his website",
-      "summary": "Trump-backed House candidate removes mentions of the president from his website NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLThCWG9uNVcycVEwUDRaTWRZNHI5US1UbGxwNkVlbWdybExKWDRYSWd5LThGTkV5NG54RDdiN2puMmxoLW5ZU3pyM3FTTU96WVBuZjYtOGZNYWdvd2ZqMlpZanZ1MFUtcDhPX3EzLXJxcHdRQ1FzdF9TNHM3UGlhMmVNT2JFQllfREdJWHBUM2ZKcElWRnlDbE1KV0JXU3ltZFR2bnd5TlA3RWVtV3ZnZkVRZEtHRnBPTWlORTF3?oc=5",
-      "published": "2026-08-25T16:00:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Tottenham sign Savio from Manchester City in £85m deal",
-      "summary": "Tottenham sign Savio from Manchester City in £85m deal The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNhVF9Cd3VrWTNJMkw3UlZQZV9leV94S2ZQUWkxRnNidFFVQXdoTlBXaDV1SG4ydHhuQXl2RlVNSFRFYWVhbXdka1lYNHZ2bmx0ZndNWXpNYWMyaFcwY1pmckNneTBiQ1pJTEpPZUVEYzJGOVdtM2lydkdRNXZtblllSVRMX3hfZERYOC1kMA?oc=5",
-      "published": "2026-08-25T15:44:07+00:00",
+      "title": "A controversial ad for a driver is the latest clash between golf’s old guard and new world",
+      "summary": "A controversial ad for a driver is the latest clash between golf’s old guard and new world CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWFFXYUk3SUpsQzhOeHg4a0E1Q3Z3bnVOVW9fTGV1NG9VNFRPeXhGdHVJX1FrWnZfNEUwVTJwZkZFYkprNGFEMGxqWUlnVTlOUlVxai1XWnBuenM2OEpFeGpDQW14WVMxNGJvV085M3Y?oc=5",
+      "published": "2026-08-25T16:15:03+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,18 +104,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "We're trimming our position in an AI stock to protect our profits",
-      "summary": "We're trimming our position in an AI stock to protect our profits CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUE3Q191aGl2MGRjXzltSmhoeEVmTUJMb21LU0VpbFE3bXFVLVlWcC10cEhXSHFVT0hETE5jMml0VTUwYV9VQlBNaTNqOUI0QU1odi10dUxDSk9OdGJNamNKeWVsNGNzWk85ckZyVFdjV1lsckVPaGJWODM3YmRpVXlRcXE4a2gxNE9PaUNJQk5DS196aExTSTJjakRPWWJxMGh1QQ?oc=5",
-      "published": "2026-08-25T15:23:23+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -104,18 +116,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "CIA director makes unannounced visit to Moscow to meet with Russian officials, source says",
-      "summary": "CIA director makes unannounced visit to Moscow to meet with Russian officials, source says CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTUGNZck1EY010eGloeG9xQnFoZ3FKOWdDTjJKTnBmZ1UyQnNSUm5ZaTlMQlRiSWdwR2tBS21sV3RvbHFmbzdtVDhFZ3g0WDhRNy1QQTJ3THlxRjdCdjZYc0U3UGdfcDBnWlFBWkhwOUI2ZmZS?oc=5",
-      "published": "2026-08-25T15:01:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -123,18 +123,6 @@
       "summary": "Several states will decide voter ID ballot measures this year NPR",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDJ3emZ0YU5KS2czOUtVcEh6bDFUSjFWRTE2XzBuYkg0UUNpUG1oRlRLZi1jd21zNFRWX3hSdm95SmRIQjdtQklzWW84QkN2aW1YM0J1TlZBNmpGdVVXMF8wMlFodzdFV2JRVjBETU5LNjQzZG16SnU2RlRCbmtGbWpubUd6cWM0?oc=5",
       "published": "2026-08-25T14:40:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Two people in Pennsylvania have died from measles",
-      "summary": "Two people in Pennsylvania have died from measles CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnFobUk2dkZwdVktUlFTREthc1BQMjlLN1hYVEdCVUFybVVWbGc5VHFDd2dwWmthQTBQZFRHTldKdlo5aGdvMWQwMG1TakgweWZuWnFCcnNlRWdCNXhTZVlfU3loM2V5YU5KWWNCbXd2V1k?oc=5",
-      "published": "2026-08-25T13:50:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -161,6 +149,18 @@
       "published": "2026-08-25T13:06:51+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103",
+      "summary": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103 NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEYtM1RER3JSVXNiVFlwMW5XVWNvOXp1aW1tSkpvSDk2T1hFSHBWbHlnenk0MUgxWHhJT1VSX09mY1oyc2Z1UWRSWnNMdlcwaXpXcnk2LWpIcGZtQnVKaXh5QmE4SHlta0g1WS0zSWR0bU5VdlZ4ckk0eVI4aE5ELVVHY05HdG15M053Ukd3UlNRUUhNUWd5YzBDcFU2UmpmNk1wMW1ISlFaR0ZwTk9Xb2hQU0dpSGVkT3c?oc=5",
+      "published": "2026-08-25T12:19:01+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -199,30 +199,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
-      "summary": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVl2Q0VFclRyNEVvXzdEYVZUWFpheXFJNWhQUTFpeUlBQWxzbkttR3A4T242bUlEVW5Rbll4RWZIdUxNWkphcVJYcGdiUklSejVZMFRPTGdiaEF1WXdfV25LQldrcDNEQ2V2bnltNmFreVlZdDJiU1gydEptZnV3WDc3VGNtWUhsNUhJV0lObVlXaTJwdS1NU0pmTkRXV2s?oc=5",
-      "published": "2026-08-25T11:30:04+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-      "summary": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting NPR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmdJU08ydS1lT1I0cm5ld3l2TTRTckU2ZjlxZUtoSFAtczlQc2JSVFpWaGw4LW56dW1RYkpzeWFZYm5EVGhVekFDZ1Z5V2VwMUoyTF9weVI3ZTEwcHA0TlgyVElERldDOEdKMndGX1JjRWhOQ3JIM080V0x4a09OSld0TlR0a0txb1R6ckRhaGhsRFNpM0gxTnRTUnhzdk4xV2FGdUwyei1LMkJXYjhHOV90Rmc?oc=5",
-      "published": "2026-08-25T11:09:01+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -382,6 +358,30 @@
       "published": "2026-08-24T11:01:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling?",
+      "summary": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3hVeW4zSm9IajFUcTA5ajRGUFpxZjhvYlNjNjJzdVlwYnFpN2o0cW1tTXBybDVKUUZsR0k0Y0NJMktwWlNublpuT04zeXVpREZfdi0zMTRwa0ZyS3plbTI1WG9TNEZiQ1lpV0dlUW93TkNULUtrcUtEdkhiTFRkbXlULTZGak54bHdLSA?oc=5",
+      "published": "2026-08-24T09:02:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
+      "published": "2026-08-24T09:00:33+00:00",
+      "beats": [
+        "Politics"
       ]
     }
   ]
