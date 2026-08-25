@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T23:47:25.522437+00:00",
+  "updated_at": "2026-08-25T01:20:15.794079+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump criticism leads to rare criminal charges for Air Force officer who called for impeachment",
+      "summary": "Trump criticism leads to rare criminal charges for Air Force officer who called for impeachment CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmNWeDZJRlU1TjZuSWJSZUxpT2NOMHRKLVdmR2xMRjhOVWJhbGl3amZheVlBNFRZVTRlak9pUmFYVDhVWmFyNExmRWtZV19xbGtGdENZWlV5RWdMclZZT0w1bnVDd2ROV3NJWDBsLV9KdVFHTHZMRGFBQk5tS29JR2thLURpeTJ2b0I3OQ?oc=5",
+      "published": "2026-08-24T23:54:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-      "summary": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdfaGtSZDBUREVtcmc4ZHpTSDAzMFhZbGRvb3pobG9jMHRhemVaRS0teUE3X1hLMUZ5eE5HelRtR3FONkJqalc1c0w4c3NhSEZWbENYcWZtTjFDWFNjUTZ2YWhtYjNKdHlCNGtuTWRzMVF5aTcxbFJ1b2NmdFJ2anAwV1ZwN3VSSWJaUWZIVGhlX3B1UDllVU1hVGxPRnNtNWR0ZtIBqgFBVV95cUxPRGtzak11VnpqZTB6ZnlpVDEtUldscElJWU4zUm56ZktzX3RHeHVkWXlUNlBKYkpZNElJTW11LVE3NHFDaUdjcDF2QjF1UjNXNjRBZ3I5NDdLM1F1NFQ2bGctUzdxUkZmUWczS1Y0MEhnMDBreWthQk5TRC10N2xGYXpJT21TSE9RZC1MeVVNSFV4UkJ4QlFrSTItc2x5MVRKaFJobjZQQlVGQQ?oc=5",
-      "published": "2026-08-24T23:00:01+00:00",
+      "title": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "summary": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzV2OFAtVkM2aGNmU3lCRENjTl9STVc5bFVVNEVjYlppUXBYZnBNUjJEZ0JQTEM5SHRSUWtCczJsSjM2VXlKalFTa1pYRkp0cHJweGg2aWxvaHFYNW5mcWthcXVXTjhFazRUc1hlcWlZaXE0VFVsa2NGeEFYQVFaQjRkalRMZU4xM3RIOVpCMVdfM0RvMmVtaFVtRHdOWEVMNkdMa21zUjhxTkhXWjZMZEEzM3Q0NEU3TnZycENIeXZmMUNvd3Vjb1oxLTd3QU92SnVBTkFrONIB3AFBVV95cUxOX3RZdWJOZjRvVndQSWhqZVRrOFVwX0d2STd1ZVNtRGVBcDlsMDlCY1dHRVpuVjdWUEFtZEhsTmY3VTFLRXQ1VDBWREprbk00WnVFVVpBYlRaTFE3ZnVXYVMzTWhSN3k4MGctRmRLVVZvSXBJSXU1UUo2VE5zcEdFTkw4M2JORkxNLWtCNWw5NFBaYUxDck1MTjRkb3RFNFJZTFdhSnMwQWNmWnBpZTJXMUJVZ00xSU03blQtVTlDTEtoaWZwQW1JcGtWVWFiM0FWOEhURXB5NllaVHEy?oc=5",
+      "published": "2026-08-24T22:50:56+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +47,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
-      "summary": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo NPR",
+      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+      "summary": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo NPR",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSjY5SXlJMmFSVk1RVmp4TXVIRU1MRHQzaVVGV3NMVmZaM2YwdTMwaW1VSGlwVURjX2xVRHZfYTY4TWdrSVRHeVJnQkkzRVI3OHozV1d0TnNxdlNFYnZub0dTZUVDVUdMQmVYaUdpd2NwNDVmc19PMV93d1hLWUgzaXdsa2U2UzMtNnRHVVFVZTlCZzVrR1U4ZGFwOWdFV2pVY2lvR0FOM1ljV2dsVU42YkRuWjgzUQ?oc=5",
       "published": "2026-08-24T22:22:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-      "summary": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
-      "published": "2026-08-24T22:08:51+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,13 +68,37 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump administration proposes $103,000 fee for H-1B visas",
+      "summary": "Trump administration proposes $103,000 fee for H-1B visas CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15LVQ2Uk43LWNBQVJqREo3YWtJaWs2OTdjZ1JsQ2p2Nmk4WW9BaTVTUDBiMjc0OWN2TmNDYU1DODlSdE5WdTFRTmN5WHdZMW1rb3pTVXBOMnY4VWx3R0tOWmk4eU9OaDNCMmlNYmJoQnloNE5Nc0tJbks1dDBXRU0?oc=5",
+      "published": "2026-08-24T21:34:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
       "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
       "summary": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZlMwWHR5MGI1S3FabnpPQjhHdTNfczJyNUFOX3BxamFHTlg2Y2pDZERFMU9Nam52ZlVOV01qeWI5S29GQ0Vfck56eXRlQzFlLUJBdHcyRnlTN0JvalgyekRDWWthQnAtWVBocE5teEN1RlFPbnM0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZlMwWHR5MGI1S3FabnpPQjhHdTNfczJyNUFOX3BxamFHTlg2Y2pDZERFMU9Nam52ZlVOV01qeWI5S29GQ0Vfck56eXRlQzFlLUJBdHcyRnlTN0JvalgyekRDWWthQnAtWVBocE5teEN1RlFPbnM00gF8QVVfeXFMTnlJRkFLTjcyVm1uVXZQTkZuNDREZGU0NzBQNDNhc2cxanJaOGlqcDBxcDJSLU1VejNsRW82WnBGMVR5QndvV1k0WE9UeG56RTg1N0VuZndCSE55Tlc4eDY0SGh2RDdkbFM2QkdaQmhWZ3NWZ2IwMm9TdjB6Qg?oc=5",
       "published": "2026-08-24T21:02:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "summary": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
+      "published": "2026-08-24T20:53:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -85,20 +109,8 @@
       "lane": "General",
       "title": "Supreme Court backs Trump’s order to curb mail ballots",
       "summary": "Supreme Court backs Trump’s order to curb mail ballots CNN",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ickVhNERXWmpkSnRVelJocVpKWUlzNjFFUFg3dmxOOVpCWlVRZ1ktOEdycVhlZWpaWV9kX0k3d0xtX1VPRGx1RmoyR25tOEhKTzl5R3hvWW83UmZmNzFicVhYTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDZ1c1I5R3lwU3ZMVHBPdjBtODBtcWc3bXBfNlBMRkxaM1F5YS1SWXZsTkxjSDdQamF2TXQzTFJFazVUeUx4bGtZWnFRbDRHVG5Rb194dElSWEtxbEc5Z1VEWGhtRHZud3RId3o5MVVmemZnSmk4Q1FtVWpDM0JjdFVB?oc=5",
       "published": "2026-08-24T20:53:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The world leader saying no to President Trump",
-      "summary": "The world leader saying no to President Trump NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWxCUmZseHNPejZRMXR5V1VsMmI0aGo4ak1uVDBub0dpUW95WnRaZDNBbVZKMnBpYUYza3hSN0JxMWlIVVh4dHZMN0hUeW4yZXpGSjg1SFVjeTY3dEJ6cWc0Tkg0X1pOZFFfNV85ZF8yMHNwTXN4a2lUcmh5bmpXbTlIVXdiZWp4VnUweUttX0phcVo5?oc=5",
-      "published": "2026-08-24T20:22:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,37 +128,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Karen Solomon, Massachusetts woman wanted in death of police officer husband, found dead",
-      "summary": "Karen Solomon, Massachusetts woman wanted in death of police officer husband, found dead CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GYjFEMGZOS0ZfeWszR0NndGIyNVNHVTFfRlNFc3VYMFNzc3drN3AwWXM1Z2VYcFV5aWtoTURNLXp2emwwQm5aNThCaEozbzdWZi1iLXF1Y0FjWDY1X1Rjb3dfaXRHSjN0RnltVE91M3pKOGRzbHc?oc=5",
-      "published": "2026-08-24T20:19:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Democratic senators demand review of conditions on the USS Abraham Lincoln, other US warships participating in Iran blockade",
-      "summary": "Democratic senators demand review of conditions on the USS Abraham Lincoln, other US warships participating in Iran blockade CNN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWhjVk93MWZGckZsb3RtSGYyMVRuUnhPaGk5SE9mODhqVEczd2VnaHozSU5wYXJYNHZ1dEMwWGVtZS10dDZiLXVYNDNSekxVc09zbFoxbndkWUdIR0NfN2RFajlveDFTOXRtWTBkT053aVdZSV9VdWktaDg1RVFKYUZTUTR1TWVpYXRFdVNmOERYR1NQM0FsT1huaF9rRnFsYVE?oc=5",
-      "published": "2026-08-24T20:06:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Macho man JD Vance says he hates ‘good-looking guys with beards’ during weird manufacturing speech",
       "summary": "Macho man JD Vance says he hates ‘good-looking guys with beards’ during weird manufacturing speech Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxeUkteVpXOEcyR0VEeGU4aXpjM2t0V0Q3QmhvVm1FNVFUMHpSM2hHS0Y4NW5fdjN6c2Uwc0VSR253cXdtZ2FxQkpKRkVlV2ZDT2J1UXM0ZENqaWZjbHVCSUhJd19sQWNNaWxHbUVKblhYTU83MUFaeg?oc=5",
-      "published": "2026-08-24T19:28:04+00:00",
+      "published": "2026-08-24T19:29:40+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -284,12 +272,24 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "These American doctors treated Gaza's wounded. Then they came home to bear witness",
+      "summary": "These American doctors treated Gaza's wounded. Then they came home to bear witness NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnRqdUlDZmxvejhtNERvdS1oMi1lSW9hZ01WTko0QUZkS1I1MUR0WXJKY1gzNjUzMmVMRkVKLS00aWF5VVhodnBrUFdCYmpaa2lPaGdjcEdXNEp5NVdWeDBZTWZpUzk3ZkstNjVraFpJcWtIUk5UQi03c1pRTTJrRUpPN1pFOGl1ZjhKc2N6d1dOdw?oc=5",
+      "published": "2026-08-24T08:45:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
       "title": "How three bills to close California’s student achievement gap ran aground",
       "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAbABQVVfeXFMUE0tRkdVSUdiNE80dGgxaXNXRkhNeUVEUzFiWlBlZ3ROU25TMGFDWmZVLXZuemdXR0NXNkVnaktmc3FqMzNOR3JpVWMxTDhlSXdSRDlyWU1DdFBOSVVFNlNkV0Vlc2xkeGlCazBtVnpVLWxfVFRmcnAtVUQxZUUyYVQ3SzdfbzNIcTVFT2dNcnJldW5jRjBqN2Fub2VnQmJBakpUZFItQ2U3OEFaZ09OQlg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAeoCQVVfeXFMTmF3MFd6VnRwQl9mY24xeHJ1V3FSV25nRmpVMXU3cHVTYVRUbVhnQ2dSQW8zYTBIMmVwY0xNMm01SGM5NEhWdDhwbXRnbVAyRXlNZ2tkVDRvbnA2UHFzeXVtV1dick1yNGNHUTVLZ05HN3FTRHJRQTRvNlpQNmlSXzlSRnZtS2pJVjRDWW12NTY1VkRwOFlSOHRwYnlnZVNRZndmTzFUVjNnRGV5Zk42LTVuaXRYU0I1ajU5NU5fQWZpR0w0TmdFX3FKb2Z3REowSlViaDRIQTJuNXd0Q1FUZTIzWVBUUWtFTzQ5X3czSkNQd1FuNE5HVUs1UEE1aGl6dk1CNjJRcElERDJTODdlZnhGNDRzM1JoQUV1WWkyVjlwZ2txcHI5akt3YkVRT2FXdXkwTnV4TVlJTDNYVFZlaURWM0hTTV9Pc2wwWWRYbmtBc1NoZFp2N1AwT08tQXowMVRxSVFLY3hXSEE?oc=5",
       "published": "2026-08-24T07:16:28+00:00",
       "beats": [
         "Schools"
@@ -359,24 +359,24 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
+      "title": "‘Appalling’: Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
+      "summary": "‘Appalling’: Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFBtNjBRU05CZjBqWE5naVpTUlYxMmFOcTg5WEc3QlU2UVhMR2g2WG9kWVJBcHlibnppUnBTZGhLU2x3aXBTUzV4SHEybWZvQXpFNndlSnRFaVJndjlIcUR5aS1OdmtfcjM1VkpxWWl4MDRpbzhKSlhRZjRDbTE5V1BEQ01WamtnQlg5R2lkbFdpQ3B6ZlBNTFVhTnZXS2Z4THV2NEtnbw?oc=5",
+      "published": "2026-08-23T20:07:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
       "title": "NYPD probes fresh video of people climbing out of Manhattan manhole",
       "summary": "NYPD probes fresh video of people climbing out of Manhattan manhole NBC News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1NRZEZCOGF2RjBCY2hJb0c5Z0I1dHhzWVgxYW1ra1NxTG4yazAyejB0RkY2ZW0zZ0dfQzhJdy1ralpmOV9LZXVzLS1SSnR6WDZTZEtneUVBdkF2R0xnT1pUcXlEXy1CdTc0Z0h5bUUxRzhhQ1NnNE9BUVdjMDhKRVlkV1V6X3hEV3FnTFI2MnU2eDRadVNEZks0S0VlTWx0NUJnbkJiaTc?oc=5",
       "published": "2026-08-23T18:36:14+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trump isn’t just a man, and that’s a problem.",
-      "summary": "Trump isn’t just a man, and that’s a problem. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtMDY1VUs5OHdtVjJjZm9mNG1WcFpnaXV1ek9vMEFhOUY1TldULTVMdFRNX2xvckx0Rmw4WTNCS191aWNmMlg4amMwN3FpaXphOGtEZWRUQnROWU5LZElNVnlNTDdlQV9QMWtWbGIzMkNId3dMTjJvRmxQVkU?oc=5",
-      "published": "2026-08-23T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
