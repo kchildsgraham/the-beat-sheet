@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T11:57:47.643184+00:00",
+  "updated_at": "2026-08-25T13:02:41.648930+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,37 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump floats renaming Lake Ontario to ‘Lake America’ as feud with Canada escalates",
+      "summary": "Trump floats renaming Lake Ontario to ‘Lake America’ as feud with Canada escalates CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qU1pwWld0RUtpTmtzQTQ0dy1KelR0MF9WcVZ6VFU3cW9oNHJVVGdweGZuWG5paUJXUFlBckNoelV0aFlEYmRrSjRKME5UeEI2WlRqc0ZwSDBxVzlHa2hzZTF6R2Nhb3V1aUVubFZPXzhtQzZPYlJPOUln?oc=5",
+      "published": "2026-08-25T11:38:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’",
-      "summary": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’ CNBC",
+      "title": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East",
+      "summary": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East CNBC",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wYlNuakhjNkRJcXE5X1kyUFNaV1ozOTY4UmRrX0lyRHllUHZJNmZzcHZVN3RUanlHNGJGcHluNzAxOE1MR0psY2lYTHRScm9KblEwZkx4MHVIQk9xaExoODVNMDJfTkVnX2dMcHNPYV9VcknSAXhBVV95cUxPSTRCTmpvai02WDNCWEhNTXdBd2VrSDJZTE1pZUhWSWowTGw2aFdYWVJ1ZS1DSzZkbk1VS0ZfQWJ2OG96RVFfZ2pYUmFieUhFNHVLOUNGcHJGbVN5LTEwRm04UVNiSWxYMEZSN1JnSkRCeEFoRy1LZ2I?oc=5",
       "published": "2026-08-25T11:32:59+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-      "summary": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5",
-      "published": "2026-08-25T11:24:50+00:00",
+      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "summary": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
+      "published": "2026-08-25T11:21:09+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Tourist dies after car gets stuck in mud in Death Valley",
+      "summary": "Tourist dies after car gets stuck in mud in Death Valley CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9taWRzMlEtTjhQb1VzMDZEZG93RnIwRUU2RmV0dlJUVnQwSzJjbGttZm5yMTZOOFRrckQ5bnQ4a3VVdG43NjdfVEc2NEtwY0F3U1A1N2djbXU1UzhOLTRCeXpLLUhnN3N3MF9DMi1XeXV2WWptemJXRG1uRS1mUQ?oc=5",
+      "published": "2026-08-25T11:09:54+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
-      "summary": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0RtUFJMRXd0YjRtUzFxNklBQ19kMzBCcmIzeXF1TWR2T2Fha1FUVXh2Zk9ZeTFWY3l6d1QweVJOekFVekdQbk1vN1RDamt2V1F6YkxUUWR0NlM2NzdRUE9udVh6QWFteTF0Wnd2NzV2a1pwY3NWX2FPSzkxS1JCNEQzS3lFN1M1U1JJ0gGQAUFVX3lxTE1hSlgyZFpqYjEtUF9vTVBESzJ2bzZEOGhoMVRnZXd6dmdtRU5iOTF1aW1Ndk02NFNFSUJYR25nZVJqTFFhUWs3M0Nnal93V3doZHN3ajJnbVVDcTVwRW1pSkwtN3hrMDM0aC1LZGJBNG1UMTNadDI2SDctajdqdlF1ZVc0OU9UdlRkVUM1Tnc5Zw?oc=5",
-      "published": "2026-08-25T09:35:30+00:00",
+      "title": "Dick's Sporting Goods misses expectations, cites 'challenging' footwear market",
+      "summary": "Dick's Sporting Goods misses expectations, cites 'challenging' footwear market CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbG9Zd3AwRGMyc0daRWNYVGx5YXJmeGRzUVY5Rlg4TXpLTldIUnpZcEVNU0VaaUNYMTYxdGVtanlkcG0xZTF4TnFrTWhFX19UdDVLaW1rY3hISXg4YkdzSUdiNkxvNEx0WlVpbUNCNWJ2WlpzV0Y1RndQYzZGZXlrcnZiTnLSAYoBQVVfeXFMT3phY2ViRkhhMDR0bGZTSktMdy03SGFkNG5jTm9HcFBwMzlXZlQzYktqOXl6Vnk5RzJVWFNEZWQxY0NVa2tUc09tRmtwU0ZEOE5OT3Bsb2FMT2lhMjFkakdWeW1fSENzcmJQWllMZzJfVE5KcUhvX0tCREs4V1dCdXdCckVqVzJ2NVln?oc=5",
+      "published": "2026-08-25T11:01:03+00:00",
       "beats": [
         "Business"
       ]
@@ -62,31 +86,19 @@
       "title": "Tottenham sign Savio from Manchester City in £85m deal",
       "summary": "Tottenham sign Savio from Manchester City in £85m deal The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNhVF9Cd3VrWTNJMkw3UlZQZV9leV94S2ZQUWkxRnNidFFVQXdoTlBXaDV1SG4ydHhuQXl2RlVNSFRFYWVhbXdka1lYNHZ2bmx0ZndNWXpNYWMyaFcwY1pmckNneTBiQ1pJTEpPZUVEYzJGOVdtM2lydkdRNXZtblllSVRMX3hfZERYOC1kMA?oc=5",
-      "published": "2026-08-25T09:14:57+00:00",
+      "published": "2026-08-25T10:06:52+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
-      "summary": "How to understand this heat wave (as told by NPR's senior climate editor) NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSV9fOTF3MlEzWjcxMXlzOHlyZDJOMnBwUFlNbU9HZWdBU3RaMUR3OHp6MXVtSEx2T2xnamVBTVNBVHJxalVMX2VsempzT3RxZGx2OU52RmRHNzgwaTk1TFdmZWplZjFyTWdXd0E2TE1wVTV0clN6STY4LTMxZERoT3RIUXBlUQ?oc=5",
-      "published": "2026-08-25T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "When is suspending students discrimination? Education Dept. renews an old fight",
-      "summary": "When is suspending students discrimination? Education Dept. renews an old fight NPR",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOblByajduUjhrVG1RMUoxeGRVV1dLQXVibF84ZEFoLXlhTHZmZXEtV1ppOGNBYzhRc0ZpUW9xSTZQZmFIdjdSUXJFU0FMNGVsbGp1bmtZa09XWTJIMjYxUHN2aWxTakNoTmRjbkF2QkREekNNYmd4a2pjQVI4VE9OSE9LWGJuaUwxRUNPRVJvX0RxWW5waG82RUo2b0d3LTFETDdjMmV4aFB2WXhQZmZObnVKUlFCczU3cFJUTU81T3lXaTA2RFE?oc=5",
-      "published": "2026-08-25T09:00:00+00:00",
+      "title": "3 special education funding strategies states can use to support districts",
+      "summary": "3 special education funding strategies states can use to support districts K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHYtOEFNemhwOUtLcmZWRHd3UnBfX256cDBiZmZqaktkdHhIVlBSNnlIbmNVR1Z6X3JyZnVKS2dsZDdrVVQ3Q2ttal9hZWlUbjZFZUJmOWVrQ1dUdVNmV0dxbzNvRmhIbVo4VHc1TUJsTkg4SU5oQloxMVdSVnl3ekw3Y2U5QkViYjMxZ0Q3ZWlya3ZQbkJBZXJYU01LNzJRa1Z4SXAzRnR6UXpORS0zdg?oc=5",
+      "published": "2026-08-25T09:40:33+00:00",
       "beats": [
         "Schools"
       ]
@@ -95,9 +107,33 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-      "summary": "Kids with brain injuries thrive at this camp. But federal research funding is in flux NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlE1S28wSmlVQmE5d2M5a01oaXRmZDh6Ylg5NGxOU1FHNTA1Uy1GZTNTTVhWUXNjcWNIZTlfRFhpaldTd0JZLTBTV2VqUjl2blVWcFBKbzBYUXptTmQ3UHpnWEFvdW1WMmwxT1FYbkstTENjVXpzZk1wVGdDRUd6VUxjb01LX0QydGJ5UWwxNy1mQW90N3MwTk1nYjNkN01KaVE?oc=5",
+      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "summary": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't? NPR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HMGs0bllsTEY2UjB0aXFHZl93a1RqdE5zaXJab05Cc1l0RFVyel9iaXlhdWZFS1NURDhzWk44SEtQZ2pjZXBNc0VxTnpuTS1ZbERHYUY1aFlPd2EwMUxrOFlYMzNzdm5MNVZWb0tkeVB2bEk?oc=5",
+      "published": "2026-08-25T09:07:09+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Churches, libraries and breweries: inside DHS's covert surveillance operation",
+      "summary": "Churches, libraries and breweries: inside DHS's covert surveillance operation NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXNNV01wakgyQm4ySnVBLVNybjVoMXVTeFhtNFc0UTQtcTZpbzBlX1BTLUtjaV8xUUNfN2xMamIxVlBDOVctTks1enotdGpnVVltbG5va1Nha0F2Z2dlYUhoSkpjSDVMa2FRYzNIenNMeFh4ZllIeXhUZGp6anFqQXZLeEZaV2dR?oc=5",
+      "published": "2026-08-25T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Did climate change cause this heat wave? Most likely, and here's why",
+      "summary": "Did climate change cause this heat wave? Most likely, and here's why NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSV9fOTF3MlEzWjcxMXlzOHlyZDJOMnBwUFlNbU9HZWdBU3RaMUR3OHp6MXVtSEx2T2xnamVBTVNBVHJxalVMX2VsempzT3RxZGx2OU52RmRHNzgwaTk1TFdmZWplZjFyTWdXd0E2TE1wVTV0clN6STY4LTMxZERoT3RIUXBlUQ?oc=5",
       "published": "2026-08-25T09:00:00+00:00",
       "beats": [
         "Politics"
@@ -107,34 +143,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "The US says it’ll crack down on countries doing business with Iran. Who’s buying Iranian oil?",
-      "summary": "The US says it’ll crack down on countries doing business with Iran. Who’s buying Iranian oil? CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYWU0ZFZja1B4NEJzcDZpbEJqTGlfMW52X1VlRFNMc0dzdnRQSXFRS3NuSXFKRnlmdHFnQVNTYUx3RlVHaW1JRkNSeVpaaGRNQjZQZEJiMnlRTFRpX1diaGE5dkdyVFozdWl3emdpWmpXNkpnOFE?oc=5",
-      "published": "2026-08-25T06:00:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump’s theory of global power faces a reckoning in Iran and Canada",
-      "summary": "Trump’s theory of global power faces a reckoning in Iran and Canada CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3NfOFNtU0xpak42SERSSndsQ1lvODlqdXFqNXRaVlZKZTNtc3h3aEpwRUR6MWtqU1UxMzhncEZLdk5ud3FJc185WERkd0FVTUxLV1g3a0N5TXkxSldmZ01CZjdOTkFQdkFqNExsY2gyV0ozcmhXbTNpYkRqM3g2NQ?oc=5",
-      "published": "2026-08-25T04:01:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Secret Service aware of Iranian state media video threatening life of Barron Trump",
-      "summary": "Secret Service aware of Iranian state media video threatening life of Barron Trump CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96Zk9zd2dWOFdtcGFpMHNoU2NUdklCWl9vZTB6V0NBUENtdkpfZnlfMGl2blZtVUpMUklmc0Y0b0tmS3o0dzJUQWY1VFRwTjFjWVJhREFhd2YxelFjT0VOSlRoWFNEcUI0b2h0VnVURE9HSjRPVjYxQzJwTFQzQQ?oc=5",
-      "published": "2026-08-25T03:23:00+00:00",
+      "title": "Michael Jordan’s ‘Last Dance’ 1998 Finals jersey could sell for over $10 million",
+      "summary": "Michael Jordan’s ‘Last Dance’ 1998 Finals jersey could sell for over $10 million CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXAwb3BCbXdyTHl5cXZ2RXRHRGNXdGdpc3Q2cXQ1US1mS0M3dmtnMUxsTV9TTXRjVXlZVGpsNzl2V1pCcWZPNTk2SDlWWHJpRm9id1MxZkJQQ1dxMTNPVkdRMTFObUN6RlpZOEJaRTR3T0l2cW0yUE00Q2lFcVd4TkdvUVJNbnJD?oc=5",
+      "published": "2026-08-25T07:17:10+00:00",
       "beats": [
         "Politics"
       ]
@@ -155,11 +167,12 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "James Longman tells Guy Pearce that Priscilla was his gay awakening",
-      "summary": "James Longman tells Guy Pearce that Priscilla was his gay awakening queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamhNOHRwTFN5MnVJSDBHODlldlVMM0tHSThFSFlWT2x6MTBGTjBzc1NTTTNRcWZ3MlU3cFlMcmtPRUdVb1NRRkpIQjh1S1FfZ29jYl9xOUxHSnBGTGhKUkpaRGNMUWVZOW8wLTBIS3FrUHdadkZvZVhFWUZDRkl3NHZYR2V5bWJZNkdveTE5aldKdnZUMDFGUm5CZzJDajRfUHZF?oc=5",
-      "published": "2026-08-25T00:00:00+00:00",
+      "title": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause",
+      "summary": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJjaFp4WE8yNDNwZHRUdHZzdVJNWFZUVHdnSUdfanE5a3gzVHBCbk9BQTBCLW5fRWJCZEt5WEpCdUZoejA1TURUckRXS1NiLUpHcmRTS2JVLXB1T2NCcWtTaUZOQ05mSDBLdTRLSkF3a0Q4TzJaY3NvSFFMaXR1eFZrU05CSmZNWlZYbkV5R0V1R0dIUDR6VFJTck1hTHpFc0FkX0Q1Q1lock9nZ2VpQkJna3RHeVdvT2NqdFc5UnNfY3RGQkJpS3FHVTRBZjg0OUE?oc=5",
+      "published": "2026-08-25T01:00:00+00:00",
       "beats": [
+        "Politics",
         "LGBTQ+"
       ]
     },
@@ -301,36 +314,12 @@
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "4 questions every district should ask before adopting or scaling AI",
-      "summary": "4 questions every district should ask before adopting or scaling AI K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0Y0NGVzQzVuZVVFV3g2b05la3BIN202SFBkZjEzQzI4LWdmVlhXN2wyTER6U2lfYy1LNFhuVDVNaDJTTFdUakRscEV6X25LeURLOWMtUU15U2d6bnd0OWFRZ1ZCOUJmOEtCTS1kMWl2RFlhcWJRQV9QUDIyV25iSmlRXzRhZ3ZGd0JzZkxZY0NxOWZxLS1QQV9zQ2dkTlRlQlllVERsVlM?oc=5",
-      "published": "2026-08-24T13:41:50+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
       "title": "3 ways states can support innovative high school principals",
       "summary": "3 ways states can support innovative high school principals K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUw1aEdGT21SMTh5cEZqanlxMWV3U2JjcVl1YU40Y19xMFNkYkhlVnUxZ20yZ0F4UVEtREVUZzBOMVhCWk1YZFJHb3V1TERDNG1zVk9qbVJTUUkzeXdxWE43MXktLV9lOHlGTnVZbGhsbWJIUVRkcGFBWHc5Qm9OTHpNSE9IZm92QldqZlpjZFRGRDVGWld4RlctTDc?oc=5",
       "published": "2026-08-24T13:21:50+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Hawk Fire evacuations in Reno, Nevada, slightly eased but thousands remain on high alert",
-      "summary": "Hawk Fire evacuations in Reno, Nevada, slightly eased but thousands remain on high alert CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWNERXBTMUJlellBckNXMmNaaExEZ2wzbVM4bE95VDQxbGFBcXFUNzBUTU03NmFWYW1hQnRxLW1NOGZkdVNBQlliZE90WklQSjlTYWtDbGdKMzdrZGdxOXdhYTBlZHo0N2lLa0IzN0ZJT0tqN08yY3JNUWtXWmJEZDhvRTFVRHZldkVvZFhHYWN0czFZVzZHZnVXSTFyUVRCMWdzNU02ODI?oc=5",
-      "published": "2026-08-24T11:51:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -361,10 +350,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
-      "published": "2026-08-24T09:00:33+00:00",
+      "title": "Opinion | Today’s Weed Is Way Too Dangerous for Teens",
+      "summary": "Opinion | Today’s Weed Is Way Too Dangerous for Teens The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnBqR3NKNl9FQWY2SkNodmhsU0pldkpTV29sZFhWNHd1aWMyV0tKMW9xSXVGbWtHV1ZVU2dwTW93elZFR1psZE5GbENzb3AtZHBJcDhzMnpQamlBSHpoZXB3MmpRTnRCTUlVRkpGdmt5Mk55SmJNS29hSTN5RWNnUU1ZaVlScDVZ?oc=5",
+      "published": "2026-08-24T09:00:31+00:00",
       "beats": [
         "Politics"
       ]
@@ -377,6 +366,18 @@
       "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAeoCQVVfeXFMTmF3MFd6VnRwQl9mY24xeHJ1V3FSV25nRmpVMXU3cHVTYVRUbVhnQ2dSQW8zYTBIMmVwY0xNMm01SGM5NEhWdDhwbXRnbVAyRXlNZ2tkVDRvbnA2UHFzeXVtV1dick1yNGNHUTVLZ05HN3FTRHJRQTRvNlpQNmlSXzlSRnZtS2pJVjRDWW12NTY1VkRwOFlSOHRwYnlnZVNRZndmTzFUVjNnRGV5Zk42LTVuaXRYU0I1ajU5NU5fQWZpR0w0TmdFX3FKb2Z3REowSlViaDRIQTJuNXd0Q1FUZTIzWVBUUWtFTzQ5X3czSkNQd1FuNE5HVUs1UEE1aGl6dk1CNjJRcElERDJTODdlZnhGNDRzM1JoQUV1WWkyVjlwZ2txcHI5akt3YkVRT2FXdXkwTnV4TVlJTDNYVFZlaURWM0hTTV9Pc2wwWWRYbmtBc1NoZFp2N1AwT08tQXowMVRxSVFLY3hXSEE?oc=5",
       "published": "2026-08-24T07:16:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion)",
+      "summary": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLU1QcGo4cDJFWWttMDVPdFZHZ0F0UEYtNk1FUlpZMXpNdEFYU1pjLVNWUmZlTXhHSFdZbGJHTDItc0F4UjItZEJaV0NvZTNVY2lDSThTTS04OUxjbHplZXRWM1dfQUdIWVAtZTVLMDNQNmtGanAxaE93VGtPSVk5OXBBMEVPVXh4cTdwbjdLdjZMSWVsQVR1bDdNbzV5WmNhUm5qSmVoYmtkbXdBVDBfM1NQdmE2ckpXdDVpQkpyYk8tdVYwVXljTE1fcmJfT0U?oc=5",
+      "published": "2026-08-24T05:41:24+00:00",
       "beats": [
         "Schools"
       ]
