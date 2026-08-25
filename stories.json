@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:46:13.454951+00:00",
+  "updated_at": "2026-08-25T19:33:02.653414+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
+      "summary": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia? CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjBLWkdFMzJKR2ZpdDRBSzBHT3FmS3N1OVlkTno4OVBKbnVLQm9kRk1ZZXNSZlVkVXkxQ0ZVSEdQOWZuRnVySFNpdXFqb3FqTGN4aW1HNi10SFdqTENBMFNieTQtbG9URzZ2cUVSS3JiLUp0WHU5UjJVMFNMVW45aFVrUm4xOENUS2FTSzJFMTFFWTEzNmZ6S0tWSG5XcHJUX05J?oc=5",
+      "published": "2026-08-25T19:00:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -32,12 +44,24 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+      "summary": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0V2N0Zqd3RNWXBURlc4QkFFdlNTb3RULUlTenNlZTRDYWhFaFNlN1JEOGxoZnBKWXVGSXFkejlUX2FwQk5vNXMzQlZ2cjJFWm85SHAzR1JFcXpKUUw3aTZNcWNYc1lrVHR3UzFGcVhYRXJlSTV3bEtTY2piQW5tdk80Rlp6ZnM?oc=5",
+      "published": "2026-08-25T18:15:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
       "title": "Dolly Parton, queen of country music and humanitarian hero, dead at 80",
       "summary": "Dolly Parton, queen of country music and humanitarian hero, dead at 80 CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5udmFyN1VzcVpjbWh5NlFhaEhJM1BDSmpfN1hTTWJmRlh2SGFscWNodHJ5QnVWQUJkcFVrTGYwNkRVM2t3dGF2dUkxWFV2bHVQdDdRX3BpWmdIVHBsZktpVmc4SklFeEFPVWM2ZGVZREU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JbkF5ckFQMFdzeS1jRXNHYjdTUzB4ZXJPSXZUQWNNZHR3RDh2T2pxTTJzQTBYY1A0akZuUl9BdUtQNGs0Y1BzbksyY0phUW0xU1NPOVBWQWdUMlVaVjZ0dVA3dXIzNGxIOWZNSnBtVzlJQWdrWUE?oc=5",
       "published": "2026-08-25T18:03:09+00:00",
       "beats": [
         "Politics"
@@ -49,7 +73,7 @@
       "lane": "General",
       "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
       "summary": "SpaceX plans to build a $100 billion spaceport in Louisiana CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcE1IdmEtTGRwSDhkYUlSdEdMNkQyVEZIMDZyUEhvQ29QTUYwZEdtQWFRNUNveG1YWEU5ZFFfSkVUeUwzSFRJQzZIUHNYZl9QVkJYekJKWnNudzlQN01OSllTQnNqUGxJbmtldHVsMUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcE1IdmEtTGRwSDhkYUlSdEdMNkQyVEZIMDZyUEhvQ29QTUYwZEdtQWFRNUNveG1YWEU5ZFFfSkVUeUwzSFRJQzZIUHNYZl9QVkJYekJKWnNudzlQN01OSllTQnNqUGxJbmtldHVsMUTSAXZBVV95cUxOcnBCMXpQOVZCd3VXVzZocHhqWElxWDNlbkplOFlldjQ4czZLYWUzR29yenJuUkozZDhlQ2dxZmVmaFNHMkFBQ3RjQnhZd2dlVWtLRW1PRy1zV0FpN2pPTGZ3amUyOVoxSUN3b2FLM0NWV2JJT0tR?oc=5",
       "published": "2026-08-25T17:29:32+00:00",
       "beats": [
         "Politics"
@@ -68,15 +92,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-      "summary": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1Y0VVdGZnR2azctVm5mbXJzVnZyUUFfYkNKaDdnendzTFVITktyNW1WQzBQclVGeVltbDFPeXRreEpSS01pV00yWDRIV0UyTFpHQ240ODAwVl83RW1GOE1kanA1N2hlVDF2c19pelVxbEVfeUlkdC11aEMxa2dwZHNoVi3SAYoBQVVfeXFMTUpoaWl0WE43Y19fOEJKSmhjVlFrZHc3cGtJckI5ZlhQQ0FlV0hDSTZaQV9MdXJBUU9iR3JuN0YtSEFLb0hVcThoS2I0VmZqTnNocm5kOGxNWm1Gb0E1azlZcGxsTGNKZE1TZGVfZ0M3ZGluY2YzNDRtdWJCTWMzY1RfZFFvQlI4bk9n?oc=5",
-      "published": "2026-08-25T17:00:01+00:00",
+      "title": "Trump doesn’t seem to care what people want anymore",
+      "summary": "Trump doesn’t seem to care what people want anymore CNN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wMTh6UXVzZnVGZ05rMTBSd2FaLW5GYmNBWTlWME9CbnlyUHdUUDVpNTRuZ1dOSHlpT2RzODVXZTRzODEwOGpxam1FTlpwc0ViTHU3WFNKa21mRGdFZzRoVFhycUtObzh3ZnZoRw?oc=5",
+      "published": "2026-08-25T16:57:34+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -92,18 +116,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exclusive: Justice Department considers bringing charges against ICE officer in Minneapolis shooting",
-      "summary": "Exclusive: Justice Department considers bringing charges against ICE officer in Minneapolis shooting CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTZrY1plRWVHZHJlRHlCakpscWM1aDJjT3JTZmdzeGFTQ2NJMEVKV0FmLWNDdUxEVFhCaW1mYm9zdXc0Q1NmRTJpSzI2aEZGa1N6T3BVQjJ5bHJ5RE52aHRfWlRyWS16X1JDeVdpNHVKNll0R2U2cnozQUNobjBHYnp6TTg?oc=5",
-      "published": "2026-08-25T15:36:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -113,18 +125,6 @@
       "published": "2026-08-25T15:20:18+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Several states will decide voter ID ballot measures this year",
-      "summary": "Several states will decide voter ID ballot measures this year NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDJ3emZ0YU5KS2czOUtVcEh6bDFUSjFWRTE2XzBuYkg0UUNpUG1oRlRLZi1jd21zNFRWX3hSdm95SmRIQjdtQklzWW84QkN2aW1YM0J1TlZBNmpGdVVXMF8wMlFodzdFV2JRVjBETU5LNjQzZG16SnU2RlRCbmtGbWpubUd6cWM0?oc=5",
-      "published": "2026-08-25T14:40:36+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -364,10 +364,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling?",
-      "summary": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3hVeW4zSm9IajFUcTA5ajRGUFpxZjhvYlNjNjJzdVlwYnFpN2o0cW1tTXBybDVKUUZsR0k0Y0NJMktwWlNublpuT04zeXVpREZfdi0zMTRwa0ZyS3plbTI1WG9TNEZiQ1lpV0dlUW93TkNULUtrcUtEdkhiTFRkbXlULTZGak54bHdLSA?oc=5",
-      "published": "2026-08-24T09:02:38+00:00",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
+      "published": "2026-08-24T09:00:33+00:00",
       "beats": [
         "Politics"
       ]
@@ -376,10 +376,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
-      "published": "2026-08-24T09:00:33+00:00",
+      "title": "Opinion | Today’s Weed Is Way Too Dangerous for Teens",
+      "summary": "Opinion | Today’s Weed Is Way Too Dangerous for Teens The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnBqR3NKNl9FQWY2SkNodmhsU0pldkpTV29sZFhWNHd1aWMyV0tKMW9xSXVGbWtHV1ZVU2dwTW93elZFR1psZE5GbENzb3AtZHBJcDhzMnpQamlBSHpoZXB3MmpRTnRCTUlVRkpGdmt5Mk55SmJNS29hSTN5RWNnUU1ZaVlScDVZ?oc=5",
+      "published": "2026-08-24T09:00:31+00:00",
       "beats": [
         "Politics"
       ]
