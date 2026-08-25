@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T09:36:33.719243+00:00",
+  "updated_at": "2026-08-25T10:34:28.532984+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,49 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "CNBC Daily Open: China in the crosshairs, Bitcoin is back and Dragon Ball Z diplomacy",
-      "summary": "CNBC Daily Open: China in the crosshairs, Bitcoin is back and Dragon Ball Z diplomacy CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDFFemZJTkg5ZWxOTGxZa3FBMDRNNUVscTE4RmwwUG96YUNYVlBIX1V3eGYxRnI0V0QyRHdkYVA2N3NBQzRGYUhXQmpaWHdVWlRSTlNWTk1UczlyUGpaVExGSXBxTVhsU3J6NHlwdEl4SWVyTkpRclc5Vk9NcDhESmdCdndCQ2PSAYwBQVVfeXFMT0prNG1jb01XTzlTbWxwZVBjOVlUVUFCUW1oLTAtamx2TExQRHNHMlEzXzFQWGRuZS0zU2tUQTFxaDFxcDBTYmhJYjEzR1liMVNWM1NMN3ZJVGhKU205cHZ3YmszNndxNWtFSEVaUUg3cEFPay10dkVlcmI5Ql85ckpwUmVBTDRYZjVDS0s?oc=5",
-      "published": "2026-08-25T06:03:28+00:00",
+      "title": "Tottenham sign Savio from Manchester City in £85m deal",
+      "summary": "Tottenham sign Savio from Manchester City in £85m deal The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNhVF9Cd3VrWTNJMkw3UlZQZV9leV94S2ZQUWkxRnNidFFVQXdoTlBXaDV1SG4ydHhuQXl2RlVNSFRFYWVhbXdka1lYNHZ2bmx0ZndNWXpNYWMyaFcwY1pmckNneTBiQ1pJTEpPZUVEYzJGOVdtM2lydkdRNXZtblllSVRMX3hfZERYOC1kMA?oc=5",
+      "published": "2026-08-25T09:14:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "summary": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't? NPR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HMGs0bllsTEY2UjB0aXFHZl93a1RqdE5zaXJab05Cc1l0RFVyel9iaXlhdWZFS1NURDhzWk44SEtQZ2pjZXBNc0VxTnpuTS1ZbERHYUY1aFlPd2EwMUxrOFlYMzNzdm5MNVZWb0tkeVB2bEk?oc=5",
+      "published": "2026-08-25T09:07:09+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
+      "summary": "How to understand this heat wave (as told by NPR's senior climate editor) NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSV9fOTF3MlEzWjcxMXlzOHlyZDJOMnBwUFlNbU9HZWdBU3RaMUR3OHp6MXVtSEx2T2xnamVBTVNBVHJxalVMX2VsempzT3RxZGx2OU52RmRHNzgwaTk1TFdmZWplZjFyTWdXd0E2TE1wVTV0clN6STY4LTMxZERoT3RIUXBlUQ?oc=5",
+      "published": "2026-08-25T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
+      "summary": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXNNV01wakgyQm4ySnVBLVNybjVoMXVTeFhtNFc0UTQtcTZpbzBlX1BTLUtjaV8xUUNfN2xMamIxVlBDOVctTks1enotdGpnVVltbG5va1Nha0F2Z2dlYUhoSkpjSDVMa2FRYzNIenNMeFh4ZllIeXhUZGp6anFqQXZLeEZaV2dR?oc=5",
+      "published": "2026-08-25T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,25 +80,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-      "summary": "Indonesians brave choking smoke to pray for rain as country battles wildfires NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjc21NX1VGZTlFNkxpYkd1c2VLV3pMbkJZalVhQXJ4OUp2c21NYzlaVEY2QUpfbTZvd3RHU2JhbTdFMDJvV0ZxX3dlUHdCeE1TeEVDUWZTR3I0R3JJZHJsdXFmeWpZejJnSWNSN3I2eEVidmwwOG9XYk5qV2s?oc=5",
-      "published": "2026-08-25T05:24:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-      "summary": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say NPR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTdjdy1JZjZPRlM4Qm1WdTN1TTdvWWpCOHJOSFdwRE5IcWRXOC0tNzJQQzI1akNRT09OSTlaLUpNMGJ0a2stVmJmcm9YbTFaNUlZSkJ2UWVuTlNIcm9jaER6NllqMENKQVpnR3RVbE1GbjhtbnhUNnE1MVlYVlVHQS1KMWpyLWNXaEVzRGNBSWpqRVItMW1tbUNYbw?oc=5",
-      "published": "2026-08-25T04:56:29+00:00",
+      "title": "Trump’s theory of global power faces a reckoning in Iran and Canada",
+      "summary": "Trump’s theory of global power faces a reckoning in Iran and Canada CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3NfOFNtU0xpak42SERSSndsQ1lvODlqdXFqNXRaVlZKZTNtc3h3aEpwRUR6MWtqU1UxMzhncEZLdk5ud3FJc185WERkd0FVTUxLV1g3a0N5TXkxSldmZ01CZjdOTkFQdkFqNExsY2gyV0ozcmhXbTNpYkRqM3g2NQ?oc=5",
+      "published": "2026-08-25T04:01:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,10 +95,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump’s theory of global power faces a reckoning in Iran and Canada",
-      "summary": "Trump’s theory of global power faces a reckoning in Iran and Canada CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3NfOFNtU0xpak42SERSSndsQ1lvODlqdXFqNXRaVlZKZTNtc3h3aEpwRUR6MWtqU1UxMzhncEZLdk5ud3FJc185WERkd0FVTUxLV1g3a0N5TXkxSldmZ01CZjdOTkFQdkFqNExsY2gyV0ozcmhXbTNpYkRqM3g2NQ?oc=5",
-      "published": "2026-08-25T04:01:29+00:00",
+      "title": "As elections near, Netanyahu casts Turkey as Israel’s latest enemy",
+      "summary": "As elections near, Netanyahu casts Turkey as Israel’s latest enemy CNN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHc3UlJ5YlBXNHZNTnNjeHF1a2dla04tYVZqUndNZFNvS21rdnBqTzk1OFEyQmh4ck9uc081b0dDM3R2dDM1bjZ6UGFrd2d4WVV0U0dtaHNkeDBtQlZueGRhVmpDMU5CaDYyMkNhYUdJcFptQU4yWU93aVV6bkxpdnpzV2VsSmVfTmlVSGx0N0RpVVVGeHhGSDY5ell2dFFtQUFHWV80b2EzSXdu?oc=5",
+      "published": "2026-08-25T04:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,13 +128,25 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Target apologizes for children’s clown Halloween costume after backlash",
-      "summary": "Target apologizes for children’s clown Halloween costume after backlash CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSndsYU5lNTZkVFVabV9FUnQtbndyNUIzQTZ4ZnhzUFNLeTVSUEJpUUVBY0xxcUNUcmZ0MFd4WnlReW9GdkJRelNYekhTUWRwZFE3Ukt6LTlwZHVpU2hDTlhkMkdEQU5lY08wSURjWUY1SVcxR3gxOXk4UFAtYTk2UEU0SktkZkpSSW14bVBnVXoxZw?oc=5",
-      "published": "2026-08-25T02:06:00+00:00",
+      "title": "Abdul El-Sayed distances himself from Hasan Piker’s comments on Israel and Jewish Americans",
+      "summary": "Abdul El-Sayed distances himself from Hasan Piker’s comments on Israel and Jewish Americans NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmdzamZiUVNqVHhRUjRRbFJjQ2QwQkVtMjVqRzRBODd0R040VS1YU0xjVF93eVBOb0NSRno3WEYwZjhCVVdPMENQcThzbFhkeEpLMldSMGpkU2FWb2sxMG9iWFR2dE51NXkzSnZGOVpBeEtOcUlnakZ4bDZKdGduRHlELUx0aGRUM0pwZnhQRUNsQnI3QVpndUh2b0R3MXpETVZCMlNrTTVIUWwwQXZxVmV3WkNFQWY4bWVZX0xDN3N3VlBE?oc=5",
+      "published": "2026-08-25T02:45:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
+      "summary": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNel90c3Z4X2JNVEo1TXNWQVNlYVRRaEpqQkJjRFVQRG15TWhkbnNZY2IxeW5DMjZMRm55ZUtqLWREMkw5UnlfMVpvTHlxWFpFUXNKTWFkTUh3Smx1S09iVDZmRm9FdnowbDh1LVlxcmtzTUZpWGNhckVxbGg1Z2h3T29JaF9OYS1zd0x5N2Y3dkkxb1M3UTJaY043cWtHZGYtYTVudTdRUDNXcnR4eEdXN0EyNUVndw?oc=5",
+      "published": "2026-08-25T02:25:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -250,6 +286,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
+      "published": "2026-08-24T14:24:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -313,46 +361,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "2025 NHL re-draft: Matthew Schaefer, Michael Misa, Porter Martone lead the class",
-      "summary": "2025 NHL re-draft: Matthew Schaefer, Michael Misa, Porter Martone lead the class The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejZ3U2NraGYzMGFXanJmc08xOWFDYzNEUnRQa25veWNuUi1tR1NhMUotU25mTVFPZjE2TVRQblE1OFA2dFo5TkFXNm5SVHNiZnprdzdaOW9qZ28wN3ljM2hlNURhRTdrbGs4LWhXZDBiMWwzZjF5M3Y1dXVxb1dPUDN3?oc=5",
-      "published": "2026-08-24T10:00:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling?",
       "summary": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3hVeW4zSm9IajFUcTA5ajRGUFpxZjhvYlNjNjJzdVlwYnFpN2o0cW1tTXBybDVKUUZsR0k0Y0NJMktwWlNublpuT04zeXVpREZfdi0zMTRwa0ZyS3plbTI1WG9TNEZiQ1lpV0dlUW93TkNULUtrcUtEdkhiTFRkbXlULTZGak54bHdLSA?oc=5",
       "published": "2026-08-24T09:02:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
-      "published": "2026-08-24T09:00:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "These American doctors treated Gaza's wounded. Then they came home to bear witness",
-      "summary": "These American doctors treated Gaza's wounded. Then they came home to bear witness NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnRqdUlDZmxvejhtNERvdS1oMi1lSW9hZ01WTko0QUZkS1I1MUR0WXJKY1gzNjUzMmVMRkVKLS00aWF5VVhodnBrUFdCYmpaa2lPaGdjcEdXNEp5NVdWeDBZTWZpUzk3ZkstNjVraFpJcWtIUk5UQi03c1pRTTJrRUpPN1pFOGl1ZjhKc2N6d1dOdw?oc=5",
-      "published": "2026-08-24T08:45:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -365,18 +377,6 @@
       "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAeoCQVVfeXFMTmF3MFd6VnRwQl9mY24xeHJ1V3FSV25nRmpVMXU3cHVTYVRUbVhnQ2dSQW8zYTBIMmVwY0xNMm01SGM5NEhWdDhwbXRnbVAyRXlNZ2tkVDRvbnA2UHFzeXVtV1dick1yNGNHUTVLZ05HN3FTRHJRQTRvNlpQNmlSXzlSRnZtS2pJVjRDWW12NTY1VkRwOFlSOHRwYnlnZVNRZndmTzFUVjNnRGV5Zk42LTVuaXRYU0I1ajU5NU5fQWZpR0w0TmdFX3FKb2Z3REowSlViaDRIQTJuNXd0Q1FUZTIzWVBUUWtFTzQ5X3czSkNQd1FuNE5HVUs1UEE1aGl6dk1CNjJRcElERDJTODdlZnhGNDRzM1JoQUV1WWkyVjlwZ2txcHI5akt3YkVRT2FXdXkwTnV4TVlJTDNYVFZlaURWM0hTTV9Pc2wwWWRYbmtBc1NoZFp2N1AwT08tQXowMVRxSVFLY3hXSEE?oc=5",
       "published": "2026-08-24T07:16:28+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion)",
-      "summary": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLU1QcGo4cDJFWWttMDVPdFZHZ0F0UEYtNk1FUlpZMXpNdEFYU1pjLVNWUmZlTXhHSFdZbGJHTDItc0F4UjItZEJaV0NvZTNVY2lDSThTTS04OUxjbHplZXRWM1dfQUdIWVAtZTVLMDNQNmtGanAxaE93VGtPSVk5OXBBMEVPVXh4cTdwbjdLdjZMSWVsQVR1bDdNbzV5WmNhUm5qSmVoYmtkbXdBVDBfM1NQdmE2ckpXdDVpQkpyYk8tdVYwVXljTE1fcmJfT0U?oc=5",
-      "published": "2026-08-24T05:41:24+00:00",
       "beats": [
         "Schools"
       ]
