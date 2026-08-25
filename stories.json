@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T13:02:41.648930+00:00",
+  "updated_at": "2026-08-25T14:15:03.219128+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,39 +20,63 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Trump floats renaming Lake Ontario to ‘Lake America’ as feud with Canada escalates",
-      "summary": "Trump floats renaming Lake Ontario to ‘Lake America’ as feud with Canada escalates CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qU1pwWld0RUtpTmtzQTQ0dy1KelR0MF9WcVZ6VFU3cW9oNHJVVGdweGZuWG5paUJXUFlBckNoelV0aFlEYmRrSjRKME5UeEI2WlRqc0ZwSDBxVzlHa2hzZTF6R2Nhb3V1aUVubFZPXzhtQzZPYlJPOUln?oc=5",
-      "published": "2026-08-25T11:38:05+00:00",
+      "title": "3 special education funding strategies states can use to support districts",
+      "summary": "3 special education funding strategies states can use to support districts K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHYtOEFNemhwOUtLcmZWRHd3UnBfX256cDBiZmZqaktkdHhIVlBSNnlIbmNVR1Z6X3JyZnVKS2dsZDdrVVQ3Q2ttal9hZWlUbjZFZUJmOWVrQ1dUdVNmV0dxbzNvRmhIbVo4VHc1TUJsTkg4SU5oQloxMVdSVnl3ekw3Y2U5QkViYjMxZ0Q3ZWlya3ZQbkJBZXJYU01LNzJRa1Z4SXAzRnR6UXpORS0zdg?oc=5",
+      "published": "2026-08-25T13:06:51+00:00",
       "beats": [
-        "Politics"
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "The emerging promise of teacher apprenticeship programs",
+      "summary": "The emerging promise of teacher apprenticeship programs K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWG1KX2tYaFBLZldDQkpXUVF0Q1M2Y1JtQ3lranNIZEJJRW1qaHVIYUlHQWhqUDltcl9IMTY2T1ZwR25BNVZsX253LVpOSHlIT2FyVldJblY3WXdvZHlTcGhRaUMybjIwZnNoN3FxanNOUDd1SG03NFB2UkhfYkhoU2hvOUlFOTZnbC0zazVoYUZpYndYZWo4?oc=5",
+      "published": "2026-08-25T13:06:51+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East",
-      "summary": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East CNBC",
+      "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+      "summary": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEJSWXVWdkJoblFXMU1kSmF1T19vOU5rbnN1amk5VjNuRjJ3aDhQVTNNQ2VRVl82MkdIbTBsUHp5OW82Um95Qzd3RmtWb25uTEtsTnVJZ1QxNFVvcDY4Zi1sRUJ4VVBWVUdpRGFERERFVHpTT1g5S1hHQWhYSXMzaGtxeVjSAYoBQVVfeXFMUFZSal9YWmpaQ0FFa3JFSkZDS3J6aTlmejE4c0c5dk54dnB3ZzlOUzNjN2NXMFFpbE1LUUxPNmttUmR3VmYtZTVFMXN0ZG9ubk1memgyM1dISGhHUlZpejFTOTJqM3VqV2VEZDNidkxZRHdXNnpORmZYcEdsTkdic2J6c0pOdG9CamNR?oc=5",
+      "published": "2026-08-25T12:55:49+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his",
+      "summary": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWZzYjVmMk1vR29haWlMaXZIdGFYVzV1Y2JWTUp1aGZfWmVEZ3FlODlsb2kybDdfWnluOXJhczZFUy05anp1S194MnNzRUI0OXExSGNpNmIwMXBQcEpFaTh3MFhjQXRtS083SjctZW5EWWVpLXpkbGtjemVudlJyVm9YWTM?oc=5",
+      "published": "2026-08-25T12:06:36+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+      "summary": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war CNBC",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wYlNuakhjNkRJcXE5X1kyUFNaV1ozOTY4UmRrX0lyRHllUHZJNmZzcHZVN3RUanlHNGJGcHluNzAxOE1MR0psY2lYTHRScm9KblEwZkx4MHVIQk9xaExoODVNMDJfTkVnX2dMcHNPYV9VcknSAXhBVV95cUxPSTRCTmpvai02WDNCWEhNTXdBd2VrSDJZTE1pZUhWSWowTGw2aFdYWVJ1ZS1DSzZkbk1VS0ZfQWJ2OG96RVFfZ2pYUmFieUhFNHVLOUNGcHJGbVN5LTEwRm04UVNiSWxYMEZSN1JnSkRCeEFoRy1LZ2I?oc=5",
       "published": "2026-08-25T11:32:59+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-      "summary": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
-      "published": "2026-08-25T11:21:09+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -71,12 +95,24 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Dick's Sporting Goods misses expectations, cites 'challenging' footwear market",
-      "summary": "Dick's Sporting Goods misses expectations, cites 'challenging' footwear market CNBC",
+      "title": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+      "summary": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market CNBC",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbG9Zd3AwRGMyc0daRWNYVGx5YXJmeGRzUVY5Rlg4TXpLTldIUnpZcEVNU0VaaUNYMTYxdGVtanlkcG0xZTF4TnFrTWhFX19UdDVLaW1rY3hISXg4YkdzSUdiNkxvNEx0WlVpbUNCNWJ2WlpzV0Y1RndQYzZGZXlrcnZiTnLSAYoBQVVfeXFMT3phY2ViRkhhMDR0bGZTSktMdy03SGFkNG5jTm9HcFBwMzlXZlQzYktqOXl6Vnk5RzJVWFNEZWQxY0NVa2tUc09tRmtwU0ZEOE5OT3Bsb2FMT2lhMjFkakdWeW1fSENzcmJQWllMZzJfVE5KcUhvX0tCREs4V1dCdXdCckVqVzJ2NVln?oc=5",
       "published": "2026-08-25T11:01:03+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "This state is likely to get the worst of El Niño",
+      "summary": "This state is likely to get the worst of El Niño CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWplWTZ3Qm5yU2dKUDdSbDREaWFqRk5nV3JBZ1g4cXM2MWpqQW1PaEZ3VXl2Wlh4NW9nSkhqZURaTGE5bWRrZUFiaVpycE1TS0lSWU83c3N5Mm03cWlaUUJwcmlheS1rYy1DTTV0c3RtSGVJN0pQa1BDNEJrdzhjaHRkVkdMUnM?oc=5",
+      "published": "2026-08-25T11:00:29+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -92,35 +128,35 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "3 special education funding strategies states can use to support districts",
-      "summary": "3 special education funding strategies states can use to support districts K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHYtOEFNemhwOUtLcmZWRHd3UnBfX256cDBiZmZqaktkdHhIVlBSNnlIbmNVR1Z6X3JyZnVKS2dsZDdrVVQ3Q2ttal9hZWlUbjZFZUJmOWVrQ1dUdVNmV0dxbzNvRmhIbVo4VHc1TUJsTkg4SU5oQloxMVdSVnl3ekw3Y2U5QkViYjMxZ0Q3ZWlya3ZQbkJBZXJYU01LNzJRa1Z4SXAzRnR6UXpORS0zdg?oc=5",
-      "published": "2026-08-25T09:40:33+00:00",
+      "title": "Judge in Don Lemon indictment asks to see grand jury records, adding to growing scrutiny of Justice Department cases",
+      "summary": "Judge in Don Lemon indictment asks to see grand jury records, adding to growing scrutiny of Justice Department cases CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwY29JS0ItNTl6d3lBWXZvQ3BDcTIxZFpFS2Zzd25Xa2ZvbHJST3kwTDlJOE9leUZvVWhCaGt1X1V4eEpoZk9vdXNibmo0S0FYQVNoQVN6TXFjRUdLbGxiRHFtZlloSzlUS3Z5ZGRncmZwSXpDZjdmSzdBTzZaZw?oc=5",
+      "published": "2026-08-25T09:00:29+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-      "summary": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't? NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HMGs0bllsTEY2UjB0aXFHZl93a1RqdE5zaXJab05Cc1l0RFVyel9iaXlhdWZFS1NURDhzWk44SEtQZ2pjZXBNc0VxTnpuTS1ZbERHYUY1aFlPd2EwMUxrOFlYMzNzdm5MNVZWb0tkeVB2bEk?oc=5",
-      "published": "2026-08-25T09:07:09+00:00",
+      "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+      "summary": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcUQzaFlKLWtmVjJQZXZjT0NSbWh1cGlickUzZE5lc2Jpc1UwbHA0N00wU2xxZTNrUE1tYmctQ21MVDc1VDY3dTRSeUx0U2dlUFlNVmJ0a2haYXZMSkh0elpSc0JtcGNvSzZRMnd2Y3ZsaEhtRG9zcmRoN3dVUGJ0TjJtZw?oc=5",
+      "published": "2026-08-25T09:00:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Churches, libraries and breweries: inside DHS's covert surveillance operation",
-      "summary": "Churches, libraries and breweries: inside DHS's covert surveillance operation NPR",
+      "title": "Churches, libraries and breweries: Inside DHS' covert surveillance operation",
+      "summary": "Churches, libraries and breweries: Inside DHS' covert surveillance operation NPR",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXNNV01wakgyQm4ySnVBLVNybjVoMXVTeFhtNFc0UTQtcTZpbzBlX1BTLUtjaV8xUUNfN2xMamIxVlBDOVctTks1enotdGpnVVltbG5va1Nha0F2Z2dlYUhoSkpjSDVMa2FRYzNIenNMeFh4ZllIeXhUZGp6anFqQXZLeEZaV2dR?oc=5",
       "published": "2026-08-25T09:00:00+00:00",
       "beats": [
@@ -131,24 +167,12 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Did climate change cause this heat wave? Most likely, and here's why",
-      "summary": "Did climate change cause this heat wave? Most likely, and here's why NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSV9fOTF3MlEzWjcxMXlzOHlyZDJOMnBwUFlNbU9HZWdBU3RaMUR3OHp6MXVtSEx2T2xnamVBTVNBVHJxalVMX2VsempzT3RxZGx2OU52RmRHNzgwaTk1TFdmZWplZjFyTWdXd0E2TE1wVTV0clN6STY4LTMxZERoT3RIUXBlUQ?oc=5",
+      "title": "When is suspending students discrimination? Education Department renews an old fight",
+      "summary": "When is suspending students discrimination? Education Department renews an old fight NPR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOblByajduUjhrVG1RMUoxeGRVV1dLQXVibF84ZEFoLXlhTHZmZXEtV1ppOGNBYzhRc0ZpUW9xSTZQZmFIdjdSUXJFU0FMNGVsbGp1bmtZa09XWTJIMjYxUHN2aWxTakNoTmRjbkF2QkREekNNYmd4a2pjQVI4VE9OSE9LWGJuaUwxRUNPRVJvX0RxWW5waG82RUo2b0d3LTFETDdjMmV4aFB2WXhQZmZObnVKUlFCczU3cFJUTU81T3lXaTA2RFE?oc=5",
       "published": "2026-08-25T09:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Michael Jordan’s ‘Last Dance’ 1998 Finals jersey could sell for over $10 million",
-      "summary": "Michael Jordan’s ‘Last Dance’ 1998 Finals jersey could sell for over $10 million CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXAwb3BCbXdyTHl5cXZ2RXRHRGNXdGdpc3Q2cXQ1US1mS0M3dmtnMUxsTV9TTXRjVXlZVGpsNzl2V1pCcWZPNTk2SDlWWHJpRm9id1MxZkJQQ1dxMTNPVkdRMTFObUN6RlpZOEJaRTR3T0l2cW0yUE00Q2lFcVd4TkdvUVJNbnJD?oc=5",
-      "published": "2026-08-25T07:17:10+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -251,18 +275,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: Education Department issues Dear Colleague letters on discipline, tech use",
-      "summary": "Week In Review: Education Department issues Dear Colleague letters on discipline, tech use K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CelhuX0ZSNE9kOTlzTUY5LVR0S1RtX0l1Uk5XQlF1Y3djaTJyZHpPdXFKRlMzUzVpQ0VyZW52OTZ6U0x3Ny1hYml3Ni1OcElXLTZmZGtZVU5LQ3FFV1FiT1lpT1RkbDhpWEtZS2ZDNWFYSnRy?oc=5",
-      "published": "2026-08-24T18:06:50+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -272,18 +284,6 @@
       "published": "2026-08-24T17:41:11+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Gay adult performer Christian Styles dies at 29",
-      "summary": "Gay adult performer Christian Styles dies at 29 Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veHY4UmQ2d3VTWDFXU2duOEc4bmQ5OUtwS00yYVQ3dVh3TnF2dHRxQVptOXNYZV9fdVU5S0VpRnJSWGtFbzZUVUtLOFp0WmZ2RHVvaHJBSzJNb2gyeFdxcHpiamFla0Fn?oc=5",
-      "published": "2026-08-24T15:31:16+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
