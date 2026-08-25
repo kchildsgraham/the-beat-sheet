@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T15:21:34.182632+00:00",
+  "updated_at": "2026-08-25T16:08:49.597754+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Tottenham sign Savio from Manchester City in £85m deal",
+      "summary": "Tottenham sign Savio from Manchester City in £85m deal The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNhVF9Cd3VrWTNJMkw3UlZQZV9leV94S2ZQUWkxRnNidFFVQXdoTlBXaDV1SG4ydHhuQXl2RlVNSFRFYWVhbXdka1lYNHZ2bmx0ZndNWXpNYWMyaFcwY1pmckNneTBiQ1pJTEpPZUVEYzJGOVdtM2lydkdRNXZtblllSVRMX3hfZERYOC1kMA?oc=5",
+      "published": "2026-08-25T15:44:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+      "summary": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUzBEQzUwY3ZWVGxIbzlzcGpFZDBRUE5GTHhyX3dhcVJxbzNwZmNodU9xT2ZrRXJSaExBV2xkLWFua2c3RHEtTmRHT1AwekdTRTFBbkJoUXVON3JnMWRxNngyNFBkd3FIdTdpV0NpNA?oc=5",
+      "published": "2026-08-25T15:20:18+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Two people in Pennsylvania have died from measles",
-      "summary": "Two people in Pennsylvania have died from measles CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnFobUk2dkZwdVktUlFTREthc1BQMjlLN1hYVEdCVUFybVVWbGc5VHFDd2dwWmthQTBQZFRHTldKdlo5aGdvMWQwMG1TakgweWZuWnFCcnNlRWdCNXhTZVlfU3loM2V5YU5KWWNCbXd2V1k?oc=5",
-      "published": "2026-08-25T13:50:49+00:00",
+      "title": "CIA director makes unannounced visit to Moscow to meet with Russian officials, source says",
+      "summary": "CIA director makes unannounced visit to Moscow to meet with Russian officials, source says CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTUGNZck1EY010eGloeG9xQnFoZ3FKOWdDTjJKTnBmZ1UyQnNSUm5ZaTlMQlRiSWdwR2tBS21sV3RvbHFmbzdtVDhFZ3g0WDhRNy1QQTJ3THlxRjdCdjZYc0U3UGdfcDBnWlFBWkhwOUI2ZmZS?oc=5",
+      "published": "2026-08-25T15:01:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Several states will decide voter ID ballot measures this year",
+      "summary": "Several states will decide voter ID ballot measures this year NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDJ3emZ0YU5KS2czOUtVcEh6bDFUSjFWRTE2XzBuYkg0UUNpUG1oRlRLZi1jd21zNFRWX3hSdm95SmRIQjdtQklzWW84QkN2aW1YM0J1TlZBNmpGdVVXMF8wMlFodzdFV2JRVjBETU5LNjQzZG16SnU2RlRCbmtGbWpubUd6cWM0?oc=5",
+      "published": "2026-08-25T14:40:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claim and bid for prison release",
+      "summary": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claim and bid for prison release CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmg1bnlfam9MTUtXYjU1Nm4yclNzLTRTME1DaTJnRTh1SlNhNlZIVnVXMlRzZVhZMUwxTDFvbEFSZ0pYWEF5ZVBadTVFU2VlTXo0WU80MVZpTzNJRTZaNzR1TFltZlJjTmNtNkFxZ3lMV2JDc012Q2x1Ym1QSExpNmpLMVgzVk5mdGgyaDd5My1lRHJoT3ktWmN5LWhRaEhqcEHSAacBQVVfeXFMUHY5dXVXWnYxa2w2N3BUS2FrVWhEV1A3SUNYdEdhdHNrN2hobDhpYXRGcnhwRkJGV2lXcmM4SC1iUU81S2hCcEZFbmVqNWJRcWNmWDBab3NTbVhTQ3NJWHUybTY0ZGxBZTdnZWxyTlhBWkNZb0ZSVkdvcUFBc0dIaGxrZzZsTHNpeldrcEs3UlB1TzhENnJMc1diQWNhTFpCOFdfMEptWmc?oc=5",
+      "published": "2026-08-25T14:00:42+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +83,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Jeffries defends himself following criticism for meeting with Jared Kushner",
-      "summary": "Jeffries defends himself following criticism for meeting with Jared Kushner CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FYW9FanJSVEl6enFwUUFPSzl1YmMyZHJLV0p2UTJ2dEJlbXE2MGtnbk5xTkFRZl9BN1htZnRKUkhRR08xY0hURXpzTHJSUnJEQmpDcFY2MnBtVDM4a1JzSEE2bUt6WF9RbTc2TEhWbHFGUQ?oc=5",
-      "published": "2026-08-25T13:07:43+00:00",
+      "title": "Two people in Pennsylvania have died from measles",
+      "summary": "Two people in Pennsylvania have died from measles CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnFobUk2dkZwdVktUlFTREthc1BQMjlLN1hYVEdCVUFybVVWbGc5VHFDd2dwWmthQTBQZFRHTldKdlo5aGdvMWQwMG1TakgweWZuWnFCcnNlRWdCNXhTZVlfU3loM2V5YU5KWWNCbXd2V1k?oc=5",
+      "published": "2026-08-25T13:50:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,18 +131,6 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
-      "summary": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXF0MDNkdDAtYUE1andpWjR6U25iYmFrYVhNcC1TeklKajROa3RkeDhRbE4wazcxSUpPTnlYTktFV2doZFFjZFd6cU94Q1k3Um4yYko3d0NTZF9WcnNLdkdfaS1yQ0QtUnZOcXhXWmNRYUF4cy1kT1RFcWJGWWdfa2MybWNvQThJajF0ZDUyMVlUSTBjbXdaaVVMb3lFbE9DUjV1eXdobGRicGRCdllOamtCd1VwVGoxOS1yVUVlLVR2Z9IBxwFBVV95cUxQbF9pd2UxRDZHSTVyOHJSbEV5NkxCQzBHX2JlQTlqYVZFWGcwdnUwN01nVGdiU3cyUUlZTXJuei10a241eUdwMXlwUjJJNTBaN1RNMlZTSE1SaW1mSDZIa2k0ckdrNWd5MzNhNEJBVnQtR0ViaTZmbEZrbTd2bEhEeVRmcVBlZGExMGFjQXF5aFF1NzlBcXROT0RRajZIUmxRUTJkSnV4eW5HeEtGMHRpN3FJOWQ0TkN2ZWxrUm16aUszSTVnNTJF?oc=5",
-      "published": "2026-08-25T13:00:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
       "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
       "summary": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone' CNBC",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEJSWXVWdkJoblFXMU1kSmF1T19vOU5rbnN1amk5VjNuRjJ3aDhQVTNNQ2VRVl82MkdIbTBsUHp5OW82Um95Qzd3RmtWb25uTEtsTnVJZ1QxNFVvcDY4Zi1sRUJ4VVBWVUdpRGFERERFVHpTT1g5S1hHQWhYSXMzaGtxeVjSAYoBQVVfeXFMUFZSal9YWmpaQ0FFa3JFSkZDS3J6aTlmejE4c0c5dk54dnB3ZzlOUzNjN2NXMFFpbE1LUUxPNmttUmR3VmYtZTVFMXN0ZG9ubk1memgyM1dISGhHUlZpejFTOTJqM3VqV2VEZDNidkxZRHdXNnpORmZYcEdsTkdic2J6c0pOdG9CamNR?oc=5",
@@ -107,12 +143,37 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-      "summary": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wYlNuakhjNkRJcXE5X1kyUFNaV1ozOTY4UmRrX0lyRHllUHZJNmZzcHZVN3RUanlHNGJGcHluNzAxOE1MR0psY2lYTHRScm9KblEwZkx4MHVIQk9xaExoODVNMDJfTkVnX2dMcHNPYV9VcknSAXhBVV95cUxPSTRCTmpvai02WDNCWEhNTXdBd2VrSDJZTE1pZUhWSWowTGw2aFdYWVJ1ZS1DSzZkbk1VS0ZfQWJ2OG96RVFfZ2pYUmFieUhFNHVLOUNGcHJGbVN5LTEwRm04UVNiSWxYMEZSN1JnSkRCeEFoRy1LZ2I?oc=5",
-      "published": "2026-08-25T11:32:59+00:00",
+      "title": "U.S. economic offense, Lego's record revenue, Nvidia's losing streak and more in Morning Squawk",
+      "summary": "U.S. economic offense, Lego's record revenue, Nvidia's losing streak and more in Morning Squawk CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlgyUmpxajZSWWFnUDJqOThGT3hwZWM3MFdvMEJUdU9BV1BXQ1JDcE1MSW12TWMwVWdaamFPZXY4UUwzamgtWGJZLXdDQ3dVaGcyR09xdFQ2TlN6Vk16N1JBaDFDaHRXNEFPMG0ycHZPdFRreUVOa1VhRl9Fb3otZWYwdHo4UERZYWZ30gGQAUFVX3lxTE9kSDFzaTM4MjhwTlpqMUJDRXpVRkVBT3hEcU05b0FHYy1tbUd0bmJxenRuVWFzczkxR2xyN25UR0FPNE5nb3pDTXg5cGU2dmhRLS1pX3RXOElsQkxlRnZ1aTdFdmhnV2FucnJfbUhDUW5nRzFaajRsSzAxbVR0aEQxMFVxWVVhajFxeHpDQndWbw?oc=5",
+      "published": "2026-08-25T12:32:06+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his",
+      "summary": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWZzYjVmMk1vR29haWlMaXZIdGFYVzV1Y2JWTUp1aGZfWmVEZ3FlODlsb2kybDdfWnluOXJhczZFUy05anp1S194MnNzRUI0OXExSGNpNmIwMXBQcEpFaTh3MFhjQXRtS083SjctZW5EWWVpLXpkbGtjemVudlJyVm9YWTM?oc=5",
+      "published": "2026-08-25T12:06:41+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Pence affirmed her. Trump’s White House discarded her. Now this transgender CIA veteran is warning America",
+      "summary": "Pence affirmed her. Trump’s White House discarded her. Now this transgender CIA veteran is warning America Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ObnBFV1B5cnRIYUpXcDdWX0NZWHdQVUw5UkVmSlhoOXpNYXhWcDJ5VllINHRlaDlIX2p1UkFTYWVpLVd5dWJ0VzFwcUEwZUlLRm1Ka01LUzU3QjFqTWJpMS1VV2JnRjdGQlNnYlIxdmZuTVdrNGpuOXowZw?oc=5",
+      "published": "2026-08-25T11:59:44+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -131,46 +192,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Tottenham sign Savio from Manchester City in £85m deal",
-      "summary": "Tottenham sign Savio from Manchester City in £85m deal The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNhVF9Cd3VrWTNJMkw3UlZQZV9leV94S2ZQUWkxRnNidFFVQXdoTlBXaDV1SG4ydHhuQXl2RlVNSFRFYWVhbXdka1lYNHZ2bmx0ZndNWXpNYWMyaFcwY1pmckNneTBiQ1pJTEpPZUVEYzJGOVdtM2lydkdRNXZtblllSVRMX3hfZERYOC1kMA?oc=5",
-      "published": "2026-08-25T10:06:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease",
       "summary": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease The New York Times",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96YXVIZ0NxZzI5ZndHanN0eF9HSjhyVUlaOTRBS2NvVDNzaUpDeHJKaVo5T1dBWlU2YXhUUnQ0ZWNUMVk5MWpXTWFKLUJKUkR1QzIyRzR0OGxOanU4dVF0VzdPUmx0bEFMQVU1MmxvTkNsUQ?oc=5",
       "published": "2026-08-25T09:02:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
-      "summary": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcUQzaFlKLWtmVjJQZXZjT0NSbWh1cGlickUzZE5lc2Jpc1UwbHA0N00wU2xxZTNrUE1tYmctQ21MVDc1VDY3dTRSeUx0U2dlUFlNVmJ0a2haYXZMSkh0elpSc0JtcGNvSzZRMnd2Y3ZsaEhtRG9zcmRoN3dVUGJ0TjJtZw?oc=5",
-      "published": "2026-08-25T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Churches, libraries and breweries: Inside DHS' covert surveillance operation",
-      "summary": "Churches, libraries and breweries: Inside DHS' covert surveillance operation NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXNNV01wakgyQm4ySnVBLVNybjVoMXVTeFhtNFc0UTQtcTZpbzBlX1BTLUtjaV8xUUNfN2xMamIxVlBDOVctTks1enotdGpnVVltbG5va1Nha0F2Z2dlYUhoSkpjSDVMa2FRYzNIenNMeFh4ZllIeXhUZGp6anFqQXZLeEZaV2dR?oc=5",
-      "published": "2026-08-25T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -299,18 +324,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Gay adult performer Christian Styles dies at 29",
-      "summary": "Gay adult performer Christian Styles dies at 29 Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veHY4UmQ2d3VTWDFXU2duOEc4bmQ5OUtwS00yYVQ3dVh3TnF2dHRxQVptOXNYZV9fdVU5S0VpRnJSWGtFbzZUVUtLOFp0WmZ2RHVvaHJBSzJNb2gyeFdxcHpiamFla0Fn?oc=5",
-      "published": "2026-08-24T15:31:16+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -318,18 +331,6 @@
       "summary": "\"A strong risk factor\": Top doctors sound the alarm over 80-year-old Tr*mp's 20-pound weight gain queerty.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NoZW1fam82WkdocEpqNW45R3A5OHBSXzZTMHVJX3FhN3BBVFVoa2QzNXc2Tk9FYms3aVdzRmtRa3hITWFIaC1kWDVJSTZwZGpPVllhNU9xRll1NWZUU2drOFViWFlFR2hRT1RPODQwbzNPZWxyUjU1MlFyWENmQTFCb0xzSmFGTFJMNmlBOUx1a2E4T0lLenBBdkx1ajZnY0xmQmxHUEUyZVpCZmJVV21aTXVXUldRZzcwRG5iNHN6WFNJ?oc=5",
       "published": "2026-08-24T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Mike Pence stumbles through response to his transgender CIA briefer’s praise: ‘heartened’ she felt respected",
-      "summary": "Mike Pence stumbles through response to his transgender CIA briefer’s praise: ‘heartened’ she felt respected Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTEYzMnZlb0VOd29BbDFLM3dUT3NNXzJxbzlQSWJsd0RPQzFiUWlMVWg0dTk2enRPd3JqRzZDSTBDYTUwX3BTbHQ2dVJRMTZhb2NaN2gxeGZDbEZTZUx5R1Fjc3luc0MteTdlN3ZlQTZpU2o3YldzNVYwUk83SG9Pa3R5cw?oc=5",
-      "published": "2026-08-24T13:53:16+00:00",
       "beats": [
         "LGBTQ+"
       ]
