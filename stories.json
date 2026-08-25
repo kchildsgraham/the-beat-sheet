@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T22:29:55.559229+00:00",
+  "updated_at": "2026-08-25T22:58:08.670347+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+      "summary": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0V2N0Zqd3RNWXBURlc4QkFFdlNTb3RULUlTenNlZTRDYWhFaFNlN1JEOGxoZnBKWXVGSXFkejlUX2FwQk5vNXMzQlZ2cjJFWm85SHAzR1JFcXpKUUw3aTZNcWNYc1lrVHR3UzFGcVhYRXJlSTV3bEtTY2piQW5tdk80Rlp6ZnM?oc=5",
+      "published": "2026-08-25T22:27:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Dolly Parton, country music icon, dies at 80",
+      "summary": "Dolly Parton, country music icon, dies at 80 NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHM0bEtXZ3pRVDhvNGJYWHl5emltcmFkUVhva1ptbmU1Rld6WXd0alBEYTFweXdTRWhJT2Y5SEw2RmlFZzFEOFFUZmZFMVNJeXp2bWNNOEZ3RU1ZYnZQMG03d0ZVemFLenBaaGdvdkJlQTBRd1JDV2RCdVdSMWRCdldjSkdlVmJJSnVXYUVENA?oc=5",
+      "published": "2026-08-25T21:41:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths",
+      "summary": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "published": "2026-08-25T21:39:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -39,18 +75,6 @@
       "summary": "South Carolina U.S. senate runoff election will test Trump’s endorsement NPR",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWJ4MHVqaWkzakIwaHRZWWo4SVg5b01UeXhTWWVfeXE4TXp3aXhqNzdMQTFGdFhsODZjSjd3Y0NraWZJQk1PQ2k5bkxhbDJEdnl5TnlPOTYtXzVOdlMtSzBwVlVpU2ZMV1NnT3JBc3U2cjY2RDNZOFBZT1JiNWZmRnBQZldVXzdPZmJ5N200M2s2TE9ScndnRENmbnhSdHNmVVlhTldmckk?oc=5",
       "published": "2026-08-25T20:47:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths",
-      "summary": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
-      "published": "2026-08-25T20:46:33+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,18 +128,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Trump-backed House candidate removes mentions of the president from his website",
-      "summary": "Trump-backed House candidate removes mentions of the president from his website NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLThCWG9uNVcycVEwUDRaTWRZNHI5US1UbGxwNkVlbWdybExKWDRYSWd5LThGTkV5NG54RDdiN2puMmxoLW5ZU3pyM3FTTU96WVBuZjYtOGZNYWdvd2ZqMlpZanZ1MFUtcDhPX3EzLXJxcHdRQ1FzdF9TNHM3UGlhMmVNT2JFQllfREdJWHBUM2ZKcElWRnlDbE1KV0JXU3ltZFR2bnd5TlA3RWVtV3ZnZkVRZEtHRnBPTWlORTF3?oc=5",
-      "published": "2026-08-25T18:59:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -123,18 +135,6 @@
       "summary": "Dolly Parton, one of country music's most singular performers, has died at age 80 NPR",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yaHd4bHJuR2JyUlAwb2lpWGpaQzAzMHlQTC1FZ1BCN3pCV1RGUDg0WjlselVQSkt0dHpmTHI5dGhpMjNOZEpwYV8tZURtUkJLTjJnS3UtU3dJMG10YlBkZVQyN2g0WjFBVU1wMEV5NnlxUHFi?oc=5",
       "published": "2026-08-25T18:17:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-      "summary": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0V2N0Zqd3RNWXBURlc4QkFFdlNTb3RULUlTenNlZTRDYWhFaFNlN1JEOGxoZnBKWXVGSXFkejlUX2FwQk5vNXMzQlZ2cjJFWm85SHAzR1JFcXpKUUw3aTZNcWNYc1lrVHR3UzFGcVhYRXJlSTV3bEtTY2piQW5tdk80Rlp6ZnM?oc=5",
-      "published": "2026-08-25T18:15:23+00:00",
       "beats": [
         "Politics"
       ]
