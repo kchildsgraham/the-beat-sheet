@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T19:33:02.653414+00:00",
+  "updated_at": "2026-08-25T20:30:37.635049+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,42 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+      "summary": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SSlFNMWUtMEpKb1VyMUtVbk9QNmJDNWhfNFpGZTdITUYwajdxS0tSSzZjaXVpNTdDVWpsdDlybVZEc3JGTFFwamdSbVBRTy1WX2ZCYWNVLW9mdGdKb0poc08yQTdmX015QmdSX0JLaVlDcm91NFow?oc=5",
+      "published": "2026-08-25T20:20:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bond rout ending? Massive bets on bond rally dominate options market",
+      "summary": "Bond rout ending? Massive bets on bond rally dominate options market CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTl9ONkxfdWtROHNZQXBfRk00elRyZzZCRjlPdjFENHl2Y0lHNnI2R19kRVNmd052b0t6MlhFR2FpNFZ0WER2X1BkdVhnYmJzbHdSZElEcjZiOXdPY3d0OS1NMmtqR0FOa1piM3NadkVYeE5udUw1ZjBmMFduaC03WlVybDI2NWhjTHdrRU51RDlMUFI5emE5Y3ppcDBGMU9keWs5OHIzVzPSAa4BQVVfeXFMTkFLUlFkOE9QelRtVGh6cGl4cWx2YV8wSUk3cTlobmxUVlEzSFRmR21oZFB3cjA4S1VnNmhFQ2dTZ0tNNmZtZE5ycjlVOGtsTE56TGNMeklSdVVMQ2tIT1FGSzVpR3pSR25PSEJGUFdUMldrOGlhdjdCajBrR2FfTXQ2eVJRU25WU255amJWck41ZXBaS0FWVVlxTjcyUzhUX2hHS2w5T0haR1ZKdGtB?oc=5",
+      "published": "2026-08-25T19:25:03+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump administration threatens to demolish Kennedy Center if renovations aren’t allowed",
+      "summary": "Trump administration threatens to demolish Kennedy Center if renovations aren’t allowed CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUxUQ1A3dlp0dFZMVUhWalVyZHU4Nk9JUklwZTYwZFVaUlQ5OElXRVM4SGcyY1FETW9FSlBUSEJFbndSak8tdjJidlVxdUppeUpSMjFUejdCYlZsZFFaNXdzdkpjSnFTM0pQcE43dVQ0enZYSVlaLVhmWDVGWXkyUA?oc=5",
+      "published": "2026-08-25T19:04:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -61,66 +97,54 @@
       "lane": "General",
       "title": "Dolly Parton, queen of country music and humanitarian hero, dead at 80",
       "summary": "Dolly Parton, queen of country music and humanitarian hero, dead at 80 CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JbkF5ckFQMFdzeS1jRXNHYjdTUzB4ZXJPSXZUQWNNZHR3RDh2T2pxTTJzQTBYY1A0akZuUl9BdUtQNGs0Y1BzbksyY0phUW0xU1NPOVBWQWdUMlVaVjZ0dVA3dXIzNGxIOWZNSnBtVzlJQWdrWUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5udmFyN1VzcVpjbWh5NlFhaEhJM1BDSmpfN1hTTWJmRlh2SGFscWNodHJ5QnVWQUJkcFVrTGYwNkRVM2t3dGF2dUkxWFV2bHVQdDdRX3BpWmdIVHBsZktpVmc4SklFeEFPVWM2ZGVZREU?oc=5",
       "published": "2026-08-25T18:03:09+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-      "summary": "SpaceX plans to build a $100 billion spaceport in Louisiana CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcE1IdmEtTGRwSDhkYUlSdEdMNkQyVEZIMDZyUEhvQ29QTUYwZEdtQWFRNUNveG1YWEU5ZFFfSkVUeUwzSFRJQzZIUHNYZl9QVkJYekJKWnNudzlQN01OSllTQnNqUGxJbmtldHVsMUTSAXZBVV95cUxOcnBCMXpQOVZCd3VXVzZocHhqWElxWDNlbkplOFlldjQ4czZLYWUzR29yenJuUkozZDhlQ2dxZmVmaFNHMkFBQ3RjQnhZd2dlVWtLRW1PRy1zV0FpN2pPTGZ3amUyOVoxSUN3b2FLM0NWV2JJT0tR?oc=5",
-      "published": "2026-08-25T17:29:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-      "summary": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
-      "published": "2026-08-25T17:16:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump doesn’t seem to care what people want anymore",
-      "summary": "Trump doesn’t seem to care what people want anymore CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wMTh6UXVzZnVGZ05rMTBSd2FaLW5GYmNBWTlWME9CbnlyUHdUUDVpNTRuZ1dOSHlpT2RzODVXZTRzODEwOGpxam1FTlpwc0ViTHU3WFNKa21mRGdFZzRoVFhycUtObzh3ZnZoRw?oc=5",
-      "published": "2026-08-25T16:57:34+00:00",
+      "title": "Raygun has made peace with the Paris Olympics — after a lot of therapy",
+      "summary": "Raygun has made peace with the Paris Olympics — after a lot of therapy CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzNHWmxuMEd6QVNWN2Q3TG1hRndKd3JBRFoyQXVCN3ZZbS1MTkhFZVhuY0VnTnVkNHFKTDRyQVE3RmI2WE9FNzRfSzJCZnhxblZEV1NFSlZCbDh6Ynk4bFU4RmpINXNWUnJzQnhuRWxrb0NBQWJDVFkwTHg1ajdBbkhaQmJxZllFazRNVjZjZWJ4SHh1YzdJaHZOcw?oc=5",
+      "published": "2026-08-25T17:22:59+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "A controversial ad for a driver is the latest clash between golf’s old guard and new world",
-      "summary": "A controversial ad for a driver is the latest clash between golf’s old guard and new world CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWFFXYUk3SUpsQzhOeHg4a0E1Q3Z3bnVOVW9fTGV1NG9VNFRPeXhGdHVJX1FrWnZfNEUwVTJwZkZFYkprNGFEMGxqWUlnVTlOUlVxai1XWnBuenM2OEpFeGpDQW14WVMxNGJvV085M3Y?oc=5",
-      "published": "2026-08-25T16:15:03+00:00",
+      "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
+      "summary": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1Y0VVdGZnR2azctVm5mbXJzVnZyUUFfYkNKaDdnendzTFVITktyNW1WQzBQclVGeVltbDFPeXRreEpSS01pV00yWDRIV0UyTFpHQ240ODAwVl83RW1GOE1kanA1N2hlVDF2c19pelVxbEVfeUlkdC11aEMxa2dwZHNoVi3SAYoBQVVfeXFMTUpoaWl0WE43Y19fOEJKSmhjVlFrZHc3cGtJckI5ZlhQQ0FlV0hDSTZaQV9MdXJBUU9iR3JuN0YtSEFLb0hVcThoS2I0VmZqTnNocm5kOGxNWm1Gb0E1azlZcGxsTGNKZE1TZGVfZ0M3ZGluY2YzNDRtdWJCTWMzY1RfZFFvQlI4bk9n?oc=5",
+      "published": "2026-08-25T17:00:01+00:00",
       "beats": [
-        "Politics"
+        "Business"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "University of California’s most selective campuses have increased in-state enrollment",
+      "summary": "University of California’s most selective campuses have increased in-state enrollment EdSource",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JeHdtbTEzZ0dkYTdrM1N2V1p0OERfMVBWZUdmNEdZMkpSVkRVU0VlR1VtUnJUcTQ2SklLZUlMdEJYajhyQi1OTklCNVhEdDU4eTFUTk1QUjlXS0drdjNFclpzWWNjQnlMcENGYVdn?oc=5",
+      "published": "2026-08-25T16:01:02+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
-      "summary": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens NPR",
+      "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
+      "summary": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates NPR",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUzBEQzUwY3ZWVGxIbzlzcGpFZDBRUE5GTHhyX3dhcVJxbzNwZmNodU9xT2ZrRXJSaExBV2xkLWFua2c3RHEtTmRHT1AwekdTRTFBbkJoUXVON3JnMWRxNngyNFBkd3FIdTdpV0NpNA?oc=5",
       "published": "2026-08-25T15:20:18+00:00",
       "beats": [
@@ -301,18 +325,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Palo Alto parents protest tech in classrooms",
-      "summary": "UPDATE: Palo Alto parents protest tech in classrooms EdSource",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wRWdWbmZMNGhILTZVWlZfOUl3dWM5ME0xQjlCZGVLRWJOUnlxMU9uWWY4anprMTBIbDVPcUxKRXV3a0lkSXZMZll3bHg0UnROMFY4YjBnZEc1c2xoNnEwSmx0U0tuVVFLaTdnTEZqMmwxdjNKdmlHYUt6ODJyQQ?oc=5",
-      "published": "2026-08-24T17:41:11+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -364,22 +376,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
-      "published": "2026-08-24T09:00:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Today’s Weed Is Way Too Dangerous for Teens",
-      "summary": "Opinion | Today’s Weed Is Way Too Dangerous for Teens The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnBqR3NKNl9FQWY2SkNodmhsU0pldkpTV29sZFhWNHd1aWMyV0tKMW9xSXVGbWtHV1ZVU2dwTW93elZFR1psZE5GbENzb3AtZHBJcDhzMnpQamlBSHpoZXB3MmpRTnRCTUlVRkpGdmt5Mk55SmJNS29hSTN5RWNnUU1ZaVlScDVZ?oc=5",
-      "published": "2026-08-24T09:00:31+00:00",
+      "title": "Opinion | Don’t Harry and Meghan Know Better?",
+      "summary": "Opinion | Don’t Harry and Meghan Know Better? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3FfTWRFdlp4dzRxV2dxNGpLdXl5WWotMWNIcERDZ0VEOExzMjFjYlE3eWRNaHVjY0FMbE9Qbm00MGlfMjNBOV9kSEU0d3pyTWFzb1RPalVROWdib29BelRhS0hveEVBaWRXVWVjTTlZejlVZHpTdTVtYXZ1c1VsRg?oc=5",
+      "published": "2026-08-24T09:03:51+00:00",
       "beats": [
         "Politics"
       ]
