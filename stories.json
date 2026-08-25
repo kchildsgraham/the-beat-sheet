@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T14:15:03.219128+00:00",
+  "updated_at": "2026-08-25T15:21:34.182632+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Two people in Pennsylvania have died from measles",
+      "summary": "Two people in Pennsylvania have died from measles CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnFobUk2dkZwdVktUlFTREthc1BQMjlLN1hYVEdCVUFybVVWbGc5VHFDd2dwWmthQTBQZFRHTldKdlo5aGdvMWQwMG1TakgweWZuWnFCcnNlRWdCNXhTZVlfU3loM2V5YU5KWWNCbXd2V1k?oc=5",
+      "published": "2026-08-25T13:50:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Jeffries defends himself following criticism for meeting with Jared Kushner",
+      "summary": "Jeffries defends himself following criticism for meeting with Jared Kushner CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FYW9FanJSVEl6enFwUUFPSzl1YmMyZHJLV0p2UTJ2dEJlbXE2MGtnbk5xTkFRZl9BN1htZnRKUkhRR08xY0hURXpzTHJSUnJEQmpDcFY2MnBtVDM4a1JzSEE2bUt6WF9RbTc2TEhWbHFGUQ?oc=5",
+      "published": "2026-08-25T13:07:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
@@ -44,6 +68,30 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Chicken nuggets are next on Burger King’s reinvention plan",
+      "summary": "Chicken nuggets are next on Burger King’s reinvention plan CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTWFPdjVJYkVUV3NWa0xPTllRQzFQWDF1WFY3TnU3c0pkejZOZlVkUzVwTG8wdHVhd243eHA0RVctMVJMRnpFNmd3Y2tOUGVNSW52S2x0YTNpb0xBTnVpRmY4T0swZ21OOVZHNnkwSmJSQXl6dGc?oc=5",
+      "published": "2026-08-25T13:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
+      "summary": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXF0MDNkdDAtYUE1andpWjR6U25iYmFrYVhNcC1TeklKajROa3RkeDhRbE4wazcxSUpPTnlYTktFV2doZFFjZFd6cU94Q1k3Um4yYko3d0NTZF9WcnNLdkdfaS1yQ0QtUnZOcXhXWmNRYUF4cy1kT1RFcWJGWWdfa2MybWNvQThJajF0ZDUyMVlUSTBjbXdaaVVMb3lFbE9DUjV1eXdobGRicGRCdllOamtCd1VwVGoxOS1yVUVlLVR2Z9IBxwFBVV95cUxQbF9pd2UxRDZHSTVyOHJSbEV5NkxCQzBHX2JlQTlqYVZFWGcwdnUwN01nVGdiU3cyUUlZTXJuei10a241eUdwMXlwUjJJNTBaN1RNMlZTSE1SaW1mSDZIa2k0ckdrNWd5MzNhNEJBVnQtR0ViaTZmbEZrbTd2bEhEeVRmcVBlZGExMGFjQXF5aFF1NzlBcXROT0RRajZIUmxRUTJkSnV4eW5HeEtGMHRpN3FJOWQ0TkN2ZWxrUm16aUszSTVnNTJF?oc=5",
+      "published": "2026-08-25T13:00:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -53,18 +101,6 @@
       "published": "2026-08-25T12:55:49+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his",
-      "summary": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWZzYjVmMk1vR29haWlMaXZIdGFYVzV1Y2JWTUp1aGZfWmVEZ3FlODlsb2kybDdfWnluOXJhczZFUy05anp1S194MnNzRUI0OXExSGNpNmIwMXBQcEpFaTh3MFhjQXRtS083SjctZW5EWWVpLXpkbGtjemVudlJyVm9YWTM?oc=5",
-      "published": "2026-08-25T12:06:36+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -80,37 +116,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Tourist dies after car gets stuck in mud in Death Valley",
-      "summary": "Tourist dies after car gets stuck in mud in Death Valley CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9taWRzMlEtTjhQb1VzMDZEZG93RnIwRUU2RmV0dlJUVnQwSzJjbGttZm5yMTZOOFRrckQ5bnQ4a3VVdG43NjdfVEc2NEtwY0F3U1A1N2djbXU1UzhOLTRCeXpLLUhnN3N3MF9DMi1XeXV2WWptemJXRG1uRS1mUQ?oc=5",
-      "published": "2026-08-25T11:09:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
-      "summary": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbG9Zd3AwRGMyc0daRWNYVGx5YXJmeGRzUVY5Rlg4TXpLTldIUnpZcEVNU0VaaUNYMTYxdGVtanlkcG0xZTF4TnFrTWhFX19UdDVLaW1rY3hISXg4YkdzSUdiNkxvNEx0WlVpbUNCNWJ2WlpzV0Y1RndQYzZGZXlrcnZiTnLSAYoBQVVfeXFMT3phY2ViRkhhMDR0bGZTSktMdy03SGFkNG5jTm9HcFBwMzlXZlQzYktqOXl6Vnk5RzJVWFNEZWQxY0NVa2tUc09tRmtwU0ZEOE5OT3Bsb2FMT2lhMjFkakdWeW1fSENzcmJQWllMZzJfVE5KcUhvX0tCREs4V1dCdXdCckVqVzJ2NVln?oc=5",
-      "published": "2026-08-25T11:01:03+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "This state is likely to get the worst of El Niño",
-      "summary": "This state is likely to get the worst of El Niño CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWplWTZ3Qm5yU2dKUDdSbDREaWFqRk5nV3JBZ1g4cXM2MWpqQW1PaEZ3VXl2Wlh4NW9nSkhqZURaTGE5bWRrZUFiaVpycE1TS0lSWU83c3N5Mm03cWlaUUJwcmlheS1rYy1DTTV0c3RtSGVJN0pQa1BDNEJrdzhjaHRkVkdMUnM?oc=5",
-      "published": "2026-08-25T11:00:29+00:00",
+      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+      "summary": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting NPR",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmdJU08ydS1lT1I0cm5ld3l2TTRTckU2ZjlxZUtoSFAtczlQc2JSVFpWaGw4LW56dW1RYkpzeWFZYm5EVGhVekFDZ1Z5V2VwMUoyTF9weVI3ZTEwcHA0TlgyVElERldDOEdKMndGX1JjRWhOQ3JIM080V0x4a09OSld0TlR0a0txb1R6ckRhaGhsRFNpM0gxTnRTUnhzdk4xV2FGdUwyei1LMkJXYjhHOV90Rmc?oc=5",
+      "published": "2026-08-25T11:09:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,13 +140,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Judge in Don Lemon indictment asks to see grand jury records, adding to growing scrutiny of Justice Department cases",
-      "summary": "Judge in Don Lemon indictment asks to see grand jury records, adding to growing scrutiny of Justice Department cases CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwY29JS0ItNTl6d3lBWXZvQ3BDcTIxZFpFS2Zzd25Xa2ZvbHJST3kwTDlJOE9leUZvVWhCaGt1X1V4eEpoZk9vdXNibmo0S0FYQVNoQVN6TXFjRUdLbGxiRHFtZlloSzlUS3Z5ZGRncmZwSXpDZjdmSzdBTzZaZw?oc=5",
-      "published": "2026-08-25T09:00:29+00:00",
+      "title": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease",
+      "summary": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96YXVIZ0NxZzI5ZndHanN0eF9HSjhyVUlaOTRBS2NvVDNzaUpDeHJKaVo5T1dBWlU2YXhUUnQ0ZWNUMVk5MWpXTWFKLUJKUkR1QzIyRzR0OGxOanU4dVF0VzdPUmx0bEFMQVU1MmxvTkNsUQ?oc=5",
+      "published": "2026-08-25T09:02:26+00:00",
       "beats": [
         "Politics"
       ]
@@ -161,18 +173,6 @@
       "published": "2026-08-25T09:00:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "When is suspending students discrimination? Education Department renews an old fight",
-      "summary": "When is suspending students discrimination? Education Department renews an old fight NPR",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOblByajduUjhrVG1RMUoxeGRVV1dLQXVibF84ZEFoLXlhTHZmZXEtV1ppOGNBYzhRc0ZpUW9xSTZQZmFIdjdSUXJFU0FMNGVsbGp1bmtZa09XWTJIMjYxUHN2aWxTakNoTmRjbkF2QkREekNNYmd4a2pjQVI4VE9OSE9LWGJuaUwxRUNPRVJvX0RxWW5waG82RUo2b0d3LTFETDdjMmV4aFB2WXhQZmZObnVKUlFCczU3cFJUTU81T3lXaTA2RFE?oc=5",
-      "published": "2026-08-25T09:00:00+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -287,6 +287,30 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Bessent announces campaign to create \"economic onslaught\" against Iran and its partners",
+      "summary": "Bessent announces campaign to create \"economic onslaught\" against Iran and its partners CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0VHbVlxbl9lZldHSWhZTFNSOXk3YXJaQV83UVBwT2F1UWxNeTF5R3BWVF9ZSmtfbW0xS1pwR2FXRUFNbm9jZEJONURyRDVJaW83NDJFV0FSOXg1TEJ5eXFLcGMyVmNJZDh3QTFjbVVmT2FTc3JTX2hTM0FnUHQxWnozdXAxQ0VMU2dFLQ?oc=5",
+      "published": "2026-08-24T16:06:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Gay adult performer Christian Styles dies at 29",
+      "summary": "Gay adult performer Christian Styles dies at 29 Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veHY4UmQ2d3VTWDFXU2duOEc4bmQ5OUtwS00yYVQ3dVh3TnF2dHRxQVptOXNYZV9fdVU5S0VpRnJSWGtFbzZUVUtLOFp0WmZ2RHVvaHJBSzJNb2gyeFdxcHpiamFla0Fn?oc=5",
+      "published": "2026-08-24T15:31:16+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -324,6 +348,18 @@
     },
     {
       "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Hawk Fire evacuations in Reno, Nevada, slightly eased but thousands remain on high alert",
+      "summary": "Hawk Fire evacuations in Reno, Nevada, slightly eased but thousands remain on high alert CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWNERXBTMUJlellBckNXMmNaaExEZ2wzbVM4bE95VDQxbGFBcXFUNzBUTU03NmFWYW1hQnRxLW1NOGZkdVNBQlliZE90WklQSjlTYWtDbGdKMzdrZGdxOXdhYTBlZHo0N2lLa0IzN0ZJT0tqN08yY3JNUWtXWmJEZDhvRTFVRHZldkVvZFhHYWN0czFZVzZHZnVXSTFyUVRCMWdzNU02ODI?oc=5",
+      "published": "2026-08-24T11:51:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Ex-NBA center Enes Kanter Freedom ejected from WNBA game after being confronted by Chicago Sky star Natasha Cloud",
@@ -344,42 +380,6 @@
       "published": "2026-08-24T09:02:37+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Today’s Weed Is Way Too Dangerous for Teens",
-      "summary": "Opinion | Today’s Weed Is Way Too Dangerous for Teens The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnBqR3NKNl9FQWY2SkNodmhsU0pldkpTV29sZFhWNHd1aWMyV0tKMW9xSXVGbWtHV1ZVU2dwTW93elZFR1psZE5GbENzb3AtZHBJcDhzMnpQamlBSHpoZXB3MmpRTnRCTUlVRkpGdmt5Mk55SmJNS29hSTN5RWNnUU1ZaVlScDVZ?oc=5",
-      "published": "2026-08-24T09:00:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "How three bills to close California’s student achievement gap ran aground",
-      "summary": "How three bills to close California’s student achievement gap ran aground EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpjQkU3NFN0RlpDOUFsZC1iVll3dWdwU1RzUnUwNEtrMTlYdTZWQktib1FnT0FxRG1nU0p5U0NYeTVHTm5DNGk0RXI2Ul9WWXlHYVo2N0pHVTNFcEJadXJSM2F3WC1kUzJiaDJyQzhNZF96bmNyZk9LdjdLNEhtZ21mNWdHOWpUeGxGN09oVTVLZmFZdC1VSG9lSmdpbDA0dGVnY05SeXnSAeoCQVVfeXFMTmF3MFd6VnRwQl9mY24xeHJ1V3FSV25nRmpVMXU3cHVTYVRUbVhnQ2dSQW8zYTBIMmVwY0xNMm01SGM5NEhWdDhwbXRnbVAyRXlNZ2tkVDRvbnA2UHFzeXVtV1dick1yNGNHUTVLZ05HN3FTRHJRQTRvNlpQNmlSXzlSRnZtS2pJVjRDWW12NTY1VkRwOFlSOHRwYnlnZVNRZndmTzFUVjNnRGV5Zk42LTVuaXRYU0I1ajU5NU5fQWZpR0w0TmdFX3FKb2Z3REowSlViaDRIQTJuNXd0Q1FUZTIzWVBUUWtFTzQ5X3czSkNQd1FuNE5HVUs1UEE1aGl6dk1CNjJRcElERDJTODdlZnhGNDRzM1JoQUV1WWkyVjlwZ2txcHI5akt3YkVRT2FXdXkwTnV4TVlJTDNYVFZlaURWM0hTTV9Pc2wwWWRYbmtBc1NoZFp2N1AwT08tQXowMVRxSVFLY3hXSEE?oc=5",
-      "published": "2026-08-24T07:16:28+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion)",
-      "summary": "‘The Best Classes Are the Ones Where …’: Students on What Makes Teachers Stand Out (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLU1QcGo4cDJFWWttMDVPdFZHZ0F0UEYtNk1FUlpZMXpNdEFYU1pjLVNWUmZlTXhHSFdZbGJHTDItc0F4UjItZEJaV0NvZTNVY2lDSThTTS04OUxjbHplZXRWM1dfQUdIWVAtZTVLMDNQNmtGanAxaE93VGtPSVk5OXBBMEVPVXh4cTdwbjdLdjZMSWVsQVR1bDdNbzV5WmNhUm5qSmVoYmtkbXdBVDBfM1NQdmE2ckpXdDVpQkpyYk8tdVYwVXljTE1fcmJfT0U?oc=5",
-      "published": "2026-08-24T05:41:24+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
