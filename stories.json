@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T11:29:21.383582+00:00",
+  "updated_at": "2026-08-25T11:57:47.643184+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,42 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’",
+      "summary": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’ CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wYlNuakhjNkRJcXE5X1kyUFNaV1ozOTY4UmRrX0lyRHllUHZJNmZzcHZVN3RUanlHNGJGcHluNzAxOE1MR0psY2lYTHRScm9KblEwZkx4MHVIQk9xaExoODVNMDJfTkVnX2dMcHNPYV9VcknSAXhBVV95cUxPSTRCTmpvai02WDNCWEhNTXdBd2VrSDJZTE1pZUhWSWowTGw2aFdYWVJ1ZS1DSzZkbk1VS0ZfQWJ2OG96RVFfZ2pYUmFieUhFNHVLOUNGcHJGbVN5LTEwRm04UVNiSWxYMEZSN1JnSkRCeEFoRy1LZ2I?oc=5",
+      "published": "2026-08-25T11:32:59+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "summary": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5",
+      "published": "2026-08-25T11:24:50+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "summary": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0RtUFJMRXd0YjRtUzFxNklBQ19kMzBCcmIzeXF1TWR2T2Fha1FUVXh2Zk9ZeTFWY3l6d1QweVJOekFVekdQbk1vN1RDamt2V1F6YkxUUWR0NlM2NzdRUE9udVh6QWFteTF0Wnd2NzV2a1pwY3NWX2FPSzkxS1JCNEQzS3lFN1M1U1JJ0gGQAUFVX3lxTE1hSlgyZFpqYjEtUF9vTVBESzJ2bzZEOGhoMVRnZXd6dmdtRU5iOTF1aW1Ndk02NFNFSUJYR25nZVJqTFFhUWs3M0Nnal93V3doZHN3ajJnbVVDcTVwRW1pSkwtN3hrMDM0aC1LZGJBNG1UMTNadDI2SDctajdqdlF1ZVc0OU9UdlRkVUM1Tnc5Zw?oc=5",
+      "published": "2026-08-25T09:35:30+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
     {
       "source": "The New York Times",
       "source_feed": "The New York Times",
@@ -68,18 +104,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: China in the crosshairs, Bitcoin is back and Dragon Ball Z diplomacy",
-      "summary": "CNBC Daily Open: China in the crosshairs, Bitcoin is back and Dragon Ball Z diplomacy CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDFFemZJTkg5ZWxOTGxZa3FBMDRNNUVscTE4RmwwUG96YUNYVlBIX1V3eGYxRnI0V0QyRHdkYVA2N3NBQzRGYUhXQmpaWHdVWlRSTlNWTk1UczlyUGpaVExGSXBxTVhsU3J6NHlwdEl4SWVyTkpRclc5Vk9NcDhESmdCdndCQ2PSAYwBQVVfeXFMT0prNG1jb01XTzlTbWxwZVBjOVlUVUFCUW1oLTAtamx2TExQRHNHMlEzXzFQWGRuZS0zU2tUQTFxaDFxcDBTYmhJYjEzR1liMVNWM1NMN3ZJVGhKU205cHZ3YmszNndxNWtFSEVaUUg3cEFPay10dkVlcmI5Ql85ckpwUmVBTDRYZjVDS0s?oc=5",
-      "published": "2026-08-25T06:03:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -87,18 +111,6 @@
       "summary": "The US says it’ll crack down on countries doing business with Iran. Who’s buying Iranian oil? CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYWU0ZFZja1B4NEJzcDZpbEJqTGlfMW52X1VlRFNMc0dzdnRQSXFRS3NuSXFKRnlmdHFnQVNTYUx3RlVHaW1JRkNSeVpaaGRNQjZQZEJiMnlRTFRpX1diaGE5dkdyVFozdWl3emdpWmpXNkpnOFE?oc=5",
       "published": "2026-08-25T06:00:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
-      "summary": "Trump targets Iran’s trade lifelines — here are the countries most exposed CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUpnWE9aZ0tXQ3dYTkZxcC1EdWdIXzFkWFVpNTQ1SGFsNXQ1NnBqSVpyTXk0eEdPVjF4djRVSGlYWXRDckpOLWRjTVhfYXBUNkJ4YWRCNHlQRVdFR2c0aFpCY2tWYjJ2QnNCX21oSlNQU2tKTUZGMlZoVkVmZkNybkFlaEwwU0RJckJuVFJZOUtwMmNnUWpiWGhR0gGfAUFVX3lxTE1mME1EWXJTZU1mdVc4MHdWb2ZXREZfUTV3LS1Sc3FodWgxWG5adGJwV3pWRG1qM2dkSWtNM2xLLXZnUHB5ZkV1VDdFeW9KcVk3VzBoaUVTXzdPWkVtc3hOVnh4MVJzb2p3WGg4UTR1Z3pETkVCaDJ1ZFJFbkhzNkx6RXJOWU9tUnFVUUhndHdIY3U4MElVRy1kdVloQ3BMaw?oc=5",
-      "published": "2026-08-25T05:29:41+00:00",
       "beats": [
         "Business"
       ]
@@ -123,18 +135,6 @@
       "summary": "Secret Service aware of Iranian state media video threatening life of Barron Trump CNN",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96Zk9zd2dWOFdtcGFpMHNoU2NUdklCWl9vZTB6V0NBUENtdkpfZnlfMGl2blZtVUpMUklmc0Y0b0tmS3o0dzJUQWY1VFRwTjFjWVJhREFhd2YxelFjT0VOSlRoWFNEcUI0b2h0VnVURE9HSjRPVjYxQzJwTFQzQQ?oc=5",
       "published": "2026-08-25T03:23:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Bitcoin price extends gains as crypto rally gathers pace",
-      "summary": "Bitcoin price extends gains as crypto rally gathers pace CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlVlbW1UcGhZSVR6dW9SVTIxX2xrREJYT2VrTnBCRENqeVp4ZUdpUERjemp6QmNLY1h0cUlVYm91OVBublNPOXh0aVdHWHdaU0JyX2gwanhxM0FuYmhfbUNOQjF4UVZPenhjd2tBaDBzbF9DbnMySkotcUpoLVVtekJld2QzcjJaUDNfWFF0cnRRY3NvUk5SMVB6MjLSAaIBQVVfeXFMUE5UVkdmUVAwazBVMTE3Rk5qNUIyTmtPZFhtUzdOVmhSQV9fUUVlT3VpUmZnQnJ5WlR5WWxsTk5ycEpwV0xOMmlkR05NQWNLVzA3R0JYSk5YUFh6NE9CTGtzVXpfeVNLb2l6TFVQUWxKOWthZGlwdHZEMlQwT0JWOEdWVXQwdlViNW9uZG5SQmZKQUhLSTdrOVpuRHBrNUV6a19B?oc=5",
-      "published": "2026-08-25T03:05:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -286,18 +286,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
-      "published": "2026-08-24T14:24:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -365,6 +353,18 @@
       "summary": "Can ‘Lymphatic Workouts’ Really Help With Bloating or Swelling? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3hVeW4zSm9IajFUcTA5ajRGUFpxZjhvYlNjNjJzdVlwYnFpN2o0cW1tTXBybDVKUUZsR0k0Y0NJMktwWlNublpuT04zeXVpREZfdi0zMTRwa0ZyS3plbTI1WG9TNEZiQ1lpV0dlUW93TkNULUtrcUtEdkhiTFRkbXlULTZGak54bHdLSA?oc=5",
       "published": "2026-08-24T09:02:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "summary": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
+      "published": "2026-08-24T09:00:33+00:00",
       "beats": [
         "Politics"
       ]
