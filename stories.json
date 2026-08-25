@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:29:39.105233+00:00",
+  "updated_at": "2026-08-25T21:55:35.742869+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths",
+      "summary": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "published": "2026-08-25T21:39:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -38,7 +50,19 @@
       "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
       "summary": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80 The New York Times",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SSlFNMWUtMEpKb1VyMUtVbk9QNmJDNWhfNFpGZTdITUYwajdxS0tSSzZjaXVpNTdDVWpsdDlybVZEc3JGTFFwamdSbVBRTy1WX2ZCYWNVLW9mdGdKb0poc08yQTdmX015QmdSX0JLaVlDcm91NFow?oc=5",
-      "published": "2026-08-25T21:12:45+00:00",
+      "published": "2026-08-25T21:12:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Father of Navy sailor aboard USS Lincoln released from immigration custody",
+      "summary": "Father of Navy sailor aboard USS Lincoln released from immigration custody CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZaUxBbHgtTWo5WWFRQ1VMR0tSUDg3b0NqTHcyMXdFX25pWmpwRUhaRnc1a0U2V25STzk5S3U1MUtpR29LeDZSbVU1WTAyeEtfcFAyZ0JueEY2aDI5eV92VGhkYzduQW4zZi1oX0E2WGpIM3hiQlcxdk1xbHhtUQ?oc=5",
+      "published": "2026-08-25T20:12:03+00:00",
       "beats": [
         "Politics"
       ]
@@ -53,6 +77,18 @@
       "published": "2026-08-25T19:25:03+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "8 Times Dolly Parton Cemented Her Status as an LGBTQ+ Icon",
+      "summary": "8 Times Dolly Parton Cemented Her Status as an LGBTQ+ Icon Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81VzVyWFRsMGJDTFF6Z0JSNnBXSVg5VmR1T3hyZU1CMDdBXzZHcUo0OWtuQjVuN29VUXJLdEtpdUFMd3dIZzhfaWZXay03UkY5Sm9wTFdEc3R6bmtaNGl2S190N1QzMFpFbXU0cg?oc=5",
+      "published": "2026-08-25T19:13:56+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -111,18 +147,6 @@
       "summary": "Dolly Parton, queen of country music and humanitarian hero, dead at 80 CNN",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5udmFyN1VzcVpjbWh5NlFhaEhJM1BDSmpfN1hTTWJmRlh2SGFscWNodHJ5QnVWQUJkcFVrTGYwNkRVM2t3dGF2dUkxWFV2bHVQdDdRX3BpWmdIVHBsZktpVmc4SklFeEFPVWM2ZGVZREU?oc=5",
       "published": "2026-08-25T18:03:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Raygun has made peace with the Paris Olympics — after a lot of therapy",
-      "summary": "Raygun has made peace with the Paris Olympics — after a lot of therapy CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzNHWmxuMEd6QVNWN2Q3TG1hRndKd3JBRFoyQXVCN3ZZbS1MTkhFZVhuY0VnTnVkNHFKTDRyQVE3RmI2WE9FNzRfSzJCZnhxblZEV1NFSlZCbDh6Ynk4bFU4RmpINXNWUnJzQnhuRWxrb0NBQWJDVFkwTHg1ajdBbkhaQmJxZllFazRNVjZjZWJ4SHh1YzdJaHZOcw?oc=5",
-      "published": "2026-08-25T17:22:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -222,31 +246,6 @@
       "published": "2026-08-25T12:06:41+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Transgender CIA veteran who briefed presidents says Trump has ushered in ‘amateur hour’",
-      "summary": "Transgender CIA veteran who briefed presidents says Trump has ushered in ‘amateur hour’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ObnBFV1B5cnRIYUpXcDdWX0NZWHdQVUw5UkVmSlhoOXpNYXhWcDJ5VllINHRlaDlIX2p1UkFTYWVpLVd5dWJ0VzFwcUEwZUlLRm1Ka01LUzU3QjFqTWJpMS1VV2JnRjdGQlNnYlIxdmZuTVdrNGpuOXowZw?oc=5",
-      "published": "2026-08-25T12:00:41+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Major Study Finds at Least 1 in 4 NFL Players Gets CTE",
-      "summary": "Major Study Finds at Least 1 in 4 NFL Players Gets CTE The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96YXVIZ0NxZzI5ZndHanN0eF9HSjhyVUlaOTRBS2NvVDNzaUpDeHJKaVo5T1dBWlU2YXhUUnQ0ZWNUMVk5MWpXTWFKLUJKUkR1QzIyRzR0OGxOanU4dVF0VzdPUmx0bEFMQVU1MmxvTkNsUQ?oc=5",
-      "published": "2026-08-25T09:02:26+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
