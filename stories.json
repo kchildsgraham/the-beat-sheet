@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T05:32:40.882504+00:00",
+  "updated_at": "2026-08-25T06:50:39.748698+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
+      "summary": "Trump targets Iran’s trade lifelines — here are the countries most exposed CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUpnWE9aZ0tXQ3dYTkZxcC1EdWdIXzFkWFVpNTQ1SGFsNXQ1NnBqSVpyTXk0eEdPVjF4djRVSGlYWXRDckpOLWRjTVhfYXBUNkJ4YWRCNHlQRVdFR2c0aFpCY2tWYjJ2QnNCX21oSlNQU2tKTUZGMlZoVkVmZkNybkFlaEwwU0RJckJuVFJZOUtwMmNnUWpiWGhR0gGfAUFVX3lxTE1mME1EWXJTZU1mdVc4MHdWb2ZXREZfUTV3LS1Sc3FodWgxWG5adGJwV3pWRG1qM2dkSWtNM2xLLXZnUHB5ZkV1VDdFeW9KcVk3VzBoaUVTXzdPWkVtc3hOVnh4MVJzb2p3WGg4UTR1Z3pETkVCaDJ1ZFJFbkhzNkx6RXJOWU9tUnFVUUhndHdIY3U4MElVRy1kdVloQ3BMaw?oc=5",
+      "published": "2026-08-25T05:29:41+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -27,6 +39,18 @@
       "summary": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTdjdy1JZjZPRlM4Qm1WdTN1TTdvWWpCOHJOSFdwRE5IcWRXOC0tNzJQQzI1akNRT09OSTlaLUpNMGJ0a2stVmJmcm9YbTFaNUlZSkJ2UWVuTlNIcm9jaER6NllqMENKQVpnR3RVbE1GbjhtbnhUNnE1MVlYVlVHQS1KMWpyLWNXaEVzRGNBSWpqRVItMW1tbUNYbw?oc=5",
       "published": "2026-08-25T04:56:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "As elections near, Netanyahu casts Turkey as Israel’s latest enemy",
+      "summary": "As elections near, Netanyahu casts Turkey as Israel’s latest enemy CNN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHc3UlJ5YlBXNHZNTnNjeHF1a2dla04tYVZqUndNZFNvS21rdnBqTzk1OFEyQmh4ck9uc081b0dDM3R2dDM1bjZ6UGFrd2d4WVV0U0dtaHNkeDBtQlZueGRhVmpDMU5CaDYyMkNhYUdJcFptQU4yWU93aVV6bkxpdnpzV2VsSmVfTmlVSGx0N0RpVVVGeHhGSDY5ell2dFFtQUFHWV80b2EzSXdu?oc=5",
+      "published": "2026-08-25T04:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,18 +92,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "What Trump’s Supreme Court win means for mail ballots",
-      "summary": "What Trump’s Supreme Court win means for mail ballots CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzWEtRUjJjZXdLa2tLUkhXMDNvaHdqSVIyWjFmWENTVjktaDI2NkVmZEZaVjhyeW01S3RGZnFqcVVUWXYzMkxXRjZwWTZIYlFZN2hJNzFKdFlKdURIRFF1cERRZGVEU0Uxd2laVW1hd0RLbWNXNlM2NGs4RQ?oc=5",
-      "published": "2026-08-25T01:08:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -89,6 +101,18 @@
       "published": "2026-08-25T01:07:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "James Longman tells Guy Pearce that Priscilla was his gay awakening",
+      "summary": "James Longman tells Guy Pearce that Priscilla was his gay awakening queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamhNOHRwTFN5MnVJSDBHODlldlVMM0tHSThFSFlWT2x6MTBGTjBzc1NTTTNRcWZ3MlU3cFlMcmtPRUdVb1NRRkpIQjh1S1FfZ29jYl9xOUxHSnBGTGhKUkpaRGNMUWVZOW8wLTBIS3FrUHdadkZvZVhFWUZDRkl3NHZYR2V5bWJZNkdveTE5aldKdnZUMDFGUm5CZzJDajRfUHZF?oc=5",
+      "published": "2026-08-25T00:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -102,18 +126,6 @@
       "beats": [
         "Business",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-      "summary": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdfaGtSZDBUREVtcmc4ZHpTSDAzMFhZbGRvb3pobG9jMHRhemVaRS0teUE3X1hLMUZ5eE5HelRtR3FONkJqalc1c0w4c3NhSEZWbENYcWZtTjFDWFNjUTZ2YWhtYjNKdHlCNGtuTWRzMVF5aTcxbFJ1b2NmdFJ2anAwV1ZwN3VSSWJaUWZIVGhlX3B1UDllVU1hVGxPRnNtNWR0ZtIBqgFBVV95cUxPRGtzak11VnpqZTB6ZnlpVDEtUldscElJWU4zUm56ZktzX3RHeHVkWXlUNlBKYkpZNElJTW11LVE3NHFDaUdjcDF2QjF1UjNXNjRBZ3I5NDdLM1F1NFQ2bGctUzdxUkZmUWczS1Y0MEhnMDBreWthQk5TRC10N2xGYXpJT21TSE9RZC1MeVVNSFV4UkJ4QlFrSTItc2x5MVRKaFJobjZQQlVGQQ?oc=5",
-      "published": "2026-08-24T23:00:01+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -160,18 +172,6 @@
       "summary": "Macho man JD Vance says he hates ‘good-looking guys with beards’ during weird manufacturing speech Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxeUkteVpXOEcyR0VEeGU4aXpjM2t0V0Q3QmhvVm1FNVFUMHpSM2hHS0Y4NW5fdjN6c2Uwc0VSR253cXdtZ2FxQkpKRkVlV2ZDT2J1UXM0ZENqaWZjbHVCSUhJd19sQWNNaWxHbUVKblhYTU83MUFaeg?oc=5",
       "published": "2026-08-24T19:29:40+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Hit coming-of-age series Invisible Boys is finally getting a US release. Now, let's meet the cast...",
-      "summary": "Hit coming-of-age series Invisible Boys is finally getting a US release. Now, let's meet the cast... queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVFqMm9NOXRzNTNHTnVYRkNueWhla0RHaGtDQ1dNd21ma0Y2OWhJY2JaUVpBUDh5M2NzVXoyZ0RhQUNsRkE5TlUxYWJTZlExaHhuUzBqYnE5S05Cemlobl9SZU9HMFVXUFZOSXRjWW9uN3Zqa3duNkNsSEkyS01EdU9kQ3ROZW1BVHFNT2JKMFlWYzFnaG1rWm96Tk1Va09ZdnJVM0xwMHlPcmJfaUJHeTJQeGRHdHFLMlFEU3lWQTNYUmFTbnVz?oc=5",
-      "published": "2026-08-24T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -309,6 +309,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Today’s Weed Is Way Too Dangerous for Teens",
+      "summary": "Opinion | Today’s Weed Is Way Too Dangerous for Teens The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnBqR3NKNl9FQWY2SkNodmhsU0pldkpTV29sZFhWNHd1aWMyV0tKMW9xSXVGbWtHV1ZVU2dwTW93elZFR1psZE5GbENzb3AtZHBJcDhzMnpQamlBSHpoZXB3MmpRTnRCTUlVRkpGdmt5Mk55SmJNS29hSTN5RWNnUU1ZaVlScDVZ?oc=5",
+      "published": "2026-08-24T09:00:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -342,18 +354,6 @@
       "published": "2026-08-24T05:41:24+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Canada Said No to America. It Will Reverberate Far Beyond Its Borders.",
-      "summary": "Opinion | Canada Said No to America. It Will Reverberate Far Beyond Its Borders. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUEJlUGViV1Mwcjhta0VEWjJVZ0FpQXg3QmZjWHlpMnIzVUFTTzhhUlR2TzdaOHptenBMcHBibHVNSzAtalpkeWlRVF95OEJRT1BkYXh4OHZxZldxNmtNaVpMdmNvaFlwOUZ2b3VjSUVNT2l4YlBqTmxuQjdRT1p1b212Y0tabklZSWc?oc=5",
-      "published": "2026-08-24T05:00:12+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
