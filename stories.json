@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-26T14:49:52.333102+00:00",
+  "updated_at": "2026-08-26T16:18:50.327183+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,370 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+      "summary": "At least 75 killed and hundreds missing after flash floods in Nepal and China NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSzdOdmhIZ2RSTEtQSEpDMnVQbU5iQ1gxUkVMNUdJUS1KbDl4ZDc2Z21aaHNpUXFwWWxvcUdQTXMtbFR3YXFKbUtIS2sxNWRaUmV0NlJ3NkxYY3BvQUoweVM0WmlDV3NRNmo1LW9B?oc=5",
+      "published": "2026-08-26T15:29:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths",
+      "summary": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "published": "2026-08-26T15:29:32+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+      "summary": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SSlFNMWUtMEpKb1VyMUtVbk9QNmJDNWhfNFpGZTdITUYwajdxS0tSSzZjaXVpNTdDVWpsdDlybVZEc3JGTFFwamdSbVBRTy1WX2ZCYWNVLW9mdGdKb0poc08yQTdmX015QmdSX0JLaVlDcm91NFow?oc=5",
+      "published": "2026-08-26T15:07:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
+      "summary": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95dDFCVkJEWjdhV1dZUDN4SkktT0phdEloa3pqWl85YWxESXVQR1NRQzkyUTVpRl9DTnUzUVVfTUIwQjBwZ2U5elZqanVMc1U4a25WRHQ1WEJiYjNZdXdDVW41S3BhcnZCZXRydFZjNFBnZ0tfMWIwOGRR?oc=5",
+      "published": "2026-08-26T14:58:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Bill Gates proposes major limits on AI development",
+      "summary": "Bill Gates proposes major limits on AI development CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MM0tMdlVIZW1SXzhxY1ZORHpMVnFDT01QRER5VEo3OFFNLWVkTGJmZldndGphUGo3NVJfcDNpT2lNTEpPMTNJY3k0X25BdVo2c05xZ0lVUk9ZLS0zVTZ0WFY4Y01IajhUZ3YxU3ptZWtPS0NRVlNhNA?oc=5",
+      "published": "2026-08-26T14:09:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Meta, states agree to $17 billion settlement in child safety trial",
+      "summary": "Meta, states agree to $17 billion settlement in child safety trial NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazdJdFVpUTVyZmRFU09JbV9xZmlJYnQ4Q1JHMF9lcWhXTzF2QU4zNkY4SW1QUzFoaTdGbGRDaExOajJFLXlnT2I1ZGRUTlBlRkVwY3JoaFVHTWtMTkdtclp0enBwSm0wZThWRDdtSmxVbDQzOFI3cDdvejUtbTNoaG93SHFhVUVX?oc=5",
+      "published": "2026-08-26T13:33:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US says Chinese cyber spies targeted hospitals, government agencies and the military",
+      "summary": "US says Chinese cyber spies targeted hospitals, government agencies and the military CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1hDYmdTVEpoVjc2VmxxQkw1WkNQMTBNWFA1X05rRl8xWGc5M28telBsbXNRX01mcHhRWnZ5aEZlX3l2T3BDTTZGR1pvRnlNRHlNYVhMd0NFblkzQU1TVVpOdTMtWUJyT1RPeV9Fd1dxcGZDZHdpdmwyRDUyYnRXTUI4ODhfWE0?oc=5",
+      "published": "2026-08-26T13:26:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Our 2026-27 back-to-school playlist for K-12 leaders",
+      "summary": "Our 2026-27 back-to-school playlist for K-12 leaders K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYldYTVlWRFlTeEl4TkVOTHRHSV94bDAxT1MzQjJmeTBJblpFU0JGWHQyd2dLQW1VTTZTNnNscVc2ZTQ1eGdSVUNZZDBvMU91YkVlN0xqdUktZTVMWTZ6WVJkdlVRdXdLWGVXbmRuWC02UGpLY0dSYUFVUHM1RjJGUnE1OUFtM0Y1N001ekhoT1VNN0U?oc=5",
+      "published": "2026-08-26T13:23:58+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Meta settles landmark child harm case for $18 billion and promises changes to its platforms",
+      "summary": "Meta settles landmark child harm case for $18 billion and promises changes to its platforms CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GTmw2QlpzRF8xU2pORGc5bHI4OWNSSnhmSTY4cmxpMTVDblJRbFZzZjZLWkhCRVdGRW5fTHRGX2ZOZjVLd2RyUFFWTXRXcTY3bVZ6R1FId1JUeTFJdTdoWXBRcEFRUzBibGZUSGx2aDVNcWRPZnRkMQ?oc=5",
+      "published": "2026-08-26T13:23:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+      "summary": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TWjRYRDczeHJMLWZEczhIdzZYQmJPcFEyU0RqUlNIVDJHbUZSM3paVDhIQmlXX296U0pJaWt4YWpNaXZDMl85SlFyWjNrU3JOV0U0aFhSQXN0NGdfcDhMYnFwS0hUc3ZRcVQtVkFSYUU1eXJicm96TkJhMFk5d9IBgwFBVV95cUxQQXN1dFVRNHdaY2s1WVdFXzBiUFl0VjN6Z3BMR1RJVXFWQVRtNm9uQlBwNl9KNUxTVEUyalRTM242OHFNaDNzVkNFdWNmb2RQenNLQ3lNcmJYWlBiTlp5SWRuUzNoNmdqbWhqSWJqMnZteEo0b0hBR1hVZjg1UGN6VzRQQQ?oc=5",
+      "published": "2026-08-26T13:12:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "summary": "Meta settles social media addiction case with California, other states for $16.7 billion CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbkNIV2NNRGxSZHRKcGk2bXdrRTFfYmNuMTFzMkJTeEJJMFE2dHRnUWhVWm00R1pkV0xNc0RGaktESDB6d3dFVE1WejhPYU1aZ1N4cmQ2d0M5ZWtVdV9jVkVXaFphSkpHRDlYekt6M1k5QWplLWpoVFgxYw?oc=5",
+      "published": "2026-08-26T13:05:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+      "summary": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
+      "published": "2026-08-26T12:32:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Omar Marmoush to undergo Tottenham medical ahead of loan with obligation move from Manchester City - The Athletic",
+      "summary": "Omar Marmoush to undergo Tottenham medical ahead of loan with obligation move from Manchester City - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0Rxdm1peHhCOGhPdUlNdUltazFEX3RuS1dRRXhaQ2hrbl92N2VPSWppSjYxYnA1QUtpellySkl6UURTOW85N2dqWGo5WlJETnpNTG5tWVNBLWdweUFLb1lrU0ZlLVdtT1FhalJpY1NYZ2R6MEdWcVV5T0tHVE9odE02dGZrdnFfMkxvQ0p0b0daWkdtZEVfZXhGWVdNQQ?oc=5",
+      "published": "2026-08-26T07:48:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Dolly Parton, country music icon, dies at 80",
+      "summary": "Dolly Parton, country music icon, dies at 80 NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHM0bEtXZ3pRVDhvNGJYWHl5emltcmFkUVhva1ptbmU1Rld6WXd0alBEYTFweXdTRWhJT2Y5SEw2RmlFZzFEOFFUZmZFMVNJeXp2bWNNOEZ3RU1ZYnZQMG03d0ZVemFLenBaaGdvdkJlQTBRd1JDV2RCdVdSMWRCdldjSkdlVmJJSnVXYUVENA?oc=5",
+      "published": "2026-08-25T23:34:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "This Texas effort to prevent schools from ‘passing the trash’ could go nationwide",
+      "summary": "This Texas effort to prevent schools from ‘passing the trash’ could go nationwide K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWhPeloxYTBlb1dEOWF0bENzLVNWdWhNNUdUcjA2R2dPTGZzQkZaaFJRbHZvVHd5amxkQk1iNWtmR19lbXk0MVl6TmtISGJxMFFhRjJ4eHFWX2FzSDk4MFJuLWZPTjhLcDVwLXRkemNSaURCMjNxSXNSS0RHTGFyXzZ5TlZwdlpwcHBON1pCTEtjakZ3b3M4WGU3bTVWeTdJWTY4VXhGM09hcW9OQ2tv?oc=5",
+      "published": "2026-08-25T21:18:56+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "8 Times Dolly Parton Cemented Her Status as an LGBTQ+ Icon",
+      "summary": "8 Times Dolly Parton Cemented Her Status as an LGBTQ+ Icon Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81VzVyWFRsMGJDTFF6Z0JSNnBXSVg5VmR1T3hyZU1CMDdBXzZHcUo0OWtuQjVuN29VUXJLdEtpdUFMd3dIZzhfaWZXay03UkY5Sm9wTFdEc3R6bmtaNGl2S190N1QzMFpFbXU0cg?oc=5",
+      "published": "2026-08-25T19:13:56+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "University of California’s most selective campuses have increased in-state enrollment",
+      "summary": "University of California’s most selective campuses have increased in-state enrollment EdSource",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JeHdtbTEzZ0dkYTdrM1N2V1p0OERfMVBWZUdmNEdZMkpSVkRVU0VlR1VtUnJUcTQ2SklLZUlMdEJYajhyQi1OTklCNVhEdDU4eTFUTk1QUjlXS0drdjNFclpzWWNjQnlMcENGYVdn?oc=5",
+      "published": "2026-08-25T16:01:02+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103",
+      "summary": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103 NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEYtM1RER3JSVXNiVFlwMW5XVWNvOXp1aW1tSkpvSDk2T1hFSHBWbHlnenk0MUgxWHhJT1VSX09mY1oyc2Z1UWRSWnNMdlcwaXpXcnk2LWpIcGZtQnVKaXh5QmE4SHlta0g1WS0zSWR0bU5VdlZ4ckk0eVI4aE5ELVVHY05HdG15M053Ukd3UlNRUUhNUWd5YzBDcFU2UmpmNk1wMW1ISlFaR0ZwTk9Xb2hQU0dpSGVkT3c?oc=5",
+      "published": "2026-08-25T12:19:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his",
+      "summary": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWZzYjVmMk1vR29haWlMaXZIdGFYVzV1Y2JWTUp1aGZfWmVEZ3FlODlsb2kybDdfWnluOXJhczZFUy05anp1S194MnNzRUI0OXExSGNpNmIwMXBQcEpFaTh3MFhjQXRtS083SjctZW5EWWVpLXpkbGtjemVudlJyVm9YWTM?oc=5",
+      "published": "2026-08-25T12:06:41+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Transgender CIA veteran who briefed presidents says Trump has ushered in ‘amateur hour’",
+      "summary": "Transgender CIA veteran who briefed presidents says Trump has ushered in ‘amateur hour’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ObnBFV1B5cnRIYUpXcDdWX0NZWHdQVUw5UkVmSlhoOXpNYXhWcDJ5VllINHRlaDlIX2p1UkFTYWVpLVd5dWJ0VzFwcUEwZUlLRm1Ka01LUzU3QjFqTWJpMS1VV2JnRjdGQlNnYlIxdmZuTVdrNGpuOXowZw?oc=5",
+      "published": "2026-08-25T12:00:41+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How Much Do Instructional Reforms Actually Improve Schools? (Opinion)",
+      "summary": "How Much Do Instructional Reforms Actually Improve Schools? (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjgzYWphNi00Y1dzT0RFUjBVN3E2SFBjbnB4ei1TdHNfVEpzY2ExM0QzU0lONkI1czBSQnhsZV9kT3N5eU5TajZ3NlNqSzRFUERpX1ozQTZLY1ZEZWJMMkREWmkxcVFTT1JmZTk2NmhYR0hFX0hHeFFtQnYyMVlJOTJDMXFWQkRZTWk5UUhac3hHUzhJbVNlODM0czJaTjdOcTFrR3JMVC14cS1m?oc=5",
+      "published": "2026-08-25T10:00:40+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Abdul El-Sayed distances himself from Hasan Piker’s comments on Israel and Jewish Americans",
+      "summary": "Abdul El-Sayed distances himself from Hasan Piker’s comments on Israel and Jewish Americans NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmdzamZiUVNqVHhRUjRRbFJjQ2QwQkVtMjVqRzRBODd0R040VS1YU0xjVF93eVBOb0NSRno3WEYwZjhCVVdPMENQcThzbFhkeEpLMldSMGpkU2FWb2sxMG9iWFR2dE51NXkzSnZGOVpBeEtOcUlnakZ4bDZKdGduRHlELUx0aGRUM0pwZnhQRUNsQnI3QVpndUh2b0R3MXpETVZCMlNrTTVIUWwwQXZxVmV3WkNFQWY4bWVZX0xDN3N3VlBE?oc=5",
+      "published": "2026-08-25T02:45:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause",
+      "summary": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJjaFp4WE8yNDNwZHRUdHZzdVJNWFZUVHdnSUdfanE5a3gzVHBCbk9BQTBCLW5fRWJCZEt5WEpCdUZoejA1TURUckRXS1NiLUpHcmRTS2JVLXB1T2NCcWtTaUZOQ05mSDBLdTRLSkF3a0Q4TzJaY3NvSFFMaXR1eFZrU05CSmZNWlZYbkV5R0V1R0dIUDR6VFJTck1hTHpFc0FkX0Q1Q1lock9nZ2VpQkJna3RHeVdvT2NqdFc5UnNfY3RGQkJpS3FHVTRBZjg0OUE?oc=5",
+      "published": "2026-08-25T01:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Police investigating deadly fight at Hayward business",
+      "summary": "Police investigating deadly fight at Hayward business CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHhTZWlZc1o3eEM4Q0xaZVdpQ2hTQkZjLWpoS0dGcGFWa08weXVtRnpzcWdvdFo1Z19ic1ByVGw0eXN3ajlxUWtqcHBrS3U2b3ZkV3drc04xOWMyakNWcHQzUHdPRHNRRWhWY0xzTDJFMU5vNzd4aGxSTGt4ZGlVbVNnWGFadEpqWE5rcmZFVjZ3d1lERW9qNFVqeGE?oc=5",
+      "published": "2026-08-24T23:51:29+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Marc Jacobs reflects on that 10-man sex party scandal: “I’m not going to lie about it”",
+      "summary": "Marc Jacobs reflects on that 10-man sex party scandal: “I’m not going to lie about it” Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUC1Tb2M5cGsyalpMZEcyMzBNbXQyOFl2a1cyZm45MHY3cFhJSFVMRUJ3NzBPcVhNNWo4ZERTM05hRjBtci03emxIQy12WVRCTVpKUmozd2FyMGQ1S3lfOGx2TF9xQ0Z0VWxjQVVoNHhybDMyWVdEVXV6UDUtczVtUVpMZ1lsUHhmbE9kMXdIb1V4M2tlNkVvSE9jcmttVE5EV1ZIZ2F6TQ?oc=5",
+      "published": "2026-08-24T22:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Colorado fall colors could arrive early in 2026: Here's when to go",
+      "summary": "Colorado fall colors could arrive early in 2026: Here's when to go CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rOTRBb3l1TDRzQWFJVlZfV1Bkeklkbm9RV1FjZFZDaXBIOG1vbkZsZ2tUbHU4Uk14cnk1ajYzWGctNkJVcjBnU1FnYTZndXdlTlJpMlcwYm9EMm0xS290SXpkZzg4NG95elBKd0NoWm1mcHl6dVJLSlhR?oc=5",
+      "published": "2026-08-24T21:36:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Fremont fatal shooting was home invasion burglary that ended with resident killing teenage suspect, police say",
+      "summary": "Fremont fatal shooting was home invasion burglary that ended with resident killing teenage suspect, police say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWjBkYW1iMVRMLWlfTndEbjkzdFZXOGZ6bUhBeVZJNnFDaFZibUdhSjdTUWtObTFQX2RtcWFJRkEtbklDb0xhMXpQWlJXaEJiWnJGeS1Oc0JFLW51NmFXWDdXTTFPcnBpczdXdFN3T1B2VEE2bldXQXc0N3RxTTl1UGhsWkNSTmM2WlJVdmg2ci1BVmZOTy1Gb2Y5LUpyU2VqVG4wOEk0NGJxZDFuZElLd1BETmpBMGJYd1FJZTI3VldPbjhWQlhUNXY0WG1jLUp0?oc=5",
+      "published": "2026-08-24T21:08:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Grace Jiang",
+      "summary": "Grace Jiang Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KeFpVeHpKYV9YaGxLUkNyUUl4TzM1N3NrdHF4RE9tVTFDaG5aRzY1SWtTajU0OGdyTW5PNDd6Wm92eTBUUWtkQmhrTzROUQ?oc=5",
+      "published": "2026-08-24T20:21:16+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Gen Xers fret over the future of Social Security. \"I will likely be working in retirement.\"",
+      "summary": "Gen Xers fret over the future of Social Security. \"I will likely be working in retirement.\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9feW9TaTlHTlF3UDZmSWhhcU1PaGZGdE15dUg2QmVXQU9id2JzUENXZERpS1pkQklOUnFwZDVsWGhuel9WTnU4akotNXZxWnAyY25WbnBmU2NzbzlFWnJxVUxTRndLRXd4b0FvalhPN21rNEFrSFVpTjB3?oc=5",
+      "published": "2026-08-24T19:48:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Palo Alto parents protest tech in classrooms",
+      "summary": "UPDATE: Palo Alto parents protest tech in classrooms EdSource",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wRWdWbmZMNGhILTZVWlZfOUl3dWM5ME0xQjlCZGVLRWJOUnlxMU9uWWY4anprMTBIbDVPcUxKRXV3a0lkSXZMZll3bHg0UnROMFY4YjBnZEc1c2xoNnEwSmx0U0tuVVFLaTdnTEZqMmwxdjNKdmlHYUt6ODJyQQ?oc=5",
+      "published": "2026-08-24T17:41:11+00:00",
+      "beats": [
+        "Schools"
+      ]
+    }
+  ]
 }
