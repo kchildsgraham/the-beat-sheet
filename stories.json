@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:22:59.605649+00:00",
+  "updated_at": "2026-08-26T02:48:21.770792+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
-      "summary": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWJ4MHVqaWkzakIwaHRZWWo4SVg5b01UeXhTWWVfeXE4TXp3aXhqNzdMQTFGdFhsODZjSjd3Y0NraWZJQk1PQ2k5bkxhbDJEdnl5TnlPOTYtXzVOdlMtSzBwVlVpU2ZMV1NnT3JBc3U2cjY2RDNZOFBZT1JiNWZmRnBQZldVXzdPZmJ5N200M2s2TE9ScndnRENmbnhSdHNmVVlhTldmckk?oc=5",
-      "published": "2026-08-26T01:01:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
       "summary": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80 The New York Times",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SSlFNMWUtMEpKb1VyMUtVbk9QNmJDNWhfNFpGZTdITUYwajdxS0tSSzZjaXVpNTdDVWpsdDlybVZEc3JGTFFwamdSbVBRTy1WX2ZCYWNVLW9mdGdKb0poc08yQTdmX015QmdSX0JLaVlDcm91NFow?oc=5",
-      "published": "2026-08-26T00:39:52+00:00",
+      "published": "2026-08-26T02:17:48+00:00",
       "beats": [
         "Politics"
       ]
@@ -50,9 +38,21 @@
       "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths",
       "summary": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
-      "published": "2026-08-26T00:39:50+00:00",
+      "published": "2026-08-26T02:09:50+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: The U.S. is flexing its economic power — drawing retaliation",
+      "summary": "CNBC Daily Open: The U.S. is flexing its economic power — drawing retaliation CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUhjWGxGSzllOVgwU1lyNjN0dnVubEtFVHBDTzlRclpTdGo2MW05UE9KU3ZTQi1zU0xGVHlQakpsUkxFNk9lZW5BVmtlWERHM3BjQnN4bGJ0ZHBfcUJQUmg3bkxic2lQcWtCeGxuWFpPSTUzMGE3b2NBa3dZLTR3S3FlR19RUTNsV3F1QmZyaldfLVBC?oc=5",
+      "published": "2026-08-26T01:02:00+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -68,13 +68,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-      "summary": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWJoaE9DVHg5MUZxQVpKcHhEb1Z6S1dmRjRlRlB0Y0c4aDAtelpQLVNUZnBjQzd0eG5LT1laS1l1THpEZUhYeVlaV1lNMTI2S2FQVEM1R1daZUJMWjJwYVRWSFNGWWlrTWNQaGZCUUhyeDJNOVRvbGwySHptZlFLT2hia2ZUYnNLNmM2dEkzOVMzd3BCOUE?oc=5",
-      "published": "2026-08-25T22:50:57+00:00",
+      "title": "3 Secret Service officials placed on leave amid misconduct investigation",
+      "summary": "3 Secret Service officials placed on leave amid misconduct investigation CNN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHdyejhrNGFGLUE4bndWNUh2b0gtb1RaT0ktdkwwUFNIWmk0M0JFMzkwd1lUSHJxbzU4TGJFMlZ1djJPSjRydERBaXhFcm50OERFWFRuajg3MHpud3JXQjZDb0ZUZkZVaVpTZnR4YXVKV0dYLWtWRlY3elhNZWREaUNpZklibDRic09yaUVLbElBUjJTdTRlTDl2Q20wOHc?oc=5",
+      "published": "2026-08-25T23:34:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,6 +92,18 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Saying goodbye to Dolly Parton",
+      "summary": "Saying goodbye to Dolly Parton NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQU94WkNkeXNaa1RtajhrR01KQnlfNXk5d0lMajRDWlFmYXViMHgzWkFsRW5GSHBmVlR4YTM1NHNURmEzanJyaEM5S093Skg2LUUtaXRKWUtUWmR3V3YyOUlXZVEyTHNPTHJZWG1YRHNZV0N6NEYxcWtJWjk0QXBTdA?oc=5",
+      "published": "2026-08-25T22:29:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -99,6 +111,18 @@
       "summary": "SpaceX plans to build the ‘biggest launch site on Earth’ for $100 billion in Louisiana CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Q0I3SE1iRUZzOEZfc3NwM0JtU0pVejJKNy13cWR3c1lsZE9EaFR2eFEtblVhbEhOX1F3Z0dNekxOeURHbW1veXhiZzJlRXRGcHlkYUpGQlpLLVJDWURneXdZbjRTSFVVVjlLc3VjcHFRM3lpY1E?oc=5",
       "published": "2026-08-25T22:24:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, a family spokesperson says",
+      "summary": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, a family spokesperson says CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2OXRiR2FlY3pmMEFJdm5mdS1vbzV5VjFwdGJKYkFoblY3QmlzSTVobkdxa2RidHd1Q2F3YTQwRGVLejBGQTFqVVQ1Q3I3OGpuMTZHYmpVMjJXUk1DYl9kb2d4c25nQVkwbHc2TjhpT09QNUVy?oc=5",
+      "published": "2026-08-25T21:52:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,27 +152,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Father of Navy sailor aboard USS Lincoln released from immigration custody",
-      "summary": "Father of Navy sailor aboard USS Lincoln released from immigration custody CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZaUxBbHgtTWo5WWFRQ1VMR0tSUDg3b0NqTHcyMXdFX25pWmpwRUhaRnc1a0U2V25STzk5S3U1MUtpR29LeDZSbVU1WTAyeEtfcFAyZ0JueEY2aDI5eV92VGhkYzduQW4zZi1oX0E2WGpIM3hiQlcxdk1xbHhtUQ?oc=5",
-      "published": "2026-08-25T20:12:03+00:00",
+      "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
+      "summary": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWJ4MHVqaWkzakIwaHRZWWo4SVg5b01UeXhTWWVfeXE4TXp3aXhqNzdMQTFGdFhsODZjSjd3Y0NraWZJQk1PQ2k5bkxhbDJEdnl5TnlPOTYtXzVOdlMtSzBwVlVpU2ZMV1NnT3JBc3U2cjY2RDNZOFBZT1JiNWZmRnBQZldVXzdPZmJ5N200M2s2TE9ScndnRENmbnhSdHNmVVlhTldmckk?oc=5",
+      "published": "2026-08-25T20:47:54+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Bond rout ending? Massive bets on bond rally dominate options market",
-      "summary": "Bond rout ending? Massive bets on bond rally dominate options market CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTl9ONkxfdWtROHNZQXBfRk00elRyZzZCRjlPdjFENHl2Y0lHNnI2R19kRVNmd052b0t6MlhFR2FpNFZ0WER2X1BkdVhnYmJzbHdSZElEcjZiOXdPY3d0OS1NMmtqR0FOa1piM3NadkVYeE5udUw1ZjBmMFduaC03WlVybDI2NWhjTHdrRU51RDlMUFI5emE5Y3ppcDBGMU9keWs5OHIzVzPSAa4BQVVfeXFMTkFLUlFkOE9QelRtVGh6cGl4cWx2YV8wSUk3cTlobmxUVlEzSFRmR21oZFB3cjA4S1VnNmhFQ2dTZ0tNNmZtZE5ycjlVOGtsTE56TGNMeklSdVVMQ2tIT1FGSzVpR3pSR25PSEJGUFdUMldrOGlhdjdCajBrR2FfTXQ2eVJRU25WU255amJWck41ZXBaS0FWVVlxTjcyUzhUX2hHS2w5T0haR1ZKdGtB?oc=5",
-      "published": "2026-08-25T19:25:03+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -161,18 +173,6 @@
       "published": "2026-08-25T19:13:56+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump administration threatens to demolish Kennedy Center if renovations aren’t allowed",
-      "summary": "Trump administration threatens to demolish Kennedy Center if renovations aren’t allowed CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUxUQ1A3dlp0dFZMVUhWalVyZHU4Nk9JUklwZTYwZFVaUlQ5OElXRVM4SGcyY1FETW9FSlBUSEJFbndSak8tdjJidlVxdUppeUpSMjFUejdCYlZsZFFaNXdzdkpjSnFTM0pQcE43dVQ0enZYSVlaLVhmWDVGWXkyUA?oc=5",
-      "published": "2026-08-25T19:04:24+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -227,12 +227,11 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Trump and Linda McMahon lie about trans kids — in front of schoolchildren",
-      "summary": "Trump and Linda McMahon lie about trans kids — in front of schoolchildren Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUZWTFd2clo0b2F5WWRUMGhnREJKTmpPYjlEXzc3WkloWnBqcmQ0c2RHOFh6SGFKTVpaS211VkxZQkg1c2Nud19BbjJyT0tTN3lHUzcxZVpHYTBLdDlXaTR2QkJRdG5XU2xCTVYzUkgtZThRc3ZzOHFnZWcxbFNXeUZOcUdxeVM3?oc=5",
-      "published": "2026-08-25T12:15:56+00:00",
+      "title": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his",
+      "summary": "Jesse Watters wanted to debate trans kids’ bodies — until Dr. Abdul El-Sayed asked about his Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWZzYjVmMk1vR29haWlMaXZIdGFYVzV1Y2JWTUp1aGZfWmVEZ3FlODlsb2kybDdfWnluOXJhczZFUy05anp1S194MnNzRUI0OXExSGNpNmIwMXBQcEpFaTh3MFhjQXRtS083SjctZW5EWWVpLXpkbGtjemVudlJyVm9YWTM?oc=5",
+      "published": "2026-08-25T12:06:41+00:00",
       "beats": [
-        "Schools",
         "LGBTQ+"
       ]
     },
@@ -253,8 +252,8 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease",
-      "summary": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease The New York Times",
+      "title": "Major Study Finds at Least 1 in 4 NFL Players Gets CTE",
+      "summary": "Major Study Finds at Least 1 in 4 NFL Players Gets CTE The New York Times",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96YXVIZ0NxZzI5ZndHanN0eF9HSjhyVUlaOTRBS2NvVDNzaUpDeHJKaVo5T1dBWlU2YXhUUnQ0ZWNUMVk5MWpXTWFKLUJKUkR1QzIyRzR0OGxOanU4dVF0VzdPUmx0bEFMQVU1MmxvTkNsUQ?oc=5",
       "published": "2026-08-25T09:02:26+00:00",
       "beats": [
