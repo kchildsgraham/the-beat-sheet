@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:54:44.520937+00:00",
+  "updated_at": "2026-08-26T13:55:59.517247+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,54 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
+      "summary": "California says states, Meta agree to $17 billion settlement in child safety trial NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazdJdFVpUTVyZmRFU09JbV9xZmlJYnQ4Q1JHMF9lcWhXTzF2QU4zNkY4SW1QUzFoaTdGbGRDaExOajJFLXlnT2I1ZGRUTlBlRkVwY3JoaFVHTWtMTkdtclp0enBwSm0wZThWRDdtSmxVbDQzOFI3cDdvejUtbTNoaG93SHFhVUVX?oc=5",
+      "published": "2026-08-26T13:33:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Our 2026-27 back-to-school playlist for K-12 leaders",
+      "summary": "Our 2026-27 back-to-school playlist for K-12 leaders K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYldYTVlWRFlTeEl4TkVOTHRHSV94bDAxT1MzQjJmeTBJblpFU0JGWHQyd2dLQW1VTTZTNnNscVc2ZTQ1eGdSVUNZZDBvMU91YkVlN0xqdUktZTVMWTZ6WVJkdlVRdXdLWGVXbmRuWC02UGpLY0dSYUFVUHM1RjJGUnE1OUFtM0Y1N001ekhoT1VNN0U?oc=5",
+      "published": "2026-08-26T13:23:58+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+      "summary": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TWjRYRDczeHJMLWZEczhIdzZYQmJPcFEyU0RqUlNIVDJHbUZSM3paVDhIQmlXX296U0pJaWt4YWpNaXZDMl85SlFyWjNrU3JOV0U0aFhSQXN0NGdfcDhMYnFwS0hUc3ZRcVQtVkFSYUU1eXJicm96TkJhMFk5d9IBgwFBVV95cUxQQXN1dFVRNHdaY2s1WVdFXzBiUFl0VjN6Z3BMR1RJVXFWQVRtNm9uQlBwNl9KNUxTVEUyalRTM242OHFNaDNzVkNFdWNmb2RQenNLQ3lNcmJYWlBiTlp5SWRuUzNoNmdqbWhqSWJqMnZteEo0b0hBR1hVZjg1UGN6VzRQQQ?oc=5",
+      "published": "2026-08-26T13:12:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "summary": "Meta settles social media addiction case with California, other states for $16.7 billion CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbkNIV2NNRGxSZHRKcGk2bXdrRTFfYmNuMTFzMkJTeEJJMFE2dHRnUWhVWm00R1pkV0xNc0RGaktESDB6d3dFVE1WejhPYU1aZ1N4cmQ2d0M5ZWtVdV9jVkVXaFphSkpHRDlYekt6M1k5QWplLWpoVFgxY9IBgAFBVV95cUxOc0kzYURnS1pYTnR0SlphVVNCSnZOOEk3V0xOak1JcHdmUndmeTF2Qjg4UVM1b2ZVbURjbG82N0J6VV9DWG9mN0J0MWRTQ0Qwc1pjNmF3QWFUTHlfWTJxTUdZVE5QUy1BSjdQVkdVd3l2ZDRUTmpzWEw5U1pYWXBIWA?oc=5",
+      "published": "2026-08-26T13:05:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -44,27 +92,51 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
-      "summary": "Mortgage rates hit highest level in 3 weeks, weakening demand further CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXg0QnVnUlpfd1JIM2JfTzVxR0RwNnZjWENWT1hMREFBMEhMeHRnUFV2Q3dtVUZuNFNyVmpBZUhvY1doODN5T2MtX1pwU1pULVZuZ3o1VG02d0k2ZkpkakdkRGJRTG9VRzZXaEIwR3lZRkV0d2hUSWJ2UEVNYkp2bUVtMHZRUWdYVVRXNUQxTHJJcU94RzlXWmdoT1lobU9rQnA1U1RwLUrSAa4BQVVfeXFMTjUzYVV3MmtNSm5rSzcwWmFmc25KTEtlbkZJd3VqV3RKaTNnWEx0MXlOd3Q0LWpVbHBjV0xlMTAwVWdpbW9qNFFxaFZyQTlNeFNwenRObzhrR0xRZnc4em9aMVVlcDVSbDFGM3dtcWI1blJtNFZWSGZlTWx1NEluU2l5U3gyU1NyOVYyYklOMnpYVGI3WUxJMFFQcmt0NWxRMFZob05HNVRJbTk1S0FR?oc=5",
-      "published": "2026-08-26T11:00:01+00:00",
+      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+      "summary": "8 dead, hundreds missing as Nepal avalanche triggers flash floods NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmtXWWNQTU9XbkZKNFViX3ZkcU1mNElWc2EwWVB5Z0FaMUFHV3F3UnNvREh4MnAtNkpGakhKaWxwTFdZSmRZN3drSHc3c1FsSEhtTkgwWlo3SVdudzNYRnBTRGJpZ0tKSk1laHBQQXp5NmVOMmZFMFpRdDNzLWRWYnFJLUZwUVMyenh0VFhZWHBDRzc4SllzRWlKcFMxaVhPaF9UX3ZiSjV3czg?oc=5",
+      "published": "2026-08-26T12:27:19+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Our 2026-27 back-to-school playlist for K-12 leaders",
-      "summary": "Our 2026-27 back-to-school playlist for K-12 leaders K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYldYTVlWRFlTeEl4TkVOTHRHSV94bDAxT1MzQjJmeTBJblpFU0JGWHQyd2dLQW1VTTZTNnNscVc2ZTQ1eGdSVUNZZDBvMU91YkVlN0xqdUktZTVMWTZ6WVJkdlVRdXdLWGVXbmRuWC02UGpLY0dSYUFVUHM1RjJGUnE1OUFtM0Y1N001ekhoT1VNN0U?oc=5",
-      "published": "2026-08-26T10:16:15+00:00",
+      "title": "People flee as huge wave of floodwater engulfs Nepal-China border crossing",
+      "summary": "People flee as huge wave of floodwater engulfs Nepal-China border crossing CNN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmF2UUtoSFFzdWQxLW41MlpwdW9ldHJIdDlOVjMzSnNNd1hFdE92NkRqcXk4ZWJoV19Ed1lNYk9ISVVNZzFhYXlUUkhCd3ViZmJoMGJYXzJpdHZ0aVVZUHRUelpZRGkwZVNxR09aMGpLY3VzVTRvRWF0c29ZNHVJbWRVZXhHTm9FaHVxajRDaW1tOWRKOWtRa29kaUJtb3VyTl9BY19pRVMybGhSVmRIS0otZUdEcFcwM3ZhTGNpOXRSQQ?oc=5",
+      "published": "2026-08-26T12:04:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Man arrested near US Capitol after driving from California with a guillotine in his truckbed",
+      "summary": "Man arrested near US Capitol after driving from California with a guillotine in his truckbed CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQVBUQmZacVgyRzdEa3NhemEyS0h4eFN1SEY3dkx4MU4zc253SHJQRUk0MG1Wd3JEeTBBMzBjV2Ztdmo3UkRLZnhCSFlKQU9LemRrU0RXa1Z3aDIyLS04UU9mYUptTmFHVzYtdTljUl9ENGd3N3dVaGxaZXNSRU5JNkg0RThvWXZaTURkRA?oc=5",
+      "published": "2026-08-26T11:37:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+      "summary": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton NPR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmhoVS1sTWpNb0wtanJJRE5ZNkQwSFd5WlRwelRITjNyZE5HYjBTSmlKblpMbkdZc3ZMaGpzZklsaFR0ZndnRUdxSUoyLVVKMFhnTFFyV0pnZVE4cHp4X1NoWHBnSUZlZjNiZUhkTXZ5YlI5UW4zQzhuMVljMFpMWEJKZ1E2SGdvMmtqLTdRd1BZcXRaSUhvN0R2X0ZVNTlrQnNjb0VTRlVQUVh1ZG1YZldaVmNGN0h5c0UxM193?oc=5",
+      "published": "2026-08-26T11:05:46+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -73,44 +145,8 @@
       "lane": "General",
       "title": "Dolly Parton, queen of country music and humanitarian hero, dead at 80",
       "summary": "Dolly Parton, queen of country music and humanitarian hero, dead at 80 CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjBEb2lFbTVNWS1RQ2htbGhmanlWREN1Q3RTRFRCbm1JSGlIbEhyV2dIQUpkV3p0NHBYT0R5b29Kb2RrZ1dhdDMtX2FZRUswV3U2RGNfcFFpNmpsLUtCY08zbGI0WnlES0U0RmMtdUkzNVhhVk5sNW9WdkdRSFRqRVMyVWVtdw?oc=5",
-      "published": "2026-08-26T09:31:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘I wake up with nightmares’: Ex-hostage who dug his own grave describes cruelty of Hamas captivity",
-      "summary": "‘I wake up with nightmares’: Ex-hostage who dug his own grave describes cruelty of Hamas captivity CNN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ19rUkVUMFVwMk5qdGpQQ1BueEFBek9iY0NpSTMwS2YyN25JMXhWWU9PZUNrT0hPY3EtaFJObFlxUmdLaklfZ292VkRxMmZOVFBST1NybFZMaTREdFBZUnByVFljaXZlcE1aLXktREtTeXRzQzNfNDlQNlZ4Z2ZzdzFXNkt3bDNhQ2NYVUwxTTlWUnpNMFNReHlVcHA5QS1i?oc=5",
-      "published": "2026-08-26T09:24:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump needs to get tough on China to get tough on Iran’s economy. He’s been reluctant to do that",
-      "summary": "Trump needs to get tough on China to get tough on Iran’s economy. He’s been reluctant to do that CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OYUc3QUI1Q1lQRGg5T2wtbkVsd19NdnNFdXIyVE4wR0dsR1ZzUTdzc0paUUhMenExdTAta0tyLXJ5MHBsdkt0OGZPM0psejBTeVFaWEduZzZWY3Z0YU83Q2I3U2VzRURWS3hnNA?oc=5",
-      "published": "2026-08-26T09:00:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
-      "summary": "Hollywood's summer box office is glowing, but the numbers come with startling caveats NPR",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GV3NoX1JEaG1lMkZkdWREVFZOdi05YmZEcWRPM3hNLW5WYVJCU18yZlltR25tdWhQVlY1STdCTm43eXVMQ1FkdmY4MDFXX1Vkc1lfbzJuOE9lRHBuOWY1RDZ3M1l3ajFFS2Z0dTJFNERWMHFvRWp3?oc=5",
-      "published": "2026-08-26T09:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmtaTWEwZUs0R01MSHdRYXZwQU1yMUZSQlRrM3BjZHd6VEQtSFBBWVZFcnAwSW5xRndlLWxPU3czZHptV2RNTzdSVlg2d0RnaGk2ZkgwX05vdUt5OVBxNFNGel84bW1GZGZmOFF0SmI3amRHUzlBcVEtVEs3WGNiQkFDTnlZMHcwaHFqSlZGblRUNlk?oc=5",
+      "published": "2026-08-26T09:41:20+00:00",
       "beats": [
         "Politics"
       ]
@@ -123,42 +159,6 @@
       "summary": "Omar Marmoush to undergo Tottenham medical ahead of loan with obligation move from Manchester City - The Athletic The New York Times",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0Rxdm1peHhCOGhPdUlNdUltazFEX3RuS1dRRXhaQ2hrbl92N2VPSWppSjYxYnA1QUtpellySkl6UURTOW85N2dqWGo5WlJETnpNTG5tWVNBLWdweUFLb1lrU0ZlLVdtT1FhalJpY1NYZ2R6MEdWcVV5T0tHVE9odE02dGZrdnFfMkxvQ0p0b0daWkdtZEVfZXhGWVdNQQ?oc=5",
       "published": "2026-08-26T07:48:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-      "summary": "Test your global economic knowledge with this quick Planet Money quiz! NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1RidlBEWVVkOWVrTGI3di1PSDdobk9YdWQyaTZUSkYxRHRJdGY2clI4NC1KcVVqZHExUHlTbi1HTE8tU3NuS0w1a0YzOWVfalN6SXk1ZTdnTDRVNEJZaTdpRU1Ib1FSUlRZWnp3bHpWQVgwOWNOdnJJR19FR0ZCc0NkcHdpZw?oc=5",
-      "published": "2026-08-26T07:30:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
-      "summary": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jOUFCMjg1c0xRdGhQS1BBdzczQTF5Y2oyaThSN0JLblRpZFRwOW9SQU43bmxaY3FsZE85bGRJbDBBNUVDSzEtdEFVV1RoR1pCMWlGMmc5STN1SHBCbHBMbXk3b3hYdHRNbnFZQ21n0gFzQVVfeXFMTVM2NDQ2amJfcHlFN0tDTGFNODhiMldlYVRzdnFOMklqajVfekp1eVNxOUoxWFN5ZGxXczJZc0tGb1VhRkpzYWFRQXdkUEhLZjZkbERPYkZyZkswd01wQUg0aXBHRzVEcjVTX2FoYzJyaXNOMA?oc=5",
-      "published": "2026-08-26T06:46:58+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
-      "summary": "Target faces renewed backlash for Halloween costume with 'minstrel show features' NPR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2NGw3ZHNVNl9DXzB6Y19JWjZnOVhDR2RMVm1ZamVMdmNLMGxhV1MyZ3VZbDFlMVRORmRETW9nR1FSZ0VUUTJSMDduVDh2aVJtYTZSbnEtZVVKanJkRXVWVG9KUm1XY2JBdlkzZ0Z6ZzNQbG9Ic0U4TUdPWVJDS25B?oc=5",
-      "published": "2026-08-26T05:45:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -221,18 +221,6 @@
       "published": "2026-08-25T16:01:02+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "CIA Director John Ratcliffe met Russian intel counterparts on secretive visit to Moscow, Kremlin says",
-      "summary": "CIA Director John Ratcliffe met Russian intel counterparts on secretive visit to Moscow, Kremlin says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnd5N1Bjd1VhMVRidmJudVNJNXJHSFZrb1RtejBKY04yRU9jN1ZqSnRfVGVpbzhYdXZzVU50M211TkxyMGJoMHJOaklmTXI3ZGhwaXVvdmROTE9ka2U1RWI2RDN4aW5abVZIXy1yM19vQVZ6dElCdlhYY1JIWURSNTd3?oc=5",
-      "published": "2026-08-25T14:29:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -380,6 +368,18 @@
       "published": "2026-08-24T19:48:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Palo Alto parents protest tech in classrooms",
+      "summary": "UPDATE: Palo Alto parents protest tech in classrooms EdSource",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wRWdWbmZMNGhILTZVWlZfOUl3dWM5ME0xQjlCZGVLRWJOUnlxMU9uWWY4anprMTBIbDVPcUxKRXV3a0lkSXZMZll3bHg0UnROMFY4YjBnZEc1c2xoNnEwSmx0U0tuVVFLaTdnTEZqMmwxdjNKdmlHYUt6ODJyQQ?oc=5",
+      "published": "2026-08-24T17:41:11+00:00",
+      "beats": [
+        "Schools"
       ]
     }
   ]
