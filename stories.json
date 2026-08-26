@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:52:08.004105+00:00",
+  "updated_at": "2026-08-26T07:48:17.033430+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -32,6 +32,18 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Nvidia carries world of AI on its shoulders",
+      "summary": "CNBC Daily Open: Nvidia carries world of AI on its shoulders CNBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcjdaVENYV0p6T1RiWFZsMVYzUHNGdmhJN19PMmhZdFRxVWtJQjJCUGh3SWVVZWRlQnBYSXdtNV83dVR6RjJoQlRSY3FmWms4dmNuR1YyQ1dWZ0llT1pJaHFYa1FKUXFxZ1pZ0gFwQVVfeXFMTmc4dkpMekV6eXBnNUw4N2FyVzRrakd5aTZ6bjlybnBtZXJMQkJDLTdsemJ1a25PMGJOSWdrMlpUekwxQzQyMUlBMWtseDVSMEUwTDNCQUI1X1lJUEx2M2ZxalU3XzlhRmVzOHRhSnE2TQ?oc=5",
+      "published": "2026-08-26T06:20:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -47,8 +59,20 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "More than a dozen infants killed in hospital fire in Pakistan’s capital",
-      "summary": "More than a dozen infants killed in hospital fire in Pakistan’s capital CNN",
+      "title": "Alaska’s Senate race will feature two Dan Sullivans and Mary Peltola, CNN projects",
+      "summary": "Alaska’s Senate race will feature two Dan Sullivans and Mary Peltola, CNN projects CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYm5VYV8tNU95aGVkT3FtQWJyUGVrd1NCdlBTczZKdWZTSlpCWGcwVXV3djU4NmFzRHV2NFJjVkdWRkdUNmQ3dWJpUmVuTURkMFRpUXlWeGpINzJWZ29ESGVPMWw1QXdINUVEU0RzRnJRYTlTSF9MNFRGZkhCa0Vob0Via0o3UQ?oc=5",
+      "published": "2026-08-26T04:26:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Hospital fire kills at least 14 newborn babies in Pakistan’s capital",
+      "summary": "Hospital fire kills at least 14 newborn babies in Pakistan’s capital CNN",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUlrWlFmbHd0N2RsUF9UWmtUYmlSWjl3S25abUJzc01BSTU0ZVdzcm5ObnY4R0t0SkktV3lVSXU2NW9UVVNGVU5MdmF0NmRCMWstbkxFQXdrLVdPYWZwM0tqbTRnS1RCbWJfeGhQVVRlSVQ2Z2xhOXJEb2o2NVRxVUln?oc=5",
       "published": "2026-08-26T04:19:32+00:00",
       "beats": [
@@ -80,30 +104,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump gets a much-needed South Carolina win and other takeaways from Tuesday’s elections",
-      "summary": "Trump gets a much-needed South Carolina win and other takeaways from Tuesday’s elections CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHllNk12Tm9qamZJWkpFVnIzS3ZySzg4Q0hYdFJjUVpYb2syS2dxejhseHpIZVNnY2NYNzRJVi0wVXFqSElqZGlQTnJCMEhsRTdXOTZmbmlnVVI4X3otN0lBd3FnaEJiR2cxYjRZWXhzNENyMElrUkNsc09UN3BaejVwQTNMYWJs?oc=5",
-      "published": "2026-08-26T02:33:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
-      "summary": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SSlFNMWUtMEpKb1VyMUtVbk9QNmJDNWhfNFpGZTdITUYwajdxS0tSSzZjaXVpNTdDVWpsdDlybVZEc3JGTFFwamdSbVBRTy1WX2ZCYWNVLW9mdGdKb0poc08yQTdmX015QmdSX0JLaVlDcm91NFow?oc=5",
-      "published": "2026-08-26T02:17:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -116,15 +116,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "CNBC Daily Open: The U.S. is flexing its economic power — drawing retaliation",
-      "summary": "CNBC Daily Open: The U.S. is flexing its economic power — drawing retaliation CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUhjWGxGSzllOVgwU1lyNjN0dnVubEtFVHBDTzlRclpTdGo2MW05UE9KU3ZTQi1zU0xGVHlQakpsUkxFNk9lZW5BVmtlWERHM3BjQnN4bGJ0ZHBfcUJQUmg3bkxic2lQcWtCeGxuWFpPSTUzMGE3b2NBa3dZLTR3S3FlR19RUTNsV3F1QmZyaldfLVBC0gGaAUFVX3lxTE5VOF9rWEVqTlZJNUtndk5lVnA5eEZiNU5uWVRYc09lUzFaLW5ab0RxaFMwdnV1UzdxUmNKNlFTakJzbUg2cm9jbWpGRk5BQ0E3aTRaS2dzOWJ2QnhiNEtfSE5lMWgwanJ5SkxDQXJnQk5LQl83ODVDOEZDN3JvNWJqeldsd1ZpRTI0V3NYNGJESFdIMU85Y3BjRVE?oc=5",
-      "published": "2026-08-26T01:02:00+00:00",
+      "title": "‘Paranormal Activity’ Review: The Thing That Goes Bump in the Night",
+      "summary": "‘Paranormal Activity’ Review: The Thing That Goes Bump in the Night The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNW9kUVNYRmRYRVpEeVVGaVJBZVE5NGRYUlBiZE5VTEo5eTZmRFNGQW9ZN3ZacWZuNjBHdHAwQlNUWDlLSXJTcThVbHRVY2VVU2hyMkNhYldkbVFUNEVja285MEZoTk5qc2lvQzJxNjB5NDd0WkIyZ2F3ZVpuX05obDN2eW1hNFJKakJv?oc=5",
+      "published": "2026-08-26T01:00:06+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -140,18 +140,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-      "summary": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWJoaE9DVHg5MUZxQVpKcHhEb1Z6S1dmRjRlRlB0Y0c4aDAtelpQLVNUZnBjQzd0eG5LT1laS1l1THpEZUhYeVlaV1lNMTI2S2FQVEM1R1daZUJMWjJwYVRWSFNGWWlrTWNQaGZCUUhyeDJNOVRvbGwySHptZlFLT2hia2ZUYnNLNmM2dEkzOVMzd3BCOUE?oc=5",
-      "published": "2026-08-25T22:50:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -159,6 +147,18 @@
       "summary": "Opinion | What Dolly Parton Told Me The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzJpTzgwOFFUSlA3d1ZQRlU2ZFRaV053TmNhMDh0Rmp3UHBaRFlfQ2NrV1U1a2o1WmxOOHpkbnlib2phVFVqLWlQNFZTQUthQVVHVndlbjRyTDNVckVRQ3NBempXdG4xaWNTXy1ITVNweHJ5OEphTWt1RE51b2xUSG1Ud2tOMHNE?oc=5",
       "published": "2026-08-25T22:32:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Saying goodbye to Dolly Parton",
+      "summary": "Saying goodbye to Dolly Parton NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQU94WkNkeXNaa1RtajhrR01KQnlfNXk5d0lMajRDWlFmYXViMHgzWkFsRW5GSHBmVlR4YTM1NHNURmEzanJyaEM5S093Skg2LUUtaXRKWUtUWmR3V3YyOUlXZVEyTHNPTHJZWG1YRHNZV0N6NEYxcWtJWjk0QXBTdA?oc=5",
+      "published": "2026-08-25T22:29:56+00:00",
       "beats": [
         "Politics"
       ]
@@ -273,6 +273,19 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause",
+      "summary": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJjaFp4WE8yNDNwZHRUdHZzdVJNWFZUVHdnSUdfanE5a3gzVHBCbk9BQTBCLW5fRWJCZEt5WEpCdUZoejA1TURUckRXS1NiLUpHcmRTS2JVLXB1T2NCcWtTaUZOQ05mSDBLdTRLSkF3a0Q4TzJaY3NvSFFMaXR1eFZrU05CSmZNWlZYbkV5R0V1R0dIUDR6VFJTck1hTHpFc0FkX0Q1Q1lock9nZ2VpQkJna3RHeVdvT2NqdFc5UnNfY3RGQkJpS3FHVTRBZjg0OUE?oc=5",
+      "published": "2026-08-25T01:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -331,19 +344,6 @@
       "published": "2026-08-24T20:21:16+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Tr*mp's White House is experiencing a \"mass exodus\" as more & more staffers abandon ship",
-      "summary": "Tr*mp's White House is experiencing a \"mass exodus\" as more & more staffers abandon ship Queerty",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2FuT25sY2xaenBKTWwwOG1qRTIwcG05Y2lrbFF4STU4VVJwNnExaGd2cmwzb29DaDVNMGl1UVdsODk2Wm13Xy1Ra19obnlxdl9aX1dFMGRPTXMwTmxka0huU2YtbWVyRDdoMk5BMndkMTEzSjlRRmNscVdIekNKYWw0RmdDdmtSdzNMOXZYVG1RUVRGV0xROHFBT1Y3NV9aTVBDbmpYR0lDOG1qcC1TalEzQ1dHMjg?oc=5",
-      "published": "2026-08-24T20:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
