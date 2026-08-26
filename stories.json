@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:18:50.327183+00:00",
+  "updated_at": "2026-08-26T18:15:48.552751+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey",
+      "summary": "Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZYnlCbGxySlJLeXhZZVNCX0RJLXZoOXY3emFVZ0NXOXM0Y0k4VUtOaDNsb3BQX01qSVRmRm1xYUNrbDd0dkNuZTJSV0hGWG9mREtnWVJTeVU5LVRndmE4T3N5WVVJLW5UajNidU15OGI3bGtZ0gF6QVVfeXFMT3U1VzZVTEg3VnJ4eDRORnM4X1BmcnJyanlQdFJwblRSVTEwaXNqRmtacXg1VGNjNTc0MzhxVEJWeHY2dkkyN1E1cWJkcmtEMFo4aFV2NHBBMC0yaUZ2cnhraEVDRFhQTVhvY1VXT1o0T3pjS3ViZmFHQkE?oc=5",
+      "published": "2026-08-26T17:02:24+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
-      "summary": "At least 75 killed and hundreds missing after flash floods in Nepal and China NPR",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSzdOdmhIZ2RSTEtQSEpDMnVQbU5iQ1gxUkVMNUdJUS1KbDl4ZDc2Z21aaHNpUXFwWWxvcUdQTXMtbFR3YXFKbUtIS2sxNWRaUmV0NlJ3NkxYY3BvQUoweVM0WmlDV3NRNmo1LW9B?oc=5",
-      "published": "2026-08-26T15:29:48+00:00",
+      "title": "Tim Curry, who defined 'The Rocky Horror Picture Show,' has died",
+      "summary": "Tim Curry, who defined 'The Rocky Horror Picture Show,' has died NPR",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tWXRicWl6aldaRTlRRTN3Mm9DR01fdl8tdnRkMlNGd3VQUlMwVGxBX1BKVzFfLUVYbVdoaDRyMm0tN2cydmQ5bjhTTWl6Z19VQlowMUIxNndtMm9FbXBVWWZyMTA1WGotMVE4?oc=5",
+      "published": "2026-08-26T16:33:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
+      "summary": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11TU9hWXlSREZPbGFlbDluU3ZaVEo4RDJVa0RjODdPM1dOSVlMQmpyRUt2OG9zNDlCNkhuQzFEU0pyTzNfZ3RsQjdmMldJX2sxTUZPVDhXZVo0NmdGdFNzV1N6a21BSFZqMzlGd29oUFlYaHc5OVRVQ1dMMDlpZ9IBgwFBVV95cUxNOTF4Rzdyc1JVV1FyWUx4Qkx4S21wSWNSUUhfcUNLTnFwalZwZmY3cUFtR3lJSVZxNFIzRjdUa3dHVmtjMUl3a0c1YTdaVjE4Q1ZXSkJ1a3gwSEg4ZjM2UDQ3dU90Ylo3M2ZwUFprTnYwckowc3R0VGVGSk94VHBLYnlLNA?oc=5",
+      "published": "2026-08-26T16:24:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80",
+      "summary": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80 CNN",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1paFFqZ2IwdHNxYVd6LWR3RnlsY0c5TDF2N2FfVnlBVF91V0lPUkhQR2RxR0g1aEI3WU9lZHRBOE5MTEM2aUtlN1hCTQ?oc=5",
+      "published": "2026-08-26T16:16:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "States sue to block Trump-backed USPS mail-ballot rule after Supreme Court setback",
+      "summary": "States sue to block Trump-backed USPS mail-ballot rule after Supreme Court setback CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeTFUUHNHVS1kZzZoOHNnN056aXBZRXVaa2RoVHRNQWdzMU1ZWXNwckdiZEFLWVV1eDgwd3owc0lBVVdORm52SW1LUGJNMS1qTWRQUTFqVEw2Ul9xaXFTdXpoV2F4NHhFb0xvZGp1Q2xJTG5tN2o4bkpzMWJndlBUdVFVU2ZnQVRXSXlkSGJXMV83aE0tanpNeNIBngFBVV95cUxNNWVyRHQ4N2tpNzc0SDhES3p6cHdyNnJmRWx4UTNueFNkUUJGb1JqczZoSDd2MDNaajBsT3JHMmFIUVd6UE5zUnZramhaZjBKRW15MFhqQklTTUJUc0lMd2tiZFB4RjRhQnhLUFQxajh0MG9Jb3NVYjBRWEs4d3hvOGZVWklmTFBWcVNNUXZhaG9CYzR0SHhjOXJqY2F5dw?oc=5",
+      "published": "2026-08-26T16:10:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,30 +128,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Meta, states agree to $17 billion settlement in child safety trial",
-      "summary": "Meta, states agree to $17 billion settlement in child safety trial NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazdJdFVpUTVyZmRFU09JbV9xZmlJYnQ4Q1JHMF9lcWhXTzF2QU4zNkY4SW1QUzFoaTdGbGRDaExOajJFLXlnT2I1ZGRUTlBlRkVwY3JoaFVHTWtMTkdtclp0enBwSm0wZThWRDdtSmxVbDQzOFI3cDdvejUtbTNoaG93SHFhVUVX?oc=5",
-      "published": "2026-08-26T13:33:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US says Chinese cyber spies targeted hospitals, government agencies and the military",
-      "summary": "US says Chinese cyber spies targeted hospitals, government agencies and the military CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1hDYmdTVEpoVjc2VmxxQkw1WkNQMTBNWFA1X05rRl8xWGc5M28telBsbXNRX01mcHhRWnZ5aEZlX3l2T3BDTTZGR1pvRnlNRHlNYVhMd0NFblkzQU1TVVpOdTMtWUJyT1RPeV9Fd1dxcGZDZHdpdmwyRDUyYnRXTUI4ODhfWE0?oc=5",
-      "published": "2026-08-26T13:26:50+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -119,8 +143,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Meta settles landmark child harm case for $18 billion and promises changes to its platforms",
-      "summary": "Meta settles landmark child harm case for $18 billion and promises changes to its platforms CNN",
+      "title": "Meta settles landmark state child harm claims for $18 billion and promises changes to its platforms",
+      "summary": "Meta settles landmark state child harm claims for $18 billion and promises changes to its platforms CNN",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GTmw2QlpzRF8xU2pORGc5bHI4OWNSSnhmSTY4cmxpMTVDblJRbFZzZjZLWkhCRVdGRW5fTHRGX2ZOZjVLd2RyUFFWTXRXcTY3bVZ6R1FId1JUeTFJdTdoWXBRcEFRUzBibGZUSGx2aDVNcWRPZnRkMQ?oc=5",
       "published": "2026-08-26T13:23:56+00:00",
       "beats": [
@@ -128,37 +152,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-      "summary": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TWjRYRDczeHJMLWZEczhIdzZYQmJPcFEyU0RqUlNIVDJHbUZSM3paVDhIQmlXX296U0pJaWt4YWpNaXZDMl85SlFyWjNrU3JOV0U0aFhSQXN0NGdfcDhMYnFwS0hUc3ZRcVQtVkFSYUU1eXJicm96TkJhMFk5d9IBgwFBVV95cUxQQXN1dFVRNHdaY2s1WVdFXzBiUFl0VjN6Z3BMR1RJVXFWQVRtNm9uQlBwNl9KNUxTVEUyalRTM242OHFNaDNzVkNFdWNmb2RQenNLQ3lNcmJYWlBiTlp5SWRuUzNoNmdqbWhqSWJqMnZteEo0b0hBR1hVZjg1UGN6VzRQQQ?oc=5",
-      "published": "2026-08-26T13:12:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "summary": "Meta settles social media addiction case with California, other states for $16.7 billion CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbkNIV2NNRGxSZHRKcGk2bXdrRTFfYmNuMTFzMkJTeEJJMFE2dHRnUWhVWm00R1pkV0xNc0RGaktESDB6d3dFVE1WejhPYU1aZ1N4cmQ2d0M5ZWtVdV9jVkVXaFphSkpHRDlYekt6M1k5QWplLWpoVFgxYw?oc=5",
-      "published": "2026-08-26T13:05:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-      "summary": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
-      "published": "2026-08-26T12:32:36+00:00",
+      "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+      "summary": "At least 75 killed and hundreds missing after flash floods in Nepal and China NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSzdOdmhIZ2RSTEtQSEpDMnVQbU5iQ1gxUkVMNUdJUS1KbDl4ZDc2Z21aaHNpUXFwWWxvcUdQTXMtbFR3YXFKbUtIS2sxNWRaUmV0NlJ3NkxYY3BvQUoweVM0WmlDV3NRNmo1LW9B?oc=5",
+      "published": "2026-08-26T12:27:19+00:00",
       "beats": [
         "Politics"
       ]
@@ -212,6 +212,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump-backed House candidate removes mentions of the president from his website",
+      "summary": "Trump-backed House candidate removes mentions of the president from his website NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLThCWG9uNVcycVEwUDRaTWRZNHI5US1UbGxwNkVlbWdybExKWDRYSWd5LThGTkV5NG54RDdiN2puMmxoLW5ZU3pyM3FTTU96WVBuZjYtOGZNYWdvd2ZqMlpZanZ1MFUtcDhPX3EzLXJxcHdRQ1FzdF9TNHM3UGlhMmVNT2JFQllfREdJWHBUM2ZKcElWRnlDbE1KV0JXU3ltZFR2bnd5TlA3RWVtV3ZnZkVRZEtHRnBPTWlORTF3?oc=5",
+      "published": "2026-08-25T18:59:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -221,18 +233,6 @@
       "published": "2026-08-25T16:01:02+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103",
-      "summary": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103 NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEYtM1RER3JSVXNiVFlwMW5XVWNvOXp1aW1tSkpvSDk2T1hFSHBWbHlnenk0MUgxWHhJT1VSX09mY1oyc2Z1UWRSWnNMdlcwaXpXcnk2LWpIcGZtQnVKaXh5QmE4SHlta0g1WS0zSWR0bU5VdlZ4ckk0eVI4aE5ELVVHY05HdG15M053Ukd3UlNRUUhNUWd5YzBDcFU2UmpmNk1wMW1ISlFaR0ZwTk9Xb2hQU0dpSGVkT3c?oc=5",
-      "published": "2026-08-25T12:19:01+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -270,18 +270,6 @@
       "published": "2026-08-25T10:00:40+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Abdul El-Sayed distances himself from Hasan Piker’s comments on Israel and Jewish Americans",
-      "summary": "Abdul El-Sayed distances himself from Hasan Piker’s comments on Israel and Jewish Americans NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmdzamZiUVNqVHhRUjRRbFJjQ2QwQkVtMjVqRzRBODd0R040VS1YU0xjVF93eVBOb0NSRno3WEYwZjhCVVdPMENQcThzbFhkeEpLMldSMGpkU2FWb2sxMG9iWFR2dE51NXkzSnZGOVpBeEtOcUlnakZ4bDZKdGduRHlELUx0aGRUM0pwZnhQRUNsQnI3QVpndUh2b0R3MXpETVZCMlNrTTVIUWwwQXZxVmV3WkNFQWY4bWVZX0xDN3N3VlBE?oc=5",
-      "published": "2026-08-25T02:45:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -344,6 +332,18 @@
       "published": "2026-08-24T21:08:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Supreme Court hands preliminary win to Trump on mail-in ballots executive order",
+      "summary": "Supreme Court hands preliminary win to Trump on mail-in ballots executive order NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWVYLU1JeUxDVTJpcXRFTFVDeFd6V1FiaV9iS0szeGdPWkZCaWlESlJoRTE4NTVLV09ldjNXQXh3R0NXZk1mREhsdEZoUWg4TmoyTGhQRTh3MjhZWXlJMGVJRXRQUGRqXzdXUC1tMkhpN25fTTYzemFKUEpSbTZTeVpMajlyaFNBZ3pOclBnN0NXbUVGNUktUDJnRzR1R0JFLW5ubkdWVHdqbXNEN2tWTlRoMjlOR0NpNEJ1azFheWpIS2tHdF9r?oc=5",
+      "published": "2026-08-24T21:02:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
