@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T00:31:15.559196+00:00",
+  "updated_at": "2026-08-27T10:58:04.935475+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,138 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
+      "summary": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLWtCRkJJSmRCWjV6XzZtdFJIMWYzQkNtWFAyUElrMUlpWmkzZnFPbzRXczJGdzZ6X0dzck9RcXQwamN4SmFwYWlfVjhCMHZoQkdEYTBEc3o5NDNEbUZGUEl3OFBBR3Y0NGFoUE9qOE5xY0pId2Q4alBtUU01ejBhNw?oc=5",
+      "published": "2026-08-27T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely",
+      "summary": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XZGlua0xKVHVzZzZPSFNOT2hBYzVYNVlMekJkM2pPYUVsQUI4T3dMbWVOd2VhV0YyLVcwWnh5RG1FT25BRjYwNFpFUktHZzFFdnFIa05xY1RoV29tQlQtNlVlcl8yYlFwWEMtY3BsWDBTWXpfT1k0?oc=5",
+      "published": "2026-08-27T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Nuclear regulator prepares to abandon decades-old radiation safety rule",
+      "summary": "Nuclear regulator prepares to abandon decades-old radiation safety rule NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelFjNWJQU2NhS2xQUS1jWTM3U05yTkR3WUZ6SnRERWcxYm1XdUhFcV9rUjJQMzdWUV9lbDFHVUZGYTRRZTFnd1pqXzY3dkJhbDFvYS1nMmF4NHhaVW5OY1lPa195M0hkWjRmMFN3SkdhbDZfMDVnYjFhenlvNjEwT1Y5WTMyOU1DSzBnQ2ZNWFdfX0xXSTFF?oc=5",
+      "published": "2026-08-27T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+      "summary": "Nvidia jumps 7% after blockbuster earnings boost AI confidence CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wT0tKVG5QdjJIV3RXNmZNYUROM1dJYWJ3d3VOUzdKUEZjTFgweTFXNlhFT3RwLUoxZ1E4SXYzQ0g4LUFYdW9tNkNVUmE5OE5TendnYU02ekhBeThSZDRpTVBwcmlCRXdkcDVoetIBckFVX3lxTFBTYXloWFBxMWUxVXBhV1VLdkJzbWpITXdabzh3b00zYXlnb0ZHcEZlRjFqRHRtWmF4QjA2ei1Id3hTQ3N3X1lQcGZyQkJKRzhZalpsbmZrd3lRd2gxQXRpMWpQUUpiVTFxTHJ3N0NEY0k1Zw?oc=5",
+      "published": "2026-08-27T08:04:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Republicans worry Trump’s midterms convention will flop",
+      "summary": "Republicans worry Trump’s midterms convention will flop CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3QWx3Q0F5OG8tLWwxMzZhbGM0ai1wcFE4T1d6SFlFLXM4WmxabDFfRUw2QnI3UHZkRDJjN204WXFaYURVcy1JZURJam9TanhVeUNIdzdYWGZObVo5YjlWZ2FidzFTd2NhMlNkZDZxQVpUcU1VUElxWS1n?oc=5",
+      "published": "2026-08-27T08:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+      "summary": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1veHl1U0IwU0pDR1ZTd19KdHJEYUNOWG50OVY4SG10VGpzVkh3MG54ZUoxS2FrcFZ5Q0gta05PaWxubV9VM1ZTam4xRGpIMDVrTlZFSEgzeTRvVE1RRGZQeEVEaTFqNnpSeldPS05UWmJIWXFSVldN0gF8QVVfeXFMUDhKY3RqLVcxMHFWOXVsQkRTVEJ6VXh0MzdLN3VuVXl3ZUVyNWRzd1pxVDNESTd4MHhydmhnWUdpZ2VKaHRDUWwzREttekN6dUdhNFRlZmNvM282U2YwZWlyRzgtVnAxd2FCWTllN3E1ZjRJWUN4eFFVa0Z6OQ?oc=5",
+      "published": "2026-08-27T07:29:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board",
+      "summary": "Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board CNN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BOC03Tmhub1ZtUFVjV3FDSHh0REc5T2x6VjBCSFZjQ3hmYnpBaGVHbmxZRUxsNmp3U2pCbFlrV2NJREVQVUt4a2djM3ozYU44VUNsYWo1R19FSlFTekRKdVRQYThrUk85NFhsVTBEZw?oc=5",
+      "published": "2026-08-27T07:19:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Around the world, people desperately search for news of missing loved ones after Nepal-China floods",
+      "summary": "Around the world, people desperately search for news of missing loved ones after Nepal-China floods CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmlXd3MyMkxFcVRLSHdJN0tTN2djQUMyLTBWNmdPdXlRQzhkc2EteUZlYklXWDJ5dW5VQXdLVkZWVGVRaVBoMXlaek42VkRMZGNDZXNycFpmTVhxaU9UYjF4RkU4dGdMajNXamtwSEV1SHN0bXhDdE1lbV9DQ1pDZkJCOVdZUQ?oc=5",
+      "published": "2026-08-27T06:52:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "BetterLesson Learning",
+      "summary": "BetterLesson Learning Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MLXpjU3BQTkQ4OHNuT2FkWW14MktjWlpMQl9WMXJKSDVrZGJScHBZMVYtU1l2UGdWQi1hSng3TFpPb0ZkX3V1VUVrWEtVaFZQOXFrWHFTVmdWUmFMS2U4Szhn?oc=5",
+      "published": "2026-08-27T06:21:52+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait'",
+      "summary": "Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVjBrMDlsNXlyYk9iZDVzTXVhRjRMOUZ5WkNQQ3FjeF9VN0otNzlJR3puUVdZM3p5Y1hPUXh3N1dGM3lTTEk2NUh4ZlVZQTdjT2RPaGVockhDcmE2b2xleVVVd0cyQjdyUVBoTkdZMFNjcF93WW5FQ2gzazFZSEHSAYQBQVVfeXFMTU44UVVHTUt3UktXUzlDRW82U3p3S19Lc3VSU3VxRVUzcm1iOVhJYmswZU8zZ3AzWF96OUtWSUVoOXFWdzBzc1NUT0NzR1lCSUtTdHp3WS1JSGNCa1Q0Tkl2eTFzdkZ0eHRDVWc4MTJBSDE5M3F1RHlWNGNqdDQxaTRUR3dR?oc=5",
+      "published": "2026-08-27T04:45:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Ross Fire explodes to over 80,000 acres in North Texas, forcing evacuations and school closures",
+      "summary": "Ross Fire explodes to over 80,000 acres in North Texas, forcing evacuations and school closures CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0NpNUhkSTVXcXN3cVNrZEJkWTJwZzRQT2xCUUd5QjlfbHRvRVVZN19OX1BjUktjelJWMHhhQzFmWFBZS1hFd0NyVGZRSW1Nc1ptSS1NdUJPdFJuNy04QXUzYUNqUVI5dTNqNW9QQTh4WTVmTmwySHp5UnNFRXVESWJmdkh2NUU?oc=5",
+      "published": "2026-08-27T02:49:41+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -32,87 +164,27 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Republicans are dismissing affordability. That could be a problem in November",
-      "summary": "Republicans are dismissing affordability. That could be a problem in November CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcW9nVld5R1F0Y0JFWVp6UmE0WEhFS3g3aUNRWHdNRmFvYnZJWm9EeEZULWJGdHpzYlRheHZLSWVNOUhKSW5aUFlNWFFNbGdPUFQwQU14MjhWanNDQmcxSkRjaFlScUp6NGRKQmxvYmc4U3BsamZZdXFrcGExcW54czNLVXFseVBiZXfSAY8BQVVfeXFMUHpSS3RkTThMT0taZDVRdUYzQnBuY3RGaXFlUGQ3Z0NKSWhJNEM4NFVxMlNfTXVhSmRwSFo0SmJJZE13emJJRnNLbmUycWJZLVVabXhqdnV2UHRTVGRzSEZ0ZFc0TDUyQnByU21rWVNibmJfQVU0d2REczhHVkFmNHp1ZXpsR1ZDZzZsM3EybVE?oc=5",
-      "published": "2026-08-26T21:26:06+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "This right-wing Idaho saloon hosted a failed ‘Hetero Awesome Fest.’ It could become a gay bar",
+      "summary": "This right-wing Idaho saloon hosted a failed ‘Hetero Awesome Fest.’ It could become a gay bar Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hbHF3dHhUdllBdTBoTnJUZ0hWZUVVLVR5d3lhZThBc3QzUzlkbFZJSk1IM0E0c2NlZzNYOW85VkdGUGdLMmx6MVFjU1N0WVFhRXZtSGpJNDc4M3YxQ2JTRFdQTjU?oc=5",
+      "published": "2026-08-26T20:49:53+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
-      "summary": "Drugstores say Medicare's $50 obesity drug program is catching on NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wNHpzbVNZeHR5akc2RGItU2xlbnFMYlBMNkNzNnBXRGtaWGNXd01raDNzN0FnWkY1a01VZy1Zd2F0VzVvSzhhNE9iSzVaU1MwR1ptcXhqMmFNcmxvcG5Lb1NhdG1EOGt6M3UtTzJsbkR5b1J1WFNEV0xDdw?oc=5",
-      "published": "2026-08-26T21:11:42+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Kansas law voided her license because she’s transgender. The state’s chaos helped her win it back",
+      "summary": "Kansas law voided her license because she’s transgender. The state’s chaos helped her win it back Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUVGWi1nWHYxdjlvUUo4TEtuM1ZlU3paMWJlWUhTbmtMUkh6Z1kyUnJXTl9fbUxjc0Z4dFk1dFppcHJVcnVWaUVwS19wUkFGREZOcHlUenQtZE5IVDhMbXVDVWthUC16eGJJN0habE12ZXA4eG43Z2VINDg1d3JqVGFR?oc=5",
+      "published": "2026-08-26T20:23:53+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia shares slide slightly despite Q2 beat, top tech analysts weigh in",
-      "summary": "Nvidia shares slide slightly despite Q2 beat, top tech analysts weigh in CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHVkMXJwV3FXS1FFMFJuaVNlZzN4eXVOTHdvQlhFNHFReGo4WW54cDIyR1JiRGtnUmNGZ3IxcmpveVZsV1hucWgxTmRBSTdKOExEb2U4ekhJTGpaRjR3bXhPLXA4MGNRXy1LSFk0cWRCdTF2YkpsQ1lQWmZrblpsTmRLbkZGUTlXc1ZhSi1vc0NnSkJkcjZPeE1yaElMNWR4dXg2SXFRMjJtM2VhdEV1dzdFTGw?oc=5",
-      "published": "2026-08-26T21:04:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
-      "summary": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmVGMyNUxjWk1tbkdKbWZscWVEdC1JS0Vxc1A1dUs2UWZBcllCSEo0TEZONmNSZjRhV1JKUGUyZF9lSVJTdEQwczZUVWdZUC0zVVFGNUFwUWhIRE9Eb0lzeDVXcWZBV043OGVfcHgzQ0FmdXIyakRnWUl30gF_QVVfeXFMTTlBbnhiOUlyN3FkdFFZLUFPdGhDbkxsc0wzdE1WWHNQTUktSklNZ2ZfOXNmSzRHakVKMnJ4YUU2ZlBVV240LVZ3WGxnLXI5VFl3WGZ1TkU1MWVfSVo2XzU3RmtuRmZtWERPZm14Mll0NTNDMjRlZUNta1JSeFlOaw?oc=5",
-      "published": "2026-08-26T20:56:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Nvidia doubles its sales, but investors have their eye on the future",
-      "summary": "Nvidia doubles its sales, but investors have their eye on the future CNN",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wVzBxZlZucnRDOWlKZlJJd3ZlcFRyT2IwSWs4b25MdWNvRFo4ZXBSU0NUeXNVS0lCWXpzTW0yQ3d6RW84NUVNdVdzWGh1RlFKcVYwVE1sOC1Kd1U3cEliTw?oc=5",
-      "published": "2026-08-26T20:52:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Judge allows Trump’s mail-in ballots plan to proceed, at least for now",
-      "summary": "Judge allows Trump’s mail-in ballots plan to proceed, at least for now NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFRwTmFseHVzcWE1dEhFeGxjRlVwb0dZZDhUY2IzbWczWXFxblIxU3RHRnhtNkx6SjBleFpFakVpR3haQ2FUN01WbWJuMWtDSFdLaEZPUTdZdkl2Q0hwMG10Z3pjNFJZUmVoVEpSSFdJT3BTR0pPVUZsaW5QUzltWGpnd2VoNU9nY1VnYnROMmIwdDFLUEtTaVBZZV9vWElqZEExdng2TEI2TlZrN1E?oc=5",
-      "published": "2026-08-26T20:50:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Federal judge won’t intervene in Minnesota extradition fight over ICE agent being detained in Texas",
-      "summary": "Federal judge won’t intervene in Minnesota extradition fight over ICE agent being detained in Texas CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzR5YWtlOHZSbUlBUkhVeHVGbGtxbjdUTThuSDA1LU1GOXRWX3NpbU5tQ2lUZHRLV0ZIWkRnR04xZVlQVmc0NUNrUGFES3BYdEtzV2t2SmZLT2FVZ1BLdnRSdmRyT0UwX0JvT1VOeHRKaXItV1hSZl84YWYtM2p0S1g1bnhSalU?oc=5",
-      "published": "2026-08-26T19:50:52+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -125,66 +197,6 @@
       "published": "2026-08-26T19:28:58+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Judge cites Dolly Parton’s bosom in ruling blocking Texas drag ban",
-      "summary": "Judge cites Dolly Parton’s bosom in ruling blocking Texas drag ban Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuNHBoV1o5bFNDV3pyUHN1RjNSUFViZkRoWVE0YjBNdTFmODVXNEJfWU5JU05KcEx4RHFFUUlXRGQ3VEN3QWJzWU9LUC1fR3hsckJEV0puaWtQWXNKNHd1YlVyUW52UFdKckhQcEoxaUd4Ym1CM1cw?oc=5",
-      "published": "2026-08-26T19:07:52+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard of",
-      "summary": "‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard of The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYzllakEyR1BwamswTmhuSXh4OUFmUmIyS0RxQ3FOMjVpbDhKOXpPak82YWJRelVwbmFEanpyWWZrQ3l2YnowRFRFQkY1LXBiaVNtd3drNHV5NWFtVHJyRExVc1k5YTNuUXowWl83NWJUaXpBS3RjRWstcTJTOVdIUUV3X1V1RWxl?oc=5",
-      "published": "2026-08-26T18:49:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Immigration arrests soar, hitting 50,000 in July",
-      "summary": "Immigration arrests soar, hitting 50,000 in July NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ubjE5YXVaUFZmemtlZW5HcUI0N3V5anUwNkY1Tkh0bUFmNjJSYnM4aV80TW1yN0R0UGdkUVEyVzhMS05vR0ZvSmdDN2phUlkzUTdUUUh6YVdxNXVkNUZFOGhOcHhSU1BLV2l0YUt4YUdJRUljNnpsaDRHMA?oc=5",
-      "published": "2026-08-26T18:08:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "In pictures: Remembering actor Tim Curry",
-      "summary": "In pictures: Remembering actor Tim Curry CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BMGp2dEc2TXo3Mk9DYWtmT1JvU0RLUUM3a3VwTU9RODgxaVJVV2NkcEpsRHgwUnFIbzJEVl8yeDNNcExRLTNjMXdRbHEzUjZVVnVDSHZKb3NPLWJJSk9UYnh5QWc1WXdrWGRlRnBVaw?oc=5",
-      "published": "2026-08-26T17:38:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
-      "summary": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zV0dlRU9hWVdzR21ONTA4bE4wN0tTaW81ZUd0aGFpWlE2WmloWWNHN1Z1MmxfLW1fcmxrZjZVemhnNTBzV21LSVQ1WV9GOS1ybnhpT0N5ZlN6bFJkVTlwb2pvOEYwRVVnXzBYR3c2VXlhQ2EwVmZQZVBBRGNoZw?oc=5",
-      "published": "2026-08-26T17:15:17+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -210,6 +222,30 @@
       "beats": [
         "Politics",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "San Jose city employee killed while repairing streetlight",
+      "summary": "San Jose city employee killed while repairing streetlight CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdE5VSkNBZGJmNXZLNmprMG1RXzcySkhhNDB6bDJ3Sl9YQUp4RGZqWXREeExlaVpOc0xIOGJSOHVSaW1jNjdYaExuMndzbkhYTGVla0M2emt3QWI0Vk4wWWtuUmFxTmpfeUJpZXRZQXpzT2hpbkhFYzZ5TXRMRUN4eExpLTlkTlhVcEdtNzR4UW5LbzJDSmlpS2dUSGNhbDkwOEZaVWRCTzdKMVV6WktlZmRfMkRsd0ZVS0E?oc=5",
+      "published": "2026-08-26T15:22:02+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard of",
+      "summary": "‘Intrinsic Capacity’: The Most Important Longevity Term You’ve Never Heard of The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYzllakEyR1BwamswTmhuSXh4OUFmUmIyS0RxQ3FOMjVpbDhKOXpPak82YWJRelVwbmFEanpyWWZrQ3l2YnowRFRFQkY1LXBiaVNtd3drNHV5NWFtVHJyRExVc1k5YTNuUXowWl83NWJUaXpBS3RjRWstcTJTOVdIUUV3X1V1RWxl?oc=5",
+      "published": "2026-08-26T09:00:13+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -247,6 +283,18 @@
       "published": "2026-08-26T03:06:29+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Judge strikes down Texas ban on drag shows, tells people offended by them ‘just don’t go’",
+      "summary": "Judge strikes down Texas ban on drag shows, tells people offended by them ‘just don’t go’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTl2T29uRThTaFNieWR3YUpIWV96UjM1c3lzd2FZSHFnd2xmV01vVDBsdlFRUXZUZ180OG5DUDF3QkVYYWs5Y2VxZVhRdGJ3V09LcGlweFNlX0xoc2NvQVFnUUFXTXBGNDNuSnJpdDZLVjNDQ0hOa2xOSFk3ZjlQTC1mMktybDFQbnVEcnNXV09XNGtsSUJZdFBCRG13OWNkSWZpTGdGbUoxMGRkZ1BkeEFBU2dkU0h3dy1nZWMyd0lHbzNqX0E?oc=5",
+      "published": "2026-08-26T03:04:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -298,6 +346,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "CIA Director John Ratcliffe met Russian intel counterparts on secretive visit to Moscow, Kremlin says",
+      "summary": "CIA Director John Ratcliffe met Russian intel counterparts on secretive visit to Moscow, Kremlin says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnd5N1Bjd1VhMVRidmJudVNJNXJHSFZrb1RtejBKY04yRU9jN1ZqSnRfVGVpbzhYdXZzVU50M211TkxyMGJoMHJOaklmTXI3ZGhwaXVvdmROTE9ka2U1RWI2RDN4aW5abVZIXy1yM19vQVZ6dElCdlhYY1JIWURSNTd3?oc=5",
+      "published": "2026-08-25T14:29:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -306,19 +366,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWZzYjVmMk1vR29haWlMaXZIdGFYVzV1Y2JWTUp1aGZfWmVEZ3FlODlsb2kybDdfWnluOXJhczZFUy05anp1S194MnNzRUI0OXExSGNpNmIwMXBQcEpFaTh3MFhjQXRtS083SjctZW5EWWVpLXpkbGtjemVudlJyVm9YWTM?oc=5",
       "published": "2026-08-25T12:06:41+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Transgender CIA veteran who briefed presidents says Trump has ushered in ‘amateur hour’",
-      "summary": "Transgender CIA veteran who briefed presidents says Trump has ushered in ‘amateur hour’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ObnBFV1B5cnRIYUpXcDdWX0NZWHdQVUw5UkVmSlhoOXpNYXhWcDJ5VllINHRlaDlIX2p1UkFTYWVpLVd5dWJ0VzFwcUEwZUlLRm1Ka01LUzU3QjFqTWJpMS1VV2JnRjdGQlNnYlIxdmZuTVdrNGpuOXowZw?oc=5",
-      "published": "2026-08-25T12:00:41+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     },
@@ -332,56 +379,6 @@
       "published": "2026-08-25T10:00:40+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause",
-      "summary": "EXCLUSIVE: Adult film studio is ready to \"eat the rich\" with shocking political thriller for a good cause Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnJjaFp4WE8yNDNwZHRUdHZzdVJNWFZUVHdnSUdfanE5a3gzVHBCbk9BQTBCLW5fRWJCZEt5WEpCdUZoejA1TURUckRXS1NiLUpHcmRTS2JVLXB1T2NCcWtTaUZOQ05mSDBLdTRLSkF3a0Q4TzJaY3NvSFFMaXR1eFZrU05CSmZNWlZYbkV5R0V1R0dIUDR6VFJTck1hTHpFc0FkX0Q1Q1lock9nZ2VpQkJna3RHeVdvT2NqdFc5UnNfY3RGQkJpS3FHVTRBZjg0OUE?oc=5",
-      "published": "2026-08-25T01:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Police investigating deadly fight at Hayward business",
-      "summary": "Police investigating deadly fight at Hayward business CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHhTZWlZc1o3eEM4Q0xaZVdpQ2hTQkZjLWpoS0dGcGFWa08weXVtRnpzcWdvdFo1Z19ic1ByVGw0eXN3ajlxUWtqcHBrS3U2b3ZkV3drc04xOWMyakNWcHQzUHdPRHNRRWhWY0xzTDJFMU5vNzd4aGxSTGt4ZGlVbVNnWGFadEpqWE5rcmZFVjZ3d1lERW9qNFVqeGE?oc=5",
-      "published": "2026-08-24T23:51:29+00:00",
-      "beats": [
-        "Business",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Marc Jacobs reflects on that 10-man sex party scandal: “I’m not going to lie about it”",
-      "summary": "Marc Jacobs reflects on that 10-man sex party scandal: “I’m not going to lie about it” Queerty",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUC1Tb2M5cGsyalpMZEcyMzBNbXQyOFl2a1cyZm45MHY3cFhJSFVMRUJ3NzBPcVhNNWo4ZERTM05hRjBtci03emxIQy12WVRCTVpKUmozd2FyMGQ1S3lfOGx2TF9xQ0Z0VWxjQVVoNHhybDMyWVdEVXV6UDUtczVtUVpMZ1lsUHhmbE9kMXdIb1V4M2tlNkVvSE9jcmttVE5EV1ZIZ2F6TQ?oc=5",
-      "published": "2026-08-24T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Colorado fall colors could arrive early in 2026: Here's when to go",
-      "summary": "Colorado fall colors could arrive early in 2026: Here's when to go CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rOTRBb3l1TDRzQWFJVlZfV1Bkeklkbm9RV1FjZFZDaXBIOG1vbkZsZ2tUbHU4Uk14cnk1ajYzWGctNkJVcjBnU1FnYTZndXdlTlJpMlcwYm9EMm0xS290SXpkZzg4NG95elBKd0NoWm1mcHl6dVJLSlhR?oc=5",
-      "published": "2026-08-24T21:36:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
