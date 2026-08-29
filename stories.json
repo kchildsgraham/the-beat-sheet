@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T14:13:03.368368+00:00",
+  "updated_at": "2026-08-29T17:47:18.032110+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,63 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Tornado and hail hits northern Italian city, injuring dozens of people",
+      "summary": "Tornado and hail hits northern Italian city, injuring dozens of people CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wV0g0R09yNVNjS0NfUXNTQm4zWnAzODhsMkpldnQwRE13RU9ZRTlxeFk3LUoyUDlCdVpBRVNxbHZLTnpnalcyUktHcVVUTWc1Tnd6aHN5cGZUaVcxN2RFQnhycjV5QzlDR280aEw5bFE4NC1wUkdyMA?oc=5",
+      "published": "2026-08-29T14:33:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "summary": "Photos: See the aftermath of deadly flash floods in Nepal NPR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUZReFAybDNDWm9XT09PcGRZaWJ1YnRSQVo4S21tdUxuT0xSYndSaXIza0YydkdRLXVmNlJweWNxek1oeUZGX3BrR2VXdW5jRmtablhqTjZzR3A5LWxRYWRfa2lmTGVTVG1ad2VleUZGYm9zRklldWhLTU9KYm51VUcxNDMwelFBMzBqMk4yUGRZUnJGRzVfNG9Md0dIVC1aSmVr?oc=5",
+      "published": "2026-08-29T14:22:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump found an unusual solution to his Venezuela problem",
+      "summary": "Trump found an unusual solution to his Venezuela problem CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ua2tTT3RCZldpM0ZuZmtrS0MtZ2U2VmZoR2hJcndlQzJ1Sl8zV0l2aUpMMWxacHg0NGlxRVA5d3lDSEhDY2UzX0p5UDBLNHRUZnRnQWxIT1NUQ0JLb0lFbUZfeFFVa2ZLNU50WkZROF93dw?oc=5",
+      "published": "2026-08-29T14:00:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
-      "summary": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWUZkR0RUdjN0dHlxU0g1SnVsNnF0TGNfU3A0UFZfU3k2SnJ2NjczVkNBcnhFWmtLZU80UmVFdndSTVVab1hobVNJUlFzYUxBOWFhX3JHMUx3OG1lQWw1cVAxQXRQVmhhcTNEak9RZUk0OWtzRUo5Q1ptR2lfeHBVMHhYVUxYcW1OOWNCa283RnhtT2hiQTlaS0pQb3hiYWt1bDVIOHhaLV9XM2M?oc=5",
-      "published": "2026-08-29T13:25:55+00:00",
+      "title": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million",
+      "summary": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2ZObXRaVEM3U0NLc0FtVGR1SVRuRl9uNGU0cXR0eUJLamNHcFU0SVVvNm91VUdIU0NpM1dNZ2JUd2RqZlREd2dXTmx2Y1FFN3pnRVJWQlh3TS1xTDBTVzhja2dTcTZ6a1B1Q3oyTTd4bGw0QzRHOTljNldaandqeGV1Vl9CQXNTZGFQaktaNjlya3RaenfSAZsBQVVfeXFMTl9fRTlKMmMxMUJjekttZEdsSmRqdHI5dmxFbXcwRktiOVVDSXNxODhyWmp3LW1KQlpIVlYxdDYzamZrV3M4bXM2T0V5ak1jUy1IX0RsTEZTSWVDeV9ialBiUjR4bnd3cUZaM01rclA1YTFjV1JPSGxNSFlmMEsyR25ZU1ZDcmxZTTBIZEdkRkhEQnNzbHJNckpVUjQ?oc=5",
+      "published": "2026-08-29T13:05:01+00:00",
       "beats": [
-        "Politics"
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+      "summary": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnBScDB0NHZoem1ucncyUTRSQ3B6cjdvanVrUms4R2Z2WGxTZlVoaGFjMzVKblRDQ0piaUNLWDM5eS0yOUlGUTlkU3o0QW1UUmpNUWxGS3V2LW9ZeHNpQ2hLa09jOVR1Mmp0VDlVcEg2YXNIc2Z4Uzk4SWVXTC1xVkV30gGHAUFVX3lxTFA1RTVxa25KSmtyOWp0M0hlM0N0NmRFRHAxcTZJcVFBTU1pcV9hZS1sZVdDaWFJZ2dSTHdndkhTaHNzVk9LdUczWTczbXpHNW45ekdyTjVLMkV3UkdEZGZReFR1MDBmWHFjcDFjUTV3NXdmNzQzMndWVG1Cd1lRMWJ1Vl82Yk9Wdw?oc=5",
+      "published": "2026-08-29T12:06:01+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -44,25 +92,37 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Iowa Democrat tries to strike an independent path in governor’s race",
-      "summary": "Iowa Democrat tries to strike an independent path in governor’s race CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84S2xEWWtJQWczMWRIS0puOXZzdm50SlhJZ0owWk0yeG9OejgxNTFhTERRa19JT25xYlZmUDA3R2hXVkRZd3pkQllyZ2ozelFEc0lDYU9YdVBNR194TzBfNzIyVERyWG1oYm8wYXktTQ?oc=5",
-      "published": "2026-08-29T10:30:30+00:00",
+      "title": "Pennsylvania measles deaths ignite clash over RFK Jr.’s vaccination claims",
+      "summary": "Pennsylvania measles deaths ignite clash over RFK Jr.’s vaccination claims NPR",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWpxVkRzalVibXJ2WGliTUppX0dORGVFbGxFLWx6TXE2TWg1cjN0bFdFMDRSQ1hIZjdsWFFRZnZKemV0RWUxbnFMdU9zLWtScXhzaktGX1ZpX1ZOU256UFBQLWJxNFpTTFBCS25tbzE2NUIxR0xnYUZvd1hraU8wdEFsZDF4cy1waTA4Uzh1R1BqT1AtQzFDZkVUYmRlSEw3VEZlRnhNMUVIM0RuZlUxS1hMUS1IempyYWc?oc=5",
+      "published": "2026-08-29T11:40:56+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "CFTC fines former White House aide $172,000 for trading on Trump speech information",
-      "summary": "CFTC fines former White House aide $172,000 for trading on Trump speech information CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEJpS2hvQkZYX0Q3RDl0R0xzazFwMVlsSzJsc24zUUd4S2hHSWQzME9ydF9oNnR2SGNCdGxkbFBOZF9DLXZpVzVvVWIwMlh6UEpqcUZrVjh3Z3kwYzFjd3EwczZXT3BNZEcwQjN1X1BpdnZGaS1FUVl6T3N0MnFwWm5CY2wxd1R0MlpmT0N6WU80a3ZEMkFvT0VHOE5UdU5NakFiSzZ0MkxPazjSAbABQVVfeXFMT2JsQl83aDNkWFlrUnc1c3Y5T0tyYXcyVUViRWlaVURPZ3VNMFBiZDBCNDhWMHpoOTQ2RkRDWTh4YXFoXzFEZjQyazJIbFhBSmEyRFAtMVJ1Zm5rNlFMem9GNmZvV093OWtiOU5uWE95V2V3Z3dHcUp6X2hmMTNXQ2p5MVJFam8zYkxkanJPc1QzNHdtSHJJN0pTdkJRdkphdTJ0TVc1bi1iN2lzZGQ2cE8?oc=5",
-      "published": "2026-08-29T10:23:03+00:00",
+      "title": "Opinion | Her Movement Used to Fight Fascism. Now It Fights Globalism.",
+      "summary": "Opinion | Her Movement Used to Fight Fascism. Now It Fights Globalism. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEtkLThWU1hZSkpmN3FOQUdKanc1YVhadWtUWnZ2NjZjbkNfMTNkQ0swTkZjQzdqSWpNeTBwTmpHdlE4QWtUWXZjWi1UTHcwQU5ZTW5QZTBNa0lIOXBESUtIcTJIYVQ1aDNfM3VqRXJ5QjB1dGw1N2tTQVp3a3B3Sklwd0htTE4yUkJybg?oc=5",
+      "published": "2026-08-29T11:00:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
+      "summary": "Lights out, Instagram off? The changes to Meta for teens could be a big deal NPR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDVKc2FXbmZ5b1ZDdjItM3IwaVVjeXVJZUdPM2c2QUl2UTFaclhRZW1vMU1RQkNnWkx3aGNUSklFb3lXU2UxY2psaUU1bkplRHg0c1h3NFNJcFdkV0Y2TDJMNEVTTUlhZFAxYV9NZWMyNnNDM0daTDZlNjN1dVVBN3FGakQ?oc=5",
+      "published": "2026-08-29T11:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,78 +140,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
-      "summary": "Trump cuts to science advisory boards have long-lasting consequences, researchers say NPR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkxHVjllcGpRajRJWVBDLUNJaUtNaDI3QS1ZdFYyY0xhMTRnSmRCSDVLWm9tZkFCV0tES3Nwak1INndvdGFGcDBjYkRhZ20ybmFDdi14eVc4UUU4X0NzTVk5X1FfLXpVd3FhY2hyRGpRNEVsTnE3a2RLdWFuQWVVUkNqajNEWGVPVkxyLVN2eDRoN0syQ09BZjZOdw?oc=5",
-      "published": "2026-08-29T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Russian attack on Ukrainian ammunition warehouse triggers waves of blasts, killing 37",
-      "summary": "Russian attack on Ukrainian ammunition warehouse triggers waves of blasts, killing 37 CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80N2dZNFhnSEdKMlB0WlJ5Zl90THhaNUVoUHZnX3dHOGs4cFdrMVE3Qy00bFNBZWRuZUNVLWNiX1ZhSWItQzl3cEJsLTNid0E1Um16V1Jydnl1QUdUZUIzanUwV3BQTkU5djNRTTdFclpIVHJqNVJQdU1feXFfZw?oc=5",
-      "published": "2026-08-29T09:03:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Why is one WNBA team calling in national security experts?",
-      "summary": "Why is one WNBA team calling in national security experts? NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRDh2dklBRXNOay1LRWZGNXhLUUxJcFpGNEo2VkZNdHEwcW4zQV9hWmJ0Z1V0Vl9ucUMtTjFPRThCSnBaRFRURDZpYUVVMTVKUHlya3QyVGpoUndGeVp1OUxVUUE3VDlqYVdLekVCMTV0SG1acWc?oc=5",
-      "published": "2026-08-29T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-      "summary": "How America celebrated and mourned Dolly Parton, in Nashville and beyond NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGlSUnJLYUd0bHdsWUhvRkFqb3NlSC1kOEQwaW11TkxyYUQ4bWdmWVZtV1RBSTFpY0l1RUhhazlONDNoSUQ4b01WLXdoMHZQVk94X19GZmJjYzZpNkwyNG5iNWQ1UDdSMTFjRVdxdGdlbmo0YnQ3UTNuYUYxN0NwQzRzSHBnRzI0QWdfZ0dncy1PZw?oc=5",
-      "published": "2026-08-29T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer",
-      "summary": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXF3dHNxUXBVYzJhQ0prR2RlMW5GN2d1dEhIVzRPNmFDU3EyQnpKSXdBNmIwZXRPbHdnY3ptMkI3YjJqd1JWRWdUZHRYVWNDMmgzaWpBMHRiOTRFcElHMzBpMlVpa1ZrVEE3RjdqMW1wRE9EYzlyazNmbmVtMWxDdHZ1Y3Joek1WaHlybGJfTlFaOHkz?oc=5",
-      "published": "2026-08-29T00:49:58+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "George Cave, C.I.A. Agent With a Role in Iran-Contra, Dies at 97",
-      "summary": "George Cave, C.I.A. Agent With a Role in Iran-Contra, Dies at 97 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5acmZvZXk3dmx3dzZRMmVGM0lBak1CV05BQndxdW83TkJ4cmpZd01SaUdBNEFieU5Ta21aRW1sZlVaUUNRdGRZZEYtZk13QkdJR1RteFRsZ25MV3BUeVF4NEtTaUNBaEU0clVablF3?oc=5",
-      "published": "2026-08-28T22:10:50+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -159,18 +147,6 @@
       "summary": "MAGA eats one of its own as ICE detains right-wing provocateur Milo Yiannopoulos Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXVxQXc0bFpHNGpULWU3TnVMY09wb0VxdHpNbHNYbzlOU1VGMmFyTDhUQUJneTBBZ1YxSi1Ed2hUU0w5WnI2N0RWUmYwRU5vMzNyWlM5NFpDaFRvWGV6VU53TXhlRjRCTTdwNDFQYzlfcXpvS1pfUFRTZ2dZbFhONWtjSQ?oc=5",
       "published": "2026-08-28T21:17:23+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "GOP group falsely implies pediatricians support genital exams in anti-trans sports bans",
-      "summary": "GOP group falsely implies pediatricians support genital exams in anti-trans sports bans LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjlZQzdfV3NjTUQwN3lHQUZEaldPeVlmb2tIZTdqcnM1TW9FeXRUNXlFX21Sa21hRUo4dVV4cGVwUnZ1SjZnbWZXUUpTaFJwTGN4MHgxRWhFdGoyWEdmcE5ERi1BUVdjd2FoYjdScWp3c1RJUV9zRFNLelRlQ0VVV0t0VG1aZFJXejU0NXNRcHZIRTlFOHhJUWs3MWE5R3J5TkdEQW1MdlpnN2hjX3UwVklFVjJJUVNiRV9ST2lES0I1dw?oc=5",
-      "published": "2026-08-28T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -192,9 +168,33 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "\"Reclusive\" Barron Tr*mp is a big loser with no social life, according to insiders",
-      "summary": "\"Reclusive\" Barron Tr*mp is a big loser with no social life, according to insiders Queerty",
+      "summary": "\"Reclusive\" Barron Tr*mp is a big loser with no social life, according to insiders queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTV0aWxQT2RYa09nQlY0RTFjam9xRnR2VmllNWtHbEZtRkpxQ1ZHcEdDOEhDcEhMN0x5S1Z2dk9jSTNwMzBGS0JiYzlrOG84clN5M1pJdGV5Mjg3WUNZdnkySDJwaFFVR3ctaHMxN0JpM0o1alVGekdNV2lxOG8xMHN2YmwzYmVSdHRuc3poc2dKZVMyaWNwS2JtVnFHNS16SHRnUmU3QkpqOWc?oc=5",
       "published": "2026-08-28T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer",
+      "summary": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXF3dHNxUXBVYzJhQ0prR2RlMW5GN2d1dEhIVzRPNmFDU3EyQnpKSXdBNmIwZXRPbHdnY3ptMkI3YjJqd1JWRWdUZHRYVWNDMmgzaWpBMHRiOTRFcElHMzBpMlVpa1ZrVEE3RjdqMW1wRE9EYzlyazNmbmVtMWxDdHZ1Y3Joek1WaHlybGJfTlFaOHkz?oc=5",
+      "published": "2026-08-28T19:13:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Milo Yiannopoulos detained by ICE & Laura Loomer is taking credit for reporting him",
+      "summary": "Milo Yiannopoulos detained by ICE & Laura Loomer is taking credit for reporting him LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2NuM1BLcDdaeWIwNHFEWFkzV1lhUmE1aHY3RTFWVE1weEY5R1Z2dEpNX25CbWdFNUxaRG9OTTljeEhfZE9yZ3hqSWVCcnpWQmVodWZrWkFiTlFZY3NLU2xXcjR4TUItdV8zVURYMWhsUEdlUjBZa25pR2Q5RHp6QzFnWXZPLVpobDNBbDVxTTFiX1BING4wMUF0T0JpS1RvSDNyUF9oMTlTeHNhbXNGUzhtaWpBcjNZaWdieHNHUQ?oc=5",
+      "published": "2026-08-28T19:02:33+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -241,7 +241,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "What’s with all the trans women on Grindr?",
-      "summary": "What’s with all the trans women on Grindr? Queerty",
+      "summary": "What’s with all the trans women on Grindr? queerty.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nWmhaT0pEQ3F5MmVOMGg5d2Z2Q1J3cGgzN0hKZVI0VF9YbGNuSVJpZzlnOVZMUEZnOTdoaVd3X1E4R3I0Q2J0RlR6dzVMby1lYV9oVlUtX1NPWGctWHVPMGpJdmRPc2ExR0dMSGZZOTRzbmFuSjZXLTJOcWhieHc?oc=5",
       "published": "2026-08-28T17:00:00+00:00",
       "beats": [
@@ -259,6 +259,18 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Queerty Crossword: Aug. 28, 2026",
+      "summary": "Queerty Crossword: Aug. 28, 2026 queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CWFNLSC1HX1VYMHVST0VZZmlHdEJQclpBN1pHZU81bFExQUtVYUlhcFdqZ3c0UmtCQjZqaWZfaTZFS3hKUm1odTBCMWhaakVoZnI1dnd5Uml6YnRvYndkaXRYSTVrdlBRQ29LelR0VmU?oc=5",
+      "published": "2026-08-28T14:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -298,18 +310,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Somehow Mike Johnson’s messy midterm gamble just got even messier",
-      "summary": "Somehow Mike Johnson’s messy midterm gamble just got even messier Queerty",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXBDaG9TSXMxbzREems0NUpidmJZVTkwb3YwS3pfZ2l4czVrbG04WU5rc2o1eXEwZU5PbExuMmFlQ0lUOHMtVnVqdEIxdTZ4aWMyYkl2R0tUWVB0cU50S0R2ZEM5eXhLOHJaTkFFekpZbjB1c25LWFRiMHIyNlF0bkdIOVU1NklOem9aNDlYT3Q2VmxiczZjNHhEUUpPNjQ?oc=5",
-      "published": "2026-08-27T23:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -319,6 +319,18 @@
       "published": "2026-08-27T22:24:58+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Man charged with allegedly starting 2025 Pickett Fire in Napa Valley Wine Country",
+      "summary": "Man charged with allegedly starting 2025 Pickett Fire in Napa Valley Wine Country CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEJqXzd4ajIxQl91NjVDaXpOdEVnek9rbUlyY3VJaGU0aFdSNjNfRkxkQnlXdmNUQVdCTGFSbEVfQkgwT01OYzd2SUJWZUkzSUZ2dWlqd2pxMGpOUEt0dVMxNjZub28wZ2xQUHNtX0xaNUp2WXhsYkNDXzNnN0RKMmdXTjJXY091d245czItY2hvZ284WTRVRVk4SHAzaTVnSk0wRQ?oc=5",
+      "published": "2026-08-27T21:32:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -368,18 +380,6 @@
       "published": "2026-08-27T20:18:24+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats",
-      "summary": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ZW5yWlE0YV9EU2xVM0NmOG1sQzlOUVFQTXY1Z19iTmpNTFBEZkN4NzVqTVJNdWRUeHl5d3hfT2QwLXpqTjJpTkNaMHFwOUFlRmNmUVYzSExCWmctVGZiUDRTa2VNVk5oS0x2M2M2SVRFdmtqdmQ0ZmRn?oc=5",
-      "published": "2026-08-27T19:58:09+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
