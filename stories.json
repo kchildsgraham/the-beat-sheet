@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T01:30:57.615149+00:00",
+  "updated_at": "2026-08-29T08:43:39.311452+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,54 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+      "summary": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line? CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUZmSlJBQVY2SlN1SDZDZjA5NVZDSFRUYTh4N2dsYk9pRFVRc1BwdkkxSTZzZXE4OHl4eVJUSmNDSEJiRjNUNXV3LWF4Wk5Cb3BYMnUwcGFpUjgtVHEtZGhZYWtwR2taaDQ1Q1ZWck82YmVMSXB4Z0pmU1pmcFBHMDJwM2pyUXNGMHlpM9IBkgFBVV95cUxOQ3dqaUxSU2N2SWFDLXQwLUZsdGZWN1VGYWpVcER2Nm5tTk9ldXRxTDFJVW1GY0R3U29YRVIwLTdOZWV4eks0NFdzTERvMHo1QXl3WTFrb2xxVEVKU1JoX3l0RzZvaUd2NzdXNnh3RUU5bWNnaEM5UVdpZEh4NnhKNVBVVVRUNjJHOE1ISnducU5kZw?oc=5",
+      "published": "2026-08-29T05:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CNN visits one of the Nepali towns most devastated by the flood",
+      "summary": "CNN visits one of the Nepali towns most devastated by the flood CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWJoOGZLLWtRRXlWZmFPV19NRkc5QXNnQ3o1WHpSckVReTdScVBYN0stZnFHTE5GSWF5M3oxdFdoQ2dqV0JENkNFUDVUNmt0dTlNUDBab2FJb08wVHR1T0lfV3lheDF6ZWxlOEhtcWMyQXBXX3BnWWQzZ3poNXhwWER1VVRrVVJSYnFVaE1yT3BUbnd2S3lJTTFNckxwSWNNdkpGbGJrbmQydw?oc=5",
+      "published": "2026-08-29T04:01:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump’s longtime teleprompter operator to pay $65,000 fine to settle insider-trading case",
+      "summary": "Trump’s longtime teleprompter operator to pay $65,000 fine to settle insider-trading case CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0tyaEh5dHJlYjFNcFhmOEYwbkttLVh6bUZpZGR0ZjhLdFkzYmtfeHkxajRDSkpvUFlWWW1OWWN4S0VqZXd1ZEFiUEgwSTZ6b3RTcG1BanJUNmxtRWc3X0d3RzNFS0tSbjBKRDc4RkkxNk5la1NldHRfS2hWejB2NjQ3TFB2SUNNcHpYMUFVQ3dWNExIOWRtdVJIOE8?oc=5",
+      "published": "2026-08-29T02:46:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+      "summary": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves NPR",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNk1qY0NSZExQbU1zZFA5V003aTVqbkNSVGtNMFhsaUpyZ1ZBb1gxUlk0a1k1QlIzNnl1YlViQVp2YXFJcmZPSTV6b1ZTZ25tMWthQjBmV3YxYWFPSzhFOGFaNHZRRXBhcEZDdTlMYUlKOThmZHZ3YndmamllemdmMkM4eXY0Qm1iR2dKUU9IX2RmRXpJSXZsOVdGSmNIeDBvUUV5b1FSYnhmaDZUS0xNcm9ibXhYeEZYQm52LVd2SDRMcDViQXkzeDBjaWhmUDc4LVNqVVdqY2JEMDYwS3c?oc=5",
+      "published": "2026-08-29T02:07:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -56,18 +104,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exclusive look inside sacred LDS temple closed to non-Mormons for 133 years",
-      "summary": "Exclusive look inside sacred LDS temple closed to non-Mormons for 133 years CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTMzY2R0TEhaYk9oVTRLTTU1U0xZc0tBcFp2Qk1JOWxtc2FWdExGWktnT2o5Z1BrS0lUZGZ4d3M4Y0x6LXNVYXI0QTAySFZfTm42LVJKUFQ1SGY2OGxBd0Q5UjJLRS1zb1RXdFkyMFJPamdmanJQblNCQ0pnVlNHOA?oc=5",
-      "published": "2026-08-28T22:44:24+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -77,6 +113,18 @@
       "published": "2026-08-28T21:17:23+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
+      "summary": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUJ6UGtfbzRGTzN5ellfM19CWnkyWkNVZXZFcWNxdTRqRExYZzNIMWotOVRwZlh0azJSdmNoX3U5YkZMMHVnTWdMd2F1eWlZVVgzRDUyT19ya3FxLTczOFE4bjN5dlN1TkhlUEZ0aDdIWmtHN3dYSHFLTFZqWlctX2ItZXVnLXl4OC05ZWpvblLSAZYBQVVfeXFMT1VpOFZmN1ZkbFBaMG1CZnpnZnpLRzFfX3did0wzZERmVEtxU3BKcTNiemdNWGItMVRqQTJfSjV1OHJnYkdpZ0NseEVKV0YwNDVPSXVMUnM0MVNXZGtXLU5ibHl0ckpRTjFSTWxiTmZ1aG9aUUx1WmwxYWhLS2E0OVpvN09yNlF5OERadC1PZ3o3QW9PbW9R?oc=5",
+      "published": "2026-08-28T20:42:07+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -104,18 +152,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Right-wing provocateur Milo Yiannopoulos detained by ICE",
-      "summary": "Right-wing provocateur Milo Yiannopoulos detained by ICE CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00QmxERy1MaUdDMklhQU9ocVFJdHBmblVxV25qRGVWUHowREJZdGpHdDNrR1hONV84UDBLSl9LYVpXWElIa1EwR044cjQxOU10ckpsZVRnVlZ5Q001OHF0R3dqSFdqVjZKbXlOdWRMb3JGTTVsMEE?oc=5",
-      "published": "2026-08-28T19:41:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -128,40 +164,14 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
-      "summary": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GNTBzMVBqRU5fR2tRUEFSTFhCVVdQZ1VwY0xDSW9ZdFlLNmk4S2pnSWR4MDZkMkNfTzRhNF9EZ0JEV2hQYUFsc3Y5X3VKdDBldGtMVmpYZVdiNVl4cUx3U2hFX2ZIZEZxR05YcDg3Y9IBdEFVX3lxTE5sYjVuTkpFRVFRYlZVUGt0dF9obXlRVm1zMzdqcGM1cDU4MmtlczR2Y0ZRSDhXSnNGalJhTGtOaFhNdGY2MFBYbnBtdnh1T1VCOFM2NUtsTkZvdW5yMlFsbThvd3Q2YTh5c2lra05QS21qaXE3?oc=5",
-      "published": "2026-08-28T19:07:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-      "summary": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXR4ZHM0bnpMV1pkRVlpcVpRaGktc05uNEhpVHQ2bkJTczB2Zm81Y3gxYlBEMnFpRXNwVTl4NWZjaWNxS3J6UUhpUzdacXh6RTJYRm1GVjZvcENtNzg2aThnc2lXUzRmNWdESENhUWpHUVFMellFY1BpTE1GZlpRNHY5MUJWUVE0RTB6TEgtN0dsUlo5TzZseE1wR3VPcE1pZWlWeUo2WdIBrAFBVV95cUxQb3M1Z3dSbUtHVzdLZkVxZzR5N3huclJ1SWJtNUt1enFNTFF0WUY5OGFOeDdKc25Mdk9EaU50T0gyWllsbUlCYVZBdDZjTDNVX3VJTEU2YWNGUUl1c2FQcnNNWFBEeHNrQ0t2OEtFdW5Ia0w0cEJheXpYaU5YWHRYbUtJdDFSN0lIUVFxZ3R6UTNmLWRMMVZLSXh5dkRYbC1xLTloUmFyeFhoakRw?oc=5",
-      "published": "2026-08-28T18:29:42+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Trump asks Supreme Court to intervene ahead of trial so the Pentagon can fire transgender troops",
-      "summary": "Trump asks Supreme Court to intervene ahead of trial so the Pentagon can fire transgender troops Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWN2WmpBRW9veFY2eXVPbkEydFJrRWVleFFERlgxQnowNXdvYkVHS2pZRFhlY0RrR1ZSNXZJcmRwT2tJWHRPVDAxTFdId04tcU9PSFE3aVhQMW9vQ2FjN2xCdE9KWnkzMGprOU54QTFyNGZFUDlIcUtmaVhlOFFxMGJ2eHV3dw?oc=5",
-      "published": "2026-08-28T17:05:08+00:00",
+      "title": "Hunter Biden comes out as ‘48.5% gay’",
+      "summary": "Hunter Biden comes out as ‘48.5% gay’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfUDdPOU9lbVNKU2RyWkxjZ1NzSk8tMEYxVF8yMHc0S2x2VWlnYjNSaUlEclAwZHJQQkVzRElpTkdwR19NN2JoVHNrS3ZzblpwOHpKbDdZQmpCS3c2N0xnTVY1c0g0dEZGUU50YjJSc1JMYU5kb1h6LQ?oc=5",
+      "published": "2026-08-28T18:43:24+00:00",
       "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     },
@@ -178,18 +188,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Grand Theft Auto VI Has a New Trailer and Grand Ambitions",
-      "summary": "Grand Theft Auto VI Has a New Trailer and Grand Ambitions The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTZuN1lRWXQzc0lNTEZleU1jMVlCUDd2WFlYYmc2Tl90Y19mR2xYWFRYaHg0TldlT3hqbGJ2cDA0UllmZXZxYjB1SW5UYUt1TGYzLTQ3dGZRdkVSLUc5ZWhsbkVWdTBLWWdBeVd6WDRhTS1DaFFmbEh5YTFOdWFuMkY3cExHRXpXQ2pzbzdlUTNiaGhabWJHUllNbw?oc=5",
-      "published": "2026-08-28T15:07:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -203,13 +201,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "'It's essentially been one long day': A daughter details search for parents in Nepal",
-      "summary": "'It's essentially been one long day': A daughter details search for parents in Nepal NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamlPVU9PRjlXbE8zYjdLNC1HM0xEVW92TjJnTkVCSlp4bW5ES2lpUFc3RlYtcDRtdzR1T0R2MWVsLVplRkFYdmxhZ1VvR29CZzlRQ2NjZ3g0TUZkbUYzUnY0aDhMTlo0WkpESWJ3ZWRYVERlWm5QazY5eE1aOVg0VkMxSWxNOC04NlA2Rlgtcw?oc=5",
-      "published": "2026-08-28T10:54:22+00:00",
+      "title": "Meet the Megadonors Who Have Poured $1.2 Billion Into the Midterms",
+      "summary": "Meet the Megadonors Who Have Poured $1.2 Billion Into the Midterms The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpPampqV0tna1ppYTJGRlQxYnFzcmo4eWROOEh2azZmN05JcjViZTJ3RzVXSTlFSUJOeWtBYWFwNUxKWjV0Z19XdDctZFNIeGN3cXhoRHpIT3NMTkJnVlRUVkdPQ2pGd1ZJZDdILUdzREp0OFBVT2NoYzk2TGVPYk5jNkpVdERHeTItb0NmUlRKUnBpNHc?oc=5",
+      "published": "2026-08-28T09:02:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -251,6 +249,30 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Colorado deputy under investigation after Evergreen High School presentation brings complaints",
+      "summary": "Colorado deputy under investigation after Evergreen High School presentation brings complaints CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkhka281NTljajBzbFJzejlTX2hIOHZpeDdCcGc0d0JZY0JuWGp1TWg2S2VUcmdVNWk5bU9wdmQxTjBEV0luenZndjRXdlJaZG9QY3ZqeXlsdllhLUU2YUpUNDczeDB3UjdwMTdrNS1CNXI1eUxFZFBNT3pOY0lZTFFkeW56S0xkUWN4VUNaSjlUbUE3VkUzanY4MlpFWEVNN3JmNERqTmdYZ09IcVd1NmxiSGs?oc=5",
+      "published": "2026-08-28T03:12:42+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Episode",
+      "summary": "Episode EdSource",
+      "url": "https://news.google.com/rss/articles/CBMinAhBVV95cUxONU84dnhKUi1tMl84eWEyVVd3czdGT3l1dTNVQ0l5ZkJucEJ3akllalNPbktrX3JqcU5XSnJqTEFTakpOeVg5aVF1M1Z5UlN5SmZhU1pGVEFyZV9zbWotVWhkNDFkVUdVTjRhX1dnZWw5UDJHdllNZmhXRVhnUVlhYUFnVFpNaDFObXdCZVdYVWk5eFVTQ0d4RXpzQ3ZNMEVvalNvemk1bFhjaXJvS01kdndDNGpMckVKQVFUQmZxRm9EakFISEhvTEdnT1hXWEhXUWtFb2xxazdzUlh6cExydlJrdHFaLVZ3YzVJUGl1NWZ2bGxGU193YzZjYkR5SDZTS0FObXBmS2hpbHRoUEl5TnFPbWlhaEpPek9haTQwTXFGSjhMcFhSY29Kc1ZUY2lqMjM3WTE5X0diYXRNQTlDS0NiUW9PcmFiRmpPNU9uYmVhSGpQbkxZNDFFcEhGWnV1b1RkblZlUGMyY0tUbm9pUmlLUTdMNE93TTJXX25rMVlhUnV4WWtUcUtyZFZfZ3pKSzQ2ZkI2OGJRb01CbU55bnZmTTZRSjBfaDlDS0ZIeDZxc1VjS2N1YTJLb2xldWQ4NGdDNk9NOFVKNkczaUtldnVnX0RqMEx1ZTVRaTd5TlZ3c3ZoQllpQnpQTGpncjNnc1JuS3BIR1ZaU0ZDT0o0dUFidHlHQVlEOGl3U0YwRzhXa1BBeHpyU2E0NFRka012TFRxTUMwUkhMenc4UkwzbXlZR2xNUXF1WUR2VDZ1akhCYUxiaXg3cUVhRk9EVV9ONzhOYXloOFR6V1pGUGFEY3Vfemp6aHhTTno3RmFBblZhM0dDSlp5R09sS01XV2k3cm55ZTQ3bzB6S1NlbE5VSEYzQzhkYlJSbkRIcnhUaWxfRFh1OWZCcW8xM0pjTVAySXZIaXB5cDNrbHBlZXFmOWFDdWNrTFFyaTI2SF8tSlRhUUxBc2xaMjBlZW8zX09uWnNQSmF4OGFNaExVbjlycDRWS1MxRGtwQTZmd3NpUWxldGlTVTQ0eGswWUFEZXV3eDRINEEzcHE5Rk9zd1ZQZnQtTXJlV29BUVhwNFJVaWJBUWZKekE2bWtGaTBDUXBSLWw1ZmhEYlJvUnRNeDE2bXRoQkNVcHFPSGtmdWEwS3hVbUltVDFXZ2E1QmswUjRCUFZROVhNU0dNN3I1ai04enc1NHcxeDRNQ0FuNVY2bEZnbVY1Wi1jR0dacnUzMFNpaWZfOVRuNWE3bDI2ODZQamZkTUthbXpOU3Y5X1hybmxaazhJQmFXWDFKN0tRSGVWMnhKck9xU29wX3JfNDFaU2M0WU5KZ2NNNEZGX3hNV2lCMVlmTzJKbjctRG8zazQzX0piU0E0N0tfVnRPZWsyZjZfSDJ3ck9MUDBtYg?oc=5",
+      "published": "2026-08-28T03:01:02+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -263,6 +285,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Coroner says baby with measles in Pennsylvania died of a ruptured spleen",
+      "summary": "Coroner says baby with measles in Pennsylvania died of a ruptured spleen NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkR4MUVvVnNrOE9jb000WkRKMkNwVHlpN25VNnNBU0FYZExGeTFZN1RBaU5hYjFfOHlUSTJrTkZ4Qm5ZTXAxMElhd1Z6Zi1ZVmUtUkFiSWd5Tm1TSmJGOHFYZFRkQXZLQjVaWDJEbENoSVhuTWZfRkRaMXFLb3hTNTBWakhfcmNaVGpIWlBiY08yV2FZeW9sdGhhTG41MGhEcVRJVUFzYlF6QjNlZVBr?oc=5",
+      "published": "2026-08-27T22:24:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -272,18 +306,6 @@
       "published": "2026-08-27T21:10:08+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Fired Stars and Stripes journalists sue Hegseth and Pentagon spokesperson",
-      "summary": "Fired Stars and Stripes journalists sue Hegseth and Pentagon spokesperson CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHZIT2tWRHBtM0psZjI0bjVOUWlOSXA3X3Z5bzhyU25tdklMQUdzMThlNGhqdkMtNjlVSjRCbS1waDhrbE93dlFXT2I5Mk1XM3hPOGQwcHJGMmxTSXVWR1lNN3ZHaWhvNDN6cjdjNXBQOFZGLVBGck5hNTREQkhRdXBDdEpwODJHTXE4RzdqUzQwckxMTWtBMFBvSWpib3BLZGRzNWln?oc=5",
-      "published": "2026-08-27T21:01:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -357,31 +379,6 @@
       "published": "2026-08-27T18:16:39+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Former Georgia Southern employee who defended LGBTQ students receives $250,000 settlement",
-      "summary": "Former Georgia Southern employee who defended LGBTQ students receives $250,000 settlement CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkJQTUlJZXllSUwwcGwzZUpiMTFNdExHdlJWYnJHWE9lYWJ1aTlsNWlOcUxNY3U3NzE3WGlWYXd0bVA4bXpzTnlMRWc4d3NRcUdVQUdkRWJ4TzFGYjlDcVJFM2g5SjRtNnZyUWZBNkZGQ2xrTFRwWExhSU5pODJKQzc3UEo3VDN5R1F6Nk55b2Z6amxNT2tKYnB6clY4LW4xelhXcHFuNk1NLVl2Y1VYZi1QdjZacFliRzJMUk5HMWwzbVU?oc=5",
-      "published": "2026-08-27T13:20:30+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Lucky Charms and Trix go au naturel as General Mills ditches artificial colors",
-      "summary": "Lucky Charms and Trix go au naturel as General Mills ditches artificial colors NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDNIcWJWeFg4X0NHdkFPT2FRTkZmMlJ0SXYzSGNEb3BKTmZYTUJZMXZfaWpZcGpSMDRsZ3dkYU15ZDhKaUZSRkJ6OFItajlfSTkwTDVxZUd5ZVJJUDRrbGpHVGtxbmdxTHNQV1JfaXVmaDF3M1NqdTh1dDN1Y2xXaUJmYS1qUXFhOUlta0kxRlpOODVsbmdMSFpGamJfcjhibTdKWWZNd3Jfb2R2NjJGUzM4c210QnBJbXc?oc=5",
-      "published": "2026-08-27T11:48:31+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
