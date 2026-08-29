@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T17:47:18.032110+00:00",
+  "updated_at": "2026-08-29T20:34:21.526084+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,90 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "summary": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
+      "published": "2026-08-29T19:05:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘I Made a Mistake’: El-Sayed Apologizes for Comment About Synagogue Attack",
+      "summary": "‘I Made a Mistake’: El-Sayed Apologizes for Comment About Synagogue Attack The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzF3MjZtbHllNkxaU181Vk5NbXhPV2pkY2hxNU45VVFFMVRLZE5uMGt6UVpMVmVkeWRZazJtTjJrLU5TVkk1eGtJVHFYME1jMEthdDJHMWE4YVVTcndCLXhwODBXTGQxdkJGaUxWbThybjVYQjRqdDdrMUJhamtTX3oxNzdQelVOU21pTVJB?oc=5",
+      "published": "2026-08-29T18:39:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Palestinian woman and NBC News team attacked by masked Israeli settlers in West Bank",
+      "summary": "Palestinian woman and NBC News team attacked by masked Israeli settlers in West Bank NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE1GdkVxeTRGTW91STNBLWNhY1E0T2k5V0JKOE1JQVdzT3pqc3A5a1hRQ2VKTGNIY2txODZWc3BRWWZiVkM3dzB3RTFXVV9GZ0NjcFhUUkNfSFUyd2xoamFZUUF4VXZnZ25aWlBZc1pXMGgzU21zQXB3R1BvU3NWNzd4OF92QTNrejVIRkVIejFHdmNIMmJKcHE0VGZPbjhVb3FXUXA4bk5BbjNMSFZscw?oc=5",
+      "published": "2026-08-29T18:28:16+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
+      "summary": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEpLOFpESEJXeVU1eUp5aEdwOERvajR4Vm15S3NvaF9pV0VDWEdDN0YzQTlBVEV6WGZPaHdjcmtjbEdkUUVFQkw3NU9XdTBwNndWVzZuczdvUm01RVVvYk9GaDJrVEFjd1l3N1dFMTgyaWZhbWd4RlZ1MGpfZGFpNTB30gGHAUFVX3lxTE9peE82b1FncDRNTFZmc0E0eFVDZy1fUmZDc3JNajNCX2JtQVc4UkFjSl9nY1hmNTZZMnNlU1pfakpQYzFGN1R0ZnRTS3hPNGpQSzBWNFpiZEJleDhGcFVnTXFYRTJhTW8xck9xVWVsMWlMZnNqT3pxeTBMQXIyQWZueTc3TFNlZw?oc=5",
+      "published": "2026-08-29T18:13:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Multiple baby goats had rabies at North Carolina mobile petting zoo, attendees urged to contact local health officials",
+      "summary": "Multiple baby goats had rabies at North Carolina mobile petting zoo, attendees urged to contact local health officials CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wdGE5S09kU0lFT0pwV3o3M2l1a3RCMmhDeHU2ZThmckl0bFV1UWFQaXBhSWJFMG82ZURSZHFmT0Q2cklhVGtvREM3NjlzVjRYLW5ndDBxVTlBazhpTk43T0FUYmdpNm5xMmN5YnBtOVFYdw?oc=5",
+      "published": "2026-08-29T17:49:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The viral leftist teens of Campaign 2020 work for OpenAI now",
+      "summary": "The viral leftist teens of Campaign 2020 work for OpenAI now CNN",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuOXljekJkMGRCUWVVaG96bFFaUWlqQ19JTmVaLW5hOThLQjFxbHk5TFBtdk12U0ZiUWloaVFDckNQVmZERGVEZWEyTk9HcnRJNGxSTnhfRlhUdjlrbWJyTlBueGhFODUw?oc=5",
+      "published": "2026-08-29T16:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "summary": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks NPR",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SRUY4MUV5SGhJalFLdFFOaHZMTWNQYWtFblYxTnJUWE5UeFg2QVZFVzBUVXhaTC03d1VENVlkOGNwaXVBOHVVZW5XRkdSdFliZkRtSEJseHNpZ0pzMlk5dGtfVlRaN3RMWGpzb1FTZ3h6Zw?oc=5",
+      "published": "2026-08-29T15:54:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -44,30 +128,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump found an unusual solution to his Venezuela problem",
-      "summary": "Trump found an unusual solution to his Venezuela problem CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ua2tTT3RCZldpM0ZuZmtrS0MtZ2U2VmZoR2hJcndlQzJ1Sl8zV0l2aUpMMWxacHg0NGlxRVA5d3lDSEhDY2UzX0p5UDBLNHRUZnRnQWxIT1NUQ0JLb0lFbUZfeFFVa2ZLNU50WkZROF93dw?oc=5",
-      "published": "2026-08-29T14:00:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million",
-      "summary": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2ZObXRaVEM3U0NLc0FtVGR1SVRuRl9uNGU0cXR0eUJLamNHcFU0SVVvNm91VUdIU0NpM1dNZ2JUd2RqZlREd2dXTmx2Y1FFN3pnRVJWQlh3TS1xTDBTVzhja2dTcTZ6a1B1Q3oyTTd4bGw0QzRHOTljNldaandqeGV1Vl9CQXNTZGFQaktaNjlya3RaenfSAZsBQVVfeXFMTl9fRTlKMmMxMUJjekttZEdsSmRqdHI5dmxFbXcwRktiOVVDSXNxODhyWmp3LW1KQlpIVlYxdDYzamZrV3M4bXM2T0V5ak1jUy1IX0RsTEZTSWVDeV9ialBiUjR4bnd3cUZaM01rclA1YTFjV1JPSGxNSFlmMEsyR25ZU1ZDcmxZTTBIZEdkRkhEQnNzbHJNckpVUjQ?oc=5",
-      "published": "2026-08-29T13:05:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -80,35 +140,11 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Russian strike on Kyiv-area warehouse causes detonation, killing 27",
-      "summary": "Russian strike on Kyiv-area warehouse causes detonation, killing 27 CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGNsZl9VN21jUWVyN2hzc1FRbnJHdlNsRk9CSFE5a1NvSVhpR192dDM0UldCVE5DeHRaODYydl9pT3JYemkwak5SZUpqSGlGNDhkQm4zT095ZDVFNG0xTjNkcWlUbGhNSjN2Z0RjdUpyNXg5OVpicWxQdXpYeVdHM256aG9KTlVtLUNPVERWM3h2czFNTUYwVmpGMkJ0MnluR3J5dHlR0gGrAUFVX3lxTE5TaTBnZ0hvbXZYdktzZWd4cm9tTU5KNUZJMXA2X1o1VnVkZV9BaXNoUlQ5QXMxOEpVZm5pNm9OMlowa2kxR0RrcWxuSWZ1S0ZmZk04YWhhY1hQeHdjRGprRjAyOVJ6Ynprc0FPQVJ4UkVFS05tenkxaTNxZk5YcUIxMVRjclIwSTJNRGpMWDNLeEd1MlJkS04yLUlaTlhfY0ZLMVE0blBSVVBWVQ?oc=5",
-      "published": "2026-08-29T11:45:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Pennsylvania measles deaths ignite clash over RFK Jr.’s vaccination claims",
-      "summary": "Pennsylvania measles deaths ignite clash over RFK Jr.’s vaccination claims NPR",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWpxVkRzalVibXJ2WGliTUppX0dORGVFbGxFLWx6TXE2TWg1cjN0bFdFMDRSQ1hIZjdsWFFRZnZKemV0RWUxbnFMdU9zLWtScXhzaktGX1ZpX1ZOU256UFBQLWJxNFpTTFBCS25tbzE2NUIxR0xnYUZvd1hraU8wdEFsZDF4cy1waTA4Uzh1R1BqT1AtQzFDZkVUYmRlSEw3VEZlRnhNMUVIM0RuZlUxS1hMUS1IempyYWc?oc=5",
-      "published": "2026-08-29T11:40:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | Her Movement Used to Fight Fascism. Now It Fights Globalism.",
-      "summary": "Opinion | Her Movement Used to Fight Fascism. Now It Fights Globalism. The New York Times",
+      "title": "Opinion | Sílvia Orriols’s Movement Used to Fight Fascism. Now Catalan Nationalism Fights Globalism.",
+      "summary": "Opinion | Sílvia Orriols’s Movement Used to Fight Fascism. Now Catalan Nationalism Fights Globalism. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEtkLThWU1hZSkpmN3FOQUdKanc1YVhadWtUWnZ2NjZjbkNfMTNkQ0swTkZjQzdqSWpNeTBwTmpHdlE4QWtUWXZjWi1UTHcwQU5ZTW5QZTBNa0lIOXBESUtIcTJIYVQ1aDNfM3VqRXJ5QjB1dGw1N2tTQVp3a3B3Sklwd0htTE4yUkJybg?oc=5",
       "published": "2026-08-29T11:00:09+00:00",
       "beats": [
@@ -128,13 +164,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "She fled Iran. America sent her to Africa",
-      "summary": "She fled Iran. America sent her to Africa CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mcGlTVkJIeFdHR012ejlCcU9UcU9mdVgzdFNuRm5CS21QYXEwNEtpaWp2dVhwMzZFSktGeWpmbm9rNWdtYnE4SlIyUlMwRG5IVVF5eGdoZzExdHdpM1RCNjVpN0stRGx4VjJBanBnYjhfNXNDV3R3?oc=5",
-      "published": "2026-08-29T10:00:29+00:00",
+      "title": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer",
+      "summary": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXF3dHNxUXBVYzJhQ0prR2RlMW5GN2d1dEhIVzRPNmFDU3EyQnpKSXdBNmIwZXRPbHdnY3ptMkI3YjJqd1JWRWdUZHRYVWNDMmgzaWpBMHRiOTRFcElHMzBpMlVpa1ZrVEE3RjdqMW1wRE9EYzlyazNmbmVtMWxDdHZ1Y3Joek1WaHlybGJfTlFaOHkz?oc=5",
+      "published": "2026-08-29T00:49:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -173,18 +209,6 @@
       "published": "2026-08-28T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer",
-      "summary": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXF3dHNxUXBVYzJhQ0prR2RlMW5GN2d1dEhIVzRPNmFDU3EyQnpKSXdBNmIwZXRPbHdnY3ptMkI3YjJqd1JWRWdUZHRYVWNDMmgzaWpBMHRiOTRFcElHMzBpMlVpa1ZrVEE3RjdqMW1wRE9EYzlyazNmbmVtMWxDdHZ1Y3Joek1WaHlybGJfTlFaOHkz?oc=5",
-      "published": "2026-08-28T19:13:23+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -249,6 +273,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "The speedo seam wars heat up with one last summer blast",
+      "summary": "The speedo seam wars heat up with one last summer blast queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2xnOFBaMG14QkxJdEZWaExOSU5BWmFsdVRKYm9CTWNhbnNWdDJoR3hrQUpDRkVuZ3FVeDhtSk9kUEkycktfY3JIbHlNa2NMYktPTlpmYnVIcnNxNWh6a2ZHZ1VVcVN4ZWZVdFk2Y0c0MXlVeUotVzNMbXlqQTg2dy12X2VVcjYwdngwdzE4OEY0dkE?oc=5",
+      "published": "2026-08-28T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -259,30 +295,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Queerty Crossword: Aug. 28, 2026",
-      "summary": "Queerty Crossword: Aug. 28, 2026 queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CWFNLSC1HX1VYMHVST0VZZmlHdEJQclpBN1pHZU81bFExQUtVYUlhcFdqZ3c0UmtCQjZqaWZfaTZFS3hKUm1odTBCMWhaakVoZnI1dnd5Uml6YnRvYndkaXRYSTVrdlBRQ29LelR0VmU?oc=5",
-      "published": "2026-08-28T14:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | I Study Successful People. They Have One Habit in Common.",
-      "summary": "Opinion | I Study Successful People. They Have One Habit in Common. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIbnFtUEhBcVc0WVRPYlRGdnFENUpXM2luaEpLNWlrOEdqNC15UlByaDFqUzZ5TkhBVHk4dTVFMGl5QXRPUjBsNjFiaXFmaTFlNUlZUmg0SDBWQW9vOUwyYWF4WWRuQm1fMUxWTTZuUlc3MVd2c0RPNjlB?oc=5",
-      "published": "2026-08-28T09:02:08+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -368,18 +380,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Hey Diddle Diddle: What the Decline of Nursery Rhymes Means for Early Literacy",
-      "summary": "Hey Diddle Diddle: What the Decline of Nursery Rhymes Means for Early Literacy Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnhnMU9hcG5GOU1iTHRMdE5TZ283WkJWci05OFZ0MlZONjQ5LVZpeFdSNHdDRzJMWkpKQkRqSTgxaDEwRV9BVDMzajlJZVVNZnFGbEFha1JKUEs0Nk04TlVRaWNhdVBqVlJwT0JPWFowV1V0NW1PMHg1SjcwbnNGSEozdjVhNEhMOEFYZHdaaWk0VkVkQzV4eGpSTFBBNUhlUVVrOG9lb0p3ME5pTzdvZkxUNnZjbjRlbjE4WnZnd2F0dkNf?oc=5",
-      "published": "2026-08-27T20:18:24+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
