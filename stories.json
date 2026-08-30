@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:09:33.879187+00:00",
+  "updated_at": "2026-08-30T17:41:43.412373+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,12 +20,84 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump calls for NBC’s Kristen Welker to face ‘rebuke or punishment’ from the FCC",
+      "summary": "Trump calls for NBC’s Kristen Welker to face ‘rebuke or punishment’ from the FCC CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Q0pIdDRORVh1YXBHS04yTF83b0NINTNKQXdXaDJUTWNtTVU1MzlJdmxNVkpUV1kxNWFmRk1DNndta1dwc1ZKb1BKVmxnMWNCT0FBZ3o1YTZtVng2U2p3SUJNY0wzemxPNkx2N05oTWVpZlkzWkhZ?oc=5",
+      "published": "2026-08-30T16:24:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "What happens when you’re in a queer relationship… with your straight bestie?",
+      "summary": "What happens when you’re in a queer relationship… with your straight bestie? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkdlTkZmTF9uSDhOS3lya2ZkUVZDSHdsdUJjR3gxRk4zWG5uZGFXeFJBMXZKUWZuaVByZmtxcTlGT0R1Y1ZBNm05OGVvOHctbU12dWo3a2Q2a3NJcXZtdHNwUl8tV1VFWlhHMUxaUlNBV1lhNlM1UzFPQTNaQTR2dFZoV0tpSnhXYTYzMnNnbnBqckQweVlicjZ1RkUyZjBOY244bkZXSk9PbWs?oc=5",
+      "published": "2026-08-30T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Canada claps back at Trump’s efforts to rename Lake Ontario as ‘Lake America’",
+      "summary": "Canada claps back at Trump’s efforts to rename Lake Ontario as ‘Lake America’ NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1c5NXl1RUY0RkJueUF4TFI5ampLM2JqdDFaOWZ4UDBDSjdHVW5tN1RKUzd3RU5KY0hMTzc1LW00eXhtUlJTMFR1WTFDdV9hWC1TTFRmdlVWTV9zNUZ1ajl6RngwT0FZZFAzWS1xcnFjYWVuOTlKOUw1OG1zN3gxNDRNZWtNcFB6OUxHWGhHb2xyeFM5bWhYaw?oc=5",
+      "published": "2026-08-30T14:36:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
+      "summary": "U.S. Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXpzTzFUZ3Jud096M1JzNjZ4VjFHLXc4aXhzNTJ0MmJTOHNkMnFsekdrWkVnY1pwVUhxYkREdjg4ci1ockg3LVg1aXA5QWdCMnlTLU5GUjRSUUkxZWthS0JkWTdoMTRFcEZtTG0zNExXSzlwVjZnbG9WVWtpSzdWbHZTT0RCWnMtdlNzYzRIcGhSM1o3QldsUlRDc25TT0pPc1prNThEc9IBrAFBVV95cUxPZlYyZDJOb0ZzV01JbFRFYTBLbm56V0dfRjQ2UHRUM01oMXhFUnRBeW0yVC03TTduMy12ZnQtVzRWTGpfVHZkbW94YWRpZm8xOXJXQzNVRERVaXNicVd2OFFIc0pvakZnS2x0TzlWNHFmWndaYTdNWjFfWUJVeFdMSWdfUTRETUtMcWctd0RtQkpjZUl3SkZrQ1hyRjY3cWJ4WjFDU0M0dUVYRUZy?oc=5",
+      "published": "2026-08-30T13:10:03+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+      "summary": "Exclusive: Meet the inaugural winner of Fat Marmot Week NPR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0N0WF81RFpaU0hWM2UxYXFKRjBMWWt2WTU0Yk9fRWVZU0JEdHhaNmY5U1ZwQTVreEJUb1ZJOG8xNDNtcjdyVVB5Q3Jyb1lKRFlzcVBCUnZLbklzMGs3bFRPZDZYS2FBdlJheTNvMGUyMF9GdWZGT1BVYURJd1JCVkdUVTNEZDJtRFpfNGI5cmdvLVdDbDE5Uk5GSVh5Vi1r?oc=5",
+      "published": "2026-08-30T12:45:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "These men had a hellish escape from Nepal’s flooded hydro tunnels. They were the lucky ones",
+      "summary": "These men had a hellish escape from Nepal’s flooded hydro tunnels. They were the lucky ones CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1p1SWxhUENFN3lYR2N4S1F6T1FLVXA5Y19EUEk5c2lSUjd1WVhLTGQxTF9Yc3NEWi1VTElpSTRSSGwtR3diR2ZjQnZUOGt5eGJQek1uTm9mbXkydGtDYXgyUWhEaVFkSE5BcnJmM2VITnBJODhQekRhZ05iUlczYw?oc=5",
+      "published": "2026-08-30T12:31:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
       "title": "NASA's newest space telescope launches on a quest to explore the hidden universe",
       "summary": "NASA's newest space telescope launches on a quest to explore the hidden universe CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONloyRVBpN09WdURlLXk0Q3UtcThGbldjR3hIckhoRUl5TWZ5M195WVZkX3E5Wjg1UlMxcDRHZ0tvQ3BDZ21IQmJmMXhCXzBhaWxRT1drV1RSaFVPcnJFOFBuMFVHMnV3T2hJbllpbEpTREFpTkRBT3ZnbkczaWlCbUplbVgzd2JtOUxUX2lNUlV2YUdiVDNwODdrX29LbHp1c2NFaV9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONloyRVBpN09WdURlLXk0Q3UtcThGbldjR3hIckhoRUl5TWZ5M195WVZkX3E5Wjg1UlMxcDRHZ0tvQ3BDZ21IQmJmMXhCXzBhaWxRT1drV1RSaFVPcnJFOFBuMFVHMnV3T2hJbllpbEpTREFpTkRBT3ZnbkczaWlCbUplbVgzd2JtOUxUX2lNUlV2YUdiVDNwODdrX29LbHp1c2NFaV9B0gGrAUFVX3lxTE1SdkdOSVpQVGk5VDZ5UnNMNjJTVzdDWDJheFd3NTJFQnhpb1RIbFNQWV95OG9feTB6TFR0Nm5QVTBTVWVGNjRqZ0piWDd1ci0tRE80SHNhLUVMN1UwWVBuVXI4SzJDTHlsWUVFWm5vWEJ5Tk53Mld3eElQejVBWlk4MEdCTE9Fd2l0RnpBR05naHhmeUVkTDMzajV4LVlIV1lVWFVJRHBZZXk1TQ?oc=5",
       "published": "2026-08-30T12:05:51+00:00",
       "beats": [
         "Politics"
@@ -35,10 +107,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Rescue underway after Turkish ferry carrying hundreds of people capsizes off Cyprus",
-      "summary": "Rescue underway after Turkish ferry carrying hundreds of people capsizes off Cyprus CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xVC11d3ZpNWJINER1UEVHVGxQYURZTVpEZENsZ2w5WUdSb3VNWld5bXp1TlRwNXItUFo5TTg1UjljREk3WXNIN0g5eElHVzJtdG9BeUVmbEs1cEstWWhVLVpMM0dyZ2ROcTBkd0stdlJ6YnhPNWpRMVVB?oc=5",
-      "published": "2026-08-30T11:27:37+00:00",
+      "title": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash",
+      "summary": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42QjlmbzBhenZ2RTlIOTZUVlRBTVNabUlRdE1EeDBzMmJyWGVqYnJEVDJZUkZ3NFdKZ0VmSS1Bb1drb1hGNGFKRXBJMGpvcUpsVlRjbFVCeGdjRC1YODhuQjJoakJleDZ6WFlz?oc=5",
+      "published": "2026-08-30T12:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+      "summary": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnM3dlRfcXNobTlRUzhTdWVnQ3ZYaUR3UW94SzRDVVUxOHp0YU11WnZhOFpuQlpqOU5KSkxpM0l2VXJNNEpiUlNxSVQyWWl6bzY5eGRWUTZrYzNzeVpzU0JQal9ZYk5DS3ZOakhMYnBJYjFHYzRWZW83STRybElwWtIBhgFBVV95cUxNblBfU2Q4TzE2ZnlXTlV5Ty1reExnb2tiNlhmSi1lOWhHaDZGSVVXNnVtV0FXRDRFUW1ZdmpNMXpoWnBCSHdtajNEWFZtMm0zNzA4amtZVEswTFBjaXZJcWh2WmtfYzRwQ2RoaGtYc1FRLUlaM2JiX0dnY2o2Q1hmMnBDV1NRQQ?oc=5",
+      "published": "2026-08-30T11:36:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,60 +131,36 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Sunday Puzzle: Thing from thing",
-      "summary": "Sunday Puzzle: Thing from thing NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4allTdU56VnZXbGpvZnpBeTgzbjRJeWdnckhCaGJCUVJQa1doWWhZVGw5UGhyaUFJalRwNnpselhjejJfcjBqQmhBd2IycmJCcWFndkxKMlVwOHR5N0k4SUxnSnJhRmZ3VE5sY1VVcFlCSF82ZTRHTE52OVJfdw?oc=5",
+      "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
+      "summary": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlF4LTh5bTlpRk04ek5id0Q0SXJnbFdsOU0yQjJxUjVmUXNKSXFOcW05blhMQ1lyUUJaaGl6dE1sSjlDRkJ4a0xGSWg5dnVNUlU1dkFqWE1zY002M2hiRmM4ZlYxdl9UUkdiaFJCZGU5cTM2LU9WeDY0Q2U3QWc0WERVUHE0YjFINndxdG5n?oc=5",
       "published": "2026-08-30T11:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Last-minute doomsday scenarios for the 2026 election",
-      "summary": "Last-minute doomsday scenarios for the 2026 election CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UMnktQ0Yya1hlRDBBb3lkS1k3ek1raXNlbjQ0SlBGcUxzaUp2YmE4MV80b181SHNPbXExdEcxQ2dkVGVoakpreVVaZVJZTFhaYXJfNk84Y2x3S3FGNjF5d1BBT3VXaUVhanlac0w0Z2JkSzB5ejR6Mg?oc=5",
-      "published": "2026-08-30T10:30:30+00:00",
+      "title": "In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups",
+      "summary": "In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckdIQk9rcVd5aEx3VUFiUkl6WU84S3ozOGZObEhGeDFHQ1pVclBNWndJaW51cC00eHA4U0xQVHZhRUZvS0tTWXpYekl3VGtPVzcyclMwT3NmX0NGREwySjBZZlJqT1AxZHZTRm9hN1pTVE1xTFZINk9KaFJ1QzZrNy1DZGlGWjg?oc=5",
+      "published": "2026-08-30T04:01:27+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "No, Tehran is not winning",
-      "summary": "No, Tehran is not winning CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iNmxzbkZlUXRaMWZyQWFNaElqLVhEeW1SZzFuUmhMWEc0Z3ZITXNsbTVSMlUxMEx2THFjeXZkLXBTU2VrUVZTeWEtMll0di00cFdzSmpaZjlPcTVyZG1EY2VJZ292TnpZbmEzMzc3Q0ZHcDhneFh4b0VuOEVnNHM?oc=5",
-      "published": "2026-08-30T10:30:29+00:00",
+      "title": "Woman found stabbed in San Jose dies, homicide investigation underway",
+      "summary": "Woman found stabbed in San Jose dies, homicide investigation underway CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3NneGtIUm9ZM3JaZVF6UDM1Vk1ZX3VFLXp5bVBaT2picDVwbnBQT2VVam1yNDhzZ0FQeUdtUUdaeElLYzBrUW1VbFBKVlEtSkdhQ3U5ZUFZdDRRNlBKS2pkVnNFbHRvXzVqcEtuM2ozdVc0a01ibklzWFdmNnh0ZngtLXdsdw?oc=5",
+      "published": "2026-08-30T00:54:30+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "How a comic book store got swept into the tariff storm",
-      "summary": "How a comic book store got swept into the tariff storm NPR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEVaZDZwdTZtbm1yZDB0bng4YjBjcHFFbjZSN2Rha010aEhuRnlFSHgwX2FYcWxReHpGaEplYk9CXzFic1QzT29SZzlIa3RfMlhDTkd4ajRIQ2YycEZaT1FhX1l0YlhqeExOeVo1MldfWnpucTNpVjdvTGx6RkM2UHl3?oc=5",
-      "published": "2026-08-30T10:00:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
-      "summary": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWRndmeU5KdlprZXFMQ2VJT0dEWk9XUUJSLWdUNGJ4eXlCWks2TDJzb3E2eDlqdkpmYXFlYnkzT1EyQUZINnpSTXNEY3c1YV9uUk9WeHktVFgwWEFTRFRVcVVpMGFvRFlNQzRrUjlxb2FkSl9FV1Q1VA?oc=5",
-      "published": "2026-08-30T10:00:00+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -113,42 +173,6 @@
       "published": "2026-08-29T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-      "summary": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
-      "published": "2026-08-29T19:05:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Palestinian woman and NBC News team attacked by masked Israeli settlers",
-      "summary": "Palestinian woman and NBC News team attacked by masked Israeli settlers NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3RtQ0pjYm1sWjV1VHBRbUVrMFh0NUJXWGJ3dVNNRU12S0ppQjBXeVViWTlDVFdkcGZwQWRjbjVZZUZIaElpa3h0YlhLeDFnQVM3Q0tBLW1xWlVtLTNBd01tUHEzZE84blAzbS1zYmVPOUc0cnFCcFNKUGQ2dThhWTVqNUZ5MkNpOTRnOEtVaTBCQW5CbUc4b3YwbzRwQ3NnTEdVOGhUcEV5YXBkVURXZ2lERG4?oc=5",
-      "published": "2026-08-29T18:34:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump administration weighs Yosemite land swap for private developer’s access road",
-      "summary": "Trump administration weighs Yosemite land swap for private developer’s access road CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9feVJsd0FRNk1PbC1ic0NldU4tNXF5SzN4MWNaQVVWa1hyLXg3Q2drYk1mejdiX2Y3NjJkUUpsREUtUTl1UzUwNmZMTjE0QmFWVDZhdnptNlZ6ZU9FQjJ4RHdWVF9wMXduS29WemtwNFJFdXg3UDVfNC04b9IBgAFBVV95cUxOMnV4X3BYcVFEOEhRMG5vdkZ1b0VCbEZzSGk0b0xka1MyWkUxLVY5TlIydW83UkptdmZBUFFEMW1VU3FkcmdvZkt1cEFtREZJaXFzajZtSTdfV3pVS2VqUm1XSEdHakY4TVZuUkJFN2wycGRVTTJ3M2Q4dGZyS0JjSQ?oc=5",
-      "published": "2026-08-29T18:21:49+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -193,18 +217,6 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
-      "summary": "Rival factions stand off in Niger capital after mutineers attack airport, presidency NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQXpJOExxTFNPMW56WG5IMFpTMXZPZm1ORFpxbUhVdjZrdld1MEs4YU1GeHhTeW9rZU9hUHNoT0lKbGRnVHJFVTBZZ2RlX0wyZExOSmh6R0hZRE1JbU92b1ZqVXItTHRtSVkyMDhZTjZpcHJOQVp5Y1U4Y0duZHRHOFhkV0dGbGFYd1JCWWIwenZrOXVZbEhxcjY1c3JBREg2MDhNMHR3WXY?oc=5",
-      "published": "2026-08-29T13:30:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
       "title": "Deaf dog is reunited with her owner after the devastating floods in Nepal",
       "summary": "Deaf dog is reunited with her owner after the devastating floods in Nepal NBC News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZC1nVnFsZ2tvUWJxU1JhTGRlTDRCVFYtVmlhS1g4Ujk4NDJaUDdrYXBWVkJjLTB2THppazd1V0IteWdMTlJLRXk3VlNJS1VOWDdxcGszUGZPcXBDWG4ySHRJZGg3Qmpsd2R3MVp5WFVJOXpuZ212Y1hINUl4QkppdzVkelc1T3RoOGpsZVU1LXRRR1RjNjhpUHVYVzRGMHR5em9rTEVCR0NyNlNFMFZnOVcwd2FWd0k?oc=5",
@@ -229,22 +241,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | Mountains Are Coming Undone",
-      "summary": "Opinion | Mountains Are Coming Undone The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkZsQVc2Qnh5LXZJSmFaOFIwbFNlb2dYTGRBbGNhOTViME8wV3Z5bVNzaFFaM1ByV3pKdWhxbDRDMjZIOGdjd1M2UzFiY2l0bnozTDBac19OcS1mQkhsWExHckZyekJIbENtNzE3UTYyd2VtNE1pOU93dHNQMXZvMlVPYWEzanJEdFJ6TXhNQVQ?oc=5",
-      "published": "2026-08-29T11:00:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Opinion | Sílvia Orriols’s Movement Used to Fight Fascism. Now Catalan Nationalism Fights Globalism.",
       "summary": "Opinion | Sílvia Orriols’s Movement Used to Fight Fascism. Now Catalan Nationalism Fights Globalism. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEtkLThWU1hZSkpmN3FOQUdKanc1YVhadWtUWnZ2NjZjbkNfMTNkQ0swTkZjQzdqSWpNeTBwTmpHdlE4QWtUWXZjWi1UTHcwQU5ZTW5QZTBNa0lIOXBESUtIcTJIYVQ1aDNfM3VqRXJ5QjB1dGw1N2tTQVp3a3B3Sklwd0htTE4yUkJybg?oc=5",
-      "published": "2026-08-29T11:00:09+00:00",
+      "published": "2026-08-29T11:00:10+00:00",
       "beats": [
         "Politics"
       ]
@@ -259,6 +259,18 @@
       "published": "2026-08-29T10:00:05+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Meet the humanoid robots cleaning homes for $30 an hour",
+      "summary": "Meet the humanoid robots cleaning homes for $30 an hour NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1Z0TTBZSDVRVWJiLXpVdUJOcmdkLVJiTjRQSUR6UHc0bEphcjNSOXN2elNBWWhYMkJQR2M2N3hUTGwtOFJfS3Jub25Qby16YXlZaWswb1R3ajdGRjI4Q19KVFdWMW9JZ1BERElPbTlHMi1PX2VfVlZqNXhrU3lxa2t3TTQtN2hra1h4TjN5LUdOdw?oc=5",
+      "published": "2026-08-29T01:02:58+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -323,18 +335,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Field trips, sixth grade camps among Fresno Unified budget cuts",
-      "summary": "UPDATE: Field trips, sixth grade camps among Fresno Unified budget cuts EdSource",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1V4ZEpmanA4VmNVV2xWWFdYTHdXS0VYTkJDcHNfZjBrMDhUSnluNkFmbnNlUXl2NVRBS3htbTNuTHhDYUFUTjZHUHhLZDJ4WHhUa0pGSGZOS21vNmZLUnREYjVyRUM2OHlNakhVYi05TDJlbV84aXB6aUFFcU5mRnBCbjFRN2labkRkS2sxUHFFdkRXUFNLeWpDRQ?oc=5",
-      "published": "2026-08-28T17:11:29+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -344,18 +344,6 @@
       "published": "2026-08-28T17:05:08+00:00",
       "beats": [
         "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "What’s with all the trans women on Grindr?",
-      "summary": "What’s with all the trans women on Grindr? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nWmhaT0pEQ3F5MmVOMGg5d2Z2Q1J3cGgzN0hKZVI0VF9YbGNuSVJpZzlnOVZMUEZnOTdoaVd3X1E4R3I0Q2J0RlR6dzVMby1lYV9oVlUtX1NPWGctWHVPMGpJdmRPc2ExR0dMSGZZOTRzbmFuSjZXLTJOcWhieHc?oc=5",
-      "published": "2026-08-28T17:00:00+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     },
@@ -380,6 +368,18 @@
       "summary": "Episode EdSource",
       "url": "https://news.google.com/rss/articles/CBMinAhBVV95cUxONU84dnhKUi1tMl84eWEyVVd3czdGT3l1dTNVQ0l5ZkJucEJ3akllalNPbktrX3JqcU5XSnJqTEFTakpOeVg5aVF1M1Z5UlN5SmZhU1pGVEFyZV9zbWotVWhkNDFkVUdVTjRhX1dnZWw5UDJHdllNZmhXRVhnUVlhYUFnVFpNaDFObXdCZVdYVWk5eFVTQ0d4RXpzQ3ZNMEVvalNvemk1bFhjaXJvS01kdndDNGpMckVKQVFUQmZxRm9EakFISEhvTEdnT1hXWEhXUWtFb2xxazdzUlh6cExydlJrdHFaLVZ3YzVJUGl1NWZ2bGxGU193YzZjYkR5SDZTS0FObXBmS2hpbHRoUEl5TnFPbWlhaEpPek9haTQwTXFGSjhMcFhSY29Kc1ZUY2lqMjM3WTE5X0diYXRNQTlDS0NiUW9PcmFiRmpPNU9uYmVhSGpQbkxZNDFFcEhGWnV1b1RkblZlUGMyY0tUbm9pUmlLUTdMNE93TTJXX25rMVlhUnV4WWtUcUtyZFZfZ3pKSzQ2ZkI2OGJRb01CbU55bnZmTTZRSjBfaDlDS0ZIeDZxc1VjS2N1YTJLb2xldWQ4NGdDNk9NOFVKNkczaUtldnVnX0RqMEx1ZTVRaTd5TlZ3c3ZoQllpQnpQTGpncjNnc1JuS3BIR1ZaU0ZDT0o0dUFidHlHQVlEOGl3U0YwRzhXa1BBeHpyU2E0NFRka012TFRxTUMwUkhMenc4UkwzbXlZR2xNUXF1WUR2VDZ1akhCYUxiaXg3cUVhRk9EVV9ONzhOYXloOFR6V1pGUGFEY3Vfemp6aHhTTno3RmFBblZhM0dDSlp5R09sS01XV2k3cm55ZTQ3bzB6S1NlbE5VSEYzQzhkYlJSbkRIcnhUaWxfRFh1OWZCcW8xM0pjTVAySXZIaXB5cDNrbHBlZXFmOWFDdWNrTFFyaTI2SF8tSlRhUUxBc2xaMjBlZW8zX09uWnNQSmF4OGFNaExVbjlycDRWS1MxRGtwQTZmd3NpUWxldGlTVTQ0eGswWUFEZXV3eDRINEEzcHE5Rk9zd1ZQZnQtTXJlV29BUVhwNFJVaWJBUWZKekE2bWtGaTBDUXBSLWw1ZmhEYlJvUnRNeDE2bXRoQkNVcHFPSGtmdWEwS3hVbUltVDFXZ2E1QmswUjRCUFZROVhNU0dNN3I1ai04enc1NHcxeDRNQ0FuNVY2bEZnbVY1Wi1jR0dacnUzMFNpaWZfOVRuNWE3bDI2ODZQamZkTUthbXpOU3Y5X1hybmxaazhJQmFXWDFKN0tRSGVWMnhKck9xU29wX3JfNDFaU2M0WU5KZ2NNNEZGX3hNV2lCMVlmTzJKbjctRG8zazQzX0piU0E0N0tfVnRPZWsyZjZfSDJ3ck9MUDBtYg?oc=5",
       "published": "2026-08-28T03:01:02+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "New York, Chicago districts act to lower police presence in schools | K-12 Dive",
+      "summary": "New York, Chicago districts act to lower police presence in schools | K-12 Dive K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUERORVpUV1R3VzBXMC1aNlVMOS15aXNPZklFb0FaODkyaS00WUlCM1B6UDhEbnkwZHFWVzYxOFhXOVo5ajlCM0s0aVR4RElELXlxd2U2dUNOYkFkeGs1cGcyaGVmX1RsSy03STFKVzlTbkFDMTBOdXJJR3VndHRIWnpvbDNDNktvbGF3Y3V1cGU5aEtzZEI2QTN0blBZWmt0U0hOaTA2VkZfRWpZU282eDRQQnZCOTl3XzI5dWM3bnJzZ29oWGVVQ0dlZmhsRHkwYk5tRUdxVzUzaXRXOWNKTTVvUGVkRGxMamZYSUsyZ0pYY2RGTkh0VmhLWnoySjFQMGhsWDlhaDQ3SG1l?oc=5",
+      "published": "2026-08-27T23:46:07+00:00",
       "beats": [
         "Schools"
       ]
