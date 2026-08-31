@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T01:29:36.708158+00:00",
+  "updated_at": "2026-08-31T07:33:06.528530+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -21,12 +21,48 @@
   "stories": [
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says",
-      "summary": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFRNUkFsV08tOG0zVW5KM0VRZzAzTWJvaXFMV090a1ZfVkpRWnN0RGQ4dEFDbks1OWhqRHlHWWE4Z0FybTUyRDRYUzNPVHN5aHNJdGluNFdoNU5PakVleTVremRSMWVNcV8wQVBtOEZvbjZLZ0x2ci1xWndGLU5CbjJvXy1kc2JlNm9YZG5ZRzh5UlE?oc=5",
-      "published": "2026-08-30T23:50:00+00:00",
+      "title": "Freeway shooting investigation in San Carlos closed northbound Highway 101",
+      "summary": "Freeway shooting investigation in San Carlos closed northbound Highway 101 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemVfd3ZZekF6UFNqRzhPRGp0LWZaMmo2elh5eWZUYi02X1hmUmM4N3NfQ3ZrV1ZBTkdrRlRGT1NpQUh0YXFGb3JBSXpqNmxjYk0ycWJiS21PMGdSeVg4RWVnMy1EbDk5bDZrc2UwUTM1NFFnYmZHdVhxZFpTQ0NEaFZwTllsa0M2UC1lQTNGZFlCQQ?oc=5",
+      "published": "2026-08-31T06:10:19+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+      "summary": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVBPRWZlQmpJSE9Kc3FkbnlZZHVCMVprdGhrUjg2d0ZYQjRwWjFkTDZlQnlPSTBxaWM0Ykp5a2w5WE5pWjU2ZnpOWURMaTRqWndHU3RjVXVfMlRBZE1taEFwVkRKNEp0ekRtZjhBUGY5eDdHMmJvTkQ5MzRFS0hEX1hPV05OSE1V0gGOAUFVX3lxTFBtZW8tX0wzVHhyUldCLUtjM19lb1VMU2k0VzdZQ1BCVWM2Umo3QzlGclJOamFYMV9mZzQzUDRXSXU0QnQzbEF6bzZGT2FuZVAtbzBjdk9QMGJQRkVndjQ4SjY2LVk1OThNeVFIYzU2ZXRFeklCYWxtd0pMQkZMbFJCMThrRjNtSlFXdEdQRGc?oc=5",
+      "published": "2026-08-31T04:57:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Iran launches missiles at bases in Jordan after US attack",
+      "summary": "Iran launches missiles at bases in Jordan after US attack CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTm91Wmw2NUVuR2JuMHIzT0lPRU5fakpKQmYxQlhsMjdpdmoyOHNVd3Y5eEFUSXVQTEhhczNjcE41dzRqZjVNTUEwR0I1MVBQeFY3Y2lnS0tsa0dYdEx4bHdIZjdWRzFSa08xeTU4OU1GWjI4QmFKREQ0VmxBaGZ0WXQ5ZHBEZ3IzV2NCLVpR?oc=5",
+      "published": "2026-08-31T04:32:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "What Argentina gets right about youth soccer — and what the U.S. gets wrong",
+      "summary": "What Argentina gets right about youth soccer — and what the U.S. gets wrong NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTVqYkVyREtWLS1ISTgza2Vub3NGSkFTTW92TnhrSUItdkN0bm83eGhJelRwSlhUejdDbjVGU25WcDFkTG81bHpYOEpCUWdZOHhkS2pjYklxZjB5V3pxMjFOMUVGQWtNakxpMWdoTFFPZ2dyYXNsVXRoQmZ1bG96aXVHX2RUTk9fa2hQaWhYUGtRV0tDOHlpc3RnWDhwWW5xdnZfaDIzbDdTc3BySWR4RDY5TnNadVZm?oc=5",
+      "published": "2026-08-31T02:27:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +71,46 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
-      "summary": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVFsaUhJX2RITjlRbkpILUlPdzJKQUV0LWFtaUFLSEU3R1pWcFdYMDBMZy1qc1lwamtuMDJ3V0FVUDNURmRDWE5SZUtwSWtKUHdLQkYxTGxDZTRxdkxtT09zOUVKM210Tnp4OU0wd2YxLTVuYnA4eThickJCbHF2MmNRN3ZVbHJtV2lvT1RVMnZ3MFVtNlE4cy1aSkNDNl9pdVM0QTdwSQ?oc=5",
-      "published": "2026-08-30T23:26:35+00:00",
+      "title": "CNBC Daily Open: War by other means turns to armed conflict — again",
+      "summary": "CNBC Daily Open: War by other means turns to armed conflict — again CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzRlQmEzZzgxcXFVdzNLV1NwdFh0ZGc2N3EweWpMM19fbWZnOFVnSFpLOWwwbVNOSHpSLWk4YTNTWW1SX0tIZFFza09WZjhyUUFUd2RRODRJcEpTRDVzQTlaLVV3eDZLVHdSTTlpLVVJUUNlQTdQR2V1NEg2bkxTUEJMeFBPU3Y0dHfSAY8BQVVfeXFMTVNhRjhaYlVvUFBvWkd5ejJoMjdxTVlfVVhiUVhyS1RMYV9rSUtmaVdjU0lLbkN6QVNPWW5GenItOGVoNElEZGtxcERCUExWX0NZNzdJaThfTk9zdUk3b2tuTkVjbG5OSHdpeWtLTmlzNmF2dEd0T3l3RjNsTTRQbm9NZ1dWMjJWUEZGUkxoaXc?oc=5",
+      "published": "2026-08-31T01:21:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
+      "summary": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTdVeFlkNy1DdDJfR1c1Y3hPYVJBd280eEppcDZpaGdyWE1PXzlobldLdUUwSHc4ZUVrX0lJMjJnOVZocVVDeDlDcnZlc3hFVVhPcmJpZzF6dGs0Zm9RSzRGNC14X1FCcnFROXVfenpEWVMzYVFsRnNLMGxROTZ0MG5ZbkRMbU3SAYwBQVVfeXFMTVZSdnpDbU41d3JQN3hDU3p1c3hLSHhCdW91Smo3UFNDc25oSkxuSFowQlZUNGFhYjFpMlBBYXg3MkpHbFdDLWtwenVWWHd2YmVwM2JhT1hSMFpFN2R4cEwyU3JNd2hqdVI2emNGQmk5LVRUempxbFMzNUV2NUxxazhvTjB0Q200WnhuMTI?oc=5",
+      "published": "2026-08-31T00:46:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
+      "summary": "Families of pilgrims likely caught in floods are desperate for news from Nepal NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHBKX0pvN0hJOVBtajUwWWxHcHBaMzE4NG5fUWRTMjlMZk5EQzNjNERoakVFaTJLcGNQcmRSSWM5WGJOdHJOTDFBYmJFcndLenhPV2F1YklUbFozYkowQkMyR1UxRzhmQ1ZRa0F1TVVrUF8yUVNEM3h2QWUzRWl3VmgwYWpDdmxsZHcxLUpWNC1kZktjY2JCMGthWnE1Tkp3dXJ3bWE1a0ZZQlg1VUJHVDJCZV9LNGdtU1p2Q2RLQWw?oc=5",
+      "published": "2026-08-30T23:32:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Westmoreland County man accused of killing mother before fleeing scene surrenders to police",
+      "summary": "Westmoreland County man accused of killing mother before fleeing scene surrenders to police CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVYyR2xGSEpiSjkyeWhsWEFTMWlpWUJnV1BMeGQweXhtOV9Nc19pbGYzOFJUTURwSnpPOG9GMjNZeXZhZFRTNGQxa25SZ2g3TEY0eEo4anBNTWxrWG8tXzU2S3k4WVFXaEJLY05nQXB3MlZUdmZMLURxTU5lbkJCYzBEemhLd0xoWWRPeWpveUpOLTVzYnM5LWMwVGY?oc=5",
+      "published": "2026-08-30T23:31:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,37 +128,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Scottie Scheffler captures another FedEx Cup and moves past Tiger Woods in PGA Tour career earnings",
-      "summary": "Scottie Scheffler captures another FedEx Cup and moves past Tiger Woods in PGA Tour career earnings CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbEVnS0d6dnVqa3NheUdPc1pDbVJESC1zaHkxUjhNcWFndnh0cHVuYVh0Y1RhYThaWVU0RG9hZlJhSkZ1SHNnTTdwZHQtSFF0S3Y2SHZVeVRZZkRseUxrNjlaNWd3TEJwcmZMZVhFNUNHc0xiQ1lYYTd3RHQyREZNZm1zNzNWeUZOUXc?oc=5",
-      "published": "2026-08-30T22:04:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent",
-      "summary": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3hzbEZHU21JLU4tTkpPcUhRbXJ1eHFOYzY5WjZTSVZpQjZ3WnFQRzdvREJmUTdzbVllc2Q3SVc4a1pDWkJ5UEpwMk1naExrWTJDOFY1RDFCQ29wNXFLWTFDejlVb1NWZjZqdjRRaWF1WWJHeW5idVU5Nm1tOGlyRldR0gGHAUFVX3lxTE1nVEVvQ09qbE83QW92RFNsemxsVTNUMFBnMFVTck9rYTBybWpJaEhoYUZLTjBsUG9YVjBoS2tpVWJYMmNCX3FrSFQ4SHlqNGlSX0JIX1lYZ3JtOEF1VGNGeUhXWW8wZlQtTnN6YUhaS204eEsxc1JZN0RMeTJrMjJJV2JXVEJVVQ?oc=5",
-      "published": "2026-08-30T21:54:02+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
-      "summary": "U.S. strikes Iranian rocket launchers near Strait of Hormuz CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wSnJRS01nMGw4dnRINXlHYjVUUHBJaVNncFAyXzUtUWpMbGlFX0x2M0I1SXpNdElMZ0VpYzE1cm1tRFk4cDBob29xMlp3OExfS1RJcFplNEMwVFVHd3ZvTlZzb0x4d29iUjVOcGsxRzZrd1Vm0gF6QVVfeXFMTTZSZEkzZFVMR1YzOHo3V2pMSEZlTGZBQ3VhR3NLUmp3VVNVX0JDZkFVUlpDdWFzc01LUExwcnJqYTdQbGhWS2E4VEVnOUZjcm9Tc0Nib3Q2TDVmVlVUeVlGMExqNXRkUC1zdklFZjlyOTRaZjdteEZkZEE?oc=5",
-      "published": "2026-08-30T21:32:59+00:00",
+      "title": "At least 1 dead, over a dozen missing at Grand Canyon after extreme flash flooding",
+      "summary": "At least 1 dead, over a dozen missing at Grand Canyon after extreme flash flooding NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmY0a2tRaFFteENFcnRnY0JTRzNDdWdNcFNoOWZpRHIxLWVwYnNNSVhjempQaldCMTFnaHRjVndEYWhfX0VTVDc1dmdtTFpsX0E3Z0JpVUczQXlMRUVPY243TnVuSGFYX3ZSZGkyWERLeklmdDlvY1JCVkZVcDN1MlJxRG1rcHJuWkdvcVVzbzh6dXRsVlRjWjd3?oc=5",
+      "published": "2026-08-30T21:13:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -95,8 +143,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "15 people may be missing and dozens evacuated as flash flood tears through the Grand Canyon",
-      "summary": "15 people may be missing and dozens evacuated as flash flood tears through the Grand Canyon CNN",
+      "title": "1 dead and about 15 people may be missing as flash flood tears through the Grand Canyon",
+      "summary": "1 dead and about 15 people may be missing as flash flood tears through the Grand Canyon CNN",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3N08weG5jaE9IN0FwakRQQl9DVWJKd2hBTmJ2MzBuOVQ0V3lOWlpqMkFmY1dRSm41RnFNbTA0S2Vyak5ZUU1BRW45OVlsVFg1TDFLd2hxTzd2MkZHOTdVVUJDMDVTQlMtNE96YVdkVWp4RnBDYldtc1drSQ?oc=5",
       "published": "2026-08-30T20:41:48+00:00",
       "beats": [
@@ -107,24 +155,12 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "US and Iran trade attacks, marking first escalation in a month",
-      "summary": "US and Iran trade attacks, marking first escalation in a month CNN",
+      "title": "US and Iran trade attacks, marking first major military escalation in a month",
+      "summary": "US and Iran trade attacks, marking first major military escalation in a month CNN",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UaEZmNFJJby05N0RldVh1N2V1dzJtRTI0VFB0RlJyVlpZTGoyQnRHdXVfWjVHRVZMNUx1WGhmQ0dyRi1aY2FucngxSlQ4WHZ4bEF6cVpKb2NNeWprYTJkUkI0aGdRMWdHZVAxMkpzU1F3M1RjUUpr?oc=5",
       "published": "2026-08-30T19:58:25+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Google Maps will show ‘Lake America’ in U.S., not ‘Lake Ontario’",
-      "summary": "Google Maps will show ‘Lake America’ in U.S., not ‘Lake Ontario’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjFlN2RibWQ4UjNsN0pYQ291cmw4YS1zdzZfYWhNd0VWcV9WZjMwLXNfN085TExGOHpWam5NUi1MTE1KMmJYMFdsSzlUWW5pTVpjRXNJbEx6eUxwYm00UXJXY0Q1V3EyMHc5V3kzaDNLNk8wNXN6ZXBSZ29haUhNSTl0MG4zUXpXYW5zX192ckl2VWlvQW1FMVkzbjJta0hGUTlHRg?oc=5",
-      "published": "2026-08-30T16:59:41+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -164,25 +200,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
-      "summary": "Exclusive: Meet the inaugural winner of Fat Marmot Week NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0N0WF81RFpaU0hWM2UxYXFKRjBMWWt2WTU0Yk9fRWVZU0JEdHhaNmY5U1ZwQTVreEJUb1ZJOG8xNDNtcjdyVVB5Q3Jyb1lKRFlzcVBCUnZLbklzMGs3bFRPZDZYS2FBdlJheTNvMGUyMF9GdWZGT1BVYURJd1JCVkdUVTNEZDJtRFpfNGI5cmdvLVdDbDE5Uk5GSVh5Vi1r?oc=5",
-      "published": "2026-08-30T12:45:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
-      "summary": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlF4LTh5bTlpRk04ek5id0Q0SXJnbFdsOU0yQjJxUjVmUXNKSXFOcW05blhMQ1lyUUJaaGl6dE1sSjlDRkJ4a0xGSWg5dnVNUlU1dkFqWE1zY002M2hiRmM4ZlYxdl9UUkdiaFJCZGU5cTM2LU9WeDY0Q2U3QWc0WERVUHE0YjFINndxdG5n?oc=5",
-      "published": "2026-08-30T11:00:00+00:00",
+      "title": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says",
+      "summary": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFRNUkFsV08tOG0zVW5KM0VRZzAzTWJvaXFMV090a1ZfVkpRWnN0RGQ4dEFDbks1OWhqRHlHWWE4Z0FybTUyRDRYUzNPVHN5aHNJdGluNFdoNU5PakVleTVremRSMWVNcV8wQVBtOEZvbjZLZ0x2ci1xWndGLU5CbjJvXy1kc2JlNm9YZG5ZRzh5UlE?oc=5",
+      "published": "2026-08-30T11:25:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -191,10 +215,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.",
-      "summary": "He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdTFNRHkxd1BsS1h6ZHl1OHROVXphMkF6YnNyN0tDa0pYTk1PTTdYUUF2VGRxcWQxcUV1ZjFkM3Z4OU5hbnppSWJxbmdkaU5heHBYUTd6ZG5SbGR1VS1xY01xTkV6eTVhSjVpdUpGeDZxanUzOVpVR0h1cDBZazFBMHB3?oc=5",
-      "published": "2026-08-30T09:00:35+00:00",
+      "title": "Opinion | The World Is a Room With a Piano Waiting to Be Played",
+      "summary": "Opinion | The World Is a Room With a Piano Waiting to Be Played The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jTGM3ay10ZlFiaFRkY0tScl9fZ3g0UkUxNEhqNUdnLWVjelpFcGJiUDU1X0NXa1ZzamdzT3U0MzVVZElzRy1VcDYyZFJvY2NaY0FtX2VBN3lGTWVGN0hqUl96cjlwZUFLX24xVUhtZEg5QQ?oc=5",
+      "published": "2026-08-30T10:00:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -236,18 +260,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "3 people killed in plane crash near remote Alaska town were from Bay Area",
-      "summary": "3 people killed in plane crash near remote Alaska town were from Bay Area CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeU54aW1Rekx2VnN0RHJ4MVhickY4N1BZSWpPcEpqdGxDOVZLS0txcDNGNmo5Q0FsNDZBb2R1d3F6UW10ME1jelVqSENnTHhhaWR1cXgxWDJyNWlFdUlKSFVSNGd4dmxFOTZWUkl1NFRHdVk1X002b1h0ZTlhVElIZWRJRTYzdTNCYXJV?oc=5",
-      "published": "2026-08-30T00:20:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -273,18 +285,6 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Trump-shaped ecstasy pills contain dangerous chemical and could be deadly, Dutch group says",
-      "summary": "Trump-shaped ecstasy pills contain dangerous chemical and could be deadly, Dutch group says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13c2lramIyd0J3VkF5MFZNYTU0dnUyZXJjT1FQUG1idkxycGhfV0dESnhHVUVGMTJJWVhjcnJGY0NGdFROVnVIS21xcDktQU9nUnA2a29FZDM4SzljYXNDU3NQX0RaUkEyeHgydVFHeUxPWmVjOVVr?oc=5",
-      "published": "2026-08-29T18:11:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Chicago Public Schools wins back millions in federal funding in lawsuit settlement",
@@ -305,18 +305,6 @@
       "summary": "Brad Goreski wakes up in P-town, Errol Barnett goes for a run, Luke Evans saves a seat Queerty",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3hQNTFWN21wdUJVWk5pZG9ncFZLTmpyc1lnTTRHamxDc1ZSTnR1X1BGOHJjRVFXb1VVeHlScG1Rd1VJYV9uUDk1TmMySzZSdTctcTd6Yng4UEsxVHM5NGJhWDFTRERkb0lvQkltd2RzX1FWTHJjQnRJa0RKd2JwY1pkelRCcXRDMUpXYXNhRnhxZDc4VV9meXVUeWVnOHJqWnNpbl9oZHZ6eGJWMkpIWHd6X3owbkZ1X0E?oc=5",
       "published": "2026-08-29T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Mike Pence pretends to be decent. JD Vance pretends to be masculine",
-      "summary": "Mike Pence pretends to be decent. JD Vance pretends to be masculine Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDcFhaVFVQa19PM1pnM1h3NXFqS0RnVlZoSVpXVkVuLWtTdkxZRnJDZmltSFd6dm5GdHF2UlhGZW9TS3lWMUdWZzR3SkNaSWVkcExMUVg4R1lreTZPd0hLOW9VZ3pUT1B2RUpV?oc=5",
-      "published": "2026-08-29T11:01:21+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -377,6 +365,18 @@
       "summary": "Wyoming lets people stand their ground. A judge will decide if that law extends to this transgender woman Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53Z0UxZFRHZXo1dWVmMFlaMFlCTHNKbzd0b2FHWFphN3ZrdU5yS1pPdkVwYXJtUEtJX080SlRUY2NQUE5Hd0huVEtBQjRySk5vcjRybzRDeDlQVmtSeTBfdmgwczEwQ09hOUhvVnFQeDZQWmRmNXpLaEdIcw?oc=5",
       "published": "2026-08-28T20:19:35+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "\"Reclusive\" Barron Tr*mp is a big loser with no social life, according to insiders",
+      "summary": "\"Reclusive\" Barron Tr*mp is a big loser with no social life, according to insiders Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTV0aWxQT2RYa09nQlY0RTFjam9xRnR2VmllNWtHbEZtRkpxQ1ZHcEdDOEhDcEhMN0x5S1Z2dk9jSTNwMzBGS0JiYzlrOG84clN5M1pJdGV5Mjg3WUNZdnkySDJwaFFVR3ctaHMxN0JpM0o1alVGekdNV2lxOG8xMHN2YmwzYmVSdHRuc3poc2dKZVMyaWNwS2JtVnFHNS16SHRnUmU3QkpqOWc?oc=5",
+      "published": "2026-08-28T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
