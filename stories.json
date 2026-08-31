@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:16:30.124027+00:00",
+  "updated_at": "2026-08-31T01:29:36.708158+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,54 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says",
+      "summary": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFRNUkFsV08tOG0zVW5KM0VRZzAzTWJvaXFMV090a1ZfVkpRWnN0RGQ4dEFDbks1OWhqRHlHWWE4Z0FybTUyRDRYUzNPVHN5aHNJdGluNFdoNU5PakVleTVremRSMWVNcV8wQVBtOEZvbjZLZ0x2ci1xWndGLU5CbjJvXy1kc2JlNm9YZG5ZRzh5UlE?oc=5",
+      "published": "2026-08-30T23:50:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
+      "summary": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVFsaUhJX2RITjlRbkpILUlPdzJKQUV0LWFtaUFLSEU3R1pWcFdYMDBMZy1qc1lwamtuMDJ3V0FVUDNURmRDWE5SZUtwSWtKUHdLQkYxTGxDZTRxdkxtT09zOUVKM210Tnp4OU0wd2YxLTVuYnA4eThickJCbHF2MmNRN3ZVbHJtV2lvT1RVMnZ3MFVtNlE4cy1aSkNDNl9pdVM0QTdwSQ?oc=5",
+      "published": "2026-08-30T23:26:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Laura Loomer went on a racist tirade against Black Democrats so vile it set off Marjorie Taylor Greene",
+      "summary": "Laura Loomer went on a racist tirade against Black Democrats so vile it set off Marjorie Taylor Greene Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TU3hnWUFWcDJIa2JmOExVdjB0ZnhodE1uQzlEbkMya1pZOEhGUnFXSlB6cm1CTDBPVnBFSjR1ME1xNDVKQ2hxX0ZVN0hUazdwMTAwU05pbWZHX05FUWJoS1BaRkduWVU1MVVuWjBYZWwtWUliMEhTQUptNmM0TGM?oc=5",
+      "published": "2026-08-30T23:05:22+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Scottie Scheffler captures another FedEx Cup and moves past Tiger Woods in PGA Tour career earnings",
+      "summary": "Scottie Scheffler captures another FedEx Cup and moves past Tiger Woods in PGA Tour career earnings CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbEVnS0d6dnVqa3NheUdPc1pDbVJESC1zaHkxUjhNcWFndnh0cHVuYVh0Y1RhYThaWVU0RG9hZlJhSkZ1SHNnTTdwZHQtSFF0S3Y2SHZVeVRZZkRseUxrNjlaNWd3TEJwcmZMZVhFNUNHc0xiQ1lYYTd3RHQyREZNZm1zNzNWeUZOUXc?oc=5",
+      "published": "2026-08-30T22:04:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -47,8 +95,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "15 people may be missing after Grand Canyon flooding as dozens are evacuated",
-      "summary": "15 people may be missing after Grand Canyon flooding as dozens are evacuated CNN",
+      "title": "15 people may be missing and dozens evacuated as flash flood tears through the Grand Canyon",
+      "summary": "15 people may be missing and dozens evacuated as flash flood tears through the Grand Canyon CNN",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3N08weG5jaE9IN0FwakRQQl9DVWJKd2hBTmJ2MzBuOVQ0V3lOWlpqMkFmY1dRSm41RnFNbTA0S2Vyak5ZUU1BRW45OVlsVFg1TDFLd2hxTzd2MkZHOTdVVUJDMDVTQlMtNE96YVdkVWp4RnBDYldtc1drSQ?oc=5",
       "published": "2026-08-30T20:41:48+00:00",
       "beats": [
@@ -65,18 +113,6 @@
       "published": "2026-08-30T19:58:25+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US strikes Iranian rocket launchers, official says, marking first attack in a month",
-      "summary": "US strikes Iranian rocket launchers, official says, marking first attack in a month CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BMzJzZnJfLXZBajhJZjRWSVRwbUl2ODBQUXNrVTZyTGxuNVBkekJzTXk3UW5rUVF5THhVTUE4aURXbFV2RThwRm5vSHBlRUk0YTlKQm1nY2Ric2EzNTJHaENrOXdiT0tOWDViMXFNeUJXamRqcUZIZzV3b0M?oc=5",
-      "published": "2026-08-30T19:58:25+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -128,18 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
-      "summary": "U.S. Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXpzTzFUZ3Jud096M1JzNjZ4VjFHLXc4aXhzNTJ0MmJTOHNkMnFsekdrWkVnY1pwVUhxYkREdjg4ci1ockg3LVg1aXA5QWdCMnlTLU5GUjRSUUkxZWthS0JkWTdoMTRFcEZtTG0zNExXSzlwVjZnbG9WVWtpSzdWbHZTT0RCWnMtdlNzYzRIcGhSM1o3QldsUlRDc25TT0pPc1prNThEc9IBrAFBVV95cUxPZlYyZDJOb0ZzV01JbFRFYTBLbm56V0dfRjQ2UHRUM01oMXhFUnRBeW0yVC03TTduMy12ZnQtVzRWTGpfVHZkbW94YWRpZm8xOXJXQzNVRERVaXNicVd2OFFIc0pvakZnS2x0TzlWNHFmWndaYTdNWjFfWUJVeFdMSWdfUTRETUtMcWctd0RtQkpjZUl3SkZrQ1hyRjY3cWJ4WjFDU0M0dUVYRUZy?oc=5",
-      "published": "2026-08-30T13:10:03+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -147,18 +171,6 @@
       "summary": "Exclusive: Meet the inaugural winner of Fat Marmot Week NPR",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0N0WF81RFpaU0hWM2UxYXFKRjBMWWt2WTU0Yk9fRWVZU0JEdHhaNmY5U1ZwQTVreEJUb1ZJOG8xNDNtcjdyVVB5Q3Jyb1lKRFlzcVBCUnZLbklzMGs3bFRPZDZYS2FBdlJheTNvMGUyMF9GdWZGT1BVYURJd1JCVkdUVTNEZDJtRFpfNGI5cmdvLVdDbDE5Uk5GSVh5Vi1r?oc=5",
       "published": "2026-08-30T12:45:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says",
-      "summary": "2 dead, 8 wounded in Trenton, New Jersey, shooting, prosecutor says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFRNUkFsV08tOG0zVW5KM0VRZzAzTWJvaXFMV090a1ZfVkpRWnN0RGQ4dEFDbks1OWhqRHlHWWE4Z0FybTUyRDRYUzNPVHN5aHNJdGluNFdoNU5PakVleTVremRSMWVNcV8wQVBtOEZvbjZLZ0x2ci1xWndGLU5CbjJvXy1kc2JlNm9YZG5ZRzh5UlE?oc=5",
-      "published": "2026-08-30T11:25:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -191,10 +203,22 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "In Scotland, a (Very Posh) Summer Camp for Grown-Ups",
-      "summary": "In Scotland, a (Very Posh) Summer Camp for Grown-Ups The New York Times",
+      "title": "In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups",
+      "summary": "In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckdIQk9rcVd5aEx3VUFiUkl6WU84S3ozOGZObEhGeDFHQ1pVclBNWndJaW51cC00eHA4U0xQVHZhRUZvS0tTWXpYekl3VGtPVzcyclMwT3NmX0NGREwySjBZZlJqT1AxZHZTRm9hN1pTVE1xTFZINk9KaFJ1QzZrNy1DZGlGWjg?oc=5",
       "published": "2026-08-30T04:01:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The 10 P.M. Dinner Is a Spanish Tradition. Are People Giving It Up?",
+      "summary": "The 10 P.M. Dinner Is a Spanish Tradition. Are People Giving It Up? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEYwQTFGalFkS0FCVGZrS21LVzJONmFTR19HbWVGdDV2UnN1bkFLc0NvNklWNWUwMDk4Q0lqdDQ2ck9jM3YtVzRCSVpVSFVCOHF1WUkzSFlGa05qSnJYTDZwOVh2S09NR2pkcXgwUmFIR3pvTERoSktwRk5qOG1IWA?oc=5",
+      "published": "2026-08-30T04:01:23+00:00",
       "beats": [
         "Politics"
       ]
@@ -221,6 +245,18 @@
       "published": "2026-08-30T00:20:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Palestinian woman and NBC News team attacked by masked Israeli settlers in West Bank",
+      "summary": "Palestinian woman and NBC News team attacked by masked Israeli settlers in West Bank NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE1GdkVxeTRGTW91STNBLWNhY1E0T2k5V0JKOE1JQVdzT3pqc3A5a1hRQ2VKTGNIY2txODZWc3BRWWZiVkM3dzB3RTFXVV9GZ0NjcFhUUkNfSFUyd2xoamFZUUF4VXZnZ25aWlBZc1pXMGgzU21zQXB3R1BvU3NWNzd4OF92QTNrejVIRkVIejFHdmNIMmJKcHE0VGZPbjhVb3FXUXA4bk5BbjNMSFZscw?oc=5",
+      "published": "2026-08-29T21:48:15+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -274,18 +310,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Deaf dog is reunited with her owner after the devastating floods in Nepal",
-      "summary": "Deaf dog is reunited with her owner after the devastating floods in Nepal NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZC1nVnFsZ2tvUWJxU1JhTGRlTDRCVFYtVmlhS1g4Ujk4NDJaUDdrYXBWVkJjLTB2THppazd1V0IteWdMTlJLRXk3VlNJS1VOWDdxcGszUGZPcXBDWG4ySHRJZGg3Qmpsd2R3MVp5WFVJOXpuZ212Y1hINUl4QkppdzVkelc1T3RoOGpsZVU1LXRRR1RjNjhpUHVYVzRGMHR5em9rTEVCR0NyNlNFMFZnOVcwd2FWd0k?oc=5",
-      "published": "2026-08-29T12:33:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -295,18 +319,6 @@
       "published": "2026-08-29T11:01:21+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Sílvia Orriols’s Movement Used to Fight Fascism. Now Catalan Nationalism Fights Globalism.",
-      "summary": "Opinion | Sílvia Orriols’s Movement Used to Fight Fascism. Now Catalan Nationalism Fights Globalism. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEtkLThWU1hZSkpmN3FOQUdKanc1YVhadWtUWnZ2NjZjbkNfMTNkQ0swTkZjQzdqSWpNeTBwTmpHdlE4QWtUWXZjWi1UTHcwQU5ZTW5QZTBNa0lIOXBESUtIcTJIYVQ1aDNfM3VqRXJ5QjB1dGw1N2tTQVp3a3B3Sklwd0htTE4yUkJybg?oc=5",
-      "published": "2026-08-29T11:00:10+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -365,18 +377,6 @@
       "summary": "Wyoming lets people stand their ground. A judge will decide if that law extends to this transgender woman Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53Z0UxZFRHZXo1dWVmMFlaMFlCTHNKbzd0b2FHWFphN3ZrdU5yS1pPdkVwYXJtUEtJX080SlRUY2NQUE5Hd0huVEtBQjRySk5vcjRybzRDeDlQVmtSeTBfdmgwczEwQ09hOUhvVnFQeDZQWmRmNXpLaEdIcw?oc=5",
       "published": "2026-08-28T20:19:35+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "\"Reclusive\" Barron Tr*mp is a big loser with no social life, according to insiders",
-      "summary": "\"Reclusive\" Barron Tr*mp is a big loser with no social life, according to insiders Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTV0aWxQT2RYa09nQlY0RTFjam9xRnR2VmllNWtHbEZtRkpxQ1ZHcEdDOEhDcEhMN0x5S1Z2dk9jSTNwMzBGS0JiYzlrOG84clN5M1pJdGV5Mjg3WUNZdnkySDJwaFFVR3ctaHMxN0JpM0o1alVGekdNV2lxOG8xMHN2YmwzYmVSdHRuc3poc2dKZVMyaWNwS2JtVnFHNS16SHRnUmU3QkpqOWc?oc=5",
-      "published": "2026-08-28T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
