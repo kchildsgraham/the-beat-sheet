@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T00:43:57.183175+00:00",
+  "updated_at": "2026-09-01T06:05:08.514752+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+      "summary": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5McEtnaGhPVlRSQXRTdThLbGxtMng3bWZGRnZRcGM3bXlHSnJxeUlydDU5cFpGU0R1cXRPVGpBR2NvOVpCSl9NYU8zRDV3QXpBY0VJNmd6UWY1bXpMbDZidldvSWlWdVpjUVpiYnh3SUdFZC1zUG9oZ1hhUVhDUQ?oc=5",
+      "published": "2026-09-01T04:57:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Army Secretary Dan Driscoll is stepping down, White House says",
+      "summary": "Army Secretary Dan Driscoll is stepping down, White House says NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93REpVU0VrS2RLS0FiQzZRNWxGdFR5c0I2RDhwMllTY2xGRFZETTQ1N1FzS3owZTNIbTZ5MHg2RXVEWV92cXlpU3pDQVg4d1FDa3k1VnhNM05qTUFXaS1hLXJscGZCM0tROUtnS1k2clhxdjdtSkxMOGQtYw?oc=5",
+      "published": "2026-09-01T04:43:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | How El-Sayed Could Dispatch His Hasan Piker Problem",
-      "summary": "Opinion | How El-Sayed Could Dispatch His Hasan Piker Problem The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMUHpLaE1CV1FIWFlvZ0xMWlFMT1JCV0M4dFBGSTNBN3JtT3lZTmZRcmdaYUdMUzdDSXFib3puNDhUQ3A1RXN5T0k1SlpUNmdzWG1BekRJbjdlWmxhMlI2cmdIWUZVUHVPYXhkUFRFd2tlaUFTZUE4?oc=5",
-      "published": "2026-08-31T23:13:50+00:00",
+      "title": "Former Gang Leader Is Found Guilty of Orchestrating Tupac Shakur’s Killing",
+      "summary": "Former Gang Leader Is Found Guilty of Orchestrating Tupac Shakur’s Killing The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUG5YZDdubU5DcFJFRE4yaVRQQXJVZk9fbEZNLTJJSm9WLVcybEE1TkFhQWJKcVVTd1lsV1lEckhPZHEzNGhrTzRBU0tzcktmem5iY3owU1hVZjFhbjlOaUdGVUNJcXhGb1FlM1BaLV9yYUE3Zkp6NGxMNjZrVDQ4aVc1MXdYZXJjX0Rj?oc=5",
+      "published": "2026-09-01T04:15:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How One District Built Behavioral Capacity & Improved Stability",
+      "summary": "How One District Built Behavioral Capacity & Improved Stability Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1sZndkbmpJNG50M1pFWlNCMmVVVnBpTTFlOUJrYU42UVNiM2dLSWVrcC1PSDhfSGo2aHYxQkVTcUE5Z3RabWpfZ2lOM3pOX2p5MGtSd2pQOTJlWF9OOVBpbU9Zdnd4QlVxdmlRNEhCUm02OU9MMEtyMVNjQ2NLczc1d1lmN0JaZ0VJQ3RZbUdlQzJidnNmbGxRWHZVeVF5T2k5OUl3SQ?oc=5",
+      "published": "2026-09-01T04:05:40+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
-      "summary": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkhRVEdHbW1LTjIwUXZkZEN5cG1wX2FQNERpd2dJVGl6cWVzUXZVLWlMZHBXZ3BWN3NsYzI4WU01S0hyNEZ6bHN6NmJNa2I1bWdZMXV5NFNBaDg0bWlYeVI2bXZsc2lsTTJ6SU81VmY3Uy1DS2g2YjNVbkJmOUp4X01LeXBwUGZ0UzFKSkdQSzM1cTNIOUVyRUxFcVlvb2NlWFVDUDlB0gGrAUFVX3lxTE05TGRsazhta3VmOS0tX3RsaG9ZQWpHT2dzMlU2Mk9fRUltUHh1YzlTQUVleWs0QWVacXFQcDIzSEplTFptWVRRV2FXZEwwajRSV21ZZlYzZ2FacGdOYnloVWNvdEZPT216SXNBVzc2eWR6ZnBxem9ZQnlEOXBndkJiVEE2NGpFUWw5Tld3cEk2U2hTVzJQUm1PT0RyTXFwQTJvdFRUcThmc3Nkcw?oc=5",
-      "published": "2026-08-31T23:00:01+00:00",
+      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+      "summary": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHE2R0Rlak84bHItelkwcWJhWHFPNHFrUFJMLTBOMVJmOFVCbEVwNDlyX3FqUklJdTg0RjBmdUw0VlZRWXA5a0hEY3NpM2RqcFEzemxWanRYTW9TTFEtZ0RGMXhFdGQ1Ulh5YWV0VmIwWGZkX1BJeFhqSU1fSVg2b1llLVdpTzR6MFHSAY8BQVVfeXFMTnF6SkMteHF0RDBILXlSRWNEUHc3UEpteV82RFpOQk9yZmhhSExXSG14OF9lbWVxNGg5cVZxSlZLc3hnekN1Vm9sSEtWZXpvVXFoVDlLQnNYc0c1bUJtYl9VVWg3eURUbWk2dGJEdmdoVUVZOGRsYkw3Tm03dW96UHZOYUtpamRPOElvbGhJdDg?oc=5",
+      "published": "2026-09-01T03:22:00+00:00",
       "beats": [
         "Business"
       ]
@@ -47,10 +83,70 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Lindsay Clancy murder trial jury leaves for day without verdict as deliberations pass 17 hours",
-      "summary": "Lindsay Clancy murder trial jury leaves for day without verdict as deliberations pass 17 hours CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TNEpVRXJUYU5TUE1GbUd1ZzRqcXlkVzJJZEhWcmNRZlB1akMtcjNOZ3hrSy1NYWNjX2JzYmJKSWdNTS14ZjFzdFdkT0lrZnpwSUx6Vkc3V1owdkRlX1FCVkhfdEpUbDVtbktfY1Z4TzhUN1dqbUE3cHdUWnM?oc=5",
-      "published": "2026-08-31T22:28:44+00:00",
+      "title": "White House says deal to take control of Venezuelan oil will rely on North American Blue Energy Partners",
+      "summary": "White House says deal to take control of Venezuelan oil will rely on North American Blue Energy Partners CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDlFZlUyX0pRTzZoMXlNallxSW5pYXhPVnV5NDlWNVJPS3dZcHEzTGdTWFlZSTgzTnhqb1hQSWhsSFF0d1hwejkzZ3p2UUJIZ3JjTlNDcFhKX09ycm1RMFlaNEJZOXhHZGJrOTVfdWY1TDhBX1FXOFBnS1Q2S0M4alBtbjRGcDB5S3JGMHpEQjR0Q2xPbEpwcXN1RlB2NnpiMXN5Qw?oc=5",
+      "published": "2026-09-01T03:15:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
+      "summary": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3cxd1pXWWxEcmhDbzBsbWExOW5RZENtYkZSMzdZMmotQkNKOUN2RG8tUEtXTERLWlYwWFhIV3k2Z0M3aDAxLV9qWWpHYUFEOGtKZGlLU2hpYWZocFVqVDE4M1pEMlFaMFVrNEQ2MGdDZ0JIcTBxZndKbXUxRURoZFZocjJvQ1A2djFwek52TnBfUGV5MjJzQ0JOd9IBoAFBVV95cUxNYXVjWjBPZlJxRTlhTDZSdkJqVDZobDgxNjhBclFobWd6TEI4Nk5QNVllQnhRVk44MWVIOXFXSy1NenlpZXEwZVI1Vk1FakdkVDlQUE1oeGtCdmtKc2h4dXlUcDhLSmFsUWhLcEFzUlM2MlFVNkFHTUVFZ2ZSREhPZGJ3dlJZU08xZ3hqbFptVGxwT0tfNWcyWEdTaXZfOExh?oc=5",
+      "published": "2026-09-01T01:59:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Trump wants to floor it on economic growth as Warsh eyes the brakes",
+      "summary": "CNBC Daily Open: Trump wants to floor it on economic growth as Warsh eyes the brakes CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTmtzZExHWk5xbXJ0MnB4UEkwY3pPbFNlUjJjdjBWQ1RUNkNqTmpJTGZ3Q3BrZ0o3QkhxZG1uRGkySm9oX0I1ZC1UbFVfaFlYenpBWEJqeHc4Y084VUhxbjNGMXMwOTc5RGpXVzFMWFpoQzR0OTZFT3l3eGvSAYIBQVVfeXFMTkdhUmd2b2hGeFFQYTYzOVVSUUZtZWlxeXdlRmc5ZXZSSDRIWDBYTEZocWE0cUFLR0YwYTY4TXhKM2syT29QbUY1YmFDV3NqVTlXUGtnaDczX29reU9PaVVEcjNfVWFLTkR2TDRkdEc3WGRldU5WY016U3FMakVTOHZCUQ?oc=5",
+      "published": "2026-09-01T01:14:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Ex-gang leader found guilty of murder in Tupac Shakur’s 1996 drive-by killing",
+      "summary": "Ex-gang leader found guilty of murder in Tupac Shakur’s 1996 drive-by killing NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2t6endpWlc1N1lHVjItZzktSC1KbG55S1pjcW9yc2RSU29SRmdVZ0xPQmtUc2NOcVIyRi1YcnBiNlU3LUttUEJVcFdWNDZHOXJ6Qkx2WFpEYk1oOG5sWHhiQjlPektPVFVRbVNYRDc0YjdfTDdRMC1QS1V3QlBtdUF0bVl2LU92YjBDNUJSWTBoc1laVTRUd2tBVkNCZVpZc2dTcUxvSDFFd2Izd19HVmVFcWRSQQ?oc=5",
+      "published": "2026-09-01T00:23:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
+      "summary": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KRHFOaklhYjgyZ0lwbDMxbS05U2t0R3BmN29XeUp2bXF4VGVwY3AxQjl0blUtQTRGZ1NfNVkxWjRNQTE3ZFJmMFBVZ2xIVVltamhNSllScHY5Y0xmNVdDTkJrb0VLUWlKRHFOWHl3?oc=5",
+      "published": "2026-09-01T00:07:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Knife-wielding woman kills 1, wounds another in Times Square before being shot dead by police, mayor says",
+      "summary": "Knife-wielding woman kills 1, wounds another in Times Square before being shot dead by police, mayor says CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yMkViRmZWXzdod3NPQm96VXBUN1FPNUJzYXVjd2dDX29KbDhfZnpBNFBwTjFvZ05yZkxkSkJGOVdDVHp1Qm05RWJBQUFtem9TbFZWc3MyUHNGenB0aElKWEE3WWZxM2dSTFRpOVR6QUJUbHMtU2duWlRLaw?oc=5",
+      "published": "2026-08-31T23:28:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,25 +164,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Army Secretary Dan Driscoll submits resignation after tension with Hegseth",
-      "summary": "Army Secretary Dan Driscoll submits resignation after tension with Hegseth cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3BPSDJvQ3VNMllpcjlCNnFHZFVFSWQ0TXowNXdHOEZGX3M3cExKSnJwbnJnSHRsdWxGSEY0N0ZXYVlmSmg4blRsd2VMQkVrbEV6MW51UjNwX2RhUDhZR0pEV3IxaGlHeXZhV19qMTNINkNIM0xHcUxPOXplVVJTVw?oc=5",
-      "published": "2026-08-31T22:05:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Bill Gates’ Stark Warning on AI in Education: It Could Result in ‘People Learning Less’",
-      "summary": "Bill Gates’ Stark Warning on AI in Education: It Could Result in ‘People Learning Less’ edweek.org",
+      "summary": "Bill Gates’ Stark Warning on AI in Education: It Could Result in ‘People Learning Less’ Education Week",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkRoRmFjeld6SE4ycHNRMHdDWUIzUDNFUlRVeEVoQ1dOblNsTkJETkRHOEtvY0pmLWM5Ym92SW52LWo2LTFnRFBuWEdSb2JBeFdhN1BlSTZLUHlKekFqdlNTWjhfNWxXejhFSEVZRmpLUFdyYVJWZUF3dDBGUUhuRGJhQzllREZ6VTdfeFJ1TWVmY0N6NmtmbVZuUzZsZlM0T2NJVE14a0xlYkcyZ2l5S2lRSVhXenJhSF9iNm5GNWx4WFE?oc=5",
-      "published": "2026-08-31T21:40:56+00:00",
+      "published": "2026-08-31T21:43:01+00:00",
       "beats": [
         "Schools"
       ]
@@ -96,7 +180,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "The Pre-K Push: Are Current Preschool Models Heading the Wrong Way?",
-      "summary": "The Pre-K Push: Are Current Preschool Models Heading the Wrong Way? edweek.org",
+      "summary": "The Pre-K Push: Are Current Preschool Models Heading the Wrong Way? Education Week",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkR3blJQTllROURKUzZMT3BxZXktVjNfZWt6UXVpQVB3VzMwYnNNMlN0RXhiVTBJakZncnJ2ZUJHbEk0WEloUkF1U21aNTVQc2MwZi16bV91YzVSSVQxRG03RmVTUmcxTkNKZU5oN2ttYlRkV0JtNlF4UGFveXEwNEtqalhZLVhrVHlCc1FmemllaFROQy0xMFZKRDNRNjM3M2dDWGR6N3p6VmRkdXVUNEhsa0o?oc=5",
       "published": "2026-08-31T21:24:29+00:00",
       "beats": [
@@ -104,76 +188,27 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "How Dolly Parton’s Imagination Library Will Still Aim to Nurture a ‘Love of Reading’",
-      "summary": "How Dolly Parton’s Imagination Library Will Still Aim to Nurture a ‘Love of Reading’ edweek.org",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGxGZjAxRlBNMC0wb1NJMEpQN1VuQ0RvU3lMU0J2WUxHdXBiSWw0bFVpNUVvV2g4enA4cVJLTml5c2VDc2xvTk1YTjJ0UHN5REY0X05MSnZoSzBIWUhqd0xMMlFESWR0cURVbnZQZDZhMXJISldLaTg0NTlGa2lEajVqZG9qdGpRWjY1dGpQTU1oTGthWkZqRG4wYXpUMnNncEJsMjBGbmdPcWV3NjRwZDYtdzBVWV8zaGVGNzloYmpmWUlHYW5ZemVn?oc=5",
-      "published": "2026-08-31T20:54:29+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
-      "summary": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYXh4bks3VlM2dUtucmhpMHpUcWJYdmdJNENVUzNiaXg3UEZNZG50YU9qWmpxRl8wdHBhenA1VHl3QjNFU0R2c2JyZHhUOVBRSmFNM3c0a3JkV0NhNXFRa2lTeVBEbGpSUFQ4aEJJYnc0VG1hMlVwcE5sWm9oM1F0RNIBhgFBVV95cUxPSkRPZjZrS2Z3c01FRlhvQXdXQ01KcXBxaFBMaC1lSjI4Nk80ZU1mNmZ5VTJKSWZQdlRSUmRXMGY5UnhpUEFXa2Y4d3hrTkVCdWpmVENkelFNOGk3NVhiWldDWGVnb3ZIUGtuYy01RUdmMUU3UEc4QkxMR25hbERtQW9YdlZzQQ?oc=5",
-      "published": "2026-08-31T20:50:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
-      "summary": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yS1VCNUpzcnlCbHZ4WTZkLUhVWTd5UE05TkdPRlVjci1nWEtxdU1scWlkcFlfM29ha0hKeDY5UGl5SE4wT1FsQkdndEtTUE9Fc1llSmF1S0Z4UUF5UzBtbTM4LXA3Nm1wc3FSVWR5TW52a2VU?oc=5",
-      "published": "2026-08-31T20:42:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
-      "summary": "Kalshi bans former congressman George Santos for life after State of the Union trades NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlBES3JWekZGM2UtQ2ktaWF4UWp3a0o3Z2JmTTA3clJkUTU0Ymh6ak9xNXo2ZUJGM1B6SXRwSU1aOGMzNzljajZObTE4cFBZZ3FrdURjWG0zQzJQanFMUjljNXJEbnAzU3dJSmthamJaY0NQb1lDTndnR3pvVDVRa1l6T2dNZzFTdFY4eDNxRVpNdw?oc=5",
-      "published": "2026-08-31T20:21:47+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-      "summary": "Supreme Court lets Trump build White House ballroom as lawsuit continues CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vRkZncEJ6WXY2Q1JRbHZkQm1PckVpWG14U3U1bHM4MlVQSF8wSHMwblRIVjhvejV1V2kyMXlTY3VVbHg5VkMtd2gtSmRXUDAwOVg5LXVVcWRSVmpEWHcwZ0JRUmlEWVVLMHlNZVJwT0o4UFQ1QTdLaGxYUdIBgAFBVV95cUxQVzNJakVIRDBBejh0RHVWZVIzcXFqREJ3ZVJCNlVlZjNaWldIVFJXeDlGckstczNIZ01ic2FOcWdwajhNLU8wYXhVNk5RbnRDYVpKT2t3ZEZOeFJWSUp1OW9UMldUZHJnQnJlZVVMZmFVa1BNTUFCX25jX1RxU2FhdA?oc=5",
-      "published": "2026-08-31T20:14:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Lindsay Clancy supporters have sent her enough letters to fill 3 boxes, lawyer says, as jury continues deliberating",
-      "summary": "Lindsay Clancy supporters have sent her enough letters to fill 3 boxes, lawyer says, as jury continues deliberating NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDhVV0VuWGZQTHZCY1E3TVduZGtRLVFvRGpJM3E2b21hZ1BOdVBORkJCeFFSWVQ5S2hydDlIUms3bDNPVHVybzF6QVlXS2Q4M3MtSTRkdmNHTzE2MHRVME9ZU3oya0t1aU12Zi1KbkR4ZHFIcjhLLXh0TS1Zek56eUJ2alRRNzlzM25UZUZLWVpfQ0ZLVW9udTRkMC1GRnNqTGg0Nl9lSkV0cHFHXzAxU00za3c5ZGl6?oc=5",
-      "published": "2026-08-31T19:55:05+00:00",
+      "title": "Her son fed goats at a petting zoo. Now he has to get rabies shots.",
+      "summary": "Her son fed goats at a petting zoo. Now he has to get rabies shots. NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTBLNFBYTHJjd0lnWnZ3ZzMxMTV1V1hRZFdOYldLbVRWYlZva2FRaDBmQUo4T2dsNG1rQndmXzk3cjcxMG1XdEJBa1MzcHVRNjNLQVNYZk9xM0RYRHhNRWxvMDJQQkNwT0dPVWNXN0RqSG05NmRWRjBCLTAtUFV5dHJpQlExMndkWkp0NGNBb25oTS1CR1JEaXpMNFJsazlOTUE?oc=5",
+      "published": "2026-08-31T21:22:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Hunter Biden comes out as \"48.5% gay\"",
+      "summary": "Hunter Biden comes out as \"48.5% gay\" queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1scENNMnZQTWtheXEwc3RwbVNTUFFSRjB2eFYzQUwzUFFMcXdEM3ZlUEI3NG1xVjh3emhISm1rM0hQUHlGNW91Qzh6dzhvZkJ1RG1USXVseGJKajdvLVNKV3U4NVpud3hxdkVtSjhNck1aVGZ4WVZJ?oc=5",
+      "published": "2026-08-31T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -181,21 +216,9 @@
       "source_feed": "CNN",
       "lane": "General",
       "title": "FTC sues Amazon, alleging it overcharged advertisers",
-      "summary": "FTC sues Amazon, alleging it overcharged advertisers cnn.com",
+      "summary": "FTC sues Amazon, alleging it overcharged advertisers CNN",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLTXBWUDVyaXFnR1c0LUh4M25EYXFzUGVoYlRPYWQyZjF5alVSd2ZoaDZFcVdGaDhvRjk4d0wwRmhRSTktbzBXWER5eFJOZkMtT2tRay1qMldfRk1CM0cwTkxHa2psbzEtM1E2M29ERzlocWZS?oc=5",
       "published": "2026-08-31T19:39:49+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Lionel Messi retires from Argentina international duty: ‘A decision that hurts my soul’ - The Athletic",
-      "summary": "Lionel Messi retires from Argentina international duty: ‘A decision that hurts my soul’ - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1NIeVh4b3psSlJUR2ZGeHkxSWkwTXBhRTFVQW91RGxFTnNhZG82MmxzQmZCNHNPcDRxNnNqNkplTTEwV3ZYMnlaWnVCYnlwN2g1aE93OG81NHJocUdIUF9OVGN1RlpBZFlHS296UjFfdFU1eDFpUTZ3YXV6TWlTLUtPNkYxVlYwc2VraEJzRTF6LTA?oc=5",
-      "published": "2026-08-31T19:38:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -213,24 +236,11 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Judge rules against Trump administration in Stanford student free speech case",
-      "summary": "UPDATE: Judge rules against Trump administration in Stanford student free speech case EdSource",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczlDZ2lleHJsdnVoQ3E5TzVFTTlZcGtYdGpkQ3hGQ3plOVdwdGJOSU1VdnYzamsyTzNiY1E2dkVSOUxRMnRnWUFSMVZ5WFhWTk5tZm40SWh0ZFM0VExkMzd4QUlrWXlWUWJOMFM0OWNiSmlQaUVHbHFMQWlkNjNVekl6TUpVUTZmc00zVG1uX1RONFZKVXFoVVNzeXJJczA?oc=5",
-      "published": "2026-08-31T17:58:37+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
       "title": "Justice Department issues subpoena to Comey ally in new leak investigation",
-      "summary": "Justice Department issues subpoena to Comey ally in new leak investigation cnn.com",
+      "summary": "Justice Department issues subpoena to Comey ally in new leak investigation CNN",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFlIS3A4Z2hPaXhyRENBWnZLUmlybmdJdkVXeEk4bDc2eERKX0lXRmZfeUVvTVgyM2poZHI4RjdDdUI0US1mZGljMVhDT0RFeFpldGFrTVllWG9kNHhyTjlXbEVmcjRlTTljQWZBRDcxUGRJMFNBZFZNMFZLSEVqcmt5VUZFSXlPRFI3LVdKRlM3QQ?oc=5",
       "published": "2026-08-31T17:00:08+00:00",
       "beats": [
@@ -286,6 +296,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Man forced into residence, shot in Chicago's East Lakeview community, police say",
+      "summary": "Man forced into residence, shot in Chicago's East Lakeview community, police say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzQ2aEJuX2t6cnhQTXVpd0EzUW94YTRFYkRIbkk2UjZIdy1WRFMxemNoOFNzaV83T0F4dHJBMjhwOThsS3hJZ2Q5bmFfc1JoaFVqeTI3ZGpKN2lyYmVRM2JZRVl0aUVCQU1PS2Q2R2dQVTZaemRYeS1Ia2N3cWY5V0loQW11YkRfTklBeTA1RmcxYTla?oc=5",
+      "published": "2026-08-31T11:08:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -298,15 +320,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "In Ukraine, Russian soldiers are increasingly surrendering to machines",
-      "summary": "In Ukraine, Russian soldiers are increasingly surrendering to machines NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemZQVXVzSGhJTC01emVOU1h0MFVuQXZ4VWgtcnMtM2lQejR2Z0VFYVlqTVFfeF90VkhSRkpOUmVmMVFhei04bFBtNFVXYldTODNPblgzQVk5SHNTMEpmU1ZxQXk5WUhKOWFkVjBGRVh1VTNSOFBQcHI5ZDdVZmczcEtwYXpQOE55dG5hc3RjN0FaNXo2T2dPOVRvZWxqQjQwVG9PZ3I1MEVkbG5DbGloTjJacGtwRWlHMVE?oc=5",
-      "published": "2026-08-31T09:00:40+00:00",
+      "title": "Most California 8th graders don’t meet math standards and are unlikely to catch up",
+      "summary": "Most California 8th graders don’t meet math standards and are unlikely to catch up EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84WEM0M3FtakJCTkI5VkNIV1BpRjJIMHlHdEhtVUt6VnJxOEhMZVh0S2Y3ZTZaNlJaV0xrRWM0eWVTc0otSnEwaDVtRWdHSTlwN1FGTG9QSUF6eVdfMmFtcFlzbjZwdWhrd1pleTI2LW1RRlowU3c?oc=5",
+      "published": "2026-08-31T07:13:35+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -319,18 +341,6 @@
       "published": "2026-08-31T02:53:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "U.S. military strikes Iranian targets in first military action in a month",
-      "summary": "U.S. military strikes Iranian targets in first military action in a month CBS News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3ZaTmR4OEVQWjVMZWRibUo2TGJTRDMtUVl6SmdLblprZlRsOXNPeTNvVmJRX2VUbU5JX3dCeXFfbUtqaExPa2pxZzByOEl4aDNNOThMajlXMnNHdFhFVlViTmIzTVZqMmh4RnVsMkdNTmV5ZGNVUThJYjZBRHpfdmFTY0QzYVpuUDdXUFl4c21VWDhvNWZib3NFbE00QQ?oc=5",
-      "published": "2026-08-31T02:37:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -362,23 +372,10 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Matty Juniosa’s gay truth, hot firefighters & Logan Legge’s bricks",
-      "summary": "Matty Juniosa’s gay truth, hot firefighters & Logan Legge’s bricks Queerty",
+      "summary": "Matty Juniosa’s gay truth, hot firefighters & Logan Legge’s bricks queerty.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTZQVnRXZ3pKbjhpanlDTjQycklJNXU0TzIyalFkWXE4WVJLS3l3ZmZSMWVpaDVoVkhkMUtXVG1mU1pZNlJaSTdwUGhYUDlUamdGTHFFVVJuVE9OczlNLVdaWW93R1FvNTYzMXg0a1h5OE9KN1VLSVpsYVFtNEQ2Zm1zYm1ZN1c5a1poVEtBem9jdkhONTR6Z3R3cw?oc=5",
       "published": "2026-08-30T18:00:00+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "LGBTQ+ students reported violent assaults. Records show that schools rarely did anything.",
-      "summary": "LGBTQ+ students reported violent assaults. Records show that schools rarely did anything. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHRRN0FZN25Ua2h6aGlzeF9jcmx5SUlFWXVCRy0xOGtMWkFIMkRQcTNFR2ZMMVVpajBFSnVUZWFyS29Hak1rV3ZtWWxmYTVtMXdKVmRWamZzbmEwS3FVUTdLenpGWTlCbUtYS2Z6UHh5Uk93S3RDaGJHcDZEdkl2SjdUMEpwZllJZkY0blNWY0kzbkkxWXV1eXJnYmY3d2ZCWjNReW9SRWZ5VWtocW5vaU5Oejdrdw?oc=5",
-      "published": "2026-08-30T17:00:00+00:00",
-      "beats": [
-        "Schools",
         "LGBTQ+"
       ]
     }
