@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:55:17.359523+00:00",
+  "updated_at": "2026-09-01T16:14:32.989974+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Lindsay Clancy trial jury \"unable to come to a unanimous decision,\" but judge tells them to keep deliberating",
+      "summary": "Lindsay Clancy trial jury \"unable to come to a unanimous decision,\" but judge tells them to keep deliberating CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUcya0c4eFcxS3g3a1dqMDZSemFZbzdxbVQ2eDRRc2MxTnBPdUdCOGV3TFU5WVVaM0JTY0QtWndGeExIcW81VTBGUkhmc1pmUHlrcWYxYU5USjV3emVDNWo5YzJ0S0tSTGVFLVBCNW9ycXVmdXhBYjJrcE5YUTVvY1JWX1pKNHVDb19DWA?oc=5",
+      "published": "2026-09-01T15:54:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
+      "summary": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92 nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KRHFOaklhYjgyZ0lwbDMxbS05U2t0R3BmN29XeUp2bXF4VGVwY3AxQjl0blUtQTRGZ1NfNVkxWjRNQTE3ZFJmMFBVZ2xIVVltamhNSllScHY5Y0xmNVdDTkJrb0VLUWlKRHFOWHl3?oc=5",
+      "published": "2026-09-01T15:32:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana",
+      "summary": "Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnEzN2FEeWExbmdFbHlXZWtEYmFRd1J1SkFEdjRTUk5wdDN2U1FxUUVmRmRRcDF3OVg3OGtyZGNJem92S29aeDA4MXNyeXl1c2E2NEt4aGFiQlowdGZPRzdndllNZXBpVmVScmlValBlRHM0WXJDdGpOWnl4Z3c0V0gyNGxnMUI5MjE1QkMzdFpTOHVUUXfSAZsBQVVfeXFMTkNadEpiSlpWUnZMUjVVRkM0U1BjZFBQM2ZycVdyOHhBTlNlc29XM1gzQUloYjlMMy1ZOGVJZHpLUllCV3lWSm1RTmR5UTJjN0N1eVFmSURkUi1pY01OeW8zTndySjJrYXFzQXhjQTVidERsOGp0dmFKS3hlVG9EQUlYMjdUcWJPNGh6dUtZbVlVTGhDNTY1SGR2Wms?oc=5",
+      "published": "2026-09-01T14:26:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
-      "summary": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01Y1ZJZFhlUHdFUGlCMU45Szdaa2pqYVRlTWM3MkZubUZjVXRvMnBzRWZXQWRsNDF3Mm53OEgtYm5FLTdpanBKd3ZXNmVIalhnbktzaHQ0blcyUk45LVVnNi14WnBXWGpiMVl5VEdmZXR6WGxpUnpzUDl3?oc=5",
-      "published": "2026-09-01T10:00:00+00:00",
+      "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
+      "summary": "Beloved writer and environmentalist Wendell Berry has died at age 92 NPR",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0al96N1ZkN2tpZ3haZDYzbi1PYW45Rm9Ja2t5RjRlZnNCVnZSOS1QV1UtdUxBZTRTZjRRbWtobFZhN21YRGhKLTExTHlwRHJYUmwyWlhOT1oyUVcxS3ZTTXRlQmJ6YmVMS2ZRUGNtdGRtQQ?oc=5",
+      "published": "2026-09-01T13:52:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. House aims to avoid government shutdown amid GOP hardliner resistance",
+      "summary": "U.S. House aims to avoid government shutdown amid GOP hardliner resistance CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TYUN3bzlCc3psdHYyN0JYVl9kTG5Zd2xoU2w4ZnRDNms2VS1lWWpvTkUzRGx6UEViY0NhUnRqRlJPdU1oUklra0V3WGszNXlIb2xvSnA5N1lSSE1xWkhhLV9TQWx2NXdndy1haGFaTGZvRjdtQS1BMUZB0gF_QVVfeXFMT29ZdTB5TkE5eWVKZlVfRmI2NUFrdEtvcTlYMl9EODNoc1o3Y0VOZXZXb2hRZm1CdWlCd2ZkM3dHbjdUYUxwRFh2UHB3d0xoMWFFYnBRemRZcVpYc0pTVUx1Y3Q5cUI4NlNmVExQVFBSNEZLSjB4bW44czZVYV8zVQ?oc=5",
+      "published": "2026-09-01T13:51:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +83,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "A 30-year wait for justice in Tupac’s killing ends with a murder conviction in under 3 hours",
-      "summary": "A 30-year wait for justice in Tupac’s killing ends with a murder conviction in under 3 hours CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5USU5OLTZldjcxdnItRDFKMmNnd01Lb0J6NVV5dUZTSGZJcnlwT3VkeVdtV3JTRUlqNm9zQWpyV2VmLTd6YTRVc2h5VDFNbEJPeHNNbFNhbjBabU5RM3ltWUlaYzdXRjZzSklKS1hwb1FLWVJCR0tYbDBNcHY?oc=5",
-      "published": "2026-09-01T09:30:29+00:00",
+      "title": "Children go underground as Ukraine starts new school year under constant Russian fire",
+      "summary": "Children go underground as Ukraine starts new school year under constant Russian fire CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYzYzSkdudk9iUEUxeHpCNVZPbkEtaHREWldqNTRqV3hRbmRwV3JZNi1USFZzQmxzZTNXdjE2anlVU3pVdWpIT19ueXBZNFl5S0RUd2VIdm1jVS1MbDYtdkptNFdmTkFZSm1ubEU3Z0Z2MHZiSElFTDJB?oc=5",
+      "published": "2026-09-01T13:48:17+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "JD Vance confronts Jewish GOP skeptics ahead of a potential 2028 run",
+      "summary": "JD Vance confronts Jewish GOP skeptics ahead of a potential 2028 run CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tN2pURnBHWnNoNklGbU5CRkNOOXZuM1pDWEVaZ3lfbFhPSXh6a0NrbDh5bTdXUmVNLWY0dlA0VmVtSXhiZG5TMlptOTNYbE9DdERTOTdOWHIwdE16V2FOUWlRYzZEUEgwNERFSWdR?oc=5",
+      "published": "2026-09-01T13:21:14+00:00",
       "beats": [
         "Politics"
       ]
@@ -48,33 +108,21 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "3 things districts need to know about the $17B Meta social media settlement",
-      "summary": "3 things districts need to know about the $17B Meta social media settlement K-12 Dive",
+      "summary": "3 things districts need to know about the $17B Meta social media settlement k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDdIajVTOHVPdXF4bng4X0ZMMkpyaGhLZ3p6XzFaMHgzek12Y3BWaTNxRTJHdzRrOTZ3SDVEQ3llRl9jX29MZjM0cmdQUjJOcnJpNVdTMDJLblR5cmFwbmVrMnowckRFZUdnMHpBRmZkOTVicXJScVRMVW4yU1B4S1RxTlFpUHN2TVNHZ3lzQWN0LWVoUDVN?oc=5",
-      "published": "2026-09-01T09:14:46+00:00",
+      "published": "2026-09-01T13:18:45+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-      "summary": "A NY hospital tried to close its birthing center. This city united to fight back npr.org",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOY2pTNFJZWENmUDRsX1BNdmtZZ21UZzlZVFB6cHltY0FNYkV4XzBTRFFmZ0tFc1llN1FHYWFVZXh0VUk0a1JpOXpCUTJBMEtudkJmRjhleHNIVHJfakd1ZGtIeFJFMFlmMEtOV1NHOTEtc2hmTjYtQzhpYVZGdw?oc=5",
-      "published": "2026-09-01T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Made in America: How AI is keeping this U.S. factory competitive",
-      "summary": "Made in America: How AI is keeping this U.S. factory competitive npr.org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTBMV2RmYmE1dExFQmlOZ1VId1VGWWE1M0k1cnczdVpDa2Q5TmdfT2ZWajhCaEpGM29ZcFN2c1FkTDRRZ2ZQUTNKRVJiNkRKTzZxRlh6NllWOFF2RmxoQXhRcHNSYVZYaHpQUHZGTVQwc3BNMDlIWFE2OV8tM3N0bEIxUVM0Zw?oc=5",
-      "published": "2026-09-01T09:00:00+00:00",
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "summary": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjJEQkpQaHVwaXRUZzRneE9IQklMelB1MFBGTExfR1Q3My1XRExYWm1Ic3NPcGZEUHM1OE9rX29qMXQzQ1BndXZYZFVtc1MxbnlaNWFCdi1UR2hnY1ZLOUdDLXZxbnVSNnpCSTBFZ00zVFJ5RWFfRE9fX25DTmdUcVduc3RDZ1hxQV9qanlWWHZTckxRWU9VbXlVbnhHQ2dQMkl1NUxDTkltNEU?oc=5",
+      "published": "2026-09-01T13:05:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,58 +131,82 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "He moved to Mexico after decades of being undocumented in the US. Then he got a $1.8 million fine from DHS",
-      "summary": "He moved to Mexico after decades of being undocumented in the US. Then he got a $1.8 million fine from DHS CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zOUx4NWF1Sl9ZaFNSc28zVnlJbWt3X2hxYTZNN1gtTF9US3BsT3dNQTd3Sm9YdlJyTVRzb3E4VDVVX1FvLXRnM3pwd2NIRzg0UWlKV1dicVY5RHQyZXBKZTl3dXlLXzFsdTdNWExvM0lmWU05eEV1SkFfNFk?oc=5",
-      "published": "2026-09-01T08:00:29+00:00",
+      "title": "Global bonds sell off as Middle East conflict escalates, further stoking inflation fears",
+      "summary": "Global bonds sell off as Middle East conflict escalates, further stoking inflation fears CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USXlYc1JQOEFTU0FBQ3dTSDVWYzBtNzBWLTJxeVlyQnBFcmY2dlRIeUFreGh2UlZLREY5TmV5cENUazNBSFNvV2NBVTh3REptZEdTMW9qd2d3QXBMQkRrRE05ZTA4SlhfUGlZ?oc=5",
+      "published": "2026-09-01T13:05:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
-      "summary": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05RTBTampvUXh0LUFDY0FCb09GSlFTTXNtUkVtYUl4bGFsdkVVRHF6a1dwYjUzZUFFYVV0Vl9aQ1BwcFFMQ29Yemdjd0tiVGFTWHRVT2E5aDZTN3ppOTlOWkxPWGFNNFhuYk1zakFkRlhIUdIBd0FVX3lxTE1aeWtQaTBtd3NfV1BWT1NWcjhIdmo5WndPTmNQNG5OVkZRVTRrVzBLbTEtRDlKTHluejh1bVNYMHNKWHBzNjFuY2JrVUc0a3V1X1ZlSnEtTnRxbnE3UUp2YTc5dEI0T2xvaTNRNTJCLXVad3hVSGYw?oc=5",
-      "published": "2026-09-01T08:00:23+00:00",
+      "title": "USDA urged to report how SNAP cuts impact free school meals",
+      "summary": "USDA urged to report how SNAP cuts impact free school meals k12dive.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjFzOWhVQlhSYXk0LUVIOWowcFhKWkVQQnlmMlNkVWloZ3VHdk5YTTN1OHVlN2xHU3ExNV9lVzJDLUhCQzRNanl5YXVTQjVESHhKbnpBX3lEVzVTdDRhZjdUejM5b1cwbFRFcHNyLTM2b1R4aFRlaXdSZUZlMEJiZC1YWE5aVzFZNkJwTndrYVF5bGJmY3pUSFluNnU?oc=5",
+      "published": "2026-09-01T12:13:37+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Gunman kills 2 at Arizona gay bar with other LGBTQ+ venues on apparent hit list",
+      "summary": "Gunman kills 2 at Arizona gay bar with other LGBTQ+ venues on apparent hit list advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zVzdBaGUxUHY1QTExSXRjQnpRdjR2QVJsYmFDaTZqWGJKa3pmLWlZeVZvcXh4ODZxNE95bmpxNjJlNEkyRFpmTHkzcWxOTGJfSl96SWFMYzFVYXJ1eTBjbWtyU1ZIeFdZd0R3ZUw0ZENLZ1E?oc=5",
+      "published": "2026-09-01T12:00:27+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "American missing in wake of Nepal floods contacted, Nepali officials tell CBS News",
+      "summary": "American missing in wake of Nepal floods contacted, Nepali officials tell CBS News CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZE5wQXVRcnZuUV9xQXZwLVRIaC1yMHNBZVNtMWhRQU9May03eE43SmFza3hWVnhaTjNjTHhSMS00bFFUQzdRRGtTU2xxNld0SXo2aXY0YTdFcFhld0tQVVpxN0I2RTlCQzMtUHRCZG5Nc3E0NFVNXzRFOUFBUlFSa2NNVmc5Nk5lSmEyMlctZk1DMF8ydFJ5ejRkem50d25s?oc=5",
+      "published": "2026-09-01T11:02:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
-      "summary": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTlFYRmlZc2hyNVgxVWRaOGVjSW82eHptLWxVb2ducGhydWdBTEJMZ3VybXBTa2hHaGtxeVREWlJHVGt3S2tpdnBSblI1X0RScVhsVC1mRmJnclMwR2JSV1RyMmxqYlg3LUtVYW5OUUJqZEM0czRjajE0OGdhQdIBgwFBVV95cUxNTkV3QlU0NXFMTmZpemdEeHQxWGFpZkx6Q2pYWElUb0h3bHBCRG10Qk5xTW1fbUdVY0lqSzFCVkRweFV4Z2ZRaHduS2JRMElNVUJKLTJxRG95QXJmMGdfZ0pmOV9QX1BDcE4tUmxXVE1VdDVOSEQwQWJFOGZNYV9QbG8xYw?oc=5",
-      "published": "2026-09-01T07:31:54+00:00",
+      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+      "summary": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01Y1ZJZFhlUHdFUGlCMU45Szdaa2pqYVRlTWM3MkZubUZjVXRvMnBzRWZXQWRsNDF3Mm53OEgtYm5FLTdpanBKd3ZXNmVIalhnbktzaHQ0blcyUk45LVVnNi14WnBXWGpiMVl5VEdmZXR6WGxpUnpzUDl3?oc=5",
+      "published": "2026-09-01T10:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "summary": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFlNYzhkNWgxVkZkVGYzMzVsdVVOU1NVZmZ1VWY3QUhGLTNPaGVXMFd4U1pFU2tEQ012UFN4Tk9CNnMzMkxCdTBzdThVYm5FZG92VE44QXczY2NkbXJuaUFxREdlaGNmWmNqdVBoRmtZUVlNV1Z6MU81azRyOEFKbHk2TmlsMEJxd3pWTnlkY01RWXRMbVFONWRQdmtJSk9EMjlqdHJjazRwd9IBrwFBVV95cUxOZ0VjeDg2NFRpUE00Z2pBd29ZekxDSmhHb0hKa09pNG90YzBNQnBQQm5lZFF4VTVncjI0Si1BRXg4VW9pZDl2d2xUWEt0LU1iSU1BcXdLZU5Gdk1NaHgtLUZMS1ZGRzlMQmY1VWxYcGlJVUFVbFhKZlVmaXdjX0RPalI0blQxMVNuUEF5Tnh6N2xtbklZeEthYk1BdUZXcVhvNlU1akZPTFlnZGFySXV3?oc=5",
-      "published": "2026-09-01T07:24:31+00:00",
+      "title": "As Democratic-led states block ICE cooperation deals, local sheriffs push back in court",
+      "summary": "As Democratic-led states block ICE cooperation deals, local sheriffs push back in court NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTUxzTWc0czhBS3hXSnZia1JSWFplYXEydGYtNFdEUWN0aE1sMm5fdlMyZEQyU1pMSkw3a0dlSFhXeGJ0ZHRPblJLVVFkZmhFVElHeGFqTXpfQnF0TnZVNmtNVFFUaFpnVmY5WnY5bWZWd0E3NEs4REdoZmdmc29xajdRNmRqVHBvV09CNkJSSFUwcXc?oc=5",
+      "published": "2026-09-01T08:46:14+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The island hideaway built for people ‘bored with the Maldives’",
-      "summary": "The island hideaway built for people ‘bored with the Maldives’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNeG1IaXRWLVpRS3NXWUFWNTJtVHEzajNrYjRsb2hFMlJhbnQxU2h2dTRZUHRkbHlfalpoV0cwWjNwUzB2RTE2T2NHeGxGWjVyQ1NrVGphUXZFMTAyTlZVRVY5UGVWQ3E4U05WZWFzbko?oc=5",
-      "published": "2026-09-01T05:01:36+00:00",
+      "title": "Consider the Bollard, Stubborn Sidewalk Cop of the Post-9/11 City",
+      "summary": "Consider the Bollard, Stubborn Sidewalk Cop of the Post-9/11 City nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1dJUDNYTUN6RzYyRmZvWUlPdnVuaGY3Sm9WZUZVc2NJcmUzSXNwNG84NjlzQ2kwczVBQzRTQ096UUNBVERxa1o0bk9HU2FfUllDRkpySGxTTW1nSWxzNXl5eDhvTndaeXpvVm01aGxaUTM0dFNTWXByM3NrMWhhbFZ3?oc=5",
+      "published": "2026-09-01T07:00:12+00:00",
       "beats": [
         "Politics"
       ]
@@ -149,18 +221,6 @@
       "published": "2026-09-01T04:05:40+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
-      "summary": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KRHFOaklhYjgyZ0lwbDMxbS05U2t0R3BmN29XeUp2bXF4VGVwY3AxQjl0blUtQTRGZ1NfNVkxWjRNQTE3ZFJmMFBVZ2xIVVltamhNSllScHY5Y0xmNVdDTkJrb0VLUWlKRHFOWHl3?oc=5",
-      "published": "2026-09-01T00:07:13+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -185,18 +245,6 @@
       "published": "2026-08-31T21:24:29+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Teen Charged With Murder After Livestreaming San Diego Mosque Shooting",
-      "summary": "Teen Charged With Murder After Livestreaming San Diego Mosque Shooting The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWRTVFhocEk3ekdiNmhndy1wMVJWUGdMY3hnTTlQRGYyZWx1Q3NVbjNVblA2MWRNTU9Md2RSQWVzbEFySENiS1BXUEVhRGtyMHNaMjNwNHVkSG1zQV91MU9FWXVyWkt1TFl3TDVlNERsZUtVNmNMamJQdERTQjd5V29oT0FmdngtM09ESmJjQ2V5YUpWbzFfUQ?oc=5",
-      "published": "2026-08-31T21:10:38+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -228,7 +276,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Trump’s HHS built a survey linking trans acceptance to violence. Its authors undercut the conclusions",
-      "summary": "Trump’s HHS built a survey linking trans acceptance to violence. Its authors undercut the conclusions Advocate.com",
+      "summary": "Trump’s HHS built a survey linking trans acceptance to violence. Its authors undercut the conclusions advocate.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWh0aE9lVnNyN3F3aFNzelpEcjVxVzJZVjYzbWNManBuR29DNjZuVjBaR1NYY0pEUk1EYTFWQi1nclZXcXltTUtITUp2YzJrXzlqVDlFV3pHOXA3ckZKY0RQTHJ6RjJHZ3p0ZnRKVm1kTm91RVJMb0hLWW9LdF9WVGpkQllCdDg?oc=5",
       "published": "2026-08-31T19:16:50+00:00",
       "beats": [
@@ -248,18 +296,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "A new once-daily pill to treat HIV just got the FDA’s green light",
-      "summary": "A new once-daily pill to treat HIV just got the FDA’s green light Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KZDNBdUNfZjhkR2kwNVZ6MVliVFFBd0ZHbTRsN1hlMk9uSHNrRXhQcDE2ZE5mTnA2ZUZxMlBkRngtMW1HeGVyc2ppXzVhUEVIejFRdXZ3OEtZUFZpTUNmdnRaX2dIZFgx?oc=5",
-      "published": "2026-08-31T18:33:10+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -272,35 +308,11 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Kalshi bans George Santos for life after he secretly bet on himself",
-      "summary": "Kalshi bans George Santos for life after he secretly bet on himself NBC News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWFsei1MOEtRSTNZV3gwVHNabnB5Z0NXMC02TEp1MHVZRG4tQThZXy1SaDhRZXRVakd5SndDNUU5bGFYQVVURGtDM1E5SEZscVNYYjBjNTl1T1pIQlg0V0JmZVJMaGktb1JtR0VielhmS3BOV2ZjU0VEWnlNTklGejJiTQ?oc=5",
-      "published": "2026-08-31T15:33:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Twin Cities family that fled Ukraine self-deporting: \"We are becoming illegal here\"",
-      "summary": "Twin Cities family that fled Ukraine self-deporting: \"We are becoming illegal here\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFhfNzhHY1M1OXdZOXVKRVc4VHlDQTBxeUJMaGZ0QkRBUS1tYnJjQ0xNLWloNVZKcUZnQUpZMlNjSXBUNl9SN1plZTl6bDBxUWVWbTVrQ2MteTJrbnJ1Q0pVaEVVam5palVBb2R5cThIaFRMS2U0cTZiU29ubDBCQ3N1N0tMNjlUZWRIU01oblJKQkdq?oc=5",
-      "published": "2026-08-31T14:02:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "How a Chicago-area superintendent builds positive culture from the top",
-      "summary": "How a Chicago-area superintendent builds positive culture from the top K-12 Dive",
+      "summary": "How a Chicago-area superintendent builds positive culture from the top k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZSN20wazdHdzlUYlZLLVF5ZVlhNjlYd0ZwWW5PeVhkcmpYM1p3VnB3NzRGZkFVUEsweHRnbFRzel9Memw4dVRRT3NKTEUzRHJUQXhrQm9IdWNDNnByNUZtXzE5RUNCT25iVTBwVVJMVXNKZ2ZzdzhFQTZlNElhRW13M2E1Nl9Cc21WNDBaTmhZX2lHVlBwRnFGSURkRnBYOWxKSHRxUHNBNG5VSVRUV1lB?oc=5",
       "published": "2026-08-31T13:29:42+00:00",
       "beats": [
@@ -308,39 +320,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "No verdict yet in Lindsay Clancy murder trial. Legal expert says sudden interest in case is \"unusual.\"",
-      "summary": "No verdict yet in Lindsay Clancy murder trial. Legal expert says sudden interest in case is \"unusual.\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TNEpVRXJUYU5TUE1GbUd1ZzRqcXlkVzJJZEhWcmNRZlB1akMtcjNOZ3hrSy1NYWNjX2JzYmJKSWdNTS14ZjFzdFdkT0lrZnpwSUx6Vkc3V1owdkRlX1FCVkhfdEpUbDVtbktfY1Z4TzhUN1dqbUE3cHdUWnM?oc=5",
-      "published": "2026-08-31T13:24:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic",
-      "summary": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic The New York Times",
+      "summary": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ29RcWhGQVkyc0w5RnZ4MC03VlRhalQ5alF4N3U0cjRTVkJNcGZfNlltT0dQM3dDdnVTdnVnN0NpM0VTUTdWV1doMU1IQ1hQSHhmVlZIcW42eTJXTlBpeFRlNnNTVTJHSlZGY1hiMU5JeVdHOS1NcTFUcmYyOF9DVGMxQXVud1ZPcWM1QXlldnc?oc=5",
       "published": "2026-08-31T13:23:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: Apprenticeships take prospective teachers to school",
-      "summary": "Week In Review: Apprenticeships take prospective teachers to school K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BYWNiaGREd25kc3dZUlU2c3RGQzdvNTBwdUkwRFRKZzVZNnhjY0JpUGlfb3NfdWNieXQtLW9weldNcmVIWlN2cEpXTTkwSzFhSWZ0VGhVNVp5SFpDTnVfV1pjbHhuVFhSYURXQW1hLUhkZVJC?oc=5",
-      "published": "2026-08-31T12:24:35+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -353,6 +341,18 @@
       "published": "2026-08-31T10:07:48+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Bootleg ‘Spider-Man’ swings into Russian cinemas despite Hollywood boycott",
+      "summary": "Bootleg ‘Spider-Man’ swings into Russian cinemas despite Hollywood boycott NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFZSdnFJLWdlNndYbzdzUkVSV1ozYzM0MkxQTnV0SW9zemtPSnF4V0dHeVVkc3MwSkR2SXVVejNvTWlaWUJvRkVfY2xid0VmMGhVMEdTQ2hLbl9OckluSE9nMVZBeW5majlRYV9UcjMxQ1BBT0YyN3NtWHhVTTFTRmtnOGVxa2hjMEJ6V05BNmdGajdZUnQwbFR1WnlfRzEyalBRaHl1eVYySHJMaUdCYg?oc=5",
+      "published": "2026-08-31T09:15:41+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
