@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:56:46.965027+00:00",
+  "updated_at": "2026-09-01T23:54:55.151462+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+      "summary": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdjhoRDNXcEFGRVNXV0VJNUtVNzlzQ2t0b3h6T2c3M3dLdUdDLXI1Zk93c1Z0ZkRWMFZoY2JQWFI0UlUtNjBDOVExMUU2XzlTTnVVSG05blQzTnMydS1mdUZtNmFSelc1S0JkUXJjbDVFQjY3MjJZb3AxZkVkYUVwSThiRQ?oc=5",
+      "published": "2026-09-01T22:18:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Judge to decide whether Tyler Robinson will stand trial in Charlie Kirk’s assassination",
+      "summary": "Judge to decide whether Tyler Robinson will stand trial in Charlie Kirk’s assassination NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObng3enpYZHd1bDZFRUdwRmNxNy03OEZnZjFlWXdCY0ZROFU4REZmcXZCcW1jNTBTYkVRNlRQeWhuZURxdTBSVTRrOUZPbUNXVFJFaTZ5aUNqS3NBU1IyWXhpbjdSbmRrSV81WFNjT2o4ejRRT2pNU1Q4X194UURZVTNhUnhTUUd3R0pGU3VkTlZfMTdMZVVxSXNURnZkclhPcllEYVAyQnlmUnNILU5VTlR5LVJ3WldFYXc?oc=5",
+      "published": "2026-09-01T21:41:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
@@ -46,25 +70,37 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Lindsay Clancy trial jury \"unable to come to a unanimous decision,\" dismissed for day without verdict",
-      "summary": "Lindsay Clancy trial jury \"unable to come to a unanimous decision,\" dismissed for day without verdict CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUcya0c4eFcxS3g3a1dqMDZSemFZbzdxbVQ2eDRRc2MxTnBPdUdCOGV3TFU5WVVaM0JTY0QtWndGeExIcW81VTBGUkhmc1pmUHlrcWYxYU5USjV3emVDNWo5YzJ0S0tSTGVFLVBCNW9ycXVmdXhBYjJrcE5YUTVvY1JWX1pKNHVDb19DWA?oc=5",
-      "published": "2026-09-01T20:45:08+00:00",
+      "title": "Democrats shocked after 2 members cross aisle to help Republicans",
+      "summary": "Democrats shocked after 2 members cross aisle to help Republicans CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHYjZsb0laVllHT3Fab1pWR2d4NTBMd3Z4NWttSGppS0gyTzR1QzFzc056R1BFaXRLdEM0ZGtteVFPb1ZBeUJKRFYzX0xBN3ZhMmZPeHJlN1pROUNaczhpMXczM3k1R3l5WFEtR3d0UlRCZ1MyOU1pSA?oc=5",
+      "published": "2026-09-01T20:58:41+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Judge to decide whether Tyler Robinson will stand trial in Charlie Kirk’s assassination",
-      "summary": "Judge to decide whether Tyler Robinson will stand trial in Charlie Kirk’s assassination NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObng3enpYZHd1bDZFRUdwRmNxNy03OEZnZjFlWXdCY0ZROFU4REZmcXZCcW1jNTBTYkVRNlRQeWhuZURxdTBSVTRrOUZPbUNXVFJFaTZ5aUNqS3NBU1IyWXhpbjdSbmRrSV81WFNjT2o4ejRRT2pNU1Q4X194UURZVTNhUnhTUUd3R0pGU3VkTlZfMTdMZVVxSXNURnZkclhPcllEYVAyQnlmUnNILU5VTlR5LVJ3WldFYXc?oc=5",
-      "published": "2026-09-01T20:38:37+00:00",
+      "title": "MapQuest is No. 1 on the App Store after refusing to change Lake Ontario’s name",
+      "summary": "MapQuest is No. 1 on the App Store after refusing to change Lake Ontario’s name CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXliLWdMU1dYdHd1YVNaWFZGMjl1THoxUTdzZWtralRDLVdoT0NQbnNtTUU5T2k5UTVtck9uZzJIcTNHX3JBUW41bjNCcEwxSVR2OTJYcGtQZmd5SWRjSW9uZ2RqMzV1WnpkQV9NOXNaQTBMZVctZWZ1eV9UdGg0M0F6ZU1LX1VSN3FZNA?oc=5",
+      "published": "2026-09-01T20:55:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Scientists Hunting Dark Matter Found Something Strange",
+      "summary": "Scientists Hunting Dark Matter Found Something Strange The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzUFY1ejVRTlBIUE9odU9saWtVSWJHM0Ztc0JXOENXVzR5UmRiRTZqU1JzTEZGQm5YQnQ1Q2hDQUltSlpsekpZNEYxejVmNWtITjNyYnYyTlA4amlROWRpNUVCNmR2QWRXQ0lJ?oc=5",
+      "published": "2026-09-01T20:54:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -85,6 +121,18 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
+      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "summary": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDBCU21lQ1ltM2VTSms4NUZabnY4a3p4M0s3eEhGbnNnMUZ6TDdrc0pKZE1VVjhsbkd6TkQxR2xkVUotTDRYX1ZlNThVS1RzUnlYbFB5eE11NFBwZHhRc0wyOVFVeDl3QjVxS0NjTVNidXpQQnpkNmNIU1VhVExuSUc5RdIBiAFBVV95cUxOR3E3YlQtWkRyQk5XaWw2NGlRTGRjUmxYaDY0b3NTaks4eGdwdjg5S3hJN0Q1SjNZUW03NzZzS1BqTHQ4LWFCV2loZWVVbkZ3ZG5uaUVWQXJ3c3V4T3BCYzRZR25xcWZ6Nldna0laWGJ2QVJVY3dQRkxNUlVyLUNxXzJoeXIzbHNZ?oc=5",
+      "published": "2026-09-01T20:22:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
       "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
       "summary": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability CNBC",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5",
@@ -97,8 +145,8 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Dell surges 10% after lifting fiscal 2027 forecast on AI server strength",
-      "summary": "Dell surges 10% after lifting fiscal 2027 forecast on AI server strength CNBC",
+      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+      "summary": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength CNBC",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51VnZVMGZaX0JwQ0dVOHV2SXJkMDhob2Nja3RLQXBCWTlBLWN5X1VXNlZPdGpxYUF2RFJoaXI0czFnV0lSSHdhRVZqT1RMRjJ5Y25TczVvM01wVndnNktuU1JVemd5OFYxRWhsbGdzemNINnfSAXhBVV95cUxQejhobUpIOURGX2Zaakd1M3FMZmNzbHY0VEJHY2pybkFMOHZNOG53RlNyb3czSHd3WXBKWWtwYmFJc0QweEw3d0pnLVhGTGtuT1hXdVZ0MFhUUGxsQWRybzN0bG90SlV1SVZlZUw4ekdXS01CbjJWZjU?oc=5",
       "published": "2026-09-01T20:07:37+00:00",
       "beats": [
@@ -106,25 +154,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
-      "summary": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40% CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aMXNhN0dQWkUwZnFlUkd2S0tHNlpnbEZDXzdkSzE2anljbjZNMlhuRnVOdHJ6TzhoSG40SGpBTXlNOVJudkh0bDQ5ZWdzeG9lSkV1VXpTem9NX1hCcVZTR0M4cjAzbXFKdXRXaXl3aGtFUdIBd0FVX3lxTE1XcjhFN2ZrSjVvbjIwekc2eks3aE4zeENLa0RCeTlQQ2pqUjVSUlpnLXgtM0oyMFlTNE4wenRtVkJ3WHllbTY2aFA5cTZtVVBJUk16NjNvMkt3TjFwSmFSV3NLOVdYcGdfMXlvbGNzZDh0NU9QRnpZ?oc=5",
-      "published": "2026-09-01T19:49:15+00:00",
+      "title": "Lindsay Clancy judge tells deadlocked jurors to return for fifth day of deliberations",
+      "summary": "Lindsay Clancy judge tells deadlocked jurors to return for fifth day of deliberations NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkM4T19SU29UamQ2OFE3R2FkRXZzMlpVWERTYkJQbko1RHcyQVhqTFlpR0JaMzE2TERPQi1jdlROUHJvN19XZk5YU21pYjI5Q1dSTXhLTUhJYTY1VFZzNUVWUmppTi1hcHJSXzhKZGhsSlpodEtwOUZ6bEd4QjdMOU16ZUZhTjNOb0FDWnZnUlhpLVNuQ0llSkV1VVJEUWkzRkQwUzQyQ3daOTdiUzFOcWc3aWQ?oc=5",
+      "published": "2026-09-01T20:07:03+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Congress votes to avert government shutdown ahead of midterm elections",
-      "summary": "Congress votes to avert government shutdown ahead of midterm elections CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTZwcDBTNUhYS1hocERKaDBWTlNGMEc5MWhRZ2FZaGNabUZpOEN5Rm5tbkEyOS1RRDlYdF9wVTBYd25ZTS1ocnhrRjkxLWRNazBJUW8wM3VwZUcweUhPNmNRbGJ2ejhKdlhKWTBYWVd2Rk84QkVYU01LVFZHVFdPSllTaw?oc=5",
-      "published": "2026-09-01T18:06:55+00:00",
+      "title": "Tiger Woods will attend plea change hearing in DUI car crash case",
+      "summary": "Tiger Woods will attend plea change hearing in DUI car crash case CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UbHJ4UFRyYmtKajlTQUJacVFXR0NDZGI1QVFvQWRoa0dSS2xvWXZCS29hYmQ0eDJiUnd1S0NzWTFoTXYzRHIxSmRCZS1vaVloV1FMVk0yUGZYaVEzRkFnRU9rOU9USGplaTRPRmVWSFVOdTZOVFR6aQ?oc=5",
+      "published": "2026-09-01T20:04:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -154,51 +202,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "14 new books in September to help ease you into fall",
-      "summary": "14 new books in September to help ease you into fall NPR",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TUXRlcWlqOVVpMkhJYXpHV2x2V3NqeHJ3X1BNWk1IbU1KQy0tMTNjWlBSdU9nTWJrNHNxaHRaZ3NFbUxYRk1NTjRVdWpmZTdWMzhVUFctSmVVcjRLQUs1UEdqRDh6VVE3UGEza2pDdWM3dw?oc=5",
-      "published": "2026-09-01T17:24:59+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Tim Cook’s Apple reign ends with triumphs and betrayals",
+      "summary": "Tim Cook’s Apple reign ends with triumphs and betrayals Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12akVxTlYzMGZmdVI5LVZuYml2Qi1Cb3p6UmI4VnhwNTZWUi1OSmhER0NCcHdLV1NPeWZyajB1WmNNdXVhb3lJWWo4eEVDMldlOFZBOWhac2ExSC1fNlVKZTV3?oc=5",
+      "published": "2026-09-01T14:57:47+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The light is blinking red on Trump messing with the 2026 election",
-      "summary": "The light is blinking red on Trump messing with the 2026 election CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUtwRlFCUmwzbTlheE0xTk1HeC1IZG04eGk3XzZJUTZYb1haRjNYSlpOdE4tR2V6QTk4LUxXWHcxS2Y2Y0x6b3NEMHJGbGtSTENsUW9SMGkxMl9VdkUyZzMzTWhCTlFjNkdldm5pdzVSNW9WNUdxQ3JCNUhJVFFMQ25n?oc=5",
-      "published": "2026-09-01T17:13:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US military carries out new strikes on Iranian targets",
-      "summary": "US military carries out new strikes on Iranian targets CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiUlh3M1d3S2Y0TTU0a2pHWTBZeW9oSS1QaGxYNGVJTWVWSFBqU0sweGo3TkF1cFNoQ0xWeERVZ1dpNzFfZ2N2Y0xUVHQwMUNIXzRyZEFLZXQwZFkyUGlPaWpnbFBGcUNQb1I2TEtLZDEtUQ?oc=5",
-      "published": "2026-09-01T16:50:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Cancel the Met Gala Instead",
-      "summary": "Opinion | Cancel the Met Gala Instead The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmphZXRkUGpmRVVzVFFPYjBMOUxLbEVHU09CZ0VxcVRCRlBfU1F6STZSZ3BQSmFSMjBPc0w4eExXN0xuUVNTbEVNM0tTck5iVjVOVFhMLWF3TTBqQ3BEQ29rN3BSN1BMQ1RlVW9xb3dOZDNraEhUZGhWb1llNnltNldGOE9hTmhKZ2VGeA?oc=5",
-      "published": "2026-09-01T15:28:51+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -226,15 +238,40 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "American missing in wake of Nepal floods contacted, Nepali officials tell CBS News",
+      "summary": "American missing in wake of Nepal floods contacted, Nepali officials tell CBS News CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZE5wQXVRcnZuUV9xQXZwLVRIaC1yMHNBZVNtMWhRQU9May03eE43SmFza3hWVnhaTjNjTHhSMS00bFFUQzdRRGtTU2xxNld0SXo2aXY0YTdFcFhld0tQVVpxN0I2RTlCQzMtUHRCZG5Nc3E0NFVNXzRFOUFBUlFSa2NNVmc5Nk5lSmEyMlctZk1DMF8ydFJ5ejRkem50d25s?oc=5",
+      "published": "2026-09-01T11:02:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | The U.S. Military Must Learn to Say No to Trump",
-      "summary": "Opinion | The U.S. Military Must Learn to Say No to Trump The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94LWczczNSbVZyVGNZSC1UV3EwY0QzQ1EzOHVFM2Ziem5TMFMyQVh5MXpYTHpUZzR0R0s0Q1JZYUpkbkFlUEowbkRfS0tZZWRHN2xFX3lqT2VpbHZmN0h6WV9RWHplWTZNdFUxM21GNFd2Y05WbHRaWTBpTE4?oc=5",
-      "published": "2026-09-01T09:02:45+00:00",
+      "title": "Opinion | The Political Power of Christian Kitsch",
+      "summary": "Opinion | The Political Power of Christian Kitsch The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOG15LXlZQklvaTBSYkZTaHl4cFZ3allTcnJ0YzRveUQtdjlBTnRaRUFDaC0wRHlKVTNnOXYtU3ZrcXBqQVo0TEtyby12bmRFbVg5bDU2MFVtMzQ0YkVJa0JWOU12Y0pQNUFiMm1XdzJEYW5RN01teVBBd2w2a2YwNGxpV3U?oc=5",
+      "published": "2026-09-01T09:00:40+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "These college majors lead to the highest-paying jobs for California students",
+      "summary": "These college majors lead to the highest-paying jobs for California students EdSource",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBob0dCYWhjWTQtRTcwQnpZNm93N0ZNVkRrVmxyQV9ZMkU1R3VQSU1UVnJFVHNGTGMwTExjdko4UHoxM0owMEl4ckhNSm1pbzFzM1ptTElGZ0pnN2RpX0pmWGZobTBXY0hmWUhMSXBfa09qb1NjTE0zdA?oc=5",
+      "published": "2026-09-01T07:07:52+00:00",
+      "beats": [
+        "Business",
+        "Schools"
       ]
     },
     {
@@ -344,42 +381,6 @@
       "published": "2026-08-31T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump’s HHS built a survey linking trans acceptance to violence. Its authors undercut the conclusions",
-      "summary": "Trump’s HHS built a survey linking trans acceptance to violence. Its authors undercut the conclusions Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWh0aE9lVnNyN3F3aFNzelpEcjVxVzJZVjYzbWNManBuR29DNjZuVjBaR1NYY0pEUk1EYTFWQi1nclZXcXltTUtITUp2YzJrXzlqVDlFV3pHOXA3ckZKY0RQTHJ6RjJHZ3p0ZnRKVm1kTm91RVJMb0hLWW9LdF9WVGpkQllCdDg?oc=5",
-      "published": "2026-08-31T19:16:50+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Lionel Messi announces retirement from Argentina national soccer team",
-      "summary": "Lionel Messi announces retirement from Argentina national soccer team NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2hhSnlyQkRfYzRHbjhXbmppbmwwTUEzOXZmcUFSRkhHZWZhY2ZUWmhxNmF6WUNLanJnR1NyT0Y3eHlZTldqRjN4cEg2cTEyV1JTV2JXdjFpVnM2UG1hRjBNY0RvSWJZcWVxNmduaDVmUjJfUlRoWFE0S080Y0M2LTRVcjVTaHJEMjRTWWU2dFdaSDNHMUdYOW8tQXV1T3ZTVTdoUEhnclE2VS1iLWc?oc=5",
-      "published": "2026-08-31T18:45:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Georgia police investigate fatal shooting of beloved baby donkey HeeHaw at Rockmart farm",
-      "summary": "Georgia police investigate fatal shooting of beloved baby donkey HeeHaw at Rockmart farm CBS News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcE1id09NVGRJaldMbm8yc2ZrVTFqUFFOSms4MWtBelE3ZmpOTlJ2MWJhdDUwZEhZZmc1UlVLclJpZ19FYmNpbnRwTGdlLXFMMFYtSlU3TWozR3lfZnlUN3puTUlQelN6c0N6MmlxVm1YMUN2SVQxWWRpWFA2dnlfUEVfVTIwVHFVV0VoX3poSnVjRkhCZVFOUjh1UFNWVU9BYll3SjRMWW12bEx1OFVDZ2Z5U3ROdnR0anl5dUJnNHdxc0hT?oc=5",
-      "published": "2026-08-31T16:14:16+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
