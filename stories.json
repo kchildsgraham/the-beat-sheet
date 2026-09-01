@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T21:22:31.011886+00:00",
+  "updated_at": "2026-09-01T00:43:57.183175+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,95 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | How El-Sayed Could Dispatch His Hasan Piker Problem",
+      "summary": "Opinion | How El-Sayed Could Dispatch His Hasan Piker Problem The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMUHpLaE1CV1FIWFlvZ0xMWlFMT1JCV0M4dFBGSTNBN3JtT3lZTmZRcmdaYUdMUzdDSXFib3puNDhUQ3A1RXN5T0k1SlpUNmdzWG1BekRJbjdlWmxhMlI2cmdIWUZVUHVPYXhkUFRFd2tlaUFTZUE4?oc=5",
+      "published": "2026-08-31T23:13:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
+      "summary": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkhRVEdHbW1LTjIwUXZkZEN5cG1wX2FQNERpd2dJVGl6cWVzUXZVLWlMZHBXZ3BWN3NsYzI4WU01S0hyNEZ6bHN6NmJNa2I1bWdZMXV5NFNBaDg0bWlYeVI2bXZsc2lsTTJ6SU81VmY3Uy1DS2g2YjNVbkJmOUp4X01LeXBwUGZ0UzFKSkdQSzM1cTNIOUVyRUxFcVlvb2NlWFVDUDlB0gGrAUFVX3lxTE05TGRsazhta3VmOS0tX3RsaG9ZQWpHT2dzMlU2Mk9fRUltUHh1YzlTQUVleWs0QWVacXFQcDIzSEplTFptWVRRV2FXZEwwajRSV21ZZlYzZ2FacGdOYnloVWNvdEZPT216SXNBVzc2eWR6ZnBxem9ZQnlEOXBndkJiVEE2NGpFUWw5Tld3cEk2U2hTVzJQUm1PT0RyTXFwQTJvdFRUcThmc3Nkcw?oc=5",
+      "published": "2026-08-31T23:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Lindsay Clancy murder trial jury leaves for day without verdict as deliberations pass 17 hours",
+      "summary": "Lindsay Clancy murder trial jury leaves for day without verdict as deliberations pass 17 hours CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TNEpVRXJUYU5TUE1GbUd1ZzRqcXlkVzJJZEhWcmNRZlB1akMtcjNOZ3hrSy1NYWNjX2JzYmJKSWdNTS14ZjFzdFdkT0lrZnpwSUx6Vkc3V1owdkRlX1FCVkhfdEpUbDVtbktfY1Z4TzhUN1dqbUE3cHdUWnM?oc=5",
+      "published": "2026-08-31T22:28:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+      "summary": "Trump officials cut political interference ban after unusual Census Bureau report NPR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2NZd3dtTDl5OU85UHd4TFZURF9pc3FGeXZkRnpqNUtQTF9OT3Q2WUNabEY2aEVhOFBBU2xWbThEakE4NlpPeUlROUszQU9FSmkzdEx4OXJKam9Xb29lZ3hDWmRDWWRpSE95Q3ZLRDBheUYzOVJLSVdmM2c1RVRxa3BtWFJuQzBCWnp1dnRlaGpJU1VGcFYyWmNvODV2VTEz?oc=5",
+      "published": "2026-08-31T22:24:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Army Secretary Dan Driscoll submits resignation after tension with Hegseth",
+      "summary": "Army Secretary Dan Driscoll submits resignation after tension with Hegseth cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3BPSDJvQ3VNMllpcjlCNnFHZFVFSWQ0TXowNXdHOEZGX3M3cExKSnJwbnJnSHRsdWxGSEY0N0ZXYVlmSmg4blRsd2VMQkVrbEV6MW51UjNwX2RhUDhZR0pEV3IxaGlHeXZhV19qMTNINkNIM0xHcUxPOXplVVJTVw?oc=5",
+      "published": "2026-08-31T22:05:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Bill Gates’ Stark Warning on AI in Education: It Could Result in ‘People Learning Less’",
+      "summary": "Bill Gates’ Stark Warning on AI in Education: It Could Result in ‘People Learning Less’ edweek.org",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkRoRmFjeld6SE4ycHNRMHdDWUIzUDNFUlRVeEVoQ1dOblNsTkJETkRHOEtvY0pmLWM5Ym92SW52LWo2LTFnRFBuWEdSb2JBeFdhN1BlSTZLUHlKekFqdlNTWjhfNWxXejhFSEVZRmpLUFdyYVJWZUF3dDBGUUhuRGJhQzllREZ6VTdfeFJ1TWVmY0N6NmtmbVZuUzZsZlM0T2NJVE14a0xlYkcyZ2l5S2lRSVhXenJhSF9iNm5GNWx4WFE?oc=5",
+      "published": "2026-08-31T21:40:56+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "The Pre-K Push: Are Current Preschool Models Heading the Wrong Way?",
+      "summary": "The Pre-K Push: Are Current Preschool Models Heading the Wrong Way? edweek.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkR3blJQTllROURKUzZMT3BxZXktVjNfZWt6UXVpQVB3VzMwYnNNMlN0RXhiVTBJakZncnJ2ZUJHbEk0WEloUkF1U21aNTVQc2MwZi16bV91YzVSSVQxRG03RmVTUmcxTkNKZU5oN2ttYlRkV0JtNlF4UGFveXEwNEtqalhZLVhrVHlCc1FmemllaFROQy0xMFZKRDNRNjM3M2dDWGR6N3p6VmRkdXVUNEhsa0o?oc=5",
+      "published": "2026-08-31T21:24:29+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "How Dolly Parton’s Imagination Library Will Still Aim to Nurture a ‘Love of Reading’",
-      "summary": "How Dolly Parton’s Imagination Library Will Still Aim to Nurture a ‘Love of Reading’ Education Week",
+      "summary": "How Dolly Parton’s Imagination Library Will Still Aim to Nurture a ‘Love of Reading’ edweek.org",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGxGZjAxRlBNMC0wb1NJMEpQN1VuQ0RvU3lMU0J2WUxHdXBiSWw0bFVpNUVvV2g4enA4cVJLTml5c2VDc2xvTk1YTjJ0UHN5REY0X05MSnZoSzBIWUhqd0xMMlFESWR0cURVbnZQZDZhMXJISldLaTg0NTlGa2lEajVqZG9qdGpRWjY1dGpQTU1oTGthWkZqRG4wYXpUMnNncEJsMjBGbmdPcWV3NjRwZDYtdzBVWV8zaGVGNzloYmpmWUlHYW5ZemVn?oc=5",
       "published": "2026-08-31T20:54:29+00:00",
       "beats": [
@@ -44,61 +128,38 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Is There a Counseling Gap for Non-College-Going Students?",
-      "summary": "Is There a Counseling Gap for Non-College-Going Students? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWM4OGpLV2FuNVBGNWdDai1DUmF0SXpKbHNhaS1lOTNKbTdzOVZnTkVMeE53STJJQkx1cm5sVVdpMGdCRUtJcEZpS1JySnpSWDg2TktkSFBONlRqaUF2QzN3V09haTJsTUVnUGxzaXJSeHhnM3FBTFQtd2hxbi1vc0FFVWpndmM4X2NtTzQ5cS1fdzA3WGI5MUFBc1ptRHI5RDU1Umhzem4?oc=5",
-      "published": "2026-08-31T20:30:29+00:00",
+      "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+      "summary": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened NPR",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yS1VCNUpzcnlCbHZ4WTZkLUhVWTd5UE05TkdPRlVjci1nWEtxdU1scWlkcFlfM29ha0hKeDY5UGl5SE4wT1FsQkdndEtTUE9Fc1llSmF1S0Z4UUF5UzBtbTM4LXA3Nm1wc3FSVWR5TW52a2VU?oc=5",
+      "published": "2026-08-31T20:42:17+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "U.S. sues Amazon over its advertising prices",
-      "summary": "U.S. sues Amazon over its advertising prices NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYnJCWWx3T1pzMGtDdmZfVHJETkhWMjMtRlQyd0lRQzNGLUpwLXRFV3djSHQzT283cXlmeTJDak1pR1BLLWNpMXJwbDR4dDQ1bTRnZ3V0RVhiclJfYVVVUFQwTDE1NjRvaWdfTk1ENUhVN3hDSXVOWTd2cHpLWWVYeA?oc=5",
-      "published": "2026-08-31T20:17:03+00:00",
+      "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+      "summary": "Kalshi bans former congressman George Santos for life after State of the Union trades NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlBES3JWekZGM2UtQ2ktaWF4UWp3a0o3Z2JmTTA3clJkUTU0Ymh6ak9xNXo2ZUJGM1B6SXRwSU1aOGMzNzljajZObTE4cFBZZ3FrdURjWG0zQzJQanFMUjljNXJEbnAzU3dJSmthamJaY0NQb1lDTndnR3pvVDVRa1l6T2dNZzFTdFY4eDNxRVpNdw?oc=5",
+      "published": "2026-08-31T20:21:47+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "Business"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Supreme Court says Trump can build White House ballroom as lawsuit continues",
-      "summary": "Supreme Court says Trump can build White House ballroom as lawsuit continues CNBC",
+      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
+      "summary": "Supreme Court lets Trump build White House ballroom as lawsuit continues CNBC",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vRkZncEJ6WXY2Q1JRbHZkQm1PckVpWG14U3U1bHM4MlVQSF8wSHMwblRIVjhvejV1V2kyMXlTY3VVbHg5VkMtd2gtSmRXUDAwOVg5LXVVcWRSVmpEWHcwZ0JRUmlEWVVLMHlNZVJwT0o4UFQ1QTdLaGxYUdIBgAFBVV95cUxQVzNJakVIRDBBejh0RHVWZVIzcXFqREJ3ZVJCNlVlZjNaWldIVFJXeDlGckstczNIZ01ic2FOcWdwajhNLU8wYXhVNk5RbnRDYVpKT2t3ZEZOeFJWSUp1OW9UMldUZHJnQnJlZVVMZmFVa1BNTUFCX25jX1RxU2FhdA?oc=5",
       "published": "2026-08-31T20:14:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "summary": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjOWZuc21XdVhhQm5JbW1EcXYzZlZ4XzJZVzdRajM2VVBGelVNWS1ldHlKZzJXT2Z0U0l2cjFGajhfMzB4NXREQ2cxcURQME9ncEhjSlRsOVJwdVMxc0NERGVHcUU4cTQ1RVotcVlmY2lkMnlSZl8w?oc=5",
-      "published": "2026-08-31T20:11:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Supreme Court allows Trump to continue building White House ballroom",
-      "summary": "Supreme Court allows Trump to continue building White House ballroom CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDJsZVFGTlhVV1YzcEN4Q0FGdFpUb0xzUnBVS0ZWU1JLYXZzdnh0OENDLW56Z1lqUDBadkNYclA2SnUtd2lLWnl6NnBaNnd2Z0RNMWI1NWdUVk15R201dnl4c0p2b3h5Vzc0bURyR21QUkMyeG16T2JLUWc4bXZuc2VpQ2tTX0k?oc=5",
-      "published": "2026-08-31T20:03:24+00:00",
       "beats": [
         "Politics"
       ]
@@ -107,8 +168,8 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Lindsay Clancy defense attorney ‘nervous’ awaiting verdict",
-      "summary": "Lindsay Clancy defense attorney ‘nervous’ awaiting verdict NBC News",
+      "title": "Lindsay Clancy supporters have sent her enough letters to fill 3 boxes, lawyer says, as jury continues deliberating",
+      "summary": "Lindsay Clancy supporters have sent her enough letters to fill 3 boxes, lawyer says, as jury continues deliberating NBC News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDhVV0VuWGZQTHZCY1E3TVduZGtRLVFvRGpJM3E2b21hZ1BOdVBORkJCeFFSWVQ5S2hydDlIUms3bDNPVHVybzF6QVlXS2Q4M3MtSTRkdmNHTzE2MHRVME9ZU3oya0t1aU12Zi1KbkR4ZHFIcjhLLXh0TS1Zek56eUJ2alRRNzlzM25UZUZLWVpfQ0ZLVW9udTRkMC1GRnNqTGg0Nl9lSkV0cHFHXzAxU00za3c5ZGl6?oc=5",
       "published": "2026-08-31T19:55:05+00:00",
       "beats": [
@@ -120,8 +181,8 @@
       "source_feed": "CNN",
       "lane": "General",
       "title": "FTC sues Amazon, alleging it overcharged advertisers",
-      "summary": "FTC sues Amazon, alleging it overcharged advertisers CNN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWFsMF9TUXhSd0p5MDR6cHhwbzhMM1ZDVkdGZ1NiTlp4cmRDQ1JldkVZQ3ZpWHJoT2VibWEyTmlwbUFlN09GMjdDaUN3U1RqbzNRclAwVUtScFNuMkV4RlJxYmRlREozMjAyaW5RRDFmcllTdnZhbGtUcmJDaXFZMl9JTExLaG1wQ2pMQjh0cXB1SjU1MFZZNVB0cVhfcy1RQTBQQmVIMWhiWmUwQ2ZF?oc=5",
+      "summary": "FTC sues Amazon, alleging it overcharged advertisers cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLTXBWUDVyaXFnR1c0LUh4M25EYXFzUGVoYlRPYWQyZjF5alVSd2ZoaDZFcVdGaDhvRjk4d0wwRmhRSTktbzBXWER5eFJOZkMtT2tRay1qMldfRk1CM0cwTkxHa2psbzEtM1E2M29ERzlocWZS?oc=5",
       "published": "2026-08-31T19:39:49+00:00",
       "beats": [
         "Politics"
@@ -131,8 +192,8 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Lionel Messi retires from Argentina international duty: ‘A decision that hurts my soul’",
-      "summary": "Lionel Messi retires from Argentina international duty: ‘A decision that hurts my soul’ The New York Times",
+      "title": "Lionel Messi retires from Argentina international duty: ‘A decision that hurts my soul’ - The Athletic",
+      "summary": "Lionel Messi retires from Argentina international duty: ‘A decision that hurts my soul’ - The Athletic The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1NIeVh4b3psSlJUR2ZGeHkxSWkwTXBhRTFVQW91RGxFTnNhZG82MmxzQmZCNHNPcDRxNnNqNkplTTEwV3ZYMnlaWnVCYnlwN2g1aE93OG81NHJocUdIUF9OVGN1RlpBZFlHS296UjFfdFU1eDFpUTZ3YXV6TWlTLUtPNkYxVlYwc2VraEJzRTF6LTA?oc=5",
       "published": "2026-08-31T19:38:40+00:00",
       "beats": [
@@ -140,27 +201,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
-      "summary": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ROFNUUm1rY1lac2ZVa1phZktOV2M3TC1SVHFPZThBVnN0QkJkaEs2bVQ4V0JWODByMW5TdmwxLVNDb2NtXzZPeDZZc19Ia0h3U2RjNEdjTEhqbFNYRTRuRnRmYkJDeU5TME9PNG5JV3F4VGNMTkHSAXtBVV95cUxOaHZCOUtTbzZRRzlqZUY1V0xKak9TR2JaMWhNcDNIanBocUxuOWhqXzdMck05ZlpsdEJIUHBNSktKVUpBUjlkWnBnQkFQekh5WktDakdkSmMzSC1PN3BZakU3MHpBYXJRVFlWcU1rbUg0QTlSRXNFNU1ESnc?oc=5",
-      "published": "2026-08-31T18:41:05+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump’s HHS built a survey linking trans acceptance to violence. Its authors undercut the conclusions",
+      "summary": "Trump’s HHS built a survey linking trans acceptance to violence. Its authors undercut the conclusions advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWh0aE9lVnNyN3F3aFNzelpEcjVxVzJZVjYzbWNManBuR29DNjZuVjBaR1NYY0pEUk1EYTFWQi1nclZXcXltTUtITUp2YzJrXzlqVDlFV3pHOXA3ckZKY0RQTHJ6RjJHZ3p0ZnRKVm1kTm91RVJMb0hLWW9LdF9WVGpkQllCdDg?oc=5",
+      "published": "2026-08-31T19:16:50+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exclusive: DHS plans to launch voter fraud investigation surge Tuesday",
-      "summary": "Exclusive: DHS plans to launch voter fraud investigation surge Tuesday CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHo4bm1vSWRXbWdDcVZYcFNiR1VFX3ZnR2dkcnZ3cTVkZEZwdVdwd0hSQnZGTEhnSlZxM3hSV1dyd0lvUU8zUURwVHl0QWhmZTRrSTBqOGczVmR2eUdvWlg5eEsyb2ZNbENXUGpFVnZNUDNSOGRtUW1SaDJ1V05PV212OWFYMWN4cVJWcQ?oc=5",
-      "published": "2026-08-31T18:22:44+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -177,25 +226,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
-      "summary": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most NPR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFpFdVpHbXk2REpORDBZcEIwak02UDhfRkVDTjhlY1ktMDZsSkJuazZVQThIZ2JCUE95d2dOSUtvdHl4ZGl5TmdlaWV0bGNQSDNXWC1NTmhtSGRxcXA4MXZucXhCeF96NmJZdGRicmhzS09vdERtc0h4TjlwT0tXdGdNUk1GUWNhdkpoYTZta1NCdFdHUjd4cVlSZlBKUHlpQmtB?oc=5",
-      "published": "2026-08-31T17:06:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-      "summary": "Lionel Messi says he's retiring from playing internationally for Argentina NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEw5Sk9uU1lfNk52dGFXTlp4dkF2MWo0LVozVXJyVk51OFNUaVVOUFZZYjJWSHE2WUw0Z0RCSVN0dFN0WlBjTXhhY1JrNHpoRnB3TE12U3EzSzNhOW5jcjZFWDdRWFRLZ3hMb0VyZldETExUZUt1T2xac2tqNURGeDN0SGxpTnNfNDhlSk9ETQ?oc=5",
-      "published": "2026-08-31T16:37:05+00:00",
+      "title": "Justice Department issues subpoena to Comey ally in new leak investigation",
+      "summary": "Justice Department issues subpoena to Comey ally in new leak investigation cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFlIS3A4Z2hPaXhyRENBWnZLUmlybmdJdkVXeEk4bDc2eERKX0lXRmZfeUVvTVgyM2poZHI4RjdDdUI0US1mZGljMVhDT0RFeFpldGFrTVllWG9kNHhyTjlXbEVmcjRlTTljQWZBRDcxUGRJMFNBZFZNMFZLSEVqcmt5VUZFSXlPRFI3LVdKRlM3QQ?oc=5",
+      "published": "2026-08-31T17:00:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -225,18 +262,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Lindsay Clancy murder trial jury leaves for day without verdict as deliberations pass 17 hours",
-      "summary": "Lindsay Clancy murder trial jury leaves for day without verdict as deliberations pass 17 hours CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TNEpVRXJUYU5TUE1GbUd1ZzRqcXlkVzJJZEhWcmNRZlB1akMtcjNOZ3hrSy1NYWNjX2JzYmJKSWdNTS14ZjFzdFdkT0lrZnpwSUx6Vkc3V1owdkRlX1FCVkhfdEpUbDVtbktfY1Z4TzhUN1dqbUE3cHdUWnM?oc=5",
-      "published": "2026-08-31T13:24:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -256,6 +281,18 @@
       "summary": "Week In Review: Apprenticeships take prospective teachers to school K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BYWNiaGREd25kc3dZUlU2c3RGQzdvNTBwdUkwRFRKZzVZNnhjY0JpUGlfb3NfdWNieXQtLW9weldNcmVIWlN2cEpXTTkwSzFhSWZ0VGhVNVp5SFpDTnVfV1pjbHhuVFhSYURXQW1hLUhkZVJC?oc=5",
       "published": "2026-08-31T12:24:35+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Fresno Unified expanded free swim lessons, but many spots went unfilled. Here’s why",
+      "summary": "Fresno Unified expanded free swim lessons, but many spots went unfilled. Here’s why EdSource",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YdGJnRXplREVxYW9UUHR1TDl6bU5sZ1JjZlNzb3NSZDFyVk9PSkVRd2dXaGZXd1BFQndfNHRiSV9OZzl1dkNTc2V6aHgxRkJ2SGZ6Z3Q2ZEZDZWRzZHJtWmdHZXhtME1RVG1WTUR1N0lxenc?oc=5",
+      "published": "2026-08-31T10:07:48+00:00",
       "beats": [
         "Schools"
       ]
@@ -342,42 +379,6 @@
       "published": "2026-08-30T17:00:00+00:00",
       "beats": [
         "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Andy Cohen responds to reports he was drunk on the red carpet: “Completely sober, just completely awkward!”",
-      "summary": "Andy Cohen responds to reports he was drunk on the red carpet: “Completely sober, just completely awkward!” Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2h5d2hrb0NuRWxGYVZoSUtJMXJaM0VwYVczdmhqZzd2NHRhWmR2eU5ONVBQVzJnOTB6R2ViX3Q5eEVYRm9iNHVTLVdrOUllQldlNlBOeTJ2bHdWZDdhdXJ1UjVyWTFaVGZYeEVJU3NhQnpYZFl6U09QX2F3Y2ZYdUV3QWw1b0JmdHV5UmhpSmJ5RlExZ1hpa2VVbmZMOGlyUWF3VGtObklNYWcwRTZKOTd1SE9Cc2plNWFNYjFZbXBPVUY4alI5V2tn?oc=5",
-      "published": "2026-08-30T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Legislative leaders decline to intervene in Sacramento City Unified oversight dispute",
-      "summary": "UPDATE: Legislative leaders decline to intervene in Sacramento City Unified oversight dispute EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXpvVHdZM1dxMkVaaDRvUE02Y1F6UXljRG9LVEF0TmxxZzNMT295dTBGdWpwX09CYzQxVjZfWjZxZ0piVy05ZWVhWDhtX1UtY1ItRXpPcVhCMEdVZjhRcExpS1VPQlpvZ1ExclJ3d0dDR0F2UE9yLVNlNjdoRkFjSVI1UmxJdkxlcUltbmdVT0Vwc0dxUGRRT21XVU5jVVBUNEZuaTE5ZmRvWFk?oc=5",
-      "published": "2026-08-30T16:27:36+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "What happens when you’re in a queer relationship… with your straight bestie?",
-      "summary": "What happens when you’re in a queer relationship… with your straight bestie? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkdlTkZmTF9uSDhOS3lya2ZkUVZDSHdsdUJjR3gxRk4zWG5uZGFXeFJBMXZKUWZuaVByZmtxcTlGT0R1Y1ZBNm05OGVvOHctbU12dWo3a2Q2a3NJcXZtdHNwUl8tV1VFWlhHMUxaUlNBV1lhNlM1UzFPQTNaQTR2dFZoV0tpSnhXYTYzMnNnbnBqckQweVlicjZ1RkUyZjBOY244bkZXSk9PbWs?oc=5",
-      "published": "2026-08-30T15:00:00+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     }
