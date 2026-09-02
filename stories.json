@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T03:26:47.792233+00:00",
+  "updated_at": "2026-09-02T08:05:43.038991+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+      "summary": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation NPR",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43OVI4c2VSUGlEY214Y0VQQlB0ZnFsdjN2WG54LWtUTW02SGRsdkt4d1U4LU52UzFWb3lZWGlfZTctVE13SDNJRkhWVnpxRldOcjNTZWtncXlqejgtR213QlBOU2g?oc=5",
+      "published": "2026-09-02T06:15:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Markets trapped in Iran doom loop",
+      "summary": "CNBC Daily Open: Markets trapped in Iran doom loop cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9adXJoZ0FDVDJTeVdhNXlGOUNuYjNNWm5NTUtJSXQ3X2hNWXNENUpjUkJGUDdOemFoM0E0S0lBM2tKMHVTQl85MEdMM1ZqOW50cDlTTmdfQV8tVDJvbkhTNnB2cEphankyeFQ0?oc=5",
+      "published": "2026-09-02T05:45:47+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Americans hate both ‘Lake America’ and Trump’s trade war with Canada",
+      "summary": "Americans hate both ‘Lake America’ and Trump’s trade war with Canada CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Jc2t2SmFjdG1UY01jSEo3NkpNNEE5Qk1GRnBiTDBrUnp3U19xZHluN0wwOGM2ZEo3dnRVdEJpb1ZqV3VYUXgyUEtpeUVRb19qbU1YT0ZtR21TUXNfaDJvUUFkYTNOVlItOThIV3I5UTlCSzczUkJYdDZUTQ?oc=5",
+      "published": "2026-09-02T04:00:29+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -35,22 +71,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: Groundhog Day in the Gulf",
-      "summary": "CNBC Daily Open: Groundhog Day in the Gulf CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVpxaEFpd2NJT3F4Q1VDSDRiQlBKM1FjclItQ1RXMnhyUUd5aVZHdGpCdWRrakh5RTc1MkMxQkcwaVI3dnlGY2Eta3ZWZlRrLUVUXzdWTW1hS3NkUE85ZkpJZnU5Zzg3SmhJOVFGRVBUclZFZnBCOGFRMkhpak1EZmtET1EyTUowQ0E4R2xZVGVxMUFMTjlDMEtUTXRJN3fSAaQBQVVfeXFMT1doM3NCcUIzVFVOazhXQUhVbnJ3QTR5Y0EtWl8xaXBTaWhmVXBsX1NxaEltUGNjOXlicV91c1Z6WE5MREpnUmk0dWRTM3hXMXFwUGQzY3liUlh4Rjl3cGhLZjNpSnJZcFE0bl85M0xCOFFDNUI3VHJ2dnhfWXFEdldnU1o2UHgtU2I0RTR5ckJJZXRpdnNRNnRncnFNMnVIV0xHbEc?oc=5",
-      "published": "2026-09-02T01:57:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Aircraft carrier USS Abraham Lincoln arrives in Thailand after months of combat in Middle East",
-      "summary": "Aircraft carrier USS Abraham Lincoln arrives in Thailand after months of combat in Middle East CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0dseGJQb3Z2c3FjeXNyVGJLMTZrTGhaSDBMZlQtdlhKWlp3Zzk1SVJYR3RWU3RyY0JFaHRnTlRrLVJxNkNSMTA3ZjJLMWFVaV8xNGpXRmNkVzlrSGFEdm40cmtfOVdyS3ZpTXBhTFVJeFFHMDJWZUs0Q3lHMmxKTVpiSENpN0l6ZGdPWV9NM1o2RjBQaGc?oc=5",
-      "published": "2026-09-02T01:02:00+00:00",
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+      "summary": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFpkVzJhSEhqNlBNMnNDdEJKdHFoaFhaQlBPUU9lSE1WWFBxcGs4eHlXeWh6SEFmNnRkY2dvbFN5eHhLQS1fNUt2MVlONjBkNzBRQ1ZieHN5ZzVMd0ktQWUzRHNoQ0dBOEFDTmVaa1gwTG1TbUVhNzZwQnRSS3NPU0dLdDkzeXVD0gGOAUFVX3lxTE16RHFxR29aLU5LTDlSSFRadW5zejBmcWkxVXlGRGowcGpXYTA1b2xGZzREMGhEdVJrRW0wMkpxMG5oejZTaFg0c3RnLUw2c1V4Sm00TXdHNjVsSXhTVFhLZjg2c2NJWUExVGJjeWwydXZ5Tlo5M3Z3RV9VdFZyQVd6S1RaZi04YUgzSFNtTmc?oc=5",
+      "published": "2026-09-02T00:42:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,12 +95,24 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Live results: Massachusetts Sen. Ed Markey will defeat Rep. Seth Moulton in Democratic primary, CNN projects",
-      "summary": "Live results: Massachusetts Sen. Ed Markey will defeat Rep. Seth Moulton in Democratic primary, CNN projects CNN",
+      "title": "Markey fends off generational challenge and other Massachusetts primary takeaways",
+      "summary": "Markey fends off generational challenge and other Massachusetts primary takeaways CNN",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jczBxUGt6aUxELVZSUENoTEUyOTRUR2xfQUNUZDBteldwZFpScTVIVmJkanVhbXFFUXZrdi1wNFNCRnEtY1JVeU90cnVDNnBkeVNMeThRM081cC03M2VFTFZJUVB4Y1cybGM4VzBlelc4Q3VsaVNEcQ?oc=5",
       "published": "2026-09-02T00:33:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "summary": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNW1KTnpvMXFBWjZzMFlqYjEwNWFsM2dWcXJrbDdJUkVFY0JiVk9BTERmZTlNWkNuNDlIa0k3aDRqVjZJbTM4X29LQm5YdTBucUd4MEMwRWZwY1dhRUozMVAzT0lTLVUzaHRobnRTVGJqTWVscHhYZ1czQ2hzeWhmd3ZCRdIBiAFBVV95cUxNeXlXMTVEMHcxYzJhRzl1X2Q4Qmc2dGl3SVJlMTAzWVNmcDNUazZfTjBzclRRNjlMVUtva1ROUUJYSFlYWG55ZWx4NVJfVnBOSjY1XzFPZVh4MFFMNVpROWRKeWhraW5HS3BxSmJ4Nk43eU5rVjM4YkZiaUdSSXdrNEtjQ0pwM3hN?oc=5",
+      "published": "2026-09-01T23:33:42+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -92,29 +128,29 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "House censures Rep. Chuck Edwards over \"inappropriate conduct\" toward aides",
+      "summary": "House censures Rep. Chuck Edwards over \"inappropriate conduct\" toward aides CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTG5lcldWdzY2TF9BVktObnVyQ255ajNDcWxMNnRBWDIzQ2tZU1pNWVNXMXF4b01LYnlLeXdObm5nc1QzT09PRVpwc3p2b2RVWEhkdjY3d0pEWU1lOU9YcHFRR0VqR042cVpHbzU3aFpNZUp0RWw1UGdiOVU3Y0RaRC1PWE14MTg?oc=5",
+      "published": "2026-09-01T22:17:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Districts buckle on LGBTQ+ policies under Trump administration pressure",
-      "summary": "Districts buckle on LGBTQ+ policies under Trump administration pressure K-12 Dive",
+      "summary": "Districts buckle on LGBTQ+ policies under Trump administration pressure k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0JyQVdrenYtdkI4cHBSX3h2aHV2eFRBUGRldEwtVWdQT01IRnV3X3Nic0FoVl9YR2I5RHByWVYzb041MDJ1UlhySG9LNUFUcWh4aHlqQU5OR1c2QnMzSVBTVVVsRDR6emU5clpqb3BPRGNHWFRSV3BKUXhBekxVQmpFZ1pPalpGSG5fcHEtTEVUbkNIWHRVSlRPUDB1Z2h3aHdxeFBpQ1dsdkU?oc=5",
       "published": "2026-09-01T21:30:55+00:00",
       "beats": [
         "Politics",
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
-      "summary": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KRHFOaklhYjgyZ0lwbDMxbS05U2t0R3BmN29XeUp2bXF4VGVwY3AxQjl0blUtQTRGZ1NfNVkxWjRNQTE3ZFJmMFBVZ2xIVVltamhNSllScHY5Y0xmNVdDTkJrb0VLUWlKRHFOWHl3?oc=5",
-      "published": "2026-09-01T21:06:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -130,42 +166,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-      "summary": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5",
-      "published": "2026-09-01T20:10:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-      "summary": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51VnZVMGZaX0JwQ0dVOHV2SXJkMDhob2Nja3RLQXBCWTlBLWN5X1VXNlZPdGpxYUF2RFJoaXI0czFnV0lSSHdhRVZqT1RMRjJ5Y25TczVvM01wVndnNktuU1JVemd5OFYxRWhsbGdzemNINnfSAXhBVV95cUxQejhobUpIOURGX2Zaakd1M3FMZmNzbHY0VEJHY2pybkFMOHZNOG53RlNyb3czSHd3WXBKWWtwYmFJc0QweEw3d0pnLVhGTGtuT1hXdVZ0MFhUUGxsQWRybzN0bG90SlV1SVZlZUw4ekdXS01CbjJWZjU?oc=5",
-      "published": "2026-09-01T20:07:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Lindsay Clancy judge tells deadlocked jurors to return for fifth day of deliberations",
-      "summary": "Lindsay Clancy judge tells deadlocked jurors to return for fifth day of deliberations NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkM4T19SU29UamQ2OFE3R2FkRXZzMlpVWERTYkJQbko1RHcyQVhqTFlpR0JaMzE2TERPQi1jdlROUHJvN19XZk5YU21pYjI5Q1dSTXhLTUhJYTY1VFZzNUVWUmppTi1hcHJSXzhKZGhsSlpodEtwOUZ6bEd4QjdMOU16ZUZhTjNOb0FDWnZnUlhpLVNuQ0llSkV1VVJEUWkzRkQwUzQyQ3daOTdiUzFOcWc3aWQ?oc=5",
-      "published": "2026-09-01T20:07:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -175,6 +175,18 @@
       "published": "2026-09-01T19:28:14+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Schools Caught Flat-Footed After Google Makes Gemini Chatbot Available to All Students",
+      "summary": "Schools Caught Flat-Footed After Google Makes Gemini Chatbot Available to All Students Education Week",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGJKOVpCWTl2bFdHMHlkQmtTNmlSOHRMb2k3clNpbW5fNTZXTDBiZEhQNm01ZkRGQXV5MnBQd2FfQjN3WGVWUVBJbWw2b29BNVFNQzhxWFB2U3BRRHdveFlUZVNERHhJZXpfeTg1dXRMUFBIM2JkUFFUMWR0ZlJLUEJrUzVLZnloNDh1eDZQaEJzbWZLWnF4WlBYWWR6eUs0UDl1UkJYbm9yMkxwRUxoMUcwcGdPSl9JZ1RfWTdlUEtHMEZ0NW1J?oc=5",
+      "published": "2026-09-01T19:10:11+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -190,13 +202,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Congress averts a government shutdown ahead of the midterms",
-      "summary": "Congress averts a government shutdown ahead of the midterms NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNRUVvaVJVZ0dKS1Rjdkc2T09mNHhZN2dTVnpqMG1wcS1oSU5zS1czYjJ0WW0wSFlOYTF2SV9ZTUxQZmRPdHVzU0Jua0JGYm9UZjZCay1RVTZ0UjZFOTZiOHkxaVRtMnlnUFl3UVRXRG9jX0tONXNNNHR1TXBweW9la2RkY2ItOU04?oc=5",
-      "published": "2026-09-01T18:06:33+00:00",
+      "title": "Side of slop? Bizarre AI food images jump from online to IRL menus",
+      "summary": "Side of slop? Bizarre AI food images jump from online to IRL menus NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWF96Zm5BMFFSb0RjTURFWFZTc1VhU0JrUmJ0c3dKSmg4RHE4Zk5TRUNDR3EyclkyUnBzQm1JeWx6aW1RQ1JhZE4wRUtpVDR0LVJkN3FoU3EtXzhlRXRfTFdnUmZtTFBrMXFuMUJYVU5xalplSGc1TUIyOU1QUnF2Wk5JeWNHbEFhSmRrM0FzVTdfMTQ4UGlQQnhSU1U1YmlaeUJJYTB4bw?oc=5",
+      "published": "2026-09-01T18:00:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -227,27 +239,39 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "WATCH: A century of queer history takes center stage in Netflix’s Oscar contender La Bola Negra",
+      "summary": "WATCH: A century of queer history takes center stage in Netflix’s Oscar contender La Bola Negra Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDVEQldmRlR2OTQtU21Xa1ZxajFxZHhzOG9fZDVZcVBxcTFJNjdtRW5xTTBZdlQ2SkJ1bko3NmJCY21zaWw4Q0VGMW80TjJna0NKLThNWXNBelFIaTVnUnRveE1EckVoc2h3c2wxQ0U5LTZVdXoxZURGQXRJdnQ4MWFmNl9ocFRRYVJIZUFhQkIzMWY3NUltbWxPc2xGTkozNW9LT2FNOFlPQUZlVDI0eDJxdEdaaXV0UTdrMjVoOXpiVFAwZkE?oc=5",
+      "published": "2026-09-01T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Apple’s new CEO, John Ternus, takes over from Tim Cook after 15 years",
+      "summary": "Apple’s new CEO, John Ternus, takes over from Tim Cook after 15 years NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHEwWG5Nam00WGZkcHo0SFQ0Zl9TTWhNT1ZCU0hISjlxeW5Mb0xoOXhoNVlBZXBWd3dkUTNtdzU2N1NkV2UzS19idmwtQVg2NDVpU0hCalF0U3JBeXNpSS1veC1pbEs4OE9OcUpubE0ydmNEdHZpbVg5ZjJkcjZXN0lyUTZmbG9vQ3FiSURFVDlxTlNidFVBNW10aUZjN0tMcFE?oc=5",
+      "published": "2026-09-01T14:09:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "USDA urged to report how SNAP cuts impact free school meals",
-      "summary": "USDA urged to report how SNAP cuts impact free school meals K-12 Dive",
+      "summary": "USDA urged to report how SNAP cuts impact free school meals k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjFzOWhVQlhSYXk0LUVIOWowcFhKWkVQQnlmMlNkVWloZ3VHdk5YTTN1OHVlN2xHU3ExNV9lVzJDLUhCQzRNanl5YXVTQjVESHhKbnpBX3lEVzVTdDRhZjdUejM5b1cwbFRFcHNyLTM2b1R4aFRlaXdSZUZlMEJiZC1YWE5aVzFZNkJwTndrYVF5bGJmY3pUSFluNnU?oc=5",
       "published": "2026-09-01T13:20:17+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Lindsay Clancy trial jury \"unable to come to a unanimous decision,\" dismissed for day without verdict",
-      "summary": "Lindsay Clancy trial jury \"unable to come to a unanimous decision,\" dismissed for day without verdict CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUcya0c4eFcxS3g3a1dqMDZSemFZbzdxbVQ2eDRRc2MxTnBPdUdCOGV3TFU5WVVaM0JTY0QtWndGeExIcW81VTBGUkhmc1pmUHlrcWYxYU5USjV3emVDNWo5YzJ0S0tSTGVFLVBCNW9ycXVmdXhBYjJrcE5YUTVvY1JWX1pKNHVDb19DWA?oc=5",
-      "published": "2026-09-01T12:42:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -266,10 +290,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | The U.S. Military Must Learn to Say No to Trump",
-      "summary": "Opinion | The U.S. Military Must Learn to Say No to Trump The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94LWczczNSbVZyVGNZSC1UV3EwY0QzQ1EzOHVFM2Ziem5TMFMyQVh5MXpYTHpUZzR0R0s0Q1JZYUpkbkFlUEowbkRfS0tZZWRHN2xFX3lqT2VpbHZmN0h6WV9RWHplWTZNdFUxM21GNFd2Y05WbHRaWTBpTE4?oc=5",
-      "published": "2026-09-01T09:02:45+00:00",
+      "title": "Opinion | Democrats Need to Embrace Big-Tent Populism",
+      "summary": "Opinion | Democrats Need to Embrace Big-Tent Populism The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1poVU41ZTJqSHVYMS1FdzExTy1VNVBCZHJnVmZ2MkhhV05nU0xONEZuM2NnWG9OWkV4SzI2R0Q3dnMyVDA4ZWlXeTI2XzhqcVdvOEIyb0V4cXQ1ZHpWN3R3bTJBaXM4SFByMHRnTnZBS2VzeHJEbUo0VWI0RG9ydg?oc=5",
+      "published": "2026-09-01T09:02:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -284,18 +308,6 @@
       "published": "2026-09-01T07:07:52+00:00",
       "beats": [
         "Business",
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "How One District Built Behavioral Capacity & Improved Stability",
-      "summary": "How One District Built Behavioral Capacity & Improved Stability Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1sZndkbmpJNG50M1pFWlNCMmVVVnBpTTFlOUJrYU42UVNiM2dLSWVrcC1PSDhfSGo2aHYxQkVTcUE5Z3RabWpfZ2lOM3pOX2p5MGtSd2pQOTJlWF9OOVBpbU9Zdnd4QlVxdmlRNEhCUm02OU9MMEtyMVNjQ2NLczc1d1lmN0JaZ0VJQ3RZbUdlQzJidnNmbGxRWHZVeVF5T2k5OUl3SQ?oc=5",
-      "published": "2026-09-01T04:05:40+00:00",
-      "beats": [
         "Schools"
       ]
     },
@@ -348,24 +360,12 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Her son fed goats at a petting zoo. Now he has to get rabies shots.",
-      "summary": "Her son fed goats at a petting zoo. Now he has to get rabies shots. NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTBLNFBYTHJjd0lnWnZ3ZzMxMTV1V1hRZFdOYldLbVRWYlZva2FRaDBmQUo4T2dsNG1rQndmXzk3cjcxMG1XdEJBa1MzcHVRNjNLQVNYZk9xM0RYRHhNRWxvMDJQQkNwT0dPVWNXN0RqSG05NmRWRjBCLTAtUFV5dHJpQlExMndkWkp0NGNBb25oTS1CR1JEaXpMNFJsazlOTUE?oc=5",
-      "published": "2026-08-31T21:22:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "\"I came out six times this week\": Viral post highlights the exhausting daily reality of being gay",
-      "summary": "\"I came out six times this week\": Viral post highlights the exhausting daily reality of being gay Queerty",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckJhSTRxOTNQZ1p3YXR6a2kxNmZDMUxSaFI3bjdtOWFKYWNkdjNxVVR4VXVObl9XanMwVTVXXzVuOHlld3BBWXlKaDZfZFdRMkpLUWtqcHNRVXdiTEdrYjR1ZHYwZDRzd2t6ZExZZ3dpS1d6TU1JUkhrZjNpVTlETDFqUGU3WXk0THFGRWtoVHhSa0NXZVFTdEYwVjA5Q2VjQ21rTU5ycGE4QmxvdmdTRm1LNk5ydmJiVzdEbDlzeHhFVlo1cm1R?oc=5",
+      "title": "Trump’s State Department mocks trans people in post about “deadnaming” Lake Ontario",
+      "summary": "Trump’s State Department mocks trans people in post about “deadnaming” Lake Ontario LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkdqUS16S01LT3Byd0NMRHlva1o5NWdFVDNQczhFVFVwM19BR2pQNFRaUVp3VDVWNjdHcm8wNDJqZWxuU0lWRnBKb05uUUZjaUNYZUxGMmp3ZldwWThXSGtpZjdhOGF6SEFjWTFZTW9zRFVDS252bmNzQWF5Sm95NGF0dWFXZGFsaWVfd2lfeHFoQ3drMkQtYTdOS2NOUGp4UUYyTzNQTDZ4WlhmUU84RHVVemFON05X?oc=5",
       "published": "2026-08-31T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
