@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T10:50:42.728710+00:00",
+  "updated_at": "2026-09-03T14:54:19.828368+00:00",
   "lookback_hours": 72,
-  "story_count": 30,
+  "story_count": 21,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -20,25 +20,37 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
-      "summary": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90aUdnWGFYbGV4dEV0SlZYbWExY1p5Ym5BWDk5dzBZZk5ERUZ4aGhNNGJMNjBVY0tXS3VyblkyaEN0cFVSTHpwTjk5Q19vMHpjdVZPU0pkUGp5cWpVYzRPREU0LXpnWmRyY1JMNGNCaGY2TzFIMDlKclhKLVdNM0HSAYQBQVVfeXFMT3dDVWtUX3NBc1lJRXNOOGZGS0NxQ1UzYWlwWllHa3hFQWhIUEJyZWdoZ1paQ09oVUtQaG5VdGhCQ3ZMREZ2aWlkSTc4TGFJRUFBSVFtbDVsdTFPd1pHWF9rUDhfS2RsTkVFanU2aE8zTURkODhCUWtWaUlPWmxzdmZ6MWIz?oc=5",
-      "published": "2026-09-03T09:29:04+00:00",
+      "title": "Billionaire investor Leon Black sues and declines to testify in House committee’s Epstein investigation",
+      "summary": "Billionaire investor Leon Black sues and declines to testify in House committee’s Epstein investigation CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXpMYnJIUURQLXBPcXlCbjQ0RTZSS2U5eUlmMTNDNE1xWGhwN0dONFVNeFFlamE5R3FCcjRIWVZ1SXYwREdGRXI4X0ZZOVVsU2prZTJZQ1lVSjJDS0ZjOXdVcWwtdExvSzRRNEpHa2tSM0oxM28xbC1kQ2xNQlJGVXVxazdlWlU?oc=5",
+      "published": "2026-09-03T13:22:06+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "3 dead, including suspect, in Minneapolis apartment building shooting",
-      "summary": "3 dead, including suspect, in Minneapolis apartment building shooting NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1JWcUQxTThOMV92UWYyTVV2TVZtei1jUXdPaDEtdi15bDRQWjkxYmZUM3lBaURveXVmaUxvbG5ZMFp3OEk5bVJzSFBNZ0JkZzg0TUpUSFM2WElvcTd2WFlobGt6bDR3YU9QbFRwVzJIM3owVmM2aHYzdTl3X25HaWxQaTFwcTRFU28wUVFtX3JlbU0?oc=5",
-      "published": "2026-09-03T09:19:00+00:00",
+      "title": "Lutnick apologizes for asserting that there ‘haven’t been American deaths’ from the Iran war",
+      "summary": "Lutnick apologizes for asserting that there ‘haven’t been American deaths’ from the Iran war CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MWDZ0VmdvYkg0cVBKV3hITW5FcUdkaFhTMzJ6UG9DZVJMbW1KS1prTi1XNG5heGFmdUVzenFwSmNjelBTWW9IMG4yMFFtaG94UmVxYUdaVzVKeE5UeHVjRVlhR1FRck51VkYzOHVoLUY3YzVCd1E4UzNoa1BVZw?oc=5",
+      "published": "2026-09-03T13:18:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI",
+      "summary": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGbmlldUxDS3BrSWVDUHFYb3dBOC1QeVZ6U081YlozYkNPcUpCcTJpblh0bEJkbFpfT2NjSkY1OWxyalZBQjdCZzdYODJBVkc0a1hHdkE4Nl9SMTlMWEVWTVY2YUNGVHU4LWZvYXpxcng3QTR2Tmkzd1ln?oc=5",
+      "published": "2026-09-03T13:07:50+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,32 +59,80 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
-      "summary": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless' cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQVVwOVQ1eVI0dHRTbV9UOGwxeVRHOVJLSVJkUjJiWUtSbVRPZ19VTGFjREt6cDV2V1BGajdtM2I3VWlOcVllYmNXR1BHNUswZUVkamlDWjNxSVUtMjNVb09uT1VPcFQyUl9id0FTNFRnOTRiR3Y4dERKM01DaWI2NXpn?oc=5",
-      "published": "2026-09-03T09:09:09+00:00",
+      "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
+      "summary": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamF4bUM2WnVjWHBFZHM1Qk5JNWRGMjJUOUFjb0FqaFhDVFhzNUU4VUFuel9IYVU2ckRCbDZTZjNJNXA4TkNNTXNFWlNoVldqVWZWNl9BNTVkWURqUmRab09uZkZEQ3NiOVhHRWVxTVFLYUtLTXNtVFliNkxxb29wVGNETnFTQV9EWWJvUHpJOC1PdGJpOFk40gGcAUFVX3lxTE5hT3o3NFZ0YjdEbW1UWnNPc19YbDhNYURRNzZjWE5DX3RjRE9RRF83QkZaUGZ3b2JDZWNyYVNtMnRfbmlQb1lxcG9peEx6MlV2cnJnb2c3QXFVNThYRDJGNGtLaDByRnFiY1ZIWXVZOVNvTU9lb0d1Q09NcDdSc3JxY0pfZDBXbEVna0w4SkZVZ0RuREtVV0xwOENERg?oc=5",
+      "published": "2026-09-03T13:05:59+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
-      "summary": "As millions of kids lose SNAP food benefits, free school meals are also at risk NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWs0czVPNERLdlhtZkZCd2JlNUx6ekJFMU53VG5abUFBWEJnNmc1T3RTYVE0Rnp3azUybi1SY2VzRWRVSWZVYl9BaGxmcFowN0VYOUY1aDkxQ3lGSFd4eHlnSEFZc1FvNlFITlBfZkFGN1BUZnhhUmgyNk1Tb1dBeDROdw?oc=5",
-      "published": "2026-09-03T09:00:00+00:00",
+      "title": "Portland Public Schools ponders up to 18 school closures",
+      "summary": "Portland Public Schools ponders up to 18 school closures K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVk1ekNFUHlRSmFrZktXYUY2V2xQTTFUT1pFdTc1ZUs0bkRrTURWQWdUbFFhNFJxTkI0UzNsazVwX011Q0lQd1FUVnhMTXlxaF9SUGd2VzJFLXVnVzh6VWszaFNzd2h1emhzMFNQN2pLVXpGNE93UF9kQVNXcUR3bnFoejJJckhqS1FUTXRuUFoyczFtS041cQ?oc=5",
+      "published": "2026-09-03T12:56:15+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+      "summary": "Fed Governor Waller indicates he will support holding rates steady at September meeting CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
+      "published": "2026-09-03T12:30:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "summary": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5",
+      "published": "2026-09-03T12:04:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "He tried to eliminate FEMA. Now he says the Trump administration has changed course",
-      "summary": "He tried to eliminate FEMA. Now he says the Trump administration has changed course NPR",
+      "title": "Gloria Steinem, trailblazing journalist and activist, dies at 92",
+      "summary": "Gloria Steinem, trailblazing journalist and activist, dies at 92 NPR",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1od3lvb2lvVDBlTW0xR1VDU3hDT29ubkUwY3k3VU1nbTh2SGIxZ1pRX2lWOUhZTzRmdHhyVUVBWS0zVlAtSTRFUWxYWWRWNUVqMXkycEZtVkpIX1Z0R1ZBRVNId1FxTDRPNWJ1MGZXSjRBZw?oc=5",
+      "published": "2026-09-03T11:14:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+      "summary": "Democrats demand Homeland Security officials fund election security ahead of midterms NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXFza19XS0FOVVFhNUVKLVRhU1pwZzVfRWJINUR6QmJvbkpjMUIzSzUtOGdOVFh5b19pN3BFem9Udy0xZkZ1WnI1X2NfTDFMWDBpVTVrdFVHcWsxa1NNaW5Pak9taGNWdV82X28tMGlZTmtPLWZlNzZfYWFMOWJXYWNfODZJNDA0cTVJRGVR?oc=5",
+      "published": "2026-09-03T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Inside the failed mission to eliminate FEMA",
+      "summary": "Inside the failed mission to eliminate FEMA NPR",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2V0QVVNellZM3JlQUlzcnJfeC1ORTVIUFNEeVVsZXQ0OHZWQVAyX0xsMjdfWUNfQ09MdHhuLXZPWmFSZl9wX2g0Zm9DN1ByZklGT0hCZ1EzcDloaHYycjJYblJfZVZqWEwyRDFXZVdoeXdtZnA1NlJETTJ1blBUM3lFYmxLZGhkTU9yUVluSWVZN2c?oc=5",
       "published": "2026-09-03T09:00:00+00:00",
       "beats": [
@@ -80,120 +140,11 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
-      "summary": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’ cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTJDQnNWZ3lSS3BzYjk3S0lpekxaZW1MMzRsVUZXWUxkeHh3SGVkUTR4U3d3X1RoN3hlTVFjMFRma1Mzd2ZUbWJBV2NOdldINDZoQ1IySS11NHJiUlNtX25VNGZXOVhtbUo5STZPMmJtd2J4bFptUVJ1cFFLTzV5eNIBhgFBVV95cUxQX0Q3Z2k0aTExLTdTSkpwTnhfUXlXS28zVmQzeTRvRU5EZG82UmVXWTdmdEtEX0dCQkw3Qnd1clhMX0x6OUpWcXlaQ2RneWk3YmFuVVVvcHFON3UwSEhsWGZZMGRQLWMxRFJ1X1hFUGJjWnhXTWR1TjRrRWpGX3BzSy0zMFoyZw?oc=5",
-      "published": "2026-09-03T07:12:34+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Mercury’s enduring mysteries are ready for an unprecedented close-up",
-      "summary": "Mercury’s enduring mysteries are ready for an unprecedented close-up CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSllJUmQtdEVHVEdIOXdJZ2ViMC1mQ3Uzdl9sSkxKZmNLR1pZZnIwWlcwMnhzd29hdHNud0RIR1NVV1l6YTJ4LUdTRkdHdjRVdnI4dlJuN1l6WkVuWjRlcUR3VnFYdXlHQjZRazF4WmdMVXByRV9sSnhTLVBweGRHWVlPUkk?oc=5",
-      "published": "2026-09-03T07:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
-      "summary": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds NPR",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUFZOWEhvTGw2M2lxbjZNYTJRV0FDNmtiN0tCSEp0U3pXbG5WREFXRTFWUjBvRENPanNJcUJIbEhwUFZkaW9uaEFfUFNaQ2JPOVpXb3d2bXo2aTRlRmhVZ1d2Z09PblhTOVpjLUNSVnJqQ3Z2cXBQLWpNOW82UWk5d1M1cDZvdW5fWHZ2R3h5OEZPdDZGVUV1NmFNVnBmRklTNkZMTGhGMHhoYjhId2VIQURKNlVyNURvVDhEZVUzc3RrVTFPMmpRZENQMEF6akFseDYtS2NfSQ?oc=5",
-      "published": "2026-09-03T06:39:19+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Rusty state of USS Abraham Lincoln after marathon deployment shocks observers",
-      "summary": "Rusty state of USS Abraham Lincoln after marathon deployment shocks observers CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRy1QS1dCUnJRQlA2bG1PVVkySGVnWkdNOVBnbk5zcW01ZUc5eFZsX3J1ZHJuT0taeEFtelY1T2ZUR1hVaGx2QzI5MkkyRXJic0dvM21XVHVhRVAwWVFienZHOTFtLUFsQmpKQlltQVFhamdBXzhtZE1OdWt3Q0NkY0w3U2haS3RUdkRuWXJ3?oc=5",
-      "published": "2026-09-03T04:15:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Mexican musician, pregnant wife, child and nanny killed in grisly shootings",
-      "summary": "Mexican musician, pregnant wife, child and nanny killed in grisly shootings CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFdvRkFyajRheHVDa2VBTlJxMm5Idmdick4xQ0xwS21MWWs2MnZZVjBsSUMxdlNPNUVKcTR1S2g0ZktVa0lOSlczSzQ2UXNHanJpOGhCOEVKdWhTVkNoeVhESjJmcGFyV0s5Y0hfZm9zVFVFaEh5d0RVbDhRbTlYcDE1RGxtSmd4TzNJOXFCSlN4X2swUUI4TmRiYw?oc=5",
-      "published": "2026-09-03T03:39:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Hundreds of teens swarm Colorado shopping center for so-called ‘takeover’",
-      "summary": "Hundreds of teens swarm Colorado shopping center for so-called ‘takeover’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTZfZlpEbFJXcjVRclp6UXdrd29ZamZLMmRDQ3IzN2VjbjM0U18tSWRhV0V3Z05SLWRpS3dzMzg0X2dEakdnUGxEYXJhV2hoazNjdHZTYmtCVFc0SjJiUm9TdXFNXzhfbGw4amJXbU5FRS1lRmZWTTg4d3ZvalR2STNyRHA4aGpiWGtaendHeEFQdzRhcjdhUXoxdHlNV3JaN0R4dzNfSGQ5QXRQYlV5YmJTa3I?oc=5",
-      "published": "2026-09-03T00:20:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Karen Read's attorney David Yannetti weighs in on potential of Lindsay Clancy mistrial",
-      "summary": "Karen Read's attorney David Yannetti weighs in on potential of Lindsay Clancy mistrial CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODBFWEZYSWxqNW8zZGJaNkJVUjRfN0FndmJtUThPRGVLRXFraGRfc1M0N1ZzbzhzMkwtYmstQm8wSWtvdmdnYkVLLUgwNGVoN0k0Y2F5VjRIX0pQcnBDRnZqbkphaTN5VE5oaGRlejZ1bTBXWUZMQVNpVS1qdnJGaC1tNkZaWVdUTjVvaUpSQzlmY0hlQkVwZUtQRWxyY2V0alppNFhRV0JaaEtZY19oVEhuRC1qX3YybUNkOEFKOUM?oc=5",
-      "published": "2026-09-02T22:41:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "NBA docks Clippers 5 first-round picks, levies $30 million fine after Kawhi Leonard probe",
-      "summary": "NBA docks Clippers 5 first-round picks, levies $30 million fine after Kawhi Leonard probe The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTVNoR2RLdHF4YjVhNlhkR3pRYnUzWVh2S3YzdEgwZzRtTEk3cVByTXJMNjUwV2tsSU5ZUjdVbExRV3pnUEdDNEpDNi1xSGZhUktsSXZEWFBHSW9zQlZnRllXRHpBT3lyQ29oU2tKVjRkU0R2cmFfLWFINXJwdThoUF8zWW95Z2VBX1M3NlVTWTU0NHlnMnZoV1dlMGp0RVZCYlhDUFhwRDNhcFFxZF9neGRpeVFNYkNjOTN2WmRB?oc=5",
-      "published": "2026-09-02T20:32:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "The 15 best universities in the U.S. for LGBTQ+ students",
-      "summary": "The 15 best universities in the U.S. for LGBTQ+ students Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2a05wM1NtRDFaWW5zenRUS3VSTXBualdabUZ3WHVtMFNpSmprVkNYZG85YmJpOFZCTkFFVnVvdTE0QkJHcU9hM2I4alpWTnZPOVhpbVpMYTBrMklpUURzN1lHSmNVUXBzellvTWxESk9jM3Vsc3hnSDNGUlo0QQ?oc=5",
-      "published": "2026-09-02T19:21:33+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "\"Find a new job\": OF creator gets mega backlash for shady gay comments",
-      "summary": "\"Find a new job\": OF creator gets mega backlash for shady gay comments queerty.com",
+      "summary": "\"Find a new job\": OF creator gets mega backlash for shady gay comments Queerty",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1hIQ0FaLWN4VWwtcFEyUFg0VVFsRmhLbGJOY2RRX2t1bEZWaW5KRlVmeEV5OXdUZ2xNV185Qmxva2xiaDl1SW1XdzljMHFwVHE1QXVRUF8wLUQxRjlXUnhJV0ZlWWxzLUdPazRKZjNhU2pzSUU1TzlZblU2ZVV5a0IycHBUTUg2djRQTjA5TzFOb0xlWDVFd3FKSVUzVkVtbWxv?oc=5",
       "published": "2026-09-02T17:00:00+00:00",
       "beats": [
@@ -226,42 +177,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump to Nominate Hung Cao as Navy Secretary",
-      "summary": "Trump to Nominate Hung Cao as Navy Secretary The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFQ1akhlT0VzUjFyaVZLSVAzMXpRQzEyNFhGaTJZckdpaTJXTkZtek9nZE1pTlRyN1k3dkRaR0o0OFhpcVd6QXlackFtS0VveFlnWGg1RkM2NzhfMDY1UzBrU3dCczdVVVdYb0hzWmk5OGVOS1g4eUkxRmJwTExMRjRpaHh2RWNV?oc=5",
-      "published": "2026-09-02T14:25:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Seth Moulton’s anti-trans shape-shifting ends in a humiliating blowout in Massachusetts",
-      "summary": "Seth Moulton’s anti-trans shape-shifting ends in a humiliating blowout in Massachusetts Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IY1B0TGVmNS1wOWJ6T3Vsa0pMLWh4VG5tMFZkSUFOcE91eFZZdmJSVUtDa21OQlZibmFZMlktS3FTNXU4X0R1WHQ2TmRRZmJlVjltV0VXSGlvWU5IVzlQczRtVS1sU2F5em9IQ0VNMG9Wbnp3T1JrS09iYw?oc=5",
-      "published": "2026-09-02T12:26:58+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Lindsay Clancy jury still deadlocked, ends day without verdict after judge's \"dynamite\" instruction",
-      "summary": "Lindsay Clancy jury still deadlocked, ends day without verdict after judge's \"dynamite\" instruction CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb1RlcWdrc0J4MGtGSXhER1JFSjNYR0tpd2pUZlFFR2xqbE9JMzdGNGFfbmU3WUg5anpzdkpQSVZScTljZ0NNSnc0dWFJamlJcVVsSVFoNVhkTEgzd2d1MzFOanF5bUdaem9OMXVCZURuTno2WTQ0cXAtd1o4engzTTlyMVJyb3FzZW4zMmhKeXVKLXlmdE41TGdGd3duM0U?oc=5",
-      "published": "2026-09-02T12:12:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -271,18 +186,6 @@
       "published": "2026-09-02T07:09:17+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Inside Supplying U.S. Warships During the Iran War",
-      "summary": "Inside Supplying U.S. Warships During the Iran War The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3dHcE5weHVKLU0wQTlTWGhweWF6MkdDTmF1RHpQcjdGX2haenA0d0Q1c0cxbnZHcXRCNDVremltTW1MU2xvdUJOZ0tDQ0VBc0syS25KS3ZKTHh6aWNQSDlFYzN6aHBOOHhjX01WUE1YNlVXel9QYUJNenlVY2MtT25XWHFoOVBXYVptV2h2NFc?oc=5",
-      "published": "2026-09-02T04:00:01+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -310,18 +213,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "House votes to condemn socialism, with 8 Democrats joining Republicans",
-      "summary": "House votes to condemn socialism, with 8 Democrats joining Republicans CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXRYQjlyRXozMEtCWXZrdWZNaUNtWndJUTc0NUQ4QXRNUHZyU3BfbklvZUtlZ3NfZzU1UzBUa1dwaElGZzVLYm14bnBPa216eTJYWHJPYXpDcWVsdnNOaE1kc01hQzZPZHRIdUVqNUhqZ1hPa3ozNnR6ZUhLN1VaRG1GNA?oc=5",
-      "published": "2026-09-01T21:53:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -336,52 +227,51 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "A transgender boy sued for bathroom access. South Carolina drove his family to flee the state",
-      "summary": "A transgender boy sued for bathroom access. South Carolina drove his family to flee the state Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTZ4QWlEdVhza0s2RWRDMUphYjFKQlpPRzZmVHZ6SG1MQ0tEbEtXSDJVVUhCdjl0RXVfWHNNTG1SZEFWc0hzbHFrbVhpVTJ5Q2hobU10dk45MlhwLUZwa3lfUm9MLWNEUGdHOW1UeVlXdlo0d1NJTW1xVkdqSnFFd2theTI4WlE0NXc?oc=5",
-      "published": "2026-09-01T20:17:19+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Lindsay Clancy judge tells deadlocked jurors to return for fifth day of deliberations",
-      "summary": "Lindsay Clancy judge tells deadlocked jurors to return for fifth day of deliberations NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkM4T19SU29UamQ2OFE3R2FkRXZzMlpVWERTYkJQbko1RHcyQVhqTFlpR0JaMzE2TERPQi1jdlROUHJvN19XZk5YU21pYjI5Q1dSTXhLTUhJYTY1VFZzNUVWUmppTi1hcHJSXzhKZGhsSlpodEtwOUZ6bEd4QjdMOU16ZUZhTjNOb0FDWnZnUlhpLVNuQ0llSkV1VVJEUWkzRkQwUzQyQ3daOTdiUzFOcWc3aWQ?oc=5",
-      "published": "2026-09-01T20:07:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Court rules trans woman must face criminal trial for pulling gun on her attacker",
-      "summary": "Court rules trans woman must face criminal trial for pulling gun on her attacker LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaW5ieW5CYTZDQ2FocWZGZEVzemRtUU1xNzZPMlprOEgzSDNLaDRCNlZlYUNfeEswZ1Ita2tfZ3pLTVV3cVV5ZWdvYmxENi1VUG0tQk1zOUl3bVEzZ3lJQnl5VjM4NWdzZ1UxRDQ5UF9ZN1BVMzNLaU5FckVQOWFfa1dHbEVRc05zWEx5UjJvcHF2NEh3LUllU0VKcjlGN0pXNUxaemZJNA?oc=5",
-      "published": "2026-09-01T20:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Schools Caught Flat-Footed After Google Makes Gemini Chatbot Available to All Students",
-      "summary": "Schools Caught Flat-Footed After Google Makes Gemini Chatbot Available to All Students Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGJKOVpCWTl2bFdHMHlkQmtTNmlSOHRMb2k3clNpbW5fNTZXTDBiZEhQNm01ZkRGQXV5MnBQd2FfQjN3WGVWUVBJbWw2b29BNVFNQzhxWFB2U3BRRHdveFlUZVNERHhJZXpfeTg1dXRMUFBIM2JkUFFUMWR0ZlJLUEJrUzVLZnloNDh1eDZQaEJzbWZLWnF4WlBYWWR6eUs0UDl1UkJYbm9yMkxwRUxoMUcwcGdPSl9JZ1RfWTdlUEtHMEZ0NW1J?oc=5",
-      "published": "2026-09-01T19:10:11+00:00",
+      "title": "UPDATE: California Legislature passes bills to expand community college bachelor’s degree offerings",
+      "summary": "UPDATE: California Legislature passes bills to expand community college bachelor’s degree offerings EdSource",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeE5CZzYzcndpbWFuX3NqR0RrbEdWVjRrWUlDdUdRbTNHT2FjbzV0WWk1MVZUc1JBQmJfNHk4RXRsUnF2M1RKeEdmZmg1TlMzNG5CcnVjdHh3SXVtS1d6aktLUkVTWGxlUXV3OUptQ1NaT2dOek9YcF96ODd3eVV2aUZQdmNfYmlRNkowU0Q2MWs1dGVHOTBWOHZpN19YQ01ZcGVpRXY3ajZsT3VkZFhR?oc=5",
+      "published": "2026-09-01T18:03:51+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "WATCH: A century of queer history takes center stage in Netflix’s Oscar contender La Bola Negra",
+      "summary": "WATCH: A century of queer history takes center stage in Netflix’s Oscar contender La Bola Negra Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDVEQldmRlR2OTQtU21Xa1ZxajFxZHhzOG9fZDVZcVBxcTFJNjdtRW5xTTBZdlQ2SkJ1bko3NmJCY21zaWw4Q0VGMW80TjJna0NKLThNWXNBelFIaTVnUnRveE1EckVoc2h3c2wxQ0U5LTZVdXoxZURGQXRJdnQ4MWFmNl9ocFRRYVJIZUFhQkIzMWY3NUltbWxPc2xGTkozNW9LT2FNOFlPQUZlVDI0eDJxdEdaaXV0UTdrMjVoOXpiVFAwZkE?oc=5",
+      "published": "2026-09-01T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "USDA urged to report how SNAP cuts impact free school meals",
+      "summary": "USDA urged to report how SNAP cuts impact free school meals K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjFzOWhVQlhSYXk0LUVIOWowcFhKWkVQQnlmMlNkVWloZ3VHdk5YTTN1OHVlN2xHU3ExNV9lVzJDLUhCQzRNanl5YXVTQjVESHhKbnpBX3lEVzVTdDRhZjdUejM5b1cwbFRFcHNyLTM2b1R4aFRlaXdSZUZlMEJiZC1YWE5aVzFZNkJwTndrYVF5bGJmY3pUSFluNnU?oc=5",
+      "published": "2026-09-01T13:20:17+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Gay couples are sharing their adorable & inspiring meet-cute stories",
+      "summary": "Gay couples are sharing their adorable & inspiring meet-cute stories Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVJVanRUd01zYWJDbDNOLW50WDBkRUhId2l6ZVY0d1hwYVJYVVl5QTFWWTJWT2JZVEZMMmNBZHd4SEVHQ0RVcEFSYXE3WXRFTS1BTm51Q3V4bm1SdDBCYVU4emxSZTk0bmxOWE9Pd2RuQjk2YkcyRThpWkVId28yNEpkTHpsSWtkYnpFR05ibHVMcTdVMlpWWlBpVUoteUVuZkE?oc=5",
+      "published": "2026-08-31T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     }
   ]
