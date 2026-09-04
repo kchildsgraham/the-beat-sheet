@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-04T21:18:13.996650+00:00",
+  "updated_at": "2026-09-04T23:11:16.289538+00:00",
   "lookback_hours": 72,
-  "story_count": 21,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -20,6 +20,78 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "American Airlines passenger duct-taped to seat, plane diverted after mid-flight outburst",
+      "summary": "American Airlines passenger duct-taped to seat, plane diverted after mid-flight outburst CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk90eS1rRHpQd19xdllKMU1TcWdOeWJlaTQxTXd0QVJuQ0kyT3RaYlhsaFcxMjVxMnpDV1p4QUhaQVBScVh1SnprRi1QczdLTW5nbU1NeURXU1YycE0zeWJMWG1qS0xhejFlUDV5TVhhUEYtSVJhQW82cGI1TWpKcEVtVEliSkFlcEE?oc=5",
+      "published": "2026-09-04T22:37:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The U.N. backs a new world map showing Africa in its true relative size",
+      "summary": "The U.N. backs a new world map showing Africa in its true relative size NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSQlR6c0VtZWNxWVg0UHZTcXZEdnZkODZMek9oZTZCV29NZktTR2NvRDd2dWtORFE5SlNHU2h6VkFpNWVYRlRqLV9MZ29XcHIyUEtLdXZyZFk0djNBLTNJV25zbnE3M3pPSU5vRFZpcUJuaVc3aEpwdQ?oc=5",
+      "published": "2026-09-04T22:26:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+      "summary": "'Hidden tribunals:' Immigration court due process in tumult with new locations NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnBONi1oTGFMeWJFeXgzSnNNZGJ5UUR1MXJmTGtkNlY4cnJoelZkbFlpWjBIZVJiT3Q5WUpkRVhxV1lqY2QzRHljdDdWX3NpaTBmX1dxbEUyZmxGUFBRWE8yODVDMXdOXzdScGVHX1VKMXpSczQ2UlV2REFWa2JYZXFKRQ?oc=5",
+      "published": "2026-09-04T21:11:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian",
+      "summary": "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUDJFMm43TkdmeDYyandJbUZMbmIyZVBJVmdRZVVNMzJYTUF1ZEVQUlFoUjVObnVvWmh0dHQwUHlQVVRDbUQ3UGItNG8xVmRzT1BULVk2QlNBMThaQTBjeGtXOGxVeGZQZ3pTaTc2M2kzdGpMa2tmWnQ5UTJuOWvSAYQBQVVfeXFMT0R4R1hoSUt3Qmt3aG1mSGJsQVZ6bE1CZUhOVjJRUXNBeWlrZmh3Y1NPVGFNSWdYZXFUQ005SHRfZWczOUlJb2RJVkFJV21VZjJwN2lUWmhXTFNSUDNQcWFJTUNGVjhCdU5oR3FSbDdPemJCS1JZczkteVZMOGswX0MxMlNq?oc=5",
+      "published": "2026-09-04T20:22:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+      "summary": "Trump's arch may break ground without final approval. Veterans are trying to stop it NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlBPbnp1cDRJeTd5MzNJZXBjWHFmTmhKX3BOREktb3hZdzB4YklQWmtDRFpMRTNYM1ZoeUxmZU9qTmtXSm5QaVFXZWpfNFZPMEowY2J2WEdCOXozUTExMWE4azZqaVo3SE15c3ZnTU5jaXpicXpDR0NfRmNiVHBseWc3ZjdLMExlN05J?oc=5",
+      "published": "2026-09-04T20:15:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Supreme Court backs Republican request to lower TV ad rates",
+      "summary": "Supreme Court backs Republican request to lower TV ad rates CNN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVFVRFFwclJGVk5mMDZaOEEyenVBSkp6VnktbDVCN2lfUDdTazVlOXdIeWx4bV9BbllUWnBScm5kV1pUZ0FodHI5NEFybkpoazU3aUpCTGNKR1B0aUFnc1NGTzZuOUtKelVQWjBiQldXWkM5WGRJdWFvTHdCX2h4ZGsxM1NhUFJPUGlBejNUV1RlMVhZT09GamFrOFVJdjF3?oc=5",
+      "published": "2026-09-04T20:06:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -35,11 +107,36 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Jobs Report Live Updates: U.S. Hiring Jumps, an Encouraging Sign for the Economy",
-      "summary": "Jobs Report Live Updates: U.S. Hiring Jumps, an Encouraging Sign for the Economy The New York Times",
+      "title": "U.S. Hiring Jumps, an Encouraging Sign for the Economy",
+      "summary": "U.S. Hiring Jumps, an Encouraging Sign for the Economy The New York Times",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uWnNDV3Q2ZXZINW9nT3FBQ1ktcUxBQ2ZIazNtN3JIYU4yaWJHWnJWQm83UlpyR3N1N0JkWk56b0JEWTFub1YwdmNDeUpLTlh4dVQtLUduY19QZDB6T1M1RFB1dXcyNlJJaktzVE5MdXMwVWFzN1lZ?oc=5",
       "published": "2026-09-04T19:45:49+00:00",
       "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
+      "summary": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53alVLRTNPV1hocjlTbVhwb3U5eFg1S3doWVVqdG9GYXNiS1VMWmwyWjhpMDh0UjdrSE9wVWEzVXBMcGdJbllzWUI2eHhaRmpqb1FnUHMzbG5HeDZ4anpISm5DeHdjNk9HR2JTRXlkWHNyQ0k?oc=5",
+      "published": "2026-09-04T19:07:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump administration quietly closes criminal probe into Venezuela businessman amid oil deal",
+      "summary": "Trump administration quietly closes criminal probe into Venezuela businessman amid oil deal CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalZPYXV5R3pXOFdKM2E4X0wxUExabUM4d0NWTWhPbktIb29pVkt0c18wSTlCTjB4OGh3cktsU0VpQlV0elM2NFNvUW9zMnVmWlowLWlndDMxWVo1cFJyZFRkWWdGTm0xU3RVamdFYS1UcHJKcHUxZUNEMmo4SFo4YVlrcDlicmxWYVF3?oc=5",
+      "published": "2026-09-04T18:34:39+00:00",
+      "beats": [
+        "Politics",
         "Business"
       ]
     },
@@ -56,15 +153,39 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-      "summary": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0t5RzhPYWdIZ3hPSzBuN2dVTGdnRFhrUzRBd2RLM1NHUXNvUFlTWjYzdXE2UzlGc3lETkM5Tm9FMDFhOGJNSnVudnZqYXNmdG9NaWl3T1NwcjhkVWcxZ3pROGxmbXZSMFBGODVURzJNV0h6Nm1hRFdhNENmUTlZelFQZnRSTm9iZDhGc190WlBYdmRvTTVVUGNKOEhLVVXSAaQBQVVfeXFMT1FHblZwckdBTVFmY1BSSklTdW9ZdGw4RmNheHRRTFphZkVZZWRjdGd2LVpXU1NzZ0N6Yi1HVFdYWW1rWk11Z0htRDBIcGdqbk5fVXVncC0wTGZqcXdsUW04cVNvUnBwRmhhODFTTEtkUjlScW5Vc0p3SmpHNnBZQ2RuUVBNek1hc3lKVVFTMFkyOUdEdHZBOWJrVVFTS0JETlR5Ni0?oc=5",
-      "published": "2026-09-04T17:33:08+00:00",
+      "title": "Unsealed federal indictment details alleged lies by ICE officer charged in Minneapolis shooting",
+      "summary": "Unsealed federal indictment details alleged lies by ICE officer charged in Minneapolis shooting CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajlPS1BicUJyZ2pUczlTSmh5Y3h1TDI3MkdFTWdObmRRTXdndnVGRVpZSWtmY05mTWdyQnQwTjBwYVA1a1FYNkhiWG5mZHE0X0t3Zmw2Nm1FaS1xUURGRFVTeTZmSEY2cHpTZ29DVWkwcDlxRnlsYUtqdVV0ZzYwZlhuUTcwU2RZLXgzT2F0eUF1QkQ3cGozeFVTUHNILVZBZHFXVG9PLVRsVW8?oc=5",
+      "published": "2026-09-04T17:23:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Alabama’s new library rules target every book about transgender people",
+      "summary": "Alabama’s new library rules target every book about transgender people Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczNfdUU2bElyemFRaTV1Ql9GVE5qZ0xYTUY5VGJtOGFockxlelozZm9rS083Uk5POEFyekhtNFo5Q2puNkdmVHNvdGFxV0Q2N3p0YzNLRWYybjJ6RmtYdVM4Ujk3V2hkb3VjQlFpSVhDSGdoV2FCVGhnQ2l2MWJ6eTln?oc=5",
+      "published": "2026-09-04T17:21:14+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says",
+      "summary": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM29VQllNaTNMRF9GdDY1LVM3VzZGNS1wLWlCRDJseU1oRHVSdTdBM1FMUHFnSnlxLWZIS1BvaEM3VjNlYzZIcDdDMDY3eS0wMFYtZU1jMXNpUzFLZWlob2wxTmlDbXBRdEMxNUVkSVFpTG9La3RxSUpQWUpTc0RUMTYyTjU?oc=5",
+      "published": "2026-09-04T17:08:30+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -72,11 +193,23 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "The 15 worst universities in the U.S. for LGBTQ+ students",
-      "summary": "The 15 worst universities in the U.S. for LGBTQ+ students advocate.com",
+      "summary": "The 15 worst universities in the U.S. for LGBTQ+ students Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80UUtydFhTcTdXMXozRUNBc0ZjaXBqUmhYOUpwNHNoMk9YY0FkVkxkT0pTc2t0UlgtcE5xUVFsUmpZREpaYVhnYTlEMjVubGpyeEthWm9WV3g0WHJoODJKazBqV2lkenpaSmN2N0R4SlZScEdLMHRvY045d1A?oc=5",
       "published": "2026-09-04T16:57:39+00:00",
       "beats": [
         "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "WNBA Commissioner Cathy Engelbert to retire in December after 7 years: \"This is a really good time\"",
+      "summary": "WNBA Commissioner Cathy Engelbert to retire in December after 7 years: \"This is a really good time\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzSDUtV0tsQWlNVDZZSjZwWVN3SVRkLTVKTk8zZktXS1k1bTFWNDlwcHNBNXQ1V0FPM0pVUk1pZmdUbGJ3ZklFWExzVW5tb1FmdlRCUHAxbFltYmF6LWRhdHl5M3Ixc0VmbmIwZEQzOEpMYm80djUySEJn?oc=5",
+      "published": "2026-09-04T16:50:37+00:00",
+      "beats": [
         "LGBTQ+"
       ]
     },
@@ -105,13 +238,25 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition",
+      "summary": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0lDellzS29kbXEyQ09XWmdxSk51Y0NwOWl1anRpSWFnbmRyWDRoaFdpazI0SUVLNktRVVFLTGEtc0t6Nk1hNXBXNVVpQ2tYNUF3M1ZDWWdHcXl3YnUwMVpqUjJaRW10bmJRSThmSS12OURBeFFGeHNDVEx1VHhDZmxpemZLZXl4WkVGVk9wM3I1UDhNeWxPN0dPdUw5ZlFkTzVCd05IRHQxenE4NnAzUlR2M240MWJnX0t1UjVPdjk4RHZnOERLaA?oc=5",
+      "published": "2026-09-04T12:04:30+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | The Search for New Cures Is Broken",
-      "summary": "Opinion | The Search for New Cures Is Broken The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDd3a2NFak1nS0piTC1TaFlSUnJiMHZBNVQ1QS01TmN5Y3NILVE1VDJXc2N0bTBNVTFKLXBLY0dHVFBfakJYWDB5Ui1WR2swTFlPUjVfZTRfdURRazNUZTFQR3lTUUFteHprV21NQ0ZCLUhSSnU2WjNtaU5ZejlZcHY2OA?oc=5",
-      "published": "2026-09-04T09:00:11+00:00",
+      "title": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic",
+      "summary": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BXSWNWNGpkVkhKcjJKUTNsRFQwVVhST1JYYUNDV0stclNJVU1HcXlIZlJQUG5RSEV5S0h6Nkk1MDRxNXJ6TThPbzFmVVZDRFRoa1NJS09FNnF4SnJmcHh3LWxxVHpPOU00X0xBVllQOVdFU3JKU1ZrVGpJZnhOSTBCTGZQU3M?oc=5",
+      "published": "2026-09-04T11:12:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -129,18 +274,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog",
-      "summary": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BXSWNWNGpkVkhKcjJKUTNsRFQwVVhST1JYYUNDV0stclNJVU1HcXlIZlJQUG5RSEV5S0h6Nkk1MDRxNXJ6TThPbzFmVVZDRFRoa1NJS09FNnF4SnJmcHh3LWxxVHpPOU00X0xBVllQOVdFU3JKU1ZrVGpJZnhOSTBCTGZQU3M?oc=5",
-      "published": "2026-09-04T01:44:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -153,15 +286,39 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "LAUSD Adopts Moratorium on Student AI Use, Another Move to Limit Classroom Tech",
-      "summary": "LAUSD Adopts Moratorium on Student AI Use, Another Move to Limit Classroom Tech Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHlzOVpoRDRpZzZjRWhjcFlRSVVLcE05TjA0M1JBUmwtU3o5WWwtXzRSMXFkWVBKajFyeXVnUE0wN052YnNuOUhfUGVwX1VjZEVxbVBEYmZLdGo4WTIzWUM4Tlo1ODlZQVFzUnllakhidUhqRzRLcEllaWxiQ0I2c01URmJVOGJDWlNhZW9xb3J4ZHNBLTc4aGVCd18zNXFtcUhURjhyaWpkSmZUdTgxM0FrM3U3UzY1NlE?oc=5",
-      "published": "2026-09-03T18:45:01+00:00",
+      "title": "LAUSD restricts all students from using AI tools",
+      "summary": "LAUSD restricts all students from using AI tools K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUpFWGxuSEhvUFNkd1JCMFlHTXlnMnREZlNpVWN0cUdGS2V0Rzh3b1Q5bGNBdE05aGthOXlIMlBvX0ZRbFNoZWd3WTd6LUVlcUdEVUVQSkVIb2VxYTdSUnI1bWZZX0htVHFGZW1lZVdUa1Zpa2xHazhvbkJVUEJId2F2dzNlcGVFV2R6NDVB?oc=5",
+      "published": "2026-09-03T21:47:12+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring",
+      "summary": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring EdSource",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXc2cE5ES3RHU29pbW1rS096Q1dkOFRRTV9WNHViaHB4OGROdTVtUExzSUlBYjY0bnI5ZkpudWhtZ1VXa0RkNGlQRzhoT21meHBmY2NIRm04QVJYRXM4SzZfV0MtZnVSYUw3MW1GR1plZUVyWHlhaVJEN0xjeWtlRHA4NjhPNndFVDFwRFhpVjZzTXJjNkxWSDVsTkIxZ3lCYW80ZnNCZHRBWUdZ?oc=5",
+      "published": "2026-09-03T20:11:13+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking",
+      "summary": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd1RHNGJJUUZkZm1rclZab1JiQ1JfWXBWZjZDdzlQZS1ZWmpYSUQ3dVdxVmlBazhWRmVsUlFGVzlGbTFKZWU0YVdJMWJqX3YybEUyMXRxSi00Qk9LaU5jZExTSTdFbW9ua2pybENhV0oyZW5YNnNXR1BRdS1BMFpidUhxVnVRZEIwMGRWVEFRdHl2bF91MWV0dWgxM3hjQW8xRWd5WTQ0aXBOUVJ5MmFYSldHc2tROWROT1BlVUFyczlUdw?oc=5",
+      "published": "2026-09-03T19:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -177,15 +334,27 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Trump DOJ tried to force California to ban trans girls from sports. A judge said no",
-      "summary": "Trump DOJ tried to force California to ban trans girls from sports. A judge said no advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1llZV9qeDRJS0hfU2R2aEdEd2x4c3k1TW9MR1B0LUl0VzFFTDd2MGV5Rl8xNmt5SW82Vl82R0ZlLVhOQXh4a1hSbkxoMVFaM1pnd0J4X1I3X2oxb2tubEdfV2Njc3hmdDdCSTc1Q1J6UnlMWlRYS25uU1dweG5KX2puWTA3ZmM?oc=5",
-      "published": "2026-09-03T18:06:06+00:00",
+      "title": "22 states sue Trump admin over \"unprecedented\" attack on gender-affirming care",
+      "summary": "22 states sue Trump admin over \"unprecedented\" attack on gender-affirming care LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzdLVzBQOXhZcTQxTHJXSGljUFNkZEYzckxNSXotdVJ5SG1DYndDTWZnSlJ5d0I3TVZLNXBmSUV3RFVzMWRJbE92Y05GRmhJM2VfeE8wRDV6cjBOWWpqNHhxaVNFSDFmUzRqS3FJS1dNMWlHWi00NWp4Y1ByRnAwcnFRX0NoNkNFQzlDWFFONDJuQ1RNNTJLQkVqSF9JR05VUGc?oc=5",
+      "published": "2026-09-03T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "There are more homeless infants and toddlers in California. What does this mean for early learning programs and schools?",
+      "summary": "There are more homeless infants and toddlers in California. What does this mean for early learning programs and schools? EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHl2VW9YQVhRRDZNQmVjUW10YkpCOHZka2g0cUdrRnFjc1RyUzRlVVFWMFFTQVdaREs5VmJUdXR4MU53UnlrS0xmckFJbHRkYjN1QmpVQ3VMTFZyRW84YXpnNE9SaGR4emFwR1BNYXRWQjg3WDlTdWpjOXBQYm9VbFJn?oc=5",
+      "published": "2026-09-03T17:57:55+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -193,7 +362,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Pentagon abruptly pulls the rules for Pete Hegseth’s ‘High T’ testosterone-fueled military",
-      "summary": "Pentagon abruptly pulls the rules for Pete Hegseth’s ‘High T’ testosterone-fueled military advocate.com",
+      "summary": "Pentagon abruptly pulls the rules for Pete Hegseth’s ‘High T’ testosterone-fueled military Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXAxc3dDeXVvYUxjZzEweDJNTGN3Sy1PeTAyS3Q5OFIwUGdWU3dGa0dEX3l0OFpDNjJhSVpyelVhcHpXOENUTTBGMnUxS1dYTzdqUVpqWV9ZSk81MGdYQVN6U2NOcFNLSVNkcTNlOEhYV05JZ0l1eUxQZHhuRlFqTFlKa2lGTExFbHJnWmxn?oc=5",
       "published": "2026-09-03T17:02:25+00:00",
       "beats": [
@@ -208,66 +377,6 @@
       "summary": "Billionaire Leon Black defies House subpoena, sues committee over Epstein probe CBS News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOXy1kZkVTdl9Wd1ZOVmJXZ1E2RmFrWG16VWt6LWt5OWlwc21fcjBySTJFekJnMllFak1HZ1otZG5UTjg0WldLSExrdDdwZnhjd2Q0WkpaUU5wRUpJRVA5c2pRcFQ3a3RKdGtDWlJ4ZFhkUE1yTFp1X1ZOSklnN1dnOWQxZU5Qd2dWSkxEZExjSVFxeThy?oc=5",
       "published": "2026-09-03T12:58:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Hundreds of teens swarm Colorado shopping center for so-called ‘takeover’",
-      "summary": "Hundreds of teens swarm Colorado shopping center for so-called ‘takeover’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTZfZlpEbFJXcjVRclp6UXdrd29ZamZLMmRDQ3IzN2VjbjM0U18tSWRhV0V3Z05SLWRpS3dzMzg0X2dEakdnUGxEYXJhV2hoazNjdHZTYmtCVFc0SjJiUm9TdXFNXzhfbGw4amJXbU5FRS1lRmZWTTg4d3ZvalR2STNyRHA4aGpiWGtaendHeEFQdzRhcjdhUXoxdHlNV3JaN0R4dzNfSGQ5QXRQYlV5YmJTa3I?oc=5",
-      "published": "2026-09-03T00:20:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "New York, Los Angeles Restrict Student AI Use. Will Other Districts Follow?",
-      "summary": "New York, Los Angeles Restrict Student AI Use. Will Other Districts Follow? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzR6RkFaNDhHTVpqSFNJVktTekpyc0UyTGk3dUVDaG9YVmVMc1NKZVVuMFk3S0otRUpoZ05Kci05NEFfaExCNDJmMDd5blVPQkZQZ0hFdks5U29Nd3RPYmc3UkU1VUJxOGhmQk9SMHdCZDVSajBNejRrNmItRFl3TXlDVHdRRmI4MjdnenFwSk82dmZkWlllcUF1YUNUN0k0UkV3MnhRQnltRzlHcFNtNUQybGdrWTFVV1hKUnhZYVUyQQ?oc=5",
-      "published": "2026-09-02T22:46:17+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Karen Read's attorney David Yannetti weighs in on potential of Lindsay Clancy mistrial",
-      "summary": "Karen Read's attorney David Yannetti weighs in on potential of Lindsay Clancy mistrial CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODBFWEZYSWxqNW8zZGJaNkJVUjRfN0FndmJtUThPRGVLRXFraGRfc1M0N1ZzbzhzMkwtYmstQm8wSWtvdmdnYkVLLUgwNGVoN0k0Y2F5VjRIX0pQcnBDRnZqbkphaTN5VE5oaGRlejZ1bTBXWUZMQVNpVS1qdnJGaC1tNkZaWVdUTjVvaUpSQzlmY0hlQkVwZUtQRWxyY2V0alppNFhRV0JaaEtZY19oVEhuRC1qX3YybUNkOEFKOUM?oc=5",
-      "published": "2026-09-02T22:41:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Ed. Dept. Releases Data on Schools’ Racial Disparities Months Late",
-      "summary": "Ed. Dept. Releases Data on Schools’ Racial Disparities Months Late Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3dGZkJNMHlUcGJjQnhwZHJfZlp6bjRJbFptMXdsYW0ydHFIZEE3VmR5bHZJLXVUanVjQVVNU0V0SWo5VUo1bEc1bHlzT0ZrbnZ0cnZFSUs3Sm9nRzJwZU4tRnN2cngwQ0p1OEs1V19aOUlGTFZkMXZyb1JNQTRuNF9Jc202QUNpVnlZVVViLTFwY3A5Zm9vR2xPclBwd3FXNDRod1FYU20?oc=5",
-      "published": "2026-09-02T21:16:13+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "USS Abraham Lincoln docks in Thailand after more than 9 months at sea",
-      "summary": "USS Abraham Lincoln docks in Thailand after more than 9 months at sea CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KbmhtMWlsanJkWVZZRnpMdU5PMHVOc0xra0hlMWR0WkVUMzBMWWJ6SWNmV21qSFAyWFBHWlYzM3hGN0RsUHZuSjJmNm02VHY2YU80OUtpVzRDSjZrc09XQzAxS2dJMHFTSmc?oc=5",
-      "published": "2026-09-02T13:47:00+00:00",
       "beats": [
         "Politics"
       ]
