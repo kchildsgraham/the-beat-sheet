@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T06:20:41.016728+00:00",
+  "updated_at": "2026-09-04T11:35:07.523606+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
-      "summary": "Shein has made a shaky stock market entry. Can it get its mojo back? CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTVOZ3VEallhYjg3YU95ZkYzYzY3VTMya2dmNFFiRDExZENhbFl2LU52YUF2TjVodUdEWVVjTm5jWnVXLWtMZlFnLUp3U3VQTVBZeHVlLTJqajNUcC0zZ18xcHJQSDJQbEJWWWdVaXBIM0xHYXNlaVVhQzI0YkFmUVdB0gGHAUFVX3lxTE5nMGI2QkI0VFpwQ3NGODcwRkpoSjEyczN4RnprYmlXSXhocmJ6dnlDUXYtYWdiTkowM2lZY3hJNXRDSXAySFVlSjlNbDZiNkFweWthR09KbHN6VkVyR1VfNF94MWhnM2FYdnFjMThzWWNCNXFENTgyRzZKdXZRb0VkZ0Npd2NlSQ?oc=5",
-      "published": "2026-09-04T04:49:36+00:00",
+      "title": "Germany's far-right poised for power in state election",
+      "summary": "Germany's far-right poised for power in state election NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DalZISnhrcWxMSGdBem81R0E1SFJtSzFZX2NEdnlwV3lGUHhmRkpvQmdpNlA3bENRX05WelJ1VTZnQzFWakVBSGRjOWdfcmhMSHhlcmZKcnJGQ1pxRHJzR3gzeVIzYVN4aWZ4SGxEZUZ1NG9vT2dObk5uSQ?oc=5",
+      "published": "2026-09-04T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "What the bond rout means for your finances (Hint: It’s a mixed bag)",
+      "summary": "What the bond rout means for your finances (Hint: It’s a mixed bag) CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTXN5c2pvb2o4cy1VQlpEc09vaEMyd2lxUVU1M08wTEhXVUp6ZUJrelZ0cWJDNGJjTFRfb1N5eW92cFlPVV80MERDWWdsaS1qNEFMUFNXWDhHRWxHNGF5MHIzbEczUUY0R1V0a1FScEQ4amg1NE91UlhhMGhwVlpYUjR5U0VqMzBoZmc?oc=5",
+      "published": "2026-09-04T09:30:29+00:00",
       "beats": [
         "Business"
       ]
@@ -35,10 +47,34 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Two men rescued from flood-stricken Nepali power plant where scores feared trapped",
-      "summary": "Two men rescued from flood-stricken Nepali power plant where scores feared trapped CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVBZV2hsQ2pMYkZQVDducExlZXZXN3A4UmJ4ZHZiVENlQ1RtTzRoYjluT3dKMkwtVVlzN3VNLUVUTUhIdGhCMldtSkIxLWFKWUxLbWJvOGx4YTNrc2tNc1EtckJNVDVXSm5uTUFJTkhCaERrWFFlbmsxc3JmNmx5anpmaXdsRDV4?oc=5",
-      "published": "2026-09-04T03:28:00+00:00",
+      "title": "What to expect from the jobs report today",
+      "summary": "What to expect from the jobs report today CNN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiT2NjNllyVE8wc0VhNlRqc3RncHB5NGlMWjFvdl9xRThZLUtkVnJzU0pENlZIc0k5bk9OM1AwRWVUQ3lyeHFjUHhyWXJ6OG9IbDBaZVpSeDlVR3dvQWpUZnhmdmxvaVE3SG1mQQ?oc=5",
+      "published": "2026-09-04T09:00:29+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "This city is one of the world’s most important AI hubs. It’s not where you’d expect",
+      "summary": "This city is one of the world’s most important AI hubs. It’s not where you’d expect CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53UDI3b01qanVXWFV3aGJoTlN3aENvY3RhQ014S0I0TDJHU05QdVdleHJxVUQ1dU5nVlFZenc2TGtPUFlwZzNqR0dzQnZ3QmM0RlZCbVRpUG5NSndjaVFvd1NybzA3NmhRZF82ZE8tQWtOcXFs?oc=5",
+      "published": "2026-09-04T09:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Inside the Nepal Tunnel Rescue Operation",
+      "summary": "Inside the Nepal Tunnel Rescue Operation The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmh1RWJrVjZHei1DYWJ2TC1HTkhCUjlUOW1CbENQdEVpZml6QTBTcEVMUVRnenM2dlRFal9XVWMza1RxNXNrejh3RWZjYlQ5TEU2aXQ0RTBUWGR0Q3V6WWZVNE9xb0huMlpGbzRjMm5Fdm1MNFNNa1VNNW53QWpCTTNOOW9zZUwyMFJ0Wk5Sdw?oc=5",
+      "published": "2026-09-04T08:57:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +83,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment",
-      "summary": "EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2J4YmRsQjhNWG93RGdSR0dsUlBxeDZNWkNteDhGSVJQenpxTWlVemUtVFdVNzk4RTBJa2lpaFhRdnk5QlNBUlByN3c1N1pYam9yTE83cHJhX1k1cFVNVUdpWlFiVHliQmd3Nzl4cUVlaGxMTzJjcVd6TC1DUHp5blZMRGEwdDZEbkVYa2JNc05rNVRsam1ZTGg5VVlkd0tGNlFMTmVQdDJxOGvSAbABQVVfeXFMUFF4OWRySnJuRWh1aTRFZ09OQlY3R2k5UzNuRGhjcWQwODZYWnctS0FlRzlIaVVMQVU5dHQwQk94c2prVTF2UXM0ZHhPRkdkanhkV0c1Sy1pZUtZdWRTVXBqYmpPMC1LQ0t2T1pRLWpHZmRQYmJackJyS0tHbTB6bHZCS1JUZWZ5T09uQV8zWl9acmxIaXA4RHNYYmJrcHVpX2lBT3VPVFVNNHpvQlVFUV8?oc=5",
-      "published": "2026-09-04T02:45:00+00:00",
+      "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
+      "summary": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY1VMRWpNNnF5TVZFV3I1c2pRVURDaEN6VERDQTctRXpsdWxQLUxqanlZUWhlTnl1ekRvNWUzdS0xMHl3dlBfVUdvcWFqSUw1RnBnTzdoMUtSV2ZBb3NCbTFUWmZXX2VnaGthTTFKTzN2UFVNS0lmNNIBfkFVX3lxTE5vS2VVMndVYUJ6SkU0aC14VzMwY3dKYkNTekowZnJZUW9zNllkeTg5d0kyNlk3Y0pNei1FOHNqZ2NKbFV1QWNrbWpocGRTLUpWTmZWR185dlh0S3VCdTd0Rjdpc1lSX1o0NDI0cTNDOThSMXVyRkxLMFpkZjl4QQ?oc=5",
+      "published": "2026-09-04T08:08:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The price of diesel hits a record high",
+      "summary": "The price of diesel hits a record high NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mRE41N0E1NzZmLUN1X2ZaM09CRzB3dWx4Uk1EbmRiS3E2c2VxU3hUY2xacDd0eG5qT0VCS0RjTEdqdUJFRkdEejZ4TXpfUEw3WE1yUnRIcHIwUm9SN0t0TkZXdlFySEJGVG5tY19PVmxOQktwbFlPZg?oc=5",
+      "published": "2026-09-04T07:44:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,10 +107,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: Washington's house is divided over interest rates",
-      "summary": "CNBC Daily Open: Washington's house is divided over interest rates CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUlh2Q1FJLW5vSDNKMXVNelVvb2pXdUNaeXExR3ZWNjFMcEJVTGpjQWJIR2daU0pZRE0xN05Nd2dwbllITjV1Wl9RVjh3R3VQNDVrTkIwX0VuaGZHYkEweG9uQ1VrYVdGeDBVZkIxUHVfZ1ZqdUZFYjJHazBlNjBrSVMyTDJpUFAzczZrRDJMVm4tZTJTdzBWVHNERy1GbTNkZ3Jz0gGoAUFVX3lxTE8tck94ZlVKTmtWOHNzdzQ1R2RGWE5DOUJmYjI2WHI3SXJrYjUzTTFITlRzTGNDekFYMzRCdDJUNkVmY1pLRENiWlZfMzNpbExtQVhpeDNuWUVKR2x5NlhLNkhvbmlycE11OENUMk1ELW5OeWY1ekE1X3VmZlFJTU5mRUpUcnV5VGZLbE1PTHYyUWx0MW95djJtQ2hsb2JuNjhrbXdyZVc3Ug?oc=5",
-      "published": "2026-09-04T01:35:00+00:00",
+      "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
+      "summary": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OSTBaWU1wblFkbjJzTkI2dW1VUkRTWWZrcGpUYWZUcnI3eWtoZGQxRmE3b3gxT215T3RURXZBa21VeV93VnV5M2U5YWp0U0JMdzZFVzlZeTQwRDg0WTJVUXA5Y2ZfRTZTaWFQVG12VVhMclZHWXFBWNIBfkFVX3lxTFA0U19yVDhtR3RLUE9pMmt5anFUTDRnNk9HWjBGV0FIZzZ1S0Y5RjM5ZmhXS05mczdxVlFXeGJOZUloeUp1bGpaUzI2T3JOUDJYNFFvaVRpWE16S1QzVW5pbXI0a0ViTi0xTGV1NTZMZmF6b0NIYmZfelA4NzNQdw?oc=5",
+      "published": "2026-09-04T07:01:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
+      "summary": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmM5YzdZTDBSbk1rQl9XNnJDNnZsbVFxWWotQkptVWx3bWhZclVlWGdnQzMtc09ETVZuOWRMLXl6enNBLTlhZlhGd1VnNjNiWC1Bbm5oUERZUWM5a2t4Nk9LVkp1TkhLbE9EOHFhWXg5OHNtNHdTbXBTMWdXa2N5WkIzZmI2eUdnOXJJYVZYeEljMTJTVlhqVnF2elFVUGFtVTVtc19Na9IBrAFBVV95cUxNTEhBaGpqV1E0Ylp0OVVYcWxRRF9Xcmd5X0g4MVdRMTdhTEtVejJfUXF0RE8wZ0ttLUNzQ0gyQkVzczJFVENvdkY1ejZGc0RNdW1KSG5UOElhMlo2OGpMUlczbWNtU1p4VF9mUDRtM3lRNGl6OU9HVnNOakRUZHplRjdmRHZvWm1nRE00dU1KcVJQVmdMOUpMck1DWmU0Nlc5bFRTNUdpZUJKaVF1?oc=5",
+      "published": "2026-09-04T06:46:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,60 +131,24 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
-      "summary": "The Trump administration still aims to make state citizenship lists ahead of midterms npr.org",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlFicWk4Q0tHZ3FSdDJTY2NvQ1RxSDJaMklBTEtuQm1naHM1YW84ZFZycDBxT2x1MkhSMHVuQW9aVTFseUVERXhXTU11bVlIYlVEMWFUVjFQbU0tQVJCTlNOakMyRDRSUkM3bE90aF9JTHlnV2Uwa0dqN0tnRHFENVVObGhWQWNtZC1pNUFSY1I?oc=5",
-      "published": "2026-09-03T23:59:35+00:00",
+      "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
+      "summary": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ULTlvYlI4WllMeVNQU2RUekZlZF8ydkFMcnBHdWtodHd4V3YycEpqdTNmMFJsdnp0U3JXTXU2RU43eXZEZGFmRHpfRExzaE5rQ2ZjRUNwRHVaX0JGMG1idXdXRmRNWkJqZWVGZVkyYWk5YzdLNTBXbjVNUQ?oc=5",
+      "published": "2026-09-04T05:22:53+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Missouri Supreme Court blocks Trump-backed US House map and orders it be put to a vote",
-      "summary": "Missouri Supreme Court blocks Trump-backed US House map and orders it be put to a vote CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWlR4UVh1bzZVdjJaa3IxYXMwcDlfZUh6R1hZbXQyN0NGU1U0X01PMzFyVXpvOUV2c2R6bEdlbG1HeDhvZlcxS01qc0ZjR1ZDbEVUUnVyOC1mcHZRN05LQ2o4U1puNmt6R0ZPU2JJb09wd2RHUkQ4X1g3VGtDYVFiLWF5RkFhMEx0ZDM5ODhuZGlsZkFMdkhaci1HMA?oc=5",
-      "published": "2026-09-03T23:02:22+00:00",
+      "title": "Armed suspect not properly searched at Pittsburg police headquarters shoots officer, himself",
+      "summary": "Armed suspect not properly searched at Pittsburg police headquarters shoots officer, himself CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZW9IV3JEandDLWM0eV83QkRiQXRWbFpDSFNHdG5hWDBPRzV3ZG4zZklHSGc5TUYyMWFUcW45NjlJbFNyd1J5dEdzUDFrUVE5ZmV1M1FKWG9DVHVhM29lMWNjVG5ialgwRHBYRThtWDQ1RTFDQ0ZNOTJic1FObjBvUG1ibzRYN1dXbVVlbG1vb2NiVnFJcE1JbFdrc3dPcThmYVJuRko0cDBwT0wwTHA1NjduUE0?oc=5",
+      "published": "2026-09-04T01:43:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump administration plows ahead with groundbreaking for the president’s ‘triumphal arch’",
-      "summary": "Trump administration plows ahead with groundbreaking for the president’s ‘triumphal arch’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iU3ZoejE4ek9MSDcwYWdpNkprOS1lTTZUMHhQNmhkWVhySGpiaGZ6eHFZeDBGZkltZFRLOEtGSUk1M3dreWszU00tbGJWaDY0MkUybmI3dmoyU1pkNGpOY1F0ZTV0bGxjQV9wS25VNTctM2ZzckdEVQ?oc=5",
-      "published": "2026-09-03T22:45:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
-      "summary": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel npr.org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTVOUHZYM2FFOWVUeGhtb2hCRWcya1VSY3JhWS1Wd3NXdFRtNnU3SDB5OEVvRmJWTlhPNHJ2QjdYMHFTZ1hsdnNaVGV1cUhFLXFQd0lZWmJlZkFNME82QndwMWxNWEl5aTlHY1pLSVFWLUxfQVNNQ2Q1a1BwTVNtakZfMGRidw?oc=5",
-      "published": "2026-09-03T22:19:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "LAUSD restricts all students from using AI tools",
-      "summary": "LAUSD restricts all students from using AI tools K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUpFWGxuSEhvUFNkd1JCMFlHTXlnMnREZlNpVWN0cUdGS2V0Rzh3b1Q5bGNBdE05aGthOXlIMlBvX0ZRbFNoZWd3WTd6LUVlcUdEVUVQSkVIb2VxYTdSUnI1bWZZX0htVHFGZW1lZVdUa1Zpa2xHazhvbkJVUEJId2F2dzNlcGVFV2R6NDVB?oc=5",
-      "published": "2026-09-03T21:47:12+00:00",
-      "beats": [
-        "Schools"
+        "LGBTQ+"
       ]
     },
     {
@@ -135,18 +159,6 @@
       "summary": "Lindsay Clancy defense wants to remove juror it says won’t ‘listen to the law’ amid deadlock NBC News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEhPakQ0aHNoUG5uTHpVWEluTm1PQl83UGJxcE5KLVZwN3JzYTdsY09DY19PYW5RWi1YUVNlbzM0NVRYN3BEXzJ5anNRdTdjZG5HbzlRVXJaWURaalhHT0FUTWdaVGdlbV9aUDlHTkJFVmJfUlBSVFdnVVNodksxSVJLUzNxaHdGcWZYWS02SUNlZ3hfVV9NRjdiWlNyMWRyV3dmVW93aEFDSzBLWVV5RENnZVg1bUNv?oc=5",
       "published": "2026-09-03T21:09:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
-      "summary": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVdrZmt1WkFBTTZqdF9tWTZzUlNoMVVRajhMY3Uzd3JqbGpuNlFIUi12WVZMTFNkR3NIekxDTGt3QXZhTzZmcUxGdUY3SFB3WXZlZHc0WXQ5ZHNuZW9RQmhhZ2ZYM2l0ak9UME0yRHF2Rl9ocG1teDcyNUUyZkVXcjF4eG10QVF4b1A0?oc=5",
-      "published": "2026-09-03T20:48:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -212,15 +224,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "For Los Javis, Their Breakthrough ‘La Bola Negra’ Was Almost the End",
-      "summary": "For Los Javis, Their Breakthrough ‘La Bola Negra’ Was Almost the End The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kR1dvOUo1YzZTdGVoZ0dPREtqLXJGY0YzaHNFNmFqTVpCU3QyX2o4bTZPbzh4WnlKSm5CbVFrVFBpZ3BLU3JWSG5FampJSHNHVU9DeVkxTHMtbFAwNnFscFpLZkk0WmljM2ZFZWJ2OWQ1UXBuN3g3am9R?oc=5",
-      "published": "2026-09-03T09:00:53+00:00",
+      "title": "High schoolers say school counselors emphasize college pathways — and not CTE",
+      "summary": "High schoolers say school counselors emphasize college pathways — and not CTE K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2NRY0JfSHlrd1pfdXc5MWxpVF9OemNVaHEwZEJUeUtBZGRlS1dmOGY1S0lrYS0tUFJ2ZDFSaWdZbklISVlHZ1VIWjctSTRTSHBxczI2NzZ3VGYyc1hxVTZ6RDE1UlJQaHVmVXBJb1g3MEFubTdTYWVaaDEwVVhLbHJTOWJLTlZsMjdjMnk5c1NFOG41RFBLX2h6bDVqenNXSmFpWlNSU2lYWDY0d200?oc=5",
+      "published": "2026-09-03T12:57:12+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -321,6 +333,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Warpath Dylan does double cosplay, EJ hits the showers, Paul Charles gobbles up a creamy donut",
+      "summary": "Warpath Dylan does double cosplay, EJ hits the showers, Paul Charles gobbles up a creamy donut Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGQ4YVl2dHVXcWhFRDBxdHFBazlfUFVuNjNES0pUaUtwamxHWF9ObTI2bm9TZ2gtRU5sUGhhMGJaY2Z5WlFpTGRubHQtdzNEdzl2bTZ5NlpjanJWbGFxM3ViWS1BblZoeGJrcUVBOUJBeTdnZ1otSUxwMWJ4SG9xYi1yd1JobjU0WHd0RjJyYnlxRm9KanVyY2ZFNDBod1Jwd0JwV0tMYWlZcUtXQ2JSZXBZUXVfMFNXZEN4NVFIU2oyd0th?oc=5",
+      "published": "2026-09-02T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -330,18 +354,6 @@
       "published": "2026-09-02T19:21:33+00:00",
       "beats": [
         "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Democrat Seth Moulton’s transphobic gamble to become a U.S. Senator blew up in his face",
-      "summary": "Democrat Seth Moulton’s transphobic gamble to become a U.S. Senator blew up in his face Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUU1HdXRxdWQyWVBlRmltbHJWTGFiZmhOOGRGanpVMFZPV1Y1YWpXQW9Rb3ROUUZkT3hnU0lNRDZiSjZIOE9CLVE4cURPR3dnTHBfSDBscTltQnNDVFp0ckxHZEpteHB6X0pCVGJPY0YxNF8zSDhMNUJOeHJPXzJpdk5GcGtjVVROYkF4aG1JVGQyaHJwaVI0RUdVZURRMWpPTktPaWcyWFUtT0cwT1FJX1ZSelF0Z1FJNUYw?oc=5",
-      "published": "2026-09-02T18:00:00+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     },
@@ -365,18 +377,6 @@
       "summary": "\"Find a new job\": OF creator gets mega backlash for shady gay comments Queerty",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1hIQ0FaLWN4VWwtcFEyUFg0VVFsRmhLbGJOY2RRX2t1bEZWaW5KRlVmeEV5OXdUZ2xNV185Qmxva2xiaDl1SW1XdzljMHFwVHE1QXVRUF8wLUQxRjlXUnhJV0ZlWWxzLUdPazRKZjNhU2pzSUU1TzlZblU2ZVV5a0IycHBUTUg2djRQTjA5TzFOb0xlWDVFd3FKSVUzVkVtbWxv?oc=5",
       "published": "2026-09-02T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco firefighters rescue person trapped inside garbage truck",
-      "summary": "San Francisco firefighters rescue person trapped inside garbage truck CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlo5QTFjaDRlS19qd1A5cDdjbk8wM2RGSkRVampqMjFCVjAwenRaZnF2T0IyQlRJLTY2cU8yN1E4ODJZeTNOVFZKbkFxZ3NMZ1phb0lya1ItU2xLWW5oZlE1NVV5SnlaQi1YYjN6ZFpxYWpXV1dPVHktYmdGMlU0Y2c5dDF6NHdjTTE4aDgta21LQQ?oc=5",
-      "published": "2026-09-02T16:48:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
