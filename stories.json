@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:35:07.523606+00:00",
+  "updated_at": "2026-09-04T15:55:55.725261+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Germany's far-right poised for power in state election",
-      "summary": "Germany's far-right poised for power in state election NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DalZISnhrcWxMSGdBem81R0E1SFJtSzFZX2NEdnlwV3lGUHhmRkpvQmdpNlA3bENRX05WelJ1VTZnQzFWakVBSGRjOWdfcmhMSHhlcmZKcnJGQ1pxRHJzR3gzeVIzYVN4aWZ4SGxEZUZ1NG9vT2dObk5uSQ?oc=5",
-      "published": "2026-09-04T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "What the bond rout means for your finances (Hint: It’s a mixed bag)",
-      "summary": "What the bond rout means for your finances (Hint: It’s a mixed bag) CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTXN5c2pvb2o4cy1VQlpEc09vaEMyd2lxUVU1M08wTEhXVUp6ZUJrelZ0cWJDNGJjTFRfb1N5eW92cFlPVV80MERDWWdsaS1qNEFMUFNXWDhHRWxHNGF5MHIzbEczUUY0R1V0a1FScEQ4amg1NE91UlhhMGhwVlpYUjR5U0VqMzBoZmc?oc=5",
-      "published": "2026-09-04T09:30:29+00:00",
+      "title": "August jobs report shows U.S. added 162,000 jobs, more than double economists' forecasts",
+      "summary": "August jobs report shows U.S. added 162,000 jobs, more than double economists' forecasts CBS News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdkZNV3h0SThyT080ZE5PVDVxWFMyZnJCck9tYXY0ckd1ODh6bml2SFJCbzZNbjVVcjg4YTBuVVVmekwzWFo4bmF6SzR3MS1GcXZZQzdGZlpLVm1SOF9IMHFMa01IM0xRZXBjZEpLTmNkZw?oc=5",
+      "published": "2026-09-04T15:06:49+00:00",
       "beats": [
         "Business"
       ]
@@ -47,34 +35,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "What to expect from the jobs report today",
-      "summary": "What to expect from the jobs report today CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiT2NjNllyVE8wc0VhNlRqc3RncHB5NGlMWjFvdl9xRThZLUtkVnJzU0pENlZIc0k5bk9OM1AwRWVUQ3lyeHFjUHhyWXJ6OG9IbDBaZVpSeDlVR3dvQWpUZnhmdmxvaVE3SG1mQQ?oc=5",
-      "published": "2026-09-04T09:00:29+00:00",
+      "title": "Trump says he will cease trading with top partners unless Fed lowers rates | CNN Business",
+      "summary": "Trump says he will cease trading with top partners unless Fed lowers rates | CNN Business cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg?oc=5",
+      "published": "2026-09-04T14:23:32+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "This city is one of the world’s most important AI hubs. It’s not where you’d expect",
-      "summary": "This city is one of the world’s most important AI hubs. It’s not where you’d expect CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53UDI3b01qanVXWFV3aGJoTlN3aENvY3RhQ014S0I0TDJHU05QdVdleHJxVUQ1dU5nVlFZenc2TGtPUFlwZzNqR0dzQnZ3QmM0RlZCbVRpUG5NSndjaVFvd1NybzA3NmhRZF82ZE8tQWtOcXFs?oc=5",
-      "published": "2026-09-04T09:00:29+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Inside the Nepal Tunnel Rescue Operation",
-      "summary": "Inside the Nepal Tunnel Rescue Operation The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmh1RWJrVjZHei1DYWJ2TC1HTkhCUjlUOW1CbENQdEVpZml6QTBTcEVMUVRnenM2dlRFal9XVWMza1RxNXNrejh3RWZjYlQ5TEU2aXQ0RTBUWGR0Q3V6WWZVNE9xb0huMlpGbzRjMm5Fdm1MNFNNa1VNNW53QWpCTTNOOW9zZUwyMFJ0Wk5Sdw?oc=5",
-      "published": "2026-09-04T08:57:28+00:00",
+      "title": "N.Y.P.D. Fatally Shoots Man With Knife on Brooklyn Bridge",
+      "summary": "N.Y.P.D. Fatally Shoots Man With Knife on Brooklyn Bridge The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2NPd3JtQmptc01DUm9yNVQyZVNCTG82MHNpQk9nV1d6UV94bnpyZmFSRnBRa1dXYjhjcE5Cc2o3YXFRVGtqMF9QTGp2TFE3OVdRZ1BvSlAyV2p6aXZHMGFUa2FzcTNuc2hpNVlVVzVneEJqbUpFT2xBUFVrZEx6aFRxaW8?oc=5",
+      "published": "2026-09-04T14:16:12+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,60 +59,108 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
-      "summary": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY1VMRWpNNnF5TVZFV3I1c2pRVURDaEN6VERDQTctRXpsdWxQLUxqanlZUWhlTnl1ekRvNWUzdS0xMHl3dlBfVUdvcWFqSUw1RnBnTzdoMUtSV2ZBb3NCbTFUWmZXX2VnaGthTTFKTzN2UFVNS0lmNNIBfkFVX3lxTE5vS2VVMndVYUJ6SkU0aC14VzMwY3dKYkNTekowZnJZUW9zNllkeTg5d0kyNlk3Y0pNei1FOHNqZ2NKbFV1QWNrbWpocGRTLUpWTmZWR185dlh0S3VCdTd0Rjdpc1lSX1o0NDI0cTNDOThSMXVyRkxLMFpkZjl4QQ?oc=5",
-      "published": "2026-09-04T08:08:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The price of diesel hits a record high",
-      "summary": "The price of diesel hits a record high NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mRE41N0E1NzZmLUN1X2ZaM09CRzB3dWx4Uk1EbmRiS3E2c2VxU3hUY2xacDd0eG5qT0VCS0RjTEdqdUJFRkdEejZ4TXpfUEw3WE1yUnRIcHIwUm9SN0t0TkZXdlFySEJGVG5tY19PVmxOQktwbFlPZg?oc=5",
-      "published": "2026-09-04T07:44:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
-      "summary": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OSTBaWU1wblFkbjJzTkI2dW1VUkRTWWZrcGpUYWZUcnI3eWtoZGQxRmE3b3gxT215T3RURXZBa21VeV93VnV5M2U5YWp0U0JMdzZFVzlZeTQwRDg0WTJVUXA5Y2ZfRTZTaWFQVG12VVhMclZHWXFBWNIBfkFVX3lxTFA0U19yVDhtR3RLUE9pMmt5anFUTDRnNk9HWjBGV0FIZzZ1S0Y5RjM5ZmhXS05mczdxVlFXeGJOZUloeUp1bGpaUzI2T3JOUDJYNFFvaVRpWE16S1QzVW5pbXI0a0ViTi0xTGV1NTZMZmF6b0NIYmZfelA4NzNQdw?oc=5",
-      "published": "2026-09-04T07:01:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
-      "summary": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmM5YzdZTDBSbk1rQl9XNnJDNnZsbVFxWWotQkptVWx3bWhZclVlWGdnQzMtc09ETVZuOWRMLXl6enNBLTlhZlhGd1VnNjNiWC1Bbm5oUERZUWM5a2t4Nk9LVkp1TkhLbE9EOHFhWXg5OHNtNHdTbXBTMWdXa2N5WkIzZmI2eUdnOXJJYVZYeEljMTJTVlhqVnF2elFVUGFtVTVtc19Na9IBrAFBVV95cUxNTEhBaGpqV1E0Ylp0OVVYcWxRRF9Xcmd5X0g4MVdRMTdhTEtVejJfUXF0RE8wZ0ttLUNzQ0gyQkVzczJFVENvdkY1ejZGc0RNdW1KSG5UOElhMlo2OGpMUlczbWNtU1p4VF9mUDRtM3lRNGl6OU9HVnNOakRUZHplRjdmRHZvWm1nRE00dU1KcVJQVmdMOUpMck1DWmU0Nlc5bFRTNUdpZUJKaVF1?oc=5",
-      "published": "2026-09-04T06:46:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
-      "summary": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ULTlvYlI4WllMeVNQU2RUekZlZF8ydkFMcnBHdWtodHd4V3YycEpqdTNmMFJsdnp0U3JXTXU2RU43eXZEZGFmRHpfRExzaE5rQ2ZjRUNwRHVaX0JGMG1idXdXRmRNWkJqZWVGZVkyYWk5YzdLNTBXbjVNUQ?oc=5",
-      "published": "2026-09-04T05:22:53+00:00",
+      "title": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
+      "summary": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HeTNQR2RmZVBoaTNhQUxHVXMwaHZDLVhmREt3alRiODhWN3EwTGVUZEdRdXZ2WEhlUXpPRHF4ekU0Uy1UOUJQNEhhemQxUXhvRndYSGFHd1VhbzlTVnZUVmpZcHZJRVJIZ2h2aGFqbnLSAXZBVV95cUxNNVpJc1FvbWwzcldHSHdFMFN3WEpacXg1T0pmSzd4cUxLbmZpQjRVeUUtY0RVLXJCX09MZURmUGFxNmczOVp0LVpwVHhYRU11ZVd4MU5LYzd1MDBrNF9UczFWVzFFQ0YwOWZYVUg0cE5XQ2Fsc0R3?oc=5",
+      "published": "2026-09-04T14:10:22+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+      "summary": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52cjlSWm5LQ1doMElfb2xlcWFaUkRoWlV6Smt6dFdRQ3dRUEdaYzNZWl9YVHMza1pxN3JUTklKQ2pMOEVmalhSUGlGMklmOHB6WE9zZWRTakJ0cHUxRGZSajkxclRkbEZ0VkNXeFhqUHbSAXZBVV95cUxPZ1RsQW1NOWNfdUswMm9MTlE3VGtFdmpDc19ZWnR1Mm1BaXZfcGdmcXhYRGpmRDdZZ3FmNl9MOUp0YVJmUVVZTlZLSkFOQVVmRmpCVmdmZ0x3UlY0NXVkYUVCV0pFNGkxUWVLcHQ5WDJhRVNkMnV3?oc=5",
+      "published": "2026-09-04T13:56:57+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Philippine vice president is ordered arrested for threats against the president",
+      "summary": "Philippine vice president is ordered arrested for threats against the president NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmg1WjcxM0Ixbk83WENKdi1qbFJ2US1md3FCTjFWMjd0bExoS21hYXJLVGtzUC1mWUpqdFY0a295MTQ5dEplRkVrYWRCU3BiSS1lUndHTzZWSGFaU1k2dXVYZE5WN0hQeUJrZDFPcVpkVW5uSl9QbFItUC1Hc0ZJeWNmamNzYXQyR0otUlEwRDlrb1doVndRWXVENEMtRWdtd1doZnJUZzNGRjdzMVkwLVdPNmdDQkFOZ3l0ZW9nZw?oc=5",
+      "published": "2026-09-04T13:42:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Myanmar military head visits Vietnam to normalize relations",
+      "summary": "Myanmar military head visits Vietnam to normalize relations NPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSnA3Y3F5a0RBSFptU3ZpS2UzbnRyenRfOUo0UDg3WGV1RW9MRFd0TWc0eExfaUcyTXdqZkk1VV9xcTgtb0VpcVZFYTlLTW1IbUJRaDZSbjlsU1czT3EtdHIyMDYyY1BSaHJaVUQxVjBub2pWd1U4VEJTVmZJTTJsVHJmS055ekd6VXVmdllUTGRyQXVreGEwWDRvZjF5MGs1YWlNTg?oc=5",
+      "published": "2026-09-04T13:35:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump says ‘nobody will’ build monuments for him once he’s gone",
+      "summary": "Trump says ‘nobody will’ build monuments for him once he’s gone cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QVUl4cWNlYWk4ak5wV3hFQ2FEamJ3M1VVZ0V3TlZfbUI0WjdTd1pWRFZ0R1NRMWVIakNWTVMwbE5IZEhOMURZbU5TQVBPNVllRFlqbUtUNUdZMGJYYTdZbnA2VmtBWWR0NTd5MEhjWWROMEFJd2dpcA?oc=5",
+      "published": "2026-09-04T13:23:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The US wants to manage the stalemate in the Strait of Hormuz. Iran wants to break it",
+      "summary": "The US wants to manage the stalemate in the Strait of Hormuz. Iran wants to break it cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcm0zQTVkdG0wMU1qdkVjUEJRYVVXWjhIUVdfNm5IVHRHa3AyN2lsbGE3TldsMXd3NkFuaWhhbUF4aFY5bVd6OVJJWEliamROaGtoQTBDTTVzZExaMER3dkcwT2VTdDJPMGNxWjVhTUNSeVBmYkVNRG5GdXNSYUJUMGdKQTJmUzBw?oc=5",
+      "published": "2026-09-04T13:11:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+      "summary": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWWEzcDI3bDlYbmQwMXd3dXdEWFRfeFl1RnpKamFQcXk4cFZpeHk3b29CSENaam5iaWFUb3podkRBY1MySFVPdWhiR2tqMVNtODFOUXptNjVTR2xyaG4xUml3TDdyX0NmWWI5Y9IBckFVX3lxTFBEV2xVamRtYmZwNllaVV92YW5DSlBUbDhJSkJKX1ZKZFlPMXpFOHByaWhNeUs0Q2U4WWM5OVBLMTFMaTdPSGZBeTVESmZkOUh4aFdQWmZNNGpETFh0bVY2dFFsN2oxRnE3dXFVeHhwNnhXUQ?oc=5",
+      "published": "2026-09-04T12:31:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "No wonder 'Coyote vs. Acme' is resonating. It's about runaway corporate power",
+      "summary": "No wonder 'Coyote vs. Acme' is resonating. It's about runaway corporate power NPR",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpWG9lMndsNkhxbWd3LVVyVHJSRVkzWEZ6dU9CQUp4VUdyM0dNaTJRMm9MWUxZLWs4RVVSNkRoYU9mT21oNDJHc2s0ZlNqS1JScVYwMWhMdnZsd0R0MUIwLUpQMVZHdDNUMmlkQXB0ZXZHazhf?oc=5",
+      "published": "2026-09-04T12:04:23+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Before 5-year-old’s death, parents had a history of child abuse charges and drugs",
+      "summary": "Before 5-year-old’s death, parents had a history of child abuse charges and drugs NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjVwcFZNZUlfWEhMSlRLSmJ6SHd5WUZ6M09EYTliUWt2LTRuSGo3TlN1R2lsdXVuRTVkY095enMwaExWSzJIcUxOdXJ5dWM0YmxHSVJ0TGxEMmdiTDR6a0puMmh0MndoU2ZjUUNuZkJOMGtWaVpXQzgtUjVmMmFzWTVLTmRTX3EwRDdIUXJDeWVfdGVhQ1dCNTkyZVgydlFDWmd4cXg3YkZia0k?oc=5",
+      "published": "2026-09-04T03:12:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -152,30 +176,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Lindsay Clancy defense wants to remove juror it says won’t ‘listen to the law’ amid deadlock",
-      "summary": "Lindsay Clancy defense wants to remove juror it says won’t ‘listen to the law’ amid deadlock NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEhPakQ0aHNoUG5uTHpVWEluTm1PQl83UGJxcE5KLVZwN3JzYTdsY09DY19PYW5RWi1YUVNlbzM0NVRYN3BEXzJ5anNRdTdjZG5HbzlRVXJaWURaalhHT0FUTWdaVGdlbV9aUDlHTkJFVmJfUlBSVFdnVVNodksxSVJLUzNxaHdGcWZYWS02SUNlZ3hfVV9NRjdiWlNyMWRyV3dmVW93aEFDSzBLWVV5RENnZVg1bUNv?oc=5",
-      "published": "2026-09-03T21:09:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas",
-      "summary": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTFKTjh0ZjY5NnVaMm1FS28wUWlSRTlVNEJpVE1WcWRaa1VXX1phSkpsTE5MMHl5dnREYl9HSmVlMlZRZU9BaW9TRWt3TEl4QkJ1dVRqbGIwUnpqOEY3c0UtTC1Xa28yczh4Z3piRmMwUU1PcEtwdkFqTlRlcUxpNDhlQVFyV0hkNV9KREIzUl8wVmV6TndGaUVVUVlNczVkMzZzTTBYbk1FRjdMQThpQjl0aWpyZk0zX09SUw?oc=5",
-      "published": "2026-09-03T18:44:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -183,6 +183,30 @@
       "summary": "Trump DOJ tried to force California to ban trans girls from sports. A judge said no Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1llZV9qeDRJS0hfU2R2aEdEd2x4c3k1TW9MR1B0LUl0VzFFTDd2MGV5Rl8xNmt5SW82Vl82R0ZlLVhOQXh4a1hSbkxoMVFaM1pnd0J4X1I3X2oxb2tubEdfV2Njc3hmdDdCSTc1Q1J6UnlMWlRYS25uU1dweG5KX2puWTA3ZmM?oc=5",
       "published": "2026-09-03T18:06:06+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "OpenAI releases new model that it says triggered internal security measures",
+      "summary": "OpenAI releases new model that it says triggered internal security measures NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5",
+      "published": "2026-09-03T18:00:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "22 states sue Trump admin over \"unprecedented\" attack on gender-affirming care",
+      "summary": "22 states sue Trump admin over \"unprecedented\" attack on gender-affirming care LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzdLVzBQOXhZcTQxTHJXSGljUFNkZEYzckxNSXotdVJ5SG1DYndDTWZnSlJ5d0I3TVZLNXBmSUV3RFVzMWRJbE92Y05GRmhJM2VfeE8wRDV6cjBOWWpqNHhxaVNFSDFmUzRqS3FJS1dNMWlHWi00NWp4Y1ByRnAwcnFRX0NoNkNFQzlDWFFONDJuQ1RNNTJLQkVqSF9JR05VUGc?oc=5",
+      "published": "2026-09-03T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -200,18 +224,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "The Athletic’s review of Dianna Russini’s work concludes she was ‘noncompliant’ with standards",
-      "summary": "The Athletic’s review of Dianna Russini’s work concludes she was ‘noncompliant’ with standards The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVREdUQ0ckV4ZHB2Ym1EUFlicHY5RzdoYUdwMXpmUi16WUdIYVU2cGVoeUZ2akpMZTBZNy03Z091SDhWNzgydjlsbVB2VVRJY0xSd3dNdUVXT05XOUVmeExOblBsbXpJY3VBUWN5UXNENThvSlNnV2hQYllUd0dPRFF1YUZLUXVmLVk4eVVpWV9Lb19BSFBVd2FDbWJFRUNVbExFd3JGWHlFZw?oc=5",
-      "published": "2026-09-03T17:36:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -224,6 +236,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Billionaire Leon Black defies House subpoena, sues committee over Epstein probe",
+      "summary": "Billionaire Leon Black defies House subpoena, sues committee over Epstein probe CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOXy1kZkVTdl9Wd1ZOVmJXZ1E2RmFrWG16VWt6LWt5OWlwc21fcjBySTJFekJnMllFak1HZ1otZG5UTjg0WldLSExrdDdwZnhjd2Q0WkpaUU5wRUpJRVA5c2pRcFQ3a3RKdGtDWlJ4ZFhkUE1yTFp1X1ZOSklnN1dnOWQxZU5Qd2dWSkxEZExjSVFxeThy?oc=5",
+      "published": "2026-09-03T12:58:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -231,6 +255,30 @@
       "summary": "High schoolers say school counselors emphasize college pathways — and not CTE K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2NRY0JfSHlrd1pfdXc5MWxpVF9OemNVaHEwZEJUeUtBZGRlS1dmOGY1S0lrYS0tUFJ2ZDFSaWdZbklISVlHZ1VIWjctSTRTSHBxczI2NzZ3VGYyc1hxVTZ6RDE1UlJQaHVmVXBJb1g3MEFubTdTYWVaaDEwVVhLbHJTOWJLTlZsMjdjMnk5c1NFOG41RFBLX2h6bDVqenNXSmFpWlNSU2lYWDY0d200?oc=5",
       "published": "2026-09-03T12:57:12+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Who’s the Snowflake Now?",
+      "summary": "Opinion | Who’s the Snowflake Now? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHBnMTBZSVcxRzJtOWFjWm5mZUdFc2FtT0JLRm9hV2UycmQxTHZ0dG92dFZYRjdsYmQydUVnSGFZNWx0V3E3RjJCS2FBQUpBTmd3NXNUemFkUVNlajVVZnZpU3ljMFNWeHFTQ3R1NC1CSndwcEdpd2FGMXRyU1pVbk9ZTlc?oc=5",
+      "published": "2026-09-03T09:04:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Linda McMahon’s Letter to Colleges Is a Trap",
+      "summary": "Opinion | Linda McMahon’s Letter to Colleges Is a Trap The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOC1zblE4V0Vxc2g1NTVTbVUzS0lxYUJSekEyLTg4eE1vM0x6Mzd6UkJpYzZzY013LVFRMkZDVW5ER0lDYXpDZGtHY2FoN3BVcE1lSDZqdFpDRy12Ri1XeVVKWThrZmZXS2U1YWtBdnpKTGJfaDdlVnBzbV91ejVaT3VrYw?oc=5",
+      "published": "2026-09-03T09:02:58+00:00",
       "beats": [
         "Schools"
       ]
@@ -248,30 +296,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco unveils Alioto's Plaza at Fisherman's Wharf where iconic restaurant once stood",
-      "summary": "San Francisco unveils Alioto's Plaza at Fisherman's Wharf where iconic restaurant once stood CBS News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa24zR0dZVHFmU2FkaHNnUzViV25DODVJN2dWcFY3aTMzZU8wODBhcElkSHhMQWp0N3dDaDJfMk5Ybmo1ZDBqNHV3VEh0emhWbV9oSHJUUFBybWxvbmU5LVFvdmVfYWt6TVpBTlJWV295Z1BxazBtVVFTZEszYmI1aEhsaGpkSUZmWHhnamduTDdEVFRnVU1PYTQxRGVRRUdtVVhOT1NmLUc2SDlkal8tQWxqVThIYkNZSkx0TkpYdU1MNlhaVjZzQWE1bHVmZw?oc=5",
-      "published": "2026-09-02T23:31:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | I Was Once Considered the American Dream",
-      "summary": "Opinion | I Was Once Considered the American Dream The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcGEzaWtlalBZMXZ1Y05oQm5FVGZuUnR6Yi1yekpNSDNVZlZYT3cycGNuRGl0dVJnQ0RsTjh4dW5aVFVSSGxQbFVVdDJ1Mkw1UzlubS1Gb0x5RXVJZ08yMWhTdEZvenc0ODZlcnRmY1BtN1U1czJMUzZVcHJQVDFFaGxOSXBPS3FPV2hn?oc=5",
-      "published": "2026-09-02T23:00:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -281,18 +305,6 @@
       "published": "2026-09-02T22:46:17+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Karen Read's attorney David Yannetti weighs in on potential of Lindsay Clancy mistrial",
-      "summary": "Karen Read's attorney David Yannetti weighs in on potential of Lindsay Clancy mistrial CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODBFWEZYSWxqNW8zZGJaNkJVUjRfN0FndmJtUThPRGVLRXFraGRfc1M0N1ZzbzhzMkwtYmstQm8wSWtvdmdnYkVLLUgwNGVoN0k0Y2F5VjRIX0pQcnBDRnZqbkphaTN5VE5oaGRlejZ1bTBXWUZMQVNpVS1qdnJGaC1tNkZaWVdUTjVvaUpSQzlmY0hlQkVwZUtQRWxyY2V0alppNFhRV0JaaEtZY19oVEhuRC1qX3YybUNkOEFKOUM?oc=5",
-      "published": "2026-09-02T22:41:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -330,18 +342,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Warpath Dylan does double cosplay, EJ hits the showers, Paul Charles gobbles up a creamy donut",
-      "summary": "Warpath Dylan does double cosplay, EJ hits the showers, Paul Charles gobbles up a creamy donut Queerty",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGQ4YVl2dHVXcWhFRDBxdHFBazlfUFVuNjNES0pUaUtwamxHWF9ObTI2bm9TZ2gtRU5sUGhhMGJaY2Z5WlFpTGRubHQtdzNEdzl2bTZ5NlpjanJWbGFxM3ViWS1BblZoeGJrcUVBOUJBeTdnZ1otSUxwMWJ4SG9xYi1yd1JobjU0WHd0RjJyYnlxRm9KanVyY2ZFNDBod1Jwd0JwV0tMYWlZcUtXQ2JSZXBZUXVfMFNXZEN4NVFIU2oyd0th?oc=5",
-      "published": "2026-09-02T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
