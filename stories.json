@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:50:22.867284+00:00",
+  "updated_at": "2026-09-05T20:58:30.343198+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,47 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "LeBron James teases partnership with Polymarket",
+      "summary": "LeBron James teases partnership with Polymarket CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xY2swbHotbGt3SXRiVy13MnEtZWY2bXhOQXQwalNzOXNmcXhPQ3dZVnRnMVZnZldEeGs4bldCLWpxMEYyZjRBSVpjVHJNM1ZEc3FkaE5FOFQ0akRIREF3bG9PVmZVZkFuRS13UHVtOGgyOUNja0hXaUdBbGjSAYIBQVVfeXFMT0ZQenNCTzUxVHFUUVhLRkxfVUZ4TmN6TVpYQlBDckVFUThOQ0RGUTRmTndVcVJNd3ctX01aZU5NeV84ME96RHg4QWRQZlk1U3cwZXZCU09NQkZydkZzTjh3bGhjSWNLVlJmSndpOUU1UzVndE83ZVVDWm5Tcm9iU0xvQQ?oc=5",
+      "published": "2026-09-05T19:14:59+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Former John Fetterman Aides Threaten to Expose Senator’s Internal Messages",
+      "summary": "Former John Fetterman Aides Threaten to Expose Senator’s Internal Messages The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODlGZnYydmpLUXJGRlhQTXR3SDJiQmJlTFcyaTBXcXo5ZXFNYnRWeEg2RWFRVlNlNE50NmRrUHg1dHFNb1J5ZU9JbU5xSERtQ1dSaldxanh4RExlanRpaTBXc3ZrRmREd0dqbE9vZW0wUXpkc1lJX0dUTndJYUgtQklrWGhSZw?oc=5",
+      "published": "2026-09-05T18:31:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says",
+      "summary": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9QLUF2VURBREN1RW5CZ2Z5cjdiTUpvU2Zhd3FKRHJ1X2FSQmZqMlNXUFN6Z2VrelJ3Nkl4OHRRYkllZGRSOVdFdlhEVXpvMGkzcENnYVZHMjVRcVZ0WUxvR1Q5ZEFTYWNydjlyc2M2ZHF3Y0JYU1ctSndocV9tS2UyNG9ZdzN4dE1zakxTcTdoNXhpMUE?oc=5",
+      "published": "2026-09-05T18:06:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
       "title": "Control of the Senate could hinge on these independents running where Democrats aren’t",
-      "summary": "Control of the Senate could hinge on these independents running where Democrats aren’t cnn.com",
+      "summary": "Control of the Senate could hinge on these independents running where Democrats aren’t CNN",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tcmI0MzU0ZmR1dk5jbU5DTE1CV2htMkRlZTRwYWdPNl9WN29Wb1pkNTZlNWF1emR0bmVvZWZpQkxqS09oTGlmOGhNeXB1NTZfQnNoNUc0ZjFRQXhUZ2pTc0U2dDI4WjlhNWItOUhlMWZ1V1MtWEM4?oc=5",
       "published": "2026-09-05T16:00:29+00:00",
       "beats": [
@@ -32,13 +68,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-      "summary": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOTZYWC1FMTRxUzBPV2lSZlBIQS1mNHZTN2l1VlFRZW80SGMzWUtKT01Ca0xncjNiZHk4dXNRTGRFRnRuQnYtU3NSV2FkUUhyME13RllPYXZQNzJXWDVfYnVqN0p3cW5JeXljVWotcjFiSmI3dXZlTkhn?oc=5",
-      "published": "2026-09-05T15:05:08+00:00",
+      "title": "UN adopts new map to fix world’s proportions",
+      "summary": "UN adopts new map to fix world’s proportions CNN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2F2TmdMZmd2OEc2WFZFZ3YwWkl5RDRaU0Zxd3hpSGZWY3FOY3UzNTFPUFNGc0JKMW93d2xqLWZRT3BlTU40ZG1JcEV0UThGb3BEUk9TMmItVTY2YV9CWmN6ZjRoaG96d0VmT3RGZmRzQk5mNUVzTDVtZVo5MzRjcXFxZWl3UVI1STY5UVltTnlzOGN2VEpoZkhUMDNMdEU?oc=5",
+      "published": "2026-09-05T15:49:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,35 +92,11 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
-      "summary": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenNvT2xaSjVjWG1QMzk2UFI2X2xfX0pQU0NyOVQ2Nk5Ccm1BRXVuWDVYQ3pERVk0eTZkdW5TMEV0aXcxRFF2dW0xY2d6X2ltWmxwVDh3ODNLbUZpWmk0Nk9XRWVCaUIySFpOMVczWlJaU3liUmJmcW9lUTZnNGlUSkQ1alN1TUNTdFRfTUgtZ9IBlAFBVV95cUxPR21DOTRJRHFUUjk3SnA3S3VqZllLZDBVLXFMcWM0Q2I3STZCOHp1Qm0ySGRUR3lQSzh4RmVlSXhwSU5YOTc5U2F5MlVsQUsxNDZwZGRHZjY5dHdLcGxDdGtGdlUyVnNZX1R3VmJJZGhPS3IybWxvZFd2OWtySms5QXlTM0FEdUkyVjNUYV9ZX0lPclZu?oc=5",
-      "published": "2026-09-05T14:46:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says",
-      "summary": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9QLUF2VURBREN1RW5CZ2Z5cjdiTUpvU2Zhd3FKRHJ1X2FSQmZqMlNXUFN6Z2VrelJ3Nkl4OHRRYkllZGRSOVdFdlhEVXpvMGkzcENnYVZHMjVRcVZ0WUxvR1Q5ZEFTYWNydjlyc2M2ZHF3Y0JYU1ctSndocV9tS2UyNG9ZdzN4dE1zakxTcTdoNXhpMUE?oc=5",
-      "published": "2026-09-05T14:38:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
       "title": "US military strikes three Iranian tankers in retaliation for missile attacks",
-      "summary": "US military strikes three Iranian tankers in retaliation for missile attacks cnn.com",
+      "summary": "US military strikes three Iranian tankers in retaliation for missile attacks CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVlZfRVpnZHk5LUZINnd1bUh0Mkp3N3FoU3ZpT1Rad3ZwbzU2SllpNEUzeFpjdms2SWI4MWFCSVU4S2JtQ3BRTUNRQ01ybWprRmFybkNUdDk4TWxtZTFiWV9CQzJha0JWdlh0XzhHUzJSa2hEQkE?oc=5",
       "published": "2026-09-05T13:52:09+00:00",
       "beats": [
@@ -95,24 +107,12 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Abel: Two ways Berkshire hopes to cash in on AI",
-      "summary": "Abel: Two ways Berkshire hopes to cash in on AI CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1lLWVpXWnFzQVRBYVUzczVRT0JaSldOeXdWY3E0NkdkMXlHUXl0UllCaE81aFV2Zm12NmZ0b3ViU0xOU0xEbzk5WUw2ejlCaVZQWGN5RnJpbVltRzcwV3A4MjZPOFhaR2g1bGZ6RG11NEFSQTJ1OHd6Z19DTXBieDljSXg5QXI0WjZv0gGQAUFVX3lxTE1VNGJ5VTFJTVdPdTVlSHV5Z2JSS2JFOXRUUGFwd1FlT2JLZDM3X1ZweG55MHNHOVhpUHM0WU9SYXNDRUNEOWxJQld3WkxfRks0YnRzZjFCTUhCSFZPUkFRVHVnclo2Q3F1UWJ1UjlUUEh2T0JMaUtvX3NxNU8td0QxVzhydkttOXAzZmRIUDN3TA?oc=5",
-      "published": "2026-09-05T12:44:49+00:00",
+      "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+      "summary": "Many truckers don't feel like the rest of America about AI data centers as business booms CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwLVVsX3VUZ3lBT1R4REFEY3RQTHF5SEQtVWxNSDhtalFvZGp2WHl3UEZPb1c4UDY3U3VaZWFGRmdQNW9LYTJGRHBLUW56SFJhZ2hNNFIxRC04WElZV0VtYkdnWk5TTXNaTXp6ZnRselJMOUXSAXhBVV95cUxPWW5SaEZRRjBWNnRuamh1SEhWQnY3UnVOS0FuXzl2dVFINW9xbVYxSWJQTFAzcmR4RkZDb2xkbGw1NElVbVVjU3prLTMtc3dPNFpuNTRxZDBrZ3M1NFNLdEppNXdjM3kxV0N1ZkZrVmNWOHRuTnVWOTc?oc=5",
+      "published": "2026-09-05T13:33:08+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Barry Morphew arrested days after being ordered on house arrest for alleged hit-and-run",
-      "summary": "Barry Morphew arrested days after being ordered on house arrest for alleged hit-and-run cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWUxdV9qNVNzS3NYbXRCWmpocnRfdkVSTGNDMkEyVjRxMmlFZU9saDZFMWUxelQ4R3NlZ0s3X1BXazhZeDJEOXpaYVoxSGpMSkJVdFlOa3JvWjZSSzJGbE03OTVBU3Vqa255aHd2OWFXUDBBcWp6NVMwYWNDeV9DTjFEUEI?oc=5",
-      "published": "2026-09-05T12:12:03+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -123,6 +123,30 @@
       "summary": "Opinion: A sculpture in perpetual motion, removed NPR",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFgwSUdnbGhEcXpQMi1KMERhZkhPM0s4VDFVM0FtRTNjcGk2TmZTRmUxeW11cXlzNTJXZVVXTlVvcm9Hdk5VbDZFeWlFY1BXQlhRbnBOWmtDdk5KcUt0ZWYyb1pVTTdXZHlZcV84bURqNlp4SVdkbkVBYTJGd0doU0lITV9Jc2UwTGp1Ml9JdjQ1OUZuR1l3?oc=5",
       "published": "2026-09-05T12:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Whatever happened to the floating schools of Bangladesh?",
+      "summary": "Whatever happened to the floating schools of Bangladesh? NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTm5LOThSUE5lNlpRS1k5REsxRldMTEJJZm1KbEJfa053RVBhTVRTcm9LMHNQWk5LTG9BX1Q3VUhUeXNSeU4wV1hoN1hPLVZnUHZLY1FjOEc1UEhHb0oxWUtJNTRkWWxKN0RrQk5OOGFWUWRCSmNzOVgtbjMtZG03MHpOeUVQcUt6Rl84VWRn?oc=5",
+      "published": "2026-09-05T11:26:09+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | How Scared Should We Be of A.I. Right Now?",
+      "summary": "Opinion | How Scared Should We Be of A.I. Right Now? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNE14LXlhaVhMZEtER3ExUkpRZktGWVE1LS1WWEVhajJQcTNLb0hpWlBKVmhPQ3lKcGxsOXlzTFE4RXBVWWJTdXZMS0FidTNWZHY2Z0lLTWpQMnBhYnl6U0RfXzlZUHVmVmZtVEtPOHZ0YW8?oc=5",
+      "published": "2026-09-05T11:00:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -149,30 +173,6 @@
       "published": "2026-09-04T20:54:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pig kidney works for a record 271 days inside the body of American patient",
-      "summary": "Pig kidney works for a record 271 days inside the body of American patient NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0pVRVRmcUE2eHoxSUtyQzRKRkIyZ1ZFd0l6NXB1c2NrenliLVd3X3pJQmg1Sko2eXFrbk5Qd2pxcVRLam9oWi01RTh4LW54UV9MQUt0cG9EZ1FudWtBOU9lMXZQN0wzVEh1MHdjdmFmQnAyOWxYVDB3Qm9FaHVLR1JCZDNxVTNsMzFkRk1nem9GZnRxRTBuQjN1OFd5UVpITDhveWdKYw?oc=5",
-      "published": "2026-09-04T20:33:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Former John Fetterman Aides Threaten to Expose Senator’s Internal Messages",
-      "summary": "Former John Fetterman Aides Threaten to Expose Senator’s Internal Messages The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODlGZnYydmpLUXJGRlhQTXR3SDJiQmJlTFcyaTBXcXo5ZXFNYnRWeEg2RWFRVlNlNE50NmRrUHg1dHFNb1J5ZU9JbU5xSERtQ1dSaldxanh4RExlanRpaTBXc3ZrRmREd0dqbE9vZW0wUXpkc1lJX0dUTndJYUgtQklrWGhSZw?oc=5",
-      "published": "2026-09-04T20:26:32+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -289,7 +289,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "How Trump’s proposal to strip tax-exempt status affects California private schools",
-      "summary": "How Trump’s proposal to strip tax-exempt status affects California private schools edsource.org",
+      "summary": "How Trump’s proposal to strip tax-exempt status affects California private schools EdSource",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDlwZUxoMUlwNGZ5Nm9tVTlkeXRHbUczTEw3TnU1SEVtRm1tWU1FdS0tdnFGdVFCLXlRaGFrZXVCU29ZMlBmdm9DaXBwLTRiRGI4VHl1bk9qM1Y2ZnEyaExQdDA2RnN6dDgzUGxXV09admtoY0J6V1RVQWtvbGF4WjIycGlHSVFNd3ZYaTNCV1F0cmlRUzRHWG5nQ1FnbHNrbHVkdGM3Z1NDQTFGandKaUNKdlg?oc=5",
       "published": "2026-09-04T07:11:32+00:00",
       "beats": [
@@ -304,18 +304,6 @@
       "summary": "From nytimes.com - The New York Times The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTXBiOXZnOXpETVJJZVhkZEw3ZGM5ZWQydGVnb2F5UXJwV0VkZnp0dk5ZUldNMWN0RElGbGQ5UkNMSUF4YldMVXNJZDJ3anB5RnZ6cUNVMzd5U2x2V045cXpmZjZHVWM5bmUtcWpNS01SWEhKRjF4enZuV3NHa2U1V2lSdS1DUTlyUE5PeVh1X09ITTJwVFJ0MEhrU2ZTQXltbDEtcVFmR2FmSmtpWE9NMXdOdkNfdG9pSjQxbXdkREdTY3RGaU41eW41aWlmcUpRTE54NDN3c01MR1NTLS0zTWFhejVGb2MzWmRIQ0ZZaGhRaEdXei1VSTJkSVI4UjNJ?oc=5",
       "published": "2026-09-04T07:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic",
-      "summary": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BXSWNWNGpkVkhKcjJKUTNsRFQwVVhST1JYYUNDV0stclNJVU1HcXlIZlJQUG5RSEV5S0h6Nkk1MDRxNXJ6TThPbzFmVVZDRFRoa1NJS09FNnF4SnJmcHh3LWxxVHpPOU00X0xBVllQOVdFU3JKU1ZrVGpJZnhOSTBCTGZQU3M?oc=5",
-      "published": "2026-09-04T01:44:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -349,7 +337,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring",
-      "summary": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring edsource.org",
+      "summary": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring EdSource",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXc2cE5ES3RHU29pbW1rS096Q1dkOFRRTV9WNHViaHB4OGROdTVtUExzSUlBYjY0bnI5ZkpudWhtZ1VXa0RkNGlQRzhoT21meHBmY2NIRm04QVJYRXM4SzZfV0MtZnVSYUw3MW1GR1plZUVyWHlhaVJEN0xjeWtlRHA4NjhPNndFVDFwRFhpVjZzTXJjNkxWSDVsTkIxZ3lCYW80ZnNCZHRBWUdZ?oc=5",
       "published": "2026-09-03T20:11:13+00:00",
       "beats": [
@@ -361,7 +349,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Get in Line! Pre-K Expansion May Force 4-Year-Olds to Act Like Older Students",
-      "summary": "Get in Line! Pre-K Expansion May Force 4-Year-Olds to Act Like Older Students Education Week",
+      "summary": "Get in Line! Pre-K Expansion May Force 4-Year-Olds to Act Like Older Students edweek.org",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDZicDFoejhRMlhTS0J1N0tONHdFYjVGSGhRYzY2Vml2S1Iwek9XbTNyRUtEQjF5c2d5djFVS1JiVElIZFVaaVlZSV9fT2s3NzFYaEZJMWp1Yi1oVHlRTDNjcUhkck04a3h5eWJHS2tBS09KSXZ1cWFCMGUyOFhKUElod2t6X21rbVpQUExJWVlDVU5OcnJzeUlkRkFYWjcwWkt6cENtUDBsLWFxYW9Mc19zNHFBUkpBbDkxWDlwNXRJN2s?oc=5",
       "published": "2026-09-03T19:52:29+00:00",
       "beats": [
@@ -373,11 +361,23 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking",
-      "summary": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking lgbtqnation.com",
+      "summary": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd1RHNGJJUUZkZm1rclZab1JiQ1JfWXBWZjZDdzlQZS1ZWmpYSUQ3dVdxVmlBazhWRmVsUlFGVzlGbTFKZWU0YVdJMWJqX3YybEUyMXRxSi00Qk9LaU5jZExTSTdFbW9ua2pybENhV0oyZW5YNnNXR1BRdS1BMFpidUhxVnVRZEIwMGRWVEFRdHl2bF91MWV0dWgxM3hjQW8xRWd5WTQ0aXBOUVJ5MmFYSldHc2tROWROT1BlVUFyczlUdw?oc=5",
       "published": "2026-09-03T19:30:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas",
+      "summary": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTFKTjh0ZjY5NnVaMm1FS28wUWlSRTlVNEJpVE1WcWRaa1VXX1phSkpsTE5MMHl5dnREYl9HSmVlMlZRZU9BaW9TRWt3TEl4QkJ1dVRqbGIwUnpqOEY3c0UtTC1Xa28yczh4Z3piRmMwUU1PcEtwdkFqTlRlcUxpNDhlQVFyV0hkNV9KREIzUl8wVmV6TndGaUVVUVlNczVkMzZzTTBYbk1FRjdMQThpQjl0aWpyZk0zX09SUw?oc=5",
+      "published": "2026-09-03T18:44:55+00:00",
+      "beats": [
+        "Politics"
       ]
     }
   ]
