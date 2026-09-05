@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:36:22.834191+00:00",
+  "updated_at": "2026-09-05T18:50:22.867284+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Control of the Senate could hinge on these independents running where Democrats aren’t",
+      "summary": "Control of the Senate could hinge on these independents running where Democrats aren’t cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tcmI0MzU0ZmR1dk5jbU5DTE1CV2htMkRlZTRwYWdPNl9WN29Wb1pkNTZlNWF1emR0bmVvZWZpQkxqS09oTGlmOGhNeXB1NTZfQnNoNUc0ZjFRQXhUZ2pTc0U2dDI4WjlhNWItOUhlMWZ1V1MtWEM4?oc=5",
+      "published": "2026-09-05T16:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -27,6 +39,30 @@
       "summary": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted NPR",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOTZYWC1FMTRxUzBPV2lSZlBIQS1mNHZTN2l1VlFRZW80SGMzWUtKT01Ca0xncjNiZHk4dXNRTGRFRnRuQnYtU3NSV2FkUUhyME13RllPYXZQNzJXWDVfYnVqN0p3cW5JeXljVWotcjFiSmI3dXZlTkhn?oc=5",
       "published": "2026-09-05T15:05:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+      "summary": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFdHUjNvUG9RMmZ3VVE2Vk1OZ28zajNuZGdGTjZPMEl6ZGpZeWU3ejU2aTgtaWoyY3RlRS1KR0dvNFRuWlI1bW5PWEY5clhkNFE5eklrMkl0dU9IODljc2tNOWRWZ1Rtcm0xN0tmUGFnNEh3LUJFd1U5UElfQTYyaklB0gGHAUFVX3lxTE5CZVY1SVM2aEVJTHdFcl9ZYU80MHFDb3dFTlUteUdCTFNqdXZFRWlpUURMUjEzVEhrSG9mTkYtcVpDcnRvdzlkdVN3MmhSYzlJdnowM0VsNzJQbTJrTnV0MFotQTczemxoTlhOc3VIQm1ZQmI2MDNFZW81aW8tdHVacjdQUkFBZw?oc=5",
+      "published": "2026-09-05T14:59:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
+      "summary": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenNvT2xaSjVjWG1QMzk2UFI2X2xfX0pQU0NyOVQ2Nk5Ccm1BRXVuWDVYQ3pERVk0eTZkdW5TMEV0aXcxRFF2dW0xY2d6X2ltWmxwVDh3ODNLbUZpWmk0Nk9XRWVCaUIySFpOMVczWlJaU3liUmJmcW9lUTZnNGlUSkQ1alN1TUNTdFRfTUgtZ9IBlAFBVV95cUxPR21DOTRJRHFUUjk3SnA3S3VqZllLZDBVLXFMcWM0Q2I3STZCOHp1Qm0ySGRUR3lQSzh4RmVlSXhwSU5YOTc5U2F5MlVsQUsxNDZwZGRHZjY5dHdLcGxDdGtGdlUyVnNZX1R3VmJJZGhPS3IybWxvZFd2OWtySms5QXlTM0FEdUkyVjNUYV9ZX0lPclZu?oc=5",
+      "published": "2026-09-05T14:46:14+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +83,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "US military says three Iranian tankers struck in Gulf",
-      "summary": "US military says three Iranian tankers struck in Gulf CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80clViT1pWcjBiY0Q5YWpQN3NJUjVWZzU0b2Y3OXhWbUVfOGFnUzk3TGhwa2FWaDRDWGx5NTdodENseXlXVGhPcFF3RXJTb2NpMERtSWdxTlU1bm5SaGgtZ2x6NjNIT2g2VWV1YmpRVzRiYmFuek9FNi01RQ?oc=5",
+      "title": "US military strikes three Iranian tankers in retaliation for missile attacks",
+      "summary": "US military strikes three Iranian tankers in retaliation for missile attacks cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVlZfRVpnZHk5LUZINnd1bUh0Mkp3N3FoU3ZpT1Rad3ZwbzU2SllpNEUzeFpjdms2SWI4MWFCSVU4S2JtQ3BRTUNRQ01ybWprRmFybkNUdDk4TWxtZTFiWV9CQzJha0JWdlh0XzhHUzJSa2hEQkE?oc=5",
       "published": "2026-09-05T13:52:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Abel: Two ways Berkshire hopes to cash in on AI",
+      "summary": "Abel: Two ways Berkshire hopes to cash in on AI CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1lLWVpXWnFzQVRBYVUzczVRT0JaSldOeXdWY3E0NkdkMXlHUXl0UllCaE81aFV2Zm12NmZ0b3ViU0xOU0xEbzk5WUw2ejlCaVZQWGN5RnJpbVltRzcwV3A4MjZPOFhaR2g1bGZ6RG11NEFSQTJ1OHd6Z19DTXBieDljSXg5QXI0WjZv0gGQAUFVX3lxTE1VNGJ5VTFJTVdPdTVlSHV5Z2JSS2JFOXRUUGFwd1FlT2JLZDM3X1ZweG55MHNHOVhpUHM0WU9SYXNDRUNEOWxJQld3WkxfRks0YnRzZjFCTUhCSFZPUkFRVHVnclo2Q3F1UWJ1UjlUUEh2T0JMaUtvX3NxNU8td0QxVzhydkttOXAzZmRIUDN3TA?oc=5",
+      "published": "2026-09-05T12:44:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,46 +107,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Barry Morphew, free on bond in wife’s alleged killing, is jailed after hit-and-run",
-      "summary": "Barry Morphew, free on bond in wife’s alleged killing, is jailed after hit-and-run CNN",
+      "title": "Barry Morphew arrested days after being ordered on house arrest for alleged hit-and-run",
+      "summary": "Barry Morphew arrested days after being ordered on house arrest for alleged hit-and-run cnn.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWUxdV9qNVNzS3NYbXRCWmpocnRfdkVSTGNDMkEyVjRxMmlFZU9saDZFMWUxelQ4R3NlZ0s3X1BXazhZeDJEOXpaYVoxSGpMSkJVdFlOa3JvWjZSSzJGbE03OTVBU3Vqa255aHd2OWFXUDBBcWp6NVMwYWNDeV9DTjFEUEI?oc=5",
       "published": "2026-09-05T12:12:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
-      "summary": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kay1Tc2otM1c0c0Z4U2ZXUWp3YWVxV2d3WGJidUIwb0FxbUtFTW90LWpBTlo5LVRrTGhTaU0zbUR4azBGYmpLLTNONXVaQzFxWmFHWU9tYnpYellCSUJEQ21Pa25ZSWVSVjRuUUczVTFpV1nSAXhBVV95cUxPU3hpdWpTOEhOTGdZRU9ISWktakIxOXRRa3FhdVozOG5meEtwei1YOTR4aVByd2lCby00NTVWN0dVRXplTm5UU3FKUGcxY1JKVmc4YW1VN0NpRm54NVVjTWFINUhjMFk0dmFOSFRSR09lNWh5dm02V0E?oc=5",
-      "published": "2026-09-05T12:06:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-      "summary": "Meet the CISO: A new front line star in the AI cybersecurity war CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpNHNHQUFyRkhTcXhsMDVFaFpsVnJjR0hVTlB0VUQ3aHpPVk1ucGdGbUhDZnExLXJCZG05cXFmTnVwMUg1M3FuOFBPSlFJUk16MU92N1pYN0FscHB2a3hOdkhpTThwSmwwTnphbHUzZnF5Slhyc3I40gF8QVVfeXFMTVB3VEJaN2p3RV83VzZ1RjZRSm56cXlqa2pmWjVMQ1FUMllJVlBtakd4UXBORWNpeE5OeVFGYUJjSS05SFZHazlGOFBGVFFGUXZJY1EwOElGakxiR3c1Q0IyQ2g4aEFQVE1Tb1pHc055YnV2S3BpdU9qcFBhUQ?oc=5",
-      "published": "2026-09-05T12:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-      "summary": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry CNBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWVlQbndJSzVSRE1XSXN2bW5FWGlkd1o2c185MGFRLWxRN1lCcDhLQ0prd20zQ1FYV04xN0RTNURfZFhEX25CT201WHNXclpqZkdCdEJBSTZrX0tRTHhBekdadkNwcFpGSkJn0gFwQVVfeXFMTmlPbElvdmhVQUxFWkVFMlNHcklQeTNwVEoxSkliZWUxTlluTlQ3Um5hci0tcldIa0JOOF9DV01IZ3NVQ0QxZzllX0tMbjJJeGdoR3JGbmRZaVlhN0p5aGxCMm5uM0sxQ1Y4LXJVbUtUTg?oc=5",
-      "published": "2026-09-05T12:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -123,18 +135,6 @@
       "summary": "If you prefer puzzles to doomscrolling, here are 5 great games to check out NPR",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFdCTzVwUThwX1ZuMjF5ZWxncHZMQV9UVTNlNldqME9IOHdhS0kzTzNrWjAzczlyeDl3OVZMVmRiWlR1em02TFhCZWNYb21wWVE5N2JkdFVtbnF6RVdYREh4cVBmd3hpWE5OWEtVUFlWSm5jdkZ1X2UxNzJ1ZnMwNE1pNmJxbTdO?oc=5",
       "published": "2026-09-05T11:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump’s ‘Catch-Me-If-You-Can’ presidency keeps finding ways around the law",
-      "summary": "Trump’s ‘Catch-Me-If-You-Can’ presidency keeps finding ways around the law CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWdoZXZnbENVelpnZnRwNmdpdXJWcEpFVjg3S29XOXRNWjdQaHBpeGdXTFVZMnFlTHAtbExKc3hmS2thRWZiYUcyNWpJSWxPTy0zZkYyWTdNY3hsTU5iZGREa3RBVFNaQ29IUDdmRm1rR3hFQnVJbnJxOXdIbWdfWU9VemYyeVE?oc=5",
-      "published": "2026-09-05T10:30:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -228,10 +228,10 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "How Connor Storrie inadvertently kickstarted a push for more male locker room nudity",
-      "summary": "How Connor Storrie inadvertently kickstarted a push for more male locker room nudity Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlMxUE1ocXlhN1Nac2thRG1XR3ktS0llMzBiYVRndDNXOUZqelVWaFRQRFM4RmI3WkwydjgyejFpWWRFTF9ZcF9IZGJnNzJrZW9vSkFDdUZxdEMzU2NDbkIzOU9NZ19nam9lTk9DVGx1YnBVVUkwNHVsSGxwbDVOUmhFSHhxcVV5WW5CMmwxejRobE13ckNST2NESDcyQWo3U0xodjJ4VWNyZHVaaUs0MQ?oc=5",
-      "published": "2026-09-04T15:00:00+00:00",
+      "title": "My boyfriend slept with 5 guys in 6 days on our \"break\". Am I allowed to be upset?",
+      "summary": "My boyfriend slept with 5 guys in 6 days on our \"break\". Am I allowed to be upset? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGRNZGdLNzFqNU5zbGQyODJ0TmlBMUFwVkRUNmx6YXZzZlV1LUlfTmFFcXpNejU3UWRNb1QzMmVPVzl5bHVhQXNVMElxZ2tzMnZkaXFrSVN1NkhvVl9pdWZHRHlYYTdHRkVRTklmUUtiazJNd09xcm15QUF1Q2l0Y0t4OXVKSkR2SnJxbDdNS0wzd0UyOTJDM01Vbk5TbUYwd3NYOWo5VXM3SDlDajBHVmdn?oc=5",
+      "published": "2026-09-04T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -256,30 +256,6 @@
       "summary": "Lindsay Clancy trial juror appears to stand in the way of a unanimous verdict CBS News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbktvbTE0NWlfWFhzSzE0Y05IQk9jV0Zlam9GSlZUTGlVY2d4UDlCQV9UVi1LWWI0ZGNGMEtIV0FOUFdPX2loN19Jd2dfd3FKX2t2SUdkdW1tU3N1UlpvT045MWNaUDFJRzZob0V2MDlvOV9UcWwyY05QZks1Rkw0NmdiVURxNFpzdUp6VThRcUZDdEtxX1c3cDVMbXdKX0Q5dU91Ny1qVTc5eFhR?oc=5",
       "published": "2026-09-04T12:04:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic",
-      "summary": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BXSWNWNGpkVkhKcjJKUTNsRFQwVVhST1JYYUNDV0stclNJVU1HcXlIZlJQUG5RSEV5S0h6Nkk1MDRxNXJ6TThPbzFmVVZDRFRoa1NJS09FNnF4SnJmcHh3LWxxVHpPOU00X0xBVllQOVdFU3JKU1ZrVGpJZnhOSTBCTGZQU3M?oc=5",
-      "published": "2026-09-04T11:12:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | For Gaza to Recover, Hamas Must Be Expelled",
-      "summary": "Opinion | For Gaza to Recover, Hamas Must Be Expelled The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GM2RPVzZWX21ybXpteThzMmVUb19VYlVWaF9Uc2JCVlpIZF9vM2xqRjNPYTRLT0FEdmk2OVJaSjQ4T0hDQkl5dWU1c0ZTWnlmQ3JFanE0VWREUE00T0l3T3poT1F6ZXU3VUJYYlpnNmU1RmlFeUpPbUFjMA?oc=5",
-      "published": "2026-09-04T09:03:07+00:00",
       "beats": [
         "Politics"
       ]
@@ -313,11 +289,47 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "How Trump’s proposal to strip tax-exempt status affects California private schools",
-      "summary": "How Trump’s proposal to strip tax-exempt status affects California private schools EdSource",
+      "summary": "How Trump’s proposal to strip tax-exempt status affects California private schools edsource.org",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDlwZUxoMUlwNGZ5Nm9tVTlkeXRHbUczTEw3TnU1SEVtRm1tWU1FdS0tdnFGdVFCLXlRaGFrZXVCU29ZMlBmdm9DaXBwLTRiRGI4VHl1bk9qM1Y2ZnEyaExQdDA2RnN6dDgzUGxXV09admtoY0J6V1RVQWtvbGF4WjIycGlHSVFNd3ZYaTNCV1F0cmlRUzRHWG5nQ1FnbHNrbHVkdGM3Z1NDQTFGandKaUNKdlg?oc=5",
       "published": "2026-09-04T07:11:32+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "From nytimes.com - The New York Times",
+      "summary": "From nytimes.com - The New York Times The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTXBiOXZnOXpETVJJZVhkZEw3ZGM5ZWQydGVnb2F5UXJwV0VkZnp0dk5ZUldNMWN0RElGbGQ5UkNMSUF4YldMVXNJZDJ3anB5RnZ6cUNVMzd5U2x2V045cXpmZjZHVWM5bmUtcWpNS01SWEhKRjF4enZuV3NHa2U1V2lSdS1DUTlyUE5PeVh1X09ITTJwVFJ0MEhrU2ZTQXltbDEtcVFmR2FmSmtpWE9NMXdOdkNfdG9pSjQxbXdkREdTY3RGaU41eW41aWlmcUpRTE54NDN3c01MR1NTLS0zTWFhejVGb2MzWmRIQ0ZZaGhRaEdXei1VSTJkSVI4UjNJ?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic",
+      "summary": "Rutgers pays $1.55 million, reportedly, to lose to UMass — a 29.5-point underdog - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BXSWNWNGpkVkhKcjJKUTNsRFQwVVhST1JYYUNDV0stclNJVU1HcXlIZlJQUG5RSEV5S0h6Nkk1MDRxNXJ6TThPbzFmVVZDRFRoa1NJS09FNnF4SnJmcHh3LWxxVHpPOU00X0xBVllQOVdFU3JKU1ZrVGpJZnhOSTBCTGZQU3M?oc=5",
+      "published": "2026-09-04T01:44:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Armed suspect not properly searched at Pittsburg police headquarters shoots officer, himself",
+      "summary": "Armed suspect not properly searched at Pittsburg police headquarters shoots officer, himself CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZW9IV3JEandDLWM0eV83QkRiQXRWbFpDSFNHdG5hWDBPRzV3ZG4zZklHSGc5TUYyMWFUcW45NjlJbFNyd1J5dEdzUDFrUVE5ZmV1M1FKWG9DVHVhM29lMWNjVG5ialgwRHBYRThtWDQ1RTFDQ0ZNOTJic1FObjBvUG1ibzRYN1dXbVVlbG1vb2NiVnFJcE1JbFdrc3dPcThmYVJuRko0cDBwT0wwTHA1NjduUE0?oc=5",
+      "published": "2026-09-04T01:43:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -337,7 +349,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring",
-      "summary": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring EdSource",
+      "summary": "UPDATE: LAUSD satisfies budget revisions in 45-day window, county to continue monitoring edsource.org",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXc2cE5ES3RHU29pbW1rS096Q1dkOFRRTV9WNHViaHB4OGROdTVtUExzSUlBYjY0bnI5ZkpudWhtZ1VXa0RkNGlQRzhoT21meHBmY2NIRm04QVJYRXM4SzZfV0MtZnVSYUw3MW1GR1plZUVyWHlhaVJEN0xjeWtlRHA4NjhPNndFVDFwRFhpVjZzTXJjNkxWSDVsTkIxZ3lCYW80ZnNCZHRBWUdZ?oc=5",
       "published": "2026-09-03T20:11:13+00:00",
       "beats": [
@@ -361,23 +373,11 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking",
-      "summary": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking LGBTQ Nation",
+      "summary": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd1RHNGJJUUZkZm1rclZab1JiQ1JfWXBWZjZDdzlQZS1ZWmpYSUQ3dVdxVmlBazhWRmVsUlFGVzlGbTFKZWU0YVdJMWJqX3YybEUyMXRxSi00Qk9LaU5jZExTSTdFbW9ua2pybENhV0oyZW5YNnNXR1BRdS1BMFpidUhxVnVRZEIwMGRWVEFRdHl2bF91MWV0dWgxM3hjQW8xRWd5WTQ0aXBOUVJ5MmFYSldHc2tROWROT1BlVUFyczlUdw?oc=5",
       "published": "2026-09-03T19:30:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas",
-      "summary": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTFKTjh0ZjY5NnVaMm1FS28wUWlSRTlVNEJpVE1WcWRaa1VXX1phSkpsTE5MMHl5dnREYl9HSmVlMlZRZU9BaW9TRWt3TEl4QkJ1dVRqbGIwUnpqOEY3c0UtTC1Xa28yczh4Z3piRmMwUU1PcEtwdkFqTlRlcUxpNDhlQVFyV0hkNV9KREIzUl8wVmV6TndGaUVVUVlNczVkMzZzTTBYbk1FRjdMQThpQjl0aWpyZk0zX09SUw?oc=5",
-      "published": "2026-09-03T18:44:55+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
