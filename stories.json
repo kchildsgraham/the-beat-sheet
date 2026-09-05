@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T23:11:16.289538+00:00",
+  "updated_at": "2026-09-05T01:17:09.060981+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "American Airlines passenger duct-taped to seat, plane diverted after mid-flight outburst",
-      "summary": "American Airlines passenger duct-taped to seat, plane diverted after mid-flight outburst CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk90eS1rRHpQd19xdllKMU1TcWdOeWJlaTQxTXd0QVJuQ0kyT3RaYlhsaFcxMjVxMnpDV1p4QUhaQVBScVh1SnprRi1QczdLTW5nbU1NeURXU1YycE0zeWJMWG1qS0xhejFlUDV5TVhhUEYtSVJhQW82cGI1TWpKcEVtVEliSkFlcEE?oc=5",
-      "published": "2026-09-04T22:37:37+00:00",
+      "title": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots",
+      "summary": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXpmM3VTQkNraFZlM0JsX0NaX0Y5U0hodnBxempLQ1NCLVlxSV9RZHBybW43dVhMd2t0RDNsM1pqdnN5VVB3Qm82dHRxSGdjTkRMbDljb2NRdUFwWjkzc3ZtRU90WXMxU0tQODVpcWljY3VKYlJ4emYya3V5WjBaZVR5SmRVNlR3cjF3?oc=5",
+      "published": "2026-09-04T23:27:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -41,6 +41,18 @@
       "published": "2026-09-04T22:26:35+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "2 Trapped Workers Are Rescued After 9 Days in Nepal Tunnel",
+      "summary": "2 Trapped Workers Are Rescued After 9 Days in Nepal Tunnel The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQekthaVhYZUVkeVJ0QWJtXzdvdjNuX2dyLVMyZDZIdW1kSGRiSzF2U2oybkJjZlJtTzBlaFpOTHlLcjA1X3cya3F4Q2twVnlXRnZyTzE2VHY1THRVSHNmSkswUFJ5STNUVUw1YS1lX3M0RlJHeTBlaWx1V2VlWW9sTTc1VkxRUQ?oc=5",
+      "published": "2026-09-04T21:59:13+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -92,6 +104,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump promised ‘economic D-Day’ for Iran. The result isn’t what was expected",
+      "summary": "Trump promised ‘economic D-Day’ for Iran. The result isn’t what was expected CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnlmZTJJaklwbTJSQ2RMRGdRU1ExaVRIVlJGNTZRREczNWF6Q0Rzb3NYOHByc3o3cVJuckVDTkVMczhsQVNLN2RURktsVTRkdjN6b0FwNzNZZ0MwNjRKMmRoUEU0TEMyUERLeVV0Ym5lTUFsTnJRRlNyVkltMW5mN3dhOWg3Zw?oc=5",
+      "published": "2026-09-04T19:51:04+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -104,15 +128,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "U.S. Hiring Jumps, an Encouraging Sign for the Economy",
-      "summary": "U.S. Hiring Jumps, an Encouraging Sign for the Economy The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uWnNDV3Q2ZXZINW9nT3FBQ1ktcUxBQ2ZIazNtN3JIYU4yaWJHWnJWQm83UlpyR3N1N0JkWk56b0JEWTFub1YwdmNDeUpLTlh4dVQtLUduY19QZDB6T1M1RFB1dXcyNlJJaktzVE5MdXMwVWFzN1lZ?oc=5",
-      "published": "2026-09-04T19:45:49+00:00",
+      "title": "American Airlines passenger duct-taped to seat, plane diverted after mid-flight outburst",
+      "summary": "American Airlines passenger duct-taped to seat, plane diverted after mid-flight outburst CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYk90eS1rRHpQd19xdllKMU1TcWdOeWJlaTQxTXd0QVJuQ0kyT3RaYlhsaFcxMjVxMnpDV1p4QUhaQVBScVh1SnprRi1QczdLTW5nbU1NeURXU1YycE0zeWJMWG1qS0xhejFlUDV5TVhhUEYtSVJhQW82cGI1TWpKcEVtVEliSkFlcEE?oc=5",
+      "published": "2026-09-04T19:23:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -128,19 +152,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump administration quietly closes criminal probe into Venezuela businessman amid oil deal",
-      "summary": "Trump administration quietly closes criminal probe into Venezuela businessman amid oil deal CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalZPYXV5R3pXOFdKM2E4X0wxUExabUM4d0NWTWhPbktIb29pVkt0c18wSTlCTjB4OGh3cktsU0VpQlV0elM2NFNvUW9zMnVmWlowLWlndDMxWVo1cFJyZFRkWWdGTm0xU3RVamdFYS1UcHJKcHUxZUNEMmo4SFo4YVlrcDlicmxWYVF3?oc=5",
-      "published": "2026-09-04T18:34:39+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -148,18 +159,6 @@
       "summary": "Women accounted for almost all of job gains in August. Here's why CNBC",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTkhZWWVQY2I1aEhKUENrQWtQZnlieWNONDZxMnRGY0ZBU01IWmRMMllGYzBkdWhzUXJDYld1bV9lWWRWbmR4RnFhbXNLYmdzM0ZURm5LelpXRDIwRXo2ZkN3anN6S3hyNGFJcHFjNkjSAXZBVV95cUxQZkVpc0NMV2hCNUhYaUxWb3Zwc2pWNEkzaHNaNzhjaElwWERrYzBmczFmX0tfaWdNVEhSSlhhb0U1RDBSV0F1VXE5UllLSU5jUDdRM2JXREh0UEhYTlNCaDhvVy1LTHFyNEQxVVk1anZtRDFYakZB?oc=5",
       "published": "2026-09-04T17:49:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Unsealed federal indictment details alleged lies by ICE officer charged in Minneapolis shooting",
-      "summary": "Unsealed federal indictment details alleged lies by ICE officer charged in Minneapolis shooting CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajlPS1BicUJyZ2pUczlTSmh5Y3h1TDI3MkdFTWdObmRRTXdndnVGRVpZSWtmY05mTWdyQnQwTjBwYVA1a1FYNkhiWG5mZHE0X0t3Zmw2Nm1FaS1xUURGRFVTeTZmSEY2cHpTZ29DVWkwcDlxRnlsYUtqdVV0ZzYwZlhuUTcwU2RZLXgzT2F0eUF1QkQ3cGozeFVTUHNILVZBZHFXVG9PLVRsVW8?oc=5",
-      "published": "2026-09-04T17:23:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -174,18 +173,6 @@
       "published": "2026-09-04T17:21:14+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says",
-      "summary": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM29VQllNaTNMRF9GdDY1LVM3VzZGNS1wLWlCRDJseU1oRHVSdTdBM1FMUHFnSnlxLWZIS1BvaEM3VjNlYzZIcDdDMDY3eS0wMFYtZU1jMXNpUzFLZWlob2wxTmlDbXBRdEMxNUVkSVFpTG9La3RxSUpQWUpTc0RUMTYyTjU?oc=5",
-      "published": "2026-09-04T17:08:30+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -250,6 +237,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Lindsay Clancy trial juror appears to stand in the way of a unanimous verdict",
+      "summary": "Lindsay Clancy trial juror appears to stand in the way of a unanimous verdict CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbktvbTE0NWlfWFhzSzE0Y05IQk9jV0Zlam9GSlZUTGlVY2d4UDlCQV9UVi1LWWI0ZGNGMEtIV0FOUFdPX2loN19Jd2dfd3FKX2t2SUdkdW1tU3N1UlpvT045MWNaUDFJRzZob0V2MDlvOV9UcWwyY05QZks1Rkw0NmdiVURxNFpzdUp6VThRcUZDdEtxX1c3cDVMbXdKX0Q5dU91Ny1qVTc5eFhR?oc=5",
+      "published": "2026-09-04T12:04:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -259,6 +258,18 @@
       "published": "2026-09-04T11:12:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "How Trump’s proposal to strip tax-exempt status affects California private schools",
+      "summary": "How Trump’s proposal to strip tax-exempt status affects California private schools EdSource",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDlwZUxoMUlwNGZ5Nm9tVTlkeXRHbUczTEw3TnU1SEVtRm1tWU1FdS0tdnFGdVFCLXlRaGFrZXVCU29ZMlBmdm9DaXBwLTRiRGI4VHl1bk9qM1Y2ZnEyaExQdDA2RnN6dDgzUGxXV09admtoY0J6V1RVQWtvbGF4WjIycGlHSVFNd3ZYaTNCV1F0cmlRUzRHWG5nQ1FnbHNrbHVkdGM3Z1NDQTFGandKaUNKdlg?oc=5",
+      "published": "2026-09-04T07:11:32+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -331,18 +342,6 @@
       "published": "2026-09-03T18:44:55+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "22 states sue Trump admin over \"unprecedented\" attack on gender-affirming care",
-      "summary": "22 states sue Trump admin over \"unprecedented\" attack on gender-affirming care LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzdLVzBQOXhZcTQxTHJXSGljUFNkZEYzckxNSXotdVJ5SG1DYndDTWZnSlJ5d0I3TVZLNXBmSUV3RFVzMWRJbE92Y05GRmhJM2VfeE8wRDV6cjBOWWpqNHhxaVNFSDFmUzRqS3FJS1dNMWlHWi00NWp4Y1ByRnAwcnFRX0NoNkNFQzlDWFFONDJuQ1RNNTJLQkVqSF9JR05VUGc?oc=5",
-      "published": "2026-09-03T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
