@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T22:47:05.820680+00:00",
+  "updated_at": "2026-09-06T00:40:28.485542+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,31 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "San Francisco police arrest suspect in Marina District stabbing",
+      "summary": "San Francisco police arrest suspect in Marina District stabbing CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1k5S29RdG1xRFBfdlE4NVl0UWhXU1JuVDdzUUgxWEZvZ1lKMnh5N2hIQURqUHlLWXQ4bFNaSzZXX3pSNng1Z1dOYXdDYVJuU1BiYm96NGtHdG1JMnNIXzJ1T2ZQWE55VUs2WFFma0ZyQ3p2NUUzamZic2tWUENoZUpXNF93eE9rVEFhME9seExwUk9FTUdCeVJscUxEUjU0djljN09xN291UQ?oc=5",
+      "published": "2026-09-05T21:27:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+      "summary": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site NPR",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHhEbExyNS0xR2xXbmJFTExVbGs4ODZRQXpQR2YxNFlsUG85bXlXOXhLaXRCYVFFSkU0VndROW9qaWJ1eU5rdU9LOWIzNHhvOHJyNnlrZDdwMmJqTHBXWV9IYUx0T2NtbzZlbllQSHFHLXlZempXR3oyNHlDUWtaZ1c5YWtmOGU0dndFQ0hIWXFBenEyYVdOREdtcERFejBFUHlnWnliSVgtSi0xcndKSDlVYS1uaGY0OE9SdkdFT3hRZHJMeXlrOVd3?oc=5",
+      "published": "2026-09-05T21:01:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -29,18 +54,6 @@
       "published": "2026-09-05T19:14:59+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Guyana becomes latest \"third country\" to accept migrants deported from U.S.",
-      "summary": "Guyana becomes latest \"third country\" to accept migrants deported from U.S. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xcXhsTmROWkY2X1lHMnQtdmlhRGxkdnAyXzdTMlBVdUxlM1B1YW5NWnBVdkJuNDhzbnlkeDFwV1o3b3JQVjhHWGhZMjF6MXhrdVcyNGxDUWJhVjFMZEZYelFkMjRvRXA3eXJ4MHFoclo?oc=5",
-      "published": "2026-09-05T18:35:46+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -68,6 +81,18 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "summary": "Trump turns up the heat on Warsh as Fed rate hike looms CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5",
+      "published": "2026-09-05T18:10:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -75,6 +100,18 @@
       "summary": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says NBC News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9QLUF2VURBREN1RW5CZ2Z5cjdiTUpvU2Zhd3FKRHJ1X2FSQmZqMlNXUFN6Z2VrelJ3Nkl4OHRRYkllZGRSOVdFdlhEVXpvMGkzcENnYVZHMjVRcVZ0WUxvR1Q5ZEFTYWNydjlyc2M2ZHF3Y0JYU1ctSndocV9tS2UyNG9ZdzN4dE1zakxTcTdoNXhpMUE?oc=5",
       "published": "2026-09-05T18:06:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Justice Department has issued subpoenas for Nevada voter data, state’s elections chief says",
+      "summary": "Justice Department has issued subpoenas for Nevada voter data, state’s elections chief says CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0dIel9CRHp0Q3NTQUFDTGxJMERFWjgzS1NJTHZDcGo5d1MySmJINzdSWmVuaTlmMWhEYnRtVFZKUjNIV3JQVjR0NEZQWm0wUjhvSUlfcmxXVUlFREcxc05QWXR0MGJ5UlJOTjJFSTVWb2dLQlRMZ2V2SVhSWmpYX2xYMmR3cHY4RHc?oc=5",
+      "published": "2026-09-05T17:35:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,6 +129,18 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "summary": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOTZYWC1FMTRxUzBPV2lSZlBIQS1mNHZTN2l1VlFRZW80SGMzWUtKT01Ca0xncjNiZHk4dXNRTGRFRnRuQnYtU3NSV2FkUUhyME13RllPYXZQNzJXWDVfYnVqN0p3cW5JeXljVWotcjFiSmI3dXZlTkhn?oc=5",
+      "published": "2026-09-05T15:05:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -99,30 +148,6 @@
       "summary": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships CNBC",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFdHUjNvUG9RMmZ3VVE2Vk1OZ28zajNuZGdGTjZPMEl6ZGpZeWU3ejU2aTgtaWoyY3RlRS1KR0dvNFRuWlI1bW5PWEY5clhkNFE5eklrMkl0dU9IODljc2tNOWRWZ1Rtcm0xN0tmUGFnNEh3LUJFd1U5UElfQTYyaklB0gGHAUFVX3lxTE5CZVY1SVM2aEVJTHdFcl9ZYU80MHFDb3dFTlUteUdCTFNqdXZFRWlpUURMUjEzVEhrSG9mTkYtcVpDcnRvdzlkdVN3MmhSYzlJdnowM0VsNzJQbTJrTnV0MFotQTczemxoTlhOc3VIQm1ZQmI2MDNFZW81aW8tdHVacjdQUkFBZw?oc=5",
       "published": "2026-09-05T14:59:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US military strikes three Iranian tankers in retaliation for missile attacks",
-      "summary": "US military strikes three Iranian tankers in retaliation for missile attacks CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVlZfRVpnZHk5LUZINnd1bUh0Mkp3N3FoU3ZpT1Rad3ZwbzU2SllpNEUzeFpjdms2SWI4MWFCSVU4S2JtQ3BRTUNRQ01ybWprRmFybkNUdDk4TWxtZTFiWV9CQzJha0JWdlh0XzhHUzJSa2hEQkE?oc=5",
-      "published": "2026-09-05T13:52:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Abel: Two ways Berkshire hopes to cash in on AI",
-      "summary": "Abel: Two ways Berkshire hopes to cash in on AI CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1lLWVpXWnFzQVRBYVUzczVRT0JaSldOeXdWY3E0NkdkMXlHUXl0UllCaE81aFV2Zm12NmZ0b3ViU0xOU0xEbzk5WUw2ejlCaVZQWGN5RnJpbVltRzcwV3A4MjZPOFhaR2g1bGZ6RG11NEFSQTJ1OHd6Z19DTXBieDljSXg5QXI0WjZv0gGQAUFVX3lxTE1VNGJ5VTFJTVdPdTVlSHV5Z2JSS2JFOXRUUGFwd1FlT2JLZDM3X1ZweG55MHNHOVhpUHM0WU9SYXNDRUNEOWxJQld3WkxfRks0YnRzZjFCTUhCSFZPUkFRVHVnclo2Q3F1UWJ1UjlUUEh2T0JMaUtvX3NxNU8td0QxVzhydkttOXAzZmRIUDN3TA?oc=5",
-      "published": "2026-09-05T12:44:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,25 +165,25 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Whatever happened to the floating schools of Bangladesh?",
-      "summary": "Whatever happened to the floating schools of Bangladesh? NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTm5LOThSUE5lNlpRS1k5REsxRldMTEJJZm1KbEJfa053RVBhTVRTcm9LMHNQWk5LTG9BX1Q3VUhUeXNSeU4wV1hoN1hPLVZnUHZLY1FjOEc1UEhHb0oxWUtJNTRkWWxKN0RrQk5OOGFWUWRCSmNzOVgtbjMtZG03MHpOeUVQcUt6Rl84VWRn?oc=5",
-      "published": "2026-09-05T11:26:09+00:00",
+      "title": "3 Drugs Older People May Be Overusing",
+      "summary": "3 Drugs Older People May Be Overusing The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VUDVLY0pHT1BkSmpzSjlEQ2t0NFBZY2owU3RjRktUd2k5VHhmVjFZTDN5SENKVjFTNm1hNVJ6dWliR3IzTnlQYVVVR0xqdzVFWUNDSGVIZVhDUGlCYThtdlA3elNJQkpubV9sN0VWekFoSHpXMnhWblZrcw?oc=5",
+      "published": "2026-09-05T09:02:29+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "If you prefer puzzles to doomscrolling, here are 5 great games to check out",
-      "summary": "If you prefer puzzles to doomscrolling, here are 5 great games to check out NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFdCTzVwUThwX1ZuMjF5ZWxncHZMQV9UVTNlNldqME9IOHdhS0kzTzNrWjAzczlyeDl3OVZMVmRiWlR1em02TFhCZWNYb21wWVE5N2JkdFVtbnF6RVdYREh4cVBmd3hpWE5OWEtVUFlWSm5jdkZ1X2UxNzJ1ZnMwNE1pNmJxbTdO?oc=5",
-      "published": "2026-09-05T11:00:00+00:00",
+      "title": "Lindsay Clancy judge declares a mistrial after the state’s top court denies defense’s appeal",
+      "summary": "Lindsay Clancy judge declares a mistrial after the state’s top court denies defense’s appeal NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY29OVTR4aXNBRXhvWkFHNU1LYV9UaVpmcEMzZ29COTRJWUJxbTV0c2lvQlVmN2lyN3BaTzdGcWx2MjZIdXV2ZkZscHExOTBaSEJ6alY3Q3ViSk5QTzlYUkJEU24xREJWNmpWU3YzQ3o4aW9xX1ZDMjAyc211ZzdXY2QyUVBzcFhZZDNRWkVMWmQtQUV4RnpRbXh6c3FOaXRsVVVYWWVyOFM0RVk?oc=5",
+      "published": "2026-09-04T23:01:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -204,7 +229,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Alabama’s new library rules target every book about transgender people",
-      "summary": "Alabama’s new library rules target every book about transgender people Advocate.com",
+      "summary": "Alabama’s new library rules target every book about transgender people advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczNfdUU2bElyemFRaTV1Ql9GVE5qZ0xYTUY5VGJtOGFockxlelozZm9rS083Uk5POEFyekhtNFo5Q2puNkdmVHNvdGFxV0Q2N3p0YzNLRWYybjJ6RmtYdVM4Ujk3V2hkb3VjQlFpSVhDSGdoV2FCVGhnQ2l2MWJ6eTln?oc=5",
       "published": "2026-09-04T17:21:14+00:00",
       "beats": [
@@ -216,7 +241,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "The 15 worst universities in the U.S. for LGBTQ+ students",
-      "summary": "The 15 worst universities in the U.S. for LGBTQ+ students Advocate.com",
+      "summary": "The 15 worst universities in the U.S. for LGBTQ+ students advocate.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80UUtydFhTcTdXMXozRUNBc0ZjaXBqUmhYOUpwNHNoMk9YY0FkVkxkT0pTc2t0UlgtcE5xUVFsUmpZREpaYVhnYTlEMjVubGpyeEthWm9WV3g0WHJoODJKazBqV2lkenpaSmN2N0R4SlZScEdLMHRvY045d1A?oc=5",
       "published": "2026-09-04T16:57:39+00:00",
       "beats": [
@@ -249,26 +274,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Photo of Road Runner Snagged by Coyote Shows That Cartoons Were a Lie",
-      "summary": "Photo of Road Runner Snagged by Coyote Shows That Cartoons Were a Lie The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TS3pLdzBDdEFfZ2cydjU2QzlBMDhaVGtOZHp1bWhYS3NRUURzNGphUmJGa0t1YkF3RURKR1hKWlBhQ3dHbkFpOTg4TndOY0dCZ1I3OXY2ekJJbmN6WXZUMkUxUGZ6WGZOSExMVGtZMVBrX21MZzdfdVpKalo?oc=5",
-      "published": "2026-09-04T14:46:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition",
-      "summary": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition Education Week",
+      "summary": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition marketbrief.edweek.org",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0lDellzS29kbXEyQ09XWmdxSk51Y0NwOWl1anRpSWFnbmRyWDRoaFdpazI0SUVLNktRVVFLTGEtc0t6Nk1hNXBXNVVpQ2tYNUF3M1ZDWWdHcXl3YnUwMVpqUjJaRW10bmJRSThmSS12OURBeFFGeHNDVEx1VHhDZmxpemZLZXl4WkVGVk9wM3I1UDhNeWxPN0dPdUw5ZlFkTzVCd05IRHQxenE4NnAzUlR2M240MWJnX0t1UjVPdjk4RHZnOERLaA?oc=5",
       "published": "2026-09-04T12:04:30+00:00",
       "beats": [
+        "Business",
         "Schools"
       ]
     },
@@ -297,6 +311,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party, says he wouldn't call conflict a war",
+      "summary": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party, says he wouldn't call conflict a war CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
+      "published": "2026-09-04T08:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -318,18 +344,6 @@
       "published": "2026-09-04T07:00:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Armed suspect not properly searched at Pittsburg police headquarters shoots officer, himself",
-      "summary": "Armed suspect not properly searched at Pittsburg police headquarters shoots officer, himself CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZW9IV3JEandDLWM0eV83QkRiQXRWbFpDSFNHdG5hWDBPRzV3ZG4zZklHSGc5TUYyMWFUcW45NjlJbFNyd1J5dEdzUDFrUVE5ZmV1M1FKWG9DVHVhM29lMWNjVG5ialgwRHBYRThtWDQ1RTFDQ0ZNOTJic1FObjBvUG1ibzRYN1dXbVVlbG1vb2NiVnFJcE1JbFdrc3dPcThmYVJuRko0cDBwT0wwTHA1NjduUE0?oc=5",
-      "published": "2026-09-04T01:43:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -366,18 +380,6 @@
       "published": "2026-09-03T19:52:29+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking",
-      "summary": "Trump says to vote for Ken Paxton even if he's ugly in bizarre rant about meat, Talarico, & puking LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd1RHNGJJUUZkZm1rclZab1JiQ1JfWXBWZjZDdzlQZS1ZWmpYSUQ3dVdxVmlBazhWRmVsUlFGVzlGbTFKZWU0YVdJMWJqX3YybEUyMXRxSi00Qk9LaU5jZExTSTdFbW9ua2pybENhV0oyZW5YNnNXR1BRdS1BMFpidUhxVnVRZEIwMGRWVEFRdHl2bF91MWV0dWgxM3hjQW8xRWd5WTQ0aXBOUVJ5MmFYSldHc2tROWROT1BlVUFyczlUdw?oc=5",
-      "published": "2026-09-03T19:30:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
