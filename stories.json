@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T16:44:57.395418+00:00",
+  "updated_at": "2026-09-06T18:55:00.140005+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "summary": "German exit polls suggest far-right party has big lead in regional election NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdl96Ym13Zk5HZl9kdzBLRkFCY3FsNmhsTlIwcnk4a0RpS05vRW4yQy1WMVpBVllzYnZ0a0tIRENTMFdPdGItbDVLZWpjdFdqWU1ZSmpHTlBmNUJaWklyOWZuUHZPd3ZkRlZfVldZZFdNcHJQTHoxal9DcFdlVEhvTlVlQlBpajd5VV9qRHh6Wkl1ekI5N0l4dmFnZXBucy10cnJYTXlQMmtWT2kzR0x0VUZqVW1VM2c?oc=5",
+      "published": "2026-09-06T16:36:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -32,25 +44,61 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
-      "summary": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRXNzYm1DbW9uSUVoNEdiRERzODZ0ZU9uX3prc1NqRzBJRmpfbE54c2l2ZmdyRlNJVm9IMS03Z0dZMWJYSjM2MVN6Qi1RbGZqa2RYWU1OQ3FKZXVRUk5UbU5LRUxhVnI2YW80b3FiQWtWbkZjbXdXUmZCWFLSAYIBQVVfeXFMTXcyWEYyRmljRURjaTBVeUtUZThKWHVpWkdCTHY5dWRpNVRsNG9wT3NaZE9WcG9aSGdXd3FLSTFLMkVaX2dPQzVuTzlqRVBoTnBLbU1ET181MVB2VHd5M2V1X1Y2bGpHZjl5U2dnZ2xkWkcxWEIxaHNJbVF6TlVFUFdIUQ?oc=5",
-      "published": "2026-09-06T12:02:47+00:00",
+      "title": "Germany’s AfD to become first far-right party to run state since WWII, polls show",
+      "summary": "Germany’s AfD to become first far-right party to run state since WWII, polls show CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0tRU3RKNGZkcHpJcHpvU1dTdDJoR0NiS29VU2hsVmM4eVpLRzJ3R0hfMnJxUm5MaXVudnJIbEJCbV9OcEVqVGxfd2ozeFhKZTdYNWdfc2JidnBSaWpJbTRYVU1pZmNoczV4TEd3WnE0UjVJLWdoamRVSDV2WWI1enNYeUE2YlpzOGc?oc=5",
+      "published": "2026-09-06T16:09:02+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Exclusive: Fetterman blasts ‘disgruntled staffers’ and ‘smears’ after report details apathy toward his work",
-      "summary": "Exclusive: Fetterman blasts ‘disgruntled staffers’ and ‘smears’ after report details apathy toward his work CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40WTBwdTZhU1JpbGR2WkQ5YTZmaVhUTVM1V09kT1Y5UXVhUXRsY0tLXy1GODQ1RjlFTmhsZDdUWmMwUVVkbDJYSkFfOWpva2RhaTBYRmhKQ1BFc0ZwM1FfZXh6NmNtTUQ4cXp4cUZnNlF0YVl0WHlEWnNB?oc=5",
-      "published": "2026-09-06T12:00:29+00:00",
+      "title": "Sarah Khalifa: Egyptian TV presenter sentenced to death on drug charges",
+      "summary": "Sarah Khalifa: Egyptian TV presenter sentenced to death on drug charges CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRU9FcHl0M3RaMTM5RHJfSTV3d3E1c1gwYS15QVFwMXB6Y2JaRldGeTJkNGRkaXdEUmtDTk5ERDQ2RjNacFlKZlZVWDFxTUM0dUxuRUJtRnRPNDBGSW9peHVHUE5ETHY5RDZ1VnRkdEFfdmxkYkpPUEhneXlFbkVzRUY5cGM?oc=5",
+      "published": "2026-09-06T15:56:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OPEC+ keeps oil output policy unchanged for October",
+      "summary": "OPEC+ keeps oil output policy unchanged for October CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Jb3JjX3FIRFp4VzJLdzM2R3lSSWdsWk1kOTZiWkxWeTc0RlQtVFQzOG1oVUF2Ym5YRVgzOVA1SHJBTXU3YTV2RUxvTXF1bEJNQkpaVlB6ZXpLS1BVRGVkUXQ3VFhMSEJBVFd5RdIBckFVX3lxTE9MTjdQYzRBcGtFSno4b2hSanRVNm1XdVVQd2dZQl8zNHpaa3ctV1I0T0JJT3I5LUllUWRSazVFYjZDSHFGNmktbVl4X0JyMHNXc1VneTBvSDZWRjFPMEtUZndITlpXS1R6ZVRoRGg5TURudw?oc=5",
+      "published": "2026-09-06T13:04:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Why Michigan got 1 second put back on clock before controversial win vs. Western Michigan - The Athletic",
+      "summary": "Why Michigan got 1 second put back on clock before controversial win vs. Western Michigan - The Athletic The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUpjVlRaZk9KTzRCWERGY2ozNTdGUG9PY1lwYlJFWWVKMHQ3ajI1NFBqSGVjLWo4OFZZeUIzNVdpTkk5MkI5MTJXSTZxMlFRc252UW5ZMEYxMVJfUlhSekxuS2ttekU5TGJwQ3FTbHpJSEVQX2tZV3l5ZkZ3dXltWWNaMGNVd005TkplQ1I0b3NrMGM2ekZCa0w5TWp0cmlTb2tPWDhfRVg?oc=5",
+      "published": "2026-09-06T12:08:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+      "summary": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRXNzYm1DbW9uSUVoNEdiRERzODZ0ZU9uX3prc1NqRzBJRmpfbE54c2l2ZmdyRlNJVm9IMS03Z0dZMWJYSjM2MVN6Qi1RbGZqa2RYWU1OQ3FKZXVRUk5UbU5LRUxhVnI2YW80b3FiQWtWbkZjbXdXUmZCWFLSAYIBQVVfeXFMTXcyWEYyRmljRURjaTBVeUtUZThKWHVpWkdCTHY5dWRpNVRsNG9wT3NaZE9WcG9aSGdXd3FLSTFLMkVaX2dPQzVuTzlqRVBoTnBLbU1ET181MVB2VHd5M2V1X1Y2bGpHZjl5U2dnZ2xkWkcxWEIxaHNJbVF6TlVFUFdIUQ?oc=5",
+      "published": "2026-09-06T12:02:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,18 +116,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "AI data centers are transforming rural land markets — and fueling a backlash",
-      "summary": "AI data centers are transforming rural land markets — and fueling a backlash CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
-      "published": "2026-09-06T12:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -92,42 +128,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
-      "summary": "The 92-Year-Old Mathematician and the Teenage Apprentice The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFh4a19WRk1tY3NuWm5wamZabmJMV2Y2OUpFTGM5TmN2S3pkT25QSC05bW95S0YxMmotSzBjUmxzbW5WZ3lBaDdHTUI3MDZVaV90SUJfSVBTOWNab1djczFWVjZiU1BBU20xYTZWbmRNaTltVWxYLVNHcjdVTkR2MS0xcDV2X1RfZVRFWg?oc=5",
-      "published": "2026-09-06T10:36:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Witkoff and Kushner meet Zelensky in Kyiv for second leg of US diplomacy push",
-      "summary": "Witkoff and Kushner meet Zelensky in Kyiv for second leg of US diplomacy push CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zZXluNThTaTdPOW1wc3pCTjdVUV9PNHFhTTBjTzlpSVRmWm1qZkZmTkExYTdLdVZaQ3FQRFBRdUFTcFJYejJPSDd5eGpJU1NJZ0dZMU1xc1VRSmZMUmFLSURkU09fR256U3l6YWx4MndwdjBZUzhlZw?oc=5",
-      "published": "2026-09-06T10:23:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Yayoi Kusama’s Fame Eclipsed Her Art",
-      "summary": "Opinion | Yayoi Kusama’s Fame Eclipsed Her Art The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUek12bnA0NDdfejdQUEVxR3RvelJFY1JyWGNQNmhGc01jY1V4LVBPdGdyX05PTG5rLTF0S2Q4ZDlrNXpQQVVJQ1lPVjN3Rk9USmgyaUxFRGY3Y2VYRVBGWnNpb0tieVpyb0ZwQ2lBb1VDWDJaNkNWM1Vn?oc=5",
-      "published": "2026-09-06T10:00:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -135,18 +135,6 @@
       "summary": "American Muslims are giving Texas barbecue a halal makeover NPR",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVRMTTduallTQ1BjSzN6Vlg5dUpJVlNCTDI4MDFwekIwc2xITy1xeVJrWE1oOXlQLU1ValppcU1pdjBoLWpuZlctdFJHblpvSTg0Z3JKUEhtU2w4aFNUSmxEMGlHZ19ZTlp4S3o1cWNDbUFnU0RSMVkzdGdybTNmSkEwNmVFOFpwTHl2V2JWUzJYcVQ5QURHQ3JFWUY2U3F1a1BNd3dxOA?oc=5",
       "published": "2026-09-06T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
-      "summary": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow NPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGx6Z3h3WGc0MFU4LS1VMi01Qkw1U3VJaHFGYVd0S2xnT3ZzUllNRkgxUFZWX2Vabm9wZGpNZFJDNFQ2Zk16N0lRaGFvejIybUxDZ1RRcWhabnA3TVAteWJSOGd5ZGZqd0pQWkswS2NvUWVGMTlDckNBaHNrSFNtMXVab05HSXJuN1pqeDRsNVRGbF9KVkdQTnFvTVc4UQ?oc=5",
-      "published": "2026-09-06T09:51:04+00:00",
       "beats": [
         "Politics"
       ]
@@ -189,15 +177,15 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Anti-LGBTQ+ hate group celebrates cancellation of NHL Pride night as \"win for biological truth\"",
-      "summary": "Anti-LGBTQ+ hate group celebrates cancellation of NHL Pride night as \"win for biological truth\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHh0ZFRSc1h6eC1XeHFVa09nNXM1R2dvOTZPcE9VaExYcjVzNkRmTWNVcTNrUDlYR1MzMFZQSjdiUm0xUmd2V3BaLVRqUHdzYmFycUxPbzA3M05GdHdBSEZ3d1NiUmpaTXN4QUlYN2FSNlp0WHRKYmZ2M1RieWhpRDN5VjBGekU0aGVDMFMtc1I4RHRJTGs2ME1uYlA5MHIyc3BETFF2bW9xRlQ4RjNJOV9kZElyTUxTRjZYTEM3dnJVRVYtTC1ZUQ?oc=5",
-      "published": "2026-09-05T19:00:00+00:00",
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
+      "summary": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHJFSHVsaW9tazF4YVN5TlFSX0xwNVhXMWxfM0U2bjZkSExqc2dTTzRoWU1aYlhLVFlyM3VHU19hclFfVUdyVTB5NUxjNFMxX3Y4UXRCSFlhazJTdWZ3ZzFYMklMYWJkN0xMZlVIRTJELUY3Wi1ldkdlMDFUcjZvN0p3UnZsX2l4Nm42VzVVamU2RnhEbmpZelRPa2xNNDA5anRrX2xYVzZxelg2dTkxbHRTTGN3X1hjT0lWdDZGRE4?oc=5",
+      "published": "2026-09-05T20:49:20+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -229,7 +217,7 @@
       "source_feed": "NBC News",
       "lane": "General",
       "title": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says",
-      "summary": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says nbcnews.com",
+      "summary": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says NBC News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9QLUF2VURBREN1RW5CZ2Z5cjdiTUpvU2Zhd3FKRHJ1X2FSQmZqMlNXUFN6Z2VrelJ3Nkl4OHRRYkllZGRSOVdFdlhEVXpvMGkzcENnYVZHMjVRcVZ0WUxvR1Q5ZEFTYWNydjlyc2M2ZHF3Y0JYU1ctSndocV9tS2UyNG9ZdzN4dE1zakxTcTdoNXhpMUE?oc=5",
       "published": "2026-09-05T14:20:00+00:00",
       "beats": [
@@ -244,6 +232,30 @@
       "summary": "\"Portrait of a Lady,\" Italian painting looted by Nazis, ordered returned to Jewish collector's heir CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWNab01VS1ptOVN1dGUxcm16ckZGdkMyQ09uS05yZ2h3dDlVZjNoNUlEXzlBWWxlNkdOZXpWdFVfVllpT29BelZPNndDc3JWaTNDaEY5OGxTSU93TDlPdldCVGRaRGF6VnZEYWl4eTZGanoxUEhUQkRPdGNHZmhWLW5iTzY0RkkybTZv?oc=5",
       "published": "2026-09-05T13:58:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Hilarious Hollywood star Missi Pyle just came out & she’s on the prowl for love",
+      "summary": "Hilarious Hollywood star Missi Pyle just came out & she’s on the prowl for love LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDFjdXd1WnFRMkNDNFo1UUZxaTVMa1lCRzd3N2hIYmRxb213NHAydUl5NVlMdHhPc3R0YUVHWU1TV0dKNjJ2cGNxTGx1dHJDQnE0YUZ4VUFQVkUtLVp5cHZLOUhiSHZhak91SWZ2UUl4SGFVdlE4ZGRWaGp1VXZlVlNrR2hYVWZ3bjBpOXY1eDNQUEE4QjRoNTljejFBem1PWVF2dVoyRENDNVZQcUJ6M3JIaw?oc=5",
+      "published": "2026-09-05T13:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "A woman was in pain for decades. A surprise meeting helped her learn why.",
+      "summary": "A woman was in pain for decades. A surprise meeting helped her learn why. CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0I2ZGFuWjVfcTVyZXBib3YwX1NVbEdYaTRaQUttUjlzR2g2N3BkZ3BabXM0RFRyMWRXcC1kQXhKOC12eUxYX2s4WFNPUkdyQjJfcGJhbDRocm9aRE1EeW1vSU5wN0FjdkVnZUtOMnZyT2ZLTkt0Z0lGZFVvYzlITUZiVHgwS2JPeGFKdG9n?oc=5",
+      "published": "2026-09-05T12:00:04+00:00",
       "beats": [
         "Politics"
       ]
@@ -276,6 +288,32 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
+      "title": "Alabama’s new library rules target every book about transgender people",
+      "summary": "Alabama’s new library rules target every book about transgender people Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczNfdUU2bElyemFRaTV1Ql9GVE5qZ0xYTUY5VGJtOGFockxlelozZm9rS083Uk5POEFyekhtNFo5Q2puNkdmVHNvdGFxV0Q2N3p0YzNLRWYybjJ6RmtYdVM4Ujk3V2hkb3VjQlFpSVhDSGdoV2FCVGhnQ2l2MWJ6eTln?oc=5",
+      "published": "2026-09-04T17:21:14+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: CTA-backed group vies to force election to unionize Clovis educators",
+      "summary": "UPDATE: CTA-backed group vies to force election to unionize Clovis educators EdSource",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjFpN0ViSHF0MGZCUVJXXzFwY19KVDFRMlQ4SmdRSi1iWmVVNnFLWEMwWnB5XzhNRUVOQVlfcWRLM0cyZlVvNWNGYjlyZVU3Q3ZqTjJQOFZoaF95TU1ubEVUUG55WHZDVlZocHE1ZDhqUjFoZXg4Zm9XVUZ3NDlnVTlhNENyWjhFekRBWExpa3FZSms?oc=5",
+      "published": "2026-09-04T17:19:23+00:00",
+      "beats": [
+        "Politics",
+        "Business",
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
       "title": "The 15 worst universities in the U.S. for LGBTQ+ students",
       "summary": "The 15 worst universities in the U.S. for LGBTQ+ students Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80UUtydFhTcTdXMXozRUNBc0ZjaXBqUmhYOUpwNHNoMk9YY0FkVkxkT0pTc2t0UlgtcE5xUVFsUmpZREpaYVhnYTlEMjVubGpyeEthWm9WV3g0WHJoODJKazBqV2lkenpaSmN2N0R4SlZScEdLMHRvY045d1A?oc=5",
@@ -298,11 +336,23 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Republicans don’t want Trump with them on the campaign trail: “He cannot come”",
+      "summary": "Republicans don’t want Trump with them on the campaign trail: “He cannot come” LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORk5USFB3Vm43S0M4bHIzVXAzUW1fWng2RmdVb2Eza3hPQ3hGUTdnTXpwY3RScW1fT2NnQnU2cHc2bi1qckVIdzdraTNqc1B5aWNmRTU4WVZkRlRMY3BLckhNWlpBbTlKejBWLWZzQ0g4bHR2VHp2Q0RyUlBHUkxSSkNBRnUxZEZFeGZJR2ZHbngydzhIS3BQbTROeE9jTGxKek1CS1llTXpEaUdCV2phUC1zVGRTZw?oc=5",
+      "published": "2026-09-04T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Former labor secretary created ‘toxic’ atmosphere, drank at work and misused funds, report says",
-      "summary": "Former labor secretary created ‘toxic’ atmosphere, drank at work and misused funds, report says nbcnews.com",
+      "summary": "Former labor secretary created ‘toxic’ atmosphere, drank at work and misused funds, report says NBC News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSWFYQXQxUWpOOGI2bkYyS0tEVFlaSlFwNWo4OF9udzhwVDVxTWlmQkJHaFgta2pvTFUzRFRXM3h5UDd1N0ZKRTRVMmxKWk5jXzRDUXdfMXdEazVsX0FrMFVOMHJmQ0tQWU9heW80Y0loZkl2cnRwWUsyNGk3d3dUbURURDNUOHNLZWxMYnBKUzliazhNSE45VkV2Ym11NjNDQVB0QmdLa2RBTWc2NUpRWjZjTnFnc3c?oc=5",
       "published": "2026-09-04T14:17:51+00:00",
       "beats": [
@@ -329,54 +379,6 @@
       "summary": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition Education Week",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0lDellzS29kbXEyQ09XWmdxSk51Y0NwOWl1anRpSWFnbmRyWDRoaFdpazI0SUVLNktRVVFLTGEtc0t6Nk1hNXBXNVVpQ2tYNUF3M1ZDWWdHcXl3YnUwMVpqUjJaRW10bmJRSThmSS12OURBeFFGeHNDVEx1VHhDZmxpemZLZXl4WkVGVk9wM3I1UDhNeWxPN0dPdUw5ZlFkTzVCd05IRHQxenE4NnAzUlR2M240MWJnX0t1UjVPdjk4RHZnOERLaA?oc=5",
       "published": "2026-09-04T12:04:30+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Lindsay Clancy trial juror appears to stand in the way of a unanimous verdict",
-      "summary": "Lindsay Clancy trial juror appears to stand in the way of a unanimous verdict CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbktvbTE0NWlfWFhzSzE0Y05IQk9jV0Zlam9GSlZUTGlVY2d4UDlCQV9UVi1LWWI0ZGNGMEtIV0FOUFdPX2loN19Jd2dfd3FKX2t2SUdkdW1tU3N1UlpvT045MWNaUDFJRzZob0V2MDlvOV9UcWwyY05QZks1Rkw0NmdiVURxNFpzdUp6VThRcUZDdEtxX1c3cDVMbXdKX0Q5dU91Ny1qVTc5eFhR?oc=5",
-      "published": "2026-09-04T12:04:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party, says he wouldn't call conflict a war",
-      "summary": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party, says he wouldn't call conflict a war CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
-      "published": "2026-09-04T08:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "How Trump’s proposal to strip tax-exempt status affects California private schools",
-      "summary": "How Trump’s proposal to strip tax-exempt status affects California private schools EdSource",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDlwZUxoMUlwNGZ5Nm9tVTlkeXRHbUczTEw3TnU1SEVtRm1tWU1FdS0tdnFGdVFCLXlRaGFrZXVCU29ZMlBmdm9DaXBwLTRiRGI4VHl1bk9qM1Y2ZnEyaExQdDA2RnN6dDgzUGxXV09admtoY0J6V1RVQWtvbGF4WjIycGlHSVFNd3ZYaTNCV1F0cmlRUzRHWG5nQ1FnbHNrbHVkdGM3Z1NDQTFGandKaUNKdlg?oc=5",
-      "published": "2026-09-04T07:11:32+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "LAUSD restricts all students from using AI tools",
-      "summary": "LAUSD restricts all students from using AI tools K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUpFWGxuSEhvUFNkd1JCMFlHTXlnMnREZlNpVWN0cUdGS2V0Rzh3b1Q5bGNBdE05aGthOXlIMlBvX0ZRbFNoZWd3WTd6LUVlcUdEVUVQSkVIb2VxYTdSUnI1bWZZX0htVHFGZW1lZVdUa1Zpa2xHazhvbkJVUEJId2F2dzNlcGVFV2R6NDVB?oc=5",
-      "published": "2026-09-03T21:47:12+00:00",
       "beats": [
         "Schools"
       ]
