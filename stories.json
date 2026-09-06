@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T18:55:00.140005+00:00",
+  "updated_at": "2026-09-06T21:07:34.947615+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,97 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Cargo Plane Overruns Runway at Miami Airport, Striking Vehicles",
+      "summary": "Cargo Plane Overruns Runway at Miami Airport, Striking Vehicles The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0VhUWJfVkNreHdiVHpGOWMyU25JemV6Q0s0em9KUmZlU09OVnJLVW1DZC11MlBuYTYycm5jQ0R4ZHhYWFFfSDg4OWIzUXFTSjNOQVdLaVM4WXBuai1aLUNDUVJpSTh2VF9QSXY5RjZKUTlkUFhxZng3eUVIUzhTTw?oc=5",
+      "published": "2026-09-06T20:37:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
+      "summary": "'Multiple patients' after Amazon cargo plane crashes at Miami airport NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTR2aS1DVm5sQjREZFQ3VW1TT2Q3SFJDU1VEb0taVzhlbUVobE5yV2hJUnh5VGk1Q3FGR21zVVhOQlMyRTM2cGVYNm5QcHhwdzA0OGNfUTc4UmtBMWxJOTZZNGNTOFFBaUdpUGtfcVd6MkZheTczZDZ5YjdmQ3JoYmdNZGgxa2RmY3JYV2QyN2wwdw?oc=5",
+      "published": "2026-09-06T19:54:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport",
+      "summary": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2h3bEloTWlmNnFpai1MbU9UMHlDUkU4dVJHRkRTb2ZCUGxMeVp5cmM0RDBtNUU3dG9xY3EyN0ZmQ1U1NVNpUXh2QTIwNFVWZHFiRnNSRUt3YU96SjRFSkxVVFI4STJCRVh1NGI1cHVwOGJ0czlqcjdRQkZlNWRkbnVRYVJ3bURHT0xlVlY2eVZFQkdMY3k5eXBmQzFaZEk1RHFzN1NB0gGrAUFVX3lxTE0tTmt1cEd3NW5ieDFZWFpfRkptdmRJUjBqdHNmcnpMN2dNd002ME9DUTM0M3BNOFQ1UWI5alUzY3o4T3NWLV81U1RDT1BBTVViaEJqajFqQ01pRC00S2lpbERVVWt6cHdhWW9GT2xCNVYzT2hMQmdQSW1WNGoxMmpNZFBiZUliWjNzd0VVNE41VVNpVzkwUDFTSzdYQTg2QXoyZnJlQXB2NU5Rcw?oc=5",
+      "published": "2026-09-06T19:38:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Rep. Jason Crow says Congress hasn't been briefed on Hegseth leak investigation, calls it part of an \"effort to create fear\"",
+      "summary": "Rep. Jason Crow says Congress hasn't been briefed on Hegseth leak investigation, calls it part of an \"effort to create fear\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdk9yRlNZeUlkYUdrQ3BRYW5CY0JMa1ltc3U1TWdZc1BnX3Y2dFBkWlFBMUNUVzJacXdObjlSdjRyQjhUV001ZWFoLWhvcmpmWWNBYUw0ZE5hX1UtQnVHTG1rSllRZGtsOW9hVGlvdFRPdmNiN3N1VHF4U2tkbzQ4SnpTX25RNno3U2w3aWxPUFN2WGto?oc=5",
+      "published": "2026-09-06T19:37:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles",
+      "summary": "Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XREhOQUhVSl9lZmZ5LVdZSmx5cm1aTk5vSUJJZnZUcGxjRFJqMnN5ZDZKM3VyenFxVk5DWm1RVEoxWmY4YlpMZk1NNzNsUU5xN3pCUkxzdlNuVjVMbTcwUTgtRFgxZjNodnZ2QzRJZ29md3o4ZXdJ?oc=5",
+      "published": "2026-09-06T19:13:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "NFL Commissioner Roger Goodell agrees on a 4-year contract extension",
+      "summary": "NFL Commissioner Roger Goodell agrees on a 4-year contract extension CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOENXOXdqbjZIOWRseC1mWUg0aloxbU1jTnNCN0htcDNsV0xwOUNycWFaMmFEMjd4TnhjYzU4d2VhVUVPRTVLWC1UWXBPMXhwN1NwaWNvQ0FNajRqd2VKT1FsWGVWcW9vdEwwR3JQSDg1bWRybHFCVzVLR2otMmtOR3hqMlFPaVhFUE95NFNLdnpZa0JnWmhHSThFQThDcS1waE9ZNVNEWHjSAa4BQVVfeXFMUHBlTE9UdTRvcGJPNmRfVnZBSHoxY09YVWppenFaOVJSMGpsMVJ4Tk40TDZhOUt4M3N4eWJBWlozTG5xeDBUVV9Rb09nWU5PYm42YWFjaThBMjJxQXRaaVpZQ25PQ1M1SGFUR3pBTVBoN2QtanZJMm5hQkVnbXZTM29WWXZCbXh4UF9XSmpMMWpITlA1ZkN0bnk3SVR4RV9aWHFad2FBS0hoeEpUNktn?oc=5",
+      "published": "2026-09-06T18:28:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
       "title": "German exit polls suggest far-right party has big lead in regional election",
       "summary": "German exit polls suggest far-right party has big lead in regional election NPR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdl96Ym13Zk5HZl9kdzBLRkFCY3FsNmhsTlIwcnk4a0RpS05vRW4yQy1WMVpBVllzYnZ0a0tIRENTMFdPdGItbDVLZWpjdFdqWU1ZSmpHTlBmNUJaWklyOWZuUHZPd3ZkRlZfVldZZFdNcHJQTHoxal9DcFdlVEhvTlVlQlBpajd5VV9qRHh6Wkl1ekI5N0l4dmFnZXBucy10cnJYTXlQMmtWT2kzR0x0VUZqVW1VM2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wSzZ2R2ZFQmNsdnFUV3dqNUJrU2RrMDFsbVktSDRzOTVzcDNkOXNTZVNJUGlTY0RIa2E4TTgydm1nM0pJX3dyZVZaYXdKTE5IX3V2LVRSQUNOVWthRjlWZ0ZDQ1ViUW9PUlc0ZlQyZkcwMVc2LV84R2Vn?oc=5",
       "published": "2026-09-06T16:36:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump administration asks Supreme Court to allow mail ballot restrictions to move forward for a third time",
+      "summary": "Trump administration asks Supreme Court to allow mail ballot restrictions to move forward for a third time NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVF9HQkVGb09YMDZCOGN5aXFSSnRSRkgtUDlEOU9lYkU0Um9FeWlEQl9KMGZ2N0ZEd3RmMHlqTXMtS1JKNE5meWttdUZNMV9YWFZld1haYTBHSnNOay1nckpIRzVDOEJjYmpBXzMtd3c4SFFXMnkyWjlGajZQVEtMVXh3MloyUkVEMmtoMnYyMEUxRGE5QTRGZXRoM1Axa2YtUkMydEg5S2xhbnc3YkFTOFJES1JSZlhvNVBBZnJPeUpNSm5TNHJKVXAtNA?oc=5",
+      "published": "2026-09-06T16:11:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,30 +140,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Sarah Khalifa: Egyptian TV presenter sentenced to death on drug charges",
-      "summary": "Sarah Khalifa: Egyptian TV presenter sentenced to death on drug charges CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRU9FcHl0M3RaMTM5RHJfSTV3d3E1c1gwYS15QVFwMXB6Y2JaRldGeTJkNGRkaXdEUmtDTk5ERDQ2RjNacFlKZlZVWDFxTUM0dUxuRUJtRnRPNDBGSW9peHVHUE5ETHY5RDZ1VnRkdEFfdmxkYkpPUEhneXlFbkVzRUY5cGM?oc=5",
-      "published": "2026-09-06T15:56:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OPEC+ keeps oil output policy unchanged for October",
-      "summary": "OPEC+ keeps oil output policy unchanged for October CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Jb3JjX3FIRFp4VzJLdzM2R3lSSWdsWk1kOTZiWkxWeTc0RlQtVFQzOG1oVUF2Ym5YRVgzOVA1SHJBTXU3YTV2RUxvTXF1bEJNQkpaVlB6ZXpLS1BVRGVkUXQ3VFhMSEJBVFd5RdIBckFVX3lxTE9MTjdQYzRBcGtFSno4b2hSanRVNm1XdVVQd2dZQl8zNHpaa3ctV1I0T0JJT3I5LUllUWRSazVFYjZDSHFGNmktbVl4X0JyMHNXc1VneTBvSDZWRjFPMEtUZndITlpXS1R6ZVRoRGg5TURudw?oc=5",
-      "published": "2026-09-06T13:04:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -104,18 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-      "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-      "published": "2026-09-06T12:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -128,13 +176,25 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "American Muslims are giving Texas barbecue a halal makeover",
-      "summary": "American Muslims are giving Texas barbecue a halal makeover NPR",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVRMTTduallTQ1BjSzN6Vlg5dUpJVlNCTDI4MDFwekIwc2xITy1xeVJrWE1oOXlQLU1ValppcU1pdjBoLWpuZlctdFJHblpvSTg0Z3JKUEhtU2w4aFNUSmxEMGlHZ19ZTlp4S3o1cWNDbUFnU0RSMVkzdGdybTNmSkEwNmVFOFpwTHl2V2JWUzJYcVQ5QURHQ3JFWUY2U3F1a1BNd3dxOA?oc=5",
-      "published": "2026-09-06T10:00:00+00:00",
+      "title": "USS Lincoln sailors delight in the ‘simple stuff’ as they get their first break in months in Thailand",
+      "summary": "USS Lincoln sailors delight in the ‘simple stuff’ as they get their first break in months in Thailand NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRF9MbDh5MkJIc25vZnRINnloUzhPVm1TOHdsU0pqdjJJME9Id1Y3OHNlYlZOWmJOYmFwMzZHemZrb042TlNSN0x4Y0t6YkJhRGJST2hQUklDSHB1OENlSzBLbDl0aXdHTGFwTUVSTTZPd21UcE9BWkpWMnk1WXVWYVQ2bDRmX1EwQ0lHMllRaVdoczNndXk0Q2lfdFB0ekVZcVhPVzkteFZBMXVlTUE?oc=5",
+      "published": "2026-09-06T09:35:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "U.K.'s Nigel Farage said he \"wasn't listening\" during donation scandal conversation filmed covertly",
+      "summary": "U.K.'s Nigel Farage said he \"wasn't listening\" during donation scandal conversation filmed covertly CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmhQQkxjR3hON2hFLW5XZ2s3aFpwLXZoeVViSkNxdlVjTHN6TkhPRWdFdG9tV2VhVkp6OTJFbGM3WmxhTTlxMS1oOHNPYkYzaG1yZmpSZklBS05hX2NxV1NCU1ZmaExpUHlFS0NhLWZGVW44NXB1MEpscjN2SHFSVkJVWlBZanNSSHVQb1Q1TjBkLUJZUnc?oc=5",
+      "published": "2026-09-06T06:04:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -177,15 +237,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
-      "summary": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHJFSHVsaW9tazF4YVN5TlFSX0xwNVhXMWxfM0U2bjZkSExqc2dTTzRoWU1aYlhLVFlyM3VHU19hclFfVUdyVTB5NUxjNFMxX3Y4UXRCSFlhazJTdWZ3ZzFYMklMYWJkN0xMZlVIRTJELUY3Wi1ldkdlMDFUcjZvN0p3UnZsX2l4Nm42VzVVamU2RnhEbmpZelRPa2xNNDA5anRrX2xYVzZxelg2dTkxbHRTTGN3X1hjT0lWdDZGRE4?oc=5",
-      "published": "2026-09-05T20:49:20+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Anti-LGBTQ+ hate group celebrates cancellation of NHL Pride night as \"win for biological truth\"",
+      "summary": "Anti-LGBTQ+ hate group celebrates cancellation of NHL Pride night as \"win for biological truth\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHh0ZFRSc1h6eC1XeHFVa09nNXM1R2dvOTZPcE9VaExYcjVzNkRmTWNVcTNrUDlYR1MzMFZQSjdiUm0xUmd2V3BaLVRqUHdzYmFycUxPbzA3M05GdHdBSEZ3d1NiUmpaTXN4QUlYN2FSNlp0WHRKYmZ2M1RieWhpRDN5VjBGekU0aGVDMFMtc1I4RHRJTGs2ME1uYlA5MHIyc3BETFF2bW9xRlQ4RjNJOV9kZElyTUxTRjZYTEM3dnJVRVYtTC1ZUQ?oc=5",
+      "published": "2026-09-05T19:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -201,18 +261,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "It’s Sleeptemper, & these gays just wanna cuddle in bed",
-      "summary": "It’s Sleeptemper, & these gays just wanna cuddle in bed Queerty",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzRzbzVBTWVQaEdOMmJ5ZFdsbzVCOVFVRm1UREY2Z3FHNDAwbkZ5SlpyLWNSdlBhdGJfWlVTZ2JReHJLOFJxLTlYNERHMGFoTV9leE8xZVRyUXVoQ2dxM3hOa0VWcWRwaGF1cUgtbW9SYjBvUGJQbWNkTXRhYlZlcl9fcWlfeEVUdVQydmJ3?oc=5",
-      "published": "2026-09-05T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -220,18 +268,6 @@
       "summary": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says NBC News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9QLUF2VURBREN1RW5CZ2Z5cjdiTUpvU2Zhd3FKRHJ1X2FSQmZqMlNXUFN6Z2VrelJ3Nkl4OHRRYkllZGRSOVdFdlhEVXpvMGkzcENnYVZHMjVRcVZ0WUxvR1Q5ZEFTYWNydjlyc2M2ZHF3Y0JYU1ctSndocV9tS2UyNG9ZdzN4dE1zakxTcTdoNXhpMUE?oc=5",
       "published": "2026-09-05T14:20:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "\"Portrait of a Lady,\" Italian painting looted by Nazis, ordered returned to Jewish collector's heir",
-      "summary": "\"Portrait of a Lady,\" Italian painting looted by Nazis, ordered returned to Jewish collector's heir CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWNab01VS1ptOVN1dGUxcm16ckZGdkMyQ09uS05yZ2h3dDlVZjNoNUlEXzlBWWxlNkdOZXpWdFVfVllpT29BelZPNndDc3JWaTNDaEY5OGxTSU93TDlPdldCVGRaRGF6VnZEYWl4eTZGanoxUEhUQkRPdGNHZmhWLW5iTzY0RkkybTZv?oc=5",
-      "published": "2026-09-05T13:58:31+00:00",
       "beats": [
         "Politics"
       ]
@@ -258,6 +294,30 @@
       "published": "2026-09-05T12:00:04+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Andrew Rannells pays sweet 60th birthday tribute to Tuc Watkins… with a thirsty beach pic",
+      "summary": "Andrew Rannells pays sweet 60th birthday tribute to Tuc Watkins… with a thirsty beach pic Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZkNPNEoxTnA0M1JJZFd3aF81MVNlX0doLTNfOVRVYXBIcnR4M09yR1ZBdzU0dUd2U05fLVlEU2lJNnU1OFFhMTN0Zmt6YUxJU1VLcTB2YjI3b3NnQ3dJT1M1ZUhXN00wbzl2aVdITGF2eEpVT3loUWd3NV94dzQyb1dFTkFlZzJvY3l0OXI5ME1VM1hQX1pmZGU3eGlxU2dvUmk2RFVOdDd1NHI3OXNsSFBQVzNDbVB0RUZuMmJjSQ?oc=5",
+      "published": "2026-09-05T01:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: California community colleges oppose bachelor’s degree bills after last-minute changes",
+      "summary": "UPDATE: California community colleges oppose bachelor’s degree bills after last-minute changes EdSource",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDRxeDN6ZUE2eGFhZ3dYeDJxajFqUDZUUVlhX3NFVWZNTVVhcDQtaFc0dVdMaTBoajJDWkk4NGo3akt1WXYtRTdxQnNsX2hPakpoN255QzltejVLRjEyc05EQmhHdUhNV0M2WTQ2cnpvMnVjMUVERVVoZWxVZGNVQVJqa2lrM2lUMmF5NWpRTV9KQ2I0NVN3VXZ3cVZ1VWlIV29zUExmN1NQX3ZuTVdGd3BqS2w?oc=5",
+      "published": "2026-09-04T23:35:23+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -288,10 +348,10 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Alabama’s new library rules target every book about transgender people",
-      "summary": "Alabama’s new library rules target every book about transgender people Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczNfdUU2bElyemFRaTV1Ql9GVE5qZ0xYTUY5VGJtOGFockxlelozZm9rS083Uk5POEFyekhtNFo5Q2puNkdmVHNvdGFxV0Q2N3p0YzNLRWYybjJ6RmtYdVM4Ujk3V2hkb3VjQlFpSVhDSGdoV2FCVGhnQ2l2MWJ6eTln?oc=5",
-      "published": "2026-09-04T17:21:14+00:00",
+      "title": "A gunman targeted Tucson’s LGBTQ+ community. A thousand Arizonans answered with love",
+      "summary": "A gunman targeted Tucson’s LGBTQ+ community. A thousand Arizonans answered with love advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84Uk56S0ppODZxVnliNmJvdGQ0M3F2YVcycFZfOW1qUy1VaTBPYzhLU1JUSi1tZzBnVVMwSk92LWhETlB3bGJHSmtTNTNtUEVxc0h3TUxqYndhUFN5bXo2ZUZNMElUay1SQm8yS1Nva05GbDQ1R1E?oc=5",
+      "published": "2026-09-04T20:04:26+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -315,72 +375,12 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "The 15 worst universities in the U.S. for LGBTQ+ students",
-      "summary": "The 15 worst universities in the U.S. for LGBTQ+ students Advocate.com",
+      "summary": "The 15 worst universities in the U.S. for LGBTQ+ students advocate.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80UUtydFhTcTdXMXozRUNBc0ZjaXBqUmhYOUpwNHNoMk9YY0FkVkxkT0pTc2t0UlgtcE5xUVFsUmpZREpaYVhnYTlEMjVubGpyeEthWm9WV3g0WHJoODJKazBqV2lkenpaSmN2N0R4SlZScEdLMHRvY045d1A?oc=5",
       "published": "2026-09-04T16:57:39+00:00",
       "beats": [
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Miley is back with a queer, leather-culture-inspired banger of a video",
-      "summary": "Miley is back with a queer, leather-culture-inspired banger of a video Queerty",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzBhcFgxNTJxVWZpazdBSEl4R1dNUFBtbUlfMWRMb0dpT3pXcnptRHdpYnI5bUUyNHRrSDI2SWdrVUwzd3Z1MU9BeWVMNXRiZ0Zma004c0UzM3hLelBPS1FLTUZWQkVaWFd3QU9JMjAzQ1VoTlp0SjMwak9DT2psS19pYVFiQ1hyNDMyNm80Z1ZxbUJHUFlDNWx0VmU5b285bUZiZTFn?oc=5",
-      "published": "2026-09-04T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Republicans don’t want Trump with them on the campaign trail: “He cannot come”",
-      "summary": "Republicans don’t want Trump with them on the campaign trail: “He cannot come” LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORk5USFB3Vm43S0M4bHIzVXAzUW1fWng2RmdVb2Eza3hPQ3hGUTdnTXpwY3RScW1fT2NnQnU2cHc2bi1qckVIdzdraTNqc1B5aWNmRTU4WVZkRlRMY3BLckhNWlpBbTlKejBWLWZzQ0g4bHR2VHp2Q0RyUlBHUkxSSkNBRnUxZEZFeGZJR2ZHbngydzhIS3BQbTROeE9jTGxKek1CS1llTXpEaUdCV2phUC1zVGRTZw?oc=5",
-      "published": "2026-09-04T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Former labor secretary created ‘toxic’ atmosphere, drank at work and misused funds, report says",
-      "summary": "Former labor secretary created ‘toxic’ atmosphere, drank at work and misused funds, report says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSWFYQXQxUWpOOGI2bkYyS0tEVFlaSlFwNWo4OF9udzhwVDVxTWlmQkJHaFgta2pvTFUzRFRXM3h5UDd1N0ZKRTRVMmxKWk5jXzRDUXdfMXdEazVsX0FrMFVOMHJmQ0tQWU9heW80Y0loZkl2cnRwWUsyNGk3d3dUbURURDNUOHNLZWxMYnBKUzliazhNSE45VkV2Ym11NjNDQVB0QmdLa2RBTWc2NUpRWjZjTnFnc3c?oc=5",
-      "published": "2026-09-04T14:17:51+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Test yourself on the past week’s K-12 news",
-      "summary": "Test yourself on the past week’s K-12 news K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2lQc2JaRERaM1U5enpHWnFHNmR2eVpTLVR3dVNoSGdHMGxwWUtKUm1kVzZoYzJOMFhkazEyQjc5cm81UGh5MzBqSjVNanhPN3ZfazdvYUE5SGxsZmg4NC1xRW5JNU5qMVFpb2ZVck9zNmstbEcyLXViMGd3Uzd4ZQ?oc=5",
-      "published": "2026-09-04T13:32:13+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition",
-      "summary": "Lemnis, Public Charity Born From NWEA Sale, Makes First K-12 Acquisition Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0lDellzS29kbXEyQ09XWmdxSk51Y0NwOWl1anRpSWFnbmRyWDRoaFdpazI0SUVLNktRVVFLTGEtc0t6Nk1hNXBXNVVpQ2tYNUF3M1ZDWWdHcXl3YnUwMVpqUjJaRW10bmJRSThmSS12OURBeFFGeHNDVEx1VHhDZmxpemZLZXl4WkVGVk9wM3I1UDhNeWxPN0dPdUw5ZlFkTzVCd05IRHQxenE4NnAzUlR2M240MWJnX0t1UjVPdjk4RHZnOERLaA?oc=5",
-      "published": "2026-09-04T12:04:30+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
