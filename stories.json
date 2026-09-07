@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:00:05.997739+00:00",
+  "updated_at": "2026-09-07T00:53:14.948928+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,71 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+      "summary": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaFhwWV9xV2lpYnZiUjhLQzVEZnJDLVlxZnVNYllzLThmbVRzVFBSVjFtU0NZQ04yelJmTXpzTllXajZrVHpfS0dkOHRyWTZkeUM4ZzJOdU8yanVZRzQySmxZd2R4ZkRsMnpXTkdmbjdKR1BGWUlGb05FMWp0NVNsbdIBhgFBVV95cUxNaWx0SVdkeTFxanhBOXpXeGsxQjNPdi03Z0ZvT0JweHpUVFpmQW5vVWtPQWtDM25fSW5fSkJvY3M2VUlDLXFvLVhFbUt6T3B6LUF4TDV0cUFQdzhiYmt5WmxEQk1XZVQ1Y1ZGZWtlM1FJUHhTcE4xbDl2MkFhV1EzaF9KNTFWQQ?oc=5",
+      "published": "2026-09-06T23:55:41+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Assailant lunged at Democratic candidate for Ohio governor Amy Acton at fair, campaign says",
+      "summary": "Assailant lunged at Democratic candidate for Ohio governor Amy Acton at fair, campaign says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNelJqeDloY0JYYU9oeW5uY09kSWU3WmNYZ2tsN3YydmlScTFZZjkwaC1LaXd4eFJkLWxFbFFYSXVuV0s3d3FkSDlMYldScW8tcjlFazVRSU1pcFdqS2hrMUJJVVhYTV9GbVBvdkdYRE9fRXlZbGdIMncxbVh5UzRWZ0NXS2VrUQ?oc=5",
+      "published": "2026-09-06T22:51:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Armed individual lunges at Ohio Democratic gubernatorial nominee during fair, campaign says",
+      "summary": "Armed individual lunges at Ohio Democratic gubernatorial nominee during fair, campaign says CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnV1UkJXUUFVZzl4NmlXUjJpWFpFSEpRdFZkUDdzdkxfdUNZcTdvZHJDQ2lyYU5iN29rMy1CWnRtV2duTFREb2dDTUp2QXlpS0JlU2plLTlZc2tTTzZNZlByTGVrZmw5OW1pSWRQMjR4d0hOaGc3LTd5cXMxN29KWEQzVTdSaTNMVmdBUm1NLTFOSHFCdklKTmVRbTVOclk3SWFVMERycmk3T2M?oc=5",
+      "published": "2026-09-06T21:29:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Armed man confronts Ohio gubernatorial candidate Amy Acton at event; suspect arrested",
+      "summary": "Armed man confronts Ohio gubernatorial candidate Amy Acton at event; suspect arrested NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGRnN1R5UG90cERpY0hCMFNLb2t4RjdYaDZZSlEzeXRUcjd5LXJ2U1hWWkJkR3hXYzd4dGQ2bWpoRld4VDQ0cmloaFpRc3d1SWRTcjhZTFlyNEFHZHVfamtodWVDVXJOSERyZDg2YjZCeXBCMWFUSXBGU3hXLXJIb1YtOF9GV2NsYllrNWsxX2xpS3FOMzVHTEhYSlpINWt3cEJVdWR5bVdMN09sWUNzSHRhX24xUjNFNmJPUHlQajUtYmduMFc0?oc=5",
+      "published": "2026-09-06T21:23:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
-      "summary": "'Multiple patients' after Amazon cargo plane crashes at Miami airport NPR",
+      "title": "Bad news about ticks: cold weather may not stop them",
+      "summary": "Bad news about ticks: cold weather may not stop them NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTk2LXZadGV5NjgwODFCYVJPUzF5VjVsVjNrcVdZVkFVcFhjcVNOVUV5aFYzZVROQ1QwbGVYYnVEdDdyZlR1d1gwRUVaQ1hTbFJkTVY2SDhpWVhPWHduYmNRbXZBSXU3WEdWTXhXVVF5ejlYWFN4TWNRMHc0ODRES3dYZHlPQ2hWTGpEUFJoTGVWNnM3T1FFbW54ZG8?oc=5",
+      "published": "2026-09-06T21:06:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "summary": "Five dead after Amazon cargo plane crashes at Miami airport NPR",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTR2aS1DVm5sQjREZFQ3VW1TT2Q3SFJDU1VEb0taVzhlbUVobE5yV2hJUnh5VGk1Q3FGR21zVVhOQlMyRTM2cGVYNm5QcHhwdzA0OGNfUTc4UmtBMWxJOTZZNGNTOFFBaUdpUGtfcVd6MkZheTczZDZ5YjdmQ3JoYmdNZGgxa2RmY3JYV2QyN2wwdw?oc=5",
       "published": "2026-09-06T19:54:28+00:00",
       "beats": [
@@ -35,8 +95,8 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
-      "summary": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend CNBC",
+      "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
+      "summary": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2h3bEloTWlmNnFpai1MbU9UMHlDUkU4dVJHRkRTb2ZCUGxMeVp5cmM0RDBtNUU3dG9xY3EyN0ZmQ1U1NVNpUXh2QTIwNFVWZHFiRnNSRUt3YU96SjRFSkxVVFI4STJCRVh1NGI1cHVwOGJ0czlqcjdRQkZlNWRkbnVRYVJ3bURHT0xlVlY2eVZFQkdMY3k5eXBmQzFaZEk1RHFzN1NB0gGrAUFVX3lxTE0tTmt1cEd3NW5ieDFZWFpfRkptdmRJUjBqdHNmcnpMN2dNd002ME9DUTM0M3BNOFQ1UWI5alUzY3o4T3NWLV81U1RDT1BBTVViaEJqajFqQ01pRC00S2lpbERVVWt6cHdhWW9GT2xCNVYzT2hMQmdQSW1WNGoxMmpNZFBiZUliWjNzd0VVNE41VVNpVzkwUDFTSzdYQTg2QXoyZnJlQXB2NU5Rcw?oc=5",
       "published": "2026-09-06T19:38:09+00:00",
       "beats": [
@@ -56,25 +116,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles",
-      "summary": "Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85d29WVXFrQXF6R1NMaXI1RzdGYmJGRVpiQ1RsNXdoSnJhZTh5dVhkU2N6RzFxSmk0VWJqOXQ4Sk9SUDBnVHBhT21JdEpFX0R0TFZjNWtMVnRwMkVieXJGUzFVRHAtYXhNNVN0N2NPcUpqWVBsajhYQ0FHSXg?oc=5",
-      "published": "2026-09-06T19:13:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "NFL Commissioner Roger Goodell agrees on a 4-year contract extension",
-      "summary": "NFL Commissioner Roger Goodell agrees on a 4-year contract extension CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOENXOXdqbjZIOWRseC1mWUg0aloxbU1jTnNCN0htcDNsV0xwOUNycWFaMmFEMjd4TnhjYzU4d2VhVUVPRTVLWC1UWXBPMXhwN1NwaWNvQ0FNajRqd2VKT1FsWGVWcW9vdEwwR3JQSDg1bWRybHFCVzVLR2otMmtOR3hqMlFPaVhFUE95NFNLdnpZa0JnWmhHSThFQThDcS1waE9ZNVNEWHjSAa4BQVVfeXFMUHBlTE9UdTRvcGJPNmRfVnZBSHoxY09YVWppenFaOVJSMGpsMVJ4Tk40TDZhOUt4M3N4eWJBWlozTG5xeDBUVV9Rb09nWU5PYm42YWFjaThBMjJxQXRaaVpZQ25PQ1M1SGFUR3pBTVBoN2QtanZJMm5hQkVnbXZTM29WWXZCbXh4UF9XSmpMMWpITlA1ZkN0bnk3SVR4RV9aWHFad2FBS0hoeEpUNktn?oc=5",
-      "published": "2026-09-06T18:28:14+00:00",
+      "title": "Rep. Jason Crow says Congress hasn't been briefed on Hegseth leak investigation, calls it part of an \"effort to create fear\"",
+      "summary": "Rep. Jason Crow says Congress hasn't been briefed on Hegseth leak investigation, calls it part of an \"effort to create fear\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdk9yRlNZeUlkYUdrQ3BRYW5CY0JMa1ltc3U1TWdZc1BnX3Y2dFBkWlFBMUNUVzJacXdObjlSdjRyQjhUV001ZWFoLWhvcmpmWWNBYUw0ZE5hX1UtQnVHTG1rSllRZGtsOW9hVGlvdFRPdmNiN3N1VHF4U2tkbzQ4SnpTX25RNno3U2w3aWxPUFN2WGto?oc=5",
+      "published": "2026-09-06T18:34:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -109,20 +157,32 @@
       "lane": "General",
       "title": "Germany’s far-right AfD projected to win eastern state but unclear if it will be able to govern",
       "summary": "Germany’s far-right AfD projected to win eastern state but unclear if it will be able to govern CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3dZZlM3Z0stYnFoTU01alJiN3ZFanptTS1LcVEwWEluUi05UWdlTXQ1REhEOFJXSWlnSDVKbjU3ajAybmFHeG02NVdhQjkxbXpCNE1pRnlLNXFWc1JGYXJjQmI0eXhtbTZpZWFDd3RLZDRFeDFSREs0YlNaX2dnQVNuRUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0tRU3RKNGZkcHpJcHpvU1dTdDJoR0NiS29VU2hsVmM4eVpLRzJ3R0hfMnJxUm5MaXVudnJIbEJCbV9OcEVqVGxfd2ozeFhKZTdYNWdfc2JidnBSaWpJbTRYVU1pZmNoczV4TEd3WnE0UjVJLWdoamRVSDV2WWI1enNYeUE2YlpzOGc?oc=5",
       "published": "2026-09-06T16:09:02+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Can you be “too nice” when hosting a hookup?",
+      "summary": "Can you be “too nice” when hosting a hookup? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalV2bmpiNjY3Rk90V3JWUVhOTER1NU9xcDBXZmNXMUpHZy1xODdvUkVDN1haZGIwRjZlUmlLeW5fMm4wWnQ4eXFtdHpIeXFPTVZqeS10RGlYS3dWTnNlWXBUNGdUVllZX0N4RGJJNVdmMXFUU0lyUUkxenZjeW8yVA?oc=5",
+      "published": "2026-09-06T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-      "summary": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRXNzYm1DbW9uSUVoNEdiRERzODZ0ZU9uX3prc1NqRzBJRmpfbE54c2l2ZmdyRlNJVm9IMS03Z0dZMWJYSjM2MVN6Qi1RbGZqa2RYWU1OQ3FKZXVRUk5UbU5LRUxhVnI2YW80b3FiQWtWbkZjbXdXUmZCWFLSAYIBQVVfeXFMTXcyWEYyRmljRURjaTBVeUtUZThKWHVpWkdCTHY5dWRpNVRsNG9wT3NaZE9WcG9aSGdXd3FLSTFLMkVaX2dPQzVuTzlqRVBoTnBLbU1ET181MVB2VHd5M2V1X1Y2bGpHZjl5U2dnZ2xkWkcxWEIxaHNJbVF6TlVFUFdIUQ?oc=5",
-      "published": "2026-09-06T12:02:47+00:00",
+      "title": "Hope Florida scandal fallout persists",
+      "summary": "Hope Florida scandal fallout persists CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xd2FXNmhkQlptdnd3cGZGTHFGX0c1amVUaUdIcVpqclROd3NfNnYxSExaN2ozMnhlQmNKelVOTlYtemJKYnlKOE8tTHcyU3hZUTczQWZnZDRLeklJY2NQam9TVWVtRlRmWGpxSzRibHhENmt6UlNiR0d5N2lqSVU?oc=5",
+      "published": "2026-09-06T12:45:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,24 +191,24 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | Yayoi Kusama’s Fame Eclipsed Her Art",
-      "summary": "Opinion | Yayoi Kusama’s Fame Eclipsed Her Art The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUek12bnA0NDdfejdQUEVxR3RvelJFY1JyWGNQNmhGc01jY1V4LVBPdGdyX05PTG5rLTF0S2Q4ZDlrNXpQQVVJQ1lPVjN3Rk9USmgyaUxFRGY3Y2VYRVBGWnNpb0tieVpyb0ZwQ2lBb1VDWDJaNkNWM1Vn?oc=5",
-      "published": "2026-09-06T10:00:23+00:00",
+      "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+      "summary": "The 92-Year-Old Mathematician and the Teenage Apprentice The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFh4a19WRk1tY3NuWm5wamZabmJMV2Y2OUpFTGM5TmN2S3pkT25QSC05bW95S0YxMmotSzBjUmxzbW5WZ3lBaDdHTUI3MDZVaV90SUJfSVBTOWNab1djczFWVjZiU1BBU20xYTZWbmRNaTltVWxYLVNHcjdVTkR2MS0xcDV2X1RfZVRFWg?oc=5",
+      "published": "2026-09-06T10:36:31+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "American Muslims are giving Texas barbecue a halal makeover",
-      "summary": "American Muslims are giving Texas barbecue a halal makeover NPR",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVRMTTduallTQ1BjSzN6Vlg5dUpJVlNCTDI4MDFwekIwc2xITy1xeVJrWE1oOXlQLU1ValppcU1pdjBoLWpuZlctdFJHblpvSTg0Z3JKUEhtU2w4aFNUSmxEMGlHZ19ZTlp4S3o1cWNDbUFnU0RSMVkzdGdybTNmSkEwNmVFOFpwTHl2V2JWUzJYcVQ5QURHQ3JFWUY2U3F1a1BNd3dxOA?oc=5",
-      "published": "2026-09-06T10:00:00+00:00",
+      "title": "Mountain lion spotted in San Francisco's Panhandle, prompting animal control response",
+      "summary": "Mountain lion spotted in San Francisco's Panhandle, prompting animal control response CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2Y4MzNWZ3U2T2ZrQkk0TkxFNU1VM21zaW9DTG43TExaZnNsenUxUjdNMlVCZjFueHN5cDBUNzlURlN3Yk9LeC16a2FuZkxaa1NRV3ZXQWVMUGt4YTZpYjAwNXdqdnpFZHg1MDF5Nzcwc1h4R210QkttdHBaMEtYYndHQTA1Q1U?oc=5",
+      "published": "2026-09-06T06:20:20+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -237,18 +297,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "\"Portrait of a Lady,\" Italian painting looted by Nazis, ordered returned to Jewish collector's heir",
-      "summary": "\"Portrait of a Lady,\" Italian painting looted by Nazis, ordered returned to Jewish collector's heir CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWNab01VS1ptOVN1dGUxcm16ckZGdkMyQ09uS05yZ2h3dDlVZjNoNUlEXzlBWWxlNkdOZXpWdFVfVllpT29BelZPNndDc3JWaTNDaEY5OGxTSU93TDlPdldCVGRaRGF6VnZEYWl4eTZGanoxUEhUQkRPdGNHZmhWLW5iTzY0RkkybTZv?oc=5",
-      "published": "2026-09-05T13:58:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -256,18 +304,6 @@
       "summary": "Hilarious Hollywood star Missi Pyle just came out & she’s on the prowl for love LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDFjdXd1WnFRMkNDNFo1UUZxaTVMa1lCRzd3N2hIYmRxb213NHAydUl5NVlMdHhPc3R0YUVHWU1TV0dKNjJ2cGNxTGx1dHJDQnE0YUZ4VUFQVkUtLVp5cHZLOUhiSHZhak91SWZ2UUl4SGFVdlE4ZGRWaGp1VXZlVlNrR2hYVWZ3bjBpOXY1eDNQUEE4QjRoNTljejFBem1PWVF2dVoyRENDNVZQcUJ6M3JIaw?oc=5",
       "published": "2026-09-05T13:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Andrew Rannells pays sweet 60th birthday tribute to Tuc Watkins… with a thirsty beach pic",
-      "summary": "Andrew Rannells pays sweet 60th birthday tribute to Tuc Watkins… with a thirsty beach pic Queerty",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZkNPNEoxTnA0M1JJZFd3aF81MVNlX0doLTNfOVRVYXBIcnR4M09yR1ZBdzU0dUd2U05fLVlEU2lJNnU1OFFhMTN0Zmt6YUxJU1VLcTB2YjI3b3NnQ3dJT1M1ZUhXN00wbzl2aVdITGF2eEpVT3loUWd3NV94dzQyb1dFTkFlZzJvY3l0OXI5ME1VM1hQX1pmZGU3eGlxU2dvUmk2RFVOdDd1NHI3OXNsSFBQVzNDbVB0RUZuMmJjSQ?oc=5",
-      "published": "2026-09-05T01:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -282,18 +318,6 @@
       "published": "2026-09-04T23:35:23+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Jose police arrest 8 in deadly shooting near World Cup watch party venue",
-      "summary": "San Jose police arrest 8 in deadly shooting near World Cup watch party venue CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRllySG9ERGw5TTJ4RVZlRXA4UEk4YW54UTBsa2pNYWJqc1VJOVpUX0dqWGFyaG9JU1Y4eVZVNFN3bGt3UzExcHlXd3dMYkR2LXotWWU4bktJX1JoaFJnX0FoSEhtVS1mamhkM0FCbDFqYWR6RTBMdUxsREw1S2NQMDRKTE1VdnJ3ajFZVWltay1OQTlqVUNsUmVIR19fOE0?oc=5",
-      "published": "2026-09-04T20:54:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -356,30 +380,6 @@
       "published": "2026-09-04T16:57:39+00:00",
       "beats": [
         "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Miley is back with a queer, leather-culture-inspired banger of a video",
-      "summary": "Miley is back with a queer, leather-culture-inspired banger of a video Queerty",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzBhcFgxNTJxVWZpazdBSEl4R1dNUFBtbUlfMWRMb0dpT3pXcnptRHdpYnI5bUUyNHRrSDI2SWdrVUwzd3Z1MU9BeWVMNXRiZ0Zma004c0UzM3hLelBPS1FLTUZWQkVaWFd3QU9JMjAzQ1VoTlp0SjMwak9DT2psS19pYVFiQ1hyNDMyNm80Z1ZxbUJHUFlDNWx0VmU5b285bUZiZTFn?oc=5",
-      "published": "2026-09-04T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Republicans don’t want Trump with them on the campaign trail: “He cannot come”",
-      "summary": "Republicans don’t want Trump with them on the campaign trail: “He cannot come” LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORk5USFB3Vm43S0M4bHIzVXAzUW1fWng2RmdVb2Eza3hPQ3hGUTdnTXpwY3RScW1fT2NnQnU2cHc2bi1qckVIdzdraTNqc1B5aWNmRTU4WVZkRlRMY3BLckhNWlpBbTlKejBWLWZzQ0g4bHR2VHp2Q0RyUlBHUkxSSkNBRnUxZEZFeGZJR2ZHbngydzhIS3BQbTROeE9jTGxKek1CS1llTXpEaUdCV2phUC1zVGRTZw?oc=5",
-      "published": "2026-09-04T15:00:00+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     }
