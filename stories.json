@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T11:51:51.304729+00:00",
+  "updated_at": "2026-09-07T17:27:58.816124+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,61 +20,26 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Americans are still struggling with high gas prices. The pain will likely continue this fall",
-      "summary": "Americans are still struggling with high gas prices. The pain will likely continue this fall CNN",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWMVFLZ1ZtcW5hUDBRQ1RmVlhzRk1kdExxOUE1WG5FYlB5SVhGRUtnaVpTQ2NwakZPbjI0aUkwTmdLVTBxekR3clkwM3p3ODNQdFZISXA0SWlNT0lmNUZYVkhCYw?oc=5",
-      "published": "2026-09-07T09:00:29+00:00",
+      "title": "Germany's AfD won a state election in a landslide, sounding an alarm for centrist politics",
+      "summary": "Germany's AfD won a state election in a landslide, sounding an alarm for centrist politics CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkRIVnZYNFUxWXk0dHdybG5zZnJmN0JJZmEwODBkTEdfcDVaQnpGU1dtU2JiX1VWSzVJbU1kMkVxM2NIX2FKc2pCRlFZQnJ2VVpWT1A4Z0gxRlhYR2pqT3hWa0RsZTNlV1A1d1VobHpzaHpsQXVRT0FFb24zY2NIbTdJUGdJUUNXdG0yZXZNLUFWZlV6bW1Ma1lONzc?oc=5",
+      "published": "2026-09-07T16:10:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
-      "summary": "The copper peptide trend has gone from creams to injections — ahead of the science NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQkNzaXU4ckk2QXBuakZ2WFBBdElPNi1hZGVBaWZ6UjRXcG5RNzI1YnZQTGRkUkpvN29VWGxkcFNIaFQ4VGxhYTkzSDFEVm9qaDN6OEtvM0ZOLW1NU1VabURrZHpaUEgtN19DMThCc3BKc2JRbTNmSHBETFI5UUxhZXY0MkdWaTJqa2xV?oc=5",
-      "published": "2026-09-07T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
-      "summary": "'Her body temperature was 106': How heat is killing Americans in their homes NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWxrZVRkUnVrWlpVc05GSmp4V1ViNGo0Z3pwQTN4OEtUX1hNQnhUdXRLSnQxeEdzSThnaElHQWpJemtUZElGbEJOOGdocVUxbzZCblQwd0oyNjNPc3E4ZFgzd1JqV2dRLTdocVNHS2tDMHZMSWExQmhtS0h3Yl9pMTVqQjhFU0psN3c?oc=5",
-      "published": "2026-09-07T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "At least 11 killed after avalanche hits climbers in Russia’s North Caucasus",
-      "summary": "At least 11 killed after avalanche hits climbers in Russia’s North Caucasus CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0REc0o3Ylh3TTBYRkNpaURlSkhBRnR4LVdjUHJkRVhxazJhRGJ3N1ZTM0FRM0UtMFdaNy1tSEZWZWtrYW8tN1h5OUN4dVFaR01vYTFYWjBvUm9iM0dycGdwaC1ldFFiUG1kT25PaWVLc2FTeWNRTTBJSGNaZkwxNUtISkpGbTg?oc=5",
-      "published": "2026-09-07T08:29:41+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
-      "summary": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KTXhRc3MzN2x5T3RyRlE0bS13blctRDJiVUI2SXF6WkpxTWZjQnpUMGQtZmRMYkZhS0NiZXBCbUM2SlBpeU1SSjI3VDBIbjVrRHVIWWNvUXdCYXRFMVl3c3l0SFljbFpSWG9icjdnZFhSUXFaNGpzOHBoQTVjd9IBgwFBVV95cUxOcDR3bUdoTHNVS3BtdmpyNXRCeUgzNjByV3ZNQTFtV05IeTRaQzlaS3JVSW5hQU16aUY0NXRDS0FjcnU5eE5QY1pSSWRjd2YtQ2EtYjZ2ZTR0ZU9mNjlSODg2bFdfUEQ3WTdfVlNlUWN6djhwc2JldDZfVHlzazYwaDJFaw?oc=5",
-      "published": "2026-09-07T08:00:56+00:00",
+      "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
+      "summary": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUQyOFhDMW1jRGlNSFNReHh0SlFkRmV1NFVFLWE1LWVXRjFOS25EUVNqWk9rRy12U3dTSWxUelZYTS1VLUdXZklTT0tzYnA1VjBQX0xLNVdWdWZQTG5oamNKdF9jWjhJVUZleDB0MGtveE1GNURRazNWcTQzYXZOQjRwYXhkYXM0SkJ4ZG9yQ0RjRkpZMk9lWkdQVzR2c3FkR25mb0RPQVVxUk1wU1NOY1lDNW11VEhHZ01CTG9wQXB2a3lqeVUtRkFpYWJiSkJ2UXfSAdcBQVVfeXFMTzZTTGdNUmozTkJaaHdVNkZYdUpoQWYxcXZxU2FSRV9PWkN1X2J2Q1VaRm9IaEpuenItLS1MNFc5RkJfWXlCamxvX25GbjYzYnlqQTdoWElvOE5kSllfM2RWaFA5UnZvMXd1T3hDOEJGZEdIR2JsM2cxV2tHYzNodG5OVlBuOHBZRlZLaVdyX3ZsUi1UMVBKR3lxNFNMRFBvalpiWEJCVFlkQ0h0WXpqV01zR3BrUThhNnNXY3J4SXBWOTR1eWhNQ3VTUjcxRm50clQyZXA3SnM?oc=5",
+      "published": "2026-09-07T14:52:48+00:00",
       "beats": [
         "Business"
       ]
@@ -83,10 +48,131 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Far-left Democrats had a huge summer. Now they have big demands for party leaders",
-      "summary": "Far-left Democrats had a huge summer. Now they have big demands for party leaders CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb0tXdnhIXzBab3JMbGlOR2JIWFJ0MjR2NXNiMjVwZk5Rcl9qYWU1REdPNXd6aE1Ld2hzZjloVTVFUlFWWm1GaWtFMWNad19IVFU5RVJtalZpa0lXVlJySXQ2bWZUSVByTFNLMnQ5WVEyRzAzVmlPTHh6QUhWVm5UYTVyYw?oc=5",
-      "published": "2026-09-07T08:00:29+00:00",
+      "title": "What we know about an Amazon cargo plane careening off a Miami runway, killing at least 5",
+      "summary": "What we know about an Amazon cargo plane careening off a Miami runway, killing at least 5 CNN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rZ0lDRFVURGpqRU9TNDhEeldoMzk3Sk1TZWFoMG16N3JkYUYzMWUwUnd4SkNpWFlselFlODFHYjczYXRTWU9sZER6Qkp1ZTZLNnppMzRlVUk1Wk9mM0IxOWV4ODNjQ2tKN2x2V01acw?oc=5",
+      "published": "2026-09-07T14:41:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "summary": "As Nepal identifies those killed in the floods, questions grow over China's reporting NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ25qeG45Tk56aDhNbl9oTDBOSHViUDFDdjBZS1o5ejVUYWxKd2lvZVFuT1hlb3BqSXVFRHBaUGhUOXkzYkNqQ3RqYVhpTmR0bzhuUHFWOVRKMG0zVDFFSmFNOXdTMEh0Yjd6dWZaT182Yk1FVmJLbUo4YWVRX1B2U1dpUjZQaUFfLTduXzJjTGt6VDg?oc=5",
+      "published": "2026-09-07T13:31:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
+      "summary": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVEwzd1pnNHlGWVVYQmxkbmFrZDdxRE9tUDZXaGJyRkNlM3Z6Z1RsMVhvWkkyTHE4SUp0N2JuMDZDOTVFclJka1ZadFlMMXpTRWRyVmdPdVJOcm42dVJteXdpeFYwNG9oZXhxYjRYbHk1aWRjb1VySFhMTVhEODNKc0w2WkNOLUnSAYwBQVVfeXFMUE5FS1RDSzllV3dkRXFtVXVtZDhKclhocFBRaUVobWlHb1pDV0tndXBFNks5aHlabTdxZkRTMXBPUDg3M3JuU1hzQ1oxTFZxZzN4dlluR3NxdW1XcUlJNjY4cFBkM3E1Wk1qQ21vemh5VEZBMnlBajlRMVZJY2ZNTDJPdUtDOER5WndHMWU?oc=5",
+      "published": "2026-09-07T13:09:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Mike Johnson swore Everton Blair in as the South’s first Black gay congressman",
+      "summary": "Mike Johnson swore Everton Blair in as the South’s first Black gay congressman Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUJLcnNvLWVYTmszZGlLN2NGMUFSbXdsLW9pRHhZTHZUczRsS2JLVjdLX0JKRE13UDU3Q1lmMEsxTDhtUGNLQW5GNXAxUEQ4ckNRdGtWbW9BRjI4blppYnNQdVlwWkxvRXN0Z0tnSXZIRlA5NWYxb2kxSzhvTTZFOA?oc=5",
+      "published": "2026-09-07T12:33:23+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Volkswagen strikes deal with Israel investment firm to turn car plant into defense facility",
+      "summary": "Volkswagen strikes deal with Israel investment firm to turn car plant into defense facility CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTRkclRGaVp3WndPQlJYRmZNLXVjZm1EU1lNc1JPbHpuS1p0Y0Vyamg1QnB1UWQweERjN2VHWVRzVmxMNGs2YV9Pa2I4N1NSYnhlNnhBRHotNHF3U2ZvWDk5Zm1ObFdjNVpIZ2wwc3ZDMjRBM1JpNW5mQ3F1ZVFJMkI5YnFDQVRNQXkxMg?oc=5",
+      "published": "2026-09-07T12:27:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Rob Reiner wins posthumous Emmy for role in ‘The Bear’",
+      "summary": "Rob Reiner wins posthumous Emmy for role in ‘The Bear’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFlZQjJMRUFxYldpXzNPNHBtM3hocE56cVB2Y0NHeGVyWUJfa3E4SG5WWmhnRnZlVmZiVFRRcnUzVmVjYXlkYzM3cGhLZEthRERsNktIeTJnbUViUmV6R18wTk9wNHFpM3FaMWxhX0IydmVtMWVONmw0d053eXNLVDhLQXZGa1hEelVZc3lkM3BPc1k?oc=5",
+      "published": "2026-09-07T12:01:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+      "summary": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election NPR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9Ua05ScHMyankxNGtfSzFCNnlfU0g2eGNlbXplbG55NDJLSFNXeGxReWRrY2RhYkFtaEs0dmZNaEdZeVIzaHh0MkpHMmZtWENUcVJwd1JrQ2Fzb294VmZlMGhJcnM5NGdyRTlLMVRrazhyc2MxUFVXSVN5NEdtYnVxWlNfRWY5dk90bVJhdlFxZnlOQkkxdkRpdzZ1TTNBN3luWUROWGhLSGwtVkhwY293?oc=5",
+      "published": "2026-09-07T11:11:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+      "summary": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
+      "published": "2026-09-07T11:06:20+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Why Did Trump Order Up 660 Million Pounds of Mystery Meat?",
+      "summary": "Opinion | Why Did Trump Order Up 660 Million Pounds of Mystery Meat? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kbmw1Vm1tSjJ1VHBnWXVyMFhNTkZHcS0zRXBPeFNxYV9mdVEyNUczYkV6X2JwYzBwZFZuc1YyYW5hRXdfUGJNSmRRX0l4RE1iaWdmamQ2SVp2QnhOUlhIb2xHVU5fM0ZqN28zUHl3c2tPajA?oc=5",
+      "published": "2026-09-07T09:03:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Erika Kirk: What I’ve Learned About Grief",
+      "summary": "Opinion | Erika Kirk: What I’ve Learned About Grief The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ENkFLSGNaOXZab1Y1RGdjckU5WEwzcE0yNjBkTFYwTHdNR1NLSUVpMWJLa0RhcktnNWdtRTNHWFdoVGN3cExKRmVxMnU1bGx5N3o0aXM5bnVUcURXdTF0a1FIRVFPdjVTeHBwd1dhenRQRVNMNFpsSW1R?oc=5",
+      "published": "2026-09-07T09:03:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Noël Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
+      "summary": "Noël Godin, Prankster Who Threw Pies at the Powerful, Dies at 80 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeVhRdXVYZXB5OFJvRzNXcnUxQ3YtQjM1eTZ4QzlsYUNidkZCOEI0Yjd3TkE0SG5rMGtkX2pLanVMVy1jMUpjSjZCaTBNMHd3RXk0eUF1aGVrMWFRS2FlRzZIcW0xSDdwTHd4Z25FZmhEOFJKZ2FZ?oc=5",
+      "published": "2026-09-07T09:03:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,30 +190,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: Germany's right wins, Ukraine's stalemate and air travel incidents",
-      "summary": "CNBC Daily Open: Germany's right wins, Ukraine's stalemate and air travel incidents CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0pHdVd1RzA3a2lTbkdhMzVpV2xhWTc2eHhEUjIxQVNUVjh0UTRkTWdQanJVZE1jSWstckJRVDhoZ2dLR0REaVUwU0xXYmtvNVMySnJaeDN1MVQtNk1YZ0t1ZWp3aTRoWk5kMTNtWVMxTjFTRV9xSjcxZEVRTHp6dtIBhgFBVV95cUxOa3NRaWc5MF9adFdPbVVCanA5eFlHVUJUWW1NSkVqSENMOEtNZHhTMTh6TTNLUEExcC0wdkhtYVJvUjlvUUMxX0Q5b2wxYkNRYXlYWVdGR1dzQW85WlNKeVVVSVE0bXpENzdCUGtaVlllcUhTazNPdUdUcUdtTzU5LVNkb3M3QQ?oc=5",
-      "published": "2026-09-07T06:35:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
-      "summary": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObk5EbElublhva1o0aEYxbmpnTFB1aEU1dTNvenR2eHJndXFvYjVTTFJmYk5EQWpSVXdlaXhiM2lFeks5aFh6M1hQd2hJSDgwRXB1b3ducmllX19mam9CRFRjN0dlQVp5ak1QaEphcE8wUXpkYW4xUS1JYWpiTDJvcS1EOHduTjN5OWJWNy11anpKMlVoYlgtM2dwNGnSAaIBQVVfeXFMT0FyOVVHZVpXUUtqTWpKZ0hYdnVEZ1FhWTRWNk44bnZlS2Y2dkV5VTVGZjVYbm94MXcwMzN4TUY5YXBPX05qUUM2Q09sM3BYYl9uWlVFcmZsbmFCMjhCZE11bEN3bmt5VFpVdmdybHFfSExucWpXSVpZNVZjQTVOOFZIdXI3VWVvdjdsV1o2b1doQk9ZT0NxUldDTEdaRmZ3Mjh3?oc=5",
-      "published": "2026-09-07T05:15:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -141,14 +203,14 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Amber Alert issued in multiple California counties for father, daughter after newborn's death",
-      "summary": "Amber Alert issued in multiple California counties for father, daughter after newborn's death CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmcycHFqLXVHMDNVRWNBZ1A1aVFYRnFjSHJwN0pyVEJhbmJpdG5xU200WGxlSVlwa0NUR0V3Qi05OFlpS2RnaEhGU255am1paG1iWmZzU2VaN0NfSF9yUk9kOHZJVUVoSWtlUGpzZy1SX2FCZE5IX3hqLXZnUy1jVjRaYS02UlFVUkE3WDRKTG1lSWhQQ2stOEZCQ2xNNVhvNlQ0RnB5ODNTS1Q1RTJB?oc=5",
-      "published": "2026-09-06T23:49:00+00:00",
+      "title": "AfD wins big in German regional election, falls short of bid to become first far-right party to lead a state since WWII",
+      "summary": "AfD wins big in German regional election, falls short of bid to become first far-right party to lead a state since WWII CBS News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zeWo1S3RkOEFpdGJtSGdxVTFVS0F4WnRXal82WG1iZ0ZCUGZHalNkeVEydE1CY3VENVNnR09PMnItdFY0QmJ1SktKdWYxWms2UnlwVnEzVGUzeV9GTmZNb1NCUFpncWNDMF9JUkVjU1E?oc=5",
+      "published": "2026-09-07T03:25:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -165,6 +227,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Sarah McBride calls on Pete Hegseth to be impeached: He's \"fomented culture wars & started forever wars\"",
+      "summary": "Sarah McBride calls on Pete Hegseth to be impeached: He's \"fomented culture wars & started forever wars\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmxYRDMxc0RHMTE3OHJ2RmxPdU9JYkl1WkVqNXIzQVdPQ0ExUWdfV3BMUEdEa1F1M005c3NJLVA4aDBtNkxFbEdFdkVidzFCTE1DWVp2VUhPNDV2MG1NUk04M3FzTm5mOUxNMGVoYllHTzloVUpWNVM3bl9ZZlhHY2ZQVXkzUEtQQ25aR0NTMWhLUDhielNvcTJSRTFEWkNwRmh0bndsN1Z1Y0FnaWNucXdLMzVQMkNDR250aUpuZUtjbmZjT2twQXNheW8?oc=5",
+      "published": "2026-09-06T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -177,13 +251,13 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "A bf’s dad bod on display, Armie Hammer’s new look, & Jeff Goldblum in the pit",
-      "summary": "A bf’s dad bod on display, Armie Hammer’s new look, & Jeff Goldblum in the pit queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUZQOE9MR0dwRHRjdFVsZTN4cERPUzlpTlNOZkhyMUdLOUt5TERhc0ZDeXhnMFVROHhDVEVzSzRiMFR0anB0VFBMdGlfQlY4dE9nN2tUbktRQndzU3NnOEJSTF9ITGJGVTloSEJYenFmT3ZnZHl6cWMwWEZzNmV1Rl93aEwxc3ViVGNNNDAzUGZDQUNBZHItTG9PaTBidzJjYy0tMHRZd0E4Zw?oc=5",
-      "published": "2026-09-06T18:00:00+00:00",
+      "title": "A new children’s book archive defies the right’s effort to erase LGBTQ+ identity",
+      "summary": "A new children’s book archive defies the right’s effort to erase LGBTQ+ identity lgbtqnation.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkhqQWs1YnNidXdZdWdJdkpVOW1RdjJGVFpESlhKT2RLeUdVN0MzWHI4SWJLR0JpTkx0bXRLQnNyZjhCMlFhRklISVF3bEM0ajBVQ1Yya3NNbFdtMVJqRmlZQnNiNFJSZFp0azAxdFRmMk5IendpN2s0SlhyTXFBUnpKcEZ1aW0zSTBIWVFyYV9reWRKOXZUb1ZONll3dFE4VDdWVmNXU3RGRGlGS1hkOGhibks?oc=5",
+      "published": "2026-09-06T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -204,10 +278,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "U.S. envoys ‘very encouraged’ after peace talks in Moscow and Kyiv",
-      "summary": "U.S. envoys ‘very encouraged’ after peace talks in Moscow and Kyiv NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUF9BT1NzbENzSURjVk0tcURDWnlITXBBT0JCT2V2eFRuTnE2djBkZkhzS1JoQU1IdmFVZlBIYlg0WVV4QzJMUEluUDZMTlAwOHBfZVBzR0tMQ2hHZFJ3YW5oSjEzZG1CWEpXbjBlNXFmMFl6WWxRNzZQa3dtdUdIRldKN2F3ZThfYWpwNUFoQ0tvamVKYU1BMzJGUzY1amdsZUdQelQ3bjUyVjFRWmc?oc=5",
-      "published": "2026-09-06T15:14:18+00:00",
+      "title": "Trump administration asks Supreme Court to allow mail ballot restrictions to move forward for a third time",
+      "summary": "Trump administration asks Supreme Court to allow mail ballot restrictions to move forward for a third time NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVF9HQkVGb09YMDZCOGN5aXFSSnRSRkgtUDlEOU9lYkU0Um9FeWlEQl9KMGZ2N0ZEd3RmMHlqTXMtS1JKNE5meWttdUZNMV9YWFZld1haYTBHSnNOay1nckpIRzVDOEJjYmpBXzMtd3c4SFFXMnkyWjlGajZQVEtMVXh3MloyUkVEMmtoMnYyMEUxRGE5QTRGZXRoM1Axa2YtUkMydEg5S2xhbnc3YkFTOFJES1JSZlhvNVBBZnJPeUpNSm5TNHJKVXAtNA?oc=5",
+      "published": "2026-09-06T16:11:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -217,7 +291,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Can you be “too nice” when hosting a hookup?",
-      "summary": "Can you be “too nice” when hosting a hookup? queerty.com",
+      "summary": "Can you be “too nice” when hosting a hookup? Queerty",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalV2bmpiNjY3Rk90V3JWUVhOTER1NU9xcDBXZmNXMUpHZy1xODdvUkVDN1haZGIwRjZlUmlLeW5fMm4wWnQ4eXFtdHpIeXFPTVZqeS10RGlYS3dWTnNlWXBUNGdUVllZX0N4RGJJNVdmMXFUU0lyUUkxenZjeW8yVA?oc=5",
       "published": "2026-09-06T15:00:00+00:00",
       "beats": [
@@ -237,63 +311,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Yayoi Kusama’s Fame Eclipsed Her Art",
-      "summary": "Opinion | Yayoi Kusama’s Fame Eclipsed Her Art The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUek12bnA0NDdfejdQUEVxR3RvelJFY1JyWGNQNmhGc01jY1V4LVBPdGdyX05PTG5rLTF0S2Q4ZDlrNXpQQVVJQ1lPVjN3Rk9USmgyaUxFRGY3Y2VYRVBGWnNpb0tieVpyb0ZwQ2lBb1VDWDJaNkNWM1Vn?oc=5",
-      "published": "2026-09-06T10:00:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Chef Andy Baraghani Prepares to Open Ditto, His First Restaurant",
-      "summary": "Chef Andy Baraghani Prepares to Open Ditto, His First Restaurant The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3g0WVhiXzlHYzFPRjIwbzItejgySmJ2bWRmQTNnZkxTZm5HYmRPaHdXTGFCb0lfOXJaeGRlaTBLUjZndDBLWHVYcTRBams2UUxoQ2dGek9nQnR4NVVKUng5c0xlUDNDYTlsR0JiR0w1STRkV3dmZUM5UDFPUzlCelRad0x1Ni13?oc=5",
-      "published": "2026-09-06T09:00:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Mountain lion spotted in San Francisco's Panhandle, prompting animal control response",
       "summary": "Mountain lion spotted in San Francisco's Panhandle, prompting animal control response CBS News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2Y4MzNWZ3U2T2ZrQkk0TkxFNU1VM21zaW9DTG43TExaZnNsenUxUjdNMlVCZjFueHN5cDBUNzlURlN3Yk9LeC16a2FuZkxaa1NRV3ZXQWVMUGt4YTZpYjAwNXdqdnpFZHg1MDF5Nzcwc1h4R210QkttdHBaMEtYYndHQTA1Q1U?oc=5",
-      "published": "2026-09-06T06:20:20+00:00",
+      "published": "2026-09-06T06:20:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "U.K.'s Nigel Farage said he \"wasn't listening\" during donation scandal conversation filmed covertly",
-      "summary": "U.K.'s Nigel Farage said he \"wasn't listening\" during donation scandal conversation filmed covertly CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmhQQkxjR3hON2hFLW5XZ2s3aFpwLXZoeVViSkNxdlVjTHN6TkhPRWdFdG9tV2VhVkp6OTJFbGM3WmxhTTlxMS1oOHNPYkYzaG1yZmpSZklBS05hX2NxV1NCU1ZmaExpUHlFS0NhLWZGVW44NXB1MEpscjN2SHFSVkJVWlBZanNSSHVQb1Q1TjBkLUJZUnc?oc=5",
-      "published": "2026-09-06T06:04:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "His Parties Fill a Tall Order",
-      "summary": "His Parties Fill a Tall Order The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2Zpb0xsMEtDUnlZWEtMdW9ET0NNQ0pCN3R5eWsyQ3NWcmFVUGc0NW1DUlR3bHNobV9QdkN2emxxaGY2RGpTamRaOFl2ZFNyS21Cb3piYnhaeWVucmRZcmFnLVRFVGxnck1iRW1aaDE1UUY3bU9SQ3JidUNSN2NVaVFFTGYwQQ?oc=5",
-      "published": "2026-09-06T04:01:07+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -326,7 +352,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Matteo Lane’s gaze, Jay Manuel’s pad, & Bretman Rock’s shelf",
-      "summary": "Matteo Lane’s gaze, Jay Manuel’s pad, & Bretman Rock’s shelf queerty.com",
+      "summary": "Matteo Lane’s gaze, Jay Manuel’s pad, & Bretman Rock’s shelf Queerty",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDVpUTlDS0t1ZnBSUm5WcXNhVkJCemxuR1ZnLUtqWDk4VW5kZlBjRHFOakFYbWttZ2JXcTBQRmZnLUc1RDlkRXFFb0lGNHFfTEpZbmRPYXpDWVJEWHNxY0Q2aU9kcUlZeFNvUWd5eVJtU0hfSDJGeHBIeTFHX3pzWjNuYzl5cHJNWGZvSVVTTnk?oc=5",
       "published": "2026-09-05T18:00:00+00:00",
       "beats": [
@@ -353,30 +379,6 @@
       "summary": "UPDATE: California community colleges oppose bachelor’s degree bills after last-minute changes EdSource",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDRxeDN6ZUE2eGFhZ3dYeDJxajFqUDZUUVlhX3NFVWZNTVVhcDQtaFc0dVdMaTBoajJDWkk4NGo3akt1WXYtRTdxQnNsX2hPakpoN255QzltejVLRjEyc05EQmhHdUhNV0M2WTQ2cnpvMnVjMUVERVVoZWxVZGNVQVJqa2lrM2lUMmF5NWpRTV9KQ2I0NVN3VXZ3cVZ1VWlIV29zUExmN1NQX3ZuTVdGd3BqS2w?oc=5",
       "published": "2026-09-04T23:35:23+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "How 9/11 Still Shapes Schools",
-      "summary": "How 9/11 Still Shapes Schools Education Week",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HTFNUbHNSdVBoS2ZBcEtoYjZ3QUU4MVJoSzRmMkpyNTZ5R0lST0xocWJFUVRLSXJtbzVxSmxfQklVR3VyS0JMT3JrcFBMYVVvQUhERVdkVk9qSHFIdTRKNGM3ZlBFRWVmeE9faVJCRGJjWVIxMzIzZ1Uzaw?oc=5",
-      "published": "2026-09-04T20:11:13+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Students’ Tech Engagement Doesn’t Equal Learning, Psychologists Warn",
-      "summary": "Students’ Tech Engagement Doesn’t Equal Learning, Psychologists Warn Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1pNcDcya3hWUU1CNmZETkoybXV2dFotajd5Z3RIcm1jQXl3ZFI3S0h4b0dNZzM3a2kxNlhxMldla241S1hnUnlJSTJHWnRCOGFBbFQ1bHVYWUpQUWZVRmpCa21BNjBSWUZWWS1kSFhseWRGdi1SZEs3UllZOWJtbEUtdmNYUFloczQ2YlBlbjRkNEs5am5BamtFdThiTmJtN1BudzBLc1NPNkU?oc=5",
-      "published": "2026-09-04T20:05:16+00:00",
       "beats": [
         "Schools"
       ]
