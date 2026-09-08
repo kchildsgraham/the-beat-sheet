@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T23:19:38.808774+00:00",
+  "updated_at": "2026-09-08T01:19:17.472673+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
+      "summary": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?oc=5",
+      "published": "2026-09-07T23:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
@@ -117,18 +129,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
-      "summary": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUQyOFhDMW1jRGlNSFNReHh0SlFkRmV1NFVFLWE1LWVXRjFOS25EUVNqWk9rRy12U3dTSWxUelZYTS1VLUdXZklTT0tzYnA1VjBQX0xLNVdWdWZQTG5oamNKdF9jWjhJVUZleDB0MGtveE1GNURRazNWcTQzYXZOQjRwYXhkYXM0SkJ4ZG9yQ0RjRkpZMk9lWkdQVzR2c3FkR25mb0RPQVVxUk1wU1NOY1lDNW11VEhHZ01CTG9wQXB2a3lqeVUtRkFpYWJiSkJ2UXfSAdcBQVVfeXFMTzZTTGdNUmozTkJaaHdVNkZYdUpoQWYxcXZxU2FSRV9PWkN1X2J2Q1VaRm9IaEpuenItLS1MNFc5RkJfWXlCamxvX25GbjYzYnlqQTdoWElvOE5kSllfM2RWaFA5UnZvMXd1T3hDOEJGZEdIR2JsM2cxV2tHYzNodG5OVlBuOHBZRlZLaVdyX3ZsUi1UMVBKR3lxNFNMRFBvalpiWEJCVFlkQ0h0WXpqV01zR3BrUThhNnNXY3J4SXBWOTR1eWhNQ3VTUjcxRm50clQyZXA3SnM?oc=5",
-      "published": "2026-09-07T14:52:48+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -182,10 +182,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport",
-      "summary": "5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PSTltUk0zYWFVSlVYZl9ZQ21aMnRzTXVkQ3V5LUdOMVM5QjZOWVRnWWl1YU1xOU02SWh5WGZwT0pvOXlDRldIRGlIQ2NaWnJJZVBqVFg1N0M1Wm92NUVfUUZsYkR6dVY2OUwyZQ?oc=5",
-      "published": "2026-09-07T09:08:00+00:00",
+      "title": "Opinion | Why Did Trump Order Up 660 Million Pounds of Mystery Meat?",
+      "summary": "Opinion | Why Did Trump Order Up 660 Million Pounds of Mystery Meat? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kbmw1Vm1tSjJ1VHBnWXVyMFhNTkZHcS0zRXBPeFNxYV9mdVEyNUczYkV6X2JwYzBwZFZuc1YyYW5hRXdfUGJNSmRRX0l4RE1iaWdmamQ2SVp2QnhOUlhIb2xHVU5fM0ZqN28zUHl3c2tPajA?oc=5",
+      "published": "2026-09-07T09:03:55+00:00",
       "beats": [
         "Politics"
       ]
@@ -215,18 +215,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Why Labor’s Share of Wealth Is Shrinking",
-      "summary": "Opinion | Why Labor’s Share of Wealth Is Shrinking The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQam93SFpqRlVKRmpsYk5PV1FscjE3QWY0OWdJRTRSR3JBRHF4dHNXOFRIR2E0S2FVVURyenVZbTVpQzhuX3B3MkE5T1JjcEdjS2NBSnZrbGh1SjNGUzEzYWxsTy1uTWc0dG0teXM5QWU0MUNmMHctdXRyOWNVUmtqV3pR?oc=5",
-      "published": "2026-09-07T05:00:06+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -234,6 +222,30 @@
       "summary": "Far-right Alternative for Germany party wins big in regional election but falls short of majority NBC News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbU5PMzFKLW5lMVVJdDAteXZlRDNsS21mVFk0Tld3WVp3VXFEU2tUTFlSX3pXU013b2dxdko5emJKUi1ld1Z6WlNkalVHelhKNmFxaWQ0TWt2NENpUTZIMjg0dlNzSjlwWW52azNUa3ZDWFpfOUlFOEFxdVU3SnRJMVJpWWRkVXVtMUFwX0RnWV9TZlM4RVNCUnRqOUNDUzJrRWpJYUFldlBzUXQwN09Mbg?oc=5",
       "published": "2026-09-07T04:08:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport",
+      "summary": "5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PSTltUk0zYWFVSlVYZl9ZQ21aMnRzTXVkQ3V5LUdOMVM5QjZOWVRnWWl1YU1xOU02SWh5WGZwT0pvOXlDRldIRGlIQ2NaWnJJZVBqVFg1N0M1Wm92NUVfUUZsYkR6dVY2OUwyZQ?oc=5",
+      "published": "2026-09-07T02:05:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Fireworks explosion during festival in Mexico kills at least 10, injures 64",
+      "summary": "Fireworks explosion during festival in Mexico kills at least 10, injures 64 NBC News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTE3NHE5U1BkbVpES2JFdWRsMWgwaXYyM0xtaTI2QWhzdi1QU1pKNXJYcE5mVEttMHZoYUJMLXlJZzdEZlFSZjBSajd5T3E5S2UtT3l5bVBObUdlYWMta3dvazI5dG02aXkwMElNV1JOcUc3Mi1ZTkpFMkRDY0JMSmVfNUxXOFBka0JaNlROOS1iQmFoZHRPNUgxMWo0Zw?oc=5",
+      "published": "2026-09-07T02:01:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -295,18 +307,6 @@
       "summary": "Trump administration asks Supreme Court to allow mail ballot restrictions to move forward for a third time NBC News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVF9HQkVGb09YMDZCOGN5aXFSSnRSRkgtUDlEOU9lYkU0Um9FeWlEQl9KMGZ2N0ZEd3RmMHlqTXMtS1JKNE5meWttdUZNMV9YWFZld1haYTBHSnNOay1nckpIRzVDOEJjYmpBXzMtd3c4SFFXMnkyWjlGajZQVEtMVXh3MloyUkVEMmtoMnYyMEUxRGE5QTRGZXRoM1Axa2YtUkMydEg5S2xhbnc3YkFTOFJES1JSZlhvNVBBZnJPeUpNSm5TNHJKVXAtNA?oc=5",
       "published": "2026-09-06T16:11:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Sen. John Kennedy criticizes the Trump administration’s approach to Putin amid latest peace talks",
-      "summary": "Sen. John Kennedy criticizes the Trump administration’s approach to Putin amid latest peace talks NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3lFTVVLTEplbXdaT3RNajZpNFpKa1dJOVNiSFZmd3Qyb1lGMFg2M0k0aG9zUkpqc3ZJbFZCRzJzQllRLVFiV3prWGpPYWFNdTV2SjBfSmhiTjkwUmh0M2RkVXJZb1IxU245cEJrc1dEeXZWNEpZV0N3ZV9qZDN0eC0tc3RxVS05cG1pb1Z1TTZCM1k5M3BWamc4YVk4bWRvYm1BZVFLR2tKVVRlNWZYYk9LV19NejFCeXVqeTZCYw?oc=5",
-      "published": "2026-09-06T15:32:57+00:00",
       "beats": [
         "Politics"
       ]
