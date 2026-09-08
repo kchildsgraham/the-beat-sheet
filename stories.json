@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:36:15.542863+00:00",
+  "updated_at": "2026-09-08T16:12:28.997948+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,8 +20,152 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+      "summary": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold NPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmQtdnJ0YzVUaUpMVHczTDkxWTRMVlF0N2UyTVJON3dqXzhzTTBac2xTWFQyQm9LWUZsQVA3QWhoMXdpQkVCSm5mSW5qNzUyLUowYlJKc0pRVFlsbjJRQU13RFVZR3hoS3BfY3c5UDhZQXZlVEpndjlnSGZSR28xUDkxUVRpMmVsUXpzaTlpUWRmblhC?oc=5",
+      "published": "2026-09-08T14:45:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Data center development turns some landowners into millionaires: \"Who wouldn't jump at the opportunity?\"",
+      "summary": "Data center development turns some landowners into millionaires: \"Who wouldn't jump at the opportunity?\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXRYcGhGdjVEY2FnY1lWallCVGZXdnlFaFJzRlFpZ296Uk93aGFDMF9ybWtrYUtKd2pXSzdVd0lROXk1aGROX25Td0tmR3hFTTJNLUx0QlFLYjJRMkRBX2ozbWVKeG9ZNklzT2hTODE3TXJIWFhzcG1ZcG5tbTl0LWtLLXU?oc=5",
+      "published": "2026-09-08T14:04:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Lindsay Clancy attorney wants Trump to give her a pardon",
+      "summary": "Lindsay Clancy attorney wants Trump to give her a pardon CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzVNSWlXMXhjQmpjeWszbEUydGlBMjZyY0FfaGJrMkpmMDVqUDVmalhGY29UQ0JfVlpkZDFBS0VIN2gxMk8wb09lenZMaThWVmgwRTIzTlN5Z05QQUJ3VWQ2TjBRTll4NkExWl80YXQtb2UxX0NQMUxRaFF1dWJ5aWd2SWpPV00zaktSNUZGTTNoakdDd19z?oc=5",
+      "published": "2026-09-08T14:03:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Thieves Steal Artworks From Renoir Museum in France",
+      "summary": "Thieves Steal Artworks From Renoir Museum in France The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1iZE5CV3lMN0NORWRldHRmcnBsT1lRODdGTHpMc2xiWXVHb1U5b3llOXU3M0lsRUxpZ1NkdGl1LVQ4ajMzX1otMEV6WVZwOWYtVndUNjhZR0lZRVVfd1lHUUliMjFFQ1p4R3hVa3lOajEtSHN0TGx0eV9KYXlMSGN0c1NmQVU?oc=5",
+      "published": "2026-09-08T13:52:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "2 different early learning settings: What they reveal about learning quality",
+      "summary": "2 different early learning settings: What they reveal about learning quality K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3FEWFQ1Tk92UTRCblB1Ti1wb2JYWWZ4OF8wOVVnTnIwY1VSQk92UFM0Y2VKN3g5T0RRenVNS3ZGNE50YURHODdLdFAzaEJRYWkwTHdPTkZIV2lMZzJCX2QzNXE0bGxBRlZnR09jdEQ0blkyZjRCa0dDNENHVWdwY1ljRHdGbGowU0hhR2tKRGUzck9hVFJKU0FIY2tHLVd5WWgtcnB0dkExeXZkWE9oQzRn?oc=5",
+      "published": "2026-09-08T13:30:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon",
+      "summary": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
+      "published": "2026-09-08T13:09:52+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+      "summary": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BlYzgyQnRzdGFDd2pDNDdFQWUza21lM0gyeERqTmhaRkxnSmkySG5EcEtIWFBKRTVBMUI5NFg3N3ZHUllxcWNsa3A5UzBuSksxT0pLUjRISVEtdXBYQXdCb0lWRmNnaEFOeHhVVVJFZDR3Z040NFVMSXpZUy12UU1QeVFGQjg?oc=5",
+      "published": "2026-09-08T13:05:20+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Whatever happened to the Taliban threat: 'We will flog the women'?",
+      "summary": "Whatever happened to the Taliban threat: 'We will flog the women'? NPR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1pMMTBiRl9vbmJIblFaU0RxVFpCTnhEYlJiQXc4THlQcVN0SVByUDJ2RjBVVExta1BTVl9oVUZvMFc0Q3BFYmhCby1aa21uVVFzcHFsRFpqVk5YdlV5RGZsRXg4R0tqM21RbHZOOTFPYkxDVUUyNVVhRnFzeHE2U05kNTc?oc=5",
+      "published": "2026-09-08T13:01:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CNN to host California gubernatorial debate ahead of November election",
+      "summary": "CNN to host California gubernatorial debate ahead of November election CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcVAxaHZ2RWQ2ZmNrNmMwU1pJNWRrYTFPaEZVeElwV19HQTd2N251emdiMnVod3YySDJwTTBJWV80OVV6cnpteE53WmhldEZGMjRqekpvLVFqZ3U5Y2RIMTZaN3U1QzRscmxXa1dJS2NUcnVpNl9CRUpTQXF2dXhwMF93Q3g4MFRSOEpGTnBtU1dGTXE2NzhZZk1kbVI?oc=5",
+      "published": "2026-09-08T13:01:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "NYC Mayor Mamdani releases 9/11 records showing officials misled New Yorkers about air quality around Ground Zero",
+      "summary": "NYC Mayor Mamdani releases 9/11 records showing officials misled New Yorkers about air quality around Ground Zero CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rMDNZRk8zdUNjRDFrb2ZSYXc5aFM1TUFMU1Z4Tm1QZ2tPNUQ1Ny16b19nM1BXRldoRU9ZU1p6MkJ5QUxXcjlUSW9xZFBsVW9qSWpRRjYyTWRKbHBueEQ3S3djc0RQTmJJaW5wdUFwSzZTTlU?oc=5",
+      "published": "2026-09-08T12:05:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+      "summary": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnpxbHNsSnA3UGRsR3VEMDBocElmRWd1T3g5R0hOeEZGblBFcDVFRTJkNU0wd3BwdndHUnFNMDlUc3RFVlpoZE9mcmQyTmRSd203WUp5RUpjV01LWlVzRzAxemNVYUczNjJURGZfc1JPMzBkWVJ5aXlGU1dMMDgyN29pSDI2RDZSaFpaTExGbHFJUjZBdDFGekZ2N1NLT0VXX2UxOVNpWEZsbHFqbGxv0gG0AUFVX3lxTE5RbGI4eEhEOXB2cmxNaDE1aUtCbkQzY05MU2ZqaEZwMDBWZlpLcHNHRExHNjNmeVNuRmV3QjlLRllHMWZKSFI0eGhyLTZJN3hZRWxLcmhPbjNiZDg4MFRMWnFZbGEyYkZnSHJJNEJWdTlQX2xxdDlfY2k2S1FmelAyZUJOcUlVRHlqRHVPOHRhckJjSUNKdjZ0dV9mdkQ2clYtWFZHSzdsZXdwQ19SQWo2eHpabg?oc=5",
+      "published": "2026-09-08T11:45:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "SpaceX is a buy as the rocket company can solve one major bottleneck, says Pivotal Research",
+      "summary": "SpaceX is a buy as the rocket company can solve one major bottleneck, says Pivotal Research cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXlQbEVGQmpMYVYxWnZZX2dqZi1TSmUxcmFGbEcwWHdrUnFmczI5NnhnTDM5Zmg0cGdJLXBkZ25oS0E5Si1ETUNZeWFubi03SXFJdE8zNWEzVFlpNzJuZWpVekVqclVhNGx0NmR0djJBdXVWUVpYR0U2eVdXc1phdzZGcmFwekdVUmpOU3o0OHRpX1k?oc=5",
+      "published": "2026-09-08T11:25:53+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "New Hampshire voters choose nominees for open Senate seat with Shaheen's retirement, and more races to watch today",
       "summary": "New Hampshire voters choose nominees for open Senate seat with Shaheen's retirement, and more races to watch today CBS News",
@@ -30,6 +174,18 @@
       "beats": [
         "Politics",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Hurricane Lowell passing just west of Hawaii, bringing heavy rain, strong winds, punishing waves",
+      "summary": "Hurricane Lowell passing just west of Hawaii, bringing heavy rain, strong winds, punishing waves CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXlGa1hTVndORFQ2UDgwenN3YWtWeDc3RjhJOGJCWEROVXRUenBlSFNvRFdrX1RuZldOVDNqTWtkakdVN1pRLU5PWFR5YjVxTXNuRUxtQjI1N01xTlhQYUFsTW8zVFo2WkxfRkJLd1Q4Sy05OU90Y1BIdXlHYldsaUU2S0lMWThSY2pZ?oc=5",
+      "published": "2026-09-08T09:55:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -45,13 +201,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Thieves steal four Renoir paintings from French museum, dropping two as they flee",
-      "summary": "Thieves steal four Renoir paintings from French museum, dropping two as they flee cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhNUs2RHNQY3FxV1I2N3U0OU5rcDcxemZVYk5jcE5xXzFlLWcwV2pLcmRITDhyYnVUcmsybWlMeDJYeVF1X3hFU01JdEsyd0RlMWdBVDJiWDVsUmFnbmhHQ3lWdG96YTBrTDRXQzlmTHVKR3RXVzZpbGJiNXdrdw?oc=5",
-      "published": "2026-09-08T09:14:19+00:00",
+      "title": "Opinion | Voters Have Spoken. Why Aren’t Democrats Listening?",
+      "summary": "Opinion | Voters Have Spoken. Why Aren’t Democrats Listening? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45UF92ZWF3SmpudUlkc3NyOHlDODZlQmdkZ0lGWlVaaDh3NzAxVVp5ZENQYUNSVlp4R1FGYy1QTVBjNHVienZyb1I4alNtcWNhb2NjNGhUdnZUaTRCdjFmV2VsNDZpc2s3dUFTTlN0djd0dU9T?oc=5",
+      "published": "2026-09-08T09:05:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -69,85 +225,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Brazil’s oil exports surge as China seeks alternatives to Iranian crude",
-      "summary": "Brazil’s oil exports surge as China seeks alternatives to Iranian crude cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TbUhXak81YTJLWmg4emhpc0tlcFRRdGM2VnJUSVdsYW5TQmp3X3VnLWRpN2RkM05BRnMyRklTOUpMNHUxekwyV2ozLUx1U19JM3M1anJCemJQMmIzdFpMWWZuQlkxOTA?oc=5",
-      "published": "2026-09-08T09:00:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Democrats enter the midterms looking to conquer red territory",
-      "summary": "Democrats enter the midterms looking to conquer red territory cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmRDbk5uWFQwX2RPamUwWnV1eXNZNExYeDNYSDB5aWxONnRyUmpldHNSZzgyTXo0RTc5OGpiTnlqanNiRGtQeV9LNkZEZ3ZJNllKNmNTc3ZrTEREYTBWY1lubGNGajVUX1VOUnBNQW1aWm5rd0J1bGxMbTFlYnQ2RW5QUk8ya0hCZ0JBbg?oc=5",
-      "published": "2026-09-08T09:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "60 years later, 'Star Trek' continues to 'live long and prosper'",
-      "summary": "60 years later, 'Star Trek' continues to 'live long and prosper' npr.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PanBKaEx6RnNsTTRxdEk0WEZ1YmNQdWhMOEZnSE9aOTM0RmZsVVJocWdjX2FtR0xLVVZnUk53RmhvV0puOWlqUmVsaDlVelBxZ19wZG1oaVhtZmpJTXN0cllxR1J4Qk9hVmk0Z1Q0MDNJLVJMYV9IU0k5VGJBc0k?oc=5",
-      "published": "2026-09-08T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Where is Austin Tice?: We believe he’s alive : Embedded",
-      "summary": "Where is Austin Tice?: We believe he’s alive : Embedded npr.org",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaG8zbXlqcDM4X3ZGTnI0RlRXQnliU3FONGt5R2xCV0hnMHh4RG9FaXM2SzQ1MzRKcnc0eXh4bkZhN0h0N1RWbWp1SHl3RVBrMGdLNXFOb3VqVWFfem5FcmItOW5JdV85Z0lBSmdYQ1VUanVUTFZiYmFlVldlN1JwcVlDdUpIS3VIZ09NVzNDOA?oc=5",
-      "published": "2026-09-08T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The 2026 midterm general election season is upon us. Here's what to watch",
-      "summary": "The 2026 midterm general election season is upon us. Here's what to watch npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2NrOWZiVDVHbXU4VXU0YTFLTXJNY0k3WmZWajdaYzdjTzZXYXZDZGtfM0x2TjNpZkIyN0FuVHR0Y3N5TTM1bm5Sem9adHFBUDBlTDVDVF9MalpYS2l3QmtaT3JhcUxQUm9BcDFGWExRdi1Tc01fM3J3Skc1RktwMzU2NEtrTndJNzJRYTRHWUdSSlpxcFcxeg?oc=5",
-      "published": "2026-09-08T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
-      "summary": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTZlbzJBNE0xdmp2WGdfamJKY0NzUFBta2dOTS1XX1BtX1JsVXhldEx6YVozR0RVaVRrVW8zY2FWUjBlLTZWTGRfbzlOcUFRZTZfT3BMN2Q0bnZfNVcyTFlBWS1jbmppYlFlcW92b0ZDYktCM3RaY1hPUEpTZ09WSmU4all4OTN5RnVN0gGQAUFVX3lxTE5NOFJ1MmdnNlFmRm1TSnB4ZG5xbjEwTU92UFdCYl9RdUhmcXJjMWtCT0VkUjYxVWZ5NGRkWDNTY0ltS2RRYlBoNjI4MmQyMVJPNFg4LWc5OGhMMEhxclVGVHMtQkpzZVZUUkJTX0lWQUNXbi00U2x6cS1VWlpqZ2EteV9BbG5udlJFTC1ieldOSA?oc=5",
-      "published": "2026-09-08T08:32:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Pharma major Novartis falls 9% after three drug trial setbacks",
-      "summary": "Pharma major Novartis falls 9% after three drug trial setbacks CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WRTg5RHNwODJqN0twNlIteDJySzZOWk9CZXU0QzlZQmZram5Ya3QzeUhCTzdOQmJGX2NnenB2VTB0STZpMmJBLVZCYWZRUHB4elFZTER3WXp1b25sSGVxYXBfX09nM1J6VVJUMGlBVFl0MWd2Sm5vaWpGS2RXQdIBgwFBVV95cUxOZFNRTnU3cHFQOExSSHhzRjdmUkpnOGo0N2JFVXFJZWx4NHVGZ3RzcUdrWDBVR3lnRl9tbUlKbnc2aDhpM3V5RDBJSUtiZUtLRU1QakpaQnBLYk9lMXVJakI4Qm1aNUlKampmbm1TeUJJU0lSWlNIY21SVWFZNHlwWlJwcw?oc=5",
-      "published": "2026-09-08T07:51:59+00:00",
+      "title": "Zohran Mamdani packs schedule with 9/11 commemorations, including speaking at NYPD’s official ceremony",
+      "summary": "Zohran Mamdani packs schedule with 9/11 commemorations, including speaking at NYPD’s official ceremony NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDc4a3d3YUFOeXRuR0dveFBGZVBHU2RtQ21ucWU1TUFjcURJRWRXWWhFUkRFUkJwNmVCZW01UU1tVHFUWUJUREVpYnZ0dDFfV3p5M1JtOXlHZjF0a04yMmozeV9EZG9oRzlPQnlWWWpMYWJLM3Q5a2hpUnA3dFV3UW9xOGNRRUdxTERSZUFjOFRQYy1wSmV4Q2VIYmZZQ0dNODJUaXBHY1dfRGlrc2tLM1owNlliZWRoMVE4a1hNVGtIMldPZEdF?oc=5",
+      "published": "2026-09-08T09:00:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -162,19 +246,6 @@
       "published": "2026-09-08T07:30:05+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Global shipping authorities warn of maritime trade breakdown amid geopolitical turmoil",
-      "summary": "Global shipping authorities warn of maritime trade breakdown amid geopolitical turmoil CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04cTRwTEtrVUFYc0ZWZlVEWS1QeE02amRGNzh3MUdzU0c5dDhiMGx0OWpNUWZ3VUtsaWkyazljRFJ3b2JXZ1plbEZlNHJ6TmFUUDJFOWlzNzdoTGYzbjFTMDVaX0FhRUxzdUcxdU9qeGFnclRiTHJaZDlDbkZFREXSAYQBQVVfeXFMT0JvS2RJRG9WQ19QMTlTZkpFdlgza1FEeENfRmZQWi02MDhaSnJYemRCVlhBNHRSSDRnNG9SQUdFNGpUVENQcWlZYllqaThMX1FlYjNXaWI0ZjFKYmd6dWR4dWFuR1gxR0dZUW9OMDdXR3VVZlBzNFU0NnJWV29MVVU1dU51?oc=5",
-      "published": "2026-09-08T07:28:41+00:00",
-      "beats": [
-        "Politics",
-        "Business"
       ]
     },
     {
@@ -242,7 +313,7 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "Dolly Parton paid for the gender-affirming care of her \"good friend\" & chauffeur of 30 years",
-      "summary": "Dolly Parton paid for the gender-affirming care of her \"good friend\" & chauffeur of 30 years LGBTQ Nation",
+      "summary": "Dolly Parton paid for the gender-affirming care of her \"good friend\" & chauffeur of 30 years lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeHNQaEJfUHlyLTdlWm1zdklXRWxuX2NIR0hwQlVYSlhTRjk4dGJiNzgyVS1BSVAweHphbXFvSFQ5bC01LWRqclhJTjBIUVlWWDJQb1Y1UFdfVlhXXzNFNjVNdEVHb0ZNU3BzMnpib0M0S1FzaHVEclQ1TmFZZUY1eURQa2Y3LUZHcXNCSE5FUnJteGpYMm1Hdm5oaUZXaGJOS29IZklxRm56elJMaFdaMXVwVHBicHp1QzR5YjBoZE9NVGc?oc=5",
       "published": "2026-09-07T19:00:00+00:00",
       "beats": [
@@ -287,6 +358,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Erie oil drilling plans change after Colorado residents push back; $17 million lawsuit possible",
+      "summary": "Erie oil drilling plans change after Colorado residents push back; $17 million lawsuit possible CBS News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXZhcl9OWm9nN0lpWlp6d0duY3ZnUllPTXBkQk5RN0dGUHJNaDNKY05Xc0pucXNFSGhIb2M2aUg4eDR2eEthaUx2c2tGTTRzOXZYNkNaS3YtTnY0Y3RDWW9ITkp4Mk51NUtCcXpMUEZ2VUoyZ3pYQ21RS3dIdkFXZnFWOHZzV3paMHJzWEw3dzRFSHlsVG5QM3pVcWpyZw?oc=5",
+      "published": "2026-09-07T15:33:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -295,93 +378,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREdHUExzZ3o0cFg4UW1pQVZSajVLVUkxeEhneWdmZUtrNEs1UnNBem9UTzhVOUgyZ3lRSkhiMXEzZC1sNFlVSHJkRWN3d1hVdmhQWlN4Q0stdWIzYzM3Zi1fUjJGWWJFT3VOX1Zac2dQeGdpS2R2NW9rTjRqSGVIb0ZfeFpRc0hLXzZObWNiUU1Gdw?oc=5",
       "published": "2026-09-07T15:00:00+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Snoop Dogg is hiring an international ice cream taster. Yes, it’s a real job.",
-      "summary": "Snoop Dogg is hiring an international ice cream taster. Yes, it’s a real job. NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzc3TW1KaklLbmNZd1ZUck9aU1pIa2pXU0d6Mzlac1VKSkEwVUJTdGhHQVV5TmZISmpMOHEtc04wN2xnV2p3ejlqQ25BVVIwNENtMHVKOG5qNUpET1d5MFA3VFluNEpBQTVkVmJ4bGFnVXluSjRwOUxOSnVRUnhzNVJCbnFzaWZTckFBVFRxU0dFWFlyREV2WDh2d0xDTEY1WjNlU1k2UkIxMUpmRWtaOEhhOHNIRDRZR29NYzNEUzIzdzJjM1E?oc=5",
-      "published": "2026-09-07T14:27:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Mike Johnson swore Everton Blair in as the South’s first Black gay congressman",
-      "summary": "Mike Johnson swore Everton Blair in as the South’s first Black gay congressman Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUJLcnNvLWVYTmszZGlLN2NGMUFSbXdsLW9pRHhZTHZUczRsS2JLVjdLX0JKRE13UDU3Q1lmMEsxTDhtUGNLQW5GNXAxUEQ4ckNRdGtWbW9BRjI4blppYnNQdVlwWkxvRXN0Z0tnSXZIRlA5NWYxb2kxSzhvTTZFOA?oc=5",
-      "published": "2026-09-07T12:33:23+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Renowned NYC medical center caves to Trump on trans youth care just as DOJ loses in court",
-      "summary": "Renowned NYC medical center caves to Trump on trans youth care just as DOJ loses in court Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEtmaGhvX1djVS1Nbm1PZ0RmVGEwMk56WkRTRklCOFZQYmdpdnpfVlpVa3lWRnhHRldCYTBET2g1UXMtM2k1NGtCTFFUdkhrazZrdnJucERfbDFMUXpSbnZhcEN6elFJNkFUbkg3MHM4MTVhMnZ1RVZBemZZUGQ5Tk9EeUluMGVZZWdKMw?oc=5",
-      "published": "2026-09-07T12:03:01+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Why Did Trump Order Up 660 Million Pounds of Mystery Meat?",
-      "summary": "Opinion | Why Did Trump Order Up 660 Million Pounds of Mystery Meat? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kbmw1Vm1tSjJ1VHBnWXVyMFhNTkZHcS0zRXBPeFNxYV9mdVEyNUczYkV6X2JwYzBwZFZuc1YyYW5hRXdfUGJNSmRRX0l4RE1iaWdmamQ2SVp2QnhOUlhIb2xHVU5fM0ZqN28zUHl3c2tPajA?oc=5",
-      "published": "2026-09-07T09:03:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | There’s Something Better Than Happiness",
-      "summary": "Opinion | There’s Something Better Than Happiness The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXU5TTBENEZkQXdyWHpydW9RcHExUTZxNldRUlVaeUctYnMtdTY2Uk8xZ3h0OURZTDg2Rkk0NEI1VzR5enFra3VNYlFETzNSVnBadUdzRzZ5YzlmOEVGcmlkdVppS0gxMGd3WTJlMDl4Q1ZJd3lhekpBVDEwZWQ0LVZVNXJqaEdhcWd3Qw?oc=5",
-      "published": "2026-09-07T09:03:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Who should fill the school supply gap — teachers, parents or schools?",
-      "summary": "Who should fill the school supply gap — teachers, parents or schools? EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWJLY2hIR2thZUNYTXNoaVZzY3JPNngtSERCb1E4TG5EeHhGUFdpdTJoblBVYXpYczA3Q2s3a21IZnRzcWJteExrRlN5NXRfMkhSWDN4WWpzay1WdTBtTFdzQXAzXzRlQTY4Sk50bENxdnVURm53eUJDYzVEOWQ1bzRWbUsydFRB?oc=5",
-      "published": "2026-09-07T07:04:28+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "\"A deep relief\": Trans advocates celebrate Bulgarian court's ruling in favor of legal gender changes",
-      "summary": "\"A deep relief\": Trans advocates celebrate Bulgarian court's ruling in favor of legal gender changes LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5ZNllNbWNRbDJmNUVTSVptUHAzcmdwUVVCS3JxZlIyUjBzVGRlWmxOZElBekNidHpWTzM5Qkh1S19wUzFfeGRKb3haVDR1TjVjYUVKMHBZMVNjRWh6NHhFMDJQbDhTOWstTEYxUXJQZkhFc0JhZXB3Y0RHSlUxZ3BGX2xUZHRxMFdtQUJqdzU0Ti1lZUhXbzFHZzZqcjkxcHZINjNybnQ3dVlmODV6YXNUWU9wT3JyOUxNTkZ1Tjlxby1sRWlIZnVGSlQ4QQ?oc=5",
-      "published": "2026-09-06T19:00:00+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     }
