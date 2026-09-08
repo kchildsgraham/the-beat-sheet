@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:30:41.047783+00:00",
+  "updated_at": "2026-09-08T22:25:52.040230+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,145 @@
   "errors": [],
   "stories": [
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "UPDATE: Sacramento school board facing potential insolvency decides not to increase its pay",
-      "summary": "UPDATE: Sacramento school board facing potential insolvency decides not to increase its pay edsource.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlNIMWhzNUEtUkIzTXRhUUFlMjE1bVQzNkpkNTNRd1hEemJIR2t3em1jWTkzS3ZUQlB0d19BSXA4T0d4S3E5dVZDd01aV2ozcC1aT1ljZ05kNmY2VkJKNWVTcnZOY2FzUl9hdkZ2ZGlSNkFlXy1pMFoxUVE5c1pHREZwdllWcTctY2h3d0FlelN4Z25odHlRNDlCeU5aQ1pOenlWSWhpRzNtbXhVZFU2S1Nn?oc=5",
-      "published": "2026-09-08T17:54:52+00:00",
+      "title": "Supreme Court rejects Missouri’s request to use congressional map with extra GOP seat",
+      "summary": "Supreme Court rejects Missouri’s request to use congressional map with extra GOP seat CNN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0h1QldvVkVNeks0c3VtY3dGS2F0aUdQNk0xWnVqZkpHWjdpV1hVeDd0Ty14eG5HakFRM3ZzMTAzVWs0aGdrMFJfSmxFMnNVLVlOaXg0a0VjWm9veHZyMDF3Y1BoTm4xVHlOV3lFZU9LeU9YMzIwdDhBX2xCNjljaHZoWmF4UWtMVzJBQ3BjWkRLWVZ1dzdRbWY0eFg5UQ?oc=5",
+      "published": "2026-09-08T21:35:13+00:00",
       "beats": [
-        "Schools"
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Politics News Site NOTUS Rebrands as The Washington Sun",
+      "summary": "Politics News Site NOTUS Rebrands as The Washington Sun The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR3llaUw0V1lhWmFUMHZ6RW1OcnIyaDZPT2hRSFA0aGZHVFUtN1RHbzd5Uzhvem8zekxFU0dhRS1YME0xOEo0MTI1dEdCb3RtSHk4WFd4NExuOXVCZS1TUmtXY0ZaZ2NxN1pKc0RvOGhENmgzT0ZYWFZUZkdqTXJtMHhiMUhtc2Z0N1Vr?oc=5",
+      "published": "2026-09-08T21:00:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "LIV Golf files for Chapter 11 bankruptcy",
+      "summary": "LIV Golf files for Chapter 11 bankruptcy CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbHZJM0d3UktjdjVILVMzeVNFMC16T1VpVzhXTk1WSmtMSWsxb094M1hWTWJGOFd3cmhBdXUwMUM5YVI2ZzljM1hwQURQWDROV01HWUI5VHpOTzN3Y203U0NEWUotRDlzOURsOTUzZlg5ZDE5NXfSAXtBVV95cUxQT1labWJWUk15amFDb19PNzlGeTMxVUlyMHhBUERDUDJVOWdHTnZHTGNGQVFoYmJlTlQ1LVVyUzFSY0tJRXdPY2szczJ1VWVpcXZpYVJBcDBMY0xOS0VRaUJYclFUMWVLSEVyX0dLYl9SN0VHaV9HRzdBQUE?oc=5",
+      "published": "2026-09-08T20:56:18+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Transgender Army master sergeant dares Pete Hegseth: Say your anti-trans slurs to my face",
+      "summary": "Transgender Army master sergeant dares Pete Hegseth: Say your anti-trans slurs to my face Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEJLME9QY092c3B4Umd2eUdteVo2SjE5TFhTTmVuNS03UjBzQ0psalFGRXdGWTU2ZTVXRERRRXU4VmlfMkFBbDBtSFlKS2hWSDE4S3FBZDZaVnpnTG0zbUpTTkc1OGs5NXh1Q1JBR1IyV0FNZW94WFFfbmo4NkZBWUdlbkpFNF9v?oc=5",
+      "published": "2026-09-08T20:51:05+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Some on the right cry ‘socialism’ over new Trump proposal",
-      "summary": "Some on the right cry ‘socialism’ over new Trump proposal CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNVDFINnprc0tMU0IyX3NmRG13LUxkMEtRRl9iX0FFQWt0U3VPNFAyRF81S2ZlM2xfa3lGcklvUlRvanRZWERvR1J0MEJBcTVoc25HbnVBZ0tkSjg4RGYyR0JyUHZ3VG5pNGlENThuNHNCWnpaeGpN?oc=5",
-      "published": "2026-09-08T17:52:21+00:00",
+      "title": "Tehran threatens vessels in Bahrain, Kuwait after US strikes Iranian tankers near Kharg Island",
+      "summary": "Tehran threatens vessels in Bahrain, Kuwait after US strikes Iranian tankers near Kharg Island CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92WjZjZEV5NnlTM1FXMF9ObzdZaDJobjNaNk9LazVNd0owSUE4YkhTYzh0cU5hYmk4cmFLV3RCYlBPYXJ2Z05ucHNSVEZWSFVxYjNmS0FWRmRkRWxVekM4SDFHWGtBZ3RIMHRnWFJBNEw?oc=5",
+      "published": "2026-09-08T20:45:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "New report shows the economic toll of ICE raids",
+      "summary": "New report shows the economic toll of ICE raids NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXJjcTc0MGdESEZVeUVacHpUZmdHc3E1RUVOYXpXXzEyaFYwUzkySHVWX1BkVGwtc24wYnpaY2RYeUxJVlF4a2RScnZVZ2JPeTRyZUhZVGFOSTBicXNGSGhXUHFlLXdlb3ZMejhJbnZNR2JHSWdUcXBGSnk2ZzFVZGNMWVBLcW51UjUzMUNJaTdReXBmNnF3?oc=5",
+      "published": "2026-09-08T20:17:22+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+      "summary": "Trump administration expresses 'profound concern' over Ford's ties to China CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
+      "published": "2026-09-08T20:15:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump",
+      "summary": "Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUoxQmdNckgzYU9rZlgzMmxSUWxsb050QVpySEVrZTVOaUZuRUJYaGdZY2tuRVN6aVlYRjhhY0lXWUc0UGdKS2k2Q1lHLWRrRUw3ZDNNc0htOURQdGp0WGhYNWtuOVVVYjZtc1Q4bHNWVjZ4VnhIMmRGRkNlYVRZM2F0VzlGS2FOTUp5b01rdTh0dnhGOFVydC00TC00cGhYX3Q4cTBOS0d0b21acFBINjZ2bw?oc=5",
+      "published": "2026-09-08T20:02:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Thieves Steal Artworks From Renoir Museum in France",
+      "summary": "Thieves Steal Artworks From Renoir Museum in France The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1iZE5CV3lMN0NORWRldHRmcnBsT1lRODdGTHpMc2xiWXVHb1U5b3llOXU3M0lsRUxpZ1NkdGl1LVQ4ajMzX1otMEV6WVZwOWYtVndUNjhZR0lZRVVfd1lHUUliMjFFQ1p4R3hVa3lOajEtSHN0TGx0eV9KYXlMSGN0c1NmQVU?oc=5",
+      "published": "2026-09-08T19:37:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Hazmat situation in Orange County city of La Habra prompts evacuations, police say",
+      "summary": "Hazmat situation in Orange County city of La Habra prompts evacuations, police say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LV0JHUWJReFVZNEJUWTlTQUJ5X0FycnpDRmVjYkhkMllLTGZWMkFoTmxBNFhWOEtWMTZJMHAxWnBhajB3YVlXYzNVcHA5T0E4ZkdkR0FybWNhUFlYbXVBS1ExNVlNaGJSQl9QYm1jV204eTl1N2Vr?oc=5",
+      "published": "2026-09-08T19:19:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+      "summary": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uY0c0aHNlR2NIZ1hQWHRnUHVqUngzS0g0VHRmZWt0WWRJd0pvcjQyX25YMlBfd1JudzVyUEdTNHA3ZzFXMmNlMHBQd1FqRTdwSHg3VkVLdGNYNUJseFdWclJGUF9tQmgtVUR2azVrVdIBdEFVX3lxTFBjY0E0dzVIRXhqSlp4LTlJMXVKcDhPQ1Y3YlJ3VjhKWm1fLWdQMXZFM1NWYkhVd3hPMUZZQVRXeldQQ1VlcDBqUnEzeTJDY0hjRTZYUzdibmVpY3dJYVFlSVBRVGg2RENYWXpuNFRTU2VXNDdG?oc=5",
+      "published": "2026-09-08T19:14:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Michigan clock controversy escalates as MAC appeals Hail Mary win",
+      "summary": "Michigan clock controversy escalates as MAC appeals Hail Mary win CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcGxaVS1BZHpZMXMyWXVjbzhKbmNKX3pVdXA3aEtGcTFxTmhRNVdHRW83YnlHOFp6N1VjMVpLYWlQMWM3WHNvT1dQdkRoQlBucWxVX2Z4RXF3am1haXVCVldxQm9JeWNodzhISDY2X2FwN2N1dnc1eDF4RGRtTkdGT0s4am5PQQ?oc=5",
+      "published": "2026-09-08T18:58:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -48,9 +168,9 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: UC Merced expands guaranteed admissions program",
-      "summary": "UPDATE: UC Merced expands guaranteed admissions program edsource.org",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZTI1OGJES0RRVF9YXzJXaVhjWTRyYmhhODhjbUNuS3Bmak8xQ3dJMURyVkt4SlpIbGR4d05GQXIyN2pLQkxnWWRwOTdwU0tnZHVUTkJFZ2tkaE5WdHE0SlJaV0tPbUwzdEF2QmhTbVRzRWJHVEE2alJtS3JLal8teU5R?oc=5",
-      "published": "2026-09-08T17:44:52+00:00",
+      "summary": "UPDATE: UC Merced expands guaranteed admissions program EdSource",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tMm5zRjFiX1AyTm9HR1NobU92T3pOSTBUWFNpTGFxOExnQ3lOWnRmWEltQmhFSERTR1d3YmZ1TDRXZFN6SVM0ZFRIaGlmSzRoREhmblpjMHhBSFZtSjRmWDBfRUJMWGFTbmZkVmV4U0U1dXRkSGVF?oc=5",
+      "published": "2026-09-08T17:45:34+00:00",
       "beats": [
         "Schools"
       ]
@@ -65,90 +185,6 @@
       "published": "2026-09-08T17:34:40+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "New Hampshire goes to the polls in primary for key open Senate seat",
-      "summary": "New Hampshire goes to the polls in primary for key open Senate seat CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQREROOG5xZVA0VC1TLUNYSGI4eTJ6bFR3ZDd0R2xwTGptbHFIempoc0ZMbG9qRUlZRldtbTJ6SXgwVjQxLW1FTlNSdFphNWp3NWg1b3lrWGtlSk1ZdU5vY1hoZ3M2dXZ3ZzdtcmdBcS1Ydk1ac3hsMFUyUXVLZEtsZFpHZWc1MXVQZ3dDSXhpY3JUVTlhb1BjUzkwNWJVNXZIZF9ra2ZoOG44cnh1WWwtdmlnby0zOEU4TFHSAb8BQVVfeXFMTzhMeU5tQmpwSmgyVHd6Vm5EbFBTQnV4MFRLd3BMN0ppQ0duQmdKTG1BU21odzZZcEEzUk1wYUJkWnZ1dElOTTgxdUUwX3R2aFJ5dkVvUmthZ0NOdjV5R3Y0SlpfaW9laFlwOGdZZVJ0czVEUmxfeVIxaXVydVpoNEhZSHU2MC1WSVlxcy1Ma2ZRYS04RHdhdzd1a0xHNWI4VUpkQkhEZnRnaENVaDJrckJQWFNIenlkQ2FMSkFueFk?oc=5",
-      "published": "2026-09-08T17:07:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Pentagon digs through troops’ confidential medical records to hunt for transgender service members",
-      "summary": "Pentagon digs through troops’ confidential medical records to hunt for transgender service members Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjBGem12ZFZiWEsxNG56QzJNOHJzc0pXUzE5SloxMWE5bFA4SC13V3ZjS0VKU1h2UlN2SGNaY0NvUEdzOEU0ZHdGcFQ1ODdqbDJlaWVuSWpHNmtnUnMwaXl6TnZONU9MNTBxNFEwWXhfTlZLbnVoOUFMWGMyZ2JGR0VmcWFJMFQx?oc=5",
-      "published": "2026-09-08T16:32:11+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Thieves Steal Artworks From Renoir Museum in France",
-      "summary": "Thieves Steal Artworks From Renoir Museum in France The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1iZE5CV3lMN0NORWRldHRmcnBsT1lRODdGTHpMc2xiWXVHb1U5b3llOXU3M0lsRUxpZ1NkdGl1LVQ4ajMzX1otMEV6WVZwOWYtVndUNjhZR0lZRVVfd1lHUUliMjFFQ1p4R3hVa3lOajEtSHN0TGx0eV9KYXlMSGN0c1NmQVU?oc=5",
-      "published": "2026-09-08T16:19:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "HSBC just hiked its price target for the S&P 500. Here's what the bank expects",
-      "summary": "HSBC just hiked its price target for the S&P 500. Here's what the bank expects CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1gyZGRvcU5ZOEl5U3VDNHAtWUJWaWdkQWxDY1lTU3hnamNKNjgyODl1RDA5V0kxTThleVpwYmEzc2gyZEI5ZnpRTFpxdEw5WmtvdG1YQ1dwQk5EU08ybzNxdnRSSXU0SU9YRkN1X3YxcHlEYkNHTHVXbTZDVU0ycmZra0J3OXN2RndndS1NbE1RbldpdmloRS1zclh0NjJwbXNBUUQtWDNILWNWVXNzTkRn?oc=5",
-      "published": "2026-09-08T16:19:24+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Smithsonian head Lonnie Bunch to retire amid Trump administration effort to reshape institution",
-      "summary": "Smithsonian head Lonnie Bunch to retire amid Trump administration effort to reshape institution CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01RF9vOE1jbUpHRllnYVo2UlU2VmdNdjJOczN6SkFDUzVhUF9NRnJBRVBFT29IbEt5Q2Z5bmpwZ0xxNG9DRElRSG1yNVdvTGJyN1l2dnUtWFNBR19abmVOUkt5Y2tKdm9FQU9Mekh3djFPdw?oc=5",
-      "published": "2026-09-08T16:17:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US targets Iran’s airline industry as part of pressure campaign",
-      "summary": "US targets Iran’s airline industry as part of pressure campaign CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZF95NjJGZ2RpRUMtcDdPNUtla3hmaS1hcmFBRmluRGZ1Wm1FVHJWZFlHOVJ1UHFOOUVyVVNSRkxUdGRnbFhKdzhqM05va0R4VlNUbGRmQVBUMFZmMlhHVm85NWJIX3hyNWZIZzFjVmwxM1F1cTRXWjJoaFJyWmpkUEpLR2M2RFFXMUM4LQ?oc=5",
-      "published": "2026-09-08T16:01:58+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "TikTok to expand data center capacity in Finland amid boom in AI infrastructure deals",
-      "summary": "TikTok to expand data center capacity in Finland amid boom in AI infrastructure deals CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObEpEdnY5MmpGQTktZjA0YmtDcnBjdFd6dkE0Z2NwN1I5QTVodGpvS3JwNC1UQzVkQVJvUGZXTENJTE96X042Q0FidU85VFFwR3ZHNUVNZUxjQnA2bEU5M0JnNlZuTDQ5M0Z4VGg3WmhOMzdXakNlS1hhcW5KZWFjOV9weXl3QQ?oc=5",
-      "published": "2026-09-08T15:48:20+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -170,21 +206,9 @@
       "title": "2 different early learning settings: What they reveal about learning quality",
       "summary": "2 different early learning settings: What they reveal about learning quality K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3FEWFQ1Tk92UTRCblB1Ti1wb2JYWWZ4OF8wOVVnTnIwY1VSQk92UFM0Y2VKN3g5T0RRenVNS3ZGNE50YURHODdLdFAzaEJRYWkwTHdPTkZIV2lMZzJCX2QzNXE0bGxBRlZnR09jdEQ0blkyZjRCa0dDNENHVWdwY1ljRHdGbGowU0hhR2tKRGUzck9hVFJKU0FIY2tHLVd5WWgtcnB0dkExeXZkWE9oQzRn?oc=5",
-      "published": "2026-09-08T13:30:00+00:00",
+      "published": "2026-09-08T13:38:45+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
-      "summary": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BlYzgyQnRzdGFDd2pDNDdFQWUza21lM0gyeERqTmhaRkxnSmkySG5EcEtIWFBKRTVBMUI5NFg3N3ZHUllxcWNsa3A5UzBuSksxT0pLUjRISVEtdXBYQXdCb0lWRmNnaEFOeHhVVVJFZDR3Z040NFVMSXpZUy12UU1QeVFGQjg?oc=5",
-      "published": "2026-09-08T13:05:20+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -195,18 +219,6 @@
       "summary": "First look at new 76ers, Flyers arena in South Philadelphia unveiled in new renderings CBS News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0MwbVNvc0lTSXhmZEFwdlhmajh0TjIwejN2MDhDRmRiTm94NW5kWld2Mmw4bDJaSzBpZG1pUlJ2V0RNRXV6NWZQN19uaVRUTUVJM1RvdVRnYnkyNjROWlREZ1A2UDRvYldqUjVtenRLdmtsWE1fZ1VwRk5COEhTNmxiT0xjZw?oc=5",
       "published": "2026-09-08T12:38:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Patrick Clancy's lawyer threatens conspiracy theorists with legal action: \"There will be consequences\"",
-      "summary": "Patrick Clancy's lawyer threatens conspiracy theorists with legal action: \"There will be consequences\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjZpUW9MT29JTy1EM1d4eEJfeW91SW9Cb29QTlR3bVBhd0hmbUI3QXgxd2lzaVpDOVMyU1h2Q3NCaXlYaERWOXZLZ29OZ09FQnRYM1BKMHQ1QXR6aWtXcmtjZFppbTQ3ZjZPY3hnNkVlUWRHaXg0LWh5NWZTeDNXR0FGVWpmenRD?oc=5",
-      "published": "2026-09-08T12:06:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -224,40 +236,28 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Thieves steal four paintings and drop two during escape from French Riviera’s Renoir Museum",
-      "summary": "Thieves steal four paintings and drop two during escape from French Riviera’s Renoir Museum NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1ZiclpYMFphZ3BJNTBnY3R5UjViSVhuOW5hcXh1RldaWG91TGFpaWxQcVhhNnU4eElRMXJ3ejR0MExXb3hpbGs1YlB4TVNHenhONUpoLWRNMHRsRFcyVFVhX1dlWThDWmpwNml2TnY0cncyQXk5Z0VXMFY3NjBUUEFWRmIwdEFwdmUyZmRTc3diWnVEQVhuTmZrZmdSX2FkajBUOUtzbXY3M0U?oc=5",
-      "published": "2026-09-08T10:37:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "New Hampshire voters choose nominees for open Senate seat with Shaheen's retirement, and more races to watch today",
       "summary": "New Hampshire voters choose nominees for open Senate seat with Shaheen's retirement, and more races to watch today CBS News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQajhQSGZic1lJUGFjdjFUeVlUeUlwRE5ZQmJTT01rRHNPQUw3bVh3UmhId3d3bDNqbWRaV1FuUzhyb2xnb2tvcXpCYUxnOGY0alJpQkd3TFRNdjBUUzEzc3NSR2VfYmlFRXdZcHBwMnMwYlNobFpnaVNHeGh4eXhPdVZYZGJqTjdRQlE?oc=5",
-      "published": "2026-09-08T10:00:13+00:00",
+      "published": "2026-09-08T10:00:00+00:00",
       "beats": [
         "Politics",
         "LGBTQ+"
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "The GAO’s new inclusion report says the quiet part out loud: It’s about adult mindsets.",
-      "summary": "The GAO’s new inclusion report says the quiet part out loud: It’s about adult mindsets. K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQam03U1o4cXlKdHdEVk1ZNUt1ajhpQ25sUkZJRDVCaC1FeGFUZjMxUmNYajBMdDZEYTNza3k0M3pYTnhrQk5ZRE1CcEhvdkd4bmxCWVJkWnlEM3FyalNHSHV3dUc5d3UxRC1pbC1NWDRsSktJTGxBNFZLZzhXUXRMcmFhTjVLdHQtRUpQNlVURkx1MURnWG4wblBKc0xzb0U2UzlpcGRXYzdUa0VWMkx1ZjEyUQ?oc=5",
-      "published": "2026-09-08T09:38:54+00:00",
+      "title": "Hurricane Lowell passing just west of Hawaii, bringing heavy rain, strong winds, punishing waves",
+      "summary": "Hurricane Lowell passing just west of Hawaii, bringing heavy rain, strong winds, punishing waves CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXlGa1hTVndORFQ2UDgwenN3YWtWeDc3RjhJOGJCWEROVXRUenBlSFNvRFdrX1RuZldOVDNqTWtkakdVN1pRLU5PWFR5YjVxTXNuRUxtQjI1N01xTlhQYUFsTW8zVFo2WkxfRkJLd1Q4Sy05OU90Y1BIdXlHYldsaUU2S0lMWThSY2pZ?oc=5",
+      "published": "2026-09-08T09:55:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -312,8 +312,20 @@
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
+      "title": "Their children couldn’t tell them what happened. Now some California parents want cameras in classrooms",
+      "summary": "Their children couldn’t tell them what happened. Now some California parents want cameras in classrooms EdSource",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DWFVCSzdaYUpKU20wT1VRUDRNODhDZ1VkTk9XTWc5aDFZVDJ4bU9vU3BmWl9hd1pjS2NOdHpudkRGYm5vYVpqYXhnZVNDLTc4SVY5R0w3aGxxTHA0Rno5ZlRCbHVnS3FVV3JkOTVlaFdPXzJURXo4cVU0UXpMUdIBgANBVV95cUxOb083dDUwUTNHb081Q3AwWDgxTllmbUtmaC1HNG9YbkF4RnBLVDBHS01EbXZ6cmJhNlIwWG1WQms1bFF0bF9ELUlBQy1iTnJMTVg2djQ2WDI1QlFKaFp5UHd0ZXR6Q180NVF6ZjJTNlJ1UFM4WlJKczl0cGZfdVpwNXpTNG1GTWNCLUE5Z0F1T1dJUkdPRjNmSjlTTG5ZM1NKeVgzMTNOUE01X2p0VXo0M1NVZHVYRmQ0X2JTejBaYk5vVkJOcGlteFo4dkdLeEd3UU9uaUJTSHJKdVJGUVlKdGV6LVQxeEFMSUJFeUpMelh2S0tscFB6b0I0WkJJSVpFR243Y19OMC01Rm5XSF84YzZmV3FZUWlXUV91QURKMld1emFIdHBDb1BBckJVaHhtbzFtcTFYNWphT2g0aW1TclNEc29TVGYtRW84M3RIZEN3SU9RR19BNDZUd0hDYjd6X3F6OFhLSVZXNy0ySnJpUXVIRGczbW5IbDBUNFhpODQ?oc=5",
+      "published": "2026-09-08T07:14:51+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
       "title": "COMMENTARY: Mentorship first, AI second: How my students solved real engineering problems",
-      "summary": "COMMENTARY: Mentorship first, AI second: How my students solved real engineering problems edsource.org",
+      "summary": "COMMENTARY: Mentorship first, AI second: How my students solved real engineering problems EdSource",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4TkRWTzFYYlJLSk5UNF91TUc4WmFsbzNrS0JITWR5ZXlDQnJqUl9ZLXdtbGxneVNqa1JDbXQ2azVhc1hBMWNCOFg4YzlkdUNSZTV2WWF4TWJvNVBwelA3LU45TE03UVVlOXBGVi1JR3FQTGFIMHc?oc=5",
       "published": "2026-09-08T04:27:30+00:00",
       "beats": [
@@ -366,19 +378,6 @@
       "published": "2026-09-07T18:46:10+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Germany's AfD won a state election in a landslide, sounding an alarm for centrist politics",
-      "summary": "Germany's AfD won a state election in a landslide, sounding an alarm for centrist politics CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkRIVnZYNFUxWXk0dHdybG5zZnJmN0JJZmEwODBkTEdfcDVaQnpGU1dtU2JiX1VWSzVJbU1kMkVxM2NIX2FKc2pCRlFZQnJ2VVpWT1A4Z0gxRlhYR2pqT3hWa0RsZTNlV1A1d1VobHpzaHpsQXVRT0FFb24zY2NIbTdJUGdJUUNXdG0yZXZNLUFWZlV6bW1Ma1lONzc?oc=5",
-      "published": "2026-09-07T16:10:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     }
   ]
