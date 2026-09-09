@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T21:05:14.960765+00:00",
+  "updated_at": "2026-09-09T23:26:49.331408+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,55 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Colin Kaepernick reflects on Jay-Z 'disappointing' him, losing the NFL and finding his power",
+      "summary": "Colin Kaepernick reflects on Jay-Z 'disappointing' him, losing the NFL and finding his power NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUM1allpa0w1Z0VZMjFoVXJ3NGVaTTVDWkFDTkRYQTFUNGJ6TklRR2hVSGR3R09HalZhb3VzQklkUW01eHV5UW1XRGplUFRvZmRjZ0NiSmN1SU1oS3dISUczdU9Na2M3Mmw2M0VVT3JqT3liNDVmelB2TlNnenZXR0o3SlRFUjhIRXRXRk93R3pURVhQV1E?oc=5",
+      "published": "2026-09-09T22:13:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan",
+      "summary": "NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejNlVmltcmdXN0tKSHFETU1OT3BfMkRxYlNrWnZUQm5jY1NQcHM0MG1yTTlMa3AyRVQ4clBVZXBTcFdyZy14U1dsZFhuM29oNmozQmZxcTV2d0E3Q3ZBQTlja2M0bmw1cVdjRjBVWjJhQWZlWlRVR080em1VX3lWa0I1RTk0dmVDcUNaVVpfTm9WeFMtTnFIbkdoQ2d6UEd1Yk42eThzU1BGUdIBrwFBVV95cUxQSlA4TlpzRUxDTklHU0lEWkpDMnZIaVp4Qzk2VXU0YlpEVDB2ZnhLUzRGQmYzUUlUbXRaLTFXUUhPc0pGTTJ6WFFEOUVGNHJwTzhpY19RSkpHc01NOTN0RGFtZTRORXBPT1BBWVZua05zQmdHcW1YRFZOTzREUUN1bHBkQW9sM2Z4TXpBeHpuS0pZRkozZXRIWVdSaTJHaEV6WGVoMjZZd05pbi1icmp3?oc=5",
+      "published": "2026-09-09T22:07:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Missouri redistricting chaos returns to US Supreme Court",
+      "summary": "Missouri redistricting chaos returns to US Supreme Court CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnI4Q05TTTRQbkxmMktXckcwZC1qNDJtNFJKUkZ0Y0F1T0ExOURGS0VLemN0bmx5eERrNFMyNnMxaWZ5d1dXeGNnc0ctMHQ2a21vVWo4VWVmT3VYZGJVbEpEWW9EcFIySWVsSWFLLWpOLUU5NUo5dDROVjA1cmxJeHpaRUthdUpMLVRqOG9lRjY5QVVo?oc=5",
+      "published": "2026-09-09T21:38:07+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Zelensky’s plane almost hit by drone on Tuesday, Norway PM says",
+      "summary": "Zelensky’s plane almost hit by drone on Tuesday, Norway PM says CNN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdk1nZDF3ejFyYURJdWtfVTRnYU5kaVdkMkhMc0ZBYVZjS1ZVUzlUaXpuOFNmS2VnU3NxRlQ5WFhwNnFVWmRfUGJaeHRMTVR3UldSSE9kLUxhb24xQVZDQU5FSTFGQ1huODVsMmFUN2RtLVB6N2JaSXU4TlJMZnkyLTJ0ZXhXUVJ6Wmt1Zk1OSWNrempBWnJOV2NUMDZxV0dmOXRv?oc=5",
+      "published": "2026-09-09T21:16:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -27,19 +76,6 @@
       "summary": "Bessent’s political turn in GOP speech tests his bond-market credibility CNBC",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjZZVXBnLTd5UTFuaFE4Z2NjOFBrMThiaVQ1SG82ckp6QlhScDZxU0RlUjdIM2JzMlV0Xzd6RVJlcDlLLUhiODRiUlFfbEsweVBKdFBfVURtVjk5Wm1iMzdzd1o1T0JQYmhLSFR6RWUtZ1piS2djdzFvZ28tc2kxQXc3UmVjdDRnWGE1T090TjJfYmRraXfSAZsBQVVfeXFMTkljdVpISUJhck5vWVVnSzNDOVo5MEoxSmpSRW56ZXpJa09ZTk5ZcHM4TVQwcXlfNThwOGhYczY1MUpYTmlfYmozUkcyMlM0ZmdTZWcwb0l1cTBDLVVJWUhvRXNwcDNCWHNqSjZndUN4T1JSUWhQblI4ZmZscU8xenFfYllKbFNkSkxuc1p0VFZvdnJrcWZDOHBzalk?oc=5",
       "published": "2026-09-09T20:05:59+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
-      "summary": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdExzb0c5UGxYcUd0SG5TWEJ4YkJBVDZkbGFCcW9XdzdFb29oWkZrX1h4Q2YwU21oeTY2XzhtRnJxS1V0RW5rcTdwTTlZN2EzUWxWRTBVRnB6akl5Q1NBVTFfS0tDbTJISDJTRFcxVy1JOFNVa0c5ak8wY2hsR0gyaXYtUHplU2dZVTEzQmJoT2tlR25YYVBBU0lvM2ttTXpMRGfSAacBQVVfeXFMTUV1TzFLbTBFN0dhZUVkWEpvbFZVb0RQSXRyb1lGZUZvSDNsQWg2bmp6Z1JfM3RIUlU3SzNRdXNpcHk0d2JYWTBNMjVDVzZTazlDbFJqXy0zN3U0bXFrd19LcDY0LUZXTnhRbHlnYVFDX2YyV1ZYQ3pfV3hTZzIyc08zYVlZbEd0d1hUNVZMTXBYVllPWVFIMnQ2WmhseldSeFBHYTc3S1U?oc=5",
-      "published": "2026-09-09T19:12:02+00:00",
       "beats": [
         "Politics",
         "Business"
@@ -70,15 +106,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Emergency slide deploys on Qatari-gifted Air Force One before Trump departs for GOP convention",
-      "summary": "Emergency slide deploys on Qatari-gifted Air Force One before Trump departs for GOP convention CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTJ0MFpRU0hsUFh1X2RsMTNNX19tZlpiNUdob0t3OUdvWTVSaFpVN2lDZW5mcjZPZ0JEd0ZlX2FVaE9NQng5aDMzMHNDTkdJUC16UzNhelhBNEU3V2pEbTJIa0JfSHcyYnJDMFlsTEJ3ZS1lT3I3Q1V3NVlFaWlHQTJOQlA?oc=5",
-      "published": "2026-09-09T18:55:28+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Emergency slide deploys on Trump’s Qatari Air Force One",
+      "summary": "Emergency slide deploys on Trump’s Qatari Air Force One Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtVkF0ajdZMWJEbFZ2UTdTcEtfWXNBbEdoZ09OWHU1QnhPVTVtUXdwTFJMRlhpS0R0R2VZX0htcTJzb2piQ0dMN29hMTlfVS1uR3lmTDlZcWxDd01wM3puR19aeFhZNWdDZmhiMHN0dXBqU2lHaUY4eA?oc=5",
+      "published": "2026-09-09T18:48:57+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -106,25 +142,25 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
-      "summary": "Andrew Tate is denied bail and will remain in jail during his extradition fight NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamJFY0FlaW5Ud3g5THBuZUl2OGRISFpXNmpDampqODI2WnBkT0ZmN08wdThhU09NdUpMc3dVZVVEbWFMR0g1YVZ2MlVjN2VuOFVwZlZ4Mm03bnZjUGJhWW1pd0NMemZVakZWVi15UG81V0hVTXZhNTNYdkN6dVNKcHQ3UjU?oc=5",
-      "published": "2026-09-09T17:23:15+00:00",
+      "title": "‘I’m listening hard’: Teens increasingly turn to AI chatbots for mental health support",
+      "summary": "‘I’m listening hard’: Teens increasingly turn to AI chatbots for mental health support EdSource",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHb1lQUXdkQ1dObDRNQ1JQVWd1MVZYNENIa09rZVh5eERRWHh1MGcwQk8tVFEtRHVlOFFPM2RwbmtTeF9TdzVKU01OVmJyRUtyVmZNNHRYdXBZQ045R0hvR0hRWHhEd0pSVk1J0gFzQVVfeXFMTktGT1V4aHIwRzJZUk4xNlNlSm9McG40RXc3UkUyMmZpWHhLNGRrMUN6WXlUQVBGRHQ2S2xMTG1nUC04N3pWNEs1dVVwSXJ4Ry1aRVg3enlYcERmZGdvLWVuQjBDck9HM1MyenNYdnJkeGc0cw?oc=5",
+      "published": "2026-09-09T18:16:38+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "CNN polling team surprised by this finding in Maine",
-      "summary": "CNN polling team surprised by this finding in Maine CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmpHOVltVndTQW1kX1FWekN3OVRSX3dodlMxNFo4bEN3cERsNUhKZi1MNy1DMnNLSWR5TXR5WE5YTXRzOWxTS0dHbVVzSDY2dHpiTURYbjVwREtzaDBHNmU2aU5Fb3o2UmZJd1NKMnpDTllLUm9JQ01IeG1FSWtEVVNONDZiOFVGanFtNjI5clU0Zm9XRkpXdS1rWQ?oc=5",
-      "published": "2026-09-09T16:42:00+00:00",
+      "title": "Apple announces long-awaited foldable iPhone Duo",
+      "summary": "Apple announces long-awaited foldable iPhone Duo NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWw3ZjFHSHNwVVJ2T0lvd3h2d2lyem9JdXpDbTRtTUhPQ3BlVThOTlEzeWFxTVZ6S3A2eHJzOW41UmRiTDczNXk3VWh6enBYYk9MaFh4aXJzcDczeDFnZTJLTVM5bEhDOUpqMnUwWXdzYlVLVjNMLVBuYXp0dmd3X0VSclIwRDNpUERIdklUdFlLemk0Z2R5TVJfdFM4S2IwdGhF?oc=5",
+      "published": "2026-09-09T17:18:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -161,30 +197,6 @@
       "summary": "National Guard member arrested after drawing gun on fellow soldier in D.C. NPR",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2Y0Tk8tdGRLdzlGTWlweTRDSUE0WHp1SU5pc05SejZqWkw0U3NGZjVMVWlTNXBUXzR4MjEtMUJkLWJ0a1dsaC1VWEhfaU9CdlVlQ0xUT19Nbm81dTQyaHR2bG00NkVsVW5OdkRNWGlmTUxxN3QtUjJGTnJiOUg3SmtVYmY0Vnc?oc=5",
       "published": "2026-09-09T09:05:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Blame Ronald Reagan",
-      "summary": "Opinion | Blame Ronald Reagan The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTgybXR2RjkwX1dkbWRBY1NRbVd5ak1iYVZVOGctNGtUeFZUUUdnY21LckdpaVktVXNQcktIWDhzX1RPaUg3Vm9FRzRzdzF0QUhzbzZvcUc2RmZKQTMteHZiemhLb1RRZTJWeEJHNUl1SzR0emFScEJ5WFZFakxacUVMenNMRVF5NlE?oc=5",
-      "published": "2026-09-09T09:04:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "U.S. forces hit IRGC-linked oil tankers as oil nears $100 a barrel",
-      "summary": "U.S. forces hit IRGC-linked oil tankers as oil nears $100 a barrel CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
-      "published": "2026-09-09T03:12:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -239,6 +251,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Jon Small, Director and Early Billy Joel Collaborator, Dies at 79",
+      "summary": "Jon Small, Director and Early Billy Joel Collaborator, Dies at 79 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bmtxYnYzVWw5aFVSTmk0emU2NFMwVzBCMGhkTG9SSVlpV3BJTGtGa2VTRENPQVRlMUlyREtzV0w4ZUNQYkpHaEdsQmZmY0pneEZXdnBaNmw1aFNpVnAydUtuSkltV3FvWEptSVY1T2RCVmM?oc=5",
+      "published": "2026-09-08T22:35:07+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -248,6 +272,18 @@
       "published": "2026-09-08T21:33:24+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+      "summary": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
+      "published": "2026-09-08T21:02:03+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -288,13 +324,13 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Lori Loughlin files for divorce from Mossimo Giannulli after nearly 30 years",
-      "summary": "Lori Loughlin files for divorce from Mossimo Giannulli after nearly 30 years NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXkyNWJqOW82Q3NhRXJEcHNXMzBrYkxzN251QXRZbGM3TkdUcWZ5TU5jTTJjZGZuVE9vZU9pbGpMM1FFM013amtvcTlsOHRhR3ljMnFQWk83MGc3bUc1VS1VbVVLUGRSVUhhbDRTbk1FY0o3RE9PUzJqbm5Qd08zM3pmN3VYRlVJUkoxRmlWS0dpbEtfWHVienVGaU15ZDZESzNqdkcxdzMtWnUwZGNRb3VsY3ZZMTFrVlUyM3E0NUNqQzA?oc=5",
-      "published": "2026-09-08T19:41:39+00:00",
+      "title": "Apple event expected to deliver foldable iPhone and debut of new CEO John Ternus",
+      "summary": "Apple event expected to deliver foldable iPhone and debut of new CEO John Ternus CBS News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GOTBFOVVDS3REaDdFWldraE12cG5sM1JiWTZXQmFjMW94NEptR3QwbzJuOWNnbE42YTg5YjdIMjl3SGo5QzEwVk11ZnRZdmZndlIyeUZRdHIzWmNSWnYtajVGcV9VOXJReVJJOG1ZQXZ1QU44YjVHVA?oc=5",
+      "published": "2026-09-08T20:25:52+00:00",
       "beats": [
         "Politics"
       ]
@@ -312,25 +348,13 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Two women get life in prison for brutally torturing transgender man to death",
-      "summary": "Two women get life in prison for brutally torturing transgender man to death Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zemVSSlplV045U1BTMTlUU2stTEp4c19RT1JHeE13NUtaTzd0WWJqN1R5ZkRIOGY3VjBKRjM3RDFxZGlQa3E2OG5SanFfMGpSb2N1Mk5WdExwQVRuSGtyRGxUeU9tcGlHbl8zVENXTXdDTjZWZHYteA?oc=5",
-      "published": "2026-09-08T18:22:11+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
-      "summary": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "published": "2026-09-08T17:00:13+00:00",
+      "title": "New Hampshire U.S. Senate Primary 2026: Live Election Results",
+      "summary": "New Hampshire U.S. Senate Primary 2026: Live Election Results The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0ZnQkg1N1BETkpUODNnaFJCRndVQnZvV3BENzl5WFVHdklsQ1NFalpHSE1qcU42aG9EZnRxby1qanBrOFhhQnpNMVk2Mzd4N0dzbzlDX3JSNHNQM012VFJTd3h6WHBldFRHVm1qeFFseDZwNlY5NldXNWdSaENjblFyNXZNU0pnU2hiZE9LU3poOFdvenZZWDlFUGExNlltRGJLa3hzZw?oc=5",
+      "published": "2026-09-08T16:21:46+00:00",
       "beats": [
         "Politics"
       ]
@@ -357,30 +381,6 @@
       "published": "2026-09-08T15:42:20+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "City ends banner program after pastor displays anti-trans flags across downtown",
-      "summary": "City ends banner program after pastor displays anti-trans flags across downtown LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1EzUTIwTVdxVHEtWUdzVXFpbkpwNFdIR0U2cE9yY1BUdUhVcjhQelhIbnBEQ21fa20wWW01bGRQZU9fSzA3UVk1d0ZxVUh2WG1ZR2ZkUnQ1Z2xCeWNXalU1S3BKbWFaRG1BQWlQbFpaMHZLd1RRaXV6YWk2QXpOWU9wbS1OOUM3NnhvYkdENG1yZ05FVHZ3RmM4S3VNNnBIMTdxSm5Bck5iOEJhRkxuVzBNUXlpZk0?oc=5",
-      "published": "2026-09-08T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Riley Gaines called WNBA fans \"a bunch of disgruntled lesbians\" & everyone is saying the same thing",
-      "summary": "Riley Gaines called WNBA fans \"a bunch of disgruntled lesbians\" & everyone is saying the same thing LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDIyV2dpWmpuaTVKRjNDVU5uOWNKTlZXMWdibXY0VHgtajFiV3pIU0lybHRkOFJkbGszY2xZZmxreWpmRVRsUVVyZTlPc3hlSExXbmZnY3ltV1BINW5uWjV4QUFTWnlhS0xVWU1Cb0U3amZmVWtKa0RDMG1qaS14emhHU1ZMd21lOGtHcENxamRuV0JGcDRhZVg1T0ZqUzAzVDgyYWdOd2doMGxlckFEa2pCYjFaUEJ2NW1ral81OVE0ZW9tWnBQbEt1em8?oc=5",
-      "published": "2026-09-08T14:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
