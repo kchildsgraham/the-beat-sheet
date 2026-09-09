@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:25:52.040230+00:00",
+  "updated_at": "2026-09-09T00:27:31.487445+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,66 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Marvell shares have soared 241% in a year. CEO says this is a key reason why",
+      "summary": "Marvell shares have soared 241% in a year. CEO says this is a key reason why CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ub3hnQWJXNVc1akxzeUdnb05hR20wMmtJVUpwVUxnSHotOHlkaTU0Q1NXYU5DM3VPdmVfT1VOc1djWmdVSjU3ZUMyQnpSQjY0UG1iRVFTOHVwVnZGMmNzOURoUjBpV25XbmxiMXhNY9IBdEFVX3lxTFBjZ2FtREpMLWx6SjhIbnk4WTlYajE3QnV6czV5NGpWR3lHZHp4SFNiQXluVldlLWRzd2loa01BTTg1VXdFUE5LRzhVTG84ck43dktrUWNCbk5VOVVIa1Q2TUNza25jenptc041WDdIOTdPd2wy?oc=5",
+      "published": "2026-09-08T23:07:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "A study links prenatal acetaminophen with reproductive changes in girls. Doctors say it remains safe to use when needed",
+      "summary": "A study links prenatal acetaminophen with reproductive changes in girls. Doctors say it remains safe to use when needed CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGFmNzVJV1VIVC1YS01sRm1wVlJUNVJObWxLdjBraC1PSFlrMlBPS0NMZFJwOEE5ZU9oRm5INFQ5TFdjNFhpbzllRjBTelRiYnZLN1FtQVA3QVlnUDBGUmd5YmUwUVBoX25xdVh5MndyejRDWHlZb0Z6d3p6MXR6a2Q3d2NrZlAtLUE?oc=5",
+      "published": "2026-09-08T23:05:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "From science to screen time: 4 key takeaways from the latest PISA results",
+      "summary": "From science to screen time: 4 key takeaways from the latest PISA results k12dive.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkxiZXlUbVNFaUdqUzVMY1pBdzh1dUpWM3JsM1ZhMXRZQ3UzVVlkb0NtUVJYNWxvS2FpOFFFNER1VVlMejNEY3U5eFIzTnBQajBsekxIeHEyM1hVZGlfdzBxU1R5LTdVNzIxaGlJNUhfdUFEZjFieWthUENjNXJRYnpCbWQxbFBodTRvVHpXUEg4RjJHRy1vbmNrdVdSdmJJZEdIWnhqUU4ySnZKZmc?oc=5",
+      "published": "2026-09-08T22:49:06+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: A historic social media settlement’s youth mental health implications",
+      "summary": "Week In Review: A historic social media settlement’s youth mental health implications k12dive.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXSkE5cXpRYTdBcWo2cW9meXl2QjJRazJqVW1qZmJsYmZITko4bkpLaG4zSDZnWHlGWkpzc2RKcV8xT2NoTi0wUHN1RmkxckR0UENPQUFVWWdjTThhdzFkV3lTd0ZvaF9wcnMxT0p4REw?oc=5",
+      "published": "2026-09-08T22:41:15+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Fact check: Trump’s story about being carried away by firefighters after the 9/11 attack",
+      "summary": "Fact check: Trump’s story about being carried away by firefighters after the 9/11 attack CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUzQ1aF9BbjdSM0pWeDBreTJCN00wSnU0VzBtWFBLODljZnNkT0tvTXU4ZmFBYnF3ZHhpT3dnYzE5UGhOMl9qQm1uckRrZHlOMExNeGI0TjQzdHRfWi1NVTN5REFHTnJKcEVtX21tUTlMQm56Q0hr?oc=5",
+      "published": "2026-09-08T22:31:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -32,23 +92,11 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Politics News Site NOTUS Rebrands as The Washington Sun",
-      "summary": "Politics News Site NOTUS Rebrands as The Washington Sun The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR3llaUw0V1lhWmFUMHZ6RW1OcnIyaDZPT2hRSFA0aGZHVFUtN1RHbzd5Uzhvem8zekxFU0dhRS1YME0xOEo0MTI1dEdCb3RtSHk4WFd4NExuOXVCZS1TUmtXY0ZaZ2NxN1pKc0RvOGhENmgzT0ZYWFZUZkdqTXJtMHhiMUhtc2Z0N1Vr?oc=5",
-      "published": "2026-09-08T21:00:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "LIV Golf files for Chapter 11 bankruptcy",
-      "summary": "LIV Golf files for Chapter 11 bankruptcy CNBC",
+      "title": "LIV Golf files for Chapter 11 bankruptcy protection",
+      "summary": "LIV Golf files for Chapter 11 bankruptcy protection CNBC",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbHZJM0d3UktjdjVILVMzeVNFMC16T1VpVzhXTk1WSmtMSWsxb094M1hWTWJGOFd3cmhBdXUwMUM5YVI2ZzljM1hwQURQWDROV01HWUI5VHpOTzN3Y203U0NEWUotRDlzOURsOTUzZlg5ZDE5NXfSAXtBVV95cUxQT1labWJWUk15amFDb19PNzlGeTMxVUlyMHhBUERDUDJVOWdHTnZHTGNGQVFoYmJlTlQ1LVVyUzFSY0tJRXdPY2szczJ1VWVpcXZpYVJBcDBMY0xOS0VRaUJYclFUMWVLSEVyX0dLYl9SN0VHaV9HRzdBQUE?oc=5",
       "published": "2026-09-08T20:56:18+00:00",
       "beats": [
@@ -68,18 +116,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Tehran threatens vessels in Bahrain, Kuwait after US strikes Iranian tankers near Kharg Island",
-      "summary": "Tehran threatens vessels in Bahrain, Kuwait after US strikes Iranian tankers near Kharg Island CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92WjZjZEV5NnlTM1FXMF9ObzdZaDJobjNaNk9LazVNd0owSUE4YkhTYzh0cU5hYmk4cmFLV3RCYlBPYXJ2Z05ucHNSVEZWSFVxYjNmS0FWRmRkRWxVekM4SDFHWGtBZ3RIMHRnWFJBNEw?oc=5",
-      "published": "2026-09-08T20:45:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -92,27 +128,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
-      "summary": "Trump administration expresses 'profound concern' over Ford's ties to China CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
-      "published": "2026-09-08T20:15:28+00:00",
+      "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+      "summary": "Kenya's foreign trader crackdown sparks fear among migrant communities NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1BMTWs1bUlydlc5enVJVVU1YTZkaFpuUmhjcmxQOEdHbkJSemhqbFNHbFppVGNFTndoSU52cUhjdU1kVzJ2T05GMnQxSUpkNE1tcmFYaUZQLVlWSFByMFdGVmZKRE1PRG9oOERxNFg4VGlGeWdzVWFNOTdpdTRYZ0lLSGZVcHJraXZDTDVyVVhOQQ?oc=5",
+      "published": "2026-09-08T19:55:43+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump",
-      "summary": "Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUoxQmdNckgzYU9rZlgzMmxSUWxsb050QVpySEVrZTVOaUZuRUJYaGdZY2tuRVN6aVlYRjhhY0lXWUc0UGdKS2k2Q1lHLWRrRUw3ZDNNc0htOURQdGp0WGhYNWtuOVVVYjZtc1Q4bHNWVjZ4VnhIMmRGRkNlYVRZM2F0VzlGS2FOTUp5b01rdTh0dnhGOFVydC00TC00cGhYX3Q4cTBOS0d0b21acFBINjZ2bw?oc=5",
-      "published": "2026-09-08T20:02:50+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -152,18 +176,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Michigan clock controversy escalates as MAC appeals Hail Mary win",
-      "summary": "Michigan clock controversy escalates as MAC appeals Hail Mary win CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcGxaVS1BZHpZMXMyWXVjbzhKbmNKX3pVdXA3aEtGcTFxTmhRNVdHRW83YnlHOFp6N1VjMVpLYWlQMWM3WHNvT1dQdkRoQlBucWxVX2Z4RXF3am1haXVCVldxQm9JeWNodzhISDY2X2FwN2N1dnc1eDF4RGRtTkdGT0s4am5PQQ?oc=5",
-      "published": "2026-09-08T18:58:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -188,6 +200,30 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump Boasts New Space Force Uniforms Are “Inspired” by Famous Satire of Nazism",
+      "summary": "Trump Boasts New Space Force Uniforms Are “Inspired” by Famous Satire of Nazism Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CZkxsRTBDOVJ5SFBNYlBPc2NINUx0aENsd2RfUHp1SmMtZkdrcGo5TFNMLU9kSzF2czM0SzRwbXpTcmV3cF9VTEUzejh2N3BNb3FfSDVOTjlmTmVYcjNzcmh0b3RzdFJyMVBvc094S2hTa1ltZl84?oc=5",
+      "published": "2026-09-08T17:01:02+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "New Hampshire U.S. Senate Primary 2026: Live Election Results",
+      "summary": "New Hampshire U.S. Senate Primary 2026: Live Election Results The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0ZnQkg1N1BETkpUODNnaFJCRndVQnZvV3BENzl5WFVHdklsQ1NFalpHSE1qcU42aG9EZnRxby1qanBrOFhhQnpNMVk2Mzd4N0dzbzlDX3JSNHNQM012VFJTd3h6WHBldFRHVm1qeFFseDZwNlY5NldXNWdSaENjblFyNXZNU0pnU2hiZE9LU3poOFdvenZZWDlFUGExNlltRGJLa3hzZw?oc=5",
+      "published": "2026-09-08T16:21:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -200,11 +236,35 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "As U.K., 11 other nations say they'll sanction Israeli settlements, U.S. envoy warns of repercussions",
+      "summary": "As U.K., 11 other nations say they'll sanction Israeli settlements, U.S. envoy warns of repercussions CBS News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2lBVHhOTmZmY09WUm93STBnMXVIMFN0RHdRa0NlU0hwTkdKR3A3RVF4WEd4blFTeDFJczk0RFZ2ZzVWUGRlbVBXal9qOEFuaURibXJzalJQLVhoZGRWc3NtZE5wb1NLM2VYWmM2Q05LcDhIbEphR2s4TXp0b196bERWMl9lNU16eUJ3LWx1R2pLZWR4WkdDd1FuaExrUQ?oc=5",
+      "published": "2026-09-08T15:08:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Riley Gaines called WNBA fans \"a bunch of disgruntled lesbians\" & everyone is saying the same thing",
+      "summary": "Riley Gaines called WNBA fans \"a bunch of disgruntled lesbians\" & everyone is saying the same thing LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDIyV2dpWmpuaTVKRjNDVU5uOWNKTlZXMWdibXY0VHgtajFiV3pIU0lybHRkOFJkbGszY2xZZmxreWpmRVRsUVVyZTlPc3hlSExXbmZnY3ltV1BINW5uWjV4QUFTWnlhS0xVWU1Cb0U3amZmVWtKa0RDMG1qaS14emhHU1ZMd21lOGtHcENxamRuV0JGcDRhZVg1T0ZqUzAzVDgyYWdOd2doMGxlckFEa2pCYjFaUEJ2NW1ral81OVE0ZW9tWnBQbEt1em8?oc=5",
+      "published": "2026-09-08T14:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "2 different early learning settings: What they reveal about learning quality",
-      "summary": "2 different early learning settings: What they reveal about learning quality K-12 Dive",
+      "summary": "2 different early learning settings: What they reveal about learning quality k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3FEWFQ1Tk92UTRCblB1Ti1wb2JYWWZ4OF8wOVVnTnIwY1VSQk92UFM0Y2VKN3g5T0RRenVNS3ZGNE50YURHODdLdFAzaEJRYWkwTHdPTkZIV2lMZzJCX2QzNXE0bGxBRlZnR09jdEQ0blkyZjRCa0dDNENHVWdwY1ljRHdGbGowU0hhR2tKRGUzck9hVFJKU0FIY2tHLVd5WWgtcnB0dkExeXZkWE9oQzRn?oc=5",
       "published": "2026-09-08T13:38:45+00:00",
       "beats": [
@@ -224,15 +284,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-      "summary": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmQtdnJ0YzVUaUpMVHczTDkxWTRMVlF0N2UyTVJON3dqXzhzTTBac2xTWFQyQm9LWUZsQVA3QWhoMXdpQkVCSm5mSW5qNzUyLUowYlJKc0pRVFlsbjJRQU13RFVZR3hoS3BfY3c5UDhZQXZlVEpndjlnSGZSR28xUDkxUVRpMmVsUXpzaTlpUWRmblhC?oc=5",
-      "published": "2026-09-08T10:46:03+00:00",
+      "title": "Thieves steal four paintings and drop two during escape from French Riviera’s Renoir Museum",
+      "summary": "Thieves steal four paintings and drop two during escape from French Riviera’s Renoir Museum NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1ZiclpYMFphZ3BJNTBnY3R5UjViSVhuOW5hcXh1RldaWG91TGFpaWxQcVhhNnU4eElRMXJ3ejR0MExXb3hpbGs1YlB4TVNHenhONUpoLWRNMHRsRFcyVFVhX1dlWThDWmpwNml2TnY0cncyQXk5Z0VXMFY3NjBUUEFWRmIwdEFwdmUyZmRTc3diWnVEQVhuTmZrZmdSX2FkajBUOUtzbXY3M0U?oc=5",
+      "published": "2026-09-08T10:37:57+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -249,27 +309,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Hurricane Lowell passing just west of Hawaii, bringing heavy rain, strong winds, punishing waves",
-      "summary": "Hurricane Lowell passing just west of Hawaii, bringing heavy rain, strong winds, punishing waves CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXlGa1hTVndORFQ2UDgwenN3YWtWeDc3RjhJOGJCWEROVXRUenBlSFNvRFdrX1RuZldOVDNqTWtkakdVN1pRLU5PWFR5YjVxTXNuRUxtQjI1N01xTlhQYUFsTW8zVFo2WkxfRkJLd1Q4Sy05OU90Y1BIdXlHYldsaUU2S0lMWThSY2pZ?oc=5",
-      "published": "2026-09-08T09:55:00+00:00",
+      "title": "Zohran Mamdani packs schedule with 9/11 commemorations, including speaking at NYPD’s official ceremony",
+      "summary": "Zohran Mamdani packs schedule with 9/11 commemorations, including speaking at NYPD’s official ceremony NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDc4a3d3YUFOeXRuR0dveFBGZVBHU2RtQ21ucWU1TUFjcURJRWRXWWhFUkRFUkJwNmVCZW01UU1tVHFUWUJUREVpYnZ0dDFfV3p5M1JtOXlHZjF0a04yMmozeV9EZG9oRzlPQnlWWWpMYWJLM3Q5a2hpUnA3dFV3UW9xOGNRRUdxTERSZUFjOFRQYy1wSmV4Q2VIYmZZQ0dNODJUaXBHY1dfRGlrc2tLM1owNlliZWRoMVE4a1hNVGtIMldPZEdF?oc=5",
+      "published": "2026-09-08T09:00:40+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: A historic social media settlement’s youth mental health implications",
-      "summary": "Week In Review: A historic social media settlement’s youth mental health implications K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXSkE5cXpRYTdBcWo2cW9meXl2QjJRazJqVW1qZmJsYmZITko4bkpLaG4zSDZnWHlGWkpzc2RKcV8xT2NoTi0wUHN1RmkxckR0UENPQUFVWWdjTThhdzFkV3lTd0ZvaF9wcnMxT0p4REw?oc=5",
-      "published": "2026-09-08T09:31:29+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -330,54 +378,6 @@
       "published": "2026-09-08T04:27:30+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "The Question That Guided This School District Through an Impossible Decision",
-      "summary": "The Question That Guided This School District Through an Impossible Decision Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWWJKYlRsTWRzdm9BUWJjbnZYUVoxN0NsZUlWeVNfU00tUTJaQ3dacjkyRWpTNkZNMHowekdTWWJGN1Z4bGFIUWxxTDBwWUxLSmRjakdTUVFTUzl5Z3JINGt0VVE1R1pUeWhRZW1UQzNuNlI0WWRsR0pQYWFpN2tqS0RRbUZyYVp6SFNLbFlTUk9Kb2ZvUU9OcXppVlZtd21zZW5xYXlPY1gxNEdyU1Y5T0VMTWxURkhZOGc?oc=5",
-      "published": "2026-09-08T04:08:30+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Dolly Parton paid for the gender-affirming care of her \"good friend\" & chauffeur of 30 years",
-      "summary": "Dolly Parton paid for the gender-affirming care of her \"good friend\" & chauffeur of 30 years LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeHNQaEJfUHlyLTdlWm1zdklXRWxuX2NIR0hwQlVYSlhTRjk4dGJiNzgyVS1BSVAweHphbXFvSFQ5bC01LWRqclhJTjBIUVlWWDJQb1Y1UFdfVlhXXzNFNjVNdEVHb0ZNU3BzMnpib0M0S1FzaHVEclQ1TmFZZUY1eURQa2Y3LUZHcXNCSE5FUnJteGpYMm1Hdm5oaUZXaGJOS29IZklxRm56elJMaFdaMXVwVHBicHp1QzR5YjBoZE9NVGc?oc=5",
-      "published": "2026-09-07T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "A new MAGA murder-for-hire scandal? Groundbreaking.",
-      "summary": "A new MAGA murder-for-hire scandal? Groundbreaking. Queerty",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82TFBIRElEY080c19Hejd0OV8wVE5BYWVlQ3pRalRyYklONTFEZDdkMU5UTW15VjZjNEJzaDZFcHIwSWprVzRXR1pCUE9yR3FPbE85NFp6WkxMNlhncGdTVHVVM3duVWxiNWNvR0J4QnI?oc=5",
-      "published": "2026-09-07T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "New Mexico Democrats push back over Trump posts about renaming the state ‘New America’",
-      "summary": "New Mexico Democrats push back over Trump posts about renaming the state ‘New America’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV3U1Ym5uTzJ0V2ZaX29DSXcyWFhXY3k4QkhDbW5aRktteEJwUXJVSTB0VmxsdHJCLW9JYkkzR3dLWFNrM1ZlUUJtdmlpbVM5Uk1CbUUwcmtQUmhxLWQta2ZyY0xjbklsWmRrdmxFX0pZdkFLQmltMDVWaEN1MGNfUlJvS3E4RnZnbmZWVms4aG9RVnY0SEY2YklGNnJTVG9WenF4THhycUJ4M0lVS0JWNXV2Z3N5NkZjZWpnOHY4MnFDU1Rm?oc=5",
-      "published": "2026-09-07T18:46:10+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
