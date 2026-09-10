@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T19:05:19.496984+00:00",
+  "updated_at": "2026-09-10T21:46:06.476892+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,78 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "AI’s confusing terms, explained | CNN Business",
+      "summary": "AI’s confusing terms, explained | CNN Business CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01SnBFT0NYSnRXTFF2TDJpWTNjQkRVZnBINUZQMV9ObmVBLXYwN0M0QmhianpuaXZhRkpldGZlMmtYdDRGbExwdXBpcnd0Nm5GbnhBT1otTHEzVHhDZ3lqaUxiWms1Z3RCemxtb3NqSkZZQXVDckJZ?oc=5",
+      "published": "2026-09-10T20:31:52+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles",
+      "summary": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvTEg4QmktNm1FbTRvNzZFU1B1eTFkWHVEWWJkaFNiZ0l6NkhSUzdhZzhsV2Z0U2FYWkg5YzVGVEJHMkZuTHU2TWROd2w4Y3o4TDRVUGJBcHc4QS1EVWtUbzFjM2dFZlFMN3dLdHVJRy1nSUF6cFAwMTlURHbSAYIBQVVfeXFMTXpxWkU0U094Z3cwcVdsT0RJOERKSWRRTzNLSjNNbEJGRTJHYWRncWY5Z3gtQkFnOFp2U3V5U29aN2tTVzk3YVZ2dnFMRUhRaTdKaGY5RVpOTmlpaV9UMFg1bEY1UEhWemFudmpheWJZN0s0cENsVV9CZ015X2haYWU5dw?oc=5",
+      "published": "2026-09-10T20:12:46+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development",
+      "summary": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1gxVjdSOXNuN1U4VUVvdzMyeG03NE1WZm5Ya3VBNnJTZVZrcXU5Vy16elVNMzlRbU9YN1JWYjBweS1RQjE1cEdBbFg5QlFVOGlWQkhNb1F0Um5JWDIyelZkbHFmMnhsS2EzZjFyeDJLSFA0Qlk2SDVJa1RMQ2htckk2aFpIYU0?oc=5",
+      "published": "2026-09-10T19:49:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+      "summary": "Friday's CPI inflation report is even more important than usual. Here's what to expect CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkFnRHhFSnduaGNSQ05kNUU2c24wNVBGY0RESmxraW1iUENhc0xUb2NZSmhrWWxieWFkQVNqRlJucmUwTmUzUjltRko5ZndVLWxqTGFTc3IxMEhvOTlQeU1QUjdFWVRlSjhmSGRkb25YUGxxVXdlM01RLTFDcXo3cFdtLVN3WGZXUDNCR00tSl9xdUFXRHlybGpCWUNiT0gtcjJDWlRtd0FDWHRfdDZ2bVl0U2FXUTJfdlN2RtIBwgFBVV95cUxQUXg3aHY1MXh2THBMazQwZGFKUGhFZWpHdXU3N2hnblVyV0gtaEJBeGRfeFVJb0lOZ0RUYWlhcFBaRmRfbDNTSkRhWGgydXhvX2hjT3ZvZFRfcmtFU1JBQ3NuUTVFajJQRlNEQ2xJdG91VUFoNzFHZU54LVhuRGxpQmVVaEVKUmtISzhEWjBXemhhQ3hWT1gzaGcxX210Mk9iMTBHT0Zhei1aWlRobGgydzQ3aHI2S1hfRVVqUndGdktoQQ?oc=5",
+      "published": "2026-09-10T19:18:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
+      "summary": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aR1ZHZ2VodDdtYXpnUFRncFpKZHlIdFJLNHg3ZUNYMEs1UHhlR2ZvTHgtc0VFU0xaUTQ4ZWJLc09PWWtpSEFqV0lXWUpiZkl1dVdLQzhPRldNUEFPZWxCLUtpaTVQUWJ0YXhFNzc0SVF3Z9IBd0FVX3lxTFAtWGV3WUgxSEg4V1FBT2dVZHN3Sk5pYmF2WXFnZ204enBxbVlwZDJ4Rk5NN19nazVxdU1PQVU2UXRlWEFvOURTNEo3bGsyVFNjWjhHMV9KRmxHcXZDN1BpRm1pN3J2R09fYnVtaEk4WFJ0dkNhcGJn?oc=5",
+      "published": "2026-09-10T19:08:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "EXCLUSIVE: US expands intel, targeting support for Saudi campaign against Iranian ally",
+      "summary": "EXCLUSIVE: US expands intel, targeting support for Saudi campaign against Iranian ally CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDJyVVhLSUZweG9aLVBYejFueDZ3Qkk0OTA1c3J3RjhVNGhhTWtJRGxqbUdrZ2RaSktQY25FMVphTTlCS0pmUlBINlZQaXVMT0p3ZlgySzFCdUZ4a3l1ZTJZTm81NldOLUswZHE5YU83VFA2elEwUjAwUW1DWXp5QWNlSl9WdEhWUzNMMmRxQmlPUWJ0?oc=5",
+      "published": "2026-09-10T19:00:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -27,6 +99,31 @@
       "summary": "A fossil feather from the age of dinosaurs may explain why only some birds survived NPR",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFHeGI5VFpEWVRVY0dZNllkXzhIU2ROY0ViWVpPS2NkME9QaHFrUzl1bm1Hb2ptZEI1d0Qzb0h1eVNKZDV3eC1WSzExUDBJYTA3REhabkJfZmhPU1NxeWdJenZ4UW15ZkxreG1zbWZPOS1LZWlFbFVkQUlyOURpN0JvMDRaUzNtUDNiN0ozVnBhZ1NteVhBb29HVXhtRElU?oc=5",
       "published": "2026-09-10T18:07:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Canadian politician says what we’re all thinking about Tr*mp’s worsening Epstein scandal",
+      "summary": "Canadian politician says what we’re all thinking about Tr*mp’s worsening Epstein scandal Queerty",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpmRWJtQ2k2UEpDNHhUM2xHdmFmbXJTV0EtZll0V0tJRC1Tam9ZcXF0TElWcEdSV1JpVXlkdlR2NkdsQ0s1UUdkUUFxQUl4VmtsWE95TVdJTzRkYm5PYlltU0hwT1VBaEExRnoyTzBieUxaV1NqM1doT1YyaTNmZzlWbFcwVE5VX1c2X1hSWXExbXAtd2h5aURjVDh3U0FVZEpGVlEzZW4zQXltZFVfcQ?oc=5",
+      "published": "2026-09-10T18:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump to send $500 rebate checks to nearly one million Obamacare enrollees",
+      "summary": "Trump to send $500 rebate checks to nearly one million Obamacare enrollees CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wSi1vSXVoWUFXdnNzWURsM2VGVnJEcDdHbnZURTNCdjJ2WU9yQkI0SktjbnVoQUZUV2VyelI5anJzdW02Qk1YTW1kd25hbTlBRmtnMXVTajZGckc1d2d1ZndhT1gzaHhhZ2prcWxEWlJ1MjF0dXJMRw?oc=5",
+      "published": "2026-09-10T17:46:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,54 +141,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "summary": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenlVSmQ5YXJ0dlNSbFV6WFBOaEZYQ3FBWXNHVDVBYWVJVmdxVTRWdGl4QmZxV251M3FTcU9MY2Zvek84LTIwSWtOMG84b0xPZkJmRU9wTzh1NXNyaUJHSDFISXNYNnlneXgyd09mVTg3a3FVVTlaVE1RVklXNXByYUUzanRHQWgyOGVJSTlTRkE3di1hdmRhZmhWQVEzS3ZBaEtld2NiWlPSAa4BQVVfeXFMT3VudlFUb3NTNUktbThjdnQ4Y2lMN2k1NVg3VmNwdlltazV4TXRpRUduLVZya012SExlYjJxSnJGV2tFUE05SlNJcTN0TU5MekV1RjdvNXBKWDJMVTFCZWljYzBhNFhPekNVWEVLX0tsZ29hS0lER3dsYWs3dUtIM01tRjctdlhoUGk2emhmaUpSSjVuMmtBWTlKWEJrUmwyMWQ0R3NRSU5tcFpyZ01n?oc=5",
-      "published": "2026-09-10T17:12:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-      "summary": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdV9WeTRCa2RSWnhPM1prRlJPejdDaDlxV0pQZnJfN0FmM0stRy13bGFkWkFwMWJvZmIzeEtLVTBvUWRhNnRIY0NGUWgzQy1EWnBoa2poV0xvZW1vVUtpUHhDa2ZWVnRMME9xVk5EWG11cU9DWDk4aHoyVHNMcDBIZVpUa9IBiAFBVV95cUxOai1rOFdzV0Y5akp3bm5VeG5xcl9SYjdYc1hzNTVWZk11LWRDRkVILUlpTUhrVUZvd2E2ZFRDODVWUk5uWlh3Yk9IcWxTTkZ1VmhISDBtZ0t3YkJBVElkZzBjdGhEQmhTeEc3aHk0b1g5YnZMOC1tUm01Zl9LTGZ4VkxYQXYxa0FK?oc=5",
-      "published": "2026-09-10T16:57:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Iran-backed rebels capture Red Sea port, tightening grip on a key global chokepoint",
-      "summary": "Iran-backed rebels capture Red Sea port, tightening grip on a key global chokepoint CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEhpT3Roakh4QTBSRmE5Q3NsS3hIcS12MWEzMXRhZHRaNjZPRjJuXzJ6T0RtdDJwQnpTWmlWaGlKZjhhWFU5b2RpQ1ZqaVl4clNHeEN6ZFJUc0szOXRXVGhnZkI2MmRjUHNibmRsTVpUald4RHducEhETkpoUzR1RXZWWVFwUVZ5bkdZ?oc=5",
-      "published": "2026-09-10T16:42:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Pilot pressed on with landing despite warnings in Miami cargo crash, NTSB says",
-      "summary": "Pilot pressed on with landing despite warnings in Miami cargo crash, NTSB says cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjV2SjdKMy1hUkl3NndvS2Y0QlZkS3ViWUFRWUhQbGtuNExhZU5EQUQteHQ5WFFnU01vbncwX2RmVmh1bTJwakF3R3dLUkJfd3U1ZG5KQjgzWThKQ2NmdW9YUDAwN0xobnkzSk5rRXRmTlRXNWRkSFNkMXUyTmZtRzc4QkM4MXpsSGtSR0V0OHpWVGh2Y21IaGNrdjdveGp1XzVF0gGoAUFVX3lxTFB6bjhMVzlJTlZGVHAwQzlRWFl0R2ZOTmFTVXcwSWVmRjBhOGVlQ2NVbFFZV1MtOUY2N3lJUDFLNmtVUHRxclNNM0Z6WFAtZkhtblM3c3BVSlJfMUR5aXhGdG1HUEdwRVhWSE5IZVlxbXZEMWJTQWlPSm1LLXlmVXJOUXowTXA5c2tFRlEtQ0taTzliamJ5UkEzMzREdmZ2amtxR3pra1lRQg?oc=5",
-      "published": "2026-09-10T16:14:24+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -101,30 +150,6 @@
       "published": "2026-09-10T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Princess Diana’s ‘revenge dress’ is going up for auction",
-      "summary": "Princess Diana’s ‘revenge dress’ is going up for auction CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUNSQUtWcHRxeW0tdlFuYWJUeU9VMHBnR09DTVd3dmxPNHlwU3Rwd25QRGVaTU9GaFdLWHhnVjRkTnJ1ZFFPcG9kNTR0Q2JQcE1WZm9yRUdsQXRkODNkTXF3ODJWMU5qbENjajc3U3hoRGdrcUN5UVZ1c1VuNUVJMzhrOXdGMUU?oc=5",
-      "published": "2026-09-10T15:27:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Supreme Court deals another blow to GOP hopes of capturing extra congressional seat",
-      "summary": "Supreme Court deals another blow to GOP hopes of capturing extra congressional seat CNN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjRYemhjUEdYckV6RnpkRHFTSmd4T1VFaEphNFZ4aTFLa283c042dGVCVzNINUVrdVpxVTUwYzBmbmZzdjJWS3g3MWVxbWY1NDF0czRoMGMtNlNST19waGhuUk1xMDhiWWRYWFMtMHRMV3k3TUNjTFlfNDVBRk9kSTgzMDVMenJFUW9QcHdIaXZCTWVVQldB?oc=5",
-      "published": "2026-09-10T14:29:34+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -152,6 +177,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Civil Libertarians Knew This Would Happen. We Should Have Listened.",
+      "summary": "Opinion | Civil Libertarians Knew This Would Happen. We Should Have Listened. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjFWTVFSQ0hIcVFuTVRVTTg0a1dLNkVhb0dSQzZIQThfa0pMZUJDeXFiWVRwaHZXUS1LTHp1RjVFMXVucTNCVWdfSG53RFh2NGU0dzUtZGlNdmNfUG9Sbl9WNXUwbGdMLUpDck9RVF9VMjVWRFpkNWp2UlB6R3hreEZmZDc?oc=5",
+      "published": "2026-09-10T09:03:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -176,27 +213,27 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Getty Center closes early, evacuation warnings lifted after brush fire breaks out in Los Angeles' Sepulveda Pass",
-      "summary": "Getty Center closes early, evacuation warnings lifted after brush fire breaks out in Los Angeles' Sepulveda Pass CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWZ0STZYRk44WlJHN0FNZVVhUUo3d2NoOEpGM2R4aWV1QTN3eDBEY0hvaWctNEJFanc1Z2FXS2g1RTZkc0dqaF9jUnc0T1h2UXdSQnU2MGh5VFhQcDBBbkV2aHNQREdXeHJSVXJCUHR5WjRCUl9JM3c3YXdmd1lITmlDaWVSSElZT0JHLU0zN1doQkVUNVIwYkFSWUZDNm5fSEQwOTVIMW5mMlNVeENPVHNVWlU1ejVQ?oc=5",
-      "published": "2026-09-09T23:34:00+00:00",
+      "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+      "summary": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
+      "published": "2026-09-10T00:12:18+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Here's everything we know about those rumors Jimmy Kimmel's been cancelled & Rosie's taking over for him",
-      "summary": "Here's everything we know about those rumors Jimmy Kimmel's been cancelled & Rosie's taking over for him Queerty",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSW9WY2NIaHg4aVZUazItYi1DR3U0ME5Wck5DMUt1ZVNSOVFFXzUtTnVqLVo0R3ItWmRyd0JCT1ZhU3ljaHFHVUc5Y19vSG5JM2k5TVc4QXJTRXpFRWlsVTlZT1NaVWFZRmNKczgxeFJpRVQ2VzlUWXZPWjNoVG5CQW9hbGowWVFMNVJFV1pWcldvSkhnVGo4RzNSUEJ6cWViTHRLaElFak1uQzNTa2xHNGFxTk5SbUhMTVIyR2xNc09sZUJSQWdqZ1o1WXR0dw?oc=5",
-      "published": "2026-09-09T23:00:00+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Quinn Hughes happy with Wild but in no rush to sign extension: ‘I want to take my time’",
+      "summary": "Quinn Hughes happy with Wild but in no rush to sign extension: ‘I want to take my time’ The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcC03T2gtcTB2eTJtdjV5SkZ2eFNFWHR1azhaWlJCZV8wZ3JPVFc4LS0yZU1WS2VHU2VfZ2gzQ1NNQ1RrbmFFYUFTSDcxSzNvUTVqNlZhM3VUZTQzc1VkWEthWER1REFfamhFNnJuMXM4ZWNMb1FTSXJQSWxHc3hLdVpqZFBidw?oc=5",
+      "published": "2026-09-10T00:11:46+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -249,39 +286,27 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Bessent’s move to tamp down rising rates backfires as bond yields jump and stocks tumble",
-      "summary": "Bessent’s move to tamp down rising rates backfires as bond yields jump and stocks tumble NBC News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzFlMmlWNnJvZmVjSFJvZTFEREdmcUxFZXdDcWtYdUZKYllfRDdVSXhkV0JJLWdYTEFCUVUzdXNxMG94cjlYR1g3cTlpLVFPdlFzYTVJejVTLThvYlJYN3JQaGowU0xwX1JtbjBVVU1lcEdhVU9hMW92b3lZYi1ua1FHcmpQNUhiTE4yLWpR?oc=5",
-      "published": "2026-09-09T20:15:53+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Not enough students know about work-based learning opportunities",
-      "summary": "Not enough students know about work-based learning opportunities K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeEJ4ZFdySlJDXzN0YVUtb2N6N2t1dUotWWpod3Z3VnZaTDI2UlduZE5abXhSYmxENGV3MUNIYzFDSHZmbzlqU0dSQWsxWmVYRXl2TlkweGwzckt3RG0zVjRxY0NBcWRFMHVFRUMzcTlyTEwtLXJOOUhFOGt6Q2ZGYUZVUW5udmI4dWZ5bUR1RjlHS19ZTnpjeDNVMk0ta1lBdGVr?oc=5",
+      "title": "What is AI’s role in the special education dispute resolution process?",
+      "summary": "What is AI’s role in the special education dispute resolution process? K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUlzZmg1bjBRZEpwNHdzZGJlenBNSzh1RzhLaG9RMms3blJnZ3VhbGE4cld1aG1mNkJhVEVETHhCeEZYM2xkdUxlZnJkX05mbjBwN3lrM01wTkZ1UFdvOFJ3QzZmdUc0UVZNUWxIOGV2MUhiZEUya2wtYkVzSzhHQW5JQUdpelZjZGNTSXFZNEpneHFYR0NUbnA3a0JSN2VSdDJOZg?oc=5",
       "published": "2026-09-09T19:05:12+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Alan Cumming's shocking drama, a Marvel star's secret queer wedding & all the best LGBTQ+ releases this week",
-      "summary": "Alan Cumming's shocking drama, a Marvel star's secret queer wedding & all the best LGBTQ+ releases this week Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNamJCanpBeHhzS1lNRk5PWEdmUnVITUVuTlNBeHk5dm10QmZqTGxJQlM2cmp5am9rMkE3V0JhNXlmWTF3cjFyLXhBWkdsbzNjcW1rc1Iyakg5cFNYbE4tMmdSbmtDVFhuc1FZcXduOG1feW1oZ29mdHlDMS1uSFc5SnVlaTBCYVF5YlNZZkluQ0poV1ljUjRwUzNGbHllYWdpSmM5TTFONm9qWHFRcG1uSGg5RnJrTUR2amItcXJ1VXBtcTJPamowOFdONElGQ0xuREE?oc=5",
-      "published": "2026-09-09T19:00:00+00:00",
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack",
+      "summary": "An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcl9NLU1IYjdjTDk1VDM1blJFMkRuMnJSSlFqbkowZUtFVjNyMzZ3SjBGSTVqR2gzSWYzR0daNms4OG84aGNmU3Y2d0ZvS2ZSRnU5WkQwdkxJaTVtUWl4Y1JmSEJybEkwWk5ybWoxb0VMTEFObFFVdGs5NExkYkJaeFFPaHpuTnJESWFCRW1lMGVhX29jZGlpeFRYTzFqNURKbzM3Q2lRR1I5VmI4d0duMkVWbDduaDMwdlJMTw?oc=5",
+      "published": "2026-09-09T18:18:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Business"
       ]
     },
     {
@@ -321,18 +346,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
-      "summary": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
-      "published": "2026-09-09T17:14:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -357,27 +370,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Opinion | My Dad Died on Flight 93. I Miss the Way America Responded.",
-      "summary": "Opinion | My Dad Died on Flight 93. I Miss the Way America Responded. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEF3UlRVOTJwdURGZnBhLWQ2TzZQTl9OV3hqWGFOcG9GdWZwd2JWR19uTHdfeUd3SEJrX1dNdmFXMUhOVW95VVFWZVduMWxnd1BGYU5ZVGJsUDhyU2xwMEhvdGdfTFBMZ2hFN1YzdUJTSVI4QURjSGdxT0hubHdjYldn?oc=5",
-      "published": "2026-09-09T09:07:16+00:00",
+      "title": "Two women sentenced to life in prison for torture, death of Minnesota native Sam Nordquist",
+      "summary": "Two women sentenced to life in prison for torture, death of Minnesota native Sam Nordquist CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0p3TEZmT1UteFlWRzhjM09EUDc3Q3V3TTFGYUwzWE5TSnQtTm9waHJPRmZkUWVKUE1wQW5NYnlIaDhDZzFYLWxJS01vWW9aZDRhN0lSM0ZZS09rWWxOQ3dsRkdIN3NwSFk3TG1uc0JzMWZQdVlxWmZSQy12U2s0NGtGc3VmcTRGX3hJTjVkakp2QUlOa0hleVFRSQ?oc=5",
+      "published": "2026-09-09T00:06:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "‘We’re Going to Bring It Back to Life’: The Long Road to Reviving Lahaina",
-      "summary": "‘We’re Going to Bring It Back to Life’: The Long Road to Reviving Lahaina The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDlFa1pzdzZaVWJaZTByV1ktSHdZcFFzLVJGT29JN0dWc0E2Vl9FZEpTYWhBNTRlVWJSMVVXamxxbXJFb0VpYkVrUFVGMGlHYXg4bGZDNzY0d3FHcUZGUndjWmdMTGNtU3VjQmQyamFubTBhMW94S2FtckdBQWNiTGU1RQ?oc=5",
-      "published": "2026-09-09T09:04:18+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     }
   ]
