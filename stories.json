@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T06:25:41.758403+00:00",
+  "updated_at": "2026-09-10T11:41:54.974823+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,78 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+      "summary": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
+      "published": "2026-09-10T10:12:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar",
+      "summary": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QbDdNWS13Sm1KQ3N2bmRzQjhZMi1RYWZOX2psZmlxMURidmZhOHVWd1hQaTlQVTBwYWVOZUlubXlrOEo4d2ptbnp4dThwVE5pN1VLal9KN2RyT1VTcjN5cDNXbUE2M1JMel9rbE5PaXNkVVdoWTZCM3laaTnSAYIBQVVfeXFMTVo3eGpnM043WlFiYU5EWFlNWGxDaENqRVoyR1BZM1FMR0JfSGpQMzB2cnlpM0FsNzktVVRLUXFRakx6ZFA1UVk1OE02UGRnOHJ4MzVIR0lEZG51a0RzMFlnaUN0VU9BZWdPOXNYMFJiclY0MUlHWDJvLUJsQld0Unk1UQ?oc=5",
+      "published": "2026-09-10T09:11:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "From pony fur to bamboo furniture, Trump’s trade war with Canada is getting even weirder",
+      "summary": "From pony fur to bamboo furniture, Trump’s trade war with Canada is getting even weirder CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UExoRWktTGxvbzJMLUZDN2VGVHlvNGt2Wi14aWVOTzA2UE5XR2VPeEtZTnpOejE2VmVmUHZ5cHdBUU9tcmIwUzhYaGpiWk11WHRxU3RMaVpNaXUzRDdSbW0zMFZDSW1pQUQ0SFV0NmlQMHRrV3c?oc=5",
+      "published": "2026-09-10T09:00:30+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The GOP heads into the general election with a significant enthusiasm deficit",
+      "summary": "The GOP heads into the general election with a significant enthusiasm deficit CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGpVeVVIZTR2WmZPbEFpUVIyaDRaTkZwT1lOMmNubXB0WXhxTUNhc2VPb3FPM3BIZTBrSkIzb3hjV2Nuemtab3hYYmx1bGhXRjFLeWd0WmlEZXBXVTJKX1VYTzcyTHlEeFJnTG1NMTVtRE1WVjBWS09GdTF3RFdPSA?oc=5",
+      "published": "2026-09-10T09:00:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+      "summary": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?oc=5",
+      "published": "2026-09-10T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms",
+      "summary": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?oc=5",
+      "published": "2026-09-10T08:39:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -32,76 +104,39 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
-      "summary": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ycjd0eDNoeHBMd2Y4OE5TT2JvVUlNbVlhREFBc19jRTU3b0lrRTkxU1JrSmdmZ1AwcGFsWUlvZXBfT3FVS093cWxNZDA0WlRmb3haODhHVHREaDlyV3RYWVNjdEtYWTMtdGxwUEhPb3kzd9IBd0FVX3lxTE51eV9XN2ZtTHdhbUJaX1dtaTFWT0k5THItMFBIb3RRN3ZZT2dlamlnLXRaMkROcHFCQjBTWkcyQ3BlTWc1bmRsMUpsTnRwU2VKUWRxSW5lQ3FiTV9MRzVKX1QwUi1LYThTaEhpdUs0dTcyd0hER2Jn?oc=5",
-      "published": "2026-09-10T05:33:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Exclusive: This small island off Yemen is now a strategic prize in the widening Iran war",
-      "summary": "Exclusive: This small island off Yemen is now a strategic prize in the widening Iran war CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0hLRW9UWGhPeGozbHp3dDNzWTFpQzZEZjgxRjhnYjdsd2Z6TTRkOFQ3OERfMkpDbUFzSzJDWTZZajdDaE5EcmdIWkRDV3dsakRES18yTXo4eURJRkY4MUwtSE10X1IwV3pISEFvNE9ZMUJtOGlGT3FJTzNBVWhhWDNMVHRMT0dC?oc=5",
-      "published": "2026-09-10T04:01:30+00:00",
+      "title": "If August felt like the hottest month on Earth … you’re right",
+      "summary": "If August felt like the hottest month on Earth … you’re right CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSjZJck04bGlhVWloUlk0N091OXJLSDI0ZDdHTGdjSVdXdGFyRmVGa00wRHVJWlU5eDQwenNkYUVZZmNYa29tZWFWWlVJc3owc3B5anpEZHJBSzQySGltNW1RTWNYYUxwZmJ5YmFNYnBlNkhRcS1ZVXUxdFhMcHF3M0lB?oc=5",
+      "published": "2026-09-10T05:01:29+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Trump makes an extraordinary offer of $5,000 payments, and other takeaways from RNC convention’s first night",
-      "summary": "Trump makes an extraordinary offer of $5,000 payments, and other takeaways from RNC convention’s first night CNN",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1ZfXzdDRUxqRjE3RVlKbjhud0E0SG4zTl91ZkZacWNfTFJUbWhKdl9aUk9jUC11ZzJzUE5BM0o0NHFmdV9qcHhUQWNvT1lwNjExelp6MmpZdGVYWWxVLTVQdW9xVDNnWDJpeDY1bk5TSGxQSWJwQlA4M0owWHhPSml5ZHF5M0ozcFIta3RrWmgyYWh0b2lRVC1wTUQwWjlNQTExamdxaEYxUFFJQUE?oc=5",
-      "published": "2026-09-10T03:05:00+00:00",
+      "title": "At RNC midterm convention, Trump pitches $5,000 checks to U.S. citizens — but only if GOP wins House and Senate",
+      "summary": "At RNC midterm convention, Trump pitches $5,000 checks to U.S. citizens — but only if GOP wins House and Senate CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFZsTUcyQmRtWFFaeUp0MU1tZnhMLUtlTHBVQ0NVQTBhbDk0Q0x5aTlGSm9jT1NJRGNzWW1WN3ZNZTBlQXZKRkwtdHFTblI0OTd1NHBBUjh4SnlPZFMxWHpqNW9TeUhhbVBmbU1mZzNuS1I1WG5HNmFHcjhyZE9DWDFqTHh0OVk?oc=5",
+      "published": "2026-09-10T02:48:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-      "summary": "UBS CEO flags investor complacency as geopolitical and economic risks mount CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaG52RUFrUTM0Sm9LYWpkV01KODdJbjNaSi1QNWFoNWJ4VTFWMjF5UTYyTGltN01FRHhDTzRNaHNWMWcyMHFXQVg0RWRhQVBBTzlPMWIzX0pRZG1zbXV0V09MeVV2dmlmSFVfaVNXUGdvUXpxTU56dS1fTFd5QmdYYzg3WWtXRDI0YnR5YmZDY0JHdElhUldDWTRB0gGfAUFVX3lxTFAwZFlxanpDV0pyaWZKV2t5NW01LVp2WnpMUGM1cl9aRlQzWHRxbmJ6NnFzR0dCcDZjdkdGeGNXMEg4a1hQM1pCeFFTTVRqTGtKTGFxYlRoNGk5ODByS3k1MHJkdzQ2UzY2RUtGSk8xNWhrTjF5VjdfbUl2dUs1V00zOVFzaVlBV2g5U1JGTTRQQWM1Y2Z3Qk92cEVPNlJDWQ?oc=5",
-      "published": "2026-09-10T02:46:00+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump admits anti-transgender attacks are one of GOP’s ‘great sound bites’",
+      "summary": "Trump admits anti-transgender attacks are one of GOP’s ‘great sound bites’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVJQZnEwdnhmQTNwcXp0eVFIWEVGdVpLTzc2RG5fNExodmc1dnNreTZzb21OWWpPVEIwVGVOUDAyNm5Gek5rcDRzYUFPcloydmpvcjI4OV9BT0F0RW1qRk51dW1JYzRVSEZxUENKVWxQTkJ3ZGowcXF3Ui1Od0FicnFoNm52Zw?oc=5",
+      "published": "2026-09-10T02:34:15+00:00",
       "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history",
-      "summary": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjdqWHdRM1QyTDNUTGRiQzY3U1lmRGJmTGJjb1JqMmtUNkZBa2lFcUdUZ1Vid1lNNjBIU050MHNMUEVPMXA0a252eWRRcEg1MnJkYlN0ZmhJb0xGTUVDRnhrMUQ0NzFJbDZCVG04VEdYQ19UNEV0cVh2N0FTdWZXZmVwaw?oc=5",
-      "published": "2026-09-10T02:14:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much",
-      "summary": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHA1U3VRLUZIMERvdjlDODVGS2FPVFZ6MmxfRGFHY0s3QUgxWUp0aUJxWmhSbkpZNE5NVkl3WFA2b0ZTOG5DXzBZNDVIVjFtOGhQeEc1WFZWdkJIMExjSUl1SERXaUVyYkZPZnpia1hNaG51TE8zWElDdE94TXAtTkt1WGxBMmtMUVRTcnJ1TGxnOXRFa1QwNjF0VnQ1X0nSAaQBQVVfeXFMUGhkRkpmOGtydE5IME9kd1JxWFluWEU2X3cyMkZiWGsyeWtZeDlvaV85RFJNNnJVLTVEc25BOGNjU19rZ3g5b01pTWVJVHd6WFh6SDZRd2RJcnJDSHA0Z2t0VlFTelN4aHNQN1EyUlAxVWFxOTVpdjVzRW1IZFBQTENneVdlX01TNmlCQWdPV3dVWlp4SmtXN21yYld0dXdIV1lSSkk?oc=5",
-      "published": "2026-09-10T01:41:00+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -117,16 +152,52 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+      "summary": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
+      "published": "2026-09-10T00:12:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Getty Center closes early, evacuation warnings lifted after brush fire breaks out in Los Angeles' Sepulveda Pass",
+      "summary": "Getty Center closes early, evacuation warnings lifted after brush fire breaks out in Los Angeles' Sepulveda Pass CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWZ0STZYRk44WlJHN0FNZVVhUUo3d2NoOEpGM2R4aWV1QTN3eDBEY0hvaWctNEJFanc1Z2FXS2g1RTZkc0dqaF9jUnc0T1h2UXdSQnU2MGh5VFhQcDBBbkV2aHNQREdXeHJSVXJCUHR5WjRCUl9JM3c3YXdmd1lITmlDaWVSSElZT0JHLU0zN1doQkVUNVIwYkFSWUZDNm5fSEQwOTVIMW5mMlNVeENPVHNVWlU1ejVQ?oc=5",
+      "published": "2026-09-09T23:34:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Teachers unions announce AI safety agreement with Microsoft",
-      "summary": "Teachers unions announce AI safety agreement with Microsoft k12dive.com",
+      "summary": "Teachers unions announce AI safety agreement with Microsoft K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWFPTEc3RnVZdXRfbVdpa0p0cnlZWUlrczZBNlV0a21qQkZSd1k0V0U1dzBPSHFhUVZKS2VmdW52UTZEUzM4cEZLa29HM2JfU0hQLVZkSHllSnMyMkYxS3Fqd1VuNXh0VXpaU1VyTTlTSGppN0ppLWRScGJDSDlFcThVRXRNamVsWndYakNsWEh2YVRlQmpkYlpueks?oc=5",
       "published": "2026-09-09T22:56:50+00:00",
       "beats": [
         "Business",
         "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Dems with anti-trans views are on the ballot. What should pro-trans voters do with them?",
+      "summary": "Dems with anti-trans views are on the ballot. What should pro-trans voters do with them? LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejQteGE4OHJ0MjNCT3hvLU9lWFpvNVk1MnFtSzAzYXN0b3B0ODk1V3FNWDNqT01uVFl3bDBiQ1ltdW5iQ0Fyd0g3dl96WTlmckZzSl9xM3FneS1pVzg4alJUZVdjQm5rNlF0Q1prY2VOalZ1Y2NkWVZWSHRLWi13NVUwYUp5OGFRUnY3Q3Z1NVFNbndMME5OZkNUNXBJQndrZExBNV9weVRTZU44LS1vQWNqbmVLTnpCTkFmLVI5c3A?oc=5",
+      "published": "2026-09-09T21:17:37+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -146,7 +217,7 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Not enough students know about work-based learning opportunities",
-      "summary": "Not enough students know about work-based learning opportunities k12dive.com",
+      "summary": "Not enough students know about work-based learning opportunities K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeEJ4ZFdySlJDXzN0YVUtb2N6N2t1dUotWWpod3Z3VnZaTDI2UlduZE5abXhSYmxENGV3MUNIYzFDSHZmbzlqU0dSQWsxWmVYRXl2TlkweGwzckt3RG0zVjRxY0NBcWRFMHVFRUMzcTlyTEwtLXJOOUhFOGt6Q2ZGYUZVUW5udmI4dWZ5bUR1RjlHS19ZTnpjeDNVMk0ta1lBdGVr?oc=5",
       "published": "2026-09-09T19:05:12+00:00",
       "beats": [
@@ -202,18 +273,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
-      "summary": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
-      "published": "2026-09-09T17:14:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -238,13 +297,25 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Colin Kaepernick reflects on Jay-Z 'disappointing' him, losing the NFL and finding his power",
-      "summary": "Colin Kaepernick reflects on Jay-Z 'disappointing' him, losing the NFL and finding his power NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUM1allpa0w1Z0VZMjFoVXJ3NGVaTTVDWkFDTkRYQTFUNGJ6TklRR2hVSGR3R09HalZhb3VzQklkUW01eHV5UW1XRGplUFRvZmRjZ0NiSmN1SU1oS3dISUczdU9Na2M3Mmw2M0VVT3JqT3liNDVmelB2TlNnenZXR0o3SlRFUjhIRXRXRk93R3pURVhQV1E?oc=5",
-      "published": "2026-09-09T08:46:30+00:00",
+      "title": "Opinion | My Dad Died on Flight 93. I Miss the Way America Responded.",
+      "summary": "Opinion | My Dad Died on Flight 93. I Miss the Way America Responded. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEF3UlRVOTJwdURGZnBhLWQ2TzZQTl9OV3hqWGFOcG9GdWZwd2JWR19uTHdfeUd3SEJrX1dNdmFXMUhOVW95VVFWZVduMWxnd1BGYU5ZVGJsUDhyU2xwMEhvdGdfTFBMZ2hFN1YzdUJTSVI4QURjSGdxT0hubHdjYldn?oc=5",
+      "published": "2026-09-09T09:07:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘We’re Going to Bring It Back to Life’: The Long Road to Reviving Lahaina",
+      "summary": "‘We’re Going to Bring It Back to Life’: The Long Road to Reviving Lahaina The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDlFa1pzdzZaVWJaZTByV1ktSHdZcFFzLVJGT29JN0dWc0E2Vl9FZEpTYWhBNTRlVWJSMVVXamxxbXJFb0VpYkVrUFVGMGlHYXg4bGZDNzY0d3FHcUZGUndjWmdMTGNtU3VjQmQyamFubTBhMW94S2FtckdBQWNiTGU1RQ?oc=5",
+      "published": "2026-09-09T09:04:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -274,39 +345,28 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "WATCH: A young sex worker steals hearts—and more—in this steamy drama set in Buenos Aires",
+      "summary": "WATCH: A young sex worker steals hearts—and more—in this steamy drama set in Buenos Aires Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JwZlJZRlN5RHJ1SEVxZW1hLXZLRFRxN1habm5PSEttME1aTFBNaWlIVDVlU3NDMnN6eDZvcWMxMlVoQUNtaXRCWkRVNnpoRFA5UGsxdjZCQnJSV2JMZXMtRXJVYm1FbnMxNFk2eWhCTG5ZSHlnZUJIVHFmaXpHLVJBTGxmQkp5NF8wbHZuTGtRUVNJNld4clc3VEY3NHk2cU8zLVMwaTRFd0tzY1I0eGF4Q2FIRjIwaXc?oc=5",
+      "published": "2026-09-08T23:00:00+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "From science to screen time: 4 key takeaways from the latest PISA results",
-      "summary": "From science to screen time: 4 key takeaways from the latest PISA results k12dive.com",
+      "summary": "From science to screen time: 4 key takeaways from the latest PISA results K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkxiZXlUbVNFaUdqUzVMY1pBdzh1dUpWM3JsM1ZhMXRZQ3UzVVlkb0NtUVJYNWxvS2FpOFFFNER1VVlMejNEY3U5eFIzTnBQajBsekxIeHEyM1hVZGlfdzBxU1R5LTdVNzIxaGlJNUhfdUFEZjFieWthUENjNXJRYnpCbWQxbFBodTRvVHpXUEg4RjJHRy1vbmNrdVdSdmJJZEdIWnhqUU4ySnZKZmc?oc=5",
       "published": "2026-09-08T22:49:06+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Jon Small, Director and Early Billy Joel Collaborator, Dies at 79",
-      "summary": "Jon Small, Director and Early Billy Joel Collaborator, Dies at 79 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bmtxYnYzVWw5aFVSTmk0emU2NFMwVzBCMGhkTG9SSVlpV3BJTGtGa2VTRENPQVRlMUlyREtzV0w4ZUNQYkpHaEdsQmZmY0pneEZXdnBaNmw1aFNpVnAydUtuSkltV3FvWEptSVY1T2RCVmM?oc=5",
-      "published": "2026-09-08T22:35:07+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Woman killed in Sacramento County shooting, suspect found dead on Highway 50",
-      "summary": "Woman killed in Sacramento County shooting, suspect found dead on Highway 50 CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVdSeWVuNm5nOFlRV0VVTXZYWUJmLVpVbDJ6NjFZazh1OFRWM0NFdm5Jc2VjVldGZUFyWFUzQkVDMmVGNEFuV1Raa0taUms3QXYyZDRPeWhIRFpnbzVlMzF4UTlyS09FNmlwd2JSd1BzYzB4dEpOdVN4WURRdURrN1ExbE11MTNkYnc?oc=5",
-      "published": "2026-09-08T22:32:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -319,67 +379,6 @@
       "published": "2026-09-08T21:33:24+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "\"Manscapers\" gardener goes viral – and it’s got nothing to do with his green fingers",
-      "summary": "\"Manscapers\" gardener goes viral – and it’s got nothing to do with his green fingers Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3lGYkhHZms3UE00Nk9QNXZZMUR6a0E1RjJIbFc0SjBFVW9sVnEwajdUaDZQRkQwQ3M2Ul9EcnpJbDFWT2RmRWxmenJTS211LUQwQk5tU2pJWmRkV2tWNEpCYnZWRHFMY0NiZ0lUWW4tNnN4eGlrQXdaanZwVnhaUTRuTF9FaXpVdVRTSEpHeHFtUVBCR2hfbDVfbnlmMGlIRFM5NGlyd1R3SmxkRWU4eGJsdw?oc=5",
-      "published": "2026-09-08T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "These Parents Want to Opt Their Kids Out of Ed Tech. Can They Win in Court?",
-      "summary": "These Parents Want to Opt Their Kids Out of Ed Tech. Can They Win in Court? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbThJX2JHV3dKUDQ0UmlIRnVyR2o4SUlHdlBfWmlyaUpVOEZVSElDcF9tRTdzZGhWWnNxOWY0MHlIV05hXy12b0tzakcwRXBBZV9UOFpmV0RmLXowaDNxMVNBOVQ4WFg5SDhnSG5Qd1FXUnFqbk1VdlRablJfSGRjcVZTMXF0VjdFZlhjM3JXcVVnYjc5eVcxNVNleW9hZldBVmtLVUU2VUZLblBOTy1oTWl3eEJRcUNuV19HRg?oc=5",
-      "published": "2026-09-08T20:58:22+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Transgender Army master sergeant dares Pete Hegseth: Say your anti-trans slurs to my face",
-      "summary": "Transgender Army master sergeant dares Pete Hegseth: Say your anti-trans slurs to my face Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEJLME9QY092c3B4Umd2eUdteVo2SjE5TFhTTmVuNS03UjBzQ0psalFGRXdGWTU2ZTVXRERRRXU4VmlfMkFBbDBtSFlKS2hWSDE4S3FBZDZaVnpnTG0zbUpTTkc1OGs5NXh1Q1JBR1IyV0FNZW94WFFfbmo4NkZBWUdlbkpFNF9v?oc=5",
-      "published": "2026-09-08T20:51:05+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "After last week’s Fox shock, is Maria Bartiromo joining forces with this controversial lesbian?",
-      "summary": "After last week’s Fox shock, is Maria Bartiromo joining forces with this controversial lesbian? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjZjck1pOXdhaWdXelR6SDJTZnc2aHdwU19YVnJkTV9tQ3IzSS14emdGYzkzUWU1ejZqTDJER3NteTBPV3RzbHlJbFlVOUxVaGFDcVRyYjJvWEtwRURWdEVtT0hoTU5WaWxCdUtJd0tUeGg3bjl3NGlHOTdrUWZ3dnJDZ3FHajJtTlVMTHRvQnlUNDVvM19WMWY3RVptMVdIS25oOTQyRnRmVUlLdWljY2N0bnNwR1pUMmRqRDNqTE9SaW95?oc=5",
-      "published": "2026-09-08T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
-      "summary": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "published": "2026-09-08T17:00:13+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
