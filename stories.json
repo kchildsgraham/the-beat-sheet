@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T19:56:06.963179+00:00",
+  "updated_at": "2026-09-11T22:21:14.538121+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,87 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide",
+      "summary": "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide CNN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oM1F6bERoTWplcWpQc1owNVlMd3BxRXNVRncxTDZ2VzlqbU15M1hOdFA3MEo3WkRUZ3Z6Y1BoZl9NZ3dkRm50UTBfLXp6V1k1WTZNVVdkaHFjZ0tLXzVpeE1fU0tGTkE?oc=5",
+      "published": "2026-09-11T21:32:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+      "summary": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUGplTllYUzJCdTI5bTZ3aU9ySkpzV2VLQWFwLXc1VnBaS1JhZW9wVy1OUGIwWDFyWVBacFVfYXZYekVPZ0dXZVNPQS13V2xQVUFORFBlNkdXMG9nMDUyVGlNX1lHYzMxNGxxT2tiLU5KYy13dXc?oc=5",
+      "published": "2026-09-11T19:39:35+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CIA declassifies intel warnings to White House prior to 9/11 attack",
+      "summary": "CIA declassifies intel warnings to White House prior to 9/11 attack CNN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW9WdU9peDFzMlZPU2hwMksyenJiZTNsLWhxTERLWnA0U0FKNkdqbmFhNzJmUlpFMGlQaGNPcl84SWRmMmR4Ukk5RkF3ZFVFaWJFUnhHMm02ZkNINkxCSXlYUWE2SEh5dzFoTXBOZkprNVJ1b1AzQ3pFYko2LTAxMXdoeWdycGk3UllHU0dFX0NEVWY4Qk9oWnVFUE5JNVpkYWFv?oc=5",
+      "published": "2026-09-11T19:16:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
-      "summary": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks CNBC",
+      "title": "Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers",
+      "summary": "Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeF84X1d3enhMMTY0XzBiZ3E4OURqYW5EM3JUZllwRWJDSXBjZEdCdUYyYXFsS01jQll3RnhFTkRobU9QWWdScDBpOXpTYkxocXo4X3dIeHpJcE95cVhpZF8tR0ZEcHB1ZktzQnhoTUw4TnRwdVlxamUxWXRvZllXZVJGMUI3ZXROSXh3WXYtbjVVdnJ2dmlGc2h3QzZDRHdP0gGmAUFVX3lxTE9hdFlnS0t3OEI1YnJuS1R2a1ZqWTZ3WWs5Tm9TRlVDTTItWko5ZEJmZWNHODF1VjJlcEUyTjYyNWdQbldJcmcxTlJ2M05uWWlZSmFHLVdVZEJnd2NFWTFUc0loSUZlWjkyeUJhRXhKczFrLVdxc1RabnZMcGVtUzNYQWxPU3BqOXJQZnNtMlU1dktuZEZwQ3ZqUVVuQzN2MmxNWHpWdHc?oc=5",
+      "published": "2026-09-11T19:10:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+      "summary": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq CNBC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTlEWk83M3ZzR1Q5bW14a1FaUGZIWWM2T0dlUlJPdC1jaXh0UVFiZzgtU0tXdlp1TmZoN2FQejFMWlFITUh4a0tWUXo4YmNLaTVtZE9SMFcwVnd4YmdRUHpGUXRtZGI1bHRvMTlLczBDYjdpQ01SbzVydDVYLXp4eWZkQmZ0TlZOcklfd0twSVpGZ9IBlwFBVV95cUxOT2MxY0ZZQ2F5REZjZlB6cU83RnlyVmRMTy1jRGJDdUZqMnNMcS1ybUdlWDFGQ1hYV0dlbzJ3RFlDNE03NEFnUTRoU3hWOGdSUTJBNjc0WWFrNWg4LTRiVlBjZVliS1lBTUdkbFl6M2tIM1JtY2dPS3U5aGxFNjByNG1RV1EySk5NcFJ4bmZSazJibXBQQk40?oc=5",
       "published": "2026-09-11T18:41:40+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount",
+      "summary": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU1kaDdOZGExX2pHZ0piWTU4YU5pUGlhNTI0eWdoczhTcHIwLVVrSVlVRDhqZXkxTkdFaDVMb09FS2x1MXJlMGpCVzI1Z2E5MXBMLW5rODhzQnotRGdMRG1mRjV6QTNYTXFCTTJWdnB1WEF0R2d2ckNvVFVSN0VzWUZvd2hUeWNsYlJWN01VeGVUTnFRMlpERmZiN3FvOVFjZ0pWYnlzeWRCdw?oc=5",
+      "published": "2026-09-11T18:07:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+      "summary": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YZ0tnUW9ySTRrOTkyTUhzU1F4cXN4UGpvSTM5V19kbXpaZnBKdEVVXzhCSkR0VTJCczNlNlZDMTJnLWZPcy1GT0JESVBaR0FhZjRBWk8yQ0x0R0NiaW1MR29lQnY1QjFGWFBMdW0xZ9IBdEFVX3lxTE9KX18zRGZOQlJVdWNERk9SQ0thRlhiSTB5ZjRMZHE0MWVELWZRTjRpQi16di11RkVjWTM4M3hRMndlemRkMk5tV3k1SzE2UDNXWEgycmdhSTFaUnRaQjNiZTFJUTU4VWhDZ21jSG9hOVEydzgx?oc=5",
+      "published": "2026-09-11T17:37:11+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -44,49 +116,37 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Saudi oil pipeline shut down after attack triggers fires",
-      "summary": "Saudi oil pipeline shut down after attack triggers fires CNN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTBNQ1lITW5CMjlZTFM3UktsZUNsaHFyb29zZ1VVMmc4b1N4dTVGMVZjM0FpSTR5eTk2N2hGOGZTSVBaTVlPWG1ZLUhJNUg4MUMzcVo2QUJWVl9aRWRvdUpzOTJndDNTN3NMdk55NWZMdXVRZUtJS0RZTXowZThEOE5BeDFJWlFmY2V1T0Jfc2liY29kdDNVX21NQXJhZjFtc01ORA?oc=5",
-      "published": "2026-09-11T16:28:45+00:00",
+      "title": "Americans Love Supplements, but Experts Doubt Their Benefits",
+      "summary": "Americans Love Supplements, but Experts Doubt Their Benefits The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NLdndhUmhiX1lGLUFfdWZwZmVHc3puSlFXYnFNU3ZZSUZ3cFQ0YjMyMFZQX0VpYlBLZUNsd0J4ZXRBTTlYRnVOSmdvR3RoVE9OX1g5VGZwR1ZUYzF6ejBaRW1NWXh2X0VTWGQwRjZiVi10VWlseV9MMmN4NzBnQU1PVlQ4ek50YUNYTw?oc=5",
+      "published": "2026-09-11T16:42:10+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
-      "summary": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qMGNKWDRZUTZYXy0xMGJMMDRjQmMtWVcyYzJWSWRHRVZldFVsUS1OSjRkWnlELW9NTFNfRHJpeldEY092NWZjMXh6VFE1N283U3lmYzM5Q0tMbXVPaUx1ZmNmaGoxbzNDa3dOZTZmX1RCYWRfcW9mV1pOb9IBgAFBVV95cUxOUFVoQXRfYmdHbzFlMk91c2tETFUzTEhjZ3AxQTlacmFiTURaUHNCZkNvWUNKRnJjZDE4WE14SkJ4Y2IwRy11ekpmdk1rUGRFQ1R4VE13N1pFY2daaDFRUDVUZVdmX085a1JKUWgwZHJFSHFralBmUE1tcHNNaDNfcA?oc=5",
-      "published": "2026-09-11T16:05:56+00:00",
+      "title": "President Trump honored the families and victims of the Sept. 11 attacks",
+      "summary": "President Trump honored the families and victims of the Sept. 11 attacks NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xQVFWZE1raFpEdlFFTXN4S3B4Vi1FeFFKRHVkQVVnVFRnOExJYl9XT0tVWnFxYUROOGxXZXE0VFlVdFlENmdNV05ISWQ4ZXMtaDBUTFlDaXVzZm5mMFZOV1MzTHVuZjgtTGpFODljM1VfU0RPSGc?oc=5",
+      "published": "2026-09-11T15:51:18+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Justice Department secures deportation order in first-of-its-kind case brought in secretive court",
-      "summary": "Justice Department secures deportation order in first-of-its-kind case brought in secretive court CNN",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPamprbWM4RHU3cm5UVVBDSUpoVHRJdjA5b3lQWXVnbHloQjYyT0lwWENWS2Y2blQxcUZsN1pNdWQ2R1EtbGZlaTY5cnM4ZUVLbl9xUE5yU1BjUEdqdEE1YjN5dHlQSTZ5bm0tUV9TN1lVdU05RHRRdkw3R3lRV2ZlLU4tU0dmOFpNeHZvdnQ3ZlFPOHpOQVFwaFlGdEhma09USjFiQnNBRFNrbjBCemFaVnJ3?oc=5",
-      "published": "2026-09-11T15:37:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
-      "summary": "Record U.S. cyclosporiasis outbreak is over, CDC says CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHJVNS1jcUpoVndhdDkzU3ZaODVId2NkTVhublVQS0VVT2ZzYXR3YXltNjliVHdGNW5sOVhSMkFBZXI5bkxaOVFrelVIb3l6WkFJcEpWNm8zXzlDakkzS0dLdXU2T2lyNVpxNGZlMGRaT2tVNzd2d1RiMEFZSk1PRDJn0gGHAUFVX3lxTFBoRzZiQ2QyU2w5dVVaNDZiRU1sRnFVVG5ZNUFNN2laZG8wdF9zUFJvVmRGcE5zVGVYR3BtUTdMUmZqcHN3OHpEdTJEbUJzYkxpRkwtLUYteHc5V1BNWWRCMndtVER6dDZlY0FOSTNFVHkzOHVpR1ZpWWdlWEFtUGZPbURNZEs4VQ?oc=5",
-      "published": "2026-09-11T14:56:44+00:00",
+      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
+      "summary": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability NPR",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHQycHNIbzVJSkdLUkNOb1d4XzZZX24wSHh1b3hJbWJkbkVZNnlSUUt5NGZ2cGxYZVdJT1JVOUFOSlYxUTc3UXN4NURGb3hyc21HOG5odnd5RHpYMG54dk1rT1JRR0p0dGFTUUgtOG52bWZ1dkl4M2RZZFNmWGd1MHkxZmdLWG1CdjAtaUlxZWtQZHRVaGFlalNDcnp6eS1haFlFX3pPTjNVRk9PUGlPMVFzbVRXTVpEbkpsUFpIbGNRYUh5YUxCcDFucw?oc=5",
+      "published": "2026-09-11T15:34:51+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,25 +164,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
-      "summary": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms NPR",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbk9rdHk4WG9rc3BnSkpwTmRrY2xCTGdWMUloUzJuY0JKRkZTVHNGTWZ1Vkg1Rm05VE9yM2pKbXZ6VGNvU2tpU3F3RTlDNFJMZUJaTTdsNi1XNm5NenlwVWp1RjBDNFJoMTNVaWl3Nk5lMGZvdEhsSlc3VHM3LURWN0p5Y0c5WVNNaFBiQUpObWdqbXV0YVFHVWNXSkQ4cERacjJaRDZaYTNwUHF3OUItN2NacHZWcDFidmJXYUlDNnFudU4waEdGbzFPVXkya3hxX1h1eVlFdjB5ZzhzSi1pdg?oc=5",
-      "published": "2026-09-11T11:55:49+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "24 new movies worth checking out this fall",
-      "summary": "24 new movies worth checking out this fall NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0Zia1oySjJ2WnFpNUZ6eDFpMG44ZHZmb1dlMWMyVUpYdjEzTmJzMlJXdWRGbl9GdzFETW5DZG9CSmk3SUVUT203SGFDaEdVblNxQm1IS1NaSHdSR0pQRXB4dVU5SlhhOGQ4T2lvTlg5RnRHa2laU1hCdGs2REwwZ3p5ZXA1Zw?oc=5",
-      "published": "2026-09-11T11:00:00+00:00",
+      "title": "To Drill or Not to Drill? Britain Nears Decision on Aging North Sea Oil Fields.",
+      "summary": "To Drill or Not to Drill? Britain Nears Decision on Aging North Sea Oil Fields. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjNpNURFRGYtNWJLRDl2Y0lHRkJ1eVFyXzlUdjJoQWdoM3Y0d2wyTXZRMkVZeXRoa29zOEh6Ti1IWTlQZDhUTGRLYUVQRUFQdWRRT1p5RXhqdGJCUnN1alY3aXRkUHB2bXpXTEI3YWRhbE9vX09rclJjQmxmRTRDNUd3TXM?oc=5",
+      "published": "2026-09-11T12:29:37+00:00",
       "beats": [
         "Politics"
       ]
@@ -144,7 +192,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | This Is Really Bad",
-      "summary": "Opinion | This Is Really Bad nytimes.com",
+      "summary": "Opinion | This Is Really Bad The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
       "published": "2026-09-11T09:02:30+00:00",
       "beats": [
@@ -155,22 +203,22 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
+      "title": "Former hockey players at University of Michigan sue, say they were sexually abused decades ago",
+      "summary": "Former hockey players at University of Michigan sue, say they were sexually abused decades ago NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1NqM2xKR2tkOHpfNnBCN0JyN1R0RE9LRGZkZUY5cklkVFhmbllTZG1IemNXZkh5RFphYi1BVEE3STJBdkNJMmo3VnZLT3p2M2ZwXzhKY2p0bk05RWZ5UmljdWNseEV1cC1JOGJINy1xZzlkbVloaWZpaHVtWHZ4TEZfNk5uZ2UxQUJ0TjkyMHVaSFl6b1NHYzVLejg5OWozZG1tanlsVlpCbWQ5dlhIMDRvVQ?oc=5",
+      "published": "2026-09-11T07:04:14+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
       "title": "Organizers of Hong Kong’s Tiananmen vigils sentenced to up to 7 years and 3 months in national security case",
       "summary": "Organizers of Hong Kong’s Tiananmen vigils sentenced to up to 7 years and 3 months in national security case NBC News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcTltV3UxLXZrNHpfTnJSX09obURvTkdnWnlfVGlPbWV4aWdiZndyT0Q3ZmJ5Mmh2UlpxMERzUWpTWkltM3pDUVB3MjNhckZrOHhmQnVZWHVSekJJbVVkZ0VnRUlRaXgwckJEbEhtX0FOYXA0VWlLbUVzYm52d1ZMUV9lZzlqc1gzNnVvUUJEZHRUZWduNVdjbw?oc=5",
       "published": "2026-09-11T02:29:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Sept. 11 and the Persistence of Memory",
-      "summary": "Sept. 11 and the Persistence of Memory nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFpTNE5nVW9YbS1VTkZNaWt0WWFQRm5MVngzV09scWQzRVVmcVNkanBYQ2ZuSmpSUkc4by1aNFUwUzd1YW1iUFFiWXAxelBid1NFako5Z3FfZnpwN1IyT1BTYlBTWUVRZGpjNGk1T1JIRzFXbTVpN1dXanY0RS1vMFVMTHlzWkVvYVE?oc=5",
-      "published": "2026-09-11T00:35:31+00:00",
       "beats": [
         "Politics"
       ]
@@ -201,26 +249,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "summary": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-      "published": "2026-09-10T21:50:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
+      "source": "Queerty",
+      "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Gillian Anderson comes out as pansexual & shares what turns her on about men's & women's bodies",
-      "summary": "Gillian Anderson comes out as pansexual & shares what turns her on about men's & women's bodies LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaV9NejdmZlE5cnhvT0ZMVFltRHpTMHpOMHJ4aGNrM1c4Z3VTdG9OWFgyR2wwMzJHMGJWdkdtWFIwa2xDazNER1hGZFNWS0tGZGJTdVU0MWpCRlBMR21IUUtCeXR3ZEhyMEtuYTE2aXdGUDNla2RHYzNmczZSaVRLOU94T3VYbHI3RWlocHhMdVRZaVVwT3FWR0NTSDF6eGJob19NVkxQSlBTanR5bmFWWEtrUjctVG5CNGV0dUV6RWJGdWdM?oc=5",
-      "published": "2026-09-10T21:30:00+00:00",
+      "title": "WATCH: Adult creators spice up reality TV in 'Crush House,' the new competition series that lets fans have a say",
+      "summary": "WATCH: Adult creators spice up reality TV in 'Crush House,' the new competition series that lets fans have a say Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRVFfRWFhbmdZcFJzdy1ScFdkdEx2ZEQ4S1NkS2xGWGx1RTdockRnVldhYkdKSjRZWDFUaTJjZ1JOdHBOeVBGNWdxc1BpWkkybXdUR092YTFjYzhJbW9ZZlhuZDFlQjFJY3k1OHVieHBnR3JxTVVaX3dQU2pDRXpJa25GaXNDU3RiSThRVklpSjJkVXItV3Jqb0xHaUtfZzFTLVd0UEtGcXRIRDdHeXZ3Zl9wZ0lWVTMxUEt5TWxncXpJS1Z5Z25XZWFkb1hNUVdkZ3JHLS1jY21pdw?oc=5",
+      "published": "2026-09-10T22:00:00+00:00",
       "beats": [
+        "Politics",
         "LGBTQ+"
       ]
     },
@@ -253,23 +290,11 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "When Should Students Take Algebra? New Research Offers Clues",
-      "summary": "When Should Students Take Algebra? New Research Offers Clues Education Week",
+      "summary": "When Should Students Take Algebra? New Research Offers Clues edweek.org",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRpR0FhTzVJeHZRbmp5RjVtZkZNN3VVYzlDSFlfbENKTExZTVZ1aGZqUnVLejBrdGlMMl9udDBkV1h6emtUS0FoVDRCQVhtbDV6U2VlUFpjNXFFNGR3bUo5TjJJd0pYWDBHMTJ5WURlUlZycHpTUHp0MHdwcTR1b1hwaGFOYXFndWFrclZVQTR6cGR5N2k1M1VJaUljNG5OTGJnODdRM1dtWEE0?oc=5",
       "published": "2026-09-10T19:50:48+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map",
-      "summary": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
-      "published": "2026-09-10T19:15:50+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -288,23 +313,12 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Oops! Grindr goes down during the RNC after surprise thirst trap",
-      "summary": "Oops! Grindr goes down during the RNC after surprise thirst trap Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEFpYlJmQ3A3WjR5TlZraFFhUlFQT29mdU5sSkptUUMtc0dmaVpHMFNHUGp1Ry1RSWJmSkZ3a0ZXTE5nSTdKUUhIeGlYT29ZVjlneWpMN1dhUEYxdmR4c3huckRCTGE4V1RjUFlQZ0xZNEUwLWVhRUVrRWhWbHJYNDlZUkwxeXZvZkN1SVN1Sm9Za0JMSlI0bFdDWWlLR2k1Qmlz?oc=5",
-      "published": "2026-09-10T16:00:00+00:00",
+      "title": "Canadian politician says what we’re all thinking about Tr*mp’s worsening Epstein scandal",
+      "summary": "Canadian politician says what we’re all thinking about Tr*mp’s worsening Epstein scandal Queerty",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpmRWJtQ2k2UEpDNHhUM2xHdmFmbXJTV0EtZll0V0tJRC1Tam9ZcXF0TElWcEdSV1JpVXlkdlR2NkdsQ0s1UUdkUUFxQUl4VmtsWE95TVdJTzRkYm5PYlltU0hwT1VBaEExRnoyTzBieUxaV1NqM1doT1YyaTNmZzlWbFcwVE5VX1c2X1hSWXExbXAtd2h5aURjVDh3U0FVZEpGVlEzZW4zQXltZFVfcQ?oc=5",
+      "published": "2026-09-10T18:00:00+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Annapurna Sriram on creating the trashy world of F*cktoys, horny cinema & working with the \"divine\" François Arnaud",
-      "summary": "Annapurna Sriram on creating the trashy world of F*cktoys, horny cinema & working with the \"divine\" François Arnaud Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc1RBejFNakZrVWd1VDRfc1dIUTNpcDVGQnEwWWdROVRPckxpN3kwRHYxT0sxejJDVEwyQ1M3bDNjX3BaaXBjZ1VfRWZhbFNXT19lM1ExOUZka2VvSlhqNHhLZ0Z3NzZzbFNiSVNjcWNDYVNMa29pLS12UXZSclVpLWM1RjcwZ3JZMDBGbDBNNUNXbkhxRi1lbERiQ2xJUUJvWnJBUzV1RlFwM1ViOEJtWjlMdFlVS2R2VFNmOF9sT2ptdEZmWS1QWlZ4ajJVN3picERN?oc=5",
-      "published": "2026-09-10T15:00:00+00:00",
-      "beats": [
+        "Politics",
         "LGBTQ+"
       ]
     },
@@ -312,10 +326,22 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "James Talarico walks back trans athlete position, citing ‘safety’ and ‘fairness’",
-      "summary": "James Talarico walks back trans athlete position, citing ‘safety’ and ‘fairness’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnBaWW9yWGxyQkxyZkpmLTNQTUl3THB1Y3dzTFUxSV93NjRYZm9HNjdSaGk5WFdWbmxwaGpKeWVYaVBrRndHaFRmd3lxNWdBdGx2bk4yNkwxX1d2Y1NKbE0yMjRuNTZfVVYwaTBFdWhMbkwtM3BLb1VFQXAzY1FBbkNSLWVlaVVldHpv?oc=5",
-      "published": "2026-09-10T14:22:39+00:00",
+      "title": "Hasan Piker's 'meat pic' was on full display at the Republican National Convention",
+      "summary": "Hasan Piker's 'meat pic' was on full display at the Republican National Convention Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnFuWm4xeEhfU2dnR2xEcDBLRDFmYXZQc21PWVhTOVFzQTctQ3pvNDEwZzlVbUxqNExlcDFCc0NJMEVaZkZGeXp2WlFocDM4UnNhaEQ3bFBDdThVV0NwemFrY0UtbkF5TnBlaFBOa3RMeFhGVnJETmlaWHRMclg0bkhB?oc=5",
+      "published": "2026-09-10T16:07:20+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Nude photo of left-wing commentator inexplicably displayed on jumbotron at GOP midterm convention",
+      "summary": "Nude photo of left-wing commentator inexplicably displayed on jumbotron at GOP midterm convention LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEJsb29yRU9fQlZQYkdXUlRUd1pDLUZna2hvcFE5MW5EeEtlVHBPRVVzbGZwWHJsSG5nd3VhN3hvdDhjdExtalR1Mk9YR1RxLWpkeE41d3BEZ2JqMkFVN2hISkRxRU42RU5sVThHcmNrYjhsZjFoYzgxZDFWbVg4VkhDMGZHTjN3VVlFQXhBdUhsaGw2SmFkV2YzSGZ2THdaaXRLUGxJN3JjY1c2Wl9WTklqZ3JQTGFqT2hFT3gxaHBjWTRkalZ1U19QZUEwWUYyQ1RQTkZB?oc=5",
+      "published": "2026-09-10T15:30:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -334,30 +360,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Gold Star family calls on Army to release internal probe into deadly attack on Kuwait base: \"My son died unnecessarily\"",
-      "summary": "Gold Star family calls on Army to release internal probe into deadly attack on Kuwait base: \"My son died unnecessarily\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW14MnZNcWx3b0xubnFVbXVxMlpZTmloNk1GbWRRcmt0c004dy1DbzItLU9pRXc3c1Y1MElkek1mY2pQeWJoOWp3V0VzdC1EanFOaVdzNWIyRW9aY3dXUEI0dEpEVjdReHlvOU1ORXYyNHhUSW1YbGxFQnNheGZLcnBCWUNBTExldFVwRWFyRTlpbUx1a3VnT2lwM1VCM3VlaXpMWWhGZmJKX0RoTkFpV0dRTmd5dw?oc=5",
-      "published": "2026-09-10T12:06:58+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Sandra Bullock on 'Practical Magic 2' and why the original still casts a spell",
-      "summary": "Sandra Bullock on 'Practical Magic 2' and why the original still casts a spell NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0xSblgyZFpCd3RvdEhRbTZIN1l1UHFMUHFjRTlSUlNtLXNXWENkQTQ4UFR5dkVmc21BOXhFWVdBQUVFMWJhYjdDcDNNNlBvRkRHTHpYSF95ME1oeVNSSWM3bFladmI3aGxHNWZXaVdEOW0taFZhZmM1S1gyVVJVOTVhd1BFaDh5QVNpSnV1RkJtbFc3ZGc?oc=5",
-      "published": "2026-09-10T08:43:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -371,14 +373,14 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Barry Melrose, prominent NHL player, coach and broadcaster, dies at 70",
-      "summary": "Barry Melrose, prominent NHL player, coach and broadcaster, dies at 70 CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm8zZERoa0VfbnRvV1E0Y0o2dmQ3WDg2SUN4Yi1LdG9GZl9QdXRLal9KTjhHYkw4dktxZEh3blY0UFFNaUlTQW5obm5Ib25GdmJEZFNtZkFFRVpkYXlUU3pnSC1hb3RnZkFIa18yZG5rQWhhaWVqSzFVb252SFVoRndQT3hESHhUa0JvRQ?oc=5",
-      "published": "2026-09-10T02:02:26+00:00",
+      "title": "At RNC midterm convention, Trump pitches $5,000 payments to U.S. citizens — but only if GOP wins House and Senate",
+      "summary": "At RNC midterm convention, Trump pitches $5,000 payments to U.S. citizens — but only if GOP wins House and Senate CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFZsTUcyQmRtWFFaeUp0MU1tZnhMLUtlTHBVQ0NVQTBhbDk0Q0x5aTlGSm9jT1NJRGNzWW1WN3ZNZTBlQXZKRkwtdHFTblI0OTd1NHBBUjh4SnlPZFMxWHpqNW9TeUhhbVBmbU1mZzNuS1I1WG5HNmFHcjhyZE9DWDFqTHh0OVk?oc=5",
+      "published": "2026-09-10T02:48:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     }
   ]
