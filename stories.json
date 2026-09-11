@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:42:25.535757+00:00",
+  "updated_at": "2026-09-11T13:21:00.438058+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,109 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Buildings are sinking and cracking in one of Europe’s largest cities",
-      "summary": "Buildings are sinking and cracking in one of Europe’s largest cities cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGx4UWkzMWpEWm5iWnRlc0h5eVV1Vy1pN1JEdEFvaHJoN0VwczV3TkVBVk0yOTVHZGdmbDRieVBrXzdpUDlWRXpQa3BkNU9wZXk3Qm5BQ2pqUGg0dmRXRndxczg2RzJndWR0MTQ1LVIwMm94TEo4V1dud0U3YTVoQ1JxNE54dmt6STdtTExKR3pqaDQ?oc=5",
-      "published": "2026-09-11T08:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
-      "summary": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek9kZ3lRd2R6TVpxbzRyVGFuUTdtMV9Vek4yOE9peFBWNXJiQkczeVNwUjlIZjBOSGtXa3RRMmVOXzFDdVBSTUhEOUlZU1JReTl1V19vbjcwdDRucTgzT1hhRUM0UEtFVmRHR3B5OVVrbkxFcG5MZmpwb1I1SFJGUlFEUjFPd0ZOSWF3?oc=5",
-      "published": "2026-09-11T07:43:24+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: Two market forces battle for dominance",
-      "summary": "CNBC Daily Open: Two market forces battle for dominance CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0FkYVB2ZVZyTGlBVGxzd1o4Q2dOakFCSHB2VjJWUTdNcXZOVFN0UXJ0ZC0wSTEzYktCZHpiZFYzZGlDSFZhQmRJdXpWS1V1amFoMXRzSDZ2eXBNSFVjRmVWUGprQXdxNURlajJscG9LclRmN1FPVy1DSlNiX0FRcGwzYkZma3NGQW0xMzFJeGVnY1BwSlHSAZsBQVVfeXFMTVdteWJiNEJDcktJaDctanBfOU5mNkpOdE1nMHV0RUI2QWNCY1piSXB3YkRKTjNmcEVvVXk2eUZBM0h3SVZJQlRidGVORWdJbXFsaG5hWkFsODFKM0RzMDh0aEl6SUZxYk9XUUQ1UDJxVGFLTk9BNzRBZUJpX0ptaHRXODVmVHJTQkFtamxBTmRIVndRODJFMFN3SVk?oc=5",
-      "published": "2026-09-11T06:18:02+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-      "summary": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5",
-      "published": "2026-09-11T06:02:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
-      "summary": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen NPR",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TWk9Nd1hrUGtuUEZGdHVTSWtfWWtKTkxuWUlSUENHYnd6dy1acXBuM3diWU5SZTcwbFRYSjRGeG82SnV1NUw5eUVXMlFOcHhCcmNSWWEtZURFblB2RGdDQ2RKOFNOWTBUMkhTRjVKd1Y?oc=5",
-      "published": "2026-09-11T05:40:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night",
-      "summary": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXRnRFB0Y3BGakdyZE94X2FhVVRLd3JLbGZld0FCeWNEZFNITUFvbmJnZGFJOEJScnlYNGZwOHBGal80Sm1iN2o3OXJhM2FwWWtjaDB2S0NBQ3I4TWYtc0pjak9oaXRMSE1ZOGZha2RkYVJFV0VxSGFsbnpOTHFlNWpWSVRkX1J1eTJOaHJzRnlFZw?oc=5",
-      "published": "2026-09-11T04:44:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Even if it’s real, Trump’s new Ukraine push is already being undermined by events",
-      "summary": "Even if it’s real, Trump’s new Ukraine push is already being undermined by events cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSWFFLTNybWQtb2c2VUZ4dFdXTGZoNF9EUjc5emphNC1BN1ZmNVhpTTFGZ2p4ZlQwbDVQR0tPZk9CMzItb1JSRFV3dVNjTHp4MGw3UGhyUExHVEdIV3Z6ZmFKOEl2N0ttekEtenVCYW5iTlg1SzI2dVdIUGpFVnpUZm5JTW92Zw?oc=5",
-      "published": "2026-09-11T04:01:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "summary": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-      "published": "2026-09-10T21:50:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Lawsuit challenges intimidation of DHS observers across the country",
-      "summary": "Lawsuit challenges intimidation of DHS observers across the country NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1RRMGF0cE9SVmR0bENFX3RPaHhadFNuOUNoY2lnektjWTlDWkxjVjNqQ3F1YVhfTTJXNnRlbDNqWUUtUTd6S1FUNUZSNEtWQ0ZjRm82S25DLVZfUWtmOEVQdVhRdmJNS1A1RFV1OG1GV3daeUhLT2tncEJtYXFiMGpzV3BmN3dEci1V?oc=5",
-      "published": "2026-09-10T21:07:38+00:00",
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "summary": "Inflation persisted in August, potentially locking in a Fed interest rate hike CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45NWtYSmQ5R05raVhQakVkMUdmLWJVTmlCR0R3WWZBbmVsVVQ3SEpnS181Wk5qRUt1cWJhelI4cEZtUDVwb0c5U2dNN0hiZVd0NkdQU1Y0SWRrMlJnQjlXZ1BtdlBHbzF2WkswVFhUVTNXQ3dkcmc5WtIBfkFVX3lxTE9FQ0o0emFuVFUxWFIyNEpyaXpvaS0wVVlydUtLSHhBVDh1blJ6LTdreGozdjZjdmo5eXF5cFdYc05xQjFCMVhnQzFMRkpJVkk2VWwzUlJ3a3F6bjZXTEt4dW1aUDdEWFdHek9FSTVUVTAxdmNSVk8xa0dUMXk5dw?oc=5",
+      "published": "2026-09-11T12:32:19+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,12 +35,156 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Diesel prices are nearing $6 a gallon for the first time ever",
-      "summary": "Diesel prices are nearing $6 a gallon for the first time ever CBS News",
+      "title": "Diesel prices in U.S. top $6 a gallon for first time ever",
+      "summary": "Diesel prices in U.S. top $6 a gallon for first time ever CBS News",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1UllOUmRnRTJ2NGV0QmV2SENfMV94N3RNNWZldFEwV1cwbThGb0ZaUmltM2MweWM2NUNEUkpodl8xdGhVVHJOUjExcVN3NC1XazQ2WnBvRkU5RTU1R1YwTXMzRDVsMjd1U2tZZjZWRmU2cE9M?oc=5",
-      "published": "2026-09-10T21:05:00+00:00",
+      "published": "2026-09-11T12:20:18+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "To Drill or Not to Drill? Britain Nears Decision on Aging North Sea Oil Fields.",
+      "summary": "To Drill or Not to Drill? Britain Nears Decision on Aging North Sea Oil Fields. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjNpNURFRGYtNWJLRDl2Y0lHRkJ1eVFyXzlUdjJoQWdoM3Y0d2wyTXZRMkVZeXRoa29zOEh6Ti1IWTlQZDhUTGRLYUVQRUFQdWRRT1p5RXhqdGJCUnN1alY3aXRkUHB2bXpXTEI3YWRhbE9vX09rclJjQmxmRTRDNUd3TXM?oc=5",
+      "published": "2026-09-11T11:26:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand",
+      "summary": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03bWRldmRDa3pmTDdxb0k3UUFKbXNNcnJGQVBCNkN5SVRwdnBnQTgxa3dxU2RERmxGbVJtRi16Y0wtZTZ3dWtvcXJPbTlwOG9COGpOcGhPMkFzZ1U1aEE1Q2Q0RkFuc01CeXhHdzc2WWhtSVNRYTNvRFZB0gF_QVVfeXFMTWpqdW9VSEdvOHFvMFl4Qm91UlFPVlRBaVhTOU52MVBDTmRkRGxqclFEVmdaeklvLXc2U21jNmlGMDlUSzBwZVd2d0YtTXBsb0h3cFVaNDhXYTJOUW9WSG9xd0dVdTdPVnVIamRxZzhETnFsTXV5MWpHZDJ1d184OA?oc=5",
+      "published": "2026-09-11T11:22:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "What JD Vance Knew About the War, and New Warnings About A.I.",
+      "summary": "What JD Vance Knew About the War, and New Warnings About A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzdoeWpubTI3d3ZRZTNFamx1VVlKY0VwamtnMEVJcDRMTlNZY2hraWlwQUZsUkdjVFJuT0JEM1cyeFJnVzdFa1A1bjF4VjZKMEdIdHdDWGR3eW9rcFdaS0dfZGxXZXgwekxNSnRvVkVlaWpua2NUc1pEZlpOU2Z2aVpfQWpFWUtDTDFZ?oc=5",
+      "published": "2026-09-11T11:14:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil prices fall sharply after double-digit weekly gains above $100",
+      "summary": "Oil prices fall sharply after double-digit weekly gains above $100 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNHpYOUJUb3g4d2cyaG9nSG1DcEs3SVpZT1RaZzJZQ0xvVVBCUFFnV0Q4S1d4VjkxUXE4VlMzWGk0LUhfM3lKMzJBZk5yV3pfM3B3VjVZVlVidFo1QWs2SG5ydS1ENWFyZWtEdWpNcHQyYldyNG1TdzNqeWQ3d9IBgwFBVV95cUxPc3Z3S096WXFNWExocFlaYnBBYVFZQVA5aEtMcWo2dTdQTDdsQUN3NUphM1ZKR0x1bTlaTHVMbXE5T2Q1dUxEaV9xdmlSeTRybGk4amd4QlJGMVJMRk50dFRaOWpwcHJRNGoyc1B6NVdOczl0cHFTM2ItNmhhVXpnQ3I3dw?oc=5",
+      "published": "2026-09-11T10:39:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+      "summary": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods NPR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bWJTVzUxWmoweDBqWGJrNHMtSzJMVjJtR0FuWXRMUjZQWW96WlRoeWNDaEZTTk1sTmN6b1RlTGplaERoXzZlTWhubklTODlhUEdUbDhsaTVNdDRBdUJDdEJncTBqd2JlWEhBODVRb04?oc=5",
+      "published": "2026-09-11T10:04:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CEO who sued ex-girlfriend over lavish gifts loses case",
+      "summary": "CEO who sued ex-girlfriend over lavish gifts loses case CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42eFNULVdLaFpfNmlvVGhBU1ZEdXpzemhiLXFITG9MaWdTaHpzSFRXbUdCVVBBbngyWjNQdVZHRnotc0lxdjRkbU5uOUExZUxYdk5iSU9xRE9VTENmcm9QLTlINEJHdDFaX3VUTTVRdWFGUS1fV2JPSlV5cFBoYWs?oc=5",
+      "published": "2026-09-11T09:14:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | This Is Really Bad",
+      "summary": "Opinion | This Is Really Bad The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
+      "published": "2026-09-11T09:02:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve",
+      "summary": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve NPR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQWRuN0V6NEtQZlpFLWZCRUx0Y1RvSWlHeVRXQmp6UE1KeHpDMHRTbVpRenF4ZXRZdDlzSUtGLVRmQ2FPTHJHVDJTNGhNNWlpb0lfSXBLaE9ENEpkWTc3cWhtS0h1NDFUUmZhajhLZ1ZWbnc?oc=5",
+      "published": "2026-09-11T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
+      "summary": "Empty seats, socialism and Trump dominate the Republican midterm convention NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFlHNnFLc0VrQndRX2NNZFhxY0w4S3kteHJCdmdsUDBxV3BMcXNGVTJjd0lSakd1Ul9YVUo3MTE4Z0s1N2U1XzFlLUlTYVlVeDEzV3Y2Vk9uV1FWVVRUYmJiLVFRZDFFNzY3TGZ6SFZJZzREQXZIeC1URG4tejBjMmFXczA3eHEtY21QeGtGSDRUSWMxRHlPWHZVTm8?oc=5",
+      "published": "2026-09-11T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Buildings are sinking and cracking in one of Europe’s largest cities",
+      "summary": "Buildings are sinking and cracking in one of Europe’s largest cities CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGx4UWkzMWpEWm5iWnRlc0h5eVV1Vy1pN1JEdEFvaHJoN0VwczV3TkVBVk0yOTVHZGdmbDRieVBrXzdpUDlWRXpQa3BkNU9wZXk3Qm5BQ2pqUGg0dmRXRndxczg2RzJndWR0MTQ1LVIwMm94TEo4V1dud0U3YTVoQ1JxNE54dmt6STdtTExKR3pqaDQ?oc=5",
+      "published": "2026-09-11T08:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Diesel costs more than $6 a gallon for the first time. Here’s how that affects you",
+      "summary": "Diesel costs more than $6 a gallon for the first time. Here’s how that affects you CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRHVKS2Nvd011dnByRXgyZG1BWTB5elhHaEY1c1ZSYVpPQXo0MzFUTDl6VXdEUnJFbWx5aldQUUdHQlZacDU0bUxIREFpOUcyemJYZzJjNEFyOEU4Mk5NSGxRNzg2WEZoREVuSTZ2Q1Y?oc=5",
+      "published": "2026-09-11T07:46:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "He won “Mister Gay Ogunquit Best Butt” & now he’s basking in his gluteus glory",
+      "summary": "He won “Mister Gay Ogunquit Best Butt” & now he’s basking in his gluteus glory queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeG9yU3VkaTdnal92eE5kMEZOUTE0ODB0NVR4LTFiVU5JMlQtbW5zX01zaE5lTWpmYTByMWdYRnVXc0pkOHUzTkR1bHpXZEthdHRkR2pZak5JR2hCcmJkX3h5QUZ2ODMwd3o3czRBT3JQZUc0cWZQTlhUVmJwZU0wMUVGLVVyQThQcGFPWHpfdUFYSW0wb0R0R1RDRFJDUTRGX2M1Vg?oc=5",
+      "published": "2026-09-10T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -152,6 +200,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map",
+      "summary": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
+      "published": "2026-09-10T19:15:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -161,18 +221,6 @@
       "published": "2026-09-10T18:29:06+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
-      "summary": "A fossil feather from the age of dinosaurs may explain why only some birds survived NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFHeGI5VFpEWVRVY0dZNllkXzhIU2ROY0ViWVpPS2NkME9QaHFrUzl1bm1Hb2ptZEI1d0Qzb0h1eVNKZDV3eC1WSzExUDBJYTA3REhabkJfZmhPU1NxeWdJenZ4UW15ZkxreG1zbWZPOS1LZWlFbFVkQUlyOURpN0JvMDRaUzNtUDNiN0ozVnBhZ1NteVhBb29HVXhtRElU?oc=5",
-      "published": "2026-09-10T18:07:57+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -189,15 +237,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Oops! Grindr goes down during the RNC after surprise thirst trap",
-      "summary": "Oops! Grindr goes down during the RNC after surprise thirst trap queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEFpYlJmQ3A3WjR5TlZraFFhUlFQT29mdU5sSkptUUMtc0dmaVpHMFNHUGp1Ry1RSWJmSkZ3a0ZXTE5nSTdKUUhIeGlYT29ZVjlneWpMN1dhUEYxdmR4c3huckRCTGE4V1RjUFlQZ0xZNEUwLWVhRUVrRWhWbHJYNDlZUkwxeXZvZkN1SVN1Sm9Za0JMSlI0bFdDWWlLR2k1Qmlz?oc=5",
-      "published": "2026-09-10T16:00:00+00:00",
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Powerful 9/11-era photographs, and what it took to capture them",
+      "summary": "Powerful 9/11-era photographs, and what it took to capture them NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JhQm42cEZ2c1hqQUI3cXZoV0t0S0dmUU1jTW9yVndSVVVYVmJTNnRSS0hTQ3AyU3BsZURyOWxNUW1QcjZKQnNwaW9oVUx2TEJkQ3hTTHlYNXVuYjB6SUN4NmpwdEhFeTdLZVRYeGxrN1Q3X0IzREREazdycmo1eG9ia3N4ZG50WDdWbV9DbDNaaHBieUE0SWxEOA?oc=5",
+      "published": "2026-09-10T16:07:32+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -225,6 +273,31 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Ken Paxton’s new anti-trans attack on James Talarico is literally fake",
+      "summary": "Ken Paxton’s new anti-trans attack on James Talarico is literally fake Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUFIYUNJSHdCNFVKSkV6OWVGUWtrME84LVlHQVZ4bWVzcHRCUUdHWTRQRnFLNGZmSTFjRnRSc0pKSWlReGtncVV0QnhrclZfaGxyZkRheTZiYzBJUTIzV2UtNC04eG9JbGN5NlFQLXRoamQzNDhSdWgxOHZXVUJkLWVnWQ?oc=5",
+      "published": "2026-09-10T13:20:40+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Vivian Jenna Wilson says to \"disobey\" as GOP targets trans \"scapegoats\" in midterm elections",
+      "summary": "Vivian Jenna Wilson says to \"disobey\" as GOP targets trans \"scapegoats\" in midterm elections LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNnRzlvekcxWlREMEdHYk1lbzZORDRFeUpQMXQ3NmdZUlB6WmcwSmNTUmFHb0lNNm1qUXhTZjc2T3RSOGsxRUpzSFg4TGw4aWlkV3JldGFMWFdMbzBSd1R5Z2wzS1k0Rl9EM2tLRE9NclpJRV8zYlFBbDJsZXBURnRJSWI3aTloWmI1Q2VLN0VEdFRQT0tSVEVIUE9fZ1lwdVAwUTZjUkxiRGdwMjkxUlM0NG5yZkFyZ0xqYW92Z1Z0cGc?oc=5",
+      "published": "2026-09-10T13:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -237,13 +310,13 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well.",
-      "summary": "Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjV2eTB1YlJYVExWYWNKLUdlZ3JqU2V1eTRUTXpWVVFSeTNBMHFfS2IwWmtFUlgyRUxsclpqLXNKRnNONEVNQ29sTVJidkFiWkozT2ljRHUwRUJveTlLamRwcFh3TnlfOTFsU1F3czFZRWRlUVNRZm1CU2VJMk5BQTJn?oc=5",
-      "published": "2026-09-10T09:04:01+00:00",
+      "title": "Second pilot on Amazon cargo plane that overshot runway in Miami warned about speed, NTSB says",
+      "summary": "Second pilot on Amazon cargo plane that overshot runway in Miami warned about speed, NTSB says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGgwZmhzV3hWczlRSjgySkRYbnBpUDJ3ci1fQzhzSjhNQi15U3V6RTFNWjdtR3ZQWjRWWTRTSFlIazhzVkNDUWhVcGZZNEg4Slh6RTRXV0hZSFVFdVBMV0hRYjB2RzlRQzRUV0M3cDVrTG5tV0ptamlYbDZfOWVWVGtuYkh3TFlYOXhDNVp1bF9Rcm5KUXU3WGd4azJBS0NwU2Ytelh0UDE0TnRP?oc=5",
+      "published": "2026-09-10T11:21:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -258,30 +331,6 @@
       "published": "2026-09-10T07:12:52+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Military personnel accidentally triggered Air Force One emergency slide ahead of Trump’s flight to Dallas",
-      "summary": "Military personnel accidentally triggered Air Force One emergency slide ahead of Trump’s flight to Dallas NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3VtNElLM2tpcVB4Q1dETWJIUWZqSFdVd3VhNkEyLXZSZUJGZXZhN3RBVG5LaEJrV29pbWpkMWNPSzJzRHctQ19aSHl2Q0o3N1lFVEx3TkNTTkNkR1ZPNjhHd3NXQk43OGVLWE9DbDF6Tzl2X2VZRG1yUm1CRVY0ZmpNSXF2TUlsRjBxQXJJLWRKXzNwR183LWFsQXNUN19YdjlvMXNubnNYaWd5NW54TFJ0elptYjZnaXZHa3l3alFmcG9FZ1E?oc=5",
-      "published": "2026-09-10T03:14:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump admits anti-transgender attacks are one of GOP’s ‘great sound bites’",
-      "summary": "Trump admits anti-transgender attacks are one of GOP’s ‘great sound bites’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVJQZnEwdnhmQTNwcXp0eVFIWEVGdVpLTzc2RG5fNExodmc1dnNreTZzb21OWWpPVEIwVGVOUDAyNm5Gek5rcDRzYUFPcloydmpvcjI4OV9BT0F0RW1qRk51dW1JYzRVSEZxUENKVWxQTkJ3ZGowcXF3Ui1Od0FicnFoNm52Zw?oc=5",
-      "published": "2026-09-10T02:34:15+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -329,54 +378,6 @@
       "summary": "AI Is Working Its Way Into Everything. Can School Districts Really Ban It? Education Week",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXZubUM2UTBqakJiN09KSE5ETVpzMGxtbFdiUHVOT2U0eFVVeUlzb2E2MXN6ZHU0SEtaMzFiZlNuZk5Qak42NUlVMS1YYzlhRnpMUHVDdU5vS2JlVFFCb3JndTAwRlFVbDV3OWVfa0tSckphS0k4aUlmUjc1aGpuMndWaDB6eXZLS19Gb2plRjZncmpzRFRkY0x1XzVoN0FreEp0dEJBY1J4RUtHdC1lZ1I3LW8?oc=5",
       "published": "2026-09-09T20:35:46+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "What is AI’s role in the special education dispute resolution process?",
-      "summary": "What is AI’s role in the special education dispute resolution process? K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUlzZmg1bjBRZEpwNHdzZGJlenBNSzh1RzhLaG9RMms3blJnZ3VhbGE4cld1aG1mNkJhVEVETHhCeEZYM2xkdUxlZnJkX05mbjBwN3lrM01wTkZ1UFdvOFJ3QzZmdUc0UVZNUWxIOGV2MUhiZEUya2wtYkVzSzhHQW5JQUdpelZjZGNTSXFZNEpneHFYR0NUbnA3a0JSN2VSdDJOZg?oc=5",
-      "published": "2026-09-09T19:05:12+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack",
-      "summary": "An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcl9NLU1IYjdjTDk1VDM1blJFMkRuMnJSSlFqbkowZUtFVjNyMzZ3SjBGSTVqR2gzSWYzR0daNms4OG84aGNmU3Y2d0ZvS2ZSRnU5WkQwdkxJaTVtUWl4Y1JmSEJybEkwWk5ybWoxb0VMTEFObFFVdGs5NExkYkJaeFFPaHpuTnJESWFCRW1lMGVhX29jZGlpeFRYTzFqNURKbzM3Q2lRR1I5VmI4d0duMkVWbDduaDMwdlJMTw?oc=5",
-      "published": "2026-09-09T18:18:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "‘I’m listening hard’: Teens increasingly turn to AI chatbots for mental health support",
-      "summary": "‘I’m listening hard’: Teens increasingly turn to AI chatbots for mental health support EdSource",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHb1lQUXdkQ1dObDRNQ1JQVWd1MVZYNENIa09rZVh5eERRWHh1MGcwQk8tVFEtRHVlOFFPM2RwbmtTeF9TdzVKU01OVmJyRUtyVmZNNHRYdXBZQ045R0hvR0hRWHhEd0pSVk1J0gFzQVVfeXFMTktGT1V4aHIwRzJZUk4xNlNlSm9McG40RXc3UkUyMmZpWHhLNGRrMUN6WXlUQVBGRHQ2S2xMTG1nUC04N3pWNEs1dVVwSXJ4Ry1aRVg3enlYcERmZGdvLWVuQjBDck9HM1MyenNYdnJkeGc0cw?oc=5",
-      "published": "2026-09-09T18:16:38+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: California approves funding for first-of-its-kind childcare district in Riverside County",
-      "summary": "UPDATE: California approves funding for first-of-its-kind childcare district in Riverside County EdSource",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbF9LRUhoSTg1Rm9aaEZFa0Zib3VjLVNBR0lscUdTWGFuYUs4LVotZGVnOTBQd3lLRHVMelgzTUpJNklTUE1WM2ZiNktCcWt4anJPeUdQOWVhTEJTamxXRWZIcHZEczQ4WTJheXdORUtiRDh3LXFCNnAxbHpaNFliTFRrTW9GaUR3aVVzbWJqTHdxeXNEZ3BpYzRhM21mbnlNVnRucHpKcGhHbFM2aTNv?oc=5",
-      "published": "2026-09-09T18:16:35+00:00",
       "beats": [
         "Schools"
       ]
