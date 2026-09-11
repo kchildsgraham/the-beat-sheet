@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T03:34:14.333175+00:00",
+  "updated_at": "2026-09-11T08:42:25.535757+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Buildings are sinking and cracking in one of Europe’s largest cities",
+      "summary": "Buildings are sinking and cracking in one of Europe’s largest cities cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGx4UWkzMWpEWm5iWnRlc0h5eVV1Vy1pN1JEdEFvaHJoN0VwczV3TkVBVk0yOTVHZGdmbDRieVBrXzdpUDlWRXpQa3BkNU9wZXk3Qm5BQ2pqUGg0dmRXRndxczg2RzJndWR0MTQ1LVIwMm94TEo4V1dud0U3YTVoQ1JxNE54dmt6STdtTExKR3pqaDQ?oc=5",
+      "published": "2026-09-11T08:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-      "summary": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDdpRzBrT19IbmVjTHhNTlVZTGl6TjdqWFF3a1o2MnBrMmJSUHdEaWRVUnpJVjNyNGdra0thd2RuQnJOWWl1czBKTXlPNDR3TVJXbHR2OWpvNU9wbmxFZEpOQnVpejJaQnhseS1rSmVfMWRIOFp0WTJKczNVUml3SnFKcjdnZUF20gGOAUFVX3lxTE92bWZWZzlSTGIwYnBDM3lTSHctMFNNdFhsTm5GUXNNcGpwYi0zQ3E3YXF5bllSdGRvUDlkMnlnODBXcGRTS3FMWmtldFlJeUF1XzZBcGc1a01aM2s3OFlXSHMteWpGQTcyd2RlckducjNOU1NOc2s5aWFKakF3b0xINFJhTW9Gd1o4Uk5wY2c?oc=5",
-      "published": "2026-09-11T01:43:00+00:00",
+      "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
+      "summary": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek9kZ3lRd2R6TVpxbzRyVGFuUTdtMV9Vek4yOE9peFBWNXJiQkczeVNwUjlIZjBOSGtXa3RRMmVOXzFDdVBSTUhEOUlZU1JReTl1V19vbjcwdDRucTgzT1hhRUM0UEtFVmRHR3B5OVVrbkxFcG5MZmpwb1I1SFJGUlFEUjFPd0ZOSWF3?oc=5",
+      "published": "2026-09-11T07:43:24+00:00",
       "beats": [
         "Business"
       ]
@@ -35,22 +47,34 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-      "summary": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejBtWVJJM0FaVE1na1ZraVQyeGVtQ1hvMlNiWmtPNnlMOWpjSVNQd1RrTExGVEV0WkdxSzlvcTlvdXJ0ZTJKWldhaHR4cTJNQW1KYnE2b1FEb1UwNjhtSTlaQ0NYcjRzakpBMDdLZHJUYnU3eHh1Q3B6cEFGR2RNbmR6ZkJwNEQxQzNtN0V4dXdhSzZXM2Fzc2N30gGfAUFVX3lxTE1MV0hvR01OcmtRck11Z0dzSk1hRGhWcTJMRHlvWUdWVmRxQVB3c29KVUpUaHBHRHJvTU1BbWRXeHRYXy1iNG9kVjNXOVoxaHJUY0llejd0dmhfdlZzS2VOUXhEN3VNU0tmUmNrNEs4bk1VX3VOTUZaYV92QjdkZFZlOTMtLUhRWkN1a1padVdPOHFUQW9YNDczZWljcVZwSQ?oc=5",
-      "published": "2026-09-11T01:37:00+00:00",
+      "title": "CNBC Daily Open: Two market forces battle for dominance",
+      "summary": "CNBC Daily Open: Two market forces battle for dominance CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0FkYVB2ZVZyTGlBVGxzd1o4Q2dOakFCSHB2VjJWUTdNcXZOVFN0UXJ0ZC0wSTEzYktCZHpiZFYzZGlDSFZhQmRJdXpWS1V1amFoMXRzSDZ2eXBNSFVjRmVWUGprQXdxNURlajJscG9LclRmN1FPVy1DSlNiX0FRcGwzYkZma3NGQW0xMzFJeGVnY1BwSlHSAZsBQVVfeXFMTVdteWJiNEJDcktJaDctanBfOU5mNkpOdE1nMHV0RUI2QWNCY1piSXB3YkRKTjNmcEVvVXk2eUZBM0h3SVZJQlRidGVORWdJbXFsaG5hWkFsODFKM0RzMDh0aEl6SUZxYk9XUUQ1UDJxVGFLTk9BNzRBZUJpX0ptaHRXODVmVHJTQkFtamxBTmRIVndRODJFMFN3SVk?oc=5",
+      "published": "2026-09-11T06:18:02+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-      "summary": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVd0QmhZYjdKejdISGxEbEVXOGNpcDlkZlVRV0M5N013T012blR0bHlEeUNmMS1LTWVzU29DTk41TmoyMG5CWVF3aWpBOUFMbmtINkd4VVFqaXRpQ2ZYb3dWU0dSSlpNQ2RRYlBudjdXeHVnYWt0YTVpV1M5SXloZnNKbmRKTFdIcEEtWGMwaC1ZQdIBlwFBVV95cUxQX0JhaE5BWS1pWGViM3JGTmR2VVFiRTljTS1Ub19WNFR2Mmw4OUhwV25XVnVFUklTcURvME02bWFfZFZrVExCTU1rNWpjNUZWeExtX0tMR0dWdHJMTC14UjZmOVhMUHhPRld2VUF5ZC1nODU2US1ZZDdjZzlEdW1aY0VUWkllZ2pXV1hCVXdQTXRFYXM5OUE4?oc=5",
-      "published": "2026-09-11T00:48:00+00:00",
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "summary": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5",
+      "published": "2026-09-11T06:02:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "summary": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen NPR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TWk9Nd1hrUGtuUEZGdHVTSWtfWWtKTkxuWUlSUENHYnd6dy1acXBuM3diWU5SZTcwbFRYSjRGeG82SnV1NUw5eUVXMlFOcHhCcmNSWWEtZURFblB2RGdDQ2RKOFNOWTBUMkhTRjVKd1Y?oc=5",
+      "published": "2026-09-11T05:40:21+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,10 +83,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Fetterman’s GOP convention video caught even some of his staffers off guard",
-      "summary": "Fetterman’s GOP convention video caught even some of his staffers off guard cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUdEExaGQ4d2lRNExYWGF6N3ROQXZpTGNEa1A3TDhFQ201Zk5iN3E1VUJwNjYzVklvbUliNEptTmV2Q3pnMnkzbWVwX1R0SFp6MU4weXBkQ1VGNUk3ZUtvdHgxZWtGU3ZiN1JzRDdPVmFjUjk3aGEzVkp3?oc=5",
-      "published": "2026-09-10T22:01:06+00:00",
+      "title": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night",
+      "summary": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXRnRFB0Y3BGakdyZE94X2FhVVRLd3JLbGZld0FCeWNEZFNITUFvbmJnZGFJOEJScnlYNGZwOHBGal80Sm1iN2o3OXJhM2FwWWtjaDB2S0NBQ3I4TWYtc0pjak9oaXRMSE1ZOGZha2RkYVJFV0VxSGFsbnpOTHFlNWpWSVRkX1J1eTJOaHJzRnlFZw?oc=5",
+      "published": "2026-09-11T04:44:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Even if it’s real, Trump’s new Ukraine push is already being undermined by events",
+      "summary": "Even if it’s real, Trump’s new Ukraine push is already being undermined by events cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSWFFLTNybWQtb2c2VUZ4dFdXTGZoNF9EUjc5emphNC1BN1ZmNVhpTTFGZ2p4ZlQwbDVQR0tPZk9CMzItb1JSRFV3dVNjTHp4MGw3UGhyUExHVEdIV3Z6ZmFKOEl2N0ttekEtenVCYW5iTlg1SzI2dVdIUGpFVnpUZm5JTW92Zw?oc=5",
+      "published": "2026-09-11T04:01:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,42 +119,6 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "This summer was hot. August shattered global heat records",
-      "summary": "This summer was hot. August shattered global heat records NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mS0dISHk5dTUzYnEzTy1GTmhyVWFVNkhtYXdvVVg4ekpnYWFST1FEOEVmcXIzakROSXVRd2ZvTi14OTQ4T0d4eHpSNkNhSTNmbUprWUFvZXZjd25raWI4SlhYWWFHQ3VHNlZnWG5WY1BodkdpNm9ONEFEdw?oc=5",
-      "published": "2026-09-10T21:30:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump officials scramble to manage fallout after his $5K check pledge to all Americans",
-      "summary": "Trump officials scramble to manage fallout after his $5K check pledge to all Americans cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wQW1WUnFmY2xSMEMxWFgzeWp6NVlNYm44S2diSWVYY3cxZXdWajVTajAxd1NXODl6WmI3VHlPV2NZN1hIMkwtVlBWMER5YVJxUk5SaUJ4amhxbWpWTnlZaEZCWDQ4RV9l?oc=5",
-      "published": "2026-09-10T21:24:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump admin pick to oversee a conspiracy investigation into president’s foes resigns after DOJ clashes",
-      "summary": "Trump admin pick to oversee a conspiracy investigation into president’s foes resigns after DOJ clashes cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFcTdfQW5EVmNxbTZidVFiR2daRi1DeGl4dmY2MEFENkptcDU1eTZsVFN4bGZORk4wbmtNaXh6MWZmclo1SXdmRVp1ejhvUHBoSlUzTUQxWnhibXRDNDFaUVhHRDlEZVhxYmFEZEUtVVZjODEydnE0TjJjc0FZYm8?oc=5",
-      "published": "2026-09-10T21:08:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
       "title": "Lawsuit challenges intimidation of DHS observers across the country",
       "summary": "Lawsuit challenges intimidation of DHS observers across the country NPR",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1RRMGF0cE9SVmR0bENFX3RPaHhadFNuOUNoY2lnektjWTlDWkxjVjNqQ3F1YVhfTTJXNnRlbDNqWUUtUTd6S1FUNUZSNEtWQ0ZjRm82S25DLVZfUWtmOEVQdVhRdmJNS1A1RFV1OG1GV3daeUhLT2tncEJtYXFiMGpzV3BmN3dEci1V?oc=5",
@@ -128,15 +128,27 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "He won “Mister Gay Ogunquit Best Butt” & now he’s basking in his gluteus glory",
-      "summary": "He won “Mister Gay Ogunquit Best Butt” & now he’s basking in his gluteus glory queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeG9yU3VkaTdnal92eE5kMEZOUTE0ODB0NVR4LTFiVU5JMlQtbW5zX01zaE5lTWpmYTByMWdYRnVXc0pkOHUzTkR1bHpXZEthdHRkR2pZak5JR2hCcmJkX3h5QUZ2ODMwd3o3czRBT3JQZUc0cWZQTlhUVmJwZU0wMUVGLVVyQThQcGFPWHpfdUFYSW0wb0R0R1RDRFJDUTRGX2M1Vg?oc=5",
-      "published": "2026-09-10T21:00:00+00:00",
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Diesel prices are nearing $6 a gallon for the first time ever",
+      "summary": "Diesel prices are nearing $6 a gallon for the first time ever CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1UllOUmRnRTJ2NGV0QmV2SENfMV94N3RNNWZldFEwV1cwbThGb0ZaUmltM2MweWM2NUNEUkpodl8xdGhVVHJOUjExcVN3NC1XazQ2WnBvRkU5RTU1R1YwTXMzRDVsMjd1U2tZZjZWRmU2cE9M?oc=5",
+      "published": "2026-09-10T21:05:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "When Should Students Take Algebra? New Research Offers Clues",
+      "summary": "When Should Students Take Algebra? New Research Offers Clues Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRpR0FhTzVJeHZRbmp5RjVtZkZNN3VVYzlDSFlfbENKTExZTVZ1aGZqUnVLejBrdGlMMl9udDBkV1h6emtUS0FoVDRCQVhtbDV6U2VlUFpjNXFFNGR3bUo5TjJJd0pYWDBHMTJ5WURlUlZycHpTUHp0MHdwcTR1b1hwaGFOYXFndWFrclZVQTR6cGR5N2k1M1VJaUljNG5OTGJnODdRM1dtWEE0?oc=5",
+      "published": "2026-09-10T19:50:48+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -144,7 +156,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Trump’s $5,000 midterm campaign promise is an immediate flop",
-      "summary": "Trump’s $5,000 midterm campaign promise is an immediate flop advocate.com",
+      "summary": "Trump’s $5,000 midterm campaign promise is an immediate flop Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpdlB2alU3N09lUUdfQmNRa1RMMDIyZ2dPZWEyb1VvR2dJbUEwOGdqX2pTTS1jR0s5ZFpGdnJtUk9jcDhlbVYyNEJxQ0J4bFQ2SnVmRHczOGVxVEVraVhDQ3FBMk52ZUxZZEFTbTFMc3FuSUlFSWlJ?oc=5",
       "published": "2026-09-10T18:29:06+00:00",
       "beats": [
@@ -180,6 +192,18 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
+      "title": "Oops! Grindr goes down during the RNC after surprise thirst trap",
+      "summary": "Oops! Grindr goes down during the RNC after surprise thirst trap queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEFpYlJmQ3A3WjR5TlZraFFhUlFQT29mdU5sSkptUUMtc0dmaVpHMFNHUGp1Ry1RSWJmSkZ3a0ZXTE5nSTdKUUhIeGlYT29ZVjlneWpMN1dhUEYxdmR4c3huckRCTGE4V1RjUFlQZ0xZNEUwLWVhRUVrRWhWbHJYNDlZUkwxeXZvZkN1SVN1Sm9Za0JMSlI0bFdDWWlLR2k1Qmlz?oc=5",
+      "published": "2026-09-10T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
       "title": "Annapurna Sriram on creating the trashy world of F*cktoys, horny cinema & working with the \"divine\" François Arnaud",
       "summary": "Annapurna Sriram on creating the trashy world of F*cktoys, horny cinema & working with the \"divine\" François Arnaud queerty.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc1RBejFNakZrVWd1VDRfc1dIUTNpcDVGQnEwWWdROVRPckxpN3kwRHYxT0sxejJDVEwyQ1M3bDNjX3BaaXBjZ1VfRWZhbFNXT19lM1ExOUZka2VvSlhqNHhLZ0Z3NzZzbFNiSVNjcWNDYVNMa29pLS12UXZSclVpLWM1RjcwZ3JZMDBGbDBNNUNXbkhxRi1lbERiQ2xJUUJvWnJBUzV1RlFwM1ViOEJtWjlMdFlVS2R2VFNmOF9sT2ptdEZmWS1QWlZ4ajJVN3picERN?oc=5",
@@ -193,7 +217,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "James Talarico walks back trans athlete position, citing ‘safety’ and ‘fairness’",
-      "summary": "James Talarico walks back trans athlete position, citing ‘safety’ and ‘fairness’ advocate.com",
+      "summary": "James Talarico walks back trans athlete position, citing ‘safety’ and ‘fairness’ Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnBaWW9yWGxyQkxyZkpmLTNQTUl3THB1Y3dzTFUxSV93NjRYZm9HNjdSaGk5WFdWbmxwaGpKeWVYaVBrRndHaFRmd3lxNWdBdGx2bk4yNkwxX1d2Y1NKbE0yMjRuNTZfVVYwaTBFdWhMbkwtM3BLb1VFQXAzY1FBbkNSLWVlaVVldHpv?oc=5",
       "published": "2026-09-10T14:22:39+00:00",
       "beats": [
@@ -204,10 +228,10 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Second pilot on Amazon cargo plane that overshot runway in Miami warned about speed, NTSB says",
-      "summary": "Second pilot on Amazon cargo plane that overshot runway in Miami warned about speed, NTSB says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGgwZmhzV3hWczlRSjgySkRYbnBpUDJ3ci1fQzhzSjhNQi15U3V6RTFNWjdtR3ZQWjRWWTRTSFlIazhzVkNDUWhVcGZZNEg4Slh6RTRXV0hZSFVFdVBMV0hRYjB2RzlRQzRUV0M3cDVrTG5tV0ptamlYbDZfOWVWVGtuYkh3TFlYOXhDNVp1bF9Rcm5KUXU3WGd4azJBS0NwU2Ytelh0UDE0TnRP?oc=5",
-      "published": "2026-09-10T11:21:00+00:00",
+      "title": "Gold Star family calls on Army to release internal probe into deadly attack on Kuwait base: \"My son died unnecessarily\"",
+      "summary": "Gold Star family calls on Army to release internal probe into deadly attack on Kuwait base: \"My son died unnecessarily\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW14MnZNcWx3b0xubnFVbXVxMlpZTmloNk1GbWRRcmt0c004dy1DbzItLU9pRXc3c1Y1MElkek1mY2pQeWJoOWp3V0VzdC1EanFOaVdzNWIyRW9aY3dXUEI0dEpEVjdReHlvOU1ORXYyNHhUSW1YbGxFQnNheGZLcnBCWUNBTExldFVwRWFyRTlpbUx1a3VnT2lwM1VCM3VlaXpMWWhGZmJKX0RoTkFpV0dRTmd5dw?oc=5",
+      "published": "2026-09-10T12:06:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -237,13 +261,13 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "At RNC midterm convention, Trump pitches $5,000 payments to U.S. citizens — but only if GOP wins House and Senate",
-      "summary": "At RNC midterm convention, Trump pitches $5,000 payments to U.S. citizens — but only if GOP wins House and Senate CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFZsTUcyQmRtWFFaeUp0MU1tZnhMLUtlTHBVQ0NVQTBhbDk0Q0x5aTlGSm9jT1NJRGNzWW1WN3ZNZTBlQXZKRkwtdHFTblI0OTd1NHBBUjh4SnlPZFMxWHpqNW9TeUhhbVBmbU1mZzNuS1I1WG5HNmFHcjhyZE9DWDFqTHh0OVk?oc=5",
-      "published": "2026-09-10T02:48:00+00:00",
+      "title": "Military personnel accidentally triggered Air Force One emergency slide ahead of Trump’s flight to Dallas",
+      "summary": "Military personnel accidentally triggered Air Force One emergency slide ahead of Trump’s flight to Dallas NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3VtNElLM2tpcVB4Q1dETWJIUWZqSFdVd3VhNkEyLXZSZUJGZXZhN3RBVG5LaEJrV29pbWpkMWNPSzJzRHctQ19aSHl2Q0o3N1lFVEx3TkNTTkNkR1ZPNjhHd3NXQk43OGVLWE9DbDF6Tzl2X2VZRG1yUm1CRVY0ZmpNSXF2TUlsRjBxQXJJLWRKXzNwR183LWFsQXNUN19YdjlvMXNubnNYaWd5NW54TFJ0elptYjZnaXZHa3l3alFmcG9FZ1E?oc=5",
+      "published": "2026-09-10T03:14:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -253,7 +277,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Trump admits anti-transgender attacks are one of GOP’s ‘great sound bites’",
-      "summary": "Trump admits anti-transgender attacks are one of GOP’s ‘great sound bites’ advocate.com",
+      "summary": "Trump admits anti-transgender attacks are one of GOP’s ‘great sound bites’ Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVJQZnEwdnhmQTNwcXp0eVFIWEVGdVpLTzc2RG5fNExodmc1dnNreTZzb21OWWpPVEIwVGVOUDAyNm5Gek5rcDRzYUFPcloydmpvcjI4OV9BT0F0RW1qRk51dW1JYzRVSEZxUENKVWxQTkJ3ZGowcXF3Ui1Od0FicnFoNm52Zw?oc=5",
       "published": "2026-09-10T02:34:15+00:00",
       "beats": [
@@ -270,18 +294,6 @@
       "published": "2026-09-10T02:02:26+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Sen. John Fetterman makes a surprise cameo praising Republicans at the GOP convention",
-      "summary": "Sen. John Fetterman makes a surprise cameo praising Republicans at the GOP convention NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTJRc3QybGFPX1ZDR21uWmtFY0UtRjFlM2dCVEZyUGlNLUZpQWZWcFUwNmgzTl9TUjdhTmNIcmF2dnUxWHR6bnFCNHM2cVBvMlgyLUI3QU55VDlpMDRtaHF6SXVXa0FWRTVyOUJjSkJaandJcnZDbmtlamFrc2xYOTRvVDlBM0dGTEh4TWVsR1ZEUXBrVThOVFRtRnd1QXBsNTVRSTFSdFRiTk50MnNMSWp0VXBkNk9TX0dyWmxkQ2huazc2dVE?oc=5",
-      "published": "2026-09-09T23:19:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -367,18 +379,6 @@
       "published": "2026-09-09T18:16:35+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Apple announces long-awaited foldable iPhone Duo",
-      "summary": "Apple announces long-awaited foldable iPhone Duo NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWw3ZjFHSHNwVVJ2T0lvd3h2d2lyem9JdXpDbTRtTUhPQ3BlVThOTlEzeWFxTVZ6S3A2eHJzOW41UmRiTDczNXk3VWh6enBYYk9MaFh4aXJzcDczeDFnZTJLTVM5bEhDOUpqMnUwWXdzYlVLVjNMLVBuYXp0dmd3X0VSclIwRDNpUERIdklUdFlLemk0Z2R5TVJfdFM4S2IwdGhF?oc=5",
-      "published": "2026-09-09T17:18:39+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
