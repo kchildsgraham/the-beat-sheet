@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:06:07.110538+00:00",
+  "updated_at": "2026-09-12T13:01:02.113564+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,37 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+      "summary": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85SzFTM3ZiaW5HTmZRQ1ZTTTNTbVdqZ045Sy1UTy1BUDhXV29xRmUtWmlsLVBJY0ZZbUw0WnRtMlVpYU5USGpsNHJ1OWVUX29LeGVfTlo4T1BEZFFVUDAzN1VManF2SmJBbXJtT0JnaHBhU0F3RnRBYTBDOA?oc=5",
+      "published": "2026-09-12T10:55:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa",
-      "summary": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUZHYVN0YlpFbldScWV3ZWhiVzhTWUJQYmJRbk1wX0UyQzF2V0pBOTZJMF9zWHpaRkctT1UzRzVWckliWnU1UllkZy1xdXBHRkM4YXhKVWk5cWlMcGFEQ2d2RjUxUmhMRXg5MlhVVF94b2JVZ2hVc21zZ1dLdDRueQ?oc=5",
-      "published": "2026-09-12T06:00:29+00:00",
+      "title": "What we know about when Mitch McConnell will return to the Senate",
+      "summary": "What we know about when Mitch McConnell will return to the Senate CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tY0JFc3hNVmwxNGFDS1hBY2ZvUS1ja1owZzRUcmpvdk56eWU3Z3NldktodHAxSGZhZ1UzQ3NQVEVPTjVXSUFQS0RpOWxaRzk0Y0tSa0RRUXJkQkwzZWd1S2xHdGcyUlliWjhlWEZDYzdIMy1aai1qUg?oc=5",
+      "published": "2026-09-12T10:30:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "JD Vance embraces tricky role as Trump’s midterm messenger — and potential successor",
+      "summary": "JD Vance embraces tricky role as Trump’s midterm messenger — and potential successor CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEpVRE1qMWd6SllpNlJLSjcwOHg1SlFkdEhWc2FXdXpzQnFnVFRzMUdtNTA4dXBLWVIySWNUeXZDOVc5bGR5M2NEeDk3QjZBaHNwOUQxY2NCOENkZTR3dENsTkgtcG9jbzFzbEoxN2ZQNENMajBnWV82aFVRWmtpSGdfMG4?oc=5",
+      "published": "2026-09-12T09:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +59,46 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
-      "summary": "Yemen's Houthis capture a Red Sea island in threat to shipping NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZW1oRU43TWZHOUU5T3dGZlNMSGV4NWZTLVpKbnRrU3JzTzllNFlUdFdYX3hGN0JCdEJrV2NrcUZJQk1GeHRXaTR3SUFFMU1XNVpxZFlib0xtbVZFQUp4b21zSUlNYVR6d19Pa0hpMkdNRVBGeEVYSUlNcmRaci04T2hJSUduR3c?oc=5",
-      "published": "2026-09-12T05:57:08+00:00",
+      "title": "Why are the people building the most powerful AI so worried about what it could do?",
+      "summary": "Why are the people building the most powerful AI so worried about what it could do? NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2dEZVQ3TDM1QTVfdTlRQ09QSWhCWnN1ODIwQzdEUTJxTEpGLVI4Qlp0WnVfaTdEdHEyNHdQcWNoNS1FajdpaVU1WWtPcTZ1ZXJWYXBsRzlrZi1jaWZNdEY0S1MtZmQxSVRtdlZHOFV6aW54TUJHWEJDOExGY2l1V25LYmYtNUlic1B4MFNrUklaaVk?oc=5",
+      "published": "2026-09-12T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+      "summary": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5",
+      "published": "2026-09-12T08:44:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "President Trump says Irish reunification ‘would be a fantastic thing,’ during visit to Ireland",
+      "summary": "President Trump says Irish reunification ‘would be a fantastic thing,’ during visit to Ireland CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2pkc011eUJQNXl5dGZUWGQzWktnNnQ1ZlhDLVJYclRpTk9pSUp6c2Z4WVA2aDRiX3FhVUZIX0xVRi1CYk5jcHNGM3BRUG92SzNmb1AwVHdZT091cnlkcF82bzJVRmNkbTg2cmxJTzk2UlN1d01ySFJrUWdjb3E5Z1czUmI?oc=5",
+      "published": "2026-09-12T07:59:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump's America-first world is pushing other powers to hedge their bets",
+      "summary": "Trump's America-first world is pushing other powers to hedge their bets cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZSmZ2d3RMUHVOQTYwM0dtaU9PcmJQOU9JRTRGSm5KemhLMTlldTN5RDlmZW5HSk1ULWV1d2hkeGxyU0VqYTlwU2tmbjBqSmdTbUQwY2lPTmxpNm9UQ3YyWG16U2J6QnR6bnJkY1VqSnJvOGpHWUNId9IBfkFVX3lxTE1qeXFTZlNDUXllYXVFMFNwUHd2bEMzbW42OEdMaVBnejVRMFNTR3hLaEYzSHVISERlUmg4WS1Vam5rUzVkZEpaUUdxMzVuOE9GUUl2Q3FnOWpESFVhMWUtel9oakxMcFdGLUg5NTlMOGN1OFRQTVdRUjBSSE9pdw?oc=5",
+      "published": "2026-09-12T05:58:37+00:00",
       "beats": [
         "Politics"
       ]
@@ -48,47 +108,11 @@
       "source_feed": "CNBC",
       "lane": "General",
       "title": "Russia, Trump and a battle over welfare loom over Sweden’s election",
-      "summary": "Russia, Trump and a battle over welfare loom over Sweden’s election CNBC",
+      "summary": "Russia, Trump and a battle over welfare loom over Sweden’s election cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3lNdjFuRDNlb21feUwxRVg2RFdXUDVIY2Z0NDdiVFJtWDFRY2RFSVZBZ0F4TVpMT1g1bnV1OUtnbVk0RmZrbXdjLTFpNk9GMW5tV090c1ozZjZsbDZHbWxLUDJ3Ni1rYkpwWlAzRW5zNHFubGdtZi1LalFyc1hOVHNkX09UaENF0gGOAUFVX3lxTE9IWlhQUnplR0JjQm5aMVJlbkl0ZXFfTjJjRTV4c280R1ZLQVpJT0ZUVXpDLUF3TWhoQzA5WDlkWjVkNnJlRTFickkyalk5SmtRV2dqRmR2clV4dTJoR2Q1ZV9qeFhwVVIwX20xSWZJRHJDT0dRM3doT3lsc2w3akdxZkdsVVppbHZnRDlKbmc?oc=5",
       "published": "2026-09-12T05:00:01+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast",
-      "summary": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNC00UEttX2RuYWVWaEl5T2RhZkpyWXFNYzA3MEt0OW9CX25ialVsSkphTk84eGl2R2NXTlhycHJPN1NQNjIwVEZHVGdqeG1vY3dYTmNTcGk3blAxTU1qRmg5WDFUSF8zanU4NHBmS19jYWthUGlSWXJlU2ZWaHc?oc=5",
-      "published": "2026-09-12T04:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "GOP and Democratic officials in Nashville unite over renaming airport for Dolly Parton",
-      "summary": "GOP and Democratic officials in Nashville unite over renaming airport for Dolly Parton CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXk3aE5PRVNCOFc0b0VVLV9ISjFqUGNxMnBCM0t4WGhfdlcxV3JLbUNacnlzQlUweTlpLXZ6NGNNSjRYVkV5MHBzYmcwYXJPT01aaExCRWRKd1ljX2w2RmVpOXpWODcwLXB0emVSdmQ2MnFtcXZxS1NFVlJmS281V3AyQS1JMDNWdWZRZ1FRY0ZzZw?oc=5",
-      "published": "2026-09-12T03:34:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock",
-      "summary": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zR2VMZlJwWXhpVS1nM3NVZlhScXZtc1FYWVBEM1p5RUhjTDh4TWxEdS1ZVzB6N0RmNFFoeXhpbTJOM0EwOElHWEp6VWRBVkRuN3c1TW5tbHhaMnBiQ0NIN0NKaEJNRllsUmh4aEEycWVlQTZGRGl6OWpFRG5oaWvSAYQBQVVfeXFMTWVZQ096UGxxbU5DbmN5dzI5ZDFwRVZFbFA3am9SR3I2WkpkSnM5RUxkLVNUaDFCU3hiMS1OZ3d3VktQM1IwLXBlU2tKaFFCdjJCMzMzRUs5YmtDdjNFeWJvMFdacXpJMTV4RXlvSWtWRHdYeHplT05KOG91OXlYdldkNFJL?oc=5",
-      "published": "2026-09-12T01:36:00+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -104,31 +128,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Appellate court clears way for Oklahoma divisive concepts law",
-      "summary": "Appellate court clears way for Oklahoma divisive concepts law K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMm9PMHUzQm9tWVAxSDBrSE1VNTQ5UGJOT3Z1OHVhVUg3ZkZhYmFnTTU3LWNTTmd6RzZFRGk3c1lJMHdTLV80blFua1lNa3Z6LVlOaEQ0SGxheVluQ2oyelh2YkU5Z3dSSlNZSEd5QjE5ZlVsRmtQT3c4aExBQnNIWWNBbW5BLUQtLUlZSEVjSXZSeEE1aFlMNmRPVlBOb0k?oc=5",
-      "published": "2026-09-11T22:35:39+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-      "summary": "How shofars became the spiritual soundtrack of Rosh Hashanah NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUElHVzdiT0FTM1FQZy1BSGxCUHExMWJveEREUUtxNGtsbFNmRGZCR25kMmJ3M0ZLVHJwb0Jmb2lheG83bm1mQVQtbVlBNmNLbTNKdUVuT3hGTUNGc0pyZlVtQ2FyTlZ3NzFselVXUUJBcVM1X2xDYUZzdm12SkxzUFRMZk5hQkcxdkRzNl81ZjhhMDE2NUxUVEJsMzRPMU1kTG5qNmNUTks?oc=5",
-      "published": "2026-09-11T20:29:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -138,30 +137,6 @@
       "published": "2026-09-11T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-      "summary": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUGplTllYUzJCdTI5bTZ3aU9ySkpzV2VLQWFwLXc1VnBaS1JhZW9wVy1OUGIwWDFyWVBacFVfYXZYekVPZ0dXZVNPQS13V2xQVUFORFBlNkdXMG9nMDUyVGlNX1lHYzMxNGxxT2tiLU5KYy13dXc?oc=5",
-      "published": "2026-09-11T19:39:35+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "See how your income tax bracket could change for 2027",
-      "summary": "See how your income tax bracket could change for 2027 CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdVJlbm11Y1hFUi1PRjh3bktRb0VqWEFaMTJYbGNGWXMxTTBNS0tpUDJsNFRHZ3VWLW54ZHBIOWd4Wmt2RkdpUTJJT0tQdXVtTWYyNVprSnVhRmFJSGJxX1IzeGlBSEViSUlPWjUzckh1V3B5LU5rYjFJLW9NQQ?oc=5",
-      "published": "2026-09-11T19:28:32+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -189,27 +164,27 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-      "summary": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTlEWk83M3ZzR1Q5bW14a1FaUGZIWWM2T0dlUlJPdC1jaXh0UVFiZzgtU0tXdlp1TmZoN2FQejFMWlFITUh4a0tWUXo4YmNLaTVtZE9SMFcwVnd4YmdRUHpGUXRtZGI1bHRvMTlLczBDYjdpQ01SbzVydDVYLXp4eWZkQmZ0TlZOcklfd0twSVpGZw?oc=5",
-      "published": "2026-09-11T18:41:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits?",
       "summary": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NLdndhUmhiX1lGLUFfdWZwZmVHc3puSlFXYnFNU3ZZSUZ3cFQ0YjMyMFZQX0VpYlBLZUNsd0J4ZXRBTTlYRnVOSmdvR3RoVE9OX1g5VGZwR1ZUYzF6ejBaRW1NWXh2X0VTWGQwRjZiVi10VWlseV9MMmN4NzBnQU1PVlQ4ek50YUNYTw?oc=5",
-      "published": "2026-09-11T16:42:10+00:00",
+      "published": "2026-09-11T17:37:38+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "‘High T’ Pete Hegseth’s approval rating hits embarrassing low",
+      "summary": "‘High T’ Pete Hegseth’s approval rating hits embarrassing low Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DT3JGajJwRnlESXhVdUZFMnZPUEpVM1lBeVh5TVAxOU1PQTNXNnVkN3lBU2JJVW9tVXlPSHMzeEY3eE02Q0FTaFZSWmh1WDNyUFVzcUlDb25ySHZqaElOWDBVRlJtdE4tV25IckZYNnhVb0p1SjFEOVNKRQ?oc=5",
+      "published": "2026-09-11T16:25:17+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -242,11 +217,23 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Shrinking Education Department offers state decision-making playbook",
-      "summary": "Shrinking Education Department offers state decision-making playbook K-12 Dive",
+      "summary": "Shrinking Education Department offers state decision-making playbook k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1RRNXQ2RUR4bloxZm1Za2VKa3NsMmRLakZianFhaVktNGY3blQwLW13akpGYVprZnNsdnFtcVUxZk1wSTVodXVYU0pvdURZTkg0bGlHVmdLWGdtdUFYbE9OenJlWDJfTWpkNHRHd0c4eEt1OWxldDlZZVlQa3VVNUZxWEhaTGNNd3N1ckVfU0dUdw?oc=5",
       "published": "2026-09-11T13:30:37+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "She made the historic first call from a hijacked plane on 9/11. 25 years later, her family met the woman who answered.",
+      "summary": "She made the historic first call from a hijacked plane on 9/11. 25 years later, her family met the woman who answered. CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmlYRVdXNEFkZkdJajV3U2V2XzFwYU9ZY3JZLTZqbWsyNDZwSTJZb2tJVGdLQTRfREdpbW03NnJkcktyclAwUkRRSUNydmtoZVlmSms4TERyQmRGZk1GNlBCSHF3MmEyX0k0THBRdGJVMmpWVEhuZnlDcVVLZjhvN2licE1UVXlBWGdRMlBnSlNGYnJEZ3RUcldZQUc?oc=5",
+      "published": "2026-09-11T13:21:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -360,6 +347,18 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Anti-Muslim rhetoric is finding a growing foothold in GOP messaging ahead of November",
+      "summary": "Anti-Muslim rhetoric is finding a growing foothold in GOP messaging ahead of November NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWhaekUwMDVQQy1aUEV5aXdYdlg3R3A3NTJaYU94MTJDc0k3MmZWVzhDbGplVG4yM1MxZTNScC1yRWhZNlkwcDVLRGZyQmV5THhJdkNJTVRQdW5MU3k3X0h5V3Vpb1dTTjZubThOWk5NZG5kTWNYSzdjSERnRHZuMmZwMHpOb216SzF3?oc=5",
+      "published": "2026-09-10T20:07:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -375,10 +374,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map",
-      "summary": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
-      "published": "2026-09-10T19:15:50+00:00",
+      "title": "Sons of 9/11 firefighter grew up to carry on their father's legacy",
+      "summary": "Sons of 9/11 firefighter grew up to carry on their father's legacy NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUZPYmpFd2Q4UzlRSW1FXy1ZOFlJbk1ydUY1Z0loVU5BRzlSUmItc0tvdTZpdlh2MExlS1lKbkJxazFsU3hfYkI0RVpSX0dLcTRrODQ1dlBNNGE2Ulc5ZjJYVVNpRjQxazEwUXlkSC1xWTBlTUQ4djV1OTQta3ktTy1kMDg2QmNNQmwta08zM3ZnWlZNUXhpWGJQU0N5VUg3N0FpZzhneDdoMVlIZVl2NlNRYw?oc=5",
+      "published": "2026-09-10T18:54:06+00:00",
       "beats": [
         "Politics"
       ]
