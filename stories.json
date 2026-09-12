@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T04:55:54.615698+00:00",
+  "updated_at": "2026-09-12T09:06:07.110538+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Lil Durk Is Found Not Guilty in Murder-for-Hire Case",
-      "summary": "Lil Durk Is Found Not Guilty in Murder-for-Hire Case The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXR2TkFXeGRqTHkzbmNvcUFZdTFPb2lGRWhqNnZ2Y1pSTmlCWGJPWTNLNEtBdEhtenVFQjlxYUhQQmtQVnZ6ZnRVT2dLWHQyeldZRjFFYkJ6ckpCVEVJV3hFLXBiSlNqZXZveG84eWdHRl83TjdhVzJIT096Y2tTcXNpWTFxSDU4dFowbEFB?oc=5",
-      "published": "2026-09-12T02:03:01+00:00",
+      "title": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa",
+      "summary": "Ukraine is fighting Russia anywhere it can – even in the deserts of Africa CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUZHYVN0YlpFbldScWV3ZWhiVzhTWUJQYmJRbk1wX0UyQzF2V0pBOTZJMF9zWHpaRkctT1UzRzVWckliWnU1UllkZy1xdXBHRkM4YXhKVWk5cWlMcGFEQ2d2RjUxUmhMRXg5MlhVVF94b2JVZ2hVc21zZ1dLdDRueQ?oc=5",
+      "published": "2026-09-12T06:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+      "summary": "Yemen's Houthis capture a Red Sea island in threat to shipping NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZW1oRU43TWZHOUU5T3dGZlNMSGV4NWZTLVpKbnRrU3JzTzllNFlUdFdYX3hGN0JCdEJrV2NrcUZJQk1GeHRXaTR3SUFFMU1XNVpxZFlib0xtbVZFQUp4b21zSUlNYVR6d19Pa0hpMkdNRVBGeEVYSUlNcmRaci04T2hJSUduR3c?oc=5",
+      "published": "2026-09-12T05:57:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Russia, Trump and a battle over welfare loom over Sweden’s election",
+      "summary": "Russia, Trump and a battle over welfare loom over Sweden’s election CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3lNdjFuRDNlb21feUwxRVg2RFdXUDVIY2Z0NDdiVFJtWDFRY2RFSVZBZ0F4TVpMT1g1bnV1OUtnbVk0RmZrbXdjLTFpNk9GMW5tV090c1ozZjZsbDZHbWxLUDJ3Ni1rYkpwWlAzRW5zNHFubGdtZi1LalFyc1hOVHNkX09UaENF0gGOAUFVX3lxTE9IWlhQUnplR0JjQm5aMVJlbkl0ZXFfTjJjRTV4c280R1ZLQVpJT0ZUVXpDLUF3TWhoQzA5WDlkWjVkNnJlRTFickkyalk5SmtRV2dqRmR2clV4dTJoR2Q1ZV9qeFhwVVIwX20xSWZJRHJDT0dRM3doT3lsc2w3akdxZkdsVVppbHZnRDlKbmc?oc=5",
+      "published": "2026-09-12T05:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast",
+      "summary": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNC00UEttX2RuYWVWaEl5T2RhZkpyWXFNYzA3MEt0OW9CX25ialVsSkphTk84eGl2R2NXTlhycHJPN1NQNjIwVEZHVGdqeG1vY3dYTmNTcGk3blAxTU1qRmg5WDFUSF8zanU4NHBmS19jYWthUGlSWXJlU2ZWaHc?oc=5",
+      "published": "2026-09-12T04:00:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "GOP and Democratic officials in Nashville unite over renaming airport for Dolly Parton",
+      "summary": "GOP and Democratic officials in Nashville unite over renaming airport for Dolly Parton CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXk3aE5PRVNCOFc0b0VVLV9ISjFqUGNxMnBCM0t4WGhfdlcxV3JLbUNacnlzQlUweTlpLXZ6NGNNSjRYVkV5MHBzYmcwYXJPT01aaExCRWRKd1ljX2w2RmVpOXpWODcwLXB0emVSdmQ2MnFtcXZxS1NFVlJmS281V3AyQS1JMDNWdWZRZ1FRY0ZzZw?oc=5",
+      "published": "2026-09-12T03:34:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,63 +92,28 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "California's Lucas Fire near Mendocino National Forest grows to 3,476 acres; evacuations remain",
-      "summary": "California's Lucas Fire near Mendocino National Forest grows to 3,476 acres; evacuations remain CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelVBZVJfS2xyd1RWNmZFTGtKRVEtaVlnVWlHdzdDRFdsUXdvRnFfRFhzN3Bab0Vsa0tvSzhuR2FyaVJlQ2owODBNMTlYcDJfd1BhcTg0dUJjcjFNbHVhTVFHMk9MNjdNUTBTQ2V2WHJMOTNYRnZ3WmxsdkVpYkhuM0FwQkhSalpQQTNkaWJ2aUNJLUxZRVEzTi0wWXk0NFJ5WVY5Wks4RFdfWE80c01F?oc=5",
-      "published": "2026-09-12T00:42:07+00:00",
+      "title": "Chinese company releases video of humanoid robot walking off assembly line on its own",
+      "summary": "Chinese company releases video of humanoid robot walking off assembly line on its own NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0hMYUxrSjVTeFlIVUxodU55V2IyQzlkVm56ek9LZVdjLV9Qb1hlNG4walVWVzhvZld4ODF3aWE4LXlsSmpVNC1JLWhVeDl3bFhPcjM2X2c4OE1iNFBpRi1Bd2lHTmVwX2dLWDAzMVUxdWlub1NZZ2N0VzJ2cFkxZUdXcl9XclNUWnl0THlqdFlCNTVUTWY4Yzg5ZXhLSksyTnA1MjNCODJzRll2WVBhVkdUNEJMeVpZ?oc=5",
+      "published": "2026-09-11T22:37:46+00:00",
       "beats": [
-        "LGBTQ+"
+        "Business"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Brief interaction between NYC Mayor Mamdani and AOC captured on video at 9/11 ceremony stirs up debate",
-      "summary": "Brief interaction between NYC Mayor Mamdani and AOC captured on video at 9/11 ceremony stirs up debate CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RaVRuY3hsSy1sUDJHbzhRbUd1UFZrd3dxc29Gd2dnRXZZSkYtMTNUS2J2MVFrcU9aS1plV0dvM3NSeGhUeWhQc2xBcnJ2U1hPQlA0VVlVbXBEYWprWXBhSk9oUThTM0V1R1BjZ2ZMeVlZNWc?oc=5",
-      "published": "2026-09-11T23:32:28+00:00",
+      "title": "Appellate court clears way for Oklahoma divisive concepts law",
+      "summary": "Appellate court clears way for Oklahoma divisive concepts law K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMm9PMHUzQm9tWVAxSDBrSE1VNTQ5UGJOT3Z1OHVhVUg3ZkZhYmFnTTU3LWNTTmd6RzZFRGk3c1lJMHdTLV80blFua1lNa3Z6LVlOaEQ0SGxheVluQ2oyelh2YkU5Z3dSSlNZSEd5QjE5ZlVsRmtQT3c4aExBQnNIWWNBbW5BLUQtLUlZSEVjSXZSeEE1aFlMNmRPVlBOb0k?oc=5",
+      "published": "2026-09-11T22:35:39+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Ben Shelton overpowers ‘big brother’ Frances Tiafoe and will face top seed Alexander Zverev in US Open final",
-      "summary": "Ben Shelton overpowers ‘big brother’ Frances Tiafoe and will face top seed Alexander Zverev in US Open final CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SZGdOV0pOcVBRTTJpLTlpWEJzM1RpRFBRWnVTejRwT0JGc3FBaWFIOGUwSjhvUk01ajlxaGZUSTM4R1B5VWNyanpxSTNCYTJUbzVBLUF2X1c5N2NnSHZITUJaQ2M3V3dNazRXcWJQU0pjZw?oc=5",
-      "published": "2026-09-11T22:37:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk",
-      "summary": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
-      "published": "2026-09-11T21:38:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The loan at the heart of a new foreclosure crisis : Planet Money",
-      "summary": "The loan at the heart of a new foreclosure crisis : Planet Money NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUhMbVMxVlp3U1FGSEFEekJfVnBVcGpHaTNyV3p6V1FXVTVPQ2xXUEFxcTVIVEcwWVUxaV9odjg5ejdZMkM2ajU3aWUwWkotUjh3OGFyQjJ5LTBhSVhXZzFjTm5zdGlkSUwtcjAxa3kyaklfNm5oSHRlVFVzSXpDVVNJeDVxVF9ZbkZV?oc=5",
-      "published": "2026-09-11T21:00:00+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -128,31 +141,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Ouch! Andy Cohen mistaken for his daughter’s grandfather on her first day at school",
-      "summary": "Ouch! Andy Cohen mistaken for his daughter’s grandfather on her first day at school Queerty",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTJKMGVqTWlENmFrYUtqU2xHYkJhZzFUR0ZhT3JHSkY3TTM3QWVEVUs2VnI3RlAtOWo2VG9OaXpqRjRPWGY0NHBqM3VzRlNTTF91N0g0dmNyR2U5MUpUSl91QnVkYW9NWlM5THdCZi1HOVdyc2pGVWhtaDdFVnlXT2NDamV3d0lCcnZHVFJyTjRmOS1XbDhVWWdxYlVmUmVNX2x5ZGZGRWJnMnVsNHZKMml1OUNKdw?oc=5",
-      "published": "2026-09-11T20:00:00+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Tesla eyes European freight market with long-delayed Semi truck",
-      "summary": "Tesla eyes European freight market with long-delayed Semi truck CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGh5SVI0c29lTzZiRUU3SHpNY1d3Q1BEWHAzSzBlNnJ2WklNRER6a3RsTFNvRXJXdTVrYzdsbXZYVldBSWx0MTNndF9adnlBb08yMm8xRnJnWUhvRXZTZ1cxWnlsOU43VUZVY2h1eHF2anYzVnQzWDZZYzV3QTFLZDZfLV9uUjhDNDNNRTJ4a2trMlBidlRvMmpKZ0xxc3ZoR3fSAacBQVVfeXFMTW1MVk9aNFJVZDJPZ3N6Qi1rWUZEYW1zSmw4d3psOWg5RWxTaHBfalVWT0d6YzNMUW9waTlZTm1CMkdiTlNTQkdlRWN1NkFFVEhvODllNG94bV9hZ1hXNFNzemxLdUFVY1J0N0FnOGs3X0NtWUZFTkVYTEZyYmc1RE12YjRVUnZzaTVDQ25aQnZfZ1NTSUlvMWFCbHYtOTY2dmpIcmdGelk?oc=5",
-      "published": "2026-09-11T19:49:05+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -162,6 +150,18 @@
       "published": "2026-09-11T19:39:35+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "See how your income tax bracket could change for 2027",
+      "summary": "See how your income tax bracket could change for 2027 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdVJlbm11Y1hFUi1PRjh3bktRb0VqWEFaMTJYbGNGWXMxTTBNS0tpUDJsNFRHZ3VWLW54ZHBIOWd4Wmt2RkdpUTJJT0tQdXVtTWYyNVprSnVhRmFJSGJxX1IzeGlBSEViSUlPWjUzckh1V3B5LU5rYjFJLW9NQQ?oc=5",
+      "published": "2026-09-11T19:28:32+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -177,12 +177,24 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Tr*mp’s DOJ blocks overseas attempts to investigate Epstein files as cover-up continues",
+      "summary": "Tr*mp’s DOJ blocks overseas attempts to investigate Epstein files as cover-up continues Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWM5VXZha1hJbDBWTHQ4Y1BHWUpSZXhpZ24yNzdhQm1yQ3c1VE1xZm1laHBBVUE2LTU4TzhHMnF2dmxBV0FQMDVWZW80TC1FUjJibHNPWTQ2VXFJMGtKRi1CNEFkQld3WmtDTk92TDF6TkNONDVvVnJKclBDVC0wWm1rMGFyZGJCZGRKSVhNWUw4TmJsck9ZSzViSHNuSmQwMzNQZ01mc1pweHhwZ0tyT1VDNnk2TUJDd0c0?oc=5",
+      "published": "2026-09-11T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
       "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
       "summary": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTlEWk83M3ZzR1Q5bW14a1FaUGZIWWM2T0dlUlJPdC1jaXh0UVFiZzgtU0tXdlp1TmZoN2FQejFMWlFITUh4a0tWUXo4YmNLaTVtZE9SMFcwVnd4YmdRUHpGUXRtZGI1bHRvMTlLczBDYjdpQ01SbzVydDVYLXp4eWZkQmZ0TlZOcklfd0twSVpGZ9IBlwFBVV95cUxOT2MxY0ZZQ2F5REZjZlB6cU83RnlyVmRMTy1jRGJDdUZqMnNMcS1ybUdlWDFGQ1hYV0dlbzJ3RFlDNE03NEFnUTRoU3hWOGdSUTJBNjc0WWFrNWg4LTRiVlBjZVliS1lBTUdkbFl6M2tIM1JtY2dPS3U5aGxFNjByNG1RV1EySk5NcFJ4bmZSazJibXBQQk40?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTlEWk83M3ZzR1Q5bW14a1FaUGZIWWM2T0dlUlJPdC1jaXh0UVFiZzgtU0tXdlp1TmZoN2FQejFMWlFITUh4a0tWUXo4YmNLaTVtZE9SMFcwVnd4YmdRUHpGUXRtZGI1bHRvMTlLczBDYjdpQ01SbzVydDVYLXp4eWZkQmZ0TlZOcklfd0twSVpGZw?oc=5",
       "published": "2026-09-11T18:41:40+00:00",
       "beats": [
         "Politics"
@@ -195,9 +207,22 @@
       "title": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits?",
       "summary": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NLdndhUmhiX1lGLUFfdWZwZmVHc3puSlFXYnFNU3ZZSUZ3cFQ0YjMyMFZQX0VpYlBLZUNsd0J4ZXRBTTlYRnVOSmdvR3RoVE9OX1g5VGZwR1ZUYzF6ejBaRW1NWXh2X0VTWGQwRjZiVi10VWlseV9MMmN4NzBnQU1PVlQ4ek50YUNYTw?oc=5",
-      "published": "2026-09-11T17:37:38+00:00",
+      "published": "2026-09-11T16:42:10+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "San Francisco mayor declares rent emergency, calls for protections as housing costs soar",
+      "summary": "San Francisco mayor declares rent emergency, calls for protections as housing costs soar CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1E2UlppZmZCVUFhSS01VHVMc0MzNkdtMHdyV1VMd1pHZncyS2VNaDQtLWtBQXhpUEZackw4MnpVYjl2bU40VHpxbjNsTTlfbDZBYzNGelRxemxtd0ZiMDcxT0JXNldPR05QbnZWa3A3YVduTk51bVkyRm1YQUFaN19oMndQcVFSbHJkcTkwVzF4MTZ5ZTZ0aE1RVHZ6a3N1WGNBRHgtaXpucXdBbWtvMm1EeHBiNm9zbloyM3c1RnNjdw?oc=5",
+      "published": "2026-09-11T15:34:58+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -213,24 +238,12 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "2,977 drones recreate Twin Towers in NYC skyline as part of 9/11 commemorations",
-      "summary": "2,977 drones recreate Twin Towers in NYC skyline as part of 9/11 commemorations CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjUtTUxGMHFiWmlaaWtUVXQ4RlVNRTU5NjJ5T3RLN2ZSa3NmMEtXOFFKOTkteUZJcFZsZkVkLUl2Uy1hVHZLdnpKUHhOY0ROaHdHMTBQcDFIUEE1Yms5Q3FOeWpoQThvYnM5ck9uMHBvTmJZbUZDaU1UbEtaVk9hU3p4SkpTZw?oc=5",
-      "published": "2026-09-11T14:51:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "‘Zero positive outcomes’ from harsh preschool discipline, report says",
-      "summary": "‘Zero positive outcomes’ from harsh preschool discipline, report says K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmlLa2VYSnlxYXVxa2N2S1dfYnNjOFc1c3dNSXJYckQyOEM1d0hsaDdjOGZhMUMtUTF4M0FfTU1LQ0xiWnBuN2lyRGVReFdNRUlBdEQyTU5CSnpFNDQtMDdzMzg0d192Y0oxcG1la29sZ0ZwX3ROUTVxdkhvWjMyZ1dNaHp5NXh3OU5iZ1A4MGdGUjNQSWQ3M25qSFFCVDhYQjhJUzRuR1czbEg2SGR5RjZUYnB2UQ?oc=5",
+      "title": "Shrinking Education Department offers state decision-making playbook",
+      "summary": "Shrinking Education Department offers state decision-making playbook K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1RRNXQ2RUR4bloxZm1Za2VKa3NsMmRLakZianFhaVktNGY3blQwLW13akpGYVprZnNsdnFtcVUxZk1wSTVodXVYU0pvdURZTkg0bGlHVmdLWGdtdUFYbE9OenJlWDJfTWpkNHRHd0c4eEt1OWxldDlZZVlQa3VVNUZxWEhaTGNNd3N1ckVfU0dUdw?oc=5",
       "published": "2026-09-11T13:30:37+00:00",
       "beats": [
         "Schools"
@@ -261,6 +274,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | This Is Really Bad",
+      "summary": "Opinion | This Is Really Bad The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
+      "published": "2026-09-11T09:02:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -273,23 +298,11 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Organizers of Hong Kong’s Tiananmen vigils sentenced to up to 7 years and 3 months in national security case",
-      "summary": "Organizers of Hong Kong’s Tiananmen vigils sentenced to up to 7 years and 3 months in national security case NBC News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcTltV3UxLXZrNHpfTnJSX09obURvTkdnWnlfVGlPbWV4aWdiZndyT0Q3ZmJ5Mmh2UlpxMERzUWpTWkltM3pDUVB3MjNhckZrOHhmQnVZWHVSekJJbVVkZ0VnRUlRaXgwckJEbEhtX0FOYXA0VWlLbUVzYm52d1ZMUV9lZzlqc1gzNnVvUUJEZHRUZWduNVdjbw?oc=5",
-      "published": "2026-09-11T02:29:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: Newsom signs first-in-nation laws restricting AI, social media use for children",
-      "summary": "UPDATE: Newsom signs first-in-nation laws restricting AI, social media use for children edsource.org",
+      "summary": "UPDATE: Newsom signs first-in-nation laws restricting AI, social media use for children EdSource",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa2VxM1VOSG5GWDRrMTBTdTRsUnhxOEhCdXV3dnJ4VVBDWTJoaEZzRkp2cFBEbWJVM1ZEaDhMRnNBSGNxM3JlWGNxaUI1N2lpNHBRUjVSSl9hYTU3clV0MnJodFhZLWEtQzE3TVltS3RsLXV4R29RREZkVk03SjdlSnFWRU5MQXYwd19xWFlLSE5tWk12OVRFOGtmclUtOVMycDJ0eFZrTjF4TDZNZ3dDQw?oc=5",
       "published": "2026-09-10T23:16:58+00:00",
       "beats": [
@@ -359,28 +372,15 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump’s $5,000 midterm campaign promise is an immediate flop",
-      "summary": "Trump’s $5,000 midterm campaign promise is an immediate flop Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpdlB2alU3N09lUUdfQmNRa1RMMDIyZ2dPZWEyb1VvR2dJbUEwOGdqX2pTTS1jR0s5ZFpGdnJtUk9jcDhlbVYyNEJxQ0J4bFQ2SnVmRHczOGVxVEVraVhDQ3FBMk52ZUxZZEFTbTFMc3FuSUlFSWlJ?oc=5",
-      "published": "2026-09-10T18:29:06+00:00",
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map",
+      "summary": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
+      "published": "2026-09-10T19:15:50+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Vivian Jenna Wilson says to \"disobey\" as GOP targets trans \"scapegoats\" in midterm elections",
-      "summary": "Vivian Jenna Wilson says to \"disobey\" as GOP targets trans \"scapegoats\" in midterm elections LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNnRzlvekcxWlREMEdHYk1lbzZORDRFeUpQMXQ3NmdZUlB6WmcwSmNTUmFHb0lNNm1qUXhTZjc2T3RSOGsxRUpzSFg4TGw4aWlkV3JldGFMWFdMbzBSd1R5Z2wzS1k0Rl9EM2tLRE9NclpJRV8zYlFBbDJsZXBURnRJSWI3aTloWmI1Q2VLN0VEdFRQT0tSVEVIUE9fZ1lwdVAwUTZjUkxiRGdwMjkxUlM0NG5yZkFyZ0xqYW92Z1Z0cGc?oc=5",
-      "published": "2026-09-10T13:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
+        "Politics"
       ]
     }
   ]
