@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:21:14.538121+00:00",
+  "updated_at": "2026-09-12T00:29:19.845756+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "California's Lucas Fire near Mendocino National Forest grows to 3,476 acres; evacuations remain",
+      "summary": "California's Lucas Fire near Mendocino National Forest grows to 3,476 acres; evacuations remain CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelVBZVJfS2xyd1RWNmZFTGtKRVEtaVlnVWlHdzdDRFdsUXdvRnFfRFhzN3Bab0Vsa0tvSzhuR2FyaVJlQ2owODBNMTlYcDJfd1BhcTg0dUJjcjFNbHVhTVFHMk9MNjdNUTBTQ2V2WHJMOTNYRnZ3WmxsdkVpYkhuM0FwQkhSalpQQTNkaWJ2aUNJLUxZRVEzTi0wWXk0NFJ5WVY5Wks4RFdfWE80c01F?oc=5",
+      "published": "2026-09-11T23:52:47+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk",
+      "summary": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
+      "published": "2026-09-11T21:38:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
       "title": "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide",
-      "summary": "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide CNN",
+      "summary": "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide cnn.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oM1F6bERoTWplcWpQc1owNVlMd3BxRXNVRncxTDZ2VzlqbU15M1hOdFA3MEo3WkRUZ3Z6Y1BoZl9NZ3dkRm50UTBfLXp6V1k1WTZNVVdkaHFjZ0tLXzVpeE1fU0tGTkE?oc=5",
       "published": "2026-09-11T21:32:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The loan at the heart of a new foreclosure crisis : Planet Money",
+      "summary": "The loan at the heart of a new foreclosure crisis : Planet Money NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUhMbVMxVlp3U1FGSEFEekJfVnBVcGpHaTNyV3p6V1FXVTVPQ2xXUEFxcTVIVEcwWVUxaV9odjg5ejdZMkM2ajU3aWUwWkotUjh3OGFyQjJ5LTBhSVhXZzFjTm5zdGlkSUwtcjAxa3kyaklfNm5oSHRlVFVzSXpDVVNJeDVxVF9ZbkZV?oc=5",
+      "published": "2026-09-11T21:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump on 9/11 reposts video of him asking January 6 rioters to go home",
+      "summary": "Trump on 9/11 reposts video of him asking January 6 rioters to go home cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ySTZHR3Z1QnRqOGJ2QzFzRzc0MjI2cEdjdy1Tby1TUmhwVWdHdkNtQTBucWZDd0FBOXUya000VEZ5d0xwTnZUU04wUFRlN1lYRnZEOFptM1VfT0hVU2QwUkpmLVBHblFzQWVHZEpLY1c1REZzOVpsQg?oc=5",
+      "published": "2026-09-11T20:55:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -41,18 +89,6 @@
       "published": "2026-09-11T19:39:35+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "CIA declassifies intel warnings to White House prior to 9/11 attack",
-      "summary": "CIA declassifies intel warnings to White House prior to 9/11 attack CNN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW9WdU9peDFzMlZPU2hwMksyenJiZTNsLWhxTERLWnA0U0FKNkdqbmFhNzJmUlpFMGlQaGNPcl84SWRmMmR4Ukk5RkF3ZFVFaWJFUnhHMm02ZkNINkxCSXlYUWE2SEh5dzFoTXBOZkprNVJ1b1AzQ3pFYko2LTAxMXdoeWdycGk3UllHU0dFX0NEVWY4Qk9oWnVFUE5JNVpkYWFv?oc=5",
-      "published": "2026-09-11T19:16:02+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -80,13 +116,13 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount",
-      "summary": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU1kaDdOZGExX2pHZ0piWTU4YU5pUGlhNTI0eWdoczhTcHIwLVVrSVlVRDhqZXkxTkdFaDVMb09FS2x1MXJlMGpCVzI1Z2E5MXBMLW5rODhzQnotRGdMRG1mRjV6QTNYTXFCTTJWdnB1WEF0R2d2ckNvVFVSN0VzWUZvd2hUeWNsYlJWN01VeGVUTnFRMlpERmZiN3FvOVFjZ0pWYnlzeWRCdw?oc=5",
-      "published": "2026-09-11T18:07:23+00:00",
+      "title": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits?",
+      "summary": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NLdndhUmhiX1lGLUFfdWZwZmVHc3puSlFXYnFNU3ZZSUZ3cFQ0YjMyMFZQX0VpYlBLZUNsd0J4ZXRBTTlYRnVOSmdvR3RoVE9OX1g5VGZwR1ZUYzF6ejBaRW1NWXh2X0VTWGQwRjZiVi10VWlseV9MMmN4NzBnQU1PVlQ4ek50YUNYTw?oc=5",
+      "published": "2026-09-11T17:37:38+00:00",
       "beats": [
         "Politics"
       ]
@@ -101,42 +137,6 @@
       "published": "2026-09-11T17:37:11+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Vance’s midterm pitch is strikingly different from Trump’s",
-      "summary": "Vance’s midterm pitch is strikingly different from Trump’s CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNEYtNGU5LVpDNTdBdEE1WEhoS2JtQWQ2RlZSamhLYXY1cUpVdjBDX3NSQ2tqMDBMck5yUmMtX3JNcy1KRWtCTnRBLUR5RWJINjhSUDBxYVpVS2Jnb2NLdFRLbnRXRDd3X1YwQ1g0bWk?oc=5",
-      "published": "2026-09-11T16:47:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Americans Love Supplements, but Experts Doubt Their Benefits",
-      "summary": "Americans Love Supplements, but Experts Doubt Their Benefits The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NLdndhUmhiX1lGLUFfdWZwZmVHc3puSlFXYnFNU3ZZSUZ3cFQ0YjMyMFZQX0VpYlBLZUNsd0J4ZXRBTTlYRnVOSmdvR3RoVE9OX1g5VGZwR1ZUYzF6ejBaRW1NWXh2X0VTWGQwRjZiVi10VWlseV9MMmN4NzBnQU1PVlQ4ek50YUNYTw?oc=5",
-      "published": "2026-09-11T16:42:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "President Trump honored the families and victims of the Sept. 11 attacks",
-      "summary": "President Trump honored the families and victims of the Sept. 11 attacks NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xQVFWZE1raFpEdlFFTXN4S3B4Vi1FeFFKRHVkQVVnVFRnOExJYl9XT0tVWnFxYUROOGxXZXE0VFlVdFlENmdNV05ISWQ4ZXMtaDBUTFlDaXVzZm5mMFZOV1MzTHVuZjgtTGpFODljM1VfU0RPSGc?oc=5",
-      "published": "2026-09-11T15:51:18+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -155,6 +155,18 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
+      "title": "Here's the projected Social Security COLA for 2027, according to AARP",
+      "summary": "Here's the projected Social Security COLA for 2027, according to AARP CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlX3gyUHl0YlNlcXZITTBXa0Z2dDlMaWhmZzhjNDhSSWVwYkNyd1cwdGNFbVVRdWdpREtLZVRnM2gyTWJ4Yy1ZLXNpTWttcXVMbkNhdlozOFFtNk51VTI5MGlNd0tJWDByaHZYTVdOOUV3ZG5x?oc=5",
+      "published": "2026-09-11T15:24:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
       "title": "2,977 drones recreate Twin Towers in NYC skyline as part of 9/11 commemorations",
       "summary": "2,977 drones recreate Twin Towers in NYC skyline as part of 9/11 commemorations CBS News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjUtTUxGMHFiWmlaaWtUVXQ4RlVNRTU5NjJ5T3RLN2ZSa3NmMEtXOFFKOTkteUZJcFZsZkVkLUl2Uy1hVHZLdnpKUHhOY0ROaHdHMTBQcDFIUEE1Yms5Q3FOeWpoQThvYnM5ck9uMHBvTmJZbUZDaU1UbEtaVk9hU3p4SkpTZw?oc=5",
@@ -164,27 +176,27 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "To Drill or Not to Drill? Britain Nears Decision on Aging North Sea Oil Fields.",
-      "summary": "To Drill or Not to Drill? Britain Nears Decision on Aging North Sea Oil Fields. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjNpNURFRGYtNWJLRDl2Y0lHRkJ1eVFyXzlUdjJoQWdoM3Y0d2wyTXZRMkVZeXRoa29zOEh6Ti1IWTlQZDhUTGRLYUVQRUFQdWRRT1p5RXhqdGJCUnN1alY3aXRkUHB2bXpXTEI3YWRhbE9vX09rclJjQmxmRTRDNUd3TXM?oc=5",
-      "published": "2026-09-11T12:29:37+00:00",
+      "title": "‘Zero positive outcomes’ from harsh preschool discipline, report says",
+      "summary": "‘Zero positive outcomes’ from harsh preschool discipline, report says K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmlLa2VYSnlxYXVxa2N2S1dfYnNjOFc1c3dNSXJYckQyOEM1d0hsaDdjOGZhMUMtUTF4M0FfTU1LQ0xiWnBuN2lyRGVReFdNRUlBdEQyTU5CSnpFNDQtMDdzMzg0d192Y0oxcG1la29sZ0ZwX3ROUTVxdkhvWjMyZ1dNaHp5NXh3OU5iZ1A4MGdGUjNQSWQ3M25qSFFCVDhYQjhJUzRuR1czbEg2SGR5RjZUYnB2UQ?oc=5",
+      "published": "2026-09-11T13:30:37+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "The first recorded victim of 9/11 was a gay Catholic priest",
-      "summary": "The first recorded victim of 9/11 was a gay Catholic priest Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzaGhtdDl4RUZuNWlvaEQxZC1fVk5PR3FWVWVuWHk3a1BfNG9aOTRWNU8wLWNXbG9EUmQ4M3I2OWM2M3V2V0ljREtDQlpkTkJ0TWFHcVd3M3lSN2dKZnNid1NjWDZLTFRYcXAya3YxQQ?oc=5",
-      "published": "2026-09-11T10:47:08+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "What Years of Inflation Have Done to US Prices",
+      "summary": "What Years of Inflation Have Done to US Prices The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFFLWDlqRGN5YUtWbWRwQ1VvWWhoRHFEZzVKQnN6ZHJSQWh0VkNvSmZiOTBJc1NzVTRveHgzcHQ5WWZmNmJJZExUS3N3VUQ5cjAwNGtnTlZpS2YtX0xrU0RicEZpTVYteGpQWHlJTzhmb1FHTTdtRzhrTXI2c0htb283cUdSalFaV1NmX0ZvNXhCb1BFeF80NWZucUdBbDN5MEJYampDU0U?oc=5",
+      "published": "2026-09-11T09:04:36+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -249,6 +261,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’",
+      "summary": "Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWNvdzlvUk5ndUZPUklZS3NYX19TYkVWcHVfbVZ5b0JuWkRrMm53c20xOXVmNURSaTI0bmNnZFdkbHNlWXB5S3FmRmZ5VlpPRFpOcFVkVzdaeXZPbllFMURHcGdFdkFNM3Z2cm1vdXJndnFyekRBSVc5aWdObVRvenBHY2R1RGI4ZFVIU0VjSGphZVdYdnlzYVVabDRwenhZMi1MSXBHTFRlZw?oc=5",
+      "published": "2026-09-10T22:33:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -290,7 +314,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "When Should Students Take Algebra? New Research Offers Clues",
-      "summary": "When Should Students Take Algebra? New Research Offers Clues edweek.org",
+      "summary": "When Should Students Take Algebra? New Research Offers Clues Education Week",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRpR0FhTzVJeHZRbmp5RjVtZkZNN3VVYzlDSFlfbENKTExZTVZ1aGZqUnVLejBrdGlMMl9udDBkV1h6emtUS0FoVDRCQVhtbDV6U2VlUFpjNXFFNGR3bUo5TjJJd0pYWDBHMTJ5WURlUlZycHpTUHp0MHdwcTR1b1hwaGFOYXFndWFrclZVQTR6cGR5N2k1M1VJaUljNG5OTGJnODdRM1dtWEE0?oc=5",
       "published": "2026-09-10T19:50:48+00:00",
       "beats": [
@@ -323,18 +347,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Hasan Piker's 'meat pic' was on full display at the Republican National Convention",
-      "summary": "Hasan Piker's 'meat pic' was on full display at the Republican National Convention Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnFuWm4xeEhfU2dnR2xEcDBLRDFmYXZQc21PWVhTOVFzQTctQ3pvNDEwZzlVbUxqNExlcDFCc0NJMEVaZkZGeXp2WlFocDM4UnNhaEQ3bFBDdThVV0NwemFrY0UtbkF5TnBlaFBOa3RMeFhGVnJETmlaWHRMclg0bkhB?oc=5",
-      "published": "2026-09-10T16:07:20+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -342,6 +354,18 @@
       "summary": "Nude photo of left-wing commentator inexplicably displayed on jumbotron at GOP midterm convention LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEJsb29yRU9fQlZQYkdXUlRUd1pDLUZna2hvcFE5MW5EeEtlVHBPRVVzbGZwWHJsSG5nd3VhN3hvdDhjdExtalR1Mk9YR1RxLWpkeE41d3BEZ2JqMkFVN2hISkRxRU42RU5sVThHcmNrYjhsZjFoYzgxZDFWbVg4VkhDMGZHTjN3VVlFQXhBdUhsaGw2SmFkV2YzSGZ2THdaaXRLUGxJN3JjY1c2Wl9WTklqZ3JQTGFqT2hFT3gxaHBjWTRkalZ1U19QZUEwWUYyQ1RQTkZB?oc=5",
       "published": "2026-09-10T15:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Ken Paxton’s new anti-trans attack on James Talarico is literally fake",
+      "summary": "Ken Paxton’s new anti-trans attack on James Talarico is literally fake Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUFIYUNJSHdCNFVKSkV6OWVGUWtrME84LVlHQVZ4bWVzcHRCUUdHWTRQRnFLNGZmSTFjRnRSc0pKSWlReGtncVV0QnhrclZfaGxyZkRheTZiYzBJUTIzV2UtNC04eG9JbGN5NlFQLXRoamQzNDhSdWgxOHZXVUJkLWVnWQ?oc=5",
+      "published": "2026-09-10T13:20:40+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -357,30 +381,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "‘We actually saved a kid’: Schools recruit AI chatbots as counselor shortage persists",
-      "summary": "‘We actually saved a kid’: Schools recruit AI chatbots as counselor shortage persists EdSource",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3d3VklrLWJ3aENIU2FObWlmWUR1UU9WZml0bDhEY0tfQlZQSEZpODNQU1E3a3lTc0MyTkVmVzk0NmVZTlhiLUxzOFNKb2V0elJTRTBmZTFtMjdiNU9BYWNaYjNqczVORmxaazNka2dqOUN1UVBvZEZpcVFWbko1cUpqTW9qTkdGb2tqRGdnN0ZyT1NYWHNwREJJY3F4SXJMN2wwQm03d3FYendBMHdxMmk5ck85QdIBvgFBVV95cUxPUmEwTU9RYjhnQlM0TVFCbENvNW1tOUYtU0JNUnJ6a0NZYWwwQkNoOUhUWkxNZ3pYOUNBV2dpSlBpd0RKbWJDbmNOZUVkOVNzdk56QUd0UU1VTktNczg2WGdDdzk5ZGdScms3S1U4T050MTdBUFpoQXliSm8xT0QwSTlmQkFsZFUwNlFsYWpPbXMzTXBmTE92cEVJU29FUjhSbF90Njd1UjFlTnBZMEF2Y1pUQnhIV3pOSTBSZmtB?oc=5",
-      "published": "2026-09-10T07:12:52+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "At RNC midterm convention, Trump pitches $5,000 payments to U.S. citizens — but only if GOP wins House and Senate",
-      "summary": "At RNC midterm convention, Trump pitches $5,000 payments to U.S. citizens — but only if GOP wins House and Senate CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFZsTUcyQmRtWFFaeUp0MU1tZnhMLUtlTHBVQ0NVQTBhbDk0Q0x5aTlGSm9jT1NJRGNzWW1WN3ZNZTBlQXZKRkwtdHFTblI0OTd1NHBBUjh4SnlPZFMxWHpqNW9TeUhhbVBmbU1mZzNuS1I1WG5HNmFHcjhyZE9DWDFqTHh0OVk?oc=5",
-      "published": "2026-09-10T02:48:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
