@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:29:19.845756+00:00",
+  "updated_at": "2026-09-12T04:55:54.615698+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,37 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Lil Durk Is Found Not Guilty in Murder-for-Hire Case",
+      "summary": "Lil Durk Is Found Not Guilty in Murder-for-Hire Case The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXR2TkFXeGRqTHkzbmNvcUFZdTFPb2lGRWhqNnZ2Y1pSTmlCWGJPWTNLNEtBdEhtenVFQjlxYUhQQmtQVnZ6ZnRVT2dLWHQyeldZRjFFYkJ6ckpCVEVJV3hFLXBiSlNqZXZveG84eWdHRl83TjdhVzJIT096Y2tTcXNpWTFxSDU4dFowbEFB?oc=5",
+      "published": "2026-09-12T02:03:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock",
+      "summary": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zR2VMZlJwWXhpVS1nM3NVZlhScXZtc1FYWVBEM1p5RUhjTDh4TWxEdS1ZVzB6N0RmNFFoeXhpbTJOM0EwOElHWEp6VWRBVkRuN3c1TW5tbHhaMnBiQ0NIN0NKaEJNRllsUmh4aEEycWVlQTZGRGl6OWpFRG5oaWvSAYQBQVVfeXFMTWVZQ096UGxxbU5DbmN5dzI5ZDFwRVZFbFA3am9SR3I2WkpkSnM5RUxkLVNUaDFCU3hiMS1OZ3d3VktQM1IwLXBlU2tKaFFCdjJCMzMzRUs5YmtDdjNFeWJvMFdacXpJMTV4RXlvSWtWRHdYeHplT05KOG91OXlYdldkNFJL?oc=5",
+      "published": "2026-09-12T01:36:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "California's Lucas Fire near Mendocino National Forest grows to 3,476 acres; evacuations remain",
       "summary": "California's Lucas Fire near Mendocino National Forest grows to 3,476 acres; evacuations remain CBS News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelVBZVJfS2xyd1RWNmZFTGtKRVEtaVlnVWlHdzdDRFdsUXdvRnFfRFhzN3Bab0Vsa0tvSzhuR2FyaVJlQ2owODBNMTlYcDJfd1BhcTg0dUJjcjFNbHVhTVFHMk9MNjdNUTBTQ2V2WHJMOTNYRnZ3WmxsdkVpYkhuM0FwQkhSalpQQTNkaWJ2aUNJLUxZRVEzTi0wWXk0NFJ5WVY5Wks4RFdfWE80c01F?oc=5",
-      "published": "2026-09-11T23:52:47+00:00",
+      "published": "2026-09-12T00:42:07+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -35,10 +59,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk",
-      "summary": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
-      "published": "2026-09-11T21:38:45+00:00",
+      "title": "Brief interaction between NYC Mayor Mamdani and AOC captured on video at 9/11 ceremony stirs up debate",
+      "summary": "Brief interaction between NYC Mayor Mamdani and AOC captured on video at 9/11 ceremony stirs up debate CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RaVRuY3hsSy1sUDJHbzhRbUd1UFZrd3dxc29Gd2dnRXZZSkYtMTNUS2J2MVFrcU9aS1plV0dvM3NSeGhUeWhQc2xBcnJ2U1hPQlA0VVlVbXBEYWprWXBhSk9oUThTM0V1R1BjZ2ZMeVlZNWc?oc=5",
+      "published": "2026-09-11T23:32:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +71,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide",
-      "summary": "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oM1F6bERoTWplcWpQc1owNVlMd3BxRXNVRncxTDZ2VzlqbU15M1hOdFA3MEo3WkRUZ3Z6Y1BoZl9NZ3dkRm50UTBfLXp6V1k1WTZNVVdkaHFjZ0tLXzVpeE1fU0tGTkE?oc=5",
-      "published": "2026-09-11T21:32:03+00:00",
+      "title": "Ben Shelton overpowers ‘big brother’ Frances Tiafoe and will face top seed Alexander Zverev in US Open final",
+      "summary": "Ben Shelton overpowers ‘big brother’ Frances Tiafoe and will face top seed Alexander Zverev in US Open final CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SZGdOV0pOcVBRTTJpLTlpWEJzM1RpRFBRWnVTejRwT0JGc3FBaWFIOGUwSjhvUk01ajlxaGZUSTM4R1B5VWNyanpxSTNCYTJUbzVBLUF2X1c5N2NnSHZITUJaQ2M3V3dNazRXcWJQU0pjZw?oc=5",
+      "published": "2026-09-11T22:37:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk",
+      "summary": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
+      "published": "2026-09-11T21:38:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,15 +104,52 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump on 9/11 reposts video of him asking January 6 rioters to go home",
-      "summary": "Trump on 9/11 reposts video of him asking January 6 rioters to go home cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ySTZHR3Z1QnRqOGJ2QzFzRzc0MjI2cEdjdy1Tby1TUmhwVWdHdkNtQTBucWZDd0FBOXUya000VEZ5d0xwTnZUU04wUFRlN1lYRnZEOFptM1VfT0hVU2QwUkpmLVBHblFzQWVHZEpLY1c1REZzOVpsQg?oc=5",
-      "published": "2026-09-11T20:55:43+00:00",
+      "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
+      "summary": "How shofars became the spiritual soundtrack of Rosh Hashanah NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUElHVzdiT0FTM1FQZy1BSGxCUHExMWJveEREUUtxNGtsbFNmRGZCR25kMmJ3M0ZLVHJwb0Jmb2lheG83bm1mQVQtbVlBNmNLbTNKdUVuT3hGTUNGc0pyZlVtQ2FyTlZ3NzFselVXUUJBcVM1X2xDYUZzdm12SkxzUFRMZk5hQkcxdkRzNl81ZjhhMDE2NUxUVEJsMzRPMU1kTG5qNmNUTks?oc=5",
+      "published": "2026-09-11T20:29:31+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trans athletes are the canary in the coal mine. Democrats need to act like it.",
+      "summary": "Trans athletes are the canary in the coal mine. Democrats need to act like it. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeldaV1hhVFJ0cTVuaGNGdV9LSk5lVEQ1RFRYSzhYTi1KMFhyOV9lSlFSaWxqSWh1SkZ3Tkc3N2tnQkcxXzgzeVBySzJiSkoxQkNjemNfWnQ3SThsTEQyUzBYcFk0RmxJR1JGcUluRXRhT1ZralhhSlhsNURBMmpzT0R3RkNQbDhBM1pzTlFaaWVRc05LVHJIOUpxZFBZVjlEQXliWEN3VHNYNTE0RTJKeEY3MA?oc=5",
+      "published": "2026-09-11T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Ouch! Andy Cohen mistaken for his daughter’s grandfather on her first day at school",
+      "summary": "Ouch! Andy Cohen mistaken for his daughter’s grandfather on her first day at school Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTJKMGVqTWlENmFrYUtqU2xHYkJhZzFUR0ZhT3JHSkY3TTM3QWVEVUs2VnI3RlAtOWo2VG9OaXpqRjRPWGY0NHBqM3VzRlNTTF91N0g0dmNyR2U5MUpUSl91QnVkYW9NWlM5THdCZi1HOVdyc2pGVWhtaDdFVnlXT2NDamV3d0lCcnZHVFJyTjRmOS1XbDhVWWdxYlVmUmVNX2x5ZGZGRWJnMnVsNHZKMml1OUNKdw?oc=5",
+      "published": "2026-09-11T20:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tesla eyes European freight market with long-delayed Semi truck",
+      "summary": "Tesla eyes European freight market with long-delayed Semi truck CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGh5SVI0c29lTzZiRUU3SHpNY1d3Q1BEWHAzSzBlNnJ2WklNRER6a3RsTFNvRXJXdTVrYzdsbXZYVldBSWx0MTNndF9adnlBb08yMm8xRnJnWUhvRXZTZ1cxWnlsOU43VUZVY2h1eHF2anYzVnQzWDZZYzV3QTFLZDZfLV9uUjhDNDNNRTJ4a2trMlBidlRvMmpKZ0xxc3ZoR3fSAacBQVVfeXFMTW1MVk9aNFJVZDJPZ3N6Qi1rWUZEYW1zSmw4d3psOWg5RWxTaHBfalVWT0d6YzNMUW9waTlZTm1CMkdiTlNTQkdlRWN1NkFFVEhvODllNG94bV9hZ1hXNFNzemxLdUFVY1J0N0FnOGs3X0NtWUZFTkVYTEZyYmc1RE12YjRVUnZzaTVDQ25aQnZfZ1NTSUlvMWFCbHYtOTY2dmpIcmdGelk?oc=5",
+      "published": "2026-09-11T19:49:05+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -92,15 +165,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers",
-      "summary": "Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeF84X1d3enhMMTY0XzBiZ3E4OURqYW5EM3JUZllwRWJDSXBjZEdCdUYyYXFsS01jQll3RnhFTkRobU9QWWdScDBpOXpTYkxocXo4X3dIeHpJcE95cVhpZF8tR0ZEcHB1ZktzQnhoTUw4TnRwdVlxamUxWXRvZllXZVJGMUI3ZXROSXh3WXYtbjVVdnJ2dmlGc2h3QzZDRHdP0gGmAUFVX3lxTE9hdFlnS0t3OEI1YnJuS1R2a1ZqWTZ3WWs5Tm9TRlVDTTItWko5ZEJmZWNHODF1VjJlcEUyTjYyNWdQbldJcmcxTlJ2M05uWWlZSmFHLVdVZEJnd2NFWTFUc0loSUZlWjkyeUJhRXhKczFrLVdxc1RabnZMcGVtUzNYQWxPU3BqOXJQZnNtMlU1dktuZEZwQ3ZqUVVuQzN2MmxNWHpWdHc?oc=5",
-      "published": "2026-09-11T19:10:27+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump’s wild GOP convention speech was a ratings failure",
+      "summary": "Trump’s wild GOP convention speech was a ratings failure Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWnczR1BNSld1ZUdjNndOaHcyLWw3SHBuNjI0NXMtbGtxVms3SjVTR2N2MmZDRElwZ1lKSTMwLWk3cFhNZl9oSjV2Y2JOU0MtSDJfeTdoazluSFpUX0dIX2I2dWlsWlhHbUo1Yi1mYXVOQUR4dkw2Wmx5MW5WQQ?oc=5",
+      "published": "2026-09-11T19:17:17+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -123,30 +196,6 @@
       "summary": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NLdndhUmhiX1lGLUFfdWZwZmVHc3puSlFXYnFNU3ZZSUZ3cFQ0YjMyMFZQX0VpYlBLZUNsd0J4ZXRBTTlYRnVOSmdvR3RoVE9OX1g5VGZwR1ZUYzF6ejBaRW1NWXh2X0VTWGQwRjZiVi10VWlseV9MMmN4NzBnQU1PVlQ4ek50YUNYTw?oc=5",
       "published": "2026-09-11T17:37:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
-      "summary": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026 CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YZ0tnUW9ySTRrOTkyTUhzU1F4cXN4UGpvSTM5V19kbXpaZnBKdEVVXzhCSkR0VTJCczNlNlZDMTJnLWZPcy1GT0JESVBaR0FhZjRBWk8yQ0x0R0NiaW1MR29lQnY1QjFGWFBMdW0xZ9IBdEFVX3lxTE9KX18zRGZOQlJVdWNERk9SQ0thRlhiSTB5ZjRMZHE0MWVELWZRTjRpQi16di11RkVjWTM4M3hRMndlemRkMk5tV3k1SzE2UDNXWEgycmdhSTFaUnRaQjNiZTFJUTU4VWhDZ21jSG9hOVEydzgx?oc=5",
-      "published": "2026-09-11T17:37:11+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
-      "summary": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability NPR",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHQycHNIbzVJSkdLUkNOb1d4XzZZX24wSHh1b3hJbWJkbkVZNnlSUUt5NGZ2cGxYZVdJT1JVOUFOSlYxUTc3UXN4NURGb3hyc21HOG5odnd5RHpYMG54dk1rT1JRR0p0dGFTUUgtOG52bWZ1dkl4M2RZZFNmWGd1MHkxZmdLWG1CdjAtaUlxZWtQZHRVaGFlalNDcnp6eS1haFlFX3pPTjNVRk9PUGlPMVFzbVRXTVpEbkpsUFpIbGNRYUh5YUxCcDFucw?oc=5",
-      "published": "2026-09-11T15:34:51+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,6 +237,18 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "The first recorded victim of 9/11 was a gay Catholic priest",
+      "summary": "The first recorded victim of 9/11 was a gay Catholic priest Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzaGhtdDl4RUZuNWlvaEQxZC1fVk5PR3FWVWVuWHk3a1BfNG9aOTRWNU8wLWNXbG9EUmQ4M3I2OWM2M3V2V0ljREtDQlpkTkJ0TWFHcVd3M3lSN2dKZnNid1NjWDZLTFRYcXAya3YxQQ?oc=5",
+      "published": "2026-09-11T10:47:08+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -195,18 +256,6 @@
       "summary": "What Years of Inflation Have Done to US Prices The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFFLWDlqRGN5YUtWbWRwQ1VvWWhoRHFEZzVKQnN6ZHJSQWh0VkNvSmZiOTBJc1NzVTRveHgzcHQ5WWZmNmJJZExUS3N3VUQ5cjAwNGtnTlZpS2YtX0xrU0RicEZpTVYteGpQWHlJTzhmb1FHTTdtRzhrTXI2c0htb283cUdSalFaV1NmX0ZvNXhCb1BFeF80NWZucUdBbDN5MEJYampDU0U?oc=5",
       "published": "2026-09-11T09:04:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | This Is Really Bad",
-      "summary": "Opinion | This Is Really Bad The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
-      "published": "2026-09-11T09:02:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -240,7 +289,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: Newsom signs first-in-nation laws restricting AI, social media use for children",
-      "summary": "UPDATE: Newsom signs first-in-nation laws restricting AI, social media use for children EdSource",
+      "summary": "UPDATE: Newsom signs first-in-nation laws restricting AI, social media use for children edsource.org",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa2VxM1VOSG5GWDRrMTBTdTRsUnhxOEhCdXV3dnJ4VVBDWTJoaEZzRkp2cFBEbWJVM1ZEaDhMRnNBSGNxM3JlWGNxaUI1N2lpNHBRUjVSSl9hYTU3clV0MnJodFhZLWEtQzE3TVltS3RsLXV4R29RREZkVk03SjdlSnFWRU5MQXYwd19xWFlLSE5tWk12OVRFOGtmclUtOVMycDJ0eFZrTjF4TDZNZ3dDQw?oc=5",
       "published": "2026-09-10T23:16:58+00:00",
       "beats": [
@@ -258,18 +307,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’",
-      "summary": "Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWNvdzlvUk5ndUZPUklZS3NYX19TYkVWcHVfbVZ5b0JuWkRrMm53c20xOXVmNURSaTI0bmNnZFdkbHNlWXB5S3FmRmZ5VlpPRFpOcFVkVzdaeXZPbllFMURHcGdFdkFNM3Z2cm1vdXJndnFyekRBSVc5aWdObVRvenBHY2R1RGI4ZFVIU0VjSGphZVdYdnlzYVVabDRwenhZMi1MSXBHTFRlZw?oc=5",
-      "published": "2026-09-10T22:33:24+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -329,43 +366,6 @@
       "summary": "Trump’s $5,000 midterm campaign promise is an immediate flop Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpdlB2alU3N09lUUdfQmNRa1RMMDIyZ2dPZWEyb1VvR2dJbUEwOGdqX2pTTS1jR0s5ZFpGdnJtUk9jcDhlbVYyNEJxQ0J4bFQ2SnVmRHczOGVxVEVraVhDQ3FBMk52ZUxZZEFTbTFMc3FuSUlFSWlJ?oc=5",
       "published": "2026-09-10T18:29:06+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Canadian politician says what we’re all thinking about Tr*mp’s worsening Epstein scandal",
-      "summary": "Canadian politician says what we’re all thinking about Tr*mp’s worsening Epstein scandal Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpmRWJtQ2k2UEpDNHhUM2xHdmFmbXJTV0EtZll0V0tJRC1Tam9ZcXF0TElWcEdSV1JpVXlkdlR2NkdsQ0s1UUdkUUFxQUl4VmtsWE95TVdJTzRkYm5PYlltU0hwT1VBaEExRnoyTzBieUxaV1NqM1doT1YyaTNmZzlWbFcwVE5VX1c2X1hSWXExbXAtd2h5aURjVDh3U0FVZEpGVlEzZW4zQXltZFVfcQ?oc=5",
-      "published": "2026-09-10T18:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Nude photo of left-wing commentator inexplicably displayed on jumbotron at GOP midterm convention",
-      "summary": "Nude photo of left-wing commentator inexplicably displayed on jumbotron at GOP midterm convention LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEJsb29yRU9fQlZQYkdXUlRUd1pDLUZna2hvcFE5MW5EeEtlVHBPRVVzbGZwWHJsSG5nd3VhN3hvdDhjdExtalR1Mk9YR1RxLWpkeE41d3BEZ2JqMkFVN2hISkRxRU42RU5sVThHcmNrYjhsZjFoYzgxZDFWbVg4VkhDMGZHTjN3VVlFQXhBdUhsaGw2SmFkV2YzSGZ2THdaaXRLUGxJN3JjY1c2Wl9WTklqZ3JQTGFqT2hFT3gxaHBjWTRkalZ1U19QZUEwWUYyQ1RQTkZB?oc=5",
-      "published": "2026-09-10T15:30:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Ken Paxton’s new anti-trans attack on James Talarico is literally fake",
-      "summary": "Ken Paxton’s new anti-trans attack on James Talarico is literally fake Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUFIYUNJSHdCNFVKSkV6OWVGUWtrME84LVlHQVZ4bWVzcHRCUUdHWTRQRnFLNGZmSTFjRnRSc0pKSWlReGtncVV0QnhrclZfaGxyZkRheTZiYzBJUTIzV2UtNC04eG9JbGN5NlFQLXRoamQzNDhSdWgxOHZXVUJkLWVnWQ?oc=5",
-      "published": "2026-09-10T13:20:40+00:00",
       "beats": [
         "LGBTQ+"
       ]
