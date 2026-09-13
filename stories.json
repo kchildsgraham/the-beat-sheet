@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T06:36:46.084031+00:00",
+  "updated_at": "2026-09-13T12:35:28.059440+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,37 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Search underway for Indonesian passenger ship carrying at least 240 people after it loses contact",
-      "summary": "Search underway for Indonesian passenger ship carrying at least 240 people after it loses contact CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJsRDl6bHE5RGRMdC1nRDU5bDMwVU04bmNLbXF0aTFrM2x6ZXJmRTE5UHRreHoxREdkTHg2LUQ3cTJPUnVzQmlNVjc2REpuTHZfZzdNSTJYX2phQnpoNzMxNnNScFctU2pNUWFfLVRueEk5U0lnanZlcXppWFdKZXVfMENxMEl0bnFMT2hGYkQ0YzJH?oc=5",
-      "published": "2026-09-13T03:33:00+00:00",
+      "title": "The College Catwalk",
+      "summary": "The College Catwalk The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MZ0R1bXRDYW1PNTdmSHcwRTkwTnlNaEZxTVhMSUNFM3lQanhKeDNuZWpmX3VnSGxtWkRkTFJpLTdPSlFodFRRdlNURGthUXdnTWE2UGlBbHB5VFJtUXRrYVl4OVdrTXJFVHBlR2dzY0NyUQ?oc=5",
+      "published": "2026-09-13T11:09:07+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+      "summary": "Iran and UAE back joint BRICS statement urging restraint in war CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHJMTnFhX3c4Q3ZVUWtZMHp3bUUwQk1pZjczbGg5cW9zNEpENzZIUE55N2NNRzVkQVMwVHVQM3R2S0k3RE9RZWpsc1BBbUQxT3JpNjRMRHBVOVRtTjNxSVM0Y1U3RTRNUW9mckhYNHFzandwTWlUYkVHTE5zZll5cHNPdDBqOUVjTmJQUVJwRjd0WldyWEJoYWpqVzN3MGpDSmfSAacBQVVfeXFMTV9ZUzAtZy1HeW82VGdrSE5fR0lsRk9EM1lsYk5KMllpUTU5WEk0RlVueGFkLXQtNS01a3lLbEJGNDQ0bFY4aWhyV1lMem9kck9rNTZQV2VsT243dEQ3Ul80YXRwQUlVbm5hdjJuaXEzYTJVT1RJaU9ZNXNxMG9EckV1TmtEQzlvSVZuYWZwcVlFRDlGS01mRWQ0c3U0aHdCMlRmSGJmSUU?oc=5",
+      "published": "2026-09-13T10:38:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "summary": "Indonesian passenger ship overturns, sparking search for about 130 missing NPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHZmaHJGMzNzQ0tSOFVqUFU3MDhNcEpVTzJUdEhqWXFWck5RN2ZobkRBNk9KUjZxcHNRT25lakMxX2hvOFo2RjNkYmV5U3NSSGNuSUFNVnNES3pKcE91dzl6VjF3dzMyZ0NybmVHMkpmc0NyVFpDMjFRUEdHLUs3akJra3lHeGlKVDI5bVh6OERJX25oaU1XZnZ1ZmlraXpVaTFNYg?oc=5",
+      "published": "2026-09-13T10:31:10+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +59,58 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Judge rules Trump administration order to fire FEMA staffers was illegal",
-      "summary": "Judge rules Trump administration order to fire FEMA staffers was illegal CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MbnNETGY2UUt6YS1ZaWNUQ1N4WmJMcDBmZ3I3aUpBdkJzaFpGMDBLNnR6ejNqRVpYN3R4NUZCeEZlcmstdUZUdFFBdFgwcGRuRHQ4czhmel9EYmZVblpkUTd3RmZxczZSRXBXaWxSc2dMTkxkMHplWXlDQQ?oc=5",
-      "published": "2026-09-13T00:11:00+00:00",
+      "title": "A wave is building for Democrats. Republicans are building a wall to stop it",
+      "summary": "A wave is building for Democrats. Republicans are building a wall to stop it CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTNHd3FfanNhc0pCSXhEeEowQ1ZpNjBQRUNQTmhtWHZyQXZpNEpTMHFoaXBQUFdjNXdYeW1rdGNSV3FPekJzWmFQNF9qeGZvT0hxb3FpUkR3dXZ2alBXVk42djg5UFd5VG5WMkRsLVUyRmVtdzdjYW5SMXN3RWhNbA?oc=5",
+      "published": "2026-09-13T10:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Iran reports commercial vessel struck in Strait of Hormuz",
+      "summary": "Iran reports commercial vessel struck in Strait of Hormuz CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxVVpfeTFKbWs2RXFtSllGY1JCek5Vd2pvb0UweDF3RFRadENXb2NlV1pIWmtmN25aZ3RHSUlTdWREZEc3U3k3MkV1UGxlbmlnWjEtLWM4VVhia1ZpVFZReGk5SWljeDhmS1d2b0I2NTdsbFdEV21YV2hkWQ?oc=5",
+      "published": "2026-09-13T09:29:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "How a young woman became an ISIS bride — and then an informant, helping save others",
+      "summary": "How a young woman became an ISIS bride — and then an informant, helping save others NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qbGdLY3pkSUx2bEhNUWJGSS14Tl9USnVXQmgtUEJDNlVuVjlQQTVsQTh2dTM3TF9sTGVKSkNXZDVTLWU4VHIzRWlVRVMwSnFrc1JPU1U2MlJKTS1GSG5lQUFWaWJUYTN5TFpiT29Ba284MU9uRFZpTm9B?oc=5",
+      "published": "2026-09-13T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "summary": "Obama voices caution on AI, urges Democrats to tackle it, NYT says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU5nNTZCelg4VHpDOEQ4NkttTTBBbHVoNXUyV3Y2QlRnZlZ4anlsM1FmRzVPUGZValpRbWF6R0tHX2hTem5XSnpKRlJINVktOWU3V3RRS0tuTERaZ25oc1NuSVI5ZDF6UE1zbk9mQnJLLV85V2xHRE04VXpkcHJFRXlHRE1BbVVPZjZUbWhNZERsSXR0dTE1Y0ZRY2paaE9LMWlF0gGoAUFVX3lxTE5CZ1IzaW40RFZsdE5ONm96SjNLbnd1OGxHanlvelVIc3U2SmlkazFTRWZxZlVIWEVUOGFxaTNmdmNmNFRCRExiMFE1MkdHYWdrZUJaZWxnTWlsY21MWVJ0c2otVzRqQlRYQmpPclB5SE4wNmh5WXlPVjU0RXJJS0p4QkhyRG1odmhmeFdpdi0xQVJxNlN5eDgxaERtUHRVeGx3SW5Sb0Rlcg?oc=5",
+      "published": "2026-09-13T07:01:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Search underway for about 130 people after Indonesian passenger ship overturns",
+      "summary": "Search underway for about 130 people after Indonesian passenger ship overturns CNN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjl2Qk5feU5fWXRyMGpPaVZJUVhBbURTeHdfU2JBQjUtRU1vUXByLVdIOElyN3VBd1RZaEtKVEFybDZuQ2V1ekFOV0Q0bmVnakk5VkMtcWIwY09JSnQ5SUFuZVBwaUNDaklrY3EyYjk1QjFEOG5GT2JLbnN1ZkhOQklsZzI2aXZfTWhyeGdScTdRQ2NSY28zaDlB?oc=5",
+      "published": "2026-09-13T03:33:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,27 +128,41 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "New world No. 1 Elena Rybakina wins maiden US Open title in three-set thriller",
-      "summary": "New world No. 1 Elena Rybakina wins maiden US Open title in three-set thriller CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxM0NnVVdNRUJ4NzJfdFJDSDAwaDRBZ1hCWjVvVWZMYlpNaEltYVc0MlBtakxKOUYxLTlqUzNSWmxYU2NVRnJLby1yNWliTWp4LUZkU0VMdGttUlFUMkNSRlFGSmY4OTRrN2RrZjF6RQ?oc=5",
-      "published": "2026-09-12T22:45:05+00:00",
+      "title": "Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis",
+      "summary": "Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkhNMzZqVU5KTk1hMGJ5VFpOTTVsUU1PRjVNaU5DREtTLU9tTzlFUF9zNkRSWVIwOWpMVEhudEVYeUk4bnZtcEFSRVJDbHQ0eUlBVXdka1RWUVNyeXVYVXdGVENObE4zQXJfc2hlaDJUYUx2VkdCczIydndIQ0gxVmVSamxfZkdEWE5idHhrMXRIX2ZodXQ5Y002LXQwTDZHZjBVOVowMmpPa2xuZVJkajY5dFN0LVht?oc=5",
+      "published": "2026-09-12T19:30:22+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-      "summary": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjFWVEF5VGlDdGlEQlVwbEw5T3cwSWhTLXZ3ZlVuUXF3MmdvV1BLTVU2X0RGM0d0S3B0bWwyV0RwTHZkYlNpR1ROSkU1MVlOdXFhcDBCVF9jVWxoX1hmV1BrUDEySkZTX04xM2hWeEQxaVNaV1FXYjZKQnY5Z09ZMmFKN21COVJ2SFZhT3RFV1Q?oc=5",
-      "published": "2026-09-12T18:29:18+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "LGBTQ+ middle schoolers took a conservative Virginia school board to court to protect their rights — and won",
+      "summary": "LGBTQ+ middle schoolers took a conservative Virginia school board to court to protect their rights — and won Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yLWpZTndlSml2NHA4TlYtVHhFbkNRTTNLZWoxQ19kN2ZsbEJnT3BubWlvV2c1YllYcEdjdngzSEhtODZKdlEyWGxnV0trbzNnRTg0MXNEUXdMV0NBNUtZYmNqTTZtcGtIQW14Zjh5a1RJNURaQ2lBZkdGR1o?oc=5",
+      "published": "2026-09-12T19:19:31+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+      "summary": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXlGeXFwWUV4Y0JJOVhXQ1FvMkxDTGhwOW1xX1hOQ0h6SU1nNXF5OXlMZnpheWdsMENTV05pMDYtTjR1WksxX1hjTmswMHJTazBBUzNxdjhvTkJMZTh2anB1QUV3T0NkNF9oajNvdkF1VkFaUlhoVGFFRW5aWHpEd0hoRTQwbW03enF0N3BGaHA0VWtWRjRTbHpsWS1NT0FNUlRSODMzVnBZRThlMVZlT1BXb0RzMXV50gG-AUFVX3lxTFByblB0dGY0VFViYXZvNjlpNFlRblBla0JBNGJVeDBPejVaVzZOaGVaMncwdmFLZmhqalRuNnBQVVVvSExzVDlBbFd0dTl3cmdxcElFSE80VFpTWjVTZzdYRHhDbWhQc1B2RkhLSE9FMmlVcmxEM192d19jempybTJFNVFkbmttV21FZU9ER3gzOUI1ZHFtTWZOUTdSVXZCbjROdlo0TEJEZERILXBKMV9BVXdEZzFsbE03VUxWV3c?oc=5",
+      "published": "2026-09-12T17:14:56+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -89,18 +175,6 @@
       "published": "2026-09-12T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "summary": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5",
-      "published": "2026-09-12T16:22:17+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -128,37 +202,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
-      "summary": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmFDU1BhckZ0MXVVUElqZVF6Q1lJemx3VWZlSXd6cmRpcmFYNUJOZmI1Q3o0RjlLSExfX3N6R0xTSEtIemJaRE10VEZkZV80cDhaVXFjWHhfSUZPektiNlJwRmJsckRpci1hc3lXRER3aE83NDJTUTRKT2tXc05yVE9KZE45MVJiVXdKUW9mRDcxblh1NTB1b0lPTEFsaFpCMHJlc21pZ3hrRlJTVTN3SGRlMEY?oc=5",
-      "published": "2026-09-12T14:37:07+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Queerty Crossword: Sept. 12, 2026",
+      "summary": "Queerty Crossword: Sept. 12, 2026 queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtakFMcW1lWXlzTDNlbFlNU3NwcWxEM1BjMUNxbHlFTVpzbWJsank5RXppUjBtMUtDaUtNVVA2ZUhsM2JmYUx4UTJ6MjBQcnFnbmRhblplU2pMa1dYTV9fSWY0UldCQ3poYkFfVjdRSmpIQQ?oc=5",
+      "published": "2026-09-12T14:00:00+00:00",
       "beats": [
-        "Business"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Buffett's confidence in troubled decade-old acquisition finally pays off",
-      "summary": "Buffett's confidence in troubled decade-old acquisition finally pays off CNBC",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUQyMm9YeXU5VGdCS3FadmNJV1o5WExVMmlNbDZNaDlQMXlYeHhVcDJfbTcySEJrMk5jZF9iU2phQlNhZ2JGaWhkYTNRMFhPeUVPR0UtYnZQYjBxQkliV1VQa0g5V3hvN0ZqQUtZQy1mLUpoRng2YnBLcVdVTTR0Q3pKWURYV2lTbEVzcDM3eVdZUldIUU41QmplMmlmVUxFY2tRclp1ZlhBM1ZH0gGyAUFVX3lxTFByQ3BSbEJmUE9SU1JkQlprVEk1aVA0Zy1EUmUyUVo2WGlpNURWV2pSdXhmSk9sSFg2ejBmbXhycGhEUDZpV1ZTeE5LZUxMQmpEQUFDeHJLc3JHRDVvN21qOXNVTjhuVkJvdThkaktoQ2Z4cjZ4ek4yWmxqdkhjaUZGcmhRdzVUaF91Qjc1WkhfM2tHVmh6VFF1VnBfekx5ZnFTS3dJT29KVU1ZOGZuZmFfS3c?oc=5",
-      "published": "2026-09-12T13:20:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
-      "summary": "'People are still afraid of those three letters': Fighting the stigma of HIV NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aR3ZoY09DRlZobnBWaDRyckItSWJZQ21zZEVLb1V6YXVLNFl2dkZrQlBWNzd2X0ZZd1NpUjVtdXA2TFB3R1hfYjdFa19rT0phUEg3a0V4NHBkTkJocG4tc2NpWXdVWWgxOEVpYXlXTkVkQTQ?oc=5",
-      "published": "2026-09-12T13:03:20+00:00",
+      "title": "Your health insurance bills are about to go up",
+      "summary": "Your health insurance bills are about to go up NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3FxcEl4NkdTd1N3RkhiZGEweDFCbFRLcThlOFdqa1pFLUdtcEYwYVR0V2FsQU9QWkNrbmdJZlozRm9acWhtZ0hVTWNrNmhpZjJhZ0xvY2pJRFgzQWZJMXRjSEY3SHhGdFlXZVMxVm5tcUl1bUtBQTAtLWF2WURFU3BjYnRFOER1dE91MG9lX2JUSjIyRVY1aVJMUWh0ejBNdXdqWURR?oc=5",
+      "published": "2026-09-12T11:00:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -173,6 +235,18 @@
       "published": "2026-09-11T22:37:46+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California OKs long list of options for training teachers in early literacy",
+      "summary": "California OKs long list of options for training teachers in early literacy EdSource",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWNLRUtvaTQ5OUlrbEpTSm1EdnBNaElDUDFDSFhRUGlDVlM0SHVaOUdrbU1jbElDeWlEYUZzT2JkU3lfVDA2M1hNcXRETlB3d1FpQlJaVkc5MTY0Z2VuZHZ4bHpPOExHaDBJVHdmRnpLTEpxVUs5NzZoNjJxczBmWTBhNkd4Z9IB-wFBVV95cUxPOWVKNjFNR3duVzg1dmlvcnkzaE40OXVOaXlUd0swOW1MdENqOWFhWldkcWVxM3phM01jZUtnSDhEcWh0NDU0OGVscFAzNmltbTVGNklQQ3ZwZGYyZHdibnlNTGY4MXBnd3YtWERTVHhUc0lGWG5LUTZfT2stUE5sMFFjellpRTZZSDdob21iZjJ4VHpPVVYyb1ZHeUczS1Q4VEZUeV92amZXR1NYb2tlSFJlOERVVXAwQ1BqeWxOeEZLNVV1N0JJQmVvR24ycVdtUnZCYXlHcjBUVzVIY0hnTEwyLVQyWUpjRFJfSVNwWFM1WlBRbC0ySjZCRQ?oc=5",
+      "published": "2026-09-11T20:17:54+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -195,18 +269,6 @@
       "summary": "Trump’s wild GOP convention speech was a ratings failure Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWnczR1BNSld1ZUdjNndOaHcyLWw3SHBuNjI0NXMtbGtxVms3SjVTR2N2MmZDRElwZ1lKSTMwLWk3cFhNZl9oSjV2Y2JOU0MtSDJfeTdoazluSFpUX0dIX2I2dWlsWlhHbUo1Yi1mYXVOQUR4dkw2Wmx5MW5WQQ?oc=5",
       "published": "2026-09-11T19:17:17+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Tr*mp’s DOJ blocks overseas attempts to investigate Epstein files as cover-up continues",
-      "summary": "Tr*mp’s DOJ blocks overseas attempts to investigate Epstein files as cover-up continues queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWM5VXZha1hJbDBWTHQ4Y1BHWUpSZXhpZ24yNzdhQm1yQ3c1VE1xZm1laHBBVUE2LTU4TzhHMnF2dmxBV0FQMDVWZW80TC1FUjJibHNPWTQ2VXFJMGtKRi1CNEFkQld3WmtDTk92TDF6TkNONDVvVnJKclBDVC0wWm1rMGFyZGJCZGRKSVhNWUw4TmJsck9ZSzViSHNuSmQwMzNQZ01mc1pweHhwZ0tyT1VDNnk2TUJDd0c0?oc=5",
-      "published": "2026-09-11T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -245,18 +307,6 @@
       "published": "2026-09-11T17:42:36+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Lutnick says promised $5,000 checks for Americans won't come from taxpayer dollars",
-      "summary": "Lutnick says promised $5,000 checks for Americans won't come from taxpayer dollars NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTJwb09mSmpqZmVlenFNR3o0QXVETk11R0JhenJrNlE1RTF5LUY5a3lDMG5xYVp4VkhJeU8teG1DSEZWVHh3TGZnSXQybmFUQnNfd2FxVWYzel9TbmpwX0RrSXRoczRjRmlKUFU3YU9jZldwYUNOQUJBMnFCdlhESERqWjRJcnBVSmx0LWpFczkzUVBsS3hUTlk1a1FKc2xOUUU3OV8wTGFZcmE0UGxKdUd5MWkyRTFoSUE5S1cxYURUUQ?oc=5",
-      "published": "2026-09-11T17:09:46+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -330,54 +380,6 @@
       "published": "2026-09-11T13:30:37+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Test yourself on the past week’s K-12 news",
-      "summary": "Test yourself on the past week’s K-12 news K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FkZzhjQVZ6R2hoYmxNNG8xQVRyWnQ0UnZvYjlsSS1MSFUwN3dsSDdXNVRkcVRNVGdDcnlSbEdHdWFwTnNWMDlrd1hJN21MeFJwNEZZNWV2VTk4Q2lhcnlOUVg2bnNmQ0VsekZsU1lrejAzODM0S1RGRTE1ZW5FcFFNNA?oc=5",
-      "published": "2026-09-11T13:30:37+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "She made the historic first call from a hijacked plane on 9/11. 25 years later, her family met the woman who answered.",
-      "summary": "She made the historic first call from a hijacked plane on 9/11. 25 years later, her family met the woman who answered. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmlYRVdXNEFkZkdJajV3U2V2XzFwYU9ZY3JZLTZqbWsyNDZwSTJZb2tJVGdLQTRfREdpbW03NnJkcktyclAwUkRRSUNydmtoZVlmSms4TERyQmRGZk1GNlBCSHF3MmEyX0k0THBRdGJVMmpWVEhuZnlDcVVLZjhvN2licE1UVXlBWGdRMlBnSlNGYnJEZ3RUcldZQUc?oc=5",
-      "published": "2026-09-11T13:21:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "The first recorded victim of 9/11 was a gay Catholic priest",
-      "summary": "The first recorded victim of 9/11 was a gay Catholic priest Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzaGhtdDl4RUZuNWlvaEQxZC1fVk5PR3FWVWVuWHk3a1BfNG9aOTRWNU8wLWNXbG9EUmQ4M3I2OWM2M3V2V0ljREtDQlpkTkJ0TWFHcVd3M3lSN2dKZnNid1NjWDZLTFRYcXAya3YxQQ?oc=5",
-      "published": "2026-09-11T10:47:08+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "What Years of Inflation Have Done to American Prices",
-      "summary": "What Years of Inflation Have Done to American Prices The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFFLWDlqRGN5YUtWbWRwQ1VvWWhoRHFEZzVKQnN6ZHJSQWh0VkNvSmZiOTBJc1NzVTRveHgzcHQ5WWZmNmJJZExUS3N3VUQ5cjAwNGtnTlZpS2YtX0xrU0RicEZpTVYteGpQWHlJTzhmb1FHTTdtRzhrTXI2c0htb283cUdSalFaV1NmX0ZvNXhCb1BFeF80NWZucUdBbDN5MEJYampDU0U?oc=5",
-      "published": "2026-09-11T09:04:36+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
