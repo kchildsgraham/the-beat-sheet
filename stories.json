@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:52:24.328631+00:00",
+  "updated_at": "2026-09-13T19:13:03.519003+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,27 +20,75 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-      "summary": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ebm16S0djWjFGYTEyTkZEdFdFR3FjdjRMdE5DeVE1QllJOG1UNmE5bDNTSEVqdkVRcGdSckN1N0xyWVh2aEc1bm5FNHpvNFlIYnJQaEI4eFR4TnNnM0hKRkhaOUNCLXVjTGJUZlN0YmpHZmJTdkNwamNDTkI?oc=5",
-      "published": "2026-09-13T15:46:56+00:00",
+      "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+      "summary": "Wisconsin congressman survives emergency plane landing, swims to safety NPR",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjhZTW16ZTRvYjZqNWxWN3lJZFYzcldnQ1BJdUpHcjR4WWZURU1qVXFKbS1nTl82Y0RjUXB1NUw2QmFaQ1YwWFpjNGFUbEFZVXB0T3NLNG1kYkJocGt4MjQtY0Z1SFVsanhfTEJzWEpuaThDbWZVVU8xaHhybWp0OHhBdWRDTGNQRHo0Y0xGdlJiRnFsYU9seTE1bGowbElTQXQxM3RITnE1b01SMTZGNmQ5bUhFQQ?oc=5",
+      "published": "2026-09-13T17:45:33+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump calls on Ukraine to stop targeting Russian refineries as both countries trade strikes",
-      "summary": "Trump calls on Ukraine to stop targeting Russian refineries as both countries trade strikes CBS News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Xbk9rb0syNTlqZ1JvZjFBZTVqUjVkaDNhNmVwY1E1UkZtTllUY0JZNkV1YXBOdkZOcXo4ZU9kMXMzd0JLZ0lDZmN4WnpjZU9mWjI3ajhQczlJdDdyQ2hySFRJOHFCRTdUZjNVb3NEV21zMU1TZC0tVg?oc=5",
-      "published": "2026-09-13T14:37:00+00:00",
+      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "summary": "Washington scrambles to meet calls for AI guardrails while the window to act closes CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw?oc=5",
+      "published": "2026-09-13T16:56:17+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "AI and the end of humanity? OK, ‘doomer’ says one Trump official",
+      "summary": "AI and the end of humanity? OK, ‘doomer’ says one Trump official CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObzd6WTRIWEdDZ0VSMDVPNVVFRUFwb1UxdVNrbDFQcnN2bjNzM1NoUnh5R3RZUU9ocFBKdXdpM1FqNVRVQ2J0Zk5BTHQ1ZFZGSmN0VEZyYjZycnRFVGRWM1ZlbU1kTEZIOGFGemdjT3c2bUFpMG44VWlDUGpXaEZqUA?oc=5",
+      "published": "2026-09-13T16:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Iran meeting with Gulf countries to discuss Strait of Hormuz deal without the US",
+      "summary": "Iran meeting with Gulf countries to discuss Strait of Hormuz deal without the US CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGsxb0lPRC1SQ2VWYk5iYi1vNm53bEt6elFqYmdaQUdXNzFxbTlIZmM1OHhVZGQ4Q2h3ZkI4R3dFUXdFRWF1bXNCLXBIT193NHRuQzJzR19HenRMZjRHTDJiZXZZSThfdGoxUlBOclhkOEZ3dnRiVmZremdBTnNrZTNB?oc=5",
+      "published": "2026-09-13T16:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups",
+      "summary": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wWkxadUVrVUllXzNUWUN1c1FGQ2Q4QVJMejlqM0t3a1JQOGJ2XzJ5ejl3ZUgzTndKT1lPTUl4WHMzUVlkS2dVV0Vab0txSzBCY1BMX3FzSXlFTkhQWnh5bEFfWUI1WHZvcjk3bzl3a0RYTkpzS2RuV0JzQzJ5QQ?oc=5",
+      "published": "2026-09-13T15:53:28+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+      "summary": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ebm16S0djWjFGYTEyTkZEdFdFR3FjdjRMdE5DeVE1QllJOG1UNmE5bDNTSEVqdkVRcGdSckN1N0xyWVh2aEc1bm5FNHpvNFlIYnJQaEI4eFR4TnNnM0hKRkhaOUNCLXVjTGJUZlN0YmpHZmJTdkNwamNDTkLSAYIBQVVfeXFMTmJXdGZqZG1xWURORnhQc0FLRjN4VGxQSG4yTkhxRzNjWWFtZzNQamFPZ3Z1TS1pVm13bzdHaWU0d0FER1BQUnlHUnk4U00zbmU0aGdfd3YwMzBaaWpvNlBvRjA2NFVIWWY3ZGduU1U2SkdSQWMyUlRiM2UxdkpHVElpZw?oc=5",
+      "published": "2026-09-13T15:46:56+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -51,18 +99,6 @@
       "summary": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmxsQTBxaVlzOFBJbndPUk5DdlR6NEtGdWJocmhRbWpoUEtsVzBKNnRKTnFkMlNrMWxXWXY0b0w3VWZLemlQc1N4a0x5bFkwYXNiNU1PV29MSVpzWWREOGpvd1MxOVd1ZkpLSHA1bi1qU1dDZWhGN01EN0JJQjVnOW12SnhNaWp40gGOAUFVX3lxTE9JOUpZM0c2bjNIR0ozVGo3cnE1R3lhc2wydU5KVWZYYVl5WExZWm9uZFAzM1RlMW51ampFLVFzekVtUnM3THlaV1JGcG9TMkNRNnp5ck10dW5VTHlYV1lIaDRfSkVOUmpieUlYTkpGdjZnQUwtT3BTMHA5ZkFfZXZFRjNJdnlMNlNDMkNxMVE?oc=5",
       "published": "2026-09-13T13:26:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Russia hits Poland-Ukraine border area amid wave of attacks targeting gas stations, Kyiv says",
-      "summary": "Russia hits Poland-Ukraine border area amid wave of attacks targeting gas stations, Kyiv says CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmxoYVBRX3hDNnhQV0d3TGFFRWFkcTVSMTdMS2tvempWeFFWd2taaDRiaVdnaFhfbjMzUm84TXNuRnJ3eDlfN3UwYS0wQ2plcUllWDdaZTNfbnJOXzJJSGR0eGRocUZMQXZoUlhjSDFfVVJXVlNuenFDMmd2LXFqVllzMWdrWUM0THJN?oc=5",
-      "published": "2026-09-13T12:20:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,58 +119,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
-      "summary": "Can you imagine a universe without a new 'Star Trek' on the horizon? NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwS3dDd1EyOTZSRC1MU2VCZUxISHFIUUhobnUxS0pzZTVXLUFnaEpMcVBYdHplVS1xbUF0Y290OS03YUpMcE4tR0lOTHIyYnUySG9tZnJmdDN1MzBsUHVuRjJEd1B1c1pacEF4bU5rbGlRM2Vv?oc=5",
-      "published": "2026-09-13T11:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Iran and UAE back joint BRICS statement urging restraint in war",
-      "summary": "Iran and UAE back joint BRICS statement urging restraint in war CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHJMTnFhX3c4Q3ZVUWtZMHp3bUUwQk1pZjczbGg5cW9zNEpENzZIUE55N2NNRzVkQVMwVHVQM3R2S0k3RE9RZWpsc1BBbUQxT3JpNjRMRHBVOVRtTjNxSVM0Y1U3RTRNUW9mckhYNHFzandwTWlUYkVHTE5zZll5cHNPdDBqOUVjTmJQUVJwRjd0WldyWEJoYWpqVzN3MGpDSmfSAacBQVVfeXFMTV9ZUzAtZy1HeW82VGdrSE5fR0lsRk9EM1lsYk5KMllpUTU5WEk0RlVueGFkLXQtNS01a3lLbEJGNDQ0bFY4aWhyV1lMem9kck9rNTZQV2VsT243dEQ3Ul80YXRwQUlVbm5hdjJuaXEzYTJVT1RJaU9ZNXNxMG9EckV1TmtEQzlvSVZuYWZwcVlFRDlGS01mRWQ0c3U0aHdCMlRmSGJmSUU?oc=5",
-      "published": "2026-09-13T10:38:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
       "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
       "summary": "Indonesian passenger ship overturns, sparking search for at least 129 missing NPR",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHZmaHJGMzNzQ0tSOFVqUFU3MDhNcEpVTzJUdEhqWXFWck5RN2ZobkRBNk9KUjZxcHNRT25lakMxX2hvOFo2RjNkYmV5U3NSSGNuSUFNVnNES3pKcE91dzl6VjF3dzMyZ0NybmVHMkpmc0NyVFpDMjFRUEdHLUs3akJra3lHeGlKVDI5bVh6OERJX25oaU1XZnZ1ZmlraXpVaTFNYg?oc=5",
       "published": "2026-09-13T10:31:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Democrats eye a new tool to hold Trump accountable if they win the House",
-      "summary": "Democrats eye a new tool to hold Trump accountable if they win the House CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOVNLekRhdWJOQWt6MDFSTHlrS1pHRU1obGQwWnE1Ymc5R052aEFIY0J6bHZfU2pUVHZiS0hRdjEwNnBMbERnNmZLaW5pakFpR2VkcVh3NTZ2ekQzMkp0VkItbjdEeTFNX0hpRG9GZ2V5Z1ZHZEE3SDlaeHNzdWZLSjBoZkR6dw?oc=5",
-      "published": "2026-09-13T10:30:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Why Democrats’ blue wave might not be as big as expected",
-      "summary": "Why Democrats’ blue wave might not be as big as expected CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTNHd3FfanNhc0pCSXhEeEowQ1ZpNjBQRUNQTmhtWHZyQXZpNEpTMHFoaXBQUFdjNXdYeW1rdGNSV3FPekJzWmFQNF9qeGZvT0hxb3FpUkR3dXZ2alBXVk42djg5UFd5VG5WMkRsLVUyRmVtdzdjYW5SMXN3RWhNbA?oc=5",
-      "published": "2026-09-13T10:00:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -149,6 +137,18 @@
       "published": "2026-09-13T09:03:31+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Worried About Your College Kid? Now You Can Hire a Local Mom.",
+      "summary": "Worried About Your College Kid? Now You Can Hire a Local Mom. nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtUWdoZlAyRjRJaWd5UlNKSkp4MGV4UDYwZTd0MGc3b09QTVhCaXRWcjRsV0VFZWVxMUVFUENlNVVSZ3lkT3N5SHNvc05Pb0hwdGJXaTVJV0hrcmtETE9sc2Z3UXZlUTU1Z2NNdVFEcGRsZGFt?oc=5",
+      "published": "2026-09-13T04:01:07+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -194,7 +194,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Dylan Efron’s bro trip, Patrick McDonald’s cruise fit, & Ronnie Woo’s snack",
-      "summary": "Dylan Efron’s bro trip, Patrick McDonald’s cruise fit, & Ronnie Woo’s snack queerty.com",
+      "summary": "Dylan Efron’s bro trip, Patrick McDonald’s cruise fit, & Ronnie Woo’s snack Queerty",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGhmNXBidmdmcG1EbS1uUnVlSDZGNjd4b0tLS1U4SXBjMGlxVEo3OUJacGJ1WWFWME51ZUFMbG04aTJOYWRJUlB3dEc2VE5KeWliTGd2MGdPY3VjU3ZOTnVfZXdObVZiQjJRdk9tWkNkYXhsNHNUeHRGVWlrdkJEWklwcXh2OWx1ZGN5dWY4RjhVNUhWQk0wUGVzZHhiQkpONWVMWQ?oc=5",
       "published": "2026-09-12T18:00:00+00:00",
       "beats": [
@@ -206,7 +206,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Tim Curry played a guardian angel DJ to two baby gays in this underrated coming-of-age tale",
-      "summary": "Tim Curry played a guardian angel DJ to two baby gays in this underrated coming-of-age tale queerty.com",
+      "summary": "Tim Curry played a guardian angel DJ to two baby gays in this underrated coming-of-age tale Queerty",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUVVQi1pckFKZUtDWkwxM1JPeFZxRmpURmtrZ3dzUW5tQWc0TF96SEpyaDlweDYzU0MyUkQzYS1rVzhaVkd3c1JaRHBmb2hLSjZWOUszY2dfV1RTaEFZNl9pVTA0NGFabFU5RTdhMG5PQTgzXzhQYjlKWDlTNGEzVnBkR21IMzZJbWFaRGV3NTVablFMSE14Vmg2MmdKY0lOMkRIQkZJOG5mMXZvOHlGcmlDUlpwdXFHbHlMRUV1N2xnQQ?oc=5",
       "published": "2026-09-12T17:00:00+00:00",
       "beats": [
@@ -230,7 +230,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "These gay coders have us wanting to see their Python",
-      "summary": "These gay coders have us wanting to see their Python queerty.com",
+      "summary": "These gay coders have us wanting to see their Python Queerty",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFd0SzBxWWxJbDBlUkh4NDVGVjNfWmtNYUtlUnJ2WVJCd0EzZklVa0NDcG1Tek9FOThxdUJfWk1mdE9tNVJIN21RZEg3TEVNZlpLZkwtNTB6T0piV1REVDlmdDJUZkZsb1g3emstcDBoREx1SlNSUVhLeHNSdEZZMUp4TE5COEYyVlhralYxUQ?oc=5",
       "published": "2026-09-12T16:00:00+00:00",
       "beats": [
@@ -238,13 +238,13 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "As MAGA Inc. begins to spend on Senate races, super PAC chief says he’s ‘cautiously optimistic’ about midterms",
-      "summary": "As MAGA Inc. begins to spend on Senate races, super PAC chief says he’s ‘cautiously optimistic’ about midterms NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFRiUkRsd0Z6TWQwWDdsZW95RHFRNmVzYnFPUkU4c2ZyUGVvM1doSFR2SU5rSFh4RmNvdnJOWk1kX1VJLU93LVRFVkVSYVlhUDVPbDVBVWJYb05ZVnpMTTZ2WVBPdzIxdDFTeWYyclNZUlR4bXV6aUl0aVdPMzNMMlVGWFZONlJ5dmdaa0s0dEYxbGJSMUUxLU5xalRQeGhZVTJ1Q2d4a2ZJaVMxa2k0eFYxNkVNRTVYYVRGOQ?oc=5",
-      "published": "2026-09-12T13:00:00+00:00",
+      "title": "Santa Monica's Ocean Way Festival canceled due to beach erosion",
+      "summary": "Santa Monica's Ocean Way Festival canceled due to beach erosion CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzhwdGJUZWxIelF0ZzV6U3Y5akhyVHdOb3lsSWVUTEw1ZlF4UGdMVG9ZYk5jTlFMT3lKZ0U2WGZ6OXpXc2s1NUt5b2h6dTZEdk44NUpIYTdHX29zMUM5Mk92bVlmbEE3WTl4MXBhWmFvbkJYV25DOEFJaEhfRUxQN2JxTzN6aTJKbl9nbEJuWldBTWltcDNPVVJYZw?oc=5",
+      "published": "2026-09-12T01:41:38+00:00",
       "beats": [
         "Politics"
       ]
@@ -262,11 +262,23 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump loyalist probing Mar-a-Lago search says DOJ tensions sparked his resignation",
+      "summary": "Trump loyalist probing Mar-a-Lago search says DOJ tensions sparked his resignation NBC News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXFxdHI5bWNrQ1lGYlpxYndlckdrUjJDLXJ5b0FxdU5oZ1RLR1dEUW1pQUFCYjhyWTk3Sm9uUmVRSVFETENtZVhEMGxsQlRmMnhSNzhxbU9wVXRlV2xNMnh3OHpzZHJlOGEweFowaWQ4YldtbnJYMEE4bTktTHZ4MGlPSmN2SkUzUG8xbktURWU4Wmdac18wa1JrU195eG9iWnRxLVJNYi1NSzFhNE1MejQ5Y2RKWU5OMi1FMzJObXhzMkVncGoybXZWTHdGZw?oc=5",
+      "published": "2026-09-11T20:55:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
       "title": "California OKs long list of options for training teachers in early literacy",
-      "summary": "California OKs long list of options for training teachers in early literacy EdSource",
+      "summary": "California OKs long list of options for training teachers in early literacy edsource.org",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWNLRUtvaTQ5OUlrbEpTSm1EdnBNaElDUDFDSFhRUGlDVlM0SHVaOUdrbU1jbElDeWlEYUZzT2JkU3lfVDA2M1hNcXRETlB3d1FpQlJaVkc5MTY0Z2VuZHZ4bHpPOExHaDBJVHdmRnpLTEpxVUs5NzZoNjJxczBmWTBhNkd4Z9IB-wFBVV95cUxPOWVKNjFNR3duVzg1dmlvcnkzaE40OXVOaXlUd0swOW1MdENqOWFhWldkcWVxM3phM01jZUtnSDhEcWh0NDU0OGVscFAzNmltbTVGNklQQ3ZwZGYyZHdibnlNTGY4MXBnd3YtWERTVHhUc0lGWG5LUTZfT2stUE5sMFFjellpRTZZSDdob21iZjJ4VHpPVVYyb1ZHeUczS1Q4VEZUeV92amZXR1NYb2tlSFJlOERVVXAwQ1BqeWxOeEZLNVV1N0JJQmVvR24ycVdtUnZCYXlHcjBUVzVIY0hnTEwyLVQyWUpjRFJfSVNwWFM1WlBRbC0ySjZCRQ?oc=5",
       "published": "2026-09-11T20:17:54+00:00",
       "beats": [
@@ -302,7 +314,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: San Juan Unified enrollment drop is 4 times larger than expected",
-      "summary": "UPDATE: San Juan Unified enrollment drop is 4 times larger than expected EdSource",
+      "summary": "UPDATE: San Juan Unified enrollment drop is 4 times larger than expected edsource.org",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUt0OURDRHVfbkY4dHBJRjYxb2dlb19iaVBMY01UWjRrVHJGN2ZCQUUyYk1GVW1VRk1DeFpnaGdXcEJLOXpVRi1ZQjZ6clpBX0RTUU9CS19Hb0I1Q3EtUU02UXRHa2xQay1aM2RiNkF0NTV2T3UxYk9KTzZBVk1yVU5QZmFQRS1BY3lVWldOOWltanZIak53bDhaaTA?oc=5",
       "published": "2026-09-11T17:47:10+00:00",
       "beats": [
@@ -319,18 +331,6 @@
       "published": "2026-09-11T17:42:36+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits?",
-      "summary": "8 in 10 Americans Say They’re Taking Supplements. Do They Have Benefits? nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NLdndhUmhiX1lGLUFfdWZwZmVHc3puSlFXYnFNU3ZZSUZ3cFQ0YjMyMFZQX0VpYlBLZUNsd0J4ZXRBTTlYRnVOSmdvR3RoVE9OX1g5VGZwR1ZUYzF6ejBaRW1NWXh2X0VTWGQwRjZiVi10VWlseV9MMmN4NzBnQU1PVlQ4ek50YUNYTw?oc=5",
-      "published": "2026-09-11T16:42:10+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -374,7 +374,7 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "‘Zero positive outcomes’ from harsh preschool discipline, report says",
-      "summary": "‘Zero positive outcomes’ from harsh preschool discipline, report says k12dive.com",
+      "summary": "‘Zero positive outcomes’ from harsh preschool discipline, report says K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmlLa2VYSnlxYXVxa2N2S1dfYnNjOFc1c3dNSXJYckQyOEM1d0hsaDdjOGZhMUMtUTF4M0FfTU1LQ0xiWnBuN2lyRGVReFdNRUlBdEQyTU5CSnpFNDQtMDdzMzg0d192Y0oxcG1la29sZ0ZwX3ROUTVxdkhvWjMyZ1dNaHp5NXh3OU5iZ1A4MGdGUjNQSWQ3M25qSFFCVDhYQjhJUzRuR1czbEg2SGR5RjZUYnB2UQ?oc=5",
       "published": "2026-09-11T13:30:37+00:00",
       "beats": [
