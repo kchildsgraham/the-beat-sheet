@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:34:53.573885+00:00",
+  "updated_at": "2026-09-13T23:55:39.671877+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,18 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil prices rise after Saudi Arabia shut down critical pipeline that bypasses Strait of Hormuz",
+      "summary": "Oil prices rise after Saudi Arabia shut down critical pipeline that bypasses Strait of Hormuz CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWFrNEdSMHhodEJrS2thdWhURmpWejhTNHljZTZEVFpnVUp6cDV2Z202cTA5WVlINW43YVhWeXNjNnRLWFVDVWFlT3BxYk83eGlBWGRzZUVOVTJKbGE5Zl9XelpCOFpLUVRsajFMU1M0WmxaMWo5eVhHeElnZmFpQ2c1U1F3MUFKbks4ag?oc=5",
+      "published": "2026-09-13T22:08:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -104,15 +116,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Taxing high earners to help fund Social Security gains bipartisan attention — what it could mean for benefits",
-      "summary": "Taxing high earners to help fund Social Security gains bipartisan attention — what it could mean for benefits CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiMnRhLWRQaFh0dDQtMGxLcUlpejdNRk5Ob2xPTHBVRUFTdk14SFBQYTNCQTFiYUt3VEg4TXN6bUgyV0xQQ1JwY2R2dDZHLUNZS3l3TGx4aFZKTDZxbGdndGxFSFE0c2c0aU9DTWhNOU1MOHJtRkxZ0gF8QVVfeXFMT3dZUmJNMVpwNFV6MHJpdEE4eGFwSGhhNWFmNHFHaHBEYTBjWDNoaWtvZHFOQzdxRDhyVllZeWxvcVlVTW9sNzFnbjNxRUpaaGw0N1FEUFVoRzVXZURSUFRDa1VBUTVRZWw1d1Itb2pXVTBLWEFCNWdzeWZQRQ?oc=5",
-      "published": "2026-09-13T13:30:01+00:00",
+      "title": "\"Who do we hand the baby to?\" Loopholes and shady practices taint U.S. surrogacy industry",
+      "summary": "\"Who do we hand the baby to?\" Loopholes and shady practices taint U.S. surrogacy industry CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FemlRa0xnMXhCX3FjNDBOODZMSjVuLWs0bnFFRExfa1JqcnRfZVRCX1VISkhueXAxMzdHR0EzZWZMejJ4N003VXR2M0NHVVdyb3VIdGtyRHhUTGhNRVhCb2hsdks?oc=5",
+      "published": "2026-09-13T14:41:24+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -144,7 +156,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Inside the Outrageous Collapse of a ‘Montessori Ponzi’",
-      "summary": "Inside the Outrageous Collapse of a ‘Montessori Ponzi’ nytimes.com",
+      "summary": "Inside the Outrageous Collapse of a ‘Montessori Ponzi’ The New York Times",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjBLMnBUTEpjQ3l6dXFGelY3ODFidTloUlNJcXFZUklvVnBlR0xWeHlkc1RWZldVdm9YNFlheFVzQ2lDS1VGZUhSRTVxUGZPb1pnbEdORF9hblVuazE0M0tDTnJkZlo4NkgwaHg4WXJKVi1YaEVNdXhUV2tiWFpiQlZEN0ttMjFfU0NjOHFmZDNOOHV3MEczcDhiamN2Q3hkZDFkbA?oc=5",
       "published": "2026-09-13T09:03:31+00:00",
       "beats": [
@@ -165,11 +177,23 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Alameda church letter postmarked in 1955 returned to sender",
+      "summary": "Alameda church letter postmarked in 1955 returned to sender CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDVtdUlMZGdqMGk5dVE3UUpVOVRuSWtYME85OGtrYUhyc2lZVnZuVDZmUlNVRjRPNmlfT2ZxQ3lvajQwSms0YjJCMVBlb0ZKWU9yN01XZUVqNVdRNlBZUHE1Yl94cWNpNThtamFIYUpiZ0ZoZXVObl9XZEd2a2l5LXczdThBbGtjdmlCYm45dGJZUkpoekkxU2FqTkNTZlk3UHJBbQ?oc=5",
+      "published": "2026-09-13T04:21:31+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Worried About Your College Kid? Now You Can Hire a Local Mom.",
-      "summary": "Worried About Your College Kid? Now You Can Hire a Local Mom. nytimes.com",
+      "summary": "Worried About Your College Kid? Now You Can Hire a Local Mom. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtUWdoZlAyRjRJaWd5UlNKSkp4MGV4UDYwZTd0MGc3b09QTVhCaXRWcjRsV0VFZWVxMUVFUENlNVVSZ3lkT3N5SHNvc05Pb0hwdGJXaTVJV0hrcmtETE9sc2Z3UXZlUTU1Z2NNdVFEcGRsZGFt?oc=5",
       "published": "2026-09-13T04:01:07+00:00",
       "beats": [
@@ -193,21 +217,9 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-      "summary": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown nytimes.com",
+      "summary": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
       "published": "2026-09-13T00:15:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Isle Royale National Park hiker found \"alive and alert\" after being missing for a week",
-      "summary": "Isle Royale National Park hiker found \"alive and alert\" after being missing for a week CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUx3clVzbE9YTnE3RTYtOFFhUVFaVlIzaVpqVl9GMXpjRTBpU2RXTnpGMFNsQUtrVko0bHAtNkdDTDdVNnE1M05oYlJ1UHpXLVRydDdzbElpOVB2dnZnamNDMTVZdXVOVmR5NjVjbGZPRmNYb3J6T3BMZEZ6Y1RKVQ?oc=5",
-      "published": "2026-09-12T23:37:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -275,18 +287,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Trump loyalist probing Mar-a-Lago search says DOJ tensions sparked his resignation",
-      "summary": "Trump loyalist probing Mar-a-Lago search says DOJ tensions sparked his resignation NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXFxdHI5bWNrQ1lGYlpxYndlckdrUjJDLXJ5b0FxdU5oZ1RLR1dEUW1pQUFCYjhyWTk3Sm9uUmVRSVFETENtZVhEMGxsQlRmMnhSNzhxbU9wVXRlV2xNMnh3OHpzZHJlOGEweFowaWQ4YldtbnJYMEE4bTktTHZ4MGlPSmN2SkUzUG8xbktURWU4Wmdac18wa1JrU195eG9iWnRxLVJNYi1NSzFhNE1MejQ5Y2RKWU5OMi1FMzJObXhzMkVncGoybXZWTHdGZw?oc=5",
-      "published": "2026-09-11T20:55:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -315,7 +315,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Courts Lets a State Law Limiting Race, Gender Classroom Discussions Take Effect",
-      "summary": "Courts Lets a State Law Limiting Race, Gender Classroom Discussions Take Effect edweek.org",
+      "summary": "Courts Lets a State Law Limiting Race, Gender Classroom Discussions Take Effect Education Week",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEdCNHRlSTl3Z2dZSmZyZjZJdklhdG43cmhpRVRkOWt0NlNwNWNvQk9pdHAtZGxNaDk5TlItc2NZb3Q3OTFYTS1QRzhPLU1yaFlCdXo0UldlQVVOdUtBU0FMbmJZdEdKbklQR1ZmTU1STmtlS3JJRXFXWjNiNUVPMVNRcUFINy1FRGgtNlJDaTlSMEZEYXFIb1VveGZvUFBFZUt0MjE2My0xeTFqeDNpN0hrcWtYd3k4THI4SHZ5eFcwVUE?oc=5",
       "published": "2026-09-11T19:13:22+00:00",
       "beats": [
@@ -328,7 +328,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Parents Are Reading Less to Preschool-Age Kids at Home. What’s to Blame?",
-      "summary": "Parents Are Reading Less to Preschool-Age Kids at Home. What’s to Blame? edweek.org",
+      "summary": "Parents Are Reading Less to Preschool-Age Kids at Home. What’s to Blame? Education Week",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0llXzVycURBTFFGZGlUUWtYN21yNkNSVkkyMHZWNHVOX0lHQTRSVzlIbDBrZ2g2VWwxenUtNW1ldlhhbmNkdmtqSVF3R2lRU3k1bmhOelN4TEJtTS1xWmM0XzlSQ0tFMUxORlJSSHZiX0pzdEVJTG1fanNfb0h6V1hiUzBYUXhwMm1Ibkd3djdIaXVvbmVIb3d1dTdBdHFVM2ZuUDFaLVJ2TlBMMWJyVW11bmNKVy1LVmc?oc=5",
       "published": "2026-09-11T18:02:38+00:00",
       "beats": [
@@ -352,7 +352,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "New California Laws Aim to Protect Kids From Social Media, AI Chatbot Risks",
-      "summary": "New California Laws Aim to Protect Kids From Social Media, AI Chatbot Risks edweek.org",
+      "summary": "New California Laws Aim to Protect Kids From Social Media, AI Chatbot Risks Education Week",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnhTSng3aWl5Y2dwUWVCRFl3MFFCel9UQWFlNmFObHBNeklrYmdKbHgxaXpwX2VxckJvVHZTNjVaUXp4S1FEb0RxNGxXT1VQcElYSWE4ZXdkVTFyUzA4SFB2MEFtbzFQcFhtRXI4aVFxNEVuQ1FGZ0tnaHdxdEIyb1hSOWtTUnlldmhacWFGbWFlUXlXXzdNQXF2ZE9YTnB5a1NzWUJScXliU1VUcE5fanFpa3puaF9PSDN1VTd3?oc=5",
       "published": "2026-09-11T17:42:36+00:00",
       "beats": [
