@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T10:03:13.530880+00:00",
+  "updated_at": "2026-09-14T16:27:47.006977+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,159 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
+      "summary": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
+      "published": "2026-09-14T16:00:07+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "10-year Treasury yield hits 5%, critical threshold for US economy and markets",
+      "summary": "10-year Treasury yield hits 5%, critical threshold for US economy and markets CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91dmcwS01EcUI0YWxEZ3JjZFJKSXlPUXVVNE12b3NMd0FtX0p5ckVmRHhEdTNYMUpNSVVfT0ZqVjNkZUhkTWVrSGloV2dJY3JhYWw5bEtrZy0xd3NXTVdJbXR0RFllMEJCbWRyOHFkOXdpR0Fzb0E?oc=5",
+      "published": "2026-09-14T14:21:05+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "AI stocks slide after major CEOs unite to urge slowdown",
-      "summary": "AI stocks slide after major CEOs unite to urge slowdown cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UN3ZhUXVyYjUwVGJwSXNkLWpiUmxnTks1M1BHU2E1dHJheFY3SzVjZEExWFY2c181bnp3Z1FPUFFabUVJeFVES1JMZ3I1Z2VmQmE0V1dWX3NlamRxUXZJRFRENUI2RDcxUnlCWGNmOVlndVdSRFRFd9IBfkFVX3lxTFBxTmthMDNxMUIyNjBMMEdTS3FuSkVHSXh2NTN1Nm1NVEs2bV9iZmJXN0UweF9kUmVxR013LVByUG5JNUJDZkpDbUkxSkpSQ0lJdVRUOGdxT0RwN1R5V19JYzc1aUlKUFFoWVlZMnEwOEpycDAyWGdPZHlsUnV1UQ?oc=5",
-      "published": "2026-09-14T08:00:08+00:00",
+      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+      "summary": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
+      "published": "2026-09-14T14:09:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year",
+      "summary": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDNCekNDRXFHY1Y1bWdCSW5vd0ctZ0tWYy1mX3ZlVTdJMXZxQVdBVjVsc3RfekZsbUZudndLOVVVamNkZXQ4ZmRLbVJnck4zZ25MVS1pa3BCa2hQV3BlczFPcmV6bklHWFlwX1R6bWFnVnlvMjFMSXo3bjFIMDNhYXlJeGRSb0xLdS02Q25qa2lVNVR1UDFtMG5hbmxvYUFfdTRrSm5GRzl5LVBtVDJ3Z2RR?oc=5",
+      "published": "2026-09-14T14:03:26+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+      "summary": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXVEWmw1RWlOWWUzUW9vU25xcC0xUHV3SmZEUFNVWGxLSGhNN2doT3pjTXl5UzczcnNiemNFZTdva0pnZVhULXFxZWxqdjJxV0oyZkdvSElxMTdQSWd5THV4dnNld1BSZUtuTXNLTHdfRF9Rd1lWOWNxLWVJUmlQVHkwTTZQR3hQX2o2S2c2RUtaaFBieGtR?oc=5",
+      "published": "2026-09-14T14:03:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "The new early learner: Designing for a future we can’t yet imagine",
+      "summary": "The new early learner: Designing for a future we can’t yet imagine K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzZBVnRTdG9wanpaWXkwQm5nU0g5VEJRcVhyY1NaR1EzVHFPQjhwOE02cjViandWVG94QVlaTDE3QThENXVzbnREQXJGZzRjcndaWG9uZDh2a0V0QndnWnd3SjFQdDEydU5KWjQtcDNFdzVMdjhxMlVweU1Lb1JBTHBPa2ZMdUt2MjNmVnYtRmJvOEx4Y1JpekVXa2RoVmkzbGNwUA?oc=5",
+      "published": "2026-09-14T13:34:10+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+      "summary": "Microsoft sets limits for future AI models as industry throttles frontier development CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlJYLXlYazNYam85R0djdHlHOENQdGhCZkdQY1l0LTdmYnNMS1ZocFBpUl9wS2ZqamZyWXQzcXYwaW9vdkRMbEJ0ZFFFb3dydHNIdFBfbXNBVjJrdlB2NlNVcVBKMEdTWjVzd1VUeGtXcnJqUS1vMTI1WVRlWnZFREsyMnhiZ9IBiwFBVV95cUxONVNwbzBjUWFaOXRVblJ1ejIyRVlObEdPNW16aEVPaG9VRWxydExnZ2dvSzROWGprTTdYaG0wbEJ3aDJUb1RuVENIVTdySDVvTTBCR19YakpPTG5JeHRiYmRPY1pub0lBTFBvV01vS3lUeFpSUUp6U3QxdW9uZjRQdTY0b2ZYNUszbGtZ?oc=5",
+      "published": "2026-09-14T13:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Athletes hit back at sports betting ad featuring Sydney Sweeney",
+      "summary": "Athletes hit back at sports betting ad featuring Sydney Sweeney CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVHU2QnRQRGtIa29oR3JnVUs1Y2VrWFJOWDZDY0xBLVZkWk5ha1J0VmVFYnZVYzh1elh5MnVuNEVRRDNKSC1FcFlxNlN3Z2VKTU0yYnlxWkc0V2o2OFVFd2p1ZG8zMkVtMWJLZC1PaDFhWDhmRFdkSU1Oek1GZVNSbmYxTkVneTRKUDlfalRoLTRCM1k?oc=5",
+      "published": "2026-09-14T11:01:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
+      "summary": "This city led the way on reparations for Black people. Trump is trying to stop it NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkF5UVVWdnZ6Y3hUdlc1LTJhUmJ5OFdXZU4tRzR2NkdOWURWSG45c2piOGt0Slp6dnhnNTJFc1pFVE5MWF9GLUljY1VrRjFJdlVFWEZtQlhIa2NXSld6LXlFZ21mSFZtTV9DbG1OZWtJRVp3UVNTTU83bU5MeDh1anYtZE5IMEV0Yi1JWndOV1B0eXlpUEE3RTlfdw?oc=5",
+      "published": "2026-09-14T11:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+      "summary": "Beijing hits back at Anthropic CEO's call to curb China's AI development NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzlDMS14ekNidjBCaUU2WVdmMTFnWnJoN3BYWDlKY0lPN2FqNVBMcDJlckVmMnM4ajFmZFF1Rk4zdTVJcFBiemgwQVhnUUliZEt0d3RaamNYbW1ldXNOX2I4RC1wVWpuTUJvMkpxamxUYk9adGk2NGs0bzZTQ2xxdA?oc=5",
+      "published": "2026-09-14T10:09:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: Putting PISA in perspective",
+      "summary": "Week In Review: Putting PISA in perspective K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoaFZGRUl4SnV0OVF1dWhLdERKQlB2WjVXYjdkamhNbThtWTFVaDF2M1FBaUNXWnhBc2Rlc0RKLW5NZ28zLWVQS04zX2VrMlE3RjZyWGlwd0tJSUhuaElMeTAyRjdIN3lXM0NyTXpQeEpUQQ?oc=5",
+      "published": "2026-09-14T09:52:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump dismisses China spying concerns: ‘We spy on them too’",
+      "summary": "Trump dismisses China spying concerns: ‘We spy on them too’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWNIeG9kY0xBWkNkUWZ6WUdDbS1ITVNmaHRMQWl6UEotMEh3N2JPTTFnS2E5YkE3aHBGTlQ2bDAyNWh4UHdoaGRFUWlMUXRKcmE5UWZsVEdvWHktR2MzYlVjV3BvVDRXY1VJTGNiRDBkc1RCRVB3VG5CSkczYjgyb1phTlg1alZrOWc?oc=5",
+      "published": "2026-09-14T09:41:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Measure ed tech by more than screen time, American Psychological Association says",
+      "summary": "Measure ed tech by more than screen time, American Psychological Association says K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZElFczRmMndxeTY4QTZlOHZjY1NFSm1MUnRvSDAxUUN2bTdFSDdVMjBxWFYyVVdlaVozS2tGT25MaWxHWEhpRHlPRGVDSnJsU0QtbXpEcVBmYlh5c0tQdjJJck1JTHcxTmp2MXk0Rm0yVmtjLTF5ZEZlUUZMaFBnSURINWd1a3dYeGc1a0U1VjFCM1BNek9WbDZVZ1VsNGFobDF5ejdOZmtfaVlUUTZ1Nw?oc=5",
+      "published": "2026-09-14T09:33:43+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -45,111 +189,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
-      "summary": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemVyQmlhME05bEdMR0c4eWxoTUwwMEphRkdVd0N1S09UZDlHRnBRbGpHeGpWVTFHdG92X0FPREdUSVZCRzNOVTNfVnhOZXVrQUlCeHpRdVIwbXBMc1NfdGRKR3dwaWEwWXlZUUNCdTB6TFZycXJSWWVSV1J6ZWMwQ3JadU9nMG5BTFVLTdIBkgFBVV95cUxOc0VQS2RieHMwT0dxZ1JoamF1QVFWOFh1T004SkdKaTlTdnJyMjhyakxGZlNBbDh1dmswbDluNVNieFdtdlBEWk1YNFJEZHFfVV9yLXVfZk1YUXRaVGg4d2pLTTh5Y1NhZlFkeXFVWmNKeUltanREaWpDWUZyUlNQNUdhZUdkWkJTSld1VzBzbm1WUQ?oc=5",
-      "published": "2026-09-14T07:00:01+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Benson Boone's Spidey suit, Kai Cameron's straight voice, & Jennifer Aniston's \"potent\" margaritas",
+      "summary": "Benson Boone's Spidey suit, Kai Cameron's straight voice, & Jennifer Aniston's \"potent\" margaritas Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1hXSGExbkQwcmFYWUJScVZnSmoyV3o1Q2JENGJrMFlBaUNrTnVlZ3pnTUNxcmNYa3pSbFFrM2JfZDB4TE9KV0JLMDlzWHlpa25YVGxiNVEtS01Cb044Nl9tYkgtWVg5Rzc1Yi0wYWp4a1NqbEJXeG9yZ1MtQkszM3VOYUJpdUVUMTJVVUFtV09raGpJY1lBUlpiVndWVVdNZ041TDNNOWw0NE04MjY3a0dsdWNqeWlNV0h4ZWxqdGc?oc=5",
+      "published": "2026-09-13T18:00:00+00:00",
       "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: 'Whoever wins AI, wins'",
-      "summary": "CNBC Daily Open: 'Whoever wins AI, wins' cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFowWl9RMzRZZ1lyVGZ3bG5aOGdvREhQU1Rab2dkTjVWRWJXOTg1QXBSRThvWlQyRGtVRkY3LXZzekd6UFlFanlRUmZ2UVd0UGRoQktOaUhtOGpZNmdnMzlnWXk1RFVWVktxVWl5UVJmQnZaUWlYZTM4bFhKb1c5ctIBhgFBVV95cUxOUWdnVXd3RDluNm9UQmZyT2IzR1dlR0lCbHB0Rm5Db2FLZUcxUXBXaTFVWHFaZGlrY3FRb1NldVRZRnJpclpFTHFLRTZpc3BoQ2h3VzA4MkJ0Q2NaWTN6NDgzb1Fwa3kwS3huLWlxRy1vLTRpUnRaSGNGSjlEbjAtWE9Vcm1IQQ?oc=5",
-      "published": "2026-09-14T06:25:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-      "summary": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmt0ZlZ2M0RoYV9UR0FXSTd5RkdRbWlFTFlrZHNkLWVpTUpzakU5OVdBd1Y2S3RycFRXQmk1TVM5MV9HMndHYnIydXZXZGIwcUljaFJzOW9kN1o4OG5LeC11bkljdHhRR2pvMC1TMWw0dkk2c0lqbDAwTGdmMVdUUw?oc=5",
-      "published": "2026-09-14T06:20:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-      "summary": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSHp1SnFvZVg2SktUeEotcTFReFVvaGo3cTRVbUZTc1ByS3VNN0RmTm02ZU1SYmdFTUdxbTljOEdqZTl3UklXY193RHFoX3dLYmFpd0N3dWc3dlEzU3BuR2l0MU1RMmIxM0pvTGQ0MWFZM3VoU2dYVTR6VHk?oc=5",
-      "published": "2026-09-14T05:46:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
-      "summary": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3ctWDZmSWhuWDdKeWp4NVhaVk9KR2s2eVZvcVo3Rk94d3V1a0JzbnkzSEl2WnpDREkyLW1xOWdscEVLME5ka0E4OGVJMkpFeng1U2NYd1BlbTRQeVgtUTh6WEVadnc5dzE2RUtreGZ5LW9kbWQ2aEtNMWZmUzVkWVNDTjJuUQ?oc=5",
-      "published": "2026-09-14T05:26:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Reports: Kennedy Center warns of bankruptcy unless Trump’s name returns",
-      "summary": "Reports: Kennedy Center warns of bankruptcy unless Trump’s name returns CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjk5bldsLW5zejIzdXhqT29faVNlRkc5VXJpWGl6djdqY0RvcFVZcEhjYlNZLTRRSmZxOXVtclA4VlI0NmVjcTNCZ1ZVWEdaSThyTFRyTnI5X0JrbjByamhGVzJTSUx1V29UWHdEUWY4bkkwRU5Ed3BMZFZ1UFNMRk9Pam82Rl90ZDUxVkdNQS1BQQ?oc=5",
-      "published": "2026-09-14T05:21:26+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Ex-CIA boss was at Ukrainian station when Russian drone struck train",
-      "summary": "Ex-CIA boss was at Ukrainian station when Russian drone struck train CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFk1MGw0SWY3MHJSUHpRWXI1eDM1bHkwSER1ZUdrVG1yRU1UWjRzWlpnVUpTZTUxSlBudmQwODdCSXp4ZkFmTDl2bkpXR1dkbm9sLXBsRWdTT2ZJLVdRRmZCYlB0MUtuWlBsMUxfdHAyR202eDVxb08ySl9kMXFIR2tORmltWU5qNUFB?oc=5",
-      "published": "2026-09-14T04:38:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "A fateful turning point for humanity and AI could redefine American politics",
-      "summary": "A fateful turning point for humanity and AI could redefine American politics CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnF4Q0U2X1NITm96V1p5QkVtVkl3a19jcFNqZElpN3ZralJpRV8wRGtKT2ZQYUhNX1FtUVYxYUlZWkpHU1VyUGFHUUFFb3UzaDh3X2tuaWN6LTI4U2ctaVowSUJhalViM0RlcldSd01SVkxKbm9kZGJYVktmWlZoeDRSclE?oc=5",
-      "published": "2026-09-14T04:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pennsylvania woman dies from measles complications, state’s third death this year",
-      "summary": "Pennsylvania woman dies from measles complications, state’s third death this year NBC News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3BQR2VTbG5qMUlnMWpjSl9rM053TUROZXljTE15UlN1ZjRpWWNuSnlSS0s4RXF4TkRDTmRoWWx0dExWX2RLN3dleWdVcjZRUHhqeTBmeFpES2pPY0dOTEZjN3lMRjQ1ZklZMzh2TlR3VVdsdVNsOFZSWXRPZUh1bWlDMm5OdDJRd0gyOVVR?oc=5",
-      "published": "2026-09-13T17:51:31+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -165,15 +213,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "\"Who do we hand the baby to?\" Loopholes and shady practices taint U.S. surrogacy industry",
-      "summary": "\"Who do we hand the baby to?\" Loopholes and shady practices taint U.S. surrogacy industry CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FemlRa0xnMXhCX3FjNDBOODZMSjVuLWs0bnFFRExfa1JqcnRfZVRCX1VISkhueXAxMzdHR0EzZWZMejJ4N003VXR2M0NHVVdyb3VIdGtyRHhUTGhNRVhCb2hsdks?oc=5",
-      "published": "2026-09-13T14:41:24+00:00",
+      "title": "Anthropic whistleblower says Congress should let AI companies police themselves until a regulatory body is established",
+      "summary": "Anthropic whistleblower says Congress should let AI companies police themselves until a regulatory body is established NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHJiejZmZWtfSkNFSDFjSGZoRmRPYTMxd3VHcVdfUWRDRjZLenR0WndKTTJMdFB4bko3UjRMRXRlOHJka010TmtTTThlcFFSaEQyM0pEWTVNd2h1cUNYNXN1VkVza19lM01FMXJBX1JFY2lOTFBIb3dudzBtb0h4dmF3OHgyMVFRR09mR3lYSDViWkMyUmpoOG9wejg5aUpSdW1YSmpWc1E?oc=5",
+      "published": "2026-09-13T14:28:57+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -204,10 +252,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "A Gender War Explodes in Utah Over the Courts, Abortion and Representation",
-      "summary": "A Gender War Explodes in Utah Over the Courts, Abortion and Representation The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTRJVnFVYVk3cWExNktXdnZHSnlXSnNmVGxuZFFONEpXMWgyRHozYWxNbnhaSVdjZ3YyaTFUdzBIMmFPMmlPNTY3VV9ldjk0cnVyNzZ0UUpCQlVXc0lwa012RGNHZ1FBamxXMlh6QTlsZjVRS2NjekZQMlZlakNoejVteXBaSUhHNkJBaC1sdElTWW1za3JR?oc=5",
-      "published": "2026-09-13T09:00:09+00:00",
+      "title": "Inside the $440 Million Collapse of Guidepost Montessori",
+      "summary": "Inside the $440 Million Collapse of Guidepost Montessori The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjBLMnBUTEpjQ3l6dXFGelY3ODFidTloUlNJcXFZUklvVnBlR0xWeHlkc1RWZldVdm9YNFlheFVzQ2lDS1VGZUhSRTVxUGZPb1pnbEdORF9hblVuazE0M0tDTnJkZlo4NkgwaHg4WXJKVi1YaEVNdXhUV2tiWFpiQlZEN0ttMjFfU0NjOHFmZDNOOHV3MEczcDhiamN2Q3hkZDFkbA?oc=5",
+      "published": "2026-09-13T09:03:31+00:00",
       "beats": [
         "Politics"
       ]
@@ -250,6 +298,18 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Thousands of LGBTQ+ people & allies celebrate Virginia PrideFest — with Gov. Abigail Spanberger among them",
+      "summary": "Thousands of LGBTQ+ people & allies celebrate Virginia PrideFest — with Gov. Abigail Spanberger among them Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0c2aHI4S0phUjhha2cwcHZnMWZmMXh1djBiZ1hlM3F5Z2xkVjZ4WGt4blV1N2NMTUhsZENlZEx6cFFHbXUxWVhoNWFWTDJRam1EWi1HTHRaeEt6d21Eb0dKekx3TUhCMXFzNi1NS0x4Q3p2T3BFbVZxU3NBR01jWHYwUk9ublNHT3c?oc=5",
+      "published": "2026-09-13T03:31:20+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -259,18 +319,6 @@
       "published": "2026-09-13T02:28:57+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-      "summary": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "published": "2026-09-13T00:57:45+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -300,15 +348,27 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Dylan Efron’s bro trip, Patrick McDonald’s cruise fit, & Ronnie Woo’s snack",
-      "summary": "Dylan Efron’s bro trip, Patrick McDonald’s cruise fit, & Ronnie Woo’s snack Queerty",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGhmNXBidmdmcG1EbS1uUnVlSDZGNjd4b0tLS1U4SXBjMGlxVEo3OUJacGJ1WWFWME51ZUFMbG04aTJOYWRJUlB3dEc2VE5KeWliTGd2MGdPY3VjU3ZOTnVfZXdObVZiQjJRdk9tWkNkYXhsNHNUeHRGVWlrdkJEWklwcXh2OWx1ZGN5dWY4RjhVNUhWQk0wUGVzZHhiQkpONWVMWQ?oc=5",
-      "published": "2026-09-12T18:00:00+00:00",
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\"",
+      "summary": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2otUFZkQndyRnVpMTlySVhTUnQ4YkVrdHhXem1oUUEtVzdMTGVaSUZjV01fOXZrRmNpb2dJM1AtUVVvT2Zmci0tbUxlaTdIOXNlQmp2QXYxN0RQd3pnYVpfTUlERlNNck1wOS1uNmVSaTZ1dS1HbmtsQjFoVFhnYVpXUnFzMkFXNWpEM0JZQQ?oc=5",
+      "published": "2026-09-12T16:42:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Sunday on 60 Minutes: Hidden camera investigation explores lucrative business of brokering pardons",
+      "summary": "Sunday on 60 Minutes: Hidden camera investigation explores lucrative business of brokering pardons CBS News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWFc4REZILXZOcmtuSF9LRGg0bnZUaUUydWF4aGpQbVlLZEJCT2g0Q3l4VDhsYjIzcktkOGpPQzBZcVpIYU05cUxRdDJhb1NES3BVX1IzekNIcEN5Mm1udWgzVXUyN0tlUlNlbUk4RnJUUGF4TnlvZUJhRGRVbGcwa3FMYlBoUEdCMzBLbDVDWGQyVHVlZ24tMXhkSjh0enlOOVgyQVlROWxoWlJiZlVkTFZ4cmhYSWNMakNOT0k3LUFJTV9SVDAw?oc=5",
+      "published": "2026-09-12T16:17:00+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -321,67 +381,6 @@
       "published": "2026-09-11T22:37:46+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "California OKs long list of options for training teachers in early literacy",
-      "summary": "California OKs long list of options for training teachers in early literacy EdSource",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWNLRUtvaTQ5OUlrbEpTSm1EdnBNaElDUDFDSFhRUGlDVlM0SHVaOUdrbU1jbElDeWlEYUZzT2JkU3lfVDA2M1hNcXRETlB3d1FpQlJaVkc5MTY0Z2VuZHZ4bHpPOExHaDBJVHdmRnpLTEpxVUs5NzZoNjJxczBmWTBhNkd4Z9IB-wFBVV95cUxPOWVKNjFNR3duVzg1dmlvcnkzaE40OXVOaXlUd0swOW1MdENqOWFhWldkcWVxM3phM01jZUtnSDhEcWh0NDU0OGVscFAzNmltbTVGNklQQ3ZwZGYyZHdibnlNTGY4MXBnd3YtWERTVHhUc0lGWG5LUTZfT2stUE5sMFFjellpRTZZSDdob21iZjJ4VHpPVVYyb1ZHeUczS1Q4VEZUeV92amZXR1NYb2tlSFJlOERVVXAwQ1BqeWxOeEZLNVV1N0JJQmVvR24ycVdtUnZCYXlHcjBUVzVIY0hnTEwyLVQyWUpjRFJfSVNwWFM1WlBRbC0ySjZCRQ?oc=5",
-      "published": "2026-09-11T20:17:54+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trans athletes are the canary in the coal mine. Democrats need to act like it.",
-      "summary": "Trans athletes are the canary in the coal mine. Democrats need to act like it. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeldaV1hhVFJ0cTVuaGNGdV9LSk5lVEQ1RFRYSzhYTi1KMFhyOV9lSlFSaWxqSWh1SkZ3Tkc3N2tnQkcxXzgzeVBySzJiSkoxQkNjemNfWnQ3SThsTEQyUzBYcFk0RmxJR1JGcUluRXRhT1ZralhhSlhsNURBMmpzT0R3RkNQbDhBM1pzTlFaaWVRc05LVHJIOUpxZFBZVjlEQXliWEN3VHNYNTE0RTJKeEY3MA?oc=5",
-      "published": "2026-09-11T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Courts Lets a State Law Limiting Race, Gender Classroom Discussions Take Effect",
-      "summary": "Courts Lets a State Law Limiting Race, Gender Classroom Discussions Take Effect Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEdCNHRlSTl3Z2dZSmZyZjZJdklhdG43cmhpRVRkOWt0NlNwNWNvQk9pdHAtZGxNaDk5TlItc2NZb3Q3OTFYTS1QRzhPLU1yaFlCdXo0UldlQVVOdUtBU0FMbmJZdEdKbklQR1ZmTU1STmtlS3JJRXFXWjNiNUVPMVNRcUFINy1FRGgtNlJDaTlSMEZEYXFIb1VveGZvUFBFZUt0MjE2My0xeTFqeDNpN0hrcWtYd3k4THI4SHZ5eFcwVUE?oc=5",
-      "published": "2026-09-11T19:13:22+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Parents Are Reading Less to Preschool-Age Kids at Home. What’s to Blame?",
-      "summary": "Parents Are Reading Less to Preschool-Age Kids at Home. What’s to Blame? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0llXzVycURBTFFGZGlUUWtYN21yNkNSVkkyMHZWNHVOX0lHQTRSVzlIbDBrZ2g2VWwxenUtNW1ldlhhbmNkdmtqSVF3R2lRU3k1bmhOelN4TEJtTS1xWmM0XzlSQ0tFMUxORlJSSHZiX0pzdEVJTG1fanNfb0h6V1hiUzBYUXhwMm1Ibkd3djdIaXVvbmVIb3d1dTdBdHFVM2ZuUDFaLVJ2TlBMMWJyVW11bmNKVy1LVmc?oc=5",
-      "published": "2026-09-11T18:02:38+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: San Juan Unified enrollment drop is 4 times larger than expected",
-      "summary": "UPDATE: San Juan Unified enrollment drop is 4 times larger than expected EdSource",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUt0OURDRHVfbkY4dHBJRjYxb2dlb19iaVBMY01UWjRrVHJGN2ZCQUUyYk1GVW1VRk1DeFpnaGdXcEJLOXpVRi1ZQjZ6clpBX0RTUU9CS19Hb0I1Q3EtUU02UXRHa2xQay1aM2RiNkF0NTV2T3UxYk9KTzZBVk1yVU5QZmFQRS1BY3lVWldOOWltanZIak53bDhaaTA?oc=5",
-      "published": "2026-09-11T17:47:10+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
