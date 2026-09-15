@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:49:00.341369+00:00",
+  "updated_at": "2026-09-15T17:31:05.204230+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,49 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "NATO jets down drone in Lithuanian airspace",
-      "summary": "NATO jets down drone in Lithuanian airspace NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVppS2JCSXh5UWZoRFlmUWxNOHVBYU95YUYtSGNHdS1teUxHUVlVcTFZU2RYczhxbzRlTURZQ0YwU19rLWFsOUdQR1hHWURZX2ZKdk5QNG1fa3h6WWg4LTdnSGZla1dxZ1hGWTBnS05KSWlyNlg0ZUJlblJMUVBwOXZFYmVDaVJkTzA0RHEyNA?oc=5",
-      "published": "2026-09-15T12:43:36+00:00",
+      "title": "Judge blocks Kennedy Center board from putting Trump's name on plaza, building",
+      "summary": "Judge blocks Kennedy Center board from putting Trump's name on plaza, building CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jX1FadGFiRGZiODdlWkUwTG5GT1JwRVNYMFc2dXNITHZaNDhGTnJQcFZEak1LR1czVTlldkxjZExjd3FLV3ZnWm44NWl5dmxWS0J2bkM2MW9wa0dzemtaWnJESVBKaDE5X3M1SG91a29uSzJqN3lJR9IBfkFVX3lxTFByWUtmVll1a0plNG5EeTFWZXB5UXZZQjR2MmdGNWdNd1NFNXZvaE1yYU01MUpGckZ3NDdUVTFvaGZTdmdKNE96eHNYZ2twa0VBWDNNRVloOGFiQmRSc21QMi1EQ0dCaGoyLWNxaHlNNzNKbThPN20xSFdyVGQ0QQ?oc=5",
+      "published": "2026-09-15T16:16:01+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
-      "summary": "Air pollution spiked after the Trump administration stopped embassy monitoring NPR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQURWM2F4ekVwU1VmVDBLZVBsN0NPS3NFdXhEUmJWWjU4Yk51dk54RlJfTWxtc0Zhd3R3SzBNcGtySUljdUFTSVJmRU5nS0FQbF9VamszVG9kVHl0S19BTGYyZFBzOElkVFVXTTh4MFBGM1RRNGRSbU5vVXBBNklxQ0pjR0M4ZFV6UmpjejlaUzYyZUt3VVBiUzR2T1Bpa3JXdE1Vd0FWLVZRUkNwRzZEdUo1SVhzY0o1MC1CcHlSbW4?oc=5",
-      "published": "2026-09-15T10:26:08+00:00",
+      "title": "Nick Reiner will not face death penalty in killings of his parents, prosecutor says",
+      "summary": "Nick Reiner will not face death penalty in killings of his parents, prosecutor says CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44alc3THNtQzUwNFMzenh4VUYzaktrYmNpM1c1UXRjZ1JwOHV1VzAzMm5lNUZmWjFteW1OTVRUa09qeFd4TVREMmpibW5JVHh0SFlfWk9oSWtoYmlESm5EZEVKSlpXeXpqLUNPaDZCZUxCR2c?oc=5",
+      "published": "2026-09-15T15:24:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Median US income rises to highest on record even as Americans feel affordability pinch",
+      "summary": "Median US income rises to highest on record even as Americans feel affordability pinch CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uQmRfdDBLX3RfOC1fVEx0WEZXYlp4YWxIWlRlS3hoZmx1ZDdCVERRNDZuckJ2WTgzcWhqUnhrNzhlejhrVkdlbk1kTHhiM0hQdFJrMEhoOE5lMmQwbkVYUmRRZkduQ0lLY2Z2Q01LMUxnYUFtNW1zUHl4RmZZSUE?oc=5",
+      "published": "2026-09-15T14:43:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump lashes out at Supreme Court justices, saying his appointees ‘are not the people I interviewed’",
+      "summary": "Trump lashes out at Supreme Court justices, saying his appointees ‘are not the people I interviewed’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZ2gya1dMOU9nQlFRekNkUVc2Sk12N2ZDZzJMREVER3ZzdDQtWmc0UGR2ZjI5TkZJZFhHS2tnTzNWMUhzVlJlVHo5RlpJM1oyY004bmh1UG5qLTR4cVRsbEptY0ZEekpsMDFvUUliTG5YS05CcVRWZS1fQQ?oc=5",
+      "published": "2026-09-15T14:01:42+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,34 +71,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Wall Street weighs prospect of an AI slowdown on data center buildout",
-      "summary": "Wall Street weighs prospect of an AI slowdown on data center buildout CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVZMNDRvQUNiZWhQc25DZVdkaVlEMHd3MkxvbGtYRWllQnpZby1hNXlwS0ptNE9XdGQzX2FHUHhuR3JDcjM0YVlaRGFrY1Z1SWZuR0FScHphNUtHSS1PYVFZN3JpNXlXbVFXMnJrNm1NM1VZR1pMUVpfdGx6b2pJNURULS1hUdIBiwFBVV95cUxQSkhJSS0yVVdKOWkxSGVKLWx1T3c3VkpPdFNaLUZpQWV6RUZBcGc5X1Ryck43dHFQVlV6eTUybDFia3dLLWdtUGdlMGNxa01lZzN4azF2eWVOdmZKQW9aaXRUMF9YTFYxT3FlN05UTDFiTmNpLWo2ODJJUmd3MS1oM04zaEpJLWMzMkNv?oc=5",
-      "published": "2026-09-15T10:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
-      "summary": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYk5yNTRXdXRLOGtfS25pRWFhZHFnWE9Dblp2MHQ3UDNXZGhMS013Qk1yeHFMOHliQTlhSFlDWHdPN2UwNkk1N2ppTDEtekZ3djNnaEw0NDg2bm56MXRpRm42X1poWUdXV0ZpWkZoZGZSMmpWWnlZSm9YeWNPZFhjTmZuU1QxcUnSAYwBQVVfeXFMUFRlWElSYVl6OU12WUljZ3JjSEg3NnVHaFljcnlSS0lNejFOTWg4SU1Tams1OU1sN1daY3pvV1V4a1R6SHpac19neDJjMTJDanBFMjJJWGFWblQtQVd1Y3IxQUxzV2pnVk9lX210UVFwc0p3NEptOXUyUVhoZEJ0cUowblhuSFoxby15aXg?oc=5",
-      "published": "2026-09-15T10:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Oil’s next test: Saudi Arabia races to restore a key safety valve for prices",
-      "summary": "Oil’s next test: Saudi Arabia races to restore a key safety valve for prices CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXU5N0tnZ0pFSWgzbVpoZXdhNXpadXpGWXpEWmdrbDNMa3lNbnBFQ2Jwdk5helFyRnEySVg5TUhuczdHWllZelZnUkhFLWotTWFIY1FvUE1NOWlaakR0NXFEUUY3bzA3Tm9FZ1ozNEkxVmxRdTF0MDdJR01WMTB2Ti1lZWh2Q3RwaE9BN9IBkgFBVV95cUxNaG9wRDR6TUlYSGt1TldGZ3BfdmRkWE5hV2k0S0poT0FXRVZOd0phejlkSWVtQXB5NU5uVlVXVzVvcGFUbWRSa2dKMHlpT3VqWlRONHpmWWFQdm5PckVnVDBBMmdERnN2dVJkSG1qTk1uX205N3RLUDRnVlB4QmprdDBSOGNMODdubm5tNG5ibTlSZw?oc=5",
-      "published": "2026-09-15T09:58:48+00:00",
+      "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
+      "summary": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnAxNnBjMzk5QWtkZGRJLUE3WHRlYXdQR0QwUjRhalNVdmFfU3FnQzExSkNRQnhnd01tOWhmSnphemFVYkpIOThaYi1RVWNONnhHR05qWXRmV0NBZUZjUTJrMjFNakVBZXFtQmlJNng0NWVZNGxQWXhrcnNhTmxqU3ZmZU_SAYoBQVVfeXFMUF9LS3NoSTV2LTZoaEdEODUtZDdqU2dmQ3hNY3F2QWFuOEk0TTNWakFwUzdxUWhvSXJXMjhuTXBvd25SQk5WQm5vNHU4ZlEweEItbklmV20wVWcwajk0aklGQXUydHBFckVJeEMwbVd4dHhtN1RpNEhHTmU1bnl2cUlQd25LdlZwUUlR?oc=5",
+      "published": "2026-09-15T13:35:38+00:00",
       "beats": [
         "Politics"
       ]
@@ -86,43 +86,67 @@
       "title": "Cellphone ban enforcement may be waning over school year",
       "summary": "Cellphone ban enforcement may be waning over school year K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTENsNG5KZ0xFQV9PRVdCQlJmX25pU2JGTG5kSkowSm02clpRM1F5V1JsMi1qWDktRjNuWFRuTTBIWlFpWTZQLXhrNDk5Z1VkZW5BbUdTaWpnYmViZkpySTN4LTFWajRjYjZJRzFaM2QzY0haazNIYmtrSTNLd0tucHVURlVZTFBUVV9CZ2ZfNTducnZRejRlcw?oc=5",
-      "published": "2026-09-15T09:23:18+00:00",
+      "published": "2026-09-15T13:30:00+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Private sector is 'the right place' to solve AI threats, White House's Hassett says",
+      "summary": "Private sector is 'the right place' to solve AI threats, White House's Hassett says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHBPSlpxZXJuN19EUGJqd3RUYmNETUt0ekdFZHpuVUFaVDc4a3AtVG02MmRDTXctTTJmeDNzLUFyZ3RCM0RsMFQ1aGhjTFNVQ2ZxZk5nN2xTd191SDNtOEg4SUE2cHlWOWxsYWVqbGoxMDRVemVlbkEwR2xvVU45NtIBhgFBVV95cUxQZFdrRTdwMWtqV1YxTFUtMWIza1A3NDZ6WkV5NmNFWkZKWk9kWWI5blhVamc4RE1QdEszZ0dRd25hd29Wb2pkZnRjVGdOYzh3bDNlcmwxcVMtRFZSU1E1c2VqaEc1b1VZelFzdFo5S2RLOEdUTjRrRTJJR2toWVBaVVhvYzNXZw?oc=5",
+      "published": "2026-09-15T12:46:38+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "This bill could reshape crypto in America — and it's sparking a major battle",
-      "summary": "This bill could reshape crypto in America — and it's sparking a major battle NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEU3ejVCWVNNSmk5ek5YOGZOOWpVVHBNR3lsaWVIdk8xR3g0SkNXTGhuamN6MDZRbGJwbkxoaEtOVHJFUHhLWXFXZmhpT3M1cnFXRFVsbDZFZ0k1NXM4MnJMNUQzZXF0Z3hXcnE2Y0lXajNkV0JlOEF6STN2YTcyMg?oc=5",
+      "title": "NATO jets shoot down a drone in Lithuanian airspace",
+      "summary": "NATO jets shoot down a drone in Lithuanian airspace NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVppS2JCSXh5UWZoRFlmUWxNOHVBYU95YUYtSGNHdS1teUxHUVlVcTFZU2RYczhxbzRlTURZQ0YwU19rLWFsOUdQR1hHWURZX2ZKdk5QNG1fa3h6WWg4LTdnSGZla1dxZ1hGWTBnS05KSWlyNlg0ZUJlblJMUVBwOXZFYmVDaVJkTzA0RHEyNA?oc=5",
+      "published": "2026-09-15T09:06:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | The ‘But China!’ Dilemma Driving the A.I. Race",
+      "summary": "Opinion | The ‘But China!’ Dilemma Driving the A.I. Race The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkZXSlFZSW80WGpMZkktNHlRcXR4YkJMR0NaSDhfaXNFZGhxaWJ4N3hOYTlTUzFCaUZFb043enNMUDJlQjJsTVdHRHRVYXZCckgwamN0OXVNMy0taVZKcFNKNEhjV0NXMGlPTWFHbjRDa2lsbVJSa0FDVkVtaUNhdnlMMFFCdw?oc=5",
+      "published": "2026-09-15T09:03:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+      "summary": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI NPR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVlUeG1kd3c0LWItU2VsWlBxaEVTX1RZN3cwUHZmdmJOMmNxYklsbnpVSkVUMVFmTHhyenhHU0JfWGdyU0tKQ2hQZUlDNkNETkZaWXBLaUhKaFBzMnlIcW5pQ3NrOUhQUVZTYmRnZVhkSERUQXRMZU9tdUtQSkFWcDlIc3RiYmZKb2djcDhkU1RiWFVpX2d2NmdxRnhJc0VvbHNibllTTzFrQmpkQVd2RnFWTWFSbVk?oc=5",
       "published": "2026-09-15T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "For the first time, Japan has more than 100,000 centenarians",
-      "summary": "For the first time, Japan has more than 100,000 centenarians CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGNSM2hrRVhid3JBTVM0Ui1EMW13ZnpXTmg0ZVJMQllqMFlPZ05vZDRmWVpTZ2F2cjJESGNQTThVUXFqaTVjUlNXbFI4SVZWRWR2aUxacEdrZ2tJa1JSM3I3TFhjN04yOEw4YmNxaXRTdFAwblJCdkJ6cm5qcTFucFY0R24?oc=5",
-      "published": "2026-09-15T07:02:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US military confirms it has deployed weapons in space",
-      "summary": "US military confirms it has deployed weapons in space CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFJDUDlkYjR6Sk1fQmcxV21JY28yUlZGakgyRzhoMkRHVWN4SjgweFNJUGVMNTNlMjlFTDV2RVNJX0twcmR5Z3RVUWtzdnplR2V5MmpTRG5lMnhPZWdDN3cza0MxdUFDZ1I0ZUk2bjdfREZLRGktQUlremRuV1JSQ2FYRFA?oc=5",
-      "published": "2026-09-15T06:50:13+00:00",
+      "title": "Anthropic co-founder says slowing AI is a 'collective action problem'",
+      "summary": "Anthropic co-founder says slowing AI is a 'collective action problem' NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelhBWWpfeGVHbWdxc0RaTHdhSEFvcjl2ajdqTVFfOGo0Z1Vfc2cxMmRoQTg2WDMxQU1jbHJOZENONVpyNVk1TnV5V2o3UGJ6SE9XZm5mV2l5ZjE0aXkzYXRHR3Nvd19EZUtVNm5nMnJHT3dHaFdYWV9SeXhfUUhXeGNHZ19JaUpE?oc=5",
+      "published": "2026-09-15T08:45:04+00:00",
       "beats": [
         "Politics"
       ]
@@ -132,7 +156,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "California Mathematics Project",
-      "summary": "California Mathematics Project EdSource",
+      "summary": "California Mathematics Project edsource.org",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwck1tSGVqSGJWZU9PMTJZakRSNGtIQTgxNm5FeUVIelJyd1lXZm5GNXBZeFhDTlJXQ1ctWUItZTJKVC1iVGxXVlVhMEc2ZktRcElpOXdCR0lHdHVGN1JLUm1xWnlJdldI?oc=5",
       "published": "2026-09-15T06:36:58+00:00",
       "beats": [
@@ -152,15 +176,15 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "The one thing Trump won’t give GOP midterm hopefuls: Less Trump",
-      "summary": "The one thing Trump won’t give GOP midterm hopefuls: Less Trump CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uNExwOWJhaDFaVEdqU25RclJiWHdXSldZZXhURS1kczFrampXM0JrMnU1djdoYndfSnJGUkYxZmc0VUFBZGZ5V3pqS3Q0cjJUS28tTFhKOGFnZmdfeGJHZUVGYkFVS1phSWNEMl83dHlKeG1YVURoZGVVMlg?oc=5",
-      "published": "2026-09-15T04:01:29+00:00",
+      "title": "COMMENTARY: For students’ sake, universities must change approach to math instruction",
+      "summary": "COMMENTARY: For students’ sake, universities must change approach to math instruction edsource.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00SUswYndTbW9fMDZ3YkJ6M1UzTngwVWxxQ3lWMHlsVTVQR3l3Ty14czlhdHhwZUpBdmwydzFoTlpMdG1ja3hsZFhmLS1GN0R2RzdNTXJtYm9PekptN0tSMkJ2ckk0M3pMRHFmVDJhTmR1OEtURmZv?oc=5",
+      "published": "2026-09-15T03:48:08+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -196,6 +220,18 @@
       "summary": "Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump CBS News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmQwNGY2d1UwS0J1MzdjVWpaTFhBb0g1OE1PQkpWZml5cVpkWnI4cDRrRHlCOUNoMXBJTTF5c05tSHJfOU91U0Y1UVFvc2c0YVl6cWk4Sm5tTFhRUU9tSkdXaDVDM2E0anNiLVhkaTQ0TzJRZ3lubFFHR1FIbjJsOHd5N2UwZWxJZGEzUW8tNVBTUQ?oc=5",
       "published": "2026-09-14T23:37:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Supreme Court says Trump can’t enforce new mail-in ballot regulation",
+      "summary": "Supreme Court says Trump can’t enforce new mail-in ballot regulation NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1Q4ZTZsUmQ4WnU1UHkzeHdCd1hhQVlzYXNoUlRvY1Rha2E0aDFaMi1KcDFhUTFmWG96ZXhsNXZrRkZhUVBDYnJaT1drdG1aRlRzVWFzV2VvSHFTcjBWMmh0d2F5NGxmM0dtdFlLR0hHcG1tODVkLWRYa0ZIY3lQSEFOam9oOUllTERyY1c5NUtTVXVOR3hiZHZJbnBwTTZRcUU1bUxoNmVNbEJrVVd0dUNuOWp4RTBXNmhXbDBCN2NKQQ?oc=5",
+      "published": "2026-09-14T23:36:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -262,18 +298,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
-      "summary": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
-      "published": "2026-09-14T20:12:09+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -336,51 +360,27 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: California, other states secure settlement to protect AmeriCorps",
-      "summary": "UPDATE: California, other states secure settlement to protect AmeriCorps EdSource",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2ZxN3hKeUFKbDRIb3pNNUdxNVQwNC00b0NpNnlLb1Y3Qm1zQzAzbVJCNVBWWW14Tzl5Zk9QX3VPa056SWF6NnR1a0tWUGtaNjVFZnA5b2hPM1gxSkRhWE82N0Q5TFd0LW41My1aYWt2amotT1U0VF9VNXZZbWlIZ1dVaENsWjJadlNXZmw4bXFOejA4YzllZWpkVGI?oc=5",
-      "published": "2026-09-14T18:03:49+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Bob Mackie, legendary designer who dressed Cher and Diana Ross, dies at 87",
-      "summary": "Bob Mackie, legendary designer who dressed Cher and Diana Ross, dies at 87 NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDUwSkJFUlhxMnlRcGJ0MGNXTHFTSGRDOHF2S1Y4YTRlNXpxekZQc2wzV0RTZTJGSzMtbnRUMWJ3RUN2d05xSUFuM2dNQklmMlQwUEtOY1g0MFduS2NUNjZ1REFlZTZuSm50RDdHR1ZBQWRIRER1S0NnTnVHYWRkUFBXWEJVT3o2ZUxMeFBzVU4tTkdBVDJPUVlzb3dQN2ZhanIyQUcxTWZtZW5pb2ZNejc5MTRZWk5v?oc=5",
-      "published": "2026-09-14T16:32:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "AI actor Tilly Norwood doesn’t need sleep, a living wage or a say in its roles",
-      "summary": "AI actor Tilly Norwood doesn’t need sleep, a living wage or a say in its roles NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHRyNk1SbXA3ek04Nmt6dUEwQmJmZXZ4MkNraHFMYVROd3hVYlUwVG5QNm1vVzZEMEt6QmJTQnRhcDhTTERwUU8wanVvTWYtMUloekFHWE5xVTNybDFMclZxQWhvSkREMGxsTEF6YlJVRXNMTk9iMnhTR0dDdXRUZjV5OEx0ZzRLN1RFYXNXSUZVM1RtU0lCaWdTMG5SV284MTFTdlljeTZmUXJwbkVmRTRn?oc=5",
-      "published": "2026-09-14T13:58:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Pete Buttigieg: ‘Of course’ America is ready for a gay president",
-      "summary": "Pete Buttigieg: ‘Of course’ America is ready for a gay president Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aSW03clJqNlJFM0Z6UVpieUR2MzJ0eUlKalVPX1A3V2J4VlI0NGdZeFU5cFFrTWJGMVpRQ1NFRXluNGRWTnRpNTJVQ28yYkhockY0VUtmcXFqVUo0bHlQLU9OWkxOblVLcWp4bU9qbEUxWThhVEZrMDlNbw?oc=5",
-      "published": "2026-09-14T13:47:33+00:00",
+      "title": "A school banned all clubs rather than allow a gay-straight alliance. Students sued & won.",
+      "summary": "A school banned all clubs rather than allow a gay-straight alliance. Students sued & won. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWhST3BINlBCNFBvTXpMejlRWDc4eTRidVNnc0YyYmhGSTNLd1NaMWdOY0xjeEdVREdTOTNwOGdTNUNLR01ZWXB2bzhoMjZDcDJ0Y0E4OHRTeEhCYXJJTkV6MThwc1dTbml5bXRzSkdzMzBxRGtEYWRVemc4d09feEVtbHVQSC1VUU9YLWpkdU96YXlkdXNJQmdCa2t5TG5rcUl0SVY4Z1VmZGpvVkR3SnU1a2RldVpvbW9mbGNERQ?oc=5",
+      "published": "2026-09-14T16:05:37+00:00",
       "beats": [
-        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "\"Pain has no gender\": Baltimore mourns murder of trans woman Sophie Lee",
+      "summary": "\"Pain has no gender\": Baltimore mourns murder of trans woman Sophie Lee LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnpXb095VFlSRkJDSEdLUGlCakNqS1dzRENMQk9GbkVmU3dwT2RObFVOZ2k1YVhGTTNPODBGajJhc29KTXphSWtVWjN2UEdCSU5jejVDczFEMFdheEZ1Sks3VC1mRzRhY0pGWDQ5VmRWUm13YjhQY3VXdWlEanRHV3dhNEdKamVPbU4xY2REaUVUVU5KZXZ1bXgwWEc3a1E?oc=5",
+      "published": "2026-09-14T14:57:54+00:00",
+      "beats": [
         "LGBTQ+"
       ]
     }
