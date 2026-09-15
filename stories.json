@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:21:37.355783+00:00",
+  "updated_at": "2026-09-15T12:49:00.341369+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,85 @@
   "errors": [],
   "stories": [
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Grade Levels K-12",
-      "summary": "Grade Levels K-12 EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUJsLUlQOWFYNE4tTU81X0swWm5Ra0VnMC1XSVQwUGpxOGN4aWgyV0tiY25MYXlCOU1uTTdZTDAxVWNWcVE5UUlJaVB4dWdZaGRacUNJZjBRS01VMlBWeEw3aGgxQ3VQaGtIUGxiN2E5clZXQWYzczVESDVGQzVDV1FCNnN6MkZlWG5qci1NMWo4LWNiYzdJTkR1dmRjN1VTbkNZdWtobUpITWZqVC1VM2V1ZHNTM0lsMmEwRVZTaElFQWRIeURYbHNJanhpcEh4S0tmbmV1Y2kzc3ByMnZ3SE5qMmlzS1p4enJxMmIzYUFEajRRREttenJ4bU83eXc5VHc?oc=5",
-      "published": "2026-09-15T06:52:19+00:00",
+      "title": "NATO jets down drone in Lithuanian airspace",
+      "summary": "NATO jets down drone in Lithuanian airspace NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVppS2JCSXh5UWZoRFlmUWxNOHVBYU95YUYtSGNHdS1teUxHUVlVcTFZU2RYczhxbzRlTURZQ0YwU19rLWFsOUdQR1hHWURZX2ZKdk5QNG1fa3h6WWg4LTdnSGZla1dxZ1hGWTBnS05KSWlyNlg0ZUJlblJMUVBwOXZFYmVDaVJkTzA0RHEyNA?oc=5",
+      "published": "2026-09-15T12:43:36+00:00",
       "beats": [
-        "Schools"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+      "summary": "Air pollution spiked after the Trump administration stopped embassy monitoring NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQURWM2F4ekVwU1VmVDBLZVBsN0NPS3NFdXhEUmJWWjU4Yk51dk54RlJfTWxtc0Zhd3R3SzBNcGtySUljdUFTSVJmRU5nS0FQbF9VamszVG9kVHl0S19BTGYyZFBzOElkVFVXTTh4MFBGM1RRNGRSbU5vVXBBNklxQ0pjR0M4ZFV6UmpjejlaUzYyZUt3VVBiUzR2T1Bpa3JXdE1Vd0FWLVZRUkNwRzZEdUo1SVhzY0o1MC1CcHlSbW4?oc=5",
+      "published": "2026-09-15T10:26:08+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: A 'hoax,' a sell-off and a dilemma for Warsh",
-      "summary": "CNBC Daily Open: A 'hoax,' a sell-off and a dilemma for Warsh CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZXV5TDBpZTlGR21vczBHd3VWaXFLSm8xQzhRRHdOZHliLWtCQWZ5Rl9fYUZWd2FNanNSN01wMjlpclpWVFpRYXFpRHZ4VEx2VU1UbG1KdTRpLTY2STd3M2REZWgtMVdPTzlPSHI0d2EwakxpY3k2V3hMZ9IBgAFBVV95cUxQdGFzcFhoNmctOUVRT1B6b2hZT2dxUTd3Zi0xVEM5c2RqRGhDNWp4MmpuT1NxdnVZeFpZWnFfYUZEbTJ4cnBmV0R6YmdpbzQ4VlVjOUppeWZCa2xidWhVS0k4ZXRzRkF3clB4LVdyZE9jZUdDT01fTUxyWVA2UGFOOA?oc=5",
-      "published": "2026-09-15T06:26:47+00:00",
+      "title": "Wall Street weighs prospect of an AI slowdown on data center buildout",
+      "summary": "Wall Street weighs prospect of an AI slowdown on data center buildout CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVZMNDRvQUNiZWhQc25DZVdkaVlEMHd3MkxvbGtYRWllQnpZby1hNXlwS0ptNE9XdGQzX2FHUHhuR3JDcjM0YVlaRGFrY1Z1SWZuR0FScHphNUtHSS1PYVFZN3JpNXlXbVFXMnJrNm1NM1VZR1pMUVpfdGx6b2pJNURULS1hUdIBiwFBVV95cUxQSkhJSS0yVVdKOWkxSGVKLWx1T3c3VkpPdFNaLUZpQWV6RUZBcGc5X1Ryck43dHFQVlV6eTUybDFia3dLLWdtUGdlMGNxa01lZzN4azF2eWVOdmZKQW9aaXRUMF9YTFYxT3FlN05UTDFiTmNpLWo2ODJJUmd3MS1oM04zaEpJLWMzMkNv?oc=5",
+      "published": "2026-09-15T10:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
+      "summary": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYk5yNTRXdXRLOGtfS25pRWFhZHFnWE9Dblp2MHQ3UDNXZGhMS013Qk1yeHFMOHliQTlhSFlDWHdPN2UwNkk1N2ppTDEtekZ3djNnaEw0NDg2bm56MXRpRm42X1poWUdXV0ZpWkZoZGZSMmpWWnlZSm9YeWNPZFhjTmZuU1QxcUnSAYwBQVVfeXFMUFRlWElSYVl6OU12WUljZ3JjSEg3NnVHaFljcnlSS0lNejFOTWg4SU1Tams1OU1sN1daY3pvV1V4a1R6SHpac19neDJjMTJDanBFMjJJWGFWblQtQVd1Y3IxQUxzV2pnVk9lX210UVFwc0p3NEptOXUyUVhoZEJ0cUowblhuSFoxby15aXg?oc=5",
+      "published": "2026-09-15T10:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil’s next test: Saudi Arabia races to restore a key safety valve for prices",
+      "summary": "Oil’s next test: Saudi Arabia races to restore a key safety valve for prices CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXU5N0tnZ0pFSWgzbVpoZXdhNXpadXpGWXpEWmdrbDNMa3lNbnBFQ2Jwdk5helFyRnEySVg5TUhuczdHWllZelZnUkhFLWotTWFIY1FvUE1NOWlaakR0NXFEUUY3bzA3Tm9FZ1ozNEkxVmxRdTF0MDdJR01WMTB2Ti1lZWh2Q3RwaE9BN9IBkgFBVV95cUxNaG9wRDR6TUlYSGt1TldGZ3BfdmRkWE5hV2k0S0poT0FXRVZOd0phejlkSWVtQXB5NU5uVlVXVzVvcGFUbWRSa2dKMHlpT3VqWlRONHpmWWFQdm5PckVnVDBBMmdERnN2dVJkSG1qTk1uX205N3RLUDRnVlB4QmprdDBSOGNMODdubm5tNG5ibTlSZw?oc=5",
+      "published": "2026-09-15T09:58:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Cellphone ban enforcement may be waning over school year",
+      "summary": "Cellphone ban enforcement may be waning over school year K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTENsNG5KZ0xFQV9PRVdCQlJmX25pU2JGTG5kSkowSm02clpRM1F5V1JsMi1qWDktRjNuWFRuTTBIWlFpWTZQLXhrNDk5Z1VkZW5BbUdTaWpnYmViZkpySTN4LTFWajRjYjZJRzFaM2QzY0haazNIYmtrSTNLd0tucHVURlVZTFBUVV9CZ2ZfNTducnZRejRlcw?oc=5",
+      "published": "2026-09-15T09:23:18+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "This bill could reshape crypto in America — and it's sparking a major battle",
+      "summary": "This bill could reshape crypto in America — and it's sparking a major battle NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEU3ejVCWVNNSmk5ek5YOGZOOWpVVHBNR3lsaWVIdk8xR3g0SkNXTGhuamN6MDZRbGJwbkxoaEtOVHJFUHhLWXFXZmhpT3M1cnFXRFVsbDZFZ0k1NXM4MnJMNUQzZXF0Z3hXcnE2Y0lXajNkV0JlOEF6STN2YTcyMg?oc=5",
+      "published": "2026-09-15T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,36 +107,60 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "This country is paying its people to read. Can it stop brain rot?",
-      "summary": "This country is paying its people to read. Can it stop brain rot? CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObE5DTnJkZXFrSnpuQllHU0VudjY3N0FCMDVfYVdIR0VLWFdPeFN5UEI1QVdyVW01OTVoSGlwelIxbldGNHdQbnZLUFR5Y25XbWJpdUV6Z0JPOWlNVDdNUGxqTVRjVkU0LWNIOFVORnRmTU9lc2lmVDhfcUZkYVNsZw?oc=5",
-      "published": "2026-09-15T04:08:09+00:00",
+      "title": "For the first time, Japan has more than 100,000 centenarians",
+      "summary": "For the first time, Japan has more than 100,000 centenarians CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGNSM2hrRVhid3JBTVM0Ui1EMW13ZnpXTmg0ZVJMQllqMFlPZ05vZDRmWVpTZ2F2cjJESGNQTThVUXFqaTVjUlNXbFI4SVZWRWR2aUxacEdrZ2tJa1JSM3I3TFhjN04yOEw4YmNxaXRTdFAwblJCdkJ6cm5qcTFucFY0R24?oc=5",
+      "published": "2026-09-15T07:02:25+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-      "summary": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2g2cmRJTDd4WUJrcVIwTVhrbGZZZm5iZi1MWEpoTWdUdGY3dmI2ZUFQaVc3WE45eHNac2c3eHFzVy10dGI2Qm5PbFRlM3pvSmw5bGhLMVVmZU9aRDVRM05Ya2xJYlc1WkhyVGhtM0tqeTdDTFRTeDZvSHllend3Ui16ejNoSzZpLWdsN2ItMDF2LWNj0gGaAUFVX3lxTE16bzhDWEpYVUNNRkVRbTVGZmFYZEFVaW1zZV90M3dGNVlmTFNuTnVEdW92cmhqSEt3VE9leVN3a2F5ZjN0X0lrM09jdnZuS1NYZHdtejlYWEZ6NVVZMFhLSWtzcG5QUmd6dWRkdzFiUFoxNE9DcjZyc1NiWWFybkE5Tzl5LXgyOThaS1NPZWxEZE9hSEhBeER2NGc?oc=5",
-      "published": "2026-09-15T03:45:00+00:00",
+      "title": "US military confirms it has deployed weapons in space",
+      "summary": "US military confirms it has deployed weapons in space CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFJDUDlkYjR6Sk1fQmcxV21JY28yUlZGakgyRzhoMkRHVWN4SjgweFNJUGVMNTNlMjlFTDV2RVNJX0twcmR5Z3RVUWtzdnplR2V5MmpTRG5lMnhPZWdDN3cza0MxdUFDZ1I0ZUk2bjdfREZLRGktQUlremRuV1JSQ2FYRFA?oc=5",
+      "published": "2026-09-15T06:50:13+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
-      "summary": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QajFNYTNJSHNFdm9IaVRCSTZqM21IbllITnExcWVZdFNzek5zcE1jVkJocFZZNldiTXJfYS1SNTFPRlp3STdSUFVfTV9YOElGZl94Z2hvQXRwU21taUI3QThIUjdwVVkwUTBnUDI3QzNSTGFiMWkxb9IBfkFVX3lxTE1ybFZGX0lvUmRscWVKLVNOMm9faVh4ZUlfekhrY3RJQ2NUbFpSVVlpbHdMX3V3LW8zcjdQQjlpVFZ4T3ZXZW8yUjF1QzJvU3Y1eGwtSjdnWXdyOEdOTTB3Q1RkTXY4ODVYYnJGRkpHZEdPMWhpV1pveDhSRmxHQQ?oc=5",
-      "published": "2026-09-15T02:53:00+00:00",
+      "title": "California Mathematics Project",
+      "summary": "California Mathematics Project EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwck1tSGVqSGJWZU9PMTJZakRSNGtIQTgxNm5FeUVIelJyd1lXZm5GNXBZeFhDTlJXQ1ctWUItZTJKVC1iVGxXVlVhMEc2ZktRcElpOXdCR0lHdHVGN1JLUm1xWnlJdldI?oc=5",
+      "published": "2026-09-15T06:36:58+00:00",
       "beats": [
-        "Business"
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Emmy Winners 2026: See the Full List",
+      "summary": "Emmy Winners 2026: See the Full List The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXdGMtVmE5Zi1BOFh0YWY3aEUtcF9paVBHSU4tbVE5bG85ZWktYjZQWEtDcjBMMXlDMkZENEFweVJySWw0SWx1YkdwbVZNTGY0aWRQZVJqaDk3OEd5R2dmZzA2TWdWWkRFRjlCTEEtZktVRG01UmxzbXVfV016UQ?oc=5",
+      "published": "2026-09-15T04:02:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The one thing Trump won’t give GOP midterm hopefuls: Less Trump",
+      "summary": "The one thing Trump won’t give GOP midterm hopefuls: Less Trump CNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uNExwOWJhaDFaVEdqU25RclJiWHdXSldZZXhURS1kczFrampXM0JrMnU1djdoYndfSnJGUkYxZmc0VUFBZGZ5V3pqS3Q0cjJUS28tTFhKOGFnZmdfeGJHZUVGYkFVS1phSWNEMl83dHlKeG1YVURoZGVVMlg?oc=5",
+      "published": "2026-09-15T04:01:29+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -93,18 +177,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Emmy Award winners list: See which nominees won",
-      "summary": "Emmy Award winners list: See which nominees won CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJRjBzZU52X1F2RjREdTFWb3VrcXlVM3gwTEFTb0Z5LVZqeDQxUnRWOTU4cEEwQnY1N2VWSWh1dUdnVFBVcEZKb1pLWkE4eW1RWnFXNWVrWDl6TFZzYmY0emdfMzYtSW1oeXo5WGhPbEwzNXVpSmI4?oc=5",
-      "published": "2026-09-15T00:01:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -117,51 +189,27 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Emmys 2026: Here's the list of winners",
-      "summary": "Emmys 2026: Here's the list of winners npr.org",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UVUE4QU1LQnVQY3h6Z2puSHJuaHI4RVVhV1ROLTBNMlhHUUFMQ2dTbnQ5akMzRzJIQWwzQ3hjZ3lfMGFUbFpQNWlzR1JPWXVuVGtycTB2TXBNQVA0UU4wbDRudUJDS21UWjREY2J3S00?oc=5",
-      "published": "2026-09-14T23:55:49+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-      "summary": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms npr.org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekxtVnV0RFRLTGVGcVhBcDBucXQtQ2F4UW5BTlpjcmdDQmN1UFZlSDNEOVZOMDM4bnU0YTlGd19yUHBXbVlySWQtUk9Qd3Qxdk5LUEpjZFd5el80UUFNNU8yREdTOHF1cWZpalZadkVQc2tITGVXcmdFLVZoVVdVU2daR2tDdw?oc=5",
-      "published": "2026-09-14T23:38:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Supreme Court rejects Trump’s plan to limit mail-in voting in midterms",
-      "summary": "Supreme Court rejects Trump’s plan to limit mail-in voting in midterms CNN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajF2U2ZWYkdZVTY2UFlPdWVCY2Fsb25scTA1d3VMeUVEaFlEb2VxSV9pcEc2UWRPTVpKcDRxRkZkN0trN1hPRG1QS2FvZXNrNS1RZTBkeWxTR2w0b2xUTm9ydE9CZE5rb0RyY3FuSEtER1ZLdWxhOUtoc2xZV0dINy0tdEVtVlc3akhQQThtb0RCX1FiZVJ2R1UwOFpSYkh5dnNpeW1ZeEtfUEJ6?oc=5",
-      "published": "2026-09-14T23:34:22+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Suspect arrested after South San Francisco home intruder sexually assaults resident",
-      "summary": "Suspect arrested after South San Francisco home intruder sexually assaults resident CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTE9acXFCNmhNN09DYzFGSUFwWTh4WTBlU0dya3NWb1VoQ1JiRUg5V0FEbXpWTXdpMzVXZU9jRE14T1hhdXI1dldnYUg1VnFQdnpNcUM5cl9xOHdTZjRYc1JQaUpIYmc5RThxMHkyM3RQODAxVlJicURhU3hadjZmdFJTSmozS0hfWlpwYmdFa2tXRzloc0RfZjhuX3JhRHZnOXFoYzlIZjdEQlE?oc=5",
-      "published": "2026-09-14T23:26:24+00:00",
+      "title": "Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump",
+      "summary": "Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmQwNGY2d1UwS0J1MzdjVWpaTFhBb0g1OE1PQkpWZml5cVpkWnI4cDRrRHlCOUNoMXBJTTF5c05tSHJfOU91U0Y1UVFvc2c0YVl6cWk4Sm5tTFhRUU9tSkdXaDVDM2E0anNiLVhkaTQ0TzJRZ3lubFFHR1FIbjJsOHd5N2UwZWxJZGEzUW8tNVBTUQ?oc=5",
+      "published": "2026-09-14T23:37:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco",
+      "summary": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckt2ZFNZX21TcDlqRFRFbUtLejZpamVrbjBrcHpIQ0ZSZFJveHhhU3VZWHFGVVhLekR2U3ZDejllTmdzQVdBUFhWS1RyekJNYkhnRFhzd0w4ejh5MzZtdTM3RWJFM196YkNlRVlEajFHcXY1ck5FM0VQdjNZMWZZNzQ3Zw?oc=5",
+      "published": "2026-09-14T21:59:17+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -202,27 +250,27 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Trump’s EPA repeals pollution limits on fossil fuel power plants",
-      "summary": "Trump’s EPA repeals pollution limits on fossil fuel power plants npr.org",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFY2YjVWMzUtbzRNdEpYZ3ZjSG1LVzRtdVpfbkFfNVpKVlFtYllELWphaGpRYVRZTDBXbFVlLTVQRlgwa2N3WjhDc2Rlak1MdWNnZ2xZRzRtUkpGQnQ0c2FZMUdGN0JiZG5jcTBBNWRCSlZLX0hYbjh4VVBnM3h5QUFWNXhEbTg0VFhrN1VsVGdpX0k?oc=5",
-      "published": "2026-09-14T20:34:28+00:00",
+      "title": "CBS News interviews so-called AI actor Tilly Norwood on upcoming movie \"Misaligned\"",
+      "summary": "CBS News interviews so-called AI actor Tilly Norwood on upcoming movie \"Misaligned\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOExTODA1VW5hdE80eGtncks1SzNDYzRVZlp6M0dJWkdZU3l0eGhFLTE4VUpyTzJmMS1mWG53OVRxQk83U196WXMtaHJseURlaVFuempwTm1fZEN1LWptY24wRW9SQ3l5aU1WeDhzZ3Y3d2ZUdzdDbUM2Nmxxcy13OXJ5cUZWb0lKR2Jhd3FGT29yN0ItM2UxelNyS1ZRQU5meXUwUQ?oc=5",
+      "published": "2026-09-14T20:52:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Week In Review: Putting PISA in perspective",
-      "summary": "Week In Review: Putting PISA in perspective K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoaFZGRUl4SnV0OVF1dWhLdERKQlB2WjVXYjdkamhNbThtWTFVaDF2M1FBaUNXWnhBc2Rlc0RKLW5NZ28zLWVQS04zX2VrMlE3RjZyWGlwd0tJSUhuaElMeTAyRjdIN3lXM0NyTXpQeEpUQQ?oc=5",
-      "published": "2026-09-14T20:19:14+00:00",
+      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
+      "summary": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
+      "published": "2026-09-14T20:12:09+00:00",
       "beats": [
-        "Schools"
+        "Business"
       ]
     },
     {
@@ -312,18 +360,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students",
-      "summary": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG1LYnlQcGdra1ZfQXJyV1A0MVFPQlBNWlhNSHA3aGxkcjB2cUI0aGF2VUptQVpTT0hkbDN1eWJCWmZaMmhDVVpNUlZCOVhYM0ZsQ0VTaVowRE1SeVk4bXZxUWNnWFVHbEd5YUJwV0VjWncxTUVQN2V5cEJVbkM2LVR4QTRhWWc?oc=5",
-      "published": "2026-09-14T16:18:49+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -346,42 +382,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "The new early learner: Designing for a future we can’t yet imagine",
-      "summary": "The new early learner: Designing for a future we can’t yet imagine K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzZBVnRTdG9wanpaWXkwQm5nU0g5VEJRcVhyY1NaR1EzVHFPQjhwOE02cjViandWVG94QVlaTDE3QThENXVzbnREQXJGZzRjcndaWG9uZDh2a0V0QndnWnd3SjFQdDEydU5KWjQtcDNFdzVMdjhxMlVweU1Lb1JBTHBPa2ZMdUt2MjNmVnYtRmJvOEx4Y1JpekVXa2RoVmkzbGNwUA?oc=5",
-      "published": "2026-09-14T13:34:10+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Israeli official calls for directors of \"NAZA\" documentary alleging use of AI in Gaza to have nationality revoked",
-      "summary": "Israeli official calls for directors of \"NAZA\" documentary alleging use of AI in Gaza to have nationality revoked CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ1RBZHpLa0NjckhMUnhjUkNmM05lU1RYUE5CLXpveHJpQlhmMEF1WElqbWZmVEE5S3hLNlo2VkFQaVd3Z2pjSVZhVGdMOExvLWpqMFZJWXJxWUNWd3lRdGhxU3YtemcydHBJcFROcWI0TDR2VTJDczRjRjZ6MU5xWFUtanJoQ1pfcF9R?oc=5",
-      "published": "2026-09-14T10:06:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
-      "summary": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
-      "published": "2026-09-14T09:49:28+00:00",
-      "beats": [
-        "Business"
       ]
     }
   ]
