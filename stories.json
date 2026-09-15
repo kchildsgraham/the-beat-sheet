@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T01:45:31.245777+00:00",
+  "updated_at": "2026-09-15T07:21:37.355783+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,37 +20,110 @@
   "errors": [],
   "stories": [
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Grade Levels K-12",
+      "summary": "Grade Levels K-12 EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUJsLUlQOWFYNE4tTU81X0swWm5Ra0VnMC1XSVQwUGpxOGN4aWgyV0tiY25MYXlCOU1uTTdZTDAxVWNWcVE5UUlJaVB4dWdZaGRacUNJZjBRS01VMlBWeEw3aGgxQ3VQaGtIUGxiN2E5clZXQWYzczVESDVGQzVDV1FCNnN6MkZlWG5qci1NMWo4LWNiYzdJTkR1dmRjN1VTbkNZdWtobUpITWZqVC1VM2V1ZHNTM0lsMmEwRVZTaElFQWRIeURYbHNJanhpcEh4S0tmbmV1Y2kzc3ByMnZ3SE5qMmlzS1p4enJxMmIzYUFEajRRREttenJ4bU83eXc5VHc?oc=5",
+      "published": "2026-09-15T06:52:19+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: A 'hoax,' a sell-off and a dilemma for Warsh",
+      "summary": "CNBC Daily Open: A 'hoax,' a sell-off and a dilemma for Warsh CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZXV5TDBpZTlGR21vczBHd3VWaXFLSm8xQzhRRHdOZHliLWtCQWZ5Rl9fYUZWd2FNanNSN01wMjlpclpWVFpRYXFpRHZ4VEx2VU1UbG1KdTRpLTY2STd3M2REZWgtMVdPTzlPSHI0d2EwakxpY3k2V3hMZ9IBgAFBVV95cUxQdGFzcFhoNmctOUVRT1B6b2hZT2dxUTd3Zi0xVEM5c2RqRGhDNWp4MmpuT1NxdnVZeFpZWnFfYUZEbTJ4cnBmV0R6YmdpbzQ4VlVjOUppeWZCa2xidWhVS0k4ZXRzRkF3clB4LVdyZE9jZUdDT01fTUxyWVA2UGFOOA?oc=5",
+      "published": "2026-09-15T06:26:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "This country is paying its people to read. Can it stop brain rot?",
+      "summary": "This country is paying its people to read. Can it stop brain rot? CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObE5DTnJkZXFrSnpuQllHU0VudjY3N0FCMDVfYVdIR0VLWFdPeFN5UEI1QVdyVW01OTVoSGlwelIxbldGNHdQbnZLUFR5Y25XbWJpdUV6Z0JPOWlNVDdNUGxqTVRjVkU0LWNIOFVORnRmTU9lc2lmVDhfcUZkYVNsZw?oc=5",
+      "published": "2026-09-15T04:08:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+      "summary": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2g2cmRJTDd4WUJrcVIwTVhrbGZZZm5iZi1MWEpoTWdUdGY3dmI2ZUFQaVc3WE45eHNac2c3eHFzVy10dGI2Qm5PbFRlM3pvSmw5bGhLMVVmZU9aRDVRM05Ya2xJYlc1WkhyVGhtM0tqeTdDTFRTeDZvSHllend3Ui16ejNoSzZpLWdsN2ItMDF2LWNj0gGaAUFVX3lxTE16bzhDWEpYVUNNRkVRbTVGZmFYZEFVaW1zZV90M3dGNVlmTFNuTnVEdW92cmhqSEt3VE9leVN3a2F5ZjN0X0lrM09jdnZuS1NYZHdtejlYWEZ6NVVZMFhLSWtzcG5QUmd6dWRkdzFiUFoxNE9DcjZyc1NiWWFybkE5Tzl5LXgyOThaS1NPZWxEZE9hSEhBeER2NGc?oc=5",
+      "published": "2026-09-15T03:45:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
+      "summary": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QajFNYTNJSHNFdm9IaVRCSTZqM21IbllITnExcWVZdFNzek5zcE1jVkJocFZZNldiTXJfYS1SNTFPRlp3STdSUFVfTV9YOElGZl94Z2hvQXRwU21taUI3QThIUjdwVVkwUTBnUDI3QzNSTGFiMWkxb9IBfkFVX3lxTE1ybFZGX0lvUmRscWVKLVNOMm9faVh4ZUlfekhrY3RJQ2NUbFpSVVlpbHdMX3V3LW8zcjdQQjlpVFZ4T3ZXZW8yUjF1QzJvU3Y1eGwtSjdnWXdyOEdOTTB3Q1RkTXY4ODVYYnJGRkpHZEdPMWhpV1pveDhSRmxHQQ?oc=5",
+      "published": "2026-09-15T02:53:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "AI Policy",
+      "summary": "AI Policy Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zMnd4ajFHaGwxbmFnMVk4SUVySG9Rcm9GRVowOEtlS2ZId3Vld1E5THdCRFl1ak1DMGVHZVViSzlHelQ0c2k4?oc=5",
+      "published": "2026-09-15T00:59:42+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Emmy Award winners list: See which nominees won",
+      "summary": "Emmy Award winners list: See which nominees won CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJRjBzZU52X1F2RjREdTFWb3VrcXlVM3gwTEFTb0Z5LVZqeDQxUnRWOTU4cEEwQnY1N2VWSWh1dUdnVFBVcEZKb1pLWkE4eW1RWnFXNWVrWDl6TFZzYmY0emdfMzYtSW1oeXo5WGhPbEwzNXVpSmI4?oc=5",
+      "published": "2026-09-15T00:01:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "OF star Noah Segsy found dead at 22",
+      "summary": "OF star Noah Segsy found dead at 22 Queerty",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNm9IOUMwUVgyMmdTdk1fbGZEdkVBSmFPOFBhLV9OZFA2QnhTNTg0Yl9PMkJLMGRmb0hWdEZ0QnY2bXBydnJJa1pBQTNoWDE0MDlsMWpYTGtrWGtDV0E0RGNrZk5JdE1teW1zWTQxSXpqUQ?oc=5",
+      "published": "2026-09-15T00:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "See who's won an Emmy Award so far",
-      "summary": "See who's won an Emmy Award so far NPR",
+      "title": "Emmys 2026: Here's the list of winners",
+      "summary": "Emmys 2026: Here's the list of winners npr.org",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UVUE4QU1LQnVQY3h6Z2puSHJuaHI4RVVhV1ROLTBNMlhHUUFMQ2dTbnQ5akMzRzJIQWwzQ3hjZ3lfMGFUbFpQNWlzR1JPWXVuVGtycTB2TXBNQVA0UU4wbDRudUJDS21UWjREY2J3S00?oc=5",
-      "published": "2026-09-15T01:26:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Emmys Red Carpet Photos: Meg Stalter, Mariska Hargitay, Noah Wyle and More",
-      "summary": "Emmys Red Carpet Photos: Meg Stalter, Mariska Hargitay, Noah Wyle and More The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93cnJXbFBqV0RidFhsUEU0YmwzanBJRTZyV0p5aEVvTHZnNlhxTXFGUEZPMGwtSWxVWm1mT2RqRmVSSXZHeWo0aWExVHBKZXNneXlVN3ZCQlNjcEhDRXBKdnc0Y0JEc1VidGRQLUFWZG1NLWhIM0tYbw?oc=5",
-      "published": "2026-09-15T01:07:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "‘Meant to Be Seen’: Cher on Bob Mackie and the Ultimate Revenge Dress",
-      "summary": "‘Meant to Be Seen’: Cher on Bob Mackie and the Ultimate Revenge Dress The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01LU9XUEdUbzFRckZBM2lJeTI2ZzBNWHd1TVM1ampNN2YtNkpENmxaRFFLcVB3S0l1RGd5ck1uOE1ha0ZUVEg0VHJNOVFoekVLbEp5UEozd3hQbnBISWozWjdXMkF3cWNPejU0OG5CU0s5N0VkNV8tNlFPRjZsQQ?oc=5",
-      "published": "2026-09-15T00:06:12+00:00",
+      "published": "2026-09-14T23:55:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -60,7 +133,7 @@
       "source_feed": "NPR",
       "lane": "General",
       "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-      "summary": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms NPR",
+      "summary": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms npr.org",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekxtVnV0RFRLTGVGcVhBcDBucXQtQ2F4UW5BTlpjcmdDQmN1UFZlSDNEOVZOMDM4bnU0YTlGd19yUHBXbVlySWQtUk9Qd3Qxdk5LUEpjZFd5el80UUFNNU8yREdTOHF1cWZpalZadkVQc2tITGVXcmdFLVZoVVdVU2daR2tDdw?oc=5",
       "published": "2026-09-14T23:38:40+00:00",
       "beats": [
@@ -80,63 +153,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
-      "summary": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
-      "published": "2026-09-14T23:30:02+00:00",
+      "title": "Suspect arrested after South San Francisco home intruder sexually assaults resident",
+      "summary": "Suspect arrested after South San Francisco home intruder sexually assaults resident CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTE9acXFCNmhNN09DYzFGSUFwWTh4WTBlU0dya3NWb1VoQ1JiRUg5V0FEbXpWTXdpMzVXZU9jRE14T1hhdXI1dldnYUg1VnFQdnpNcUM5cl9xOHdTZjRYc1JQaUpIYmc5RThxMHkyM3RQODAxVlJicURhU3hadjZmdFJTSmozS0hfWlpwYmdFa2tXRzloc0RfZjhuX3JhRHZnOXFoYzlIZjdEQlE?oc=5",
+      "published": "2026-09-14T23:26:24+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
-      "summary": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5",
-      "published": "2026-09-14T22:43:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exclusive: I won’t run against Kamala Harris, Gavin Newsom tells CNN | CNN Politics",
-      "summary": "Exclusive: I won’t run against Kamala Harris, Gavin Newsom tells CNN | CNN Politics CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53MjZkRTU3Nkg1SjZyTlIwUHZ5WXZTRzYtajVBdWRkcmVxeW12UG1zV2lQeHJJT2RpS0lxR0o4QU45Q0xjQlY5YXowUDJ6RWM5NlFuWkFFQVJwSHViOXNzbTZ1TURvd21KeGR1VjltX0tkRlJlU3VKN0RwUDNvQQ?oc=5",
-      "published": "2026-09-14T22:16:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Mitch McConnell returns to Senate after three-month health absence",
-      "summary": "Mitch McConnell returns to Senate after three-month health absence CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXVVb2g4cmxrcWMydDMxdkVTeFQxSi1aeEs2XzQzdEF5enJLZXpUY0NpQURzWHlnUlpsQU9rWWJKTC1FMmxHellqZ1B5eHFONzVZZVBhSnlqWjRwTEczalB2UkVOQ1pKZy1rUkdLbFZaTlNOS05GSjVXUTEzYmhZQTJ1VnlZYkswX0tncjVrOWXSAZYBQVVfeXFMTkhKSEVhaGZBcjk4elVkdjFDbEk3ZFZ6ajVCSzYtRXBfY182R2tyc1MwWlRXZVlraW5raDRkOHRpb3dxaW1xRG85WlRZNVVUV0l0VEhzZHNQVlZBZ3BHMndjWkZJMnZZN0ZWUjQ3M2dzczFydjM1Vl80OXRTdFE3aDRsS3psdV96bVhlclNCWDlOSE5kV2lR?oc=5",
-      "published": "2026-09-14T22:03:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Mitch McConnell returns to the Senate after three-month absence due to health issues",
-      "summary": "Mitch McConnell returns to the Senate after three-month absence due to health issues CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTG5iUHRjdXpqOTlYT0NKTFgxclpTVEpNWU1lSVFjQ0JtV1NNNzNYRmtDTWsyUllXMVN4XzI2T3pmT1Nwclg3djJnakpVcHA1d04tSEM1OHI4LTgydU5MdE9RalBGT0lyTUFQTHNtZmNUdFY1djJBYzNSellvcmIyN2Rn?oc=5",
-      "published": "2026-09-14T21:49:44+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -181,7 +206,7 @@
       "source_feed": "NPR",
       "lane": "General",
       "title": "Trump’s EPA repeals pollution limits on fossil fuel power plants",
-      "summary": "Trump’s EPA repeals pollution limits on fossil fuel power plants NPR",
+      "summary": "Trump’s EPA repeals pollution limits on fossil fuel power plants npr.org",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFY2YjVWMzUtbzRNdEpYZ3ZjSG1LVzRtdVpfbkFfNVpKVlFtYllELWphaGpRYVRZTDBXbFVlLTVQRlgwa2N3WjhDc2Rlak1MdWNnZ2xZRzRtUkpGQnQ0c2FZMUdGN0JiZG5jcTBBNWRCSlZLX0hYbjh4VVBnM3h5QUFWNXhEbTg0VFhrN1VsVGdpX0k?oc=5",
       "published": "2026-09-14T20:34:28+00:00",
       "beats": [
@@ -201,18 +226,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
-      "summary": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
-      "published": "2026-09-14T20:12:09+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -222,6 +235,18 @@
       "published": "2026-09-14T20:01:00+00:00",
       "beats": [
         "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Mister Kansas' unwavering support for LGBTQ+ people is even more enticing than his bulging pecs",
+      "summary": "Mister Kansas' unwavering support for LGBTQ+ people is even more enticing than his bulging pecs Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWRnWEU1ZmhXbk9NVTVPME1WLUEzVHBSV3RkSk1PejhmWENRRVpGLVdwUURpRnUzVjRpVFEtS0Q4R09jR2w4VHhmbHpwT0hYNHFuMDV2SnpXR185Q25RQTZDejJpQ3hwMXpJS25ON3N6b253bl8zR2FBdzBrZlpzamQwd1BzbkJuTF9VQ0VUQTFPR3Z4anhvYXZyRktnYjNYQ3dUWEZxUmFzb1ZRZHdtTEYwYWtUaWVGZnF2WU83OGd4cGp3ZXc?oc=5",
+      "published": "2026-09-14T20:00:00+00:00",
+      "beats": [
         "LGBTQ+"
       ]
     },
@@ -243,7 +268,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "MAGA’s reluctant crush on this leftist stud has reached peak insanity",
-      "summary": "MAGA’s reluctant crush on this leftist stud has reached peak insanity queerty.com",
+      "summary": "MAGA’s reluctant crush on this leftist stud has reached peak insanity Queerty",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjZDZk5FY29uS0tJSk9HUXo5OHRwOHQ3Zl9sSm9rUEdUSG52bnBLc2xSd01IUXNnNEx4TUNQS2Vhb2RvUkN6blFDUHJ2amdQcnpoN2dTd1BDX1VVQTBjckM4UTRKQkFhMHdOd0pYZUk2bTNxcDh0NjBKZ19wOGJOclUzTmNVNnFJajNkQkNnSVh6cGRZTFh0cFdxZmE4R3pOVV9kRA?oc=5",
       "published": "2026-09-14T19:00:00+00:00",
       "beats": [
@@ -267,9 +292,33 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: California, other states secure settlement to protect AmeriCorps",
-      "summary": "UPDATE: California, other states secure settlement to protect AmeriCorps edsource.org",
+      "summary": "UPDATE: California, other states secure settlement to protect AmeriCorps EdSource",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2ZxN3hKeUFKbDRIb3pNNUdxNVQwNC00b0NpNnlLb1Y3Qm1zQzAzbVJCNVBWWW14Tzl5Zk9QX3VPa056SWF6NnR1a0tWUGtaNjVFZnA5b2hPM1gxSkRhWE82N0Q5TFd0LW41My1aYWt2amotT1U0VF9VNXZZbWlIZ1dVaENsWjJadlNXZmw4bXFOejA4YzllZWpkVGI?oc=5",
       "published": "2026-09-14T18:03:49+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Bob Mackie, legendary designer who dressed Cher and Diana Ross, dies at 87",
+      "summary": "Bob Mackie, legendary designer who dressed Cher and Diana Ross, dies at 87 NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDUwSkJFUlhxMnlRcGJ0MGNXTHFTSGRDOHF2S1Y4YTRlNXpxekZQc2wzV0RTZTJGSzMtbnRUMWJ3RUN2d05xSUFuM2dNQklmMlQwUEtOY1g0MFduS2NUNjZ1REFlZTZuSm50RDdHR1ZBQWRIRER1S0NnTnVHYWRkUFBXWEJVT3o2ZUxMeFBzVU4tTkdBVDJPUVlzb3dQN2ZhanIyQUcxTWZtZW5pb2ZNejc5MTRZWk5v?oc=5",
+      "published": "2026-09-14T16:32:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students",
+      "summary": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG1LYnlQcGdra1ZfQXJyV1A0MVFPQlBNWlhNSHA3aGxkcjB2cUI0aGF2VUptQVpTT0hkbDN1eWJCWmZaMmhDVVpNUlZCOVhYM0ZsQ0VTaVowRE1SeVk4bXZxUWNnWFVHbEd5YUJwV0VjWncxTUVQN2V5cEJVbkM2LVR4QTRhWWc?oc=5",
+      "published": "2026-09-14T16:18:49+00:00",
       "beats": [
         "Schools"
       ]
@@ -284,6 +333,19 @@
       "published": "2026-09-14T13:58:51+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Pete Buttigieg: ‘Of course’ America is ready for a gay president",
+      "summary": "Pete Buttigieg: ‘Of course’ America is ready for a gay president Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aSW03clJqNlJFM0Z6UVpieUR2MzJ0eUlKalVPX1A3V2J4VlI0NGdZeFU5cFFrTWJGMVpRQ1NFRXluNGRWTnRpNTJVQ28yYkhockY0VUtmcXFqVUo0bHlQLU9OWkxOblVLcWp4bU9qbEUxWThhVEZrMDlNbw?oc=5",
+      "published": "2026-09-14T13:47:33+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -311,76 +373,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "How many private schools are there in California?",
-      "summary": "How many private schools are there in California? edsource.org",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhYbXQ0clB6bWpRb0FjY3B6Z3lxR3FqS3JTSHk0b0xIcnNrakM0ZG5xeG9mX3FkWmxvaE9PbXdyMXpJYXR4V2RDRHhVU3dNeEs2YlZuWlplcU9RU1NmaEJsU0t5S1JHak9xMmNnOVVkODB3WFE2VzFXN1N0TElMazBjMXcxSGVJSVEzZS1jaDfSAZABQVVfeXFMT3ZIWG10NHJQem1qUW9BY2Nwemd5cUdxaktyU0h5NG9MSHJza2pDNGRucXhvZl9xZFpsb2hPT213cjF6SWF0eFdkQ0R4VVN3TXhLNmJWblpaZXFPUVNTZmhCbFNLeUtSR2pPcTJjZzlVZDgwd1hRNlcxVzdTdExJTGswYzF3MUhlSUlRM2UtY2g3?oc=5",
-      "published": "2026-09-14T07:26:20+00:00",
+      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
+      "summary": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
+      "published": "2026-09-14T09:49:28+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "How LAUSD teachers are adapting to accommodate screen time policy",
-      "summary": "How LAUSD teachers are adapting to accommodate screen time policy edsource.org",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2p5RWtHeEcxUl9DQW9MZGduRlFvaDctSnVNdEFzVXZsaVo1c3N1aEhjaVFVV2FVNFhIdEVsR00xN1BTdUdVbGNDWDJCYmNUM3NkdmY3UkVPZjlUZ2NxeDNyZ2pSRFJlMHU1bXJBSFh1VE5xdjNyeDYycEJtNGVDM1pRYlNra2kyQVJ2R1REelAxYjN3WTFPWGJUSVBOVjjSAacBQVVfeXFMTlZoOFI3QnhrODk0cXhlMkplMHdUazdnMWtUbDI2ZWNZSGwzR3dQY2hvYjIzempuMXN0TnBSTmxabkFUSkFpbkRXYmhjNlRxUEFzRS1rRy1URFZGal9Zb3BkU292RVhvVmtibzE2YkwwcXFHYmVuYlViTXdwWFB1aFIxd2FIZ0k4dC1KdHN5XzJ3azBOMGRJd1gwejh5dXJRSk5VZkNCTFE?oc=5",
-      "published": "2026-09-14T07:12:39+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "New Project Identifies Strengths and Weaknesses of a Collection of AI Learning Tools",
-      "summary": "New Project Identifies Strengths and Weaknesses of a Collection of AI Learning Tools Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVkpGenZvTFNlaXNrT21fVDV1UUlDUU1Pc3VNTC1yNWRUT0lhakRYV01OeVpta3g3SFRyXy1mX1ZGNDFKTUlHa2ZmdzZyTzF5RGJvMTk1SmlYZTlySm1TVTVkU05BVkppSnlXaG04OWt4ZDRRbDRWQTdOVm52V2x5WjVXTEg2N0Fxd2tFSkUzbTBORzdFMUhSVFRSOE1MbTVsQlRhX0NqQmk0TWVQWmh1c2NfMkxMaVhIR3lzRmZCNF8zZmxC?oc=5",
-      "published": "2026-09-14T07:06:15+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Researcher discovers mastodon molar along California's coastline",
-      "summary": "Researcher discovers mastodon molar along California's coastline CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHc5bk83Sk5MUjZwemhHR2Z2V2M4V1MwRWxjbUhtTHVxblkwcjNnWGdBX2puMmlvLTVzWFdOLUlMaExmV3pPU0JvSWJLMG9OdmJ6cjJUVnhVNUFFVVFuVjZ0Tkhoa2dteEw2X1JVV21ELV9IaEFPQTBoeXQ2QXVxdldhQlNuS1B2RVB0TkdwSjUwS1JFaGc?oc=5",
-      "published": "2026-09-14T06:23:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "AI executives call for a slowdown, and Saudi Arabia shuts down a key oil pipeline: Weekend Rundown",
-      "summary": "AI executives call for a slowdown, and Saudi Arabia shuts down a key oil pipeline: Weekend Rundown NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejJIYnFmMU5FWnZVY2ZSSXB3MExXRFZMLXVhbkNaYzVPNlhqeFpBOFBySGtCaGFCeWt2VlRUdGdHVzdpRTc1UWVSZVlRYUFTdXpKMW5LNWxXNzNpWi1kN2NSSGZ5ZlpaNkJoendLTENXM0dtSVZtS0pBQ1NlUUU5ZmJ3?oc=5",
-      "published": "2026-09-13T22:00:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Elon Musk is pushing millions into dishonest, anti-trans midterm ads",
-      "summary": "Elon Musk is pushing millions into dishonest, anti-trans midterm ads LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGl1NjNqR1VUaDI3Z2Nzdk02T0xuNGtZZkpZR2RUV1oxcXdOVjIwcmpNM3k3SGlFS3ZmUzg3OFJwN1AydGxUQXdBdmtMMzJTSlZEd3JWTUlYNDhyTk5JUTJpbk53U3JxWWoyVUxnV0EtUF9wYTdlbG9kdzFaV2VFaVR4T01maWZPU2Zmb0dpMW1jVm41MTZqWWhPb05fNTJuQTQydHU0MmVhTW5wdTdMM3NPUlRrdw?oc=5",
-      "published": "2026-09-13T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
+        "Business"
       ]
     }
   ]
