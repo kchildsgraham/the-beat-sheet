@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:57:49.446292+00:00",
+  "updated_at": "2026-09-15T23:29:16.342488+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Two House Democrats defect again on key vote for Trump agenda",
+      "summary": "Two House Democrats defect again on key vote for Trump agenda CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMzVwRERfeGltQ0dPc3dnV3dmQUZtQ2pSZjktRW4yX21ISE9rNm85Z2N5dmVMUUE1aE4zWjNMcFFsMVlhbFFsVXRQSV80OXhrUlJ5djgyTmpWcDAxVVk2T1VoUFhVV1hIM01hY3JSQjRvYXR3Ul9ZdQ?oc=5",
+      "published": "2026-09-15T22:22:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks",
-      "summary": "OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZXBaS1dWX0RSVE5pNTNnM0d3WEsyaWNpWXowQUJoc1RCLTI4YS1GeEV1d290MkF0V3RUOGxWVEVCUmFOOHYwdlF5Nld4WU9vYlJjQXdSRFV2LVVvZXQzUXRnVUdBRXRlNks5WkpBOGfSAXZBVV95cUxOU0piVDV6c3hZVUZ1bWdjU2xCTEpxbDRPX0w5U2ROVUZlZzhGbjA3LXZNWXNDYUZMeTZzZDBoNFd1UjdwLTRPemo4N3ZmZG9EN0NOSmhxMTlRRGNQR21EV3dlMnp2MzVZS1NpMGlsYU5adlJUMWZB?oc=5",
-      "published": "2026-09-15T19:25:42+00:00",
+      "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+      "summary": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CeVJxT3M5b0dfbDBxdzJBNTZtTGdyc2h1V2wtSG5VUkZQQVMxRExYRm51U2NWWmpFYmNfVnZDaVF5TkdjZjZib3c2b1FkcUNOZVBidXRYQnU5UGd2TXl1bjY1bTZjbVYtbzRUbUVuY0lFRE3SAXhBVV95cUxOWUdvSkVyRmFDOHkzZ3VKU0kyeVN5SmxuZkdqVE9mRjdocWhhZzA3Q0VwQkVGOUl2dVlIV3cyQl9ua2dGTDcxZTlfOWpadkZVeWxaRHBHSVM1S1hsM3ZXMlVIbDFRcWRRbmF2UlltNl9RTEpTMVFUWjI?oc=5",
+      "published": "2026-09-15T22:06:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,24 +47,96 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Prosecutors Will Not Seek Death Penalty for Nick Reiner",
-      "summary": "Prosecutors Will Not Seek Death Penalty for Nick Reiner The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRE9KdThDdGJoWDFyX3A2Y2ZLUVFGbnk5UDV2T0xDT1J6ZlJXdThmOS1RN0gwZnU2b1FyRzBkdWc0aVVGS09WNW54MjBsUU5EeFRsbENZNFFFaWIyWW0wRXQ4Y2pSd0kxLWlFUkR1eFZhMXRhakhvcWpRZktHVU9zbE01WFNFa2poVm83OThR?oc=5",
-      "published": "2026-09-15T19:15:20+00:00",
+      "title": "Trump Approves $2.8 Billion Arms Sale to Israel",
+      "summary": "Trump Approves $2.8 Billion Arms Sale to Israel The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13UTJqVExIZUY3UnBLU2NjcFpfQU5IVG85eXR5RWRlUHJIMlRFRnF2NlRuVzRmU2JoQnBSTS0xazA5WDFwT00xbTJobExKQ1c1QkVET3Q2d0daVzRIVlIxNlJ2a0pmNE5EdFF5UTJEbEJlTldsWFdRZi1B?oc=5",
+      "published": "2026-09-15T21:57:33+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Latin American migrants deported by ICE to West Africa describe being stranded \"on the other side of the world\"",
-      "summary": "Latin American migrants deported by ICE to West Africa describe being stranded \"on the other side of the world\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52STVIWXNtQ3RnSlV2TE5UOVFwci1oVXdobXB0V3NBMmFMUGJIUmNaNXNfLXlERXJYME1mWHZudm1JUEVJcjk2bTFlUUFYdS11VnVxblJOcWFqMEd1Ym8tdHNkXzhCeTEzV3g1YUg2bnNBYVNaRkk1N0RR?oc=5",
-      "published": "2026-09-15T19:13:39+00:00",
+      "title": "Fellow opening acts quit after Ed Sheeran tour drops Macklemore",
+      "summary": "Fellow opening acts quit after Ed Sheeran tour drops Macklemore CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOTdlOHlBLUU2VVF1X25ReElSeTU4SjZsc2dUQVdVTlJKMmhlczFkWFlMa21lNG51eXN5VjF4X0pxc0ZfTVFLTi15cmNWc2VvWVBJZjhNNWZwOUI3Y2ZqYUtUb2JnaHpMSGNsWGMxT09rRUFhQ0FZaGVzVnRPYlVjZVdEeVZqWmUtX2hSYkxyMUtQRVBsTUxMeA?oc=5",
+      "published": "2026-09-15T21:35:16+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "$400,000 per bed? Why it costs so much to build affordable student housing in California",
+      "summary": "$400,000 per bed? Why it costs so much to build affordable student housing in California EdSource",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXY1NUclBNQzNwbXY4dTRFRGlMdVpMSFdiYkJVM05sZ1hFZ1JVOU40TGFaV3M4RUpyeHJVRTZISHZncVFKQmZMVlN6MTRfanFsYklWenRkY0dPTXdkZFVOSjduR284SnJhNHd6eUJPMG5aSlU?oc=5",
+      "published": "2026-09-15T21:06:40+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Kash Patel defends removing bestiality as automatic disqualifier for FBI applicants",
+      "summary": "Kash Patel defends removing bestiality as automatic disqualifier for FBI applicants CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaNXZaejk1SnR6YTNMVmhZajBxTnVDcng1em1uRjh5Q3dKcGwzM1l5V0xTRU8wdHZwSzVYSVB6dFhRWnkyZTFaRDhOdmp0TFc3aTZiRFdKZTBiYlVFSURLV3FMc2VwREU3Wno1SE90UFdCUm5rSXQ0?oc=5",
+      "published": "2026-09-15T20:26:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+      "summary": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNamhBSWgtcmZwTVRVOXlnbGZMN2R1bDFlMWEtV21wUXFmUGVoWW5vQWNVbU55OEE0T0lWMUFlMXFZVGdvNmN0TElFUGNkQUlwQ01hU09aUEZIZlBjd0lMbGJMOVJHbmhOSTNRaHU0cXBnNmRVQ2lTb21odDUzOGlRQ1phSTRDUDVucThHQjNncjI1Q1pMOVV0WlotdDVpUdIBowFBVV95cUxNQW5ST21vbGJyUWYzcHVFZFJOZUgzTEJ3TWFkS3Y4Nm9fQ2w3c3puMnJqaFBpbl9CVG5Gd1RSZUVGQmJqLVZaN0dBZ0dOWEZNb3IxMDBtaGhWNGllb29aZERqeGxibHhnakZJRDgxeF9oa1NDSGV2YzYwa3plQ0dhZU43aHJNb1MyUlZRRm1hb1BZRVpZRVF4LUd1OWNQXzJpZFpr?oc=5",
+      "published": "2026-09-15T20:00:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Ed Sheeran addresses Macklemore’s tour exit amid Robert Kraft boycott claims",
+      "summary": "Ed Sheeran addresses Macklemore’s tour exit amid Robert Kraft boycott claims NBC News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkVGWms5RHo1NU9zUldIOTBJSjBYS1B0cV9SWmR0MnRBM0tvVV9BZDI1VEhCRGZXbEs3aE5PUUlCeTg2bkVTd3hmSTVFY0dVOGRnaFdocThoQ0d6ZEhSdk5Sd2RSQ3cwRkNRSDQ5TU96RDByNjZCVnhNci0yM2N3WXEwLWZaeDBEQlhiT2Y3ejh4RmtEbHdNdTMtRUJkaXAxUlRIUlluVU1WakFHNnVPV2U4UjFYVE9GdGd6ckI4d21FUWIyNmJreVZEdUNrVjQ?oc=5",
+      "published": "2026-09-15T19:18:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Equalpride board member steps down following report of MAGA support",
+      "summary": "Equalpride board member steps down following report of MAGA support Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44X3poQzc0ajN6Q1lLVjcta3JnV3d3N3dtS3BleGZSX01RVzJ4Ymx6YWJ0YlVYWmlwcnVuRER4WlN0RmZyQ0hPY3hGZDNmc2xVam1HU09GLXdpRTQtWDJfdW9PX2ZBbFBqbEVxZTcyYndMSWs?oc=5",
+      "published": "2026-09-15T19:17:49+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: California Teachers Association sues state over $3.9B owed to schools",
+      "summary": "UPDATE: California Teachers Association sues state over $3.9B owed to schools EdSource",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG5nUWtseHFGOHFTTHlxck9NdlFWR3lVLS1ZbEhUd2puNHpXNzlJSW5tZ2NOUGU3VjlrZnlkTlZKaldueVNrSlVKSm1ncnVNTjlDYVFWNC1VVDdzVlBPRHV6dW9SeWVqeE5zZVJzZERCYjB2aGc4T1JzbFlFTk5tRExWQW0wQ2ptd0VJX3c0SzI4ajlKT21vU1ZkZ2VwM3otTDA4S3BkVQ?oc=5",
+      "published": "2026-09-15T19:13:35+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -69,23 +153,11 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Republican Rep. Massie seeks Hegseth's impeachment over Iran",
-      "summary": "Republican Rep. Massie seeks Hegseth's impeachment over Iran CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcm1KX1FUcTlrOFloMmVwUGJjOExjTnFpai1zemZycVJ5WngyaDFWaHE5YXA0WFFpb2p1Q2wwNWNWTGxxMGRUcEtDa1Q0UjVUQzJuY3VKOFVMYV8ybHNWNXZRWEtQWENlb3hvTFd0bEdRS2lSSkhRRW9yQVhRRmpVNGM1c3BFRXRPT01ab0ZKSE5WTTB6b0syNGVRWdIBoAFBVV95cUxNZDQ5WTlFRGpncGZ1dGh5Z1JiQ3l3UHpWeU1GZU9neFcwVFJnWDRxemZ0b2EwN0ZZazJPVThIOUpvemlsWF9OUmtTTFlhMTVtREhxc3pWUzlFNG1ucnNybnp0MGUzRnNZWTR5eWdpNlFRVzVweTFYNndUV3FwamF3NC1DZHVnRDlzOGdtN3JnUUZBOS01OUtoMmVzUnZ1OG5R?oc=5",
-      "published": "2026-09-15T18:58:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
       "title": "State of U.S. democracy reaches new low, report finds",
-      "summary": "State of U.S. democracy reaches new low, report finds NPR",
+      "summary": "State of U.S. democracy reaches new low, report finds npr.org",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkFnbVJneThheXVFTmZVV3pqVm9mZ2pEcWxLMVFreW5sWl9DWWFCY1R1aWYxSEd1RmtONnFSanl6ZEpjTmhpeENQcDM0QmJxVmdZRDA0VlNzTUtOZFd2Y0VmRmNoSnVQNFJQcEtrQ3kzN29OZHF1encyMXJiY3lFeGg5RXZUYi1fam9MYTJFYVFNN3JMZFhhUkJmeUs?oc=5",
       "published": "2026-09-15T18:57:42+00:00",
       "beats": [
@@ -93,49 +165,13 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "$400,000 per bed? Why it costs so much to build affordable student housing in California",
-      "summary": "$400,000 per bed? Why it costs so much to build affordable student housing in California EdSource",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXY1NUclBNQzNwbXY4dTRFRGlMdVpMSFdiYkJVM05sZ1hFZ1JVOU40TGFaV3M4RUpyeHJVRTZISHZncVFKQmZMVlN6MTRfanFsYklWenRkY0dPTXdkZFVOSjduR284SnJhNHd6eUJPMG5aSlXSAXtBVV95cUxQMUx3Nl9WMGNWbGFRR1RrTFVjY3lJZ2Fuc3JuWlJBdDNaa1J0VU9HTlh4dHhNd194NVd3ZmpqVzdBQzdDOGlDV3Q3NXg4U0Q3T3VxYVlHQTRiX2luVzVyTUxMNkFBZ3BRV0pSNmtuQkxKUVJQR2xMQnd4Z00?oc=5",
-      "published": "2026-09-15T18:55:46+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Iran war driving up inflation for Americans, CBO report says",
-      "summary": "Iran war driving up inflation for Americans, CBO report says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajZheUhzdWlQX0M5dnp5bnAteWMyZWNCbTdpUU1qWllFd2NxTkNYV29OVUNsT3VyRkVCUG8zdWpWdUU1ZXBzNW95RklLWUhwVUlvTlBUOWVnbVpyaTF2aF9QekJtWnJZOGlCS2djNkpVcEFCeDNZU3RneFRoNHg2VWJUZTdaQzNMcjc3RXVhbGlucnNlY09aZGJmY0kzLWJWMFpVVUl3SUExZ0d4bm1JRmdVU3g?oc=5",
-      "published": "2026-09-15T18:49:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Thomas Massie pushes surprise impeachment vote of Pete Hegseth",
-      "summary": "Thomas Massie pushes surprise impeachment vote of Pete Hegseth CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWRuVXJnSmRoWWtKWGJ1TkpsclVyNElCUTZZRVNucDRfZC1XZTZ6MERvX043RGJsR0FmZG9QdWZ5d0xpZTU0S2c2SkxXdzJBUTdzaUE1eHJrTGhibEpPcmlxdUFfTDlnRFNBdlpwaEZPZEJBMHV4Y1d0MEYySWluSmVPdGRKWnRkTWVaQg?oc=5",
-      "published": "2026-09-15T18:15:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Iran war expected to cause a spike in US inflation, according to budget watchdog",
-      "summary": "Iran war expected to cause a spike in US inflation, according to budget watchdog CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFhVdk9rSEtrNUhndk1raGdBZGo4eVY4bXRmZHlJTlNaellKZnhSRWEwTDhQb29VM0ltUzhISWw1SDNkQ09iT3NLSVNIUHlKM0pLSzNxb21ZM3Nudy1BcUNiZHU2eWxTT1hrMC1IcXhEZnpZUUVZdHVpbXJyQWg5NQ?oc=5",
-      "published": "2026-09-15T18:06:48+00:00",
+      "title": "Ohio city council joins the renaming trend with ‘Gulf of Cleveland’",
+      "summary": "Ohio city council joins the renaming trend with ‘Gulf of Cleveland’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXVWMzdvLW5hMVpjaDdhVGJQR2FDNU52ODRwRnFWWlluc1UxREp1S3Q0TlUxTUd0dGlWNVFxT3FZVGVtSTlOd1AxeEwyOGtsQ3VqbDBpYWJDTFMwS3ZoMUdZRHczckQ2MjNXUENCV3huQW9PRWMzblctM0R1eDNkUGxITkZ5RmwyaG5sMnRXVk12M3EzODNhYWNQTkU4d1dPMGI1SHIxcFhOWGJ1?oc=5",
+      "published": "2026-09-15T18:09:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -144,35 +180,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Judge blocks plan to return Trump's name to the Kennedy Center",
-      "summary": "Judge blocks plan to return Trump's name to the Kennedy Center NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UaUhDREhjSjBSR0t1S2tqODdDRHF2VVNrZ2JzM25xY0M5dndWY2RaSl84SjZlWThXbS0yN1htcmdfRVhOdXpGSDBQLVJwd2lycldyMVkySDJiQVlrcElJMnVVa0huWk9xbGVjZDdVY3hCQTB0aEVuQzNB?oc=5",
+      "title": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
+      "summary": "Kennedy Center board votes to close it, as judge again keeps Trump's name off npr.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUJ5RXBFLVctZXpsYjFLTmxBX0lzVzZDMXZnQllwNnB6aC00OXZweVN3cVJ0blNoRjl4Y1ZvTG1MZG1YdzJOWXhsNXEzU1RrRjExbVdnZFlCcXhjWVFSUDNFR09hSk5kTVNweUxIbnFuM3hLb3k2T3NsbHlZQ1gwSG5VZGk?oc=5",
       "published": "2026-09-15T17:49:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Federal judge blocks Trump rule limiting international students’ length of stay in U.S.",
-      "summary": "UPDATE: Federal judge blocks Trump rule limiting international students’ length of stay in U.S. EdSource",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnpEd0FWTXZYeW02VnhQLWZaVFZ5ZkpMNGhKemtiWG5SdjdWUnR4S1ZmSG9ESTFSVmJuMlV2WFFMa3ItODNkbE01RjMtZmpyNnhMNUVNa2xOUTJZQ3RBXzZSZTZNaFVBTmtaWHVVTERnelJibEdzeGFOSnlKcDhTZFBlbHBtX3ZLTUx4THp0WUxteld2eGg2dXdZSXlCTVRqMmVCNVNZcC1yZnUySmZSaTZSSUw?oc=5",
-      "published": "2026-09-15T17:48:35+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Supreme Court pushes back against Trump and GOP ahead of the midterm elections",
-      "summary": "Supreme Court pushes back against Trump and GOP ahead of the midterm elections NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1g5RjVPQ2NpRTF2QWZLcmwtNW0wbHJwYTVuNnBBT1RhRk03VzFVQ2JLSUI2QkxlREVqcXdPNndnSmxmSDlmYWZ0NTJWeERRTVpGWXNPdDZQNDRTZzdYX2Jpc2ctZzlHM0p6bExSWVVJYlJqME5XdGlTcFRzMXBUbjc1dmQxSlRiVERrTlZkOEpVVEZHZFVpS2E2UjE1MEVwMndFNHFBWVNyTGY1b0xzOVRaZ2hZMnNo?oc=5",
-      "published": "2026-09-15T17:38:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -182,7 +193,7 @@
       "source_feed": "NPR",
       "lane": "General",
       "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-      "summary": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war NPR",
+      "summary": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war npr.org",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzeHV1VUx0NUc0WWZGQ1NLZ1BTWU40R0pWdTdBWWRDelF0Tjd1T09sZFZUS05fR2U5QWdoMDNOSzJzUzhIYThIUG5wNkhYMFBNVWVGVzNXYm5yOW1VTFB6V2ltWWVKSXVaMXlvUGZvWWVHVGplNWRSRm5n?oc=5",
       "published": "2026-09-15T17:35:14+00:00",
       "beats": [
@@ -190,13 +201,25 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Poland reinforces border with Ukraine amid growing security concerns across Europe",
-      "summary": "Poland reinforces border with Ukraine amid growing security concerns across Europe CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmYwU2hhbktaMVl1TU5ISVpaYWFIeDhtR1VpdjJqbEJOVXRUbFdaRXRnUWtMVHh4YnFlNVB4cG1LanNPWFBsM292OXdGMC15ODhZUFNYazN6LTBQdjU5bXZwUFZfa2J4V0duVVNTeUthcGg4NXB0R2U5QVdyZDRPSUxncFAzNEZLTVhORTVxaE9FbUdPOUE?oc=5",
-      "published": "2026-09-15T17:34:34+00:00",
+      "title": "Sophie Cunningham says she wants next WNBA commissioner to be players-first and a unifier",
+      "summary": "Sophie Cunningham says she wants next WNBA commissioner to be players-first and a unifier CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUh6QThLRENwUFk3OXlGaXBCMTlGMlQ1VjVwVU05NTZ3WjBscDd5eTdFTjQtbkVkRUxvVmEwNWZVQXdwbERjY2IxcjRQX2ZtMFlkLVZXVnZJSjJmeVVBNDFrU3FtcjFoWjBtbUJwZ2s3TXVaMXNia3hMbVBZUDhYU2xiYzNNZlFCSkhyWWxoYkVLdXBTRnlDNzBHQzg?oc=5",
+      "published": "2026-09-15T17:08:27+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Body of 7th woman found in same area of South Africa, sparking fears of serial killer",
+      "summary": "Body of 7th woman found in same area of South Africa, sparking fears of serial killer CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNGpmWktfR1lzUHJkS1R0SlhLdGctNkpOZWdEUmt6aHZxNWQyTWx6SVNhLVdmTnZVMmNrOGNtSGZ3b2k3MHZydEV1cUp4NjJIWlVwWXR1T01GREpDUHE2MFF3MFdqTm9vS3N4eHZoNTg5V2ZrTk53NnBCZWE3NnRWeXpMUklBUQ?oc=5",
+      "published": "2026-09-15T15:41:07+00:00",
       "beats": [
         "Politics"
       ]
@@ -239,6 +262,30 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Latin American migrants deported by ICE to West Africa describe being stranded \"on the other side of the world\"",
+      "summary": "Latin American migrants deported by ICE to West Africa describe being stranded \"on the other side of the world\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52STVIWXNtQ3RnSlV2TE5UOVFwci1oVXdobXB0V3NBMmFMUGJIUmNaNXNfLXlERXJYME1mWHZudm1JUEVJcjk2bTFlUUFYdS11VnVxblJOcWFqMEd1Ym8tdHNkXzhCeTEzV3g1YUg2bnNBYVNaRkk1N0RR?oc=5",
+      "published": "2026-09-15T12:09:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
+      "summary": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZfeC15UnBRMUtVY2MtZU1tLVJFZTRIUjdFQ204MExiNnV6bi1OZHVSbllWU3Q2enZLSDVOUlljNWNoeHpFNk9hRVZJWjhvVUNlcWpzVGFoMGo0TG92bVhGX1hQOC1KN3EydGlWYlRLSzZYVE1jUEpFdTNBWmxkUGpxQUVPdUpkdTRiMEh3?oc=5",
+      "published": "2026-09-15T09:02:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -270,6 +317,18 @@
       "summary": "Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump CBS News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmQwNGY2d1UwS0J1MzdjVWpaTFhBb0g1OE1PQkpWZml5cVpkWnI4cDRrRHlCOUNoMXBJTTF5c05tSHJfOU91U0Y1UVFvc2c0YVl6cWk4Sm5tTFhRUU9tSkdXaDVDM2E0anNiLVhkaTQ0TzJRZ3lubFFHR1FIbjJsOHd5N2UwZWxJZGEzUW8tNVBTUQ?oc=5",
       "published": "2026-09-14T23:37:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Mitch McConnell returns to the Senate after three-month absence",
+      "summary": "Mitch McConnell returns to the Senate after three-month absence NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWDZKR3NSMzdDRzY4T3JjZllXM3ZVQzlodHQxWXRncWlneVJLdmkwQXJzV1Z6b1Z5WFNkUFY0SlZ3MmNDVFplRXBscXNnOFhaNUJUdnd1UkJtY0xBQkRMQkZOYzhRd2RELUZVYmJxYzhOX1FvSTBCZHZoTDBwSTMtOURPZ0NCeGF3cDFjODd3bGp6T01Ib1pLSDV4a3R4X0RHVzNoc19R?oc=5",
+      "published": "2026-09-14T22:14:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -322,67 +381,6 @@
       "beats": [
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Mister Kansas' unwavering support for LGBTQ+ people is even more enticing than his bulging pecs",
-      "summary": "Mister Kansas' unwavering support for LGBTQ+ people is even more enticing than his bulging pecs queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWRnWEU1ZmhXbk9NVTVPME1WLUEzVHBSV3RkSk1PejhmWENRRVpGLVdwUURpRnUzVjRpVFEtS0Q4R09jR2w4VHhmbHpwT0hYNHFuMDV2SnpXR185Q25RQTZDejJpQ3hwMXpJS25ON3N6b253bl8zR2FBdzBrZlpzamQwd1BzbkJuTF9VQ0VUQTFPR3Z4anhvYXZyRktnYjNYQ3dUWEZxUmFzb1ZRZHdtTEYwYWtUaWVGZnF2WU83OGd4cGp3ZXc?oc=5",
-      "published": "2026-09-14T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Pair behind false accusations against Pete Buttigieg caught peddling presidential pardons",
-      "summary": "Pair behind false accusations against Pete Buttigieg caught peddling presidential pardons Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nQTVIVUE0TjZBMGpTZnlVY3JYM1pWai04OUsydWwtTHZwU1c2LVVyaHJwMnctbG5jY0tKNzVVamUwWm9DX2ZRSnQxMkNTQ0hOdnpTNkEyZEpUY1BfSXF0UUhlQzhLOWRMYS1xcjg0OThpZnBUa3ppN1ZR?oc=5",
-      "published": "2026-09-14T19:35:38+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Turkey arrests dozens in \"shocking\" nationwide raids on LGBTQ+ bars & activists groups",
-      "summary": "Turkey arrests dozens in \"shocking\" nationwide raids on LGBTQ+ bars & activists groups lgbtqnation.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1E0cFNsUnNnZllTSGRzcGFzQUxFeVpkYUVXVG9DVkdKMlJEajBSNzM0dzZxTjVlVjdjYzgyZm40RzFzdEFRMEpSbnZoQWQ3TEFmdFY4V0sxS29MOEM4RHhvTFpLV3VuQXNwRHlRaWJHT2dfcldtQ3FXX3JobDFJdXBGT3Z2NXlOT1htbUp2OTQ0Zzd0bmxmd3VsVG51dE1YSGRsN2pzYV90U01PR2NkZEExY2J0a3ViS1E?oc=5",
-      "published": "2026-09-14T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "MAGA’s reluctant crush on this leftist stud has reached peak insanity",
-      "summary": "MAGA’s reluctant crush on this leftist stud has reached peak insanity queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjZDZk5FY29uS0tJSk9HUXo5OHRwOHQ3Zl9sSm9rUEdUSG52bnBLc2xSd01IUXNnNEx4TUNQS2Vhb2RvUkN6blFDUHJ2amdQcnpoN2dTd1BDX1VVQTBjckM4UTRKQkFhMHdOd0pYZUk2bTNxcDh0NjBKZ19wOGJOclUzTmNVNnFJajNkQkNnSVh6cGRZTFh0cFdxZmE4R3pOVV9kRA?oc=5",
-      "published": "2026-09-14T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Districts Expand Cellphone Bans to Target AI Smart Glasses. Why It Matters",
-      "summary": "Districts Expand Cellphone Bans to Target AI Smart Glasses. Why It Matters Education Week",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYk9zdXdSZDhEanRDMjBwSlU4eW1sUkJldG4yZTYyblR4R3N1WEZESU9RZUhaMWRPTHJ1MUljRWNrZ2FOb1dCY2lPdDZpNUpTOHRaamJWYkpmYVdFS18xVlBsZU1BVmpKaWllV2pSSUJVZnZKTzNDWnN0aURFa2N3LW5TMGotZlZuZWppSTdzTEtwUzhPUmZELUp1NEtPNUZjdS0zLVNtTG5FVm5FaGdoRkxYbE4tZw?oc=5",
-      "published": "2026-09-14T18:56:12+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
