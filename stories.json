@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T12:44:31.604650+00:00",
+  "updated_at": "2026-09-16T17:31:11.218402+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,97 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Continental Resources to develop massive oil patch in Venezuela",
+      "summary": "Continental Resources to develop massive oil patch in Venezuela CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHhnYy1IRlo2QVVHWHlicS13TTdsM2Q2dXFscXB3Q3hyWWlveEdQVjhJODUzaF8xVmktcnN6ejhLRVVwTm5peExlU0cySXdQalpnU012eE5BZjkyTUpLZHFrM2RuWUp0d3hnRVZIYndacml3T2FERFNvTFI3M0g3cXVWNWdmMmlJdV96ZnEwLVk4QWF1VUdCTVlMY1dUdGNuOFQ00gGoAUFVX3lxTE92bHhmZnBWZFFTMmpONmVZMEtLZV95S0llSVRLUXl5d2dOU2lKUFhDQWF4V0Z1d2dPTzUydGtDZ1p5ZmRXUzgwYW1WSDVKZHprenlkR2o3OEhxUE4xVHpoOEMyeDhPenFzbXg4T2RLS0dEdE1ocU9uZ2NxVHF3TXJkaWo3MDRIU1V3Q0dMSTlkdTlPNlpCU0xIZFVTUG9sQlRoVVZkVWZ2bQ?oc=5",
+      "published": "2026-09-16T16:59:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Jim Cramer says this enterprise software stock is 'way too cheap'",
+      "summary": "Jim Cramer says this enterprise software stock is 'way too cheap' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmdTRlZhSmlGSzFKWGFvV0tZRUZJYjg3bl9naHAySS0yeUd2WERLVER2TmowZUVzUF9OSlNfM0hENWpCU285eE1TQ1YxSWNadm5YMEp1MDRFSXhFQlVLMlo5VjFwM3p1TjJRaTMtSnZCekQ0X29fekhUSUJnTnBFY3Ezc0xnMndvYjR4QVN5T1lQVzdLSEp5eVJrZzVPeDhxX1E?oc=5",
+      "published": "2026-09-16T16:03:33+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "House to adjourn early, stave off Hegseth impeachment vote",
+      "summary": "House to adjourn early, stave off Hegseth impeachment vote CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzdGSHl2cnZBOVlFazJmaENSTEdQc1IyS2wtUHg4bXFxaVlER2VWdE9XU1VrbUtyYnQ1aVo3QlljWGpZNFhGbk10ZVFfX19ZWFMweEpvUHE2Ty1LMTQ2NGhtWkxqV1VNN3BuNVlEMkdlQnRmQk80US0tdmNyUnNFWkpvT1k?oc=5",
+      "published": "2026-09-16T15:58:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Annie Dillard, Pulitzer Prize-winning novelist, dies at 81",
+      "summary": "Annie Dillard, Pulitzer Prize-winning novelist, dies at 81 NPR",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTDZIZUdLM3NJMzRTRnQzWE5yeDZDNmxrUDVJMnJIRHRLNGl4Y1hySC16aEtRYzBpY0pLeXFteUhJZ1BsQ05UMnB0OGRDdzV3bUZYa25LRk5QN3Z0UXdiWm1Fd0NndlIxN3pBWQ?oc=5",
+      "published": "2026-09-16T15:53:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "How are rising prices affecting you? NPR wants to know",
+      "summary": "How are rising prices affecting you? NPR wants to know NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZzJOLXlNOUtYdHpBVzl2TlpBZXpBX1B0UnVSaV9ScXd2UGN4SzVtdXRXcWIxb3ZLWWJpaWJQRHdOZ0dEUy1wYlNnSUc5T1FuMWRVaXJMZHhJVVhmR3l0aHltM21ySWxUM2VyY2pHalFFOWNrMHR2ZmpKWW5pcjZiNzhRV0d4am1kaDRWLQ?oc=5",
+      "published": "2026-09-16T13:40:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+      "summary": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aaDJnZC1HRTRaUkpCUzdMZExMUVVxdDFETS1XckFVaE1nT1FxTW9QbWJvZTl5TjlOM0Z3dDRscDhLNlBJM0FrWlpCN3o5YW5sMlExSnNlRko1MEtCTDlrbDUtaUYxRVN5YnpVX2p0OWZ5UdIBd0FVX3lxTE4yRlFocVZlVWZlM2h2Z3Rmc1JBU2J6MkhPNXItTE8tNllFS19odDltS3p3N3pNR2NmN1VnQTlVbTlzaTFzVm54dExzWHlsZ1dYbExLWjNWMV9zSmtkcXBaTmdmMW9aN1lLTXI1WWlFaWVqYjY0WHJz?oc=5",
+      "published": "2026-09-16T13:14:51+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump administration paid federal employees $9.5 billion not to work in 2025 under DOGE plan",
+      "summary": "Trump administration paid federal employees $9.5 billion not to work in 2025 under DOGE plan CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2VzFFMlVTZW83ZWhnZFhRcGlRb3hmVHV4MnpKYzhiX2duQVNmbXU5LW05REtZbnRoSHZiV3Y3cDFwN28yYjlzMFRxRjRzZjhTeTZjR2N1TlZHdEt5ZVNrRXJJUTJPMnJBWm4yZmZB?oc=5",
+      "published": "2026-09-16T13:10:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "War-damaged Gaza building collapses, killing 16 people seeking shelter inside",
-      "summary": "War-damaged Gaza building collapses, killing 16 people seeking shelter inside NBC News",
+      "title": "War-damaged Gaza building collapses, killing 20 people and trapping nearly 100",
+      "summary": "War-damaged Gaza building collapses, killing 20 people and trapping nearly 100 NBC News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnhxR0cyMUFiNU93eXhtVmctTTJ3QjNmR3Naaklwa3JWMWtmU2g3YlFaXzlZWDVWT25ienN4Mm9fQjF5VGNtQnhFS2xGWVdlajVKVTY0NTdzbHRqQUNNZjY0QnFjbmNVVTlELXEtMXl4UjY5SXhkZzUyRG5NOFNFaHZRSkRyajBiQnFVdEZNc2k0bFdRd1gwQjZpSHJ5eThqNXFzS0xRbU1RcWtoVmJqLXpFTldVdw?oc=5",
-      "published": "2026-09-16T11:26:53+00:00",
+      "published": "2026-09-16T12:46:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +119,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Gaza building collapse kills at least 20, dozens more trapped under rubble",
-      "summary": "Gaza building collapse kills at least 20, dozens more trapped under rubble CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYy01NThzSm5BSUFhR2FFNnpHYjFBUGs3MDBuaWNTYWxQUEZEbFNqUkJWcG9tZjNoc3V5bl90UjdkNTV2aEZseUUtU00wSF82d3Q2d1NISjBtMUhQTWliZXFocmdlTHlGcXpWMjV2S2R1Rl9TeGtrelNDQUFpd2NvTndTbmF1R3RqYWp2Q0dzTQ?oc=5",
-      "published": "2026-09-16T11:16:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher",
-      "summary": "Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUoyVmlMcUs0Z0dzQTVkTVpPOWdBTDRCNWtsbUVwWHZCcXZvNXk3bkpfWW5NVjRqRmtNX0NKaDNwazdLMDE1YU1VeGtpd1JzV2RncS13Y0NkeVhDMWd5eUxVRUNubFdaSFVOSXBxQjc0RW5CeFk3LUtJLVlETVV0aDUyaXpaUV9HRXdFNGZ6WmZacEZJLWM3S3k0cVE5RXFGWFHSAacBQVVfeXFMTVBxYlBTV2Nvd1FRSGJkZ2xBN3QwdEk3TWw1em5VUEtod0praWpodWdVcmtMOVd3N0JZbmJkQVFEVlRwT2JfQ2hxMG1aRUNFX3NIMTNaZmJWWlBFSmJmN2lGcGJ6Q2xzQXBYUDB0OWk2NzNfLWZIdkFfaGtUOENmZlpuOTY5d3BxVXVxa0JaU3pBbmZHRnltQl9QREExUmt0alRFY19GTUE?oc=5",
-      "published": "2026-09-16T11:00:01+00:00",
+      "title": "I tested the iPhone 18 Pro Max for a week. Here’s why I wish I was buying it",
+      "summary": "I tested the iPhone 18 Pro Max for a week. Here’s why I wish I was buying it CNN",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOTEV3R3lTOWFmdkNnZE9ZamVHUldHM3Y0YTBUZGVxMWtldXdyai1Hakp2UW9rYTlVXzF3ZGJyQ01IWUx5dzRTZ2F4VXVQWldNRUtHR3FDVkNSUFQ4ZG5kT1ZUZEd4R0JC?oc=5",
+      "published": "2026-09-16T12:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,94 +131,46 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-      "summary": "EU's Ursula von der Leyen says she wants Canada to become an associate member NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
-      "published": "2026-09-16T10:48:22+00:00",
+      "title": "Why Steve Bannon sided with Sanders, not Trump, on AI",
+      "summary": "Why Steve Bannon sided with Sanders, not Trump, on AI NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3pmY0phYjBUNXVfZlNRLVZ3aVV2TDJCaXZRbkhGUXBLZUJjTkYxME9zSUpPcElEdEJBTk5LRmdVVmxPeU5QUlhES0dxQUpDZWY3RHpfZ3JHMXQwZXZRR1pCQS1wS245LVFLSlV3YVMxZnlUc2NETHJMbHd4a3pqbG8tLXh1TE9Qbk1r?oc=5",
+      "published": "2026-09-16T08:43:46+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Hague court convicts Kosovo’s former President Thaci of war crimes, sentences him to 25 years",
-      "summary": "Hague court convicts Kosovo’s former President Thaci of war crimes, sentences him to 25 years CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYWG03NDdjSXNqRnNFcko5R3ZHc2VKYlpLUHM3S21oQm1vMHZRYXAzOWR2Tm4xS1V4ek8tbENla3FtMVpjc3ZxLW53Z1FfNTRaMF9VNjRmOVpIcU00SkFWRmEySGozd3NjdXJBdVc5d3loZi1rbUVKM2s4M2QxTzg?oc=5",
-      "published": "2026-09-16T10:47:12+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Don Jr’s scandal Russian wedding bombshell has Tr*mp & Melania running for cover",
+      "summary": "Don Jr’s scandal Russian wedding bombshell has Tr*mp & Melania running for cover Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHN1OEZ1OHhhWnJnUGdrZUJ4T3FMdGltMlRWaW1qUExHNUFvVDJUR0sxY3MyRUxiMmRaZWFjeVBfb1BOMlpzczRKMmdoeTQ5SUNwbXl2QTBPSlprWTFfU0hSbGdwYjQySzRmeUd2YUd4Wk1VUEJsZ0hNWlNZOGZuVEVheUw4QnhINGs2dDFmRGxhODNSemYzMGpaVlNaajFrcTNaeQ?oc=5",
+      "published": "2026-09-16T01:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Casey Newton and Kevin Roose partner with NPR to launch ‘Machine Gods’",
-      "summary": "Casey Newton and Kevin Roose partner with NPR to launch ‘Machine Gods’ NPR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMC1ya1V3OExDV1V1d1ZqVlpMWmpyYmptcDFJdmJLa0RaemZTQmh6aXdHcW9ocjdtUEZfZkFSQU8xMDJwRmNLVlJTU0hCVjFHcUxiLVBLUDFpak5NR2VrOW9SYkpSVmpJaHZackFyeFRWWmtFcFFlZHRoY2NLZ3NTNE5BYmYtbUpFOWNYdXdTR0pidTlmamhlbi1mY3dHZG96M0htU3RrRmFRb3VVbm9kOA?oc=5",
-      "published": "2026-09-16T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Senators question Trump's picks for top health positions, including surgeon general",
-      "summary": "Senators question Trump's picks for top health positions, including surgeon general NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT3BIaElhZ0FkWDhzUkEzcnVuTkQ0a2xpX3duSHRnYUU5elRWeEtGZ1hDWS1uNEk0ZTRHUGhXX045dm45a2dBS09KelRabm9DYlZWem5ueDlaUEVWYnJBQU1KOHFsT1BSei1nbVg0ZWg4eXY2dmsyTUNjSlFoOGtOWVhQRXRrdEtRd2p6Q3BzYlpVUDdPcnc?oc=5",
-      "published": "2026-09-16T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-      "summary": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55T19qVTR2OGlMZzBXYUNrM0U1dExRSkNINjA3LU9LcHlscXBvSGxIVUtSOFdmaGpFR0RZSWRIQVhMeXlpUlQ1ZmJWR1VkNTBwVTZqRG1aTzFxRWJhYjVTTmE5dFltNGJITThsMGs0TkJkOHF6SkHSAXtBVV95cUxPZW5KZmVLS2FIRlZkSlcxR25xcC1GU1N0YVBWaC1DNFRqM3dUSHJZLUczU1QxQnBNTWt1RU9vTUM1SG53ZkFuQ3dGaE1UYzBwYjFjcVZJdjI5cDJ5cHNrcEhyTEdreHRld01uSC1wb2JMS1A2bGsycG1XaXM?oc=5",
-      "published": "2026-09-16T09:08:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump wants lower rates. His new Fed chairman is poised to raise them",
-      "summary": "Trump wants lower rates. His new Fed chairman is poised to raise them CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LN3JoOWFnZk9rN1U0dFB5WTVCOUxaSklCdzlZSWNPZ2txUktpWFpSTW91enZSSkp6ZW04RzNFNlUxRFhMZFpVUWdyVmZqWjNObkZ1VlBoVmxqclhaVlJxWi1LX2lzMTV1Y3RjNkR4dld2ZHls?oc=5",
-      "published": "2026-09-16T09:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
-      "summary": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaTlHOC1sUVZiSURUR012WlBISktobTVxT3R4MDJDOTRYcm5FX1JRaHZIV1J4ck5sN1NibzZEaV9LZDZyY1pQZ1ZvbVpvbUdQdnd6ZkU0M3g2THpGZWVUVWZhc0RFZEJabW1qNWRBSnQ2bVdYLWdFcWllaTNPR3RWeGtnd9IBiAFBVV95cUxNdUpVWmJQUGNXVHlnZzlCNFRpREo0V2pMVFdhQjQxemU4ZUdRZmlEWHFRc2hSQy1GMTRKb1Q2NVlUUExsRHJkbm1XZTVBNVM3U1lhUFNnUFBWSUZQaEx4cnRJRElSeHdlaTZfcll2aTFqcXpGRWR4Q2ktOWpYVDBjUU4tSm5tam85?oc=5",
-      "published": "2026-09-16T08:03:34+00:00",
-      "beats": [
-        "Business"
+        "LGBTQ+"
       ]
     },
     {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The A.I. Doomsday Skeptics",
-      "summary": "The A.I. Doomsday Skeptics The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHNNanpxWkIxVkRqSmFsMFlpQkloMVlNUTRiRDd1OGhuSkw2bnNiOFZIUDc0TklwY2FJYzBPUEVjcXpVT1BfazdwbndTRXloSklJejB1ekpEcDhmR1lHYmV4eUZzaUlIZUF1anlPM195cm1QY29IUGRjR0dqRE00OUlaNnRySFY3?oc=5",
-      "published": "2026-09-16T04:20:00+00:00",
+      "title": "Pro-Palestinian Remarks Roil Sheeran Tour, Leading Finneas to Drop Out",
+      "summary": "Pro-Palestinian Remarks Roil Sheeran Tour, Leading Finneas to Drop Out The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2hMTXB5eEQwNVBNWUJiUFJfQWRSY3pUbi1ZOFZkb3NxbWh1ZzQ1eHlYU0RvOXE5QXR0WmhldHNScjZYdDJNLTV0TGN6WjN1M1JxZ3N4NDFQZ2VDVmFyWVZJWnllN0JFSDhzZDB4d3hjV0RXNm1BZU01QlFUZlRyNmJieHRpNzg3VnB5YjBfdi1LSmdVakkwMElvaDB3Tk84V2c?oc=5",
+      "published": "2026-09-15T23:03:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Kash Patel defends FBI’s new policy on bestiality at Senate hearing",
+      "summary": "Kash Patel defends FBI’s new policy on bestiality at Senate hearing NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnVtN0pTR2FLTHg4VFBHY1N0QlRQX012YmYwT25iQlVsRjhTdWloTk9fU2V0WHp3V3F2Rm0wZmdEb0JWbWdJSzdjYVR4cld1R0ZkOGw5MW1YU0lGU0tyTVlDdEpuQ1pDeWxNUDdHU2pLY1RZR29LdXJYbHNkRTV6OTF3WXBKWnh3XzRUNFB4aEZ6S3RxT3hWalVpWW8wb0pxZkg2VDRkUnRTc2g4SHd6TDNn?oc=5",
+      "published": "2026-09-15T22:47:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -158,21 +182,46 @@
       "title": "$400,000 per bed? Why it costs so much to build affordable student housing in California",
       "summary": "$400,000 per bed? Why it costs so much to build affordable student housing in California EdSource",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXY1NUclBNQzNwbXY4dTRFRGlMdVpMSFdiYkJVM05sZ1hFZ1JVOU40TGFaV3M4RUpyeHJVRTZISHZncVFKQmZMVlN6MTRfanFsYklWenRkY0dPTXdkZFVOSjduR284SnJhNHd6eUJPMG5aSlU?oc=5",
-      "published": "2026-09-15T21:10:19+00:00",
+      "published": "2026-09-15T21:52:19+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Ed Sheeran addresses Macklemore’s tour exit amid Robert Kraft boycott claims",
-      "summary": "Ed Sheeran addresses Macklemore’s tour exit amid Robert Kraft boycott claims NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkVGWms5RHo1NU9zUldIOTBJSjBYS1B0cV9SWmR0MnRBM0tvVV9BZDI1VEhCRGZXbEs3aE5PUUlCeTg2bkVTd3hmSTVFY0dVOGRnaFdocThoQ0d6ZEhSdk5Sd2RSQ3cwRkNRSDQ5TU96RDByNjZCVnhNci0yM2N3WXEwLWZaeDBEQlhiT2Y3ejh4RmtEbHdNdTMtRUJkaXAxUlRIUlluVU1WakFHNnVPV2U4UjFYVE9GdGd6ckI4d21FUWIyNmJreVZEdUNrVjQ?oc=5",
-      "published": "2026-09-15T19:18:22+00:00",
+      "title": "New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks",
+      "summary": "New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEZUMnF2N3Y5bFV4c3FvRkgtaG56ZTFrLURTR2VseWRnUVVnTmhTdGxENWVEOVc5Q2xfbnQzZk1Qbk9NanZIRHg0QlVSTEFQOXJyREFPR3g4N0pSZmZ0VVcxbFM2UWZhdFJhQTVKVFN1dUV6djZ4d2hDNERITW01S0JzU2RpZHF3Y0wtVHRJeTFDaFd3YUpWTEZGR21pVDA?oc=5",
+      "published": "2026-09-15T21:14:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The A.I. Doomsday Skeptics",
+      "summary": "The A.I. Doomsday Skeptics The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHNNanpxWkIxVkRqSmFsMFlpQkloMVlNUTRiRDd1OGhuSkw2bnNiOFZIUDc0TklwY2FJYzBPUEVjcXpVT1BfazdwbndTRXloSklJejB1ekpEcDhmR1lHYmV4eUZzaUlIZUF1anlPM195cm1QY29IUGRjR0dqRE00OUlaNnRySFY3?oc=5",
+      "published": "2026-09-15T21:01:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "MAGA supporter resigns from publishing company of Out, Advocate after uproar",
+      "summary": "MAGA supporter resigns from publishing company of Out, Advocate after uproar LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmtZMXpPaEVIQ1V1amZLSk1xN21rWEhNa19oZHJPS1BNcEU5N2ZkT0dzWUJJb3FOLXFKNWVEQTQ3d29KRjd3QkJSZlFXMDI4QW9rRzVCeGtva3o3c1l5aWZ1bDVldUN3dlAxZXhmT3lfNWlIRnFhVjA3eEpHXzNhMmdLakVFQ04wOVAwb2dsTlJ5Yml6T3BVclVHZTNLRHhORnhNU2pMOVhnb1E?oc=5",
+      "published": "2026-09-15T21:00:00+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
       ]
     },
     {
@@ -180,7 +229,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Equalpride board member steps down following report of MAGA support",
-      "summary": "Equalpride board member steps down following report of MAGA support advocate.com",
+      "summary": "Equalpride board member steps down following report of MAGA support Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44X3poQzc0ajN6Q1lLVjcta3JnV3d3N3dtS3BleGZSX01RVzJ4Ymx6YWJ0YlVYWmlwcnVuRER4WlN0RmZyQ0hPY3hGZDNmc2xVam1HU09GLXdpRTQtWDJfdW9PX2ZBbFBqbEVxZTcyYndMSWs?oc=5",
       "published": "2026-09-15T19:17:49+00:00",
       "beats": [
@@ -200,6 +249,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Baku Taru undresses, Michael Delbrey shines as Green Lantern, Yaoyaoyao2018 serenades Digimon-style",
+      "summary": "Baku Taru undresses, Michael Delbrey shines as Green Lantern, Yaoyaoyao2018 serenades Digimon-style Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS1NXMHVkelBWWDYwLUtTV3lmdXFsQ2t6YXRxZ1B5Vk5lUDhRQUJrR0RFQW5JVmF3ZXBCbjl0RjFUVmpaUnFLSmctS0Uxdm5UbGx6dDhVVDJkMUpzNGRwZkt2VzJadFZUYTVISmo1Nk9ObG1ndGpyUlNsYWNxN0IwVFliVTdZdC1uMDVLV3ZyZWItYm9MSmdoRTk4enlnWlZ2b1ViWG1PSHA3Z0FJVGJ4a2xrRHk3TVAyUWNKdEdhdGNDUUtkN2o4N2lzQQ?oc=5",
+      "published": "2026-09-15T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -207,6 +268,18 @@
       "summary": "Iran war could cost $2 billion per month, Congressional Budget Office estimates CBS News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUhHVE9zVTFpYzRVX0hvZ0ZOT1JDQm9CV1N6VG4xeS01N1h2d2VGa2tRSFBMLXp2ZGVIdFVveVVZYjM4alp1dDlpUVozOGJIX2JCWHpSX09IbVBJMnpTRlp6NnlWdUFBZzV2TkdROUhUbDgxNjRMbHRMUEtCVzZxZFJRVDVFM2xRUVR3a1VJZ3loYURIRVE?oc=5",
       "published": "2026-09-15T18:31:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Ohio city council joins the renaming trend with ‘Gulf of Cleveland’",
+      "summary": "Ohio city council joins the renaming trend with ‘Gulf of Cleveland’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXVWMzdvLW5hMVpjaDdhVGJQR2FDNU52ODRwRnFWWlluc1UxREp1S3Q0TlUxTUd0dGlWNVFxT3FZVGVtSTlOd1AxeEwyOGtsQ3VqbDBpYWJDTFMwS3ZoMUdZRHczckQ2MjNXUENCV3huQW9PRWMzblctM0R1eDNkUGxITkZ5RmwyaG5sMnRXVk12M3EzODNhYWNQTkU4d1dPMGI1SHIxcFhOWGJ1?oc=5",
+      "published": "2026-09-15T18:09:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -252,11 +325,23 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Mitch McConnell finally returned to Senate — to cast the deciding vote for an anti-trans judge",
-      "summary": "Mitch McConnell finally returned to Senate — to cast the deciding vote for an anti-trans judge advocate.com",
+      "summary": "Mitch McConnell finally returned to Senate — to cast the deciding vote for an anti-trans judge Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU1RZaVp0SnloTGxVWkJfdjBtSlppemxuaGRBcUVrX1ZLaW81dEw3clBPMWxpMnh1cEs2bmR1elBWYldrcmpQVmVaaW5uSkVQbTRadDhrVlJkRkxnOUQwQXZEeWVGdGNTSkRhMGJhMFBYLU14cEVVbWJlMklubnlwZFJR?oc=5",
       "published": "2026-09-15T14:48:10+00:00",
       "beats": [
         "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "New Hungarian Prime Minister promises to repeal Viktor Orbán’s same-sex adoption ban",
+      "summary": "New Hungarian Prime Minister promises to repeal Viktor Orbán’s same-sex adoption ban LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlJPTUt1dGRFNXNneTdSZnoxcG1rekgycDBEVHo3RzZaUmpnNTJCYlNkdkZ6OFVFaWdwWFFlVDZpcEJTVWtCNEVqbzF1a0JnbGpUN1Jqd3d0cm9jdlVPYUFfd2ZZUThrU1B1Y1FjN1J2YUJoRVNLZHVBcmZDT2dOMXRCVmZRUHZoSTJZU1E3TnF4S1YyZUdiZkl4eUNQMC03T0FZRWdfYVpFUllGNlBQMUdCWHJPQmM?oc=5",
+      "published": "2026-09-15T14:30:00+00:00",
+      "beats": [
         "LGBTQ+"
       ]
     },
@@ -292,91 +377,6 @@
       "summary": "Cellphone ban enforcement may be waning over school year K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTENsNG5KZ0xFQV9PRVdCQlJmX25pU2JGTG5kSkowSm02clpRM1F5V1JsMi1qWDktRjNuWFRuTTBIWlFpWTZQLXhrNDk5Z1VkZW5BbUdTaWpnYmViZkpySTN4LTFWajRjYjZJRzFaM2QzY0haazNIYmtrSTNLd0tucHVURlVZTFBUVV9CZ2ZfNTducnZRejRlcw?oc=5",
       "published": "2026-09-15T13:34:17+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Latin American migrants deported by ICE to West Africa describe being stranded \"on the other side of the world\"",
-      "summary": "Latin American migrants deported by ICE to West Africa describe being stranded \"on the other side of the world\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52STVIWXNtQ3RnSlV2TE5UOVFwci1oVXdobXB0V3NBMmFMUGJIUmNaNXNfLXlERXJYME1mWHZudm1JUEVJcjk2bTFlUUFYdS11VnVxblJOcWFqMEd1Ym8tdHNkXzhCeTEzV3g1YUg2bnNBYVNaRkk1N0RR?oc=5",
-      "published": "2026-09-15T12:09:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "How an AI slowdown could hit the economy and Supreme Court blocks Trump on mail-in voting: Morning Rundown",
-      "summary": "How an AI slowdown could hit the economy and Supreme Court blocks Trump on mail-in voting: Morning Rundown NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1gtdnh6YTFqamVrbFd5UVhrRXNsVkV2MGdiMzgtaEZMVHdNYUdMVnNnQ3J5bVhBSnpfZDBHQzZKM2lpVXhVSU02RjhZbjFQSXZyTmtoazBnV0hKSU1lb0oteE43cHFONzQ5RlNPM2xKelc4bjc4NkVHdHpmbFdWRURocEljdjRVeTdnakJBV01hendpYWFzRmE3UlRBZkRYcTZ4UFh4aE02LVk?oc=5",
-      "published": "2026-09-15T11:04:21+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "The Big Flaw With Ed-Tech Tutoring Isn't Technological (Opinion)",
-      "summary": "The Big Flaw With Ed-Tech Tutoring Isn't Technological (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVk9WVkV0SmdZUHdBM3U2eWpLcjQ3dFNYb2Y3dGh5cnJ0Nkx3ODg1RmFBYkZFREdHcFB3WEd3VmphbnJLOHhzMTNGODlBN1NKOE9EdnU1MUUyY0lZdXc0R0kwdjN2R0ItWl9TNkRHM2Z0cV9aaHpXcllLTU9RVWQ1ZGdRSnRTVjBwVExlNGFkVWc1R2kyNlJOWEsydGFWby1aSXNYbVZ3?oc=5",
-      "published": "2026-09-15T10:04:07+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Universities Sound Warnings About A.I. Even as They Embrace It",
-      "summary": "Universities Sound Warnings About A.I. Even as They Embrace It The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEdtTFUzeW5hMGVpa21sSWJnT0NYVVZza3VyckFNN2FkSTZIdmsteXB0NmI1MHVKTDFfSDNSUVVQdk5rVVBVNTVyRG9sUXQ1UHlybXFMa1JTbUJiSkxLRTRfV1lKWHlKbWNjVVc5Q213c2I0Rk5qaFBfdFNpeUhQZXlObzM?oc=5",
-      "published": "2026-09-15T09:03:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "OF star Noah Segsy found dead at 22",
-      "summary": "OF star Noah Segsy found dead at 22 Queerty",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNm9IOUMwUVgyMmdTdk1fbGZEdkVBSmFPOFBhLV9OZFA2QnhTNTg0Yl9PMkJLMGRmb0hWdEZ0QnY2bXBydnJJa1pBQTNoWDE0MDlsMWpYTGtrWGtDV0E0RGNrZk5JdE1teW1zWTQxSXpqUQ?oc=5",
-      "published": "2026-09-15T00:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Suspect arrested after South San Francisco home intruder sexually assaults resident",
-      "summary": "Suspect arrested after South San Francisco home intruder sexually assaults resident CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTE9acXFCNmhNN09DYzFGSUFwWTh4WTBlU0dya3NWb1VoQ1JiRUg5V0FEbXpWTXdpMzVXZU9jRE14T1hhdXI1dldnYUg1VnFQdnpNcUM5cl9xOHdTZjRYc1JQaUpIYmc5RThxMHkyM3RQODAxVlJicURhU3hadjZmdFJTSmozS0hfWlpwYmdFa2tXRzloc0RfZjhuX3JhRHZnOXFoYzlIZjdEQlE?oc=5",
-      "published": "2026-09-14T23:26:24+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Building Problems Forced Students to Lose 3.5 Million Days of Learning in 2024-25",
-      "summary": "Building Problems Forced Students to Lose 3.5 Million Days of Learning in 2024-25 Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXAtX1NsQWpTQ2ZJVmdHRDNSMG01RWNnMkh3WXVISWJOX1phNVBVOWt4eHpEZnJTdEMtSnVtWGtNeE5fVS1DcHRYVi1jS0VnXzZrVDRJczUyM01vT00wbGNpRDJ6SHJDWGhhV1c3Tk9JdGR5REtfREh1X0FNYUk2cTR4VEg2TlZKTzhVMk1UQ0JrLVJKWDZrVFE4enVxOVVsSEtUdjU2bjk1OWgxVTlQa0QtUEFCdWw5Y0E?oc=5",
-      "published": "2026-09-14T21:37:01+00:00",
       "beats": [
         "Schools"
       ]
