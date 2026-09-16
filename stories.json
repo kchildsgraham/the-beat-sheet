@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:59:37.992869+00:00",
+  "updated_at": "2026-09-16T23:37:31.272494+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
-      "summary": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oU2RoR29oUTJvVE9iRC1rWGlBRENidUswV0JUOWR4MmowQ1dPUU1FLWxjUHc0YUNnUXlUWGItTnliNXpEaUlFOEdoUVlVaDlrZi1VdTkteDltdzFrUWNWUDY4b0NhdVA5T19BYmhBTm9GS2fSAXhBVV95cUxNdzdoMlNuY01mNlJGZmo0T0FCMTMxNW53aGFMSVZyNmFCeVlYN3Z1NjUyMkV6SUZiS0g3eHR6ZFR1SzRoY1dFenNVT1JZRkZ2U1M1UFk4VzNMRUcteDhJUkJCSVhLZFZfcmtRWVpGUHF3S3h5d21JLVc?oc=5",
-      "published": "2026-09-16T19:38:10+00:00",
+      "title": "Fed Raises Interest Rates",
+      "summary": "Fed Raises Interest Rates The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WQmtTcXM5ZVlud3czbGxZUU13OVNscm5Lc0ZJRXRnbnRlWlVSdEtPOHotLUpmTnlGZlcxRTFkcHlDRktISE9vYjNYRHBHWnI4STFZSkNxSzY1aTgydXM0UjljaG9uSlMwZ0EzNU5sOGthMkZaYk5haG9pX1BEWEU?oc=5",
+      "published": "2026-09-16T22:49:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Banning AI Alone Won’t Snuff Out the ‘TechLash,’ Parent Advocates Say",
+      "summary": "Banning AI Alone Won’t Snuff Out the ‘TechLash,’ Parent Advocates Say Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3phZHJLaS11WnpaTHFvWnBLUWw0UXBBU2FCN2I1R3JoZ0tZWmNuS3FLSzJTcF80YkN2MzZ5ZWRKbjFFSXI0THF1b043LVNHaTRZRmI2c3pGVGh0a0s5eHRXM3VZZldnTWU2QlpfOVl6MFdmb3BVa3BxU2o2RWMwM1FadGptMmtOSzRwVzVkZktVTFlNZ29YRWNYQ2RtdUF6b0I0R2hHcnp3eWc?oc=5",
+      "published": "2026-09-16T21:56:22+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
+      "summary": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY05paC05ajF3SXVOQ3drOXZjUjVNdy1rQTc2U3ZDbEFaTG9BRVNrXzh0dk1tRldBbG9ORmJVM1BjRkw5RjJlMXRHSFFFMkdMcFg0blhoWjEwd1JqaFUycG40emxVQV94eFJaZ19hRk5XR3NOQ25JYkk3WlIxQlM4T3BsVUZLN1hLU0hCdWt3?oc=5",
+      "published": "2026-09-16T21:20:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "House holds billionaire Leon Black in contempt of Congress",
+      "summary": "House holds billionaire Leon Black in contempt of Congress NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0hLSGs2bVFFWUtLc0RWZjI4ZVMydXhGVjlna3ZabV8xYmtSNWozX19oZ0FpX283bEFlaThjUmFTLWFxM2hDLWE0MzBVRFlCODl5dS1SSjdWVmJ2aDJ0RTJLeG1KY01Sb2FtcjhyekJiWmpIeTJwSk5wMTJEamhqTC1iTk1ndE0xT3ZrUlBqMXNjZlU?oc=5",
+      "published": "2026-09-16T21:12:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump administration plans ideological warning signs for Smithsonian",
+      "summary": "Trump administration plans ideological warning signs for Smithsonian NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFRjNWVld0loUFhkS3E4SWF0X05uRzd5R3hZSFZzTHRsOWdVVWlscHBDdEVMNVA2c2ViYm1XV3NmMFVnWXVJUTMzd2RaVVI2MnN2RlR0dzdLTElNRkw2aXJiU1hWajE0ZXo1NHZrQzhvSVV3Qk5WX0wwQlNoS01xZ1B4TXZRUkI2SUhwVkUxUXFSSUlKLUE?oc=5",
+      "published": "2026-09-16T20:55:54+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,12 +83,61 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "White House chief of staff Susie Wiles says she's cancer free",
-      "summary": "White House chief of staff Susie Wiles says she's cancer free CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YQkp4S2gwZDJERjlsT3pmS2k5dUNGRnJfUFdCMTNVaEpuRkhQeV8xV2RhWGJYWC1YNjR2dGRuQ3Vqc3JheGdERi1sSXlfcGZsaDVVRVZQQ25TNkFaVmJza3lkcDZjZUM2WkZXai1B0gFzQVVfeXFMUDNFb3pzRkxvakQ0dTczNUF3M3F1eGo5T24xTkdwWVp6T1NVbEIyUmtxM2wzUVJrdHE5U2hhTkZySHVROTFpeEY0bTFVQ1dyRDJsdzlCNjRtVXFIdEpRbUNsckVZQlRlYUxHSHhxb2l0SzRYTQ?oc=5",
-      "published": "2026-09-16T19:31:11+00:00",
+      "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
+      "summary": "Trump demands 1% or lower interest rate after first Fed hike since 2023 cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzYXVXRVNMRmFVMkVqeGJMLVhsQklJNlVTOU4yN09nMVJMcXozWmJRUUFORlpzTTdBWHB2dU1aS1pGRkY0cWpBc3FjV1RaV3h1ZzdnbVVKQXNiVjBvY1NGYWFwRkdrQ2R6c3hyRjlGbzB6TXV10gF6QVVfeXFMTzlzVC1yMDVCc3UwVld5bEpIbm04VWx4Q3JYR1c4NVZDXy1YUElET05SNG82TVJnVUcydVo3UHozTHBXRDNQcm05YTRCOEo2M3BjTHUycko0MUZteEJzU0NRM2RsdWpJRkt0aU8weS1LRjhhVzdncWxiQXc?oc=5",
+      "published": "2026-09-16T20:45:38+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+      "summary": "Here are five key takeaways from Wednesday's Fed rate hike cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkhGeWtmVHdBc2hSWUMwNmdPdkZRYmc2RVV3bWFYdHdZQWxmc3NUUDVNUlEzejk0VE0yM0hHbzFSUW9Rb1RFcTJRRk5SMEd1MkswWmNTZC1YSUNJbWFUQXlrWFZxSFpIN21JNzM4UHI3bGdRSlJkZTV5RHFUNzBhSTg1enluQ1RDXzd2dTZLQlNmRnI0aER2YlF30gGfAUFVX3lxTE9Pd0F0dFg2QnRCaXZ6MnhpQVd3aWVDSDJBZkFZS1FMaXpwdzFoNXpuTGk4OTVoa1lVckhhSDlfZ3BsanVTUWxFWUJYTk5SV3JQcUJLeEwxNnJUMk1QV1FRUm1aSDFhU1d6RG9JMUpzLXVDcllucjNNVnZsMF9DaXczZlVuanVoWklYQjRVSmN0bERGbUJ3ckhBSF9FWXhyOA?oc=5",
+      "published": "2026-09-16T20:43:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Some Republicans privately fear Russia sanctions bill will give Trump too much power on tariffs",
+      "summary": "Some Republicans privately fear Russia sanctions bill will give Trump too much power on tariffs CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KOWMwVkRZNzF1TUdWeFAyejV2azZhbFlFbkpvQXFfZkdDNklueTFiYzdlaDZLQmNMX0tPbWdidzNZeHFfaC1PRHVCN0dpamExUFBxbjFweGtkVHo4aDBXV0xTWmE0MkJCQlpRZnhwb2w1a183QnNJbg?oc=5",
+      "published": "2026-09-16T20:32:25+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+      "summary": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oU2RoR29oUTJvVE9iRC1rWGlBRENidUswV0JUOWR4MmowQ1dPUU1FLWxjUHc0YUNnUXlUWGItTnliNXpEaUlFOEdoUVlVaDlrZi1VdTkteDltdzFrUWNWUDY4b0NhdVA5T19BYmhBTm9GS2fSAXhBVV95cUxNdzdoMlNuY01mNlJGZmo0T0FCMTMxNW53aGFMSVZyNmFCeVlYN3Z1NjUyMkV6SUZiS0g3eHR6ZFR1SzRoY1dFenNVT1JZRkZ2U1M1UFk4VzNMRUcteDhJUkJCSVhLZFZfcmtRWVpGUHF3S3h5d21JLVc?oc=5",
+      "published": "2026-09-16T19:38:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Federal court revives antisemitism lawsuit involving Los Angeles Unified ethnic studies",
+      "summary": "Federal court revives antisemitism lawsuit involving Los Angeles Unified ethnic studies EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDY4WGxQbWVzZnZOZXg3T3E5eG9CMlFWOGtyV0d5QjROY2w4T05Oand3UFh1UjNFRl9pcVpZQ0NLcmZLWEhya3NRaVIzRFdDSmNGNE55LTNTX0c0QndZSmJwcW56ak5BUHR2YnJHVUVyVk4wYVhEQm9FNEs2UDJSMXVtNzBPeXhPTkdj0gHGAkFVX3lxTE1fTVNTdy1vUVI3eDI2Y2pLYUp2RVNpZlhoalZFMzdlVW5lT183S2JrYmlzSGhVS0VyQ3RsOEhXSjNqLXVNWUpQV0pEa2NhdFNlN2Z5VVQtZlZIZm9ucnhGTmJYdFlXS2NpN0Y4UmtIWVpfSU1JbFJtNWxocXJrdTNESVBtWVpFbWF0Z094ZDRPWXRlbXNYOFdxR01Gb054X0lfT21IeFMzeng1QnFrSEh1eC11N0szTUs5cXJpREtOZEJpSUwyQ1REaXNkQXl6Q3lNbTRkYXQxblFWNllrQ2Z6OVBfYm90VV9RNF8zMi1KV3BkVW5TV2VuaDV2eDB2anBOZzdId1JtQnhjZzJ5OWlpeTNGQmtvN3djWERVSTg3MlZYZnMwT3ZQV0ZDanZhQzBGdkVhZHZ0LTNGSUs0R2VORmx4NzhB?oc=5",
+      "published": "2026-09-16T19:35:21+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -51,54 +148,6 @@
       "summary": "Trump’s frustration hits a boiling point with loss after loss CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFcXBaRVgwVmJtTkZLT1RpUTc4NnlVQzFfai1lZGVaSWFrZzRNSEo2cVdaQkZMRlBhUWtrV1lqQVlWcGY0UUZubGRHN0lUd1hOZ19mLXFmTU9sZTVZNlZaQUxCbWJkcFNjeTJPd2VUVHh5dTdVblE?oc=5",
       "published": "2026-09-16T18:39:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Fed approves interest rate hike, signals one more to come this year",
-      "summary": "Fed approves interest rate hike, signals one more to come this year CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d21SUXhkazRGZk1QSTgxb2lQME5TUzdVNEZ0bWVxdWRENm96dUNfU040Rnc4Skl5MnZwcXlKLXh0c1NzYVhrNDZHY0F2M2otb0ZEZmRyd0N2Vlk1WjZ1a1FpZk9jaEtBV25HejlPUE5LVWllZDN2TtIBfkFVX3lxTE5MbUliaWM2Nm1nSDRQU0ZEUmdZUXVNVjRZeXpzRWlaY2pMRzMwdGFUb09jaWhqUFNJZEo5OUxJenR2aEtkcWR0MnVYR3VmdndJWlJTNGlPWmUzNmJYLS1oZ29fMW5PR0dzY3JYUkUzaGdfemtIQjBqc1hjMjNtZw?oc=5",
-      "published": "2026-09-16T18:00:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "5 takeaways from the Latin Grammy nominations",
-      "summary": "5 takeaways from the Latin Grammy nominations NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0aEhfWGtoRmFqUG5PWDU1WWZXNmllaHVIVm4wZVdnZ3hKeTJNc2VwY0d1UnJKakxjWjl5TDBjTjF4QXVnWW1udUhmZzIyZVlUWnYtUGgwbTZfWlBtVGljUkFqXzV0TGJxTEhLNWxqX0Ftb3BNQ0QydzNXSG1wV0k?oc=5",
-      "published": "2026-09-16T17:35:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Sweden’s center-left opposition wins election, SVT says",
-      "summary": "Sweden’s center-left opposition wins election, SVT says CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1RIR2Q2TlBpUGo0UjAtdGxVLUpreW1IVy1Kb2duR2U5bFRtWXc2T2c3dHY5eW9TeWtONHNzallnNkhjbU5rcUJQQl96Umw3VU83MzhVdFBpemd4d3g5TkpITVd1UWZDajc4cXNnNmtzS1ZXWVAtRHpLc3lxZV9Ob2M3WU13WksxWEllTGZ0dw?oc=5",
-      "published": "2026-09-16T17:21:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "DOJ charges Russian agents with plotting attacks, including in US",
-      "summary": "DOJ charges Russian agents with plotting attacks, including in US NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaS1LUGtrak9vQUFpMWF4Mnp6cTZ5b2RsVDFseHc1ODJZWnRBbTdzbFc0SkpNUG1VZmtXcllLcGFKeUczVkZXaG1tNGp2ems2OHJ2STdhOE5GSzRLaWlkLVV2amxJR3VFeUo5WWFhVEZxV0lFbHp4Y3dtQzB4OXJaVnV5QlljcFh2ZU9RYnJRXy1OYnJ3ZlE?oc=5",
-      "published": "2026-09-16T17:19:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -120,7 +169,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Republicans are bringing out the drag queens & booby traps, but James Talarico is still winning Texas",
-      "summary": "Republicans are bringing out the drag queens & booby traps, but James Talarico is still winning Texas queerty.com",
+      "summary": "Republicans are bringing out the drag queens & booby traps, but James Talarico is still winning Texas Queerty",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnpnNWV2ck9xRHVuQTV2SFNwMnl2aGJJUUJQbEFZRkxtQnBBcmtSOHZRWUpkTXRzT2J3ak5ZczFFTEZoMTEwRWxQNXFhMFc0b1dhejRpVDZVMnp5MWF2aGRzSzI5bkRxdmFpS2lJUDE3QW1fWktKX2U1OUs5djduenRtVFByNHBrWjZQOVY3WUQ3WVZ2TlNWbktyeVY5U1BlTVUxYzJOT3JEOE9oYmI1M0gtSFJLYXN2NERGQnpMUkJESjdWTUNSXzEyVWU?oc=5",
       "published": "2026-09-16T17:00:00+00:00",
       "beats": [
@@ -128,15 +177,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Annie Dillard, Pulitzer Prize-winning novelist, dies at 81",
-      "summary": "Annie Dillard, Pulitzer Prize-winning novelist, dies at 81 NPR",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTDZIZUdLM3NJMzRTRnQzWE5yeDZDNmxrUDVJMnJIRHRLNGl4Y1hySC16aEtRYzBpY0pLeXFteUhJZ1BsQ05UMnB0OGRDdzV3bUZYa25LRk5QN3Z0UXdiWm1Fd0NndlIxN3pBWQ?oc=5",
-      "published": "2026-09-16T15:53:50+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Democrat slams Trump official for blaming everything on Biden in just 11 words",
+      "summary": "Democrat slams Trump official for blaming everything on Biden in just 11 words LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXQyTG5pM0xzQjdiRDRUZl85SG5GRWctMVpKMXpJNU1YbTBfd0U1UWJYcE1yQXlIVmR3RUFfZUV3LVh0X3YtblBqbWxfUlRDWkdMVEZOTVNSeF9CX1hVVUdURFNBQzJpM2VEWkRHOEFPOXd1cldoTUc3Y0U1OWdBQzF1UXhDbkhYY29CX0VWZURfOU5ZN2w3SVpkZGxDNzdCcHpZY3k0dGdkdG1ENjU0OUpPR3dncXpUTHNr?oc=5",
+      "published": "2026-09-16T16:30:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -164,6 +213,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. accuses Russia of plot to kill a prominent dissident in Washington",
+      "summary": "U.S. accuses Russia of plot to kill a prominent dissident in Washington NBC News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTRKaW9sWHBJV0hYaEJZSktyOVpzUWVlRGFqSzhzQl9seGZxOXJXSmYxNXFXWUhDLUJudUFaTjRWVnduY1JCREJCekJTMl9Qa1ptLTNNS2JOY3UxMFgzWnhHd0h5SHotaWFfeXdTTEZmZzRFTlhma3VBMUZWeDktT0pVUXVYam5pejVMcV9ZZk1EaC1mTW5GVzg5QU5xZw?oc=5",
+      "published": "2026-09-16T11:30:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -180,7 +241,7 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Education Department not transparent about RIF cost or effectiveness, former employees say",
-      "summary": "Education Department not transparent about RIF cost or effectiveness, former employees say K-12 Dive",
+      "summary": "Education Department not transparent about RIF cost or effectiveness, former employees say k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXRqcFNEMk9EUnMzblFtbVBMSThhekdKY1p6YUdnSXVyakZFOUozUG90WUF1VVZ2cmV5QnRhUVRndU1POXl2QnpkbndJdS03OGE0SjBZR0ZJQWlreFdxQ05SS3JzWS10VGQ5TXVnYjJZVnZJVzB1VXFGTzNCYjFiUjVBMVRGZ29SR3FucnRDeG9VWlcyN2JoeW5TcFFVejQ1ZUZHekZhMzNJb1BEVGkwag?oc=5",
       "published": "2026-09-16T04:27:49+00:00",
       "beats": [
@@ -192,23 +253,11 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Don Jr’s scandal Russian wedding bombshell has Tr*mp & Melania running for cover",
-      "summary": "Don Jr’s scandal Russian wedding bombshell has Tr*mp & Melania running for cover queerty.com",
+      "summary": "Don Jr’s scandal Russian wedding bombshell has Tr*mp & Melania running for cover Queerty",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHN1OEZ1OHhhWnJnUGdrZUJ4T3FMdGltMlRWaW1qUExHNUFvVDJUR0sxY3MyRUxiMmRaZWFjeVBfb1BOMlpzczRKMmdoeTQ5SUNwbXl2QTBPSlprWTFfU0hSbGdwYjQySzRmeUd2YUd4Wk1VUEJsZ0hNWlNZOGZuVEVheUw4QnhINGs2dDFmRGxhODNSemYzMGpaVlNaajFrcTNaeQ?oc=5",
       "published": "2026-09-16T01:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Pro-Palestinian Remarks Roil Sheeran Tour, Leading Finneas to Drop Out",
-      "summary": "Pro-Palestinian Remarks Roil Sheeran Tour, Leading Finneas to Drop Out The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2hMTXB5eEQwNVBNWUJiUFJfQWRSY3pUbi1ZOFZkb3NxbWh1ZzQ1eHlYU0RvOXE5QXR0WmhldHNScjZYdDJNLTV0TGN6WjN1M1JxZ3N4NDFQZ2VDVmFyWVZJWnllN0JFSDhzZDB4d3hjV0RXNm1BZU01QlFUZlRyNmJieHRpNzg3VnB5YjBfdi1LSmdVakkwMElvaDB3Tk84V2c?oc=5",
-      "published": "2026-09-15T23:03:57+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -221,18 +270,6 @@
       "published": "2026-09-15T21:54:36+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Vance tells Republicans running against Democrats who are ‘not that crazy’ to bring up Abdul El-Sayed, instead",
-      "summary": "Vance tells Republicans running against Democrats who are ‘not that crazy’ to bring up Abdul El-Sayed, instead NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb2hyVlNCcDdMaHFGQXBJa3V3MzJrY3NCbnpOZ3U3OWR0THh1ZHFVc2RkRjV4bHY3MGhleEtDS3FKWUtSTmxJdkNadFBzSUE2UFpDLXRCTXZfbGF6bDVhS0xjaDJUcmtnVHhVWldYTWlHQ2x2dUstYkY4RmRSYmt3NDhvN3Rjc2FpWUh1Z0xaV2YtTHBN?oc=5",
-      "published": "2026-09-15T21:18:59+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -288,7 +325,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Baku Taru undresses, Michael Delbrey shines as Green Lantern, Yaoyaoyao2018 serenades Digimon-style",
-      "summary": "Baku Taru undresses, Michael Delbrey shines as Green Lantern, Yaoyaoyao2018 serenades Digimon-style queerty.com",
+      "summary": "Baku Taru undresses, Michael Delbrey shines as Green Lantern, Yaoyaoyao2018 serenades Digimon-style Queerty",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS1NXMHVkelBWWDYwLUtTV3lmdXFsQ2t6YXRxZ1B5Vk5lUDhRQUJrR0RFQW5JVmF3ZXBCbjl0RjFUVmpaUnFLSmctS0Uxdm5UbGx6dDhVVDJkMUpzNGRwZkt2VzJadFZUYTVISmo1Nk9ObG1ndGpyUlNsYWNxN0IwVFliVTdZdC1uMDVLV3ZyZWItYm9MSmdoRTk4enlnWlZ2b1ViWG1PSHA3Z0FJVGJ4a2xrRHk3TVAyUWNKdEdhdGNDUUtkN2o4N2lzQQ?oc=5",
       "published": "2026-09-15T19:00:00+00:00",
       "beats": [
@@ -340,44 +377,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUh6QThLRENwUFk3OXlGaXBCMTlGMlQ1VjVwVU05NTZ3WjBscDd5eTdFTjQtbkVkRUxvVmEwNWZVQXdwbERjY2IxcjRQX2ZtMFlkLVZXVnZJSjJmeVVBNDFrU3FtcjFoWjBtbUJwZ2s3TXVaMXNia3hMbVBZUDhYU2xiYzNNZlFCSkhyWWxoYkVLdXBTRnlDNzBHQzg?oc=5",
       "published": "2026-09-15T17:08:27+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Mitch McConnell finally returned to Senate — to cast the deciding vote for an anti-trans judge",
-      "summary": "Mitch McConnell finally returned to Senate — to cast the deciding vote for an anti-trans judge Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU1RZaVp0SnloTGxVWkJfdjBtSlppemxuaGRBcUVrX1ZLaW81dEw3clBPMWxpMnh1cEs2bmR1elBWYldrcmpQVmVaaW5uSkVQbTRadDhrVlJkRkxnOUQwQXZEeWVGdGNTSkRhMGJhMFBYLU14cEVVbWJlMklubnlwZFJR?oc=5",
-      "published": "2026-09-15T14:48:10+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "At Long Last, Reading Scores for Younger Students May Be Rising",
-      "summary": "At Long Last, Reading Scores for Younger Students May Be Rising Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREpoNWhTZjNBSDN5anhDX0VjWlM0cXNoeHJkajU5ZkNodlhBNlRLQ0gwTnJtXzduRjEtNG1ZOC16bERvY0lVM3VHeHh3dWJCZUp3eXNlaFlzbUdIUDVJUUhwb2M0cndwbHVSTFU4M3R3QXNCal9PZ1N2NGplVmQ2aEh5UE5DZm5ySmhDQTVVYXA5cVpMRmxPYU5PMnZEVTN3ejIwMWV4UQ?oc=5",
-      "published": "2026-09-15T13:36:01+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Democratic governor \"burst into tears\" as she shut down GOP attack on trans rights",
-      "summary": "Democratic governor \"burst into tears\" as she shut down GOP attack on trans rights LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVBPMzdxbXV5MTJmUlRXMXNRNW41M05oREMtN2Q2Q0pGeVNPdUJZUzRUM1JZVjV3TTd5VmZTeUtKYnRjVmJZY0RvazdTaFA3WldmMjVtdTVHLTdhY2lJanJuMGdUNDRydkdTSmZwZ1dMMEJBbXJWbjFmSXlWcDh5Q2dwamRRQkQ1UHBUZVNSZkYxLXZudlp1N0xKMzFZTDZxQ3l1Yk5QdUZ5WmRFUndZ?oc=5",
-      "published": "2026-09-15T13:25:19+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     }
