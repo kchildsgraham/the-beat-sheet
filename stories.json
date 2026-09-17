@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:24:08.563216+00:00",
+  "updated_at": "2026-09-17T18:26:53.063384+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,90 @@
   "errors": [],
   "stories": [
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "K-8 reading scores see ‘sizable’ post-COVID gains in latest NWEA data",
+      "summary": "K-8 reading scores see ‘sizable’ post-COVID gains in latest NWEA data K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjdWWVdjTGV3eFFvTXVBakE5YUxyTHkyN2JvdWowUTY1VmF2SUVUWXhUUUFnTDRtdWhvWF9wNE1uYW91ZE80ZnJIWnNqNlZzWlZnTUp0OGJOeXRPVGVLeUJYSVpNQlRmcDIzOXM2cHhUOVctTEg0a0VhQjdpbzU5c0pQajVVams1cG9BNmZVRVFyWkEzbURQT1NyWkxOd2xSdF9tX2U3Zw?oc=5",
+      "published": "2026-09-17T18:00:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Stocks stage a comeback after Fed-induced declines — plus, what's ailing Boeing",
+      "summary": "Stocks stage a comeback after Fed-induced declines — plus, what's ailing Boeing CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW5TRHdSU2tFRTNWcDQxVFIzcHhPX1hkSHE0eGw3OFFLd001T1VKWDhXRlBoRG9kc1VjckpuLW9WblQzMkN0d3lOUElNQWhoSnhlVy0wWlE5ZzNfb25TWm9RRDNyczR3ZzhQcktVSWVDcEJRb25fdE44NVJTcTNCMUNfLWxDSkhockN3NzNIcEE1cW9NQWdPTTZzakdQWEJ6VE1tVldOMWNaenlTRzg3Q1lR?oc=5",
+      "published": "2026-09-17T16:37:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
+      "summary": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UbEplOGYxLVE1bnQ5ZER0bzdhanpNQ3dDLVREaUIzUXJTWEo1VmhINzY1Z25ZVl9BNU9MV2NHdW9lY0xtUmZna0VMT0p1Wm5Qd0pKMDZTd3IyM2hpZnczczM4dTJ3UjF2RmIzONIBckFVX3lxTE9WWHJQNk5Ua2FHSzZGcUV1M2l0amdoQWNCQl8xcElqRkhYTUhJUU9keU05dVlpblVqV1ZLMG1tVk5xUXUtZ3AyRWlRQWgtUkE4OC1PX2xMZlRKVDZlOVVTOXlfZzRzM3BmX2NOMGtvNzZzUQ?oc=5",
+      "published": "2026-09-17T15:29:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+      "summary": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vRXMwbEJHYVFhYnhSNlFHVmJrdTB5b1NpY3VRTzFBaTd5LW42OXZIcTBYaVlJZVZEMDZZNlJsOUtncGhkUGlRb25OWjlvd1RLN0p5UFF4VzJxRlZ1cHNuaGE0Y2tPV0IyZElJMGRDc0k3NUtmME9zSFlKSExud9IBgwFBVV95cUxPNm9CV2hkUkQzbFJvZnRUSU1oTFItT0VDUnZ0bWxjeG1TUEhzSHgwMFd5ZlRZNUxjVTNMWXZGRUNhQUNXWW5XdWtrdjB3NUktbTdCNGZEbHZTU1RmYXdGa3dyamlfNVhkbW5DMnozSEw4S1VIcGNoYTFMcmlCMU05dUtybw?oc=5",
+      "published": "2026-09-17T14:22:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "President Trump's Approval Nightmare",
+      "summary": "President Trump's Approval Nightmare CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXlhQmpLbVFIMVZqNUs1M25vRjdmZmNwSjVQMEx4WTBsSVlES2FueHByS2RhRVFsTEZWU3NmbHY0cGRvemN4aUVZNlN1VjVQNmxERUd6VmszNldCZG5vRTA1ZzVGbWp2RVpoa2ZFOEZXb1ByMVNZNUF6OVAzX2dENkJxcEJLMDRyUWhHUThDT2JUck10bktz?oc=5",
+      "published": "2026-09-17T13:47:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump asked why adding his name to Kennedy Center is important",
+      "summary": "Trump asked why adding his name to Kennedy Center is important CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSWZXdVg4T3FDdlFLZDJCVHg0bV80N01FMVlqb3BtY3BIWkFWM1hkcm1HUDlGWFB4bWFVMVU3SG5NdlQtWDFBc3k2NFJ1WF90M2VHYWRlN0Y5Z2dVMjN3aEQ0Q1llYzFXbE9QOG9TMUFDczM0dlFRYUpzQUV0X05VUWplUmRkTkRvY05v?oc=5",
+      "published": "2026-09-17T13:43:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "1,700-year-old fragment of \"Odyssey\" discovered between pages of a library book",
+      "summary": "1,700-year-old fragment of \"Odyssey\" discovered between pages of a library book CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkNWR3dLM0Z1WlgyQTJzR05zbzRaR19Va0FXRGR1Q0N5SzBRWTVNRDhyU0tZTVcyT0JLbF9GRE4xdl9sQVZOX0tUNE9JRDBKNXhPc0lsN0hDNHlqVXlUNjV6djI2cER4dlRZZmZNUkJ2MUxPVnYxVjFOV1lDSFd4NDBZMGtYU2s?oc=5",
+      "published": "2026-09-17T13:22:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -32,15 +116,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
-      "summary": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzU1TFNvdUw0SDJRRVNFZE8wYkIzRlFBTzBrTHlub3k3NlMyZUdrWnpGTDFOQmlqQ3BTOWQ0bVdqcnF5NTFWQkQ1U0Y3V29JUFpDUzI5bmI2b0x0SzFnN0lTOW9MdG8zc2JVaW8xeS15ZjBtanFaUmc3dExXejdvZ0d4SDBsdEdVVGR3NHFVT0Y5blFaTXFxUlR6Vl9FR25Ta2RsYtIBqgFBVV95cUxQT2JLLTk0ZGptTTlfcGRMempZMG80TktEMTVDTVc5M0FyVFZaZ1B2RmozdWhxWHdlSkJzSVdzZ3EtRlRaRlJuVXB0cUFYUng2UXBXbjBESk5nNzMyQ0xhYVh3LXJKajdyVi1oU3RfVE5vRklkb3NFbnNJUTBoMGhmaW9qVDRYOHR0VG9HMDNaNnMwcWxsQWh1NlpxQk9rcUhFX01vNU9DVVJkUQ?oc=5",
-      "published": "2026-09-17T13:00:28+00:00",
+      "title": "Russia is escalating its attacks on Europe. The risk of a misstep is growing every day",
+      "summary": "Russia is escalating its attacks on Europe. The risk of a misstep is growing every day CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWFwUFo5RGkybEp5UWZZVzJ0NEpkRmFhYjJpY2xDU1RwV2UweDR1LVpjTG4tekZzOTdBZ2M1Sjh2bEtPUFJONWM4ZklzQmJMeTNCenF5emhnaHdOS0V4VUhiMGFsUmoteE1wbDBIaWNZTlBzSEc5ZURlVTJKRW1faDdsckRuNjhJ?oc=5",
+      "published": "2026-09-17T12:59:26+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -56,37 +140,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
-      "summary": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVBQLXlUR2FOTGFFTG9YQm5HVkZtaFB0cDA4Z25CVzlOdFVFYk15VThfaDhsMFJUOUl1ekpuaTdIdXk1QjVqd1FYVFVCeWw0WXo1a2FEeGw4X29zMmFuMlhGdmZ1LVhXNS04YVl1RW41bUlMSGoxTFhoSTkzbWw2QTFjVF9wTmQ3dVM3MVBYRkFzb2ZsLXRFZ3JBNVBQMVZVSzNSYtIBqgFBVV95cUxNZS1kaEZwbC1GajVObno5S1lXSjVQNGxRM1cyX2I5V0h2YjNCdjUwOEdFOE04MW85b0h5dVhMZGpMVFp4WE4yeUdPazNxMklZS1I5VWJIU05iZ1g0RmQ2bnVtX1dVekxnR2dHMnBiSjVVM2kwZ0pfM1pocEtGOFRYcVdzN0VqYmdDNF9GTTlsYUt3Yzl4ZzNOWjNpa2R3ZE9RSXVaUS1OUk94UQ?oc=5",
-      "published": "2026-09-17T11:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Canada-EU alliance isn’t meant to be a US rival with ‘better manners,’ Carney says",
-      "summary": "Canada-EU alliance isn’t meant to be a US rival with ‘better manners,’ Carney says CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEQ1A1WjhYaDM0aHI1U0I0Yl9JZzhXNXVIOHFVYVg2RzFvNmljYWVnSXRlemc1em9MT0MzY2FZVHdsZ1ZPQ3VqQmNmdVhmQmktZk1WV1FJVE40SUFBSGVtY2pFdVF1UEwwQ3ZZMmFZLTN5TTJ0?oc=5",
-      "published": "2026-09-17T10:30:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-      "summary": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1RaNWs5dGhMZmZmbDJ3ai0wY1NzQUwtSUhJQk91TlYtbktSVEl1RUFKUGZmWXcycGtQUl9pYktRV2tidWdGYVlldjZBNXZwRk9Uc2xONjN6UWV1alVLdjZqeDcya3Q5eDNLMTZnODRaOUpxWVZXNE10eWVtajRuRU9B0gGHAUFVX3lxTE52SGtIc244UEtRQVpzYi1WdnJKenVYaDNsdmdCa0NsdThBbjFiRUlVblFNSWNqanlmQUlEQ0N5ZXkwSXNVY29xbzVENVRNMWJxMDBZOGpzQmZqS1lrZWtnTF80ZU9zUGllN0dPd2dxNEJWbHlPeWFvRnNjVlFXc0pMWmdWOURxVQ?oc=5",
-      "published": "2026-09-17T10:15:56+00:00",
+      "title": "Opinion | This Is Why So Many Voters Hate Both Parties",
+      "summary": "Opinion | This Is Why So Many Voters Hate Both Parties The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1plU2Jpeng1SVJJN3pmWnctbnAwU3dsbWNrSjBoT0NfTVNKQ2s4clRfc3ZoZlZ3bEYxcW0xSnphTURFcEM4ajNUWmlVRVNRU2ZtRW9PQWNrZ3FWNm1MdzNYZHlIZDNqamIzZUd2RWdrX3VoYXFkYUh4WExMQ0V3LVctYnR2NkVjZmdZclBPZDdfVE50dmVtak1reTNYRjZjZnc?oc=5",
+      "published": "2026-09-17T09:05:03+00:00",
       "beats": [
         "Politics"
       ]
@@ -95,58 +155,34 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Pressure on global chokepoints drives Asia’s increased use of Arctic Trade Routes",
-      "summary": "Pressure on global chokepoints drives Asia’s increased use of Arctic Trade Routes NPR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVFnd2FEeHZPSk4wNlQ1YWxZRUk5cUZUd3dkb2VWMEpvRWZ2TThLa1oyS2ttT09wREZ6V2JFT3c1bHl2cGFiVlJoekgtTWpwSWMwdFFOcHljQWdfZV9Td04yUkRMZHhBQjB1dG9Ua0N2Q2VvM180NWUzRE9HWDdFdWVGSzB0M1d2UllTMG9FWTRkN19URGhMbThsdVAxUTFvcXU4Tnlmeng5WWczdUEwMlJyRm51U1dCLTRlZVdGVkU?oc=5",
-      "published": "2026-09-17T10:00:00+00:00",
+      "title": "Why reshaping memories may hold the key to raising self-esteem",
+      "summary": "Why reshaping memories may hold the key to raising self-esteem NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZbmlnZW5JcWxOWGNxMXlkbWlrVTZOSmU4TEpUYnZXUWE0cGdLOUdySmRaTDFFbGlJLWgtTDJIeXhyM21fT1RocGpJcjBOVFlXMm1oVVI1elpBYjYtOWpkeFJnS0VLS2xpZ1JHZ3VqUmtINDVEdGp6cmdqOHp5UQ?oc=5",
+      "published": "2026-09-17T09:02:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk",
-      "summary": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXJPZ0J3TnRqR3ZaWW4xM2Yxdks3WHJ4SGVzVFZqN3Jud2NjZHF0eEFjaUlKdlpBVkoydWhrQ1FQUW1raFg2ZlIzUnU1SmlkSUp0Vjl1SWc0SlR6aTRtX0kwVG9oVjl2ZEo1TVhvd1NQN203U0toNXhpVUg2Ui04RlRsRUNGRkNFeUpnZmJ6WQ?oc=5",
-      "published": "2026-09-17T09:01:00+00:00",
+      "title": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric",
+      "summary": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWG1XTjRqV0FrR2NfbmRmVWxFeW5Ja25OdmpJaXhQUVpvYmpxRllBVUU0ZjNIUW10cHZaVjExRFVWc1VJdmJyU2REekE2NUdobEhVdzFKQndKZUJGakZfNHI5c2JuR1RXMlpwbC1OUUpnY2gzRlcybnRpaHBwZWVhNzR1cjFKOTNMVWFObUZ3anBDVlk?oc=5",
+      "published": "2026-09-17T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Kamala Harris is sticking to her own timeline on a 2028 decision",
-      "summary": "Kamala Harris is sticking to her own timeline on a 2028 decision CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVUzT01Pd1FZbFBFN25IcnpEOGxzaWlJX2pwQ1l0UmN3aDVMTE5Hb3FPeGNCdXZqQjdyMm5hX2x1eHBiMGt5eE8tRW41NVVCeWowcFlFbEY4aS1ackNseDF2WDk5dkNiOWY0MWpKc0RSSWdIZTF5eU9ScDg4aEZqOGxpS3pZMVRtbmRfdXlydzhJSWZV?oc=5",
-      "published": "2026-09-17T09:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Houthis release video claiming to show downed Saudi F-15 fighter as Iran-backed rebels press their lightning advance",
-      "summary": "Houthis release video claiming to show downed Saudi F-15 fighter as Iran-backed rebels press their lightning advance CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzlqeTZUN0Vtd1g3cjZKczlGcHc2QVJPak9lWVBvdGNrZjM4TWNZNzN3ZjREWjFtWDlMVnRmcTkxMjR0eXlIb0tfRF9iNjFYVElPX1ZSXzhOVkQ5bjh6VjdCM2JJTFlTM0lyZ1FpQ0gwc1lCTERxMXFaS3VVWHRLVWhiRUNCYlk?oc=5",
-      "published": "2026-09-17T05:38:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "The Rosie Renaissance isn’t over yet as funny lady lands another major gig",
-      "summary": "The Rosie Renaissance isn’t over yet as funny lady lands another major gig Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVhBOG5HeE5xVFg3N0REWVZvM1k2eVZFcUx1MFZUU1hpUUZ2N0xUaW52NWRDVlY5TVR2STNjNHl5M3lMeEVxQzhEVXlpY2tqYnEtbEhNQXItcDlNaTlua0Y4R0Y0Y3c3dWdKRnQxQXpseTZwaHRzZUhNYzY2ZG5oNnA3amgwYnlHek5WWHc5bnNwT3lkcm5QOE9LcjQ4Tm51bThwMjN5YjJFZ3c?oc=5",
-      "published": "2026-09-17T02:00:00+00:00",
+      "title": "JD Vance conjures the devil in false attack on LGBTQ+ charity during Kansas speech",
+      "summary": "JD Vance conjures the devil in false attack on LGBTQ+ charity during Kansas speech advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03dVFBYjdEVm5mdUM5TElSVV9Nc1REUm0tN0RqcE5tQnpQUUxGeUR2TjZWUXBMSXRVOE1YWWhNdThSUTFWa2d2VmJxa0RkSkE3Z05EX1pFUEU2RWVyNUZKWUljaUpaZHVxLTNQUmZ6UkFMbFhINmpzNWU4cw?oc=5",
+      "published": "2026-09-17T01:34:36+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -159,6 +195,18 @@
       "summary": "3 dead after news helicopter crashes while covering deadly Los Angeles bus collision NBC News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
       "published": "2026-09-17T00:33:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "summary": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
+      "published": "2026-09-17T00:12:24+00:00",
       "beats": [
         "Politics"
       ]
@@ -193,23 +241,11 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Banning AI Alone Won’t Snuff Out the ‘TechLash,’ Parent Advocates Say",
-      "summary": "Banning AI Alone Won’t Snuff Out the ‘TechLash,’ Parent Advocates Say Education Week",
+      "summary": "Banning AI Alone Won’t Snuff Out the ‘TechLash,’ Parent Advocates Say edweek.org",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3phZHJLaS11WnpaTHFvWnBLUWw0UXBBU2FCN2I1R3JoZ0tZWmNuS3FLSzJTcF80YkN2MzZ5ZWRKbjFFSXI0THF1b043LVNHaTRZRmI2c3pGVGh0a0s5eHRXM3VZZldnTWU2QlpfOVl6MFdmb3BVa3BxU2o2RWMwM1FadGptMmtOSzRwVzVkZktVTFlNZ29YRWNYQ2RtdUF6b0I0R2hHcnp3eWc?oc=5",
       "published": "2026-09-16T21:56:22+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Virginia Democratic Gov. Abigail Spanberger stops previous Republican-led anti-trans policies",
-      "summary": "Virginia Democratic Gov. Abigail Spanberger stops previous Republican-led anti-trans policies Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTk5bU8zX2FueXJkYXVaSXl2NGFfN1hZT0dHb2xneVlzQ19IUkFPb0tNaldseG1xWm05S3Bub2wtdTBpNklYVjUyaV9ZaWIxZ2VoWWRPR3pvVWpFME9zVy1ZZ0ttMm1YRjJXaHNWYk9NNzZycUx4Y2RXMjZsaTB5cTNxczZnWmRPUUc0T3oxY0I?oc=5",
-      "published": "2026-09-16T19:49:55+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -223,18 +259,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "House votes to hold Epstein associate Leon Black in contempt of Congress",
-      "summary": "House votes to hold Epstein associate Leon Black in contempt of Congress NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT3ktRG5ZUGdnMnRxRnJuQXZHckZESHhfVVNiR3RycVlxYXM0S0FDemh6ZHFqRXJQTHNtWmhvay12bEgzWVoxbFc5Zklsa3RrWjlqMjZXWFNTMExDeHcwWlc4VGtKYUNZZEVUdDlvS2pCQk5mY0IwWGV3Rm1lamFpYTJsdmJtZ09jWGNOTkxDMVE0N1VpSnpSSGhIMWpJa1NUQjVQMnAxVmNGWGxIVWFaNnNn?oc=5",
-      "published": "2026-09-16T19:21:26+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -262,18 +286,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | The University of California Dumped the SAT. Let’s Not Bring It Back.",
-      "summary": "Opinion | The University of California Dumped the SAT. Let’s Not Bring It Back. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUgtQzA4OF9LRnN5MkQ5YzJxMkFyT0hDbGpZQW1JSXBvRFJmcjNTRU1BMHB2OFRFem1nZE0wdDlhSjN3UEw5S2cySE14NTM1eVlJc25wT3NHNTlYWDdXQXdVNkYxUVBFZC1Cd0ZrTk9tbWNfbnRyVkp2c0hWaVdSR2pR?oc=5",
-      "published": "2026-09-16T15:00:04+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -286,27 +298,27 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
-      "summary": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWJGUnlxU0V3aHVWX2ROYTM2eUE5QlRzN3RGNjNmbmlIUkQtM2tLbEtQYWFQbnB2RlBlRHRJaVZnb1RUMVNObEtSeXItUDNISmRRcHQyNFMyYWxlM0EzaUhJWHhUU0VvcTVwYVA1ZUdLakxUeFRBTUlXYTU3VmNLVXVnRUd0dw?oc=5",
-      "published": "2026-09-16T09:04:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Education Department not transparent about RIF cost or effectiveness, former employees say",
-      "summary": "Education Department not transparent about RIF cost or effectiveness, former employees say k12dive.com",
+      "summary": "Education Department not transparent about RIF cost or effectiveness, former employees say K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXRqcFNEMk9EUnMzblFtbVBMSThhekdKY1p6YUdnSXVyakZFOUozUG90WUF1VVZ2cmV5QnRhUVRndU1POXl2QnpkbndJdS03OGE0SjBZR0ZJQWlreFdxQ05SS3JzWS10VGQ5TXVnYjJZVnZJVzB1VXFGTzNCYjFiUjVBMVRGZ29SR3FucnRDeG9VWlcyN2JoeW5TcFFVejQ1ZUZHekZhMzNJb1BEVGkwag?oc=5",
       "published": "2026-09-16T04:27:49+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "GOP attacks on Democrat Chris Gallant’s X-rated past backfire in the wildest possible way",
+      "summary": "GOP attacks on Democrat Chris Gallant’s X-rated past backfire in the wildest possible way Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDJVNFpLQmpPWE1zcl9pQnBpRi1PSnF6NTdDVVZtOF9nN1BqU3ljVFdlcFgwZ1l3bThNRzFaUkhnTnBDcHNWc1hSNUxVajd3REhvdzRwclNLU005N2I2X1FaZHhUbmE0ZnBQMlpkMlhjUVFTMHhZb1FEdmd0SnRYNUN6YlJuQWM0V0s5aG0talVjUjBGV3N3WGlJRUJDZDAtb1JJbHRLcEFVVE9ZS2U5eVJiLUpaTDBWWlV6N2tZaw?oc=5",
+      "published": "2026-09-15T22:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -326,7 +338,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Equalpride board member steps down following report of MAGA support",
-      "summary": "Equalpride board member steps down following report of MAGA support Advocate.com",
+      "summary": "Equalpride board member steps down following report of MAGA support advocate.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44X3poQzc0ajN6Q1lLVjcta3JnV3d3N3dtS3BleGZSX01RVzJ4Ymx6YWJ0YlVYWmlwcnVuRER4WlN0RmZyQ0hPY3hGZDNmc2xVam1HU09GLXdpRTQtWDJfdW9PX2ZBbFBqbEVxZTcyYndMSWs?oc=5",
       "published": "2026-09-15T19:17:49+00:00",
       "beats": [
@@ -355,18 +367,6 @@
       "published": "2026-09-15T18:55:46+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money.",
-      "summary": "Fed expected to hike interest rates for first time since 2023. See what it means for your money. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
-      "published": "2026-09-15T18:15:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
