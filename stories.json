@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T20:33:59.850871+00:00",
+  "updated_at": "2026-09-18T23:05:31.983695+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,26 +20,85 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Trump says he’s ‘banning’ CNN, MS NOW and Politico from the White House | CNN Business",
-      "summary": "Trump says he’s ‘banning’ CNN, MS NOW and Politico from the White House | CNN Business CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFYtOFZpNXR6ZHNJMkdwMGJKdmJMbGgzNDFQcmxNQXJDQ1JJLUZ4QTlBUnkwdGJGMlVXQTFVOS02NW16Z0NGVlp1bUh1aUdqc3VVcmNFTVhBUUQzTUJYc2hSMUZIaEVSZDF2bXRlVWVQblVWZHpMcUQ0SUxjdmdfelNFVUVOQ3F0QkhKbw?oc=5",
-      "published": "2026-09-18T19:43:11+00:00",
+      "title": "New Species of Cat Discovered for First Time in a Century",
+      "summary": "New Species of Cat Discovered for First Time in a Century The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUk4Q19sV3pPOHp6RDVlYWF2UG4ydG9RY3RRRU5wZkVoZWxaSEFQXzdvOEg1US1yMnhwSk9Vck9aRzFLS3Q4ZlcwRk95M0VRVGotTVlneFlBWm1MX0RiM192ODNUMFUzQm5ZaGlXdkFoZHZJYWQ0eVVLVHJCcEVZdlNQTmpNUQ?oc=5",
+      "published": "2026-09-18T21:40:19+00:00",
       "beats": [
-        "Politics",
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
-      "summary": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmUzTnBva09hcHZZRFdhX1FvQVUzemZ4U1h2RkVLZ0xTQVhULUQtSnBYMDZoV0twdm4zcXoyci1tWW1ZQ3FPQWgtSzUyN2g2MENxenVZSXlDV2dvb0dfbUhMRmVOaEJMZGZkM3R1cVZOTDVKbzRvb05vTlgyVnZYa1dONFB1QkFxM29qWjBWbC1NS1dSZjdkb1hSa3cyMkdKWF9FSdIBqgFBVV95cUxNSUJyTEhLMDVGVXF1dVdXSkVaejMzUlZyak83Z2tiZjhhZVdBQ1d3Q1R0RlhIUkFXQkFCYzZfVC1pQ0x1d25oRE5HblpwVnloek05UHRqTm1CUXNBWVNDcEZEcW42VFZNOGx1cWVfR2VadWgwVTZmV2QxYzdWTWJZRmNJYm5Ea1l1QXF2akE4Y2xFcVNQaVR0b0JjSWkzbXhXYWVTSDFiZmtqUQ?oc=5",
-      "published": "2026-09-18T19:15:24+00:00",
+      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+      "summary": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWkV2ZXpCYTRKckxtdDVHcmxHODc0YlR4LWpkTGFybExNM2VpMl9tZERvN3FydW1SdDlvRDlLa081MFZhYTFEUWRBZGhsT19JM05TWVotUkt4NkVtYnA3RWZQX19yME5jUi1fczlDc3ZfYjRCN3JSS3ZaSTBaSGvSAYQBQVVfeXFMT1BmZEQwQmIwUC1WQ29tWDVuVGprTlI3MzVxdU1sLW1vYWtGUWppWU9lcDVLRmp5WFFqUUg2dGNHSkxqb1ZNNl9oSWlNTVhRNTFaWW01UENhU000dVlSRVlBdUFhS0dPeTN2ZkRzVjNuU0tkbm5ubEhVdkx0MjdKLURab1A1?oc=5",
+      "published": "2026-09-18T21:34:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+      "summary": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMldnaER6UDBnQk16Y1ViUC1FbndnREdmZmZMZG9QeTlBTnJPN0QwMncyTUxSOTc5SVNQR21tZ3p1ZzVJYnl3N1Y3bVA5SElMVUdOLVdBdnRYRVZvVFVJUnF5SnhJZnpvSW9Vcm1EWmhqSXhH?oc=5",
+      "published": "2026-09-18T21:31:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "summary": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90aFlmN1RXZnFfRVpYNTVscUVkdzh0cFFLMlRMQVNZYzQ2dkRuSUlnRDhlUUZyOW5BMlhmY2FxcUhaMTFHQ19DWkpqT2RNX1k0bU5jak50RXF3dFVQcURIUS1HQ3l4QjhaMmJ4cUF1emFfeUtwYnpZUHRCQQ?oc=5",
+      "published": "2026-09-18T21:13:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "summary": "Trump says he is banning CNN, MS NOW and Politico from the White House NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0oxanJFRU5zU1prQ1dtME9qQW0yaFdJWGxZS2pjTmZGT3NIS1NGNWZKWXd2ZmpYNms3b3ZGcXF1MUNva0lvUGdPc3d6SGNiNC00UXhMWmJ1RWc2Z0RQUEFDb2hBSklNdl9CY0JwNkdYaVA4ZTF5Y243RVBsd0xtZ3kxM254WUZzUEd0dmtaNXJqdFU?oc=5",
+      "published": "2026-09-18T20:15:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "AI cloud provider Nscale files to go public",
+      "summary": "AI cloud provider Nscale files to go public CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nY0dXZ2p3ZnlfZEtOQTZzRE15ZXhBdXgyTU5GZDdpeW5zWUdOVlVTM280MGRRXzR3bjEzWjg5eWl0Y0VQYlZlOWVYazR0TGhFY2EtM3doNTVpd2ZIbTh5eXdWLXBDc20wMkZNazdZVW5JZ21NSEF1UEV30gF_QVVfeXFMTjMwdXdHbUIyV1J3S2RfRUVRbDJQbFVVWXIzZlFodWRRNDdhaWlXa2J2ZUFidGtvV3kxZFNvXzZZc3pIMV9hLWc1VTF6clBoTHFBb05jWnJPYUFsOXVQREtGOUtFUGdWY2NRZXE4UlZDenQ4cm15UUlIYWd5dzhBYw?oc=5",
+      "published": "2026-09-18T20:02:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump says he’s ‘banning’ CNN, MS NOW and Politico from the White House",
+      "summary": "Trump says he’s ‘banning’ CNN, MS NOW and Politico from the White House CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFYtOFZpNXR6ZHNJMkdwMGJKdmJMbGgzNDFQcmxNQXJDQ1JJLUZ4QTlBUnkwdGJGMlVXQTFVOS02NW16Z0NGVlp1bUh1aUdqc3VVcmNFTVhBUUQzTUJYc2hSMUZIaEVSZDF2bXRlVWVQblVWZHpMcUQ0SUxjdmdfelNFVUVOQ3F0QkhKbw?oc=5",
+      "published": "2026-09-18T19:40:44+00:00",
       "beats": [
         "Politics"
       ]
@@ -57,18 +116,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
-      "summary": "Trump says he's banning MS NOW, CNN and Politico from White House CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFVCQ1YtV2R6ZlVja1l6d1VXdURUY3pHVlBZYnFjWmVSVjJyeWRMZHNDd2h1anU5NkEybGdTcXlaNEZILU5rWHBSV0Z4MnM3QkwyS3dXeFFLdzFoWlNMdWUyQ2tacUMtS3pvU0JNQWZ3Y0FvYUdnWmV3SjdROHY5VWxCZ9IBiAFBVV95cUxQSHB1a29KOVM2UjlXem83YkxtdHRwd0VjSURBcFhzN2QzVzloMVJ3UFlBdEttb1hHYkpWcldzOHk5dy1SUVpPR0hUbHZnbFQwZ29NTjhleUw3SjRKQmZOYVVnaEZqSFg3RGQzeUoyeTZVLWZLeV85VEFGM3BxSVlDaEpDMmctRnlf?oc=5",
-      "published": "2026-09-18T19:09:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -76,42 +123,6 @@
       "summary": "Iran war has cost $45.1 billion, Pentagon tells Congress CNN",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZaUhUR085MmNxOEZoRU95SGhGd2JPbE1QZTFLbXlGUTd3eFhaWFBjVmdpR1BCV3JVV3Q5blNMSm53bHdKRVdBcHhDamZ4Nzc0SlNGSThSekI3aWhDTVg0TFV0eDNCN0U?oc=5",
       "published": "2026-09-18T19:06:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "New fire breaks out at Moss Landing battery plant in California; shelter-in-place order issued",
-      "summary": "New fire breaks out at Moss Landing battery plant in California; shelter-in-place order issued CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3JLU1Q1WWVQZHFvdjVVbFJUVnNqWkpBRDhQb0Mtc0FmMWU1RDFNaTlhVDZxcTJmSTJoUGRDcTZ0d3hkZmE4UVE1QnROMnVUaUpHQ19vR1didkF0WkF5YzJsTTVDckhZdXR6WWlkYXBidUVuQUhMNE5wYTVtTHEwc3lvS1BuLTFMcFpKZWFMeVpKb3J6VkdnVWI0emNPNDc1aDJveTRtMVdUWGM?oc=5",
-      "published": "2026-09-18T17:57:51+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
-      "summary": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzdjM2JZeko0ZnllcFFLLW40ZEVYUkdVQ1ZBSGdsY0hQYTA2N0k5N05DWDZWcXZTUUR2azNTR0FVdU5Ic3NGSlRxOFVVa1NZMTRtQ01pUVlxMHZmUjBwRHV3LXBZQXhOeURENzVTMFBUVzlYUlJFR0hCZ2EyYUVmeWRJU2RWYnlwd2x0eUc4VkIwT0Q2ak44LW9sekxWVjN4RnZFc3FJb2lWQdIBrwFBVV95cUxNM0p3aFN0SkNZN01VSWd5aG4yLUluUFhOb095VFJBVHkxa0dScWktVW1iQS1vRTk0YkFYRFZOV216UVFBV1puMUQxYkhReDNZU0dtTGlpWWswZlAxUkFORkNkczlsUWd4S0lqb1oxNUc4bUVYRVVoczNzQ0wybm9hbEpzQTdVbGI4X1M5NFRjMGZHZWU5akdXVl9NbTh6Mk96Ymp2Rk9FRTc4c1pzMWFV?oc=5",
-      "published": "2026-09-18T17:41:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-      "summary": "Warren Buffett Steps Down as Berkshire Hathaway Chairman The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnRfUlNTb0pmUzhlM2Z1d1o3X2tWQUtZVVNRLUxJOW5ocmlzc0k4X0FfWkxMcVFMT3lWdnV3UklYeTViNXkwQnZQVUhvbnd1ZTlEVzl6QzA2Q1NFNnVyTVphNGcxX2FLb1pWNHktRGdCQUJjUDZhQk91NVVpNEloQkhJOFU4ajZEWnc?oc=5",
-      "published": "2026-09-18T17:02:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -129,62 +140,38 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Oregon man accused of killing five Portland-area women faces new charge in sixth death",
-      "summary": "Oregon man accused of killing five Portland-area women faces new charge in sixth death NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTREZzdXc1NNVW9pWWthMmM5Y2lFUm82S1FiT0kwZURrS09qS0U0ZjIxV0xJSG5NX3VxdG5LLXZqZkVzb1BWd3RiVGtJYzZNWS02eXhFVUJtMjNKdDBLTGN0RkdqYzRDbUxrcU8xX1BVTHYxUV9zQkhBeXF6dWdGMk1pNUNuQk5fYVJCVWNLTDJCT2lOVC0tRG5PTW56cXdBbW5pOGM3b0R6U1JCN19nTU9hcTA5VXNF?oc=5",
-      "published": "2026-09-18T16:41:23+00:00",
+      "title": "Twins conjoined at the head are separated in 25-hour surgery at St. Louis hospital",
+      "summary": "Twins conjoined at the head are separated in 25-hour surgery at St. Louis hospital CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ManIxd2ZkX245bUJyVFJpbzREazFGU3ZrcTExTjYyUDMyNVlzeUFxYnlGZVAzdGVlX2hqZjBrckN6eDFVX2xnU3EwZlEyVWlaWUs4ZWtLTDRRUHRFRXlDbEdxa0pWclhZX3hmd3NnanlEZWVxSmd2dHRKSHE?oc=5",
+      "published": "2026-09-18T16:32:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "House passes bill to shield consumers from data center price hikes on energy",
-      "summary": "House passes bill to shield consumers from data center price hikes on energy NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNm55NWc5clprS0E1SVQzX2xBNjlxd014QlRBN1ViSkY0Q3dNZmZVYVRfQlJFNnNSY2NYQnR0Y3lvb2lzTFk2SnVvbXVyMHp5OGRXeUJWeE92VkNwNHlFQXNia3JWVXMzUFpjYzhHWEJLcFZQQzdocVpVLWhuTlVKUlMtQlpFUlBLUDFOSGx2Y1pNdVBpYzNUOGlOTlR5N2tmV3dtdkFCWWIwQXhwM25naVdobzNTb29yclE?oc=5",
-      "published": "2026-09-18T16:40:00+00:00",
+      "title": "Why turf war over community college bachelor’s degrees remains unresolved despite legislation",
+      "summary": "Why turf war over community college bachelor’s degrees remains unresolved despite legislation edsource.org",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yd081LVZTZzFPUGZnRnpKTWJsZ2JPcnZycnNQSnZGaHRDZlVVSDVCRmRNc1RUT0ktY1YzMlpCeUVwbE05aHBlbThlSUV6VTd1bzFYN3Z4d1FqekxnZGE5SzJGakVmbjNqbmRiZno5TXdKU1ZNaVHSAX5BVV95cUxNeUs3MG91dGl6VWtBVXhDZjY4QkJaWlRvcFh2LU9BT3VzVEZVRFY3NzE2dG9kSUFzRTZ3dDJ4OVNFNHRSSV92dklKdU00VFpuaGFVVTJWT3RneGJmemJaUXpFWXV1Ym1zRHFfNVdQd0FyMXFGX3FuTWlxX1pWMVE?oc=5",
+      "published": "2026-09-18T15:25:44+00:00",
       "beats": [
         "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-      "summary": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030? NPR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTk9Mai1tTkxmeDBrXzBkRlVtTjExOEZLdXVqaE9WVFgxRjM2NzN0dEI0eWNMRVMyaTRUM0Q5VVBuektqR3owUlhCTkdDSlJSWnN0TjRTR3RYX1NjNEFWcmNuSXljelVrLUplcFM2TFEwLUV3UC0waloxNjhBS0s5TERXTEJONW9yQ3ZnNElxbUpmbTYtOFBYbDg3Sm1JNlV2V0Q2SHUtZ2piMnczNHc?oc=5",
-      "published": "2026-09-18T16:07:51+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | The Kennedy Center Is Trump’s Most Grotesque Obsession",
-      "summary": "Opinion | The Kennedy Center Is Trump’s Most Grotesque Obsession The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMERLR0hJVVdndU5ORHE2T2hWNklwT0dlVzlUN1R4NndhSVlMWUhFTHUwNmgyamxBUVAyb19XQS1xZVQzT19LMHVQRmU5NEdqX291cWZ4eEZnaWxhRXpEM3N0LW1IaUpXdTJ5dWV6ZUkzZXowcG5teFZXMUVxRE9hbVVR?oc=5",
-      "published": "2026-09-18T15:13:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
-      "summary": "Ms. Rachel has entered her album era, and she is so happy about it NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDVfQ01BR0xBbkFXY3ZVX28tM1dNNzloeng0MXA1OTFvQTliWGpZVmgxdnpRSERDVWxWSS1OUGRiMmxnbjYtWWU1QTlhQjZ1YkJCbmthamFlX21wenlodENaSTVDalNOZGhlazZMV2hITW1tUlF5SUpLdzAyNzVUdXgxWWpxRnlNRHR3Mg?oc=5",
-      "published": "2026-09-18T11:00:00+00:00",
+      "title": "Opinion | How Flock Became Public Enemy No. 1",
+      "summary": "Opinion | How Flock Became Public Enemy No. 1 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8telRxMk5vV0MtQU5IMWNDVXU3RXFFeVlkQWNxT2pTWUxjdThMaktIdzZGSHVJYnJoLThFN252OHl1ajdONW1qZlVFNEpveU42dmlvMHhqaW5BWjNmVDlZcmoyUzF0RGJHMmRfX3dmd3VybjZjQlRwNndnLUY?oc=5",
+      "published": "2026-09-18T15:00:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -243,12 +230,36 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
+      "title": "Trey Cunningham is hurdling into stardom & serving pure body on his Euro summer tour",
+      "summary": "Trey Cunningham is hurdling into stardom & serving pure body on his Euro summer tour Queerty",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDlCYXFVQllrc0xLLXo2ekRLVWVHNWVfUldrUTVwRlppdFRTUHo5YWhmTk80Wk95YXZkV0d3QmtXTmdrZWlabnhMS25maHBQNmhJUXNLY3ZVMmZhRUxrbjliMGVuQWF3OERDTkxCS0hDSVMtdG5sQXI3a1BkZEZjVHRGNUpxUmZvUXFDMmxQRUtLcnFodEdzZ25TLVRrWnJYMXBVbkQ2OG9zcVFoWUV1OGpZNkFzUU0?oc=5",
+      "published": "2026-09-18T00:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
       "title": "What is mitragynine? Rising dangers exposed following fatal overdose of adult creator Christian Styles",
       "summary": "What is mitragynine? Rising dangers exposed following fatal overdose of adult creator Christian Styles Queerty",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1ZFTTNIbTcyTDRlbkVSM3ItS0JoczdzX0JManlGY0xtYTdhZC16N0NDMWxiQ0p5N213VGFLeEd5LUJueWFJR0o1TmxVdjl1U1ZnaDBqdzNTV1VTaVpGSmF2UE1VZ2RaWl9VWF8welVVUElQUG80Q19maVRiV3FNOFlVNmV5clF4UDFfTVM0dzgwdUR5alk1bUQta0VqVDVzLXpxZUh2NGVoVzJNaThWc0l1YVI5bF9VeEVCdg?oc=5",
       "published": "2026-09-17T22:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "A summer of AI bans in schools",
+      "summary": "A summer of AI bans in schools K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LZnJod3hPOWNCNVNldFFiNTJyVVhsRmR1bkk4SWpFbFVZMmQ1VHh6WFlzZFlMRTJYY3BCTFBfUG5MSlZ6dl9mUmV5aEJKblZRV0oxWnBVWVhZM3ZscDdrYmxrN29tTVpqVUlBVDhabTdkTk4zd2c?oc=5",
+      "published": "2026-09-17T21:52:13+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -261,6 +272,30 @@
       "published": "2026-09-17T21:41:00+00:00",
       "beats": [
         "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Republicans seek daylight with Trump: From the Politics Desk",
+      "summary": "Republicans seek daylight with Trump: From the Politics Desk NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVpIMEd4Nks2bXlNWXkzUTBIbTBOdVlMazU3RFA2enIwUWJwRHlWazVURGhJakc0LVJMRkxGcG85clZHMEp5X3N2U1pKejBpYjJCRk9XSlpLd0ZlMXcxSXdHdml2bVhTZVE4dlFhaHh6YTNjQnZZRW90RDBzZDlka1BzekxjMVV2OWE3anlFazJ6MGlobFBQaVdFNzZnQWhnY2JERkdn?oc=5",
+      "published": "2026-09-17T21:00:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone",
+      "summary": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWlphSkg2LXJmd0lfbXJBY3JjbkVKVENvcUxnT3FRVWVXTEpaX3ZmcTFwdmZVN1UyR1hoRF9qTklzSVBLOE1STU0wTmduVG9IdU9RbU1KWm9raWkwN1dFLW4xUVl2cjI5VlBzcndfSDVaTkVsTEtxYWJ5ZFJNSjFiSjBaMFluRXplaWFDVTM4aHZqRXVrU0RvbDlYb293QXJMWUIyRW90MkdkbVJHWnFfSEVQaVlYRFdCUUFyMHZ3RQ?oc=5",
+      "published": "2026-09-17T21:00:00+00:00",
+      "beats": [
         "LGBTQ+"
       ]
     },
@@ -286,6 +321,18 @@
       "published": "2026-09-17T18:25:04+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Check your bathroom: This hand soap was just recalled in 15 states",
+      "summary": "Check your bathroom: This hand soap was just recalled in 15 states NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2dTMjRCWUY1LWRUbnRhV2NNRzRTM2g3djR1UTFvUFNvRHZFek04SjlQdERqazRpQWE4RkptRHFObGZaUk5jSGJOLUg1WUZXVEh3enZ3bU9ZWUhiOUFYbzhCWjVmbjNZNHJqT1RzS3JmeU41ci1BS1RhdXRYbFlmelVVYU00S0RG?oc=5",
+      "published": "2026-09-17T18:08:50+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -325,18 +372,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "A \"c*m trophy\" controversy isn't stopping Mike Johnson from backing this gun-loving YouTuber",
-      "summary": "A \"c*m trophy\" controversy isn't stopping Mike Johnson from backing this gun-loving YouTuber Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVjZ4cFVOYkZBMGVrWXBKTUFLZGNxNjFQbGpwZ3prNHRDamlMSHZZejJwYkI5dlJmeEtnWW9iMnNwbk40X05xNDJDWXpyVVgtUmZPaXJhckV4ZVQ3SkM3Tk9Ha1N2RUljQ1lTQVdPN0s1SWpUYXpsREFJblFCUVdSV3BXZmItazE1QWg2ZjIwNEk0Y3h3Snk1b2U3OWQ5STY4cnJ5VVVGS3dlbmJpVXB0clN6SkFVTnRibkE?oc=5",
-      "published": "2026-09-17T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -346,42 +381,6 @@
       "published": "2026-09-17T13:45:48+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "A state program now puts $3,000 in the pockets of foster, Covid-bereaved youth entering adulthood",
-      "summary": "A state program now puts $3,000 in the pockets of foster, Covid-bereaved youth entering adulthood EdSource",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb3NUUmY3QkNLRkg4Q1g0c2FsOTlxOFBxSy05RGhLZU1EVERVazFuZ1dSVklRWjU3TzFZRGJwXzAzbzh4dkRBYy1WYktYSUkzaVZBWHpiWXJHWHJ3Njh6RUI4S3ZGTzdCd2dsZTF6dUNoLWdRbGlTZENjcW4yS0U3RVFYNlhwZWZGenR2OEJyZlNwZEM2cUhsQk94LXV4U3A1S2k1cVE5amNPaERzN1hoTEJDNmE4UHRjUXl2RWVkM3pvdW5uMEE?oc=5",
-      "published": "2026-09-17T07:17:29+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Banning AI Alone Won’t Snuff Out the ‘TechLash,’ Parent Advocates Say",
-      "summary": "Banning AI Alone Won’t Snuff Out the ‘TechLash,’ Parent Advocates Say Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3phZHJLaS11WnpaTHFvWnBLUWw0UXBBU2FCN2I1R3JoZ0tZWmNuS3FLSzJTcF80YkN2MzZ5ZWRKbjFFSXI0THF1b043LVNHaTRZRmI2c3pGVGh0a0s5eHRXM3VZZldnTWU2QlpfOVl6MFdmb3BVa3BxU2o2RWMwM1FadGptMmtOSzRwVzVkZktVTFlNZ29YRWNYQ2RtdUF6b0I0R2hHcnp3eWc?oc=5",
-      "published": "2026-09-16T21:56:22+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Microschools Are Spreading. Some School Districts Have Opened Their Own",
-      "summary": "Microschools Are Spreading. Some School Districts Have Opened Their Own Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVFzLWs0aWhRRF9ZelduRXhwdC13VTlUSjllZ1pEaHpNWVNpSjNGWWVrcmFCWnJQaVZCR3JjVDJjbEVSeUNUYnMzQ0ZBNG5oY0FCN1pfTEJjZjAxeUJYWlN4c0UyRUZ5Q1dlUW9fdkp1eFJyYm9XSEpjXzlKUDBVY0RvTTlPaVkxeGJxejByQUdYVVYwc2t3T3JNZWdBSXJBU2NRRHdWbzBicFZlYWZqVWhjOUd0Sml1?oc=5",
-      "published": "2026-09-16T21:06:22+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
