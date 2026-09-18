@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T13:44:37.896267+00:00",
+  "updated_at": "2026-09-18T17:34:18.744553+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,37 +20,97 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
-      "summary": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaHRBSXB5Y1JiUUVPMU1fbzBfSE5PbkhWTWNwYk0wU3FNQjlvNFNCaDhSTG5NSnNWZHdITUdaUW54TGF2Qm04U2tYOHZkOFppaGVtYkJrY25XTWRfNFNjOFZjbmNfR1dEOV93OFVWV0htYVdoVWNYUmY3MXRqNW1mcNIBhgFBVV95cUxNdEhqcVZ5RWR3R3ozM29oejJmZ3JyNXRBNTdQbVpZY21EUDRwZXc4NnVQbS16Z2dGOTE3MW1GY3dSYWJKeGJGSkhGcTg3OEVfbG5Yb01ZdnV2dzAwMWNzZFpQUVRsYWhDY18xSlQ0RDdzQktxbFFPQUVDVDQ5UkJublU1VU0xdw?oc=5",
-      "published": "2026-09-18T11:23:07+00:00",
+      "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
+      "summary": "Exclusive: US military had close call after using AI for false intelligence report, sources say CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
+      "published": "2026-09-18T16:55:50+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Oregon man accused of killing five Portland-area women faces new charge in sixth death",
+      "summary": "Oregon man accused of killing five Portland-area women faces new charge in sixth death NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTREZzdXc1NNVW9pWWthMmM5Y2lFUm82S1FiT0kwZURrS09qS0U0ZjIxV0xJSG5NX3VxdG5LLXZqZkVzb1BWd3RiVGtJYzZNWS02eXhFVUJtMjNKdDBLTGN0RkdqYzRDbUxrcU8xX1BVTHYxUV9zQkhBeXF6dWdGMk1pNUNuQk5fYVJCVWNLTDJCT2lOVC0tRG5PTW56cXdBbW5pOGM3b0R6U1JCN19nTU9hcTA5VXNF?oc=5",
+      "published": "2026-09-18T16:41:23+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "AI trade rebound sparks flurry of unusually bullish options activity",
-      "summary": "AI trade rebound sparks flurry of unusually bullish options activity CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFM4Z0FuZkppaldHLWwwTGsyOVYxcURUNWN5eGxhSG40Mlp5X1N1ckJoMFRVTFNRV1ktU18tSzhXUng5OURtSzhIcjNJRUlXTDRMa2lJRzZpVWx5WXNFMU5CUWVXT1JMblo4dkdPVFVPOERjSGRWM0Jwbk9SQUFVSUliRktid2tRcnlrT3pzclpFTmhnREdCaUtRYjMtNkdEb19RRlVDYTjSAa4BQVVfeXFMTTR2OUd6NUZ6UlBuZHZnM0ZHemxLeDJXSk1fWXBlaFNhQ3hzVnhoaUhyamNhbTVQclFHQ2F6Nnd2YUxzQzVNX3F0TlhHOXhnSjl0RTZSY2tHeEk0T3BPamhhOWlEdTQ4Y0xkWUYwdUd3Z05xNTY4RkpvYUp0cTE3LXdXVEktRGN0amVkRWJWSDhpaHRKYlIxb1pwTGkyR2FwZXFWQjRzckhFSUFVWE5R?oc=5",
-      "published": "2026-09-18T11:20:56+00:00",
+      "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+      "summary": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWdkRHB5TmJtQmZxOU5HejdncGVwbnFsQXdSRHdYSFU4dl9hZE5ZdTFyM1JoWkFUQ1hKb2d5Mmx4NkRGbk84cGJETGloT19XSUI3aVNWWHVzNVd0TFVfMHNEWnBfMUN3SWNhc3ZKOGxTMlJRWVJKbUJzd3pFbzFlZldtWkRmUdIBiwFBVV95cUxNX0VJZllTeFlpbUM1UTRxSXlGdVAwdVBJZDJxbldzLTR3QnVMRWhpa1I5S1VPOWZ6RnlBQ2xTNjQ4d0Q1OE1JT2VmTzh6bHlMbDZ6MGYzSC1XT2RjZXVFc2I2LU1SajFzN19wUnRVWm11TVFXNVRhWHE5cUk1UkxmaE9NbjExSUdxbU1n?oc=5",
+      "published": "2026-09-18T16:21:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "We're buying more of this defensive stock ahead of an upcoming long-term catalyst",
+      "summary": "We're buying more of this defensive stock ahead of an upcoming long-term catalyst CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXlSOUJ1dTN1UkpnamRiVXNYVEQyTzhmTG05bC12OEpfbWFLU05KOGpaWWZSdm9lOXhqMmFoTUQxWVpLZjZXTzZGNEk2ZEZabjR4Q3NCWkNfRDFxbjloekdzZkFpMXo1VmNYWDg0SHFJTzF1VFlJMUcxOUptU3NtX3VPbURmY2tYOFVTSWNtWTdZUjFDQ2lROXg5VlZ2amsySFVIcDktNFpHRTNqb2YtY2V1ZllObDct?oc=5",
+      "published": "2026-09-18T16:10:38+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
+      "summary": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030? NPR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTk9Mai1tTkxmeDBrXzBkRlVtTjExOEZLdXVqaE9WVFgxRjM2NzN0dEI0eWNMRVMyaTRUM0Q5VVBuektqR3owUlhCTkdDSlJSWnN0TjRTR3RYX1NjNEFWcmNuSXljelVrLUplcFM2TFEwLUV3UC0waloxNjhBS0s5TERXTEJONW9yQ3ZnNElxbUpmbTYtOFBYbDg3Sm1JNlV2V0Q2SHUtZ2piMnczNHc?oc=5",
+      "published": "2026-09-18T16:07:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "What Jim Cramer learned at NYC's flagship Apple Store for the iPhone 18 launch",
+      "summary": "What Jim Cramer learned at NYC's flagship Apple Store for the iPhone 18 launch CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXY0cGhSOEFNVHFDcWd5b0JqWHhUd05INnUxMmMzYXhWN2k0akF2dzlXdFltY05ONm9pNk9PbVVNd0xDcGlhQ3QwNGpCaVpVZ2NPdXlpUjkwUW9jNVJmdmdLSDlkVVpxNEd5by1DRlZMWk9vUF95SmwxSWM2dDVZNENGa0w2WnZJUlVTUXlQaUszWkdUZ2ZoLVU5NFpkcGxsQnctY1R6eW1Bdw?oc=5",
+      "published": "2026-09-18T15:40:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "New fire breaks out at Moss Landing Power Plant; shelter-in-place order issued",
+      "summary": "New fire breaks out at Moss Landing Power Plant; shelter-in-place order issued CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3JLU1Q1WWVQZHFvdjVVbFJUVnNqWkpBRDhQb0Mtc0FmMWU1RDFNaTlhVDZxcTJmSTJoUGRDcTZ0d3hkZmE4UVE1QnROMnVUaUpHQ19vR1didkF0WkF5YzJsTTVDckhZdXR6WWlkYXBidUVuQUhMNE5wYTVtTHEwc3lvS1BuLTFMcFpKZWFMeVpKb3J6VkdnVWI0emNPNDc1aDJveTRtMVdUWGM?oc=5",
+      "published": "2026-09-18T15:11:52+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "How is Chris Brown still this popular?",
-      "summary": "How is Chris Brown still this popular? CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWxPQVFDR0NYUGhhUi1GdW52NzdHOUNJM2l5cWNNOFAwbDI0TGhhQUxHUlFUWno1UWxGMWJKRXdpNWhwR2xPRFR3anBDRXdrRmZXZkluUmw0emYtLXg1U2h0Uld4VjRrSzFvRXdFNW5pSkc3Nmk0RDRjUlFOdk5KcF81dw?oc=5",
-      "published": "2026-09-18T11:00:29+00:00",
+      "title": "Millie Bobby Brown and Jake Bongiovi welcome their second baby",
+      "summary": "Millie Bobby Brown and Jake Bongiovi welcome their second baby CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTU1zUGtJVm9odnNMa28zMERHNlJ3c3l1ZklqcnVCNmNIbHozNmU4dTNrdkZaa3J6R3NmdTZScHU5bHk0NWMyRk5MMlM4amtfOWc2d2w1enFkSXk5MkdqSmFKWWhCX3FXcXZPeWlQVlNhZmtOOUNHeUszNjdZRXliMm90VGladURycTJlV1dtYw?oc=5",
+      "published": "2026-09-18T11:05:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,18 +128,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-      "summary": "Warren Buffett steps down as Berkshire Hathaway chairman NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFY1JZR0xMV1FUQmVIT2FlOGR6RzcwdGlQZndfRFRDN1NUaDV2aGdnWFB5Wm5xUW5jYk1XX0EtZnpLQWNJeEV6TkxPUXZsS3ZhNUxJamxUTmdqSS1HVDlKUDV2OGtXRnkzTVZTNW9yTmZmUjJFNDRSY1NB?oc=5",
-      "published": "2026-09-18T10:58:49+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -92,13 +140,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "summary": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGV4dmJXb1U4VFdfNTFrRXNDN0gxaDZ3bFdpVWV6MFBJQnNiMDFrTEZUTXNyeVBadzhZTFFYdVY1dm5tNTBmZnlrYV9tZ19qN3RiMWJ5YjJ2UDc1dDNrcm43U0xBcndpckR4SzVSXzVEbXF5ZTVpSXRuYXBYUU1YSTg4QThHUjTSAYwBQVVfeXFMTUNLWWFPY2x2Y1FTZDJ4UE9Nc3ZrX0FERVBLUGxLOEVENmo1VS1kV0ZuOU91c3hUUngwd0xBT0FLbnVDU3dwZDhsSWVTWkNQZkxLanRUMFZFT1V2NTJvRy1yM3pRVWRzeEthY1RkUzZJUHZmb0hWZ29tVTdOSkRCOFdkenRZUU4zdWhJRXA?oc=5",
-      "published": "2026-09-18T10:00:10+00:00",
+      "title": "South Africa ‘feels like a prison’ for women amid spate of femicides",
+      "summary": "South Africa ‘feels like a prison’ for women amid spate of femicides NPR",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHFuSXQ5YVZQcTczM2hvSEEtZWx3UjlFNlRheU14blJRZ0QwT0h3N20wRE91R0JyT3g0dTZUVUp3U2loa2NockVRclpOZ2g3dXhybUtKS2pyblRvMG4zc3NTLWNRcjhZNGtwMU9HMzlvX0l0Zk9PY2owcDZfeHhCdXNjUFdIazdZV0pvemI1bS1oajNoblZmb2JZZmJzWGxYeEo2S3VGbURiRGZoclZsVQ?oc=5",
+      "published": "2026-09-18T10:39:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him",
+      "summary": "Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnRfUlNTb0pmUzhlM2Z1d1o3X2tWQUtZVVNRLUxJOW5ocmlzc0k4X0FfWkxMcVFMT3lWdnV3UklYeTViNXkwQnZQVUhvbnd1ZTlEVzl6QzA2Q1NFNnVyTVphNGcxX2FLb1pWNHktRGdCQUJjUDZhQk91NVVpNEloQkhJOFU4ajZEWnc?oc=5",
+      "published": "2026-09-18T10:21:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -108,35 +168,11 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | What I Found Out About Organ Donation Shocked Me",
-      "summary": "Opinion | What I Found Out About Organ Donation Shocked Me nytimes.com",
+      "summary": "Opinion | What I Found Out About Organ Donation Shocked Me The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxFYWUwaEhvQ1AzUl8wS3RuUFR4QUlZRWltMGZDTjVWZzJ0eWxqOW9zYmRmanJfcmNQd1U2SGJZTmVnNk96MlR0c3hFbjZVanhKUmFWTUlZRDJQWmI4NXNYQUVNTTFpODhtWEhtZEZMelc0NzFoMnlkNWhob01pMTBDcjl1SnBKSHc?oc=5",
       "published": "2026-09-18T09:00:14+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-      "summary": "Could trees developed with gene-editing technology protect Florida's citrus industry? NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTBtbmh0Ul95UTdjLXNLTDZjaEhrWTEzb2lFTG1fdkhKakhvNjNTNDU1TDZXaHBGbWxqaFctY2hjay1wVVdRM0hYWGJRNnh5cVdGRHFjQ0xBeTFaQjBfQ01SMUJ1QWl6Vl9VNGN0VmVvZVBiSThQT2VsWHJyR3VoNV9rT0RvTktJUlVZZzF4MWQ?oc=5",
-      "published": "2026-09-18T09:00:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Two students killed in Philippine school shooting and teen suspect dead, officials say",
-      "summary": "Two students killed in Philippine school shooting and teen suspect dead, officials say CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sTmNXZ1FCVVNyOW5FQzExVGxGTDhsMVJnaF8zc1J0YUFKOC1YcU9MTWJRaUJsdWJLRTFlcVlZVDF6V0tEMmc4TjllbDNLRlBXTDdhQ2NuZHNreTUtZkRZWTZkYnduSXAyMEhqWE9ldmhMSkNNTlNNRHd1R0ZRZ28?oc=5",
-      "published": "2026-09-18T08:48:52+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -149,6 +185,20 @@
       "published": "2026-09-18T08:11:43+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Trump administration investigating Mass. school district accused of assisting child with gender transition",
+      "summary": "Trump administration investigating Mass. school district accused of assisting child with gender transition CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTVlZTHVBSWNMY0pPeHNqblcyWU93a2dzYjVXckdHMlNjZkwyRG5HMVJvTlU0bVNHSGZKZ3FRaUl5LW54b0pIenpfT3l1S1hvVVJaVkpCX2c1Q3ktMFRXUldtd2FBZ2xNZlRZcWh4VGRxRFlaQVRnWnhpeVg1RTBNbXBVcUx4ay0xRXQ4dm9oQVdaeWY3cTBxeXZsRDFzV3N2bjJkdUZMU19BOHJWek9N?oc=5",
+      "published": "2026-09-18T03:18:45+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
       ]
     },
     {
@@ -217,7 +267,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "The Next Gene-Editing Technology May Also Be the Oldest",
-      "summary": "The Next Gene-Editing Technology May Also Be the Oldest nytimes.com",
+      "summary": "The Next Gene-Editing Technology May Also Be the Oldest The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5",
       "published": "2026-09-17T18:00:08+00:00",
       "beats": [
@@ -232,18 +282,6 @@
       "summary": "Canada's Mark Carney and the EU shrug off Trump's threats, looking to forge an \"Alliance for the Future\" CBS News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGlHWjFxajhoWjV2V1AxdHZoQ25Ucm1PWWJyT3pGdGhDVzZwaG5RSHVNanJSNTJyb2RIU1NJenVmQXVTZ2JUZ0F1M3Q5MUktQnBlQzUwUk9NVUdTd19ueV9ZNmxnOHgyQ2Q2cEpQcEFYSUN1VkpvdUEtLWFJOHpqTld1Z01RdjFWLUlCSDVJRFoxTktoU0JF?oc=5",
       "published": "2026-09-17T16:54:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race",
-      "summary": "Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBISWo1UDh6Ymt1YkNEUlhVcUhCUm1nZXpNbWFELTdTeDdSSldRbHBicmpUZTBYRjZSUE84U1BIc0R5dUdRTzA0X0wxVHI2aTJyQjRfSjNoZUhrZXFXV3FSMTFoMVQ2MGpfc280TWtrUU94cktJN2lKTF9laGM?oc=5",
-      "published": "2026-09-17T16:27:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -270,18 +308,6 @@
       "published": "2026-09-17T13:45:48+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Poll: Most Americans think AI is doing more harm than good in schools",
-      "summary": "Poll: Most Americans think AI is doing more harm than good in schools NBC News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzRsdjhuamhTTmJVU3JmZWVfYjZfWWR1Y09fZ0NfT0kzd09KajhZWlo5QnVoSkRiTGZDbUhKdlU0TWZMZ3JIX25obDZ6MWUwNlRCVEpfUmVZVDZwZWtYNmVXT0NCNG83QWxlTC1VT3h6RmNqYktyellUN1dJREtyRlF2OFp0LXJsdlZoc2I4Zmhya3Zud0NvOEhXTWNZSHU5?oc=5",
-      "published": "2026-09-17T09:00:41+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -354,30 +380,6 @@
       "published": "2026-09-16T19:49:55+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Man dies days after assault at Sonoma Plaza; 4 suspects arrested",
-      "summary": "Man dies days after assault at Sonoma Plaza; 4 suspects arrested CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2VnQS1kRUQzMGxBNk4wdm1POHFyaHJzSU1ubWFydG5fRUszQUJpRUVhb053MXJqSkN1OUs5Qk1jUnVSbUVaRDA1LWtMLUo5Z1BuQWd0cVJJN2xiTUJ5OWdoWGZUWHBac3BPUS1NUDJkTUFoUmVCLU9DS3NYdHNXVGQ5ZEhiYnAtVERGSkV2b2I?oc=5",
-      "published": "2026-09-16T19:16:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Poll: California voters support billionaire wealth tax — and its countermeasures",
-      "summary": "UPDATE: Poll: California voters support billionaire wealth tax — and its countermeasures EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTYydlRXV1c1cTR1YkdxblpzUVNWUms1cEN4ZWE4dFhqR19Mdlc0WDZUSTRXeXh0NmhDcTI5cl9CZWx0elkwZ2R1TE5VOEFrNFliZWhRc1hlRWh6czNYakJyQWhINkppM2RtZ1RhNWQtekJiR3U1OENWbDQzVGVFNlVka05WbmE2N0xOQnlLbEVOR3QtRFdlXzBLaGxEWXhBMTZDRFBDYmpYQQ?oc=5",
-      "published": "2026-09-16T18:57:11+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
