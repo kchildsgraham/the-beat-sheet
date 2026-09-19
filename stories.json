@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:05:31.983695+00:00",
+  "updated_at": "2026-09-19T01:25:58.392902+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "New Species of Cat Discovered for First Time in a Century",
-      "summary": "New Species of Cat Discovered for First Time in a Century The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUk4Q19sV3pPOHp6RDVlYWF2UG4ydG9RY3RRRU5wZkVoZWxaSEFQXzdvOEg1US1yMnhwSk9Vck9aRzFLS3Q4ZlcwRk95M0VRVGotTVlneFlBWm1MX0RiM192ODNUMFUzQm5ZaGlXdkFoZHZJYWQ0eVVLVHJCcEVZdlNQTmpNUQ?oc=5",
-      "published": "2026-09-18T21:40:19+00:00",
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "summary": "Google's Gemini becomes latest AI model to break out and hack computer systems CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE5KMl90SzkycnBlRWtLSVAyYmtzTWxiNDdnUlpvbWx2MGI4TVBaRFFIRDB2X0Nnc3FTOUdUMDRHY2o3aG5EV3dILW1oS0lDYS05dXphNjN0RGxQQXg3QVJfTVdtLW9wV2lqUkVlT3NrZVBZanp6bHRwSkZpT1NsWnZtNEs4MFBKTlA1OE1HUU12NnlfdUtyd3k1RXlJSjRlVmVZb2xXblJCVm1NWVl0ZUdoa23SAboBQVVfeXFMTnp4LUJSVnR6TWs0eG54TU1ZMDNtYVl4OE9MbFVyaTJyVlNUdFpjNWdLN1FZWDVzUGU3Qm1KQ0xpZ0pfeXE1N1FSdFU1UVNTa2QxWnE3dmxLVUg3dE5wUTN3WG5wQ3NsMk1vdzhkT21pWnEzQmEwZDd3dmR1YXgtRzU1bV83TFBLeVBTYTNza0pVQlNlWmRqbTctaDhUZ1ZpR2VFb1dEWXE5THlRbldGLW5kWFJCekV4UGxR?oc=5",
+      "published": "2026-09-19T00:50:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump says US reached Greenland security deal",
+      "summary": "Trump says US reached Greenland security deal CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taDVTbXlZZk1OdG1GaDlkMjhRM29CRm1YMjBOUV84MmN3aHZsQ3lZWTVyV0pseTFsLXcyWkpwbE1ER21jQ2h0cUVCam01X3hrbUNJaTBOd1JTUXRCUHlETXVYbkpOeHNCY1Byb3JrQWZSZ2NYMFE?oc=5",
+      "published": "2026-09-18T22:17:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -49,20 +61,20 @@
       "lane": "General",
       "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
       "summary": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMldnaER6UDBnQk16Y1ViUC1FbndnREdmZmZMZG9QeTlBTnJPN0QwMncyTUxSOTc5SVNQR21tZ3p1ZzVJYnl3N1Y3bVA5SElMVUdOLVdBdnRYRVZvVFVJUnF5SnhJZnpvSW9Vcm1EWmhqSXhH?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMldnaER6UDBnQk16Y1ViUC1FbndnREdmZmZMZG9QeTlBTnJPN0QwMncyTUxSOTc5SVNQR21tZ3p1ZzVJYnl3N1Y3bVA5SElMVUdOLVdBdnRYRVZvVFVJUnF5SnhJZnpvSW9Vcm1EWmhqSXhH0gF6QVVfeXFMT3dmLVlOb2dWTFFFbVlNQndJRGNBQ1F2VWNlR1VLNHFlM3l4QUtDZ0hjMGhVVzVEQlpneEEwbC1ON0l1elB2ZTU2MkE0WmhTdXNJOVprNTV4eFZXS2F4QkhzemxtYlBvS05JOWdqUlVpTjYzMmU2azFBbHc?oc=5",
       "published": "2026-09-18T21:31:03+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-      "summary": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90aFlmN1RXZnFfRVpYNTVscUVkdzh0cFFLMlRMQVNZYzQ2dkRuSUlnRDhlUUZyOW5BMlhmY2FxcUhaMTFHQ19DWkpqT2RNX1k0bU5jak50RXF3dFVQcURIUS1HQ3l4QjhaMmJ4cUF1emFfeUtwYnpZUHRCQQ?oc=5",
-      "published": "2026-09-18T21:13:14+00:00",
+      "title": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico",
+      "summary": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeldVY1Y1dWUxWXFkZVJweTlhQXp4bEJ0T2x6X09MZTlxaWZOMHNqdTBZbmd2MnBfTlN2VHpTZzFWT2V3UGFHZXo5ZjdTWkRFUzlHWW1kc3U0X19GR0hBOXZkOTJhSlgzV1I3a0dkaTl5bVpnM2NBN1ZGNWh2MHJ6dFJnQTlsR0tERmVaZ2UyRzFQNWZMUlJEOEZvMEk?oc=5",
+      "published": "2026-09-18T21:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,18 +92,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "AI cloud provider Nscale files to go public",
-      "summary": "AI cloud provider Nscale files to go public CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nY0dXZ2p3ZnlfZEtOQTZzRE15ZXhBdXgyTU5GZDdpeW5zWUdOVlVTM280MGRRXzR3bjEzWjg5eWl0Y0VQYlZlOWVYazR0TGhFY2EtM3doNTVpd2ZIbTh5eXdWLXBDc20wMkZNazdZVW5JZ21NSEF1UEV30gF_QVVfeXFMTjMwdXdHbUIyV1J3S2RfRUVRbDJQbFVVWXIzZlFodWRRNDdhaWlXa2J2ZUFidGtvV3kxZFNvXzZZc3pIMV9hLWc1VTF6clBoTHFBb05jWnJPYUFsOXVQREtGOUtFUGdWY2NRZXE4UlZDenQ4cm15UUlIYWd5dzhBYw?oc=5",
-      "published": "2026-09-18T20:02:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -99,6 +99,18 @@
       "summary": "Trump says he’s ‘banning’ CNN, MS NOW and Politico from the White House CNN",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFYtOFZpNXR6ZHNJMkdwMGJKdmJMbGgzNDFQcmxNQXJDQ1JJLUZ4QTlBUnkwdGJGMlVXQTFVOS02NW16Z0NGVlp1bUh1aUdqc3VVcmNFTVhBUUQzTUJYc2hSMUZIaEVSZDF2bXRlVWVQblVWZHpMcUQ0SUxjdmdfelNFVUVOQ3F0QkhKbw?oc=5",
       "published": "2026-09-18T19:40:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "When Trump and Xi meet they will discuss AI. ‘Track Two’ talks are already buzzing",
+      "summary": "When Trump and Xi meet they will discuss AI. ‘Track Two’ talks are already buzzing NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3g2bVNKWVNiOGNxemRhSW90a3FSWlA0VVg4ZUFBWFF6RURJbHppazlpV0VDcVUxT0FwT1hUVWk3djBkQm9NZFBtZXUxZ19uaWZGZW13ZGxKY2pfTDZPM1hqR0w2XzVNSEZ5VFNTNnVzMkI0V2NlRkFieU9sLUlNdU9Sa1FvazA?oc=5",
+      "published": "2026-09-18T19:14:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,18 +140,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
-      "summary": "Exclusive: US military had close call after using AI for false intelligence report, sources say CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
-      "published": "2026-09-18T16:55:50+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -156,7 +156,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "Why turf war over community college bachelor’s degrees remains unresolved despite legislation",
-      "summary": "Why turf war over community college bachelor’s degrees remains unresolved despite legislation edsource.org",
+      "summary": "Why turf war over community college bachelor’s degrees remains unresolved despite legislation EdSource",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yd081LVZTZzFPUGZnRnpKTWJsZ2JPcnZycnNQSnZGaHRDZlVVSDVCRmRNc1RUT0ktY1YzMlpCeUVwbE05aHBlbThlSUV6VTd1bzFYN3Z4d1FqekxnZGE5SzJGakVmbjNqbmRiZno5TXdKU1ZNaVHSAX5BVV95cUxNeUs3MG91dGl6VWtBVXhDZjY4QkJaWlRvcFh2LU9BT3VzVEZVRFY3NzE2dG9kSUFzRTZ3dDJ4OVNFNHRSSV92dklKdU00VFpuaGFVVTJWT3RneGJmemJaUXpFWXV1Ym1zRHFfNVdQd0FyMXFGX3FuTWlxX1pWMVE?oc=5",
       "published": "2026-09-18T15:25:44+00:00",
       "beats": [
@@ -168,10 +168,22 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | How Flock Became Public Enemy No. 1",
-      "summary": "Opinion | How Flock Became Public Enemy No. 1 The New York Times",
+      "title": "Opinion | How Flock Cameras Became the Enemy",
+      "summary": "Opinion | How Flock Cameras Became the Enemy The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8telRxMk5vV0MtQU5IMWNDVXU3RXFFeVlkQWNxT2pTWUxjdThMaktIdzZGSHVJYnJoLThFN252OHl1ajdONW1qZlVFNEpveU42dmlvMHhqaW5BWjNmVDlZcmoyUzF0RGJHMmRfX3dmd3VybjZjQlRwNndnLUY?oc=5",
       "published": "2026-09-18T15:00:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Russians vote in a Kremlin-controlled election stalked by unease over Putin’s Ukraine war",
+      "summary": "Russians vote in a Kremlin-controlled election stalked by unease over Putin’s Ukraine war NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjFmN1BVbW9Xa1V6Q3RvUEZFMjFvY0NoS1dBNTFPTWNXZ1RLLU9Qazc1UEVuTmcwdDkwVTZYRGZWTE54VDVfRzV5aUJwb2NxSkRoeXRBbUloWC02Y25BVHpfVlFVNlhoNG56NDhidTZXdENmYnpySWtfUVk1V29YYU9FVG4yTE93azI5TlI1NEFtYkJCc3BVeVZQb0NvbkVhWkRVU0hQVGlHNlJMbnR6QTRJZEd3WmtQSEE?oc=5",
+      "published": "2026-09-18T14:51:54+00:00",
       "beats": [
         "Politics"
       ]
@@ -184,6 +196,18 @@
       "summary": "Opinion | What I Found Out About Organ Donation Shocked Me The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxFYWUwaEhvQ1AzUl8wS3RuUFR4QUlZRWltMGZDTjVWZzJ0eWxqOW9zYmRmanJfcmNQd1U2SGJZTmVnNk96MlR0c3hFbjZVanhKUmFWTUlZRDJQWmI4NXNYQUVNTTFpODhtWEhtZEZMelc0NzFoMnlkNWhob01pMTBDcjl1SnBKSHc?oc=5",
       "published": "2026-09-18T09:00:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The New York Times News Quiz, September 18, 2026",
+      "summary": "The New York Times News Quiz, September 18, 2026 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EVVFXZllpSld5VTF0Z1laSmRUZ2ltWF93a0dhSm5fME9DZjI3ZlFLY2JfeFl3VHBqZ0ZjRzFubkRtay1YVnhSV2U5UEdEZmpKTEpkZnVtRElzSXVOcGRpMXpJd2U1YzB4ak1uaFFlenFOZTFNUlFzczlB?oc=5",
+      "published": "2026-09-18T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -212,18 +236,6 @@
         "Politics",
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "How the Superintendency Is Changing, in 5 Charts",
-      "summary": "How the Superintendency Is Changing, in 5 Charts Education Week",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMWVENjhMUXlaaWJCNWtYZjNxMlFZMXdkVEswWFRMRWthckdiRUEyZzdhWFNNa3dJN1VNMjdpRmRaaFNvbXMyRkF2S25yNVNidkU0Tl8tU2JxYjhaSlRoXzdlOTU1OVFvX0ZmYkxlWklBNGtqTXFESTh0OWhQSnhJS1BZSkxncjV2NFpWaXJWWFpNZWM?oc=5",
-      "published": "2026-09-18T02:38:55+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -276,15 +288,16 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "Republicans seek daylight with Trump: From the Politics Desk",
-      "summary": "Republicans seek daylight with Trump: From the Politics Desk NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVpIMEd4Nks2bXlNWXkzUTBIbTBOdVlMazU3RFA2enIwUWJwRHlWazVURGhJakc0LVJMRkxGcG85clZHMEp5X3N2U1pKejBpYjJCRk9XSlpLd0ZlMXcxSXdHdml2bVhTZVE4dlFhaHh6YTNjQnZZRW90RDBzZDlka1BzekxjMVV2OWE3anlFazJ6MGlobFBQaVdFNzZnQWhnY2JERkdn?oc=5",
-      "published": "2026-09-17T21:00:40+00:00",
+      "title": "Federal ‘Science of Reading’ Legislation Passes the House",
+      "summary": "Federal ‘Science of Reading’ Legislation Passes the House Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREU4Y0ZfZWVZdm1qd3R4NTZHZGY3MUp2ekxYSlFpNTJNU0Fwc2FjalRoU1ZmLTlCempIT3Y5aUxhX2lDZUFDWWlIRDIwdUJHWWZicXA0LTBaMUk5bEd4MlZ0dFFiRE4tN29vYmN3YWJlQmpkSEhydEUxNHJQNlFxbGJ3TWhZajBWWFRndGRBNHFhaWZfQnAwV0NJeVhoUnAzZ25aUUhEWQ?oc=5",
+      "published": "2026-09-17T21:29:05+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -367,18 +380,6 @@
       "summary": "Canada's Mark Carney and the EU shrug off Trump's threats, looking to forge an \"Alliance for the Future\" CBS News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGlHWjFxajhoWjV2V1AxdHZoQ25Ucm1PWWJyT3pGdGhDVzZwaG5RSHVNanJSNTJyb2RIU1NJenVmQXVTZ2JUZ0F1M3Q5MUktQnBlQzUwUk9NVUdTd19ueV9ZNmxnOHgyQ2Q2cEpQcEFYSUN1VkpvdUEtLWFJOHpqTld1Z01RdjFWLUlCSDVJRFoxTktoU0JF?oc=5",
       "published": "2026-09-17T16:54:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "House passes Russia sanctions bill, overcoming opposition from Democratic leaders",
-      "summary": "House passes Russia sanctions bill, overcoming opposition from Democratic leaders CBS News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYWhRQVlOTGQ1b3AxdzQyR1VEUGh2UlFnV1ZWNG11VnhpTVp3NXh3STFJRTZDTzJmZC1mVk5JMFBCekxXRkQ5OHBFSVNZUFl3T0lJQ0QtNnZpNWgtRHhWcTA3SG5QY2F5T2NUcS1oWk8?oc=5",
-      "published": "2026-09-17T13:45:48+00:00",
       "beats": [
         "Politics"
       ]
