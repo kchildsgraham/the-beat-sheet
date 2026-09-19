@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T01:25:58.392902+00:00",
+  "updated_at": "2026-09-19T06:24:23.428291+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Editor Rose Friedman, who helped shape NPR's cultural coverage, dies at 38",
+      "summary": "Editor Rose Friedman, who helped shape NPR's cultural coverage, dies at 38 NPR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RSWlNU2dXNUxhOVdaLVAzb3M2QWJsT2ZER3VvcjlJS0JWbm5mTjBIZUxZd0stQ1E0VDFVMFBMTC1IcUVxV2NMWE9rOXB3NjdqdnN6S1lUN2haczhhR3FsMm54RmdCOEhZbkFPMlBWVHY?oc=5",
+      "published": "2026-09-19T02:44:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CNN's Senior White House Correspondent Kristen Holmes on Trump's media ban",
+      "summary": "CNN's Senior White House Correspondent Kristen Holmes on Trump's media ban CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXk1LXdBcnk2SzNxWWtXRnQyT3NjcmhDdm04N3IzTWtzV05YQVh0d1JCN0tOVEo1Q1lod0JYdFBQWk9USGNnRTg0YlpDbkdXWk93Q09BU21tTlFyWk8zMm5tS2hYd09YN19KeGtRcXh0WVJNbTM5RHRRRnFyQ1lFUmxkZ2dGakdqUFIxVTR6NA?oc=5",
+      "published": "2026-09-19T01:02:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -35,12 +59,37 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump says US reached Greenland security deal",
-      "summary": "Trump says US reached Greenland security deal CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0taDVTbXlZZk1OdG1GaDlkMjhRM29CRm1YMjBOUV84MmN3aHZsQ3lZWTVyV0pseTFsLXcyWkpwbE1ER21jQ2h0cUVCam01X3hrbUNJaTBOd1JTUXRCUHlETXVYbkpOeHNCY1Byb3JrQWZSZ2NYMFE?oc=5",
-      "published": "2026-09-18T22:17:27+00:00",
+      "title": "Trump says US reached Greenland security deal | CNN Politics",
+      "summary": "Trump says US reached Greenland security deal | CNN Politics CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGemF3TnRYZFU2MXBMWEpQYkFqeE9SZnUtWFdsaGxtZDdXa1MtN2dQSjFQVnoyU0xKVVRwRnlaTWlGQ1FjYmVvVzBOV0lvelN3QjQ1eHppQVBZdUh0eE9ERDgzdl9RY1YxWmlnVVJ3eTZWaUlqSEZEUC0xYw?oc=5",
+      "published": "2026-09-18T22:19:26+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump says some routine immunizations will be split into five separate shots. Vaccine experts say it won’t work",
+      "summary": "Trump says some routine immunizations will be split into five separate shots. Vaccine experts say it won’t work CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMFBNUjkxeU1JaXI0RVNTV3J0Y3JMOHNWSGFpdXdraXlQYmZVamREVEpfRHpUS1Y0dUc1NlhKVVJpYlhiaEhEWVJaUC15cTNmR2VZS2lzemRKNGFVTzBpX2s4aVB3M2VWUVdLTUt1dThaSEE?oc=5",
+      "published": "2026-09-18T22:05:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "President Donald Trump bans CNN, MS Now, and Politico from White House",
+      "summary": "President Donald Trump bans CNN, MS Now, and Politico from White House Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ON1pLVDZ1YnRsT1Fvc3VPUjZWSVlEWi0zRjQtMElNNEdUOWY5a1V1Nk1uajVjV2NqVlBydThYdXBQellhRzRDZjNaRkxHOE5sUXNOLWM4NUVWRXNYWU9uSzhYWk11czFfNm5ObzN4OA?oc=5",
+      "published": "2026-09-18T21:51:20+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -63,6 +112,18 @@
       "summary": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal CNBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMldnaER6UDBnQk16Y1ViUC1FbndnREdmZmZMZG9QeTlBTnJPN0QwMncyTUxSOTc5SVNQR21tZ3p1ZzVJYnl3N1Y3bVA5SElMVUdOLVdBdnRYRVZvVFVJUnF5SnhJZnpvSW9Vcm1EWmhqSXhH0gF6QVVfeXFMT3dmLVlOb2dWTFFFbVlNQndJRGNBQ1F2VWNlR1VLNHFlM3l4QUtDZ0hjMGhVVzVEQlpneEEwbC1ON0l1elB2ZTU2MkE0WmhTdXNJOVprNTV4eFZXS2F4QkhzemxtYlBvS05JOWdqUlVpTjYzMmU2azFBbHc?oc=5",
       "published": "2026-09-18T21:31:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "summary": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90aFlmN1RXZnFfRVpYNTVscUVkdzh0cFFLMlRMQVNZYzQ2dkRuSUlnRDhlUUZyOW5BMlhmY2FxcUhaMTFHQ19DWkpqT2RNX1k0bU5jak50RXF3dFVQcURIUS1HQ3l4QjhaMmJ4cUF1emFfeUtwYnpZUHRCQQ?oc=5",
+      "published": "2026-09-18T21:13:14+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,63 +153,16 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump says he’s ‘banning’ CNN, MS NOW and Politico from the White House",
-      "summary": "Trump says he’s ‘banning’ CNN, MS NOW and Politico from the White House CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFYtOFZpNXR6ZHNJMkdwMGJKdmJMbGgzNDFQcmxNQXJDQ1JJLUZ4QTlBUnkwdGJGMlVXQTFVOS02NW16Z0NGVlp1bUh1aUdqc3VVcmNFTVhBUUQzTUJYc2hSMUZIaEVSZDF2bXRlVWVQblVWZHpMcUQ0SUxjdmdfelNFVUVOQ3F0QkhKbw?oc=5",
-      "published": "2026-09-18T19:40:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "When Trump and Xi meet they will discuss AI. ‘Track Two’ talks are already buzzing",
-      "summary": "When Trump and Xi meet they will discuss AI. ‘Track Two’ talks are already buzzing NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3g2bVNKWVNiOGNxemRhSW90a3FSWlA0VVg4ZUFBWFF6RURJbHppazlpV0VDcVUxT0FwT1hUVWk3djBkQm9NZFBtZXUxZ19uaWZGZW13ZGxKY2pfTDZPM1hqR0w2XzVNSEZ5VFNTNnVzMkI0V2NlRkFieU9sLUlNdU9Sa1FvazA?oc=5",
-      "published": "2026-09-18T19:14:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Syrian regime planned American journalist's kidnapping for weeks",
-      "summary": "Syrian regime planned American journalist's kidnapping for weeks NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWFNVENkVFRhOXRjazlja2pGMDBXN05JVzRIbkxDNjEtNTZhZmdEaEZvVG96VG82YjhmUjAyRmJVbnhlZG4temhiNkE2REFjb0lIT25VLV9VMzdLSDJaMHJLSVp0TTE5cmlBaWF2dnE3RGF5R0l3T3p2ajFDbkpReG8zZnBlN2IwXzJIb19Zaw?oc=5",
-      "published": "2026-09-18T19:13:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Iran war has cost $45.1 billion, Pentagon tells Congress",
-      "summary": "Iran war has cost $45.1 billion, Pentagon tells Congress CNN",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZaUhUR085MmNxOEZoRU95SGhGd2JPbE1QZTFLbXlGUTd3eFhaWFBjVmdpR1BCV3JVV3Q5blNMSm53bHdKRVdBcHhDamZ4Nzc0SlNGSThSekI3aWhDTVg0TFV0eDNCN0U?oc=5",
-      "published": "2026-09-18T19:06:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
-      "source_feed": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Twins conjoined at the head are separated in 25-hour surgery at St. Louis hospital",
-      "summary": "Twins conjoined at the head are separated in 25-hour surgery at St. Louis hospital CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ManIxd2ZkX245bUJyVFJpbzREazFGU3ZrcTExTjYyUDMyNVlzeUFxYnlGZVAzdGVlX2hqZjBrckN6eDFVX2xnU3EwZlEyVWlaWUs4ZWtLTDRRUHRFRXlDbEdxa0pWclhZX3hmd3NnanlEZWVxSmd2dHRKSHE?oc=5",
-      "published": "2026-09-18T16:32:00+00:00",
+      "title": "Video shows mountain lion in San Francisco's Outer Sunset District bolting away before being captured",
+      "summary": "Video shows mountain lion in San Francisco's Outer Sunset District bolting away before being captured CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlRrSWRieXFoMkpORVJlNXZ0S0F6WVBQVmdzWFQ5UW14Y3JVSGZvUFVPd1lXekVTelBTNW5SeXV6OG1uVHlwb3JSQkZ5dlZVQ0d1eU9ERUxsSmNmMGhLNUExMHNOdUkyVGR2dDlkN05aZHo2dFlKNVJ2OVp3THdZME50cS1RUTRTNDdLdHUxeXJGcUJHYU13QXBTcU43a1E?oc=5",
+      "published": "2026-09-18T17:18:00+00:00",
       "beats": [
-        "Politics"
+        "Schools",
+        "LGBTQ+"
       ]
     },
     {
@@ -168,22 +182,22 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | How Flock Cameras Became the Enemy",
-      "summary": "Opinion | How Flock Cameras Became the Enemy The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8telRxMk5vV0MtQU5IMWNDVXU3RXFFeVlkQWNxT2pTWUxjdThMaktIdzZGSHVJYnJoLThFN252OHl1ajdONW1qZlVFNEpveU42dmlvMHhqaW5BWjNmVDlZcmoyUzF0RGJHMmRfX3dmd3VybjZjQlRwNndnLUY?oc=5",
-      "published": "2026-09-18T15:00:06+00:00",
+      "title": "New Species of Cat Discovered for First Time in a Century",
+      "summary": "New Species of Cat Discovered for First Time in a Century The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUk4Q19sV3pPOHp6RDVlYWF2UG4ydG9RY3RRRU5wZkVoZWxaSEFQXzdvOEg1US1yMnhwSk9Vck9aRzFLS3Q4ZlcwRk95M0VRVGotTVlneFlBWm1MX0RiM192ODNUMFUzQm5ZaGlXdkFoZHZJYWQ0eVVLVHJCcEVZdlNQTmpNUQ?oc=5",
+      "published": "2026-09-18T15:17:42+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Russians vote in a Kremlin-controlled election stalked by unease over Putin’s Ukraine war",
-      "summary": "Russians vote in a Kremlin-controlled election stalked by unease over Putin’s Ukraine war NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjFmN1BVbW9Xa1V6Q3RvUEZFMjFvY0NoS1dBNTFPTWNXZ1RLLU9Qazc1UEVuTmcwdDkwVTZYRGZWTE54VDVfRzV5aUJwb2NxSkRoeXRBbUloWC02Y25BVHpfVlFVNlhoNG56NDhidTZXdENmYnpySWtfUVk1V29YYU9FVG4yTE93azI5TlI1NEFtYkJCc3BVeVZQb0NvbkVhWkRVU0hQVGlHNlJMbnR6QTRJZEd3WmtQSEE?oc=5",
-      "published": "2026-09-18T14:51:54+00:00",
+      "title": "Opinion | Why People Are Sabotaging Flock Surveillance Cameras",
+      "summary": "Opinion | Why People Are Sabotaging Flock Surveillance Cameras The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8telRxMk5vV0MtQU5IMWNDVXU3RXFFeVlkQWNxT2pTWUxjdThMaktIdzZGSHVJYnJoLThFN252OHl1ajdONW1qZlVFNEpveU42dmlvMHhqaW5BWjNmVDlZcmoyUzF0RGJHMmRfX3dmd3VybjZjQlRwNndnLUY?oc=5",
+      "published": "2026-09-18T15:00:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -196,18 +210,6 @@
       "summary": "Opinion | What I Found Out About Organ Donation Shocked Me The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxFYWUwaEhvQ1AzUl8wS3RuUFR4QUlZRWltMGZDTjVWZzJ0eWxqOW9zYmRmanJfcmNQd1U2SGJZTmVnNk96MlR0c3hFbjZVanhKUmFWTUlZRDJQWmI4NXNYQUVNTTFpODhtWEhtZEZMelc0NzFoMnlkNWhob01pMTBDcjl1SnBKSHc?oc=5",
       "published": "2026-09-18T09:00:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "The New York Times News Quiz, September 18, 2026",
-      "summary": "The New York Times News Quiz, September 18, 2026 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EVVFXZllpSld5VTF0Z1laSmRUZ2ltWF93a0dhSm5fME9DZjI3ZlFLY2JfeFl3VHBqZ0ZjRzFubkRtay1YVnhSV2U5UEdEZmpKTEpkZnVtRElzSXVOcGRpMXpJd2U1YzB4ak1uaFFlenFOZTFNUlFzczlB?oc=5",
-      "published": "2026-09-18T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -304,34 +306,10 @@
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone",
-      "summary": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWlphSkg2LXJmd0lfbXJBY3JjbkVKVENvcUxnT3FRVWVXTEpaX3ZmcTFwdmZVN1UyR1hoRF9qTklzSVBLOE1STU0wTmduVG9IdU9RbU1KWm9raWkwN1dFLW4xUVl2cjI5VlBzcndfSDVaTkVsTEtxYWJ5ZFJNSjFiSjBaMFluRXplaWFDVTM4aHZqRXVrU0RvbDlYb293QXJMWUIyRW90MkdkbVJHWnFfSEVQaVlYRFdCUUFyMHZ3RQ?oc=5",
-      "published": "2026-09-17T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Who’s a gay public figure that’s disappointed you?",
-      "summary": "Who’s a gay public figure that’s disappointed you? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWRkNW1NYmkxd01mSkxOUjYtaGdWRVo0QnlTTkQta3M4UlM2OHZaRERCdUFJTVV6Z2NUR2lNdkptS25QTVIwTlhWams3ODVUMmpDMHZkS2N1cFl1Mjc0WjFTMnhteWV3eE0zNk9LY1FKa1ozQ2kxdWxEeHNjRDRJeE9fak95UXBf?oc=5",
-      "published": "2026-09-17T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Is Donald Trump getting ready to demolish the Kennedy Center?",
-      "summary": "Is Donald Trump getting ready to demolish the Kennedy Center? Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQzhpZnN5T0pWQ3ZOaFpLV3VwSE9oYnA4NDRnTzFWR1lEa1Z5OExxOWNvYUZaYms3MDlhNGlISks5THIyc3RaS3BreVdza2VnamVIRE9LZF94NndxRzRYUTg3MDgtZWg2MG9RRzZJYVI?oc=5",
-      "published": "2026-09-17T18:25:04+00:00",
+      "title": "Republicans are using transphobia to try to win Spanish-speaking voters in Texas",
+      "summary": "Republicans are using transphobia to try to win Spanish-speaking voters in Texas LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWFiTHJQcHRZNm1Ud3NnWkM5T2FpdmhJXzh1UlVlZ29aM2tfRUUxaHBHQlVfNlJ0VFJqOTZsWHpQYTVISXNaWXpWYTB2R3RMdEQyOW1QREJWM2t6Vmp0OWhSOG1IRDZjVHdYSXpQbjlsVmo0QU9WWjN5UmtGMU1kM2xjWldObk9CeTBtYzJiQ3dSQ3dHdXN5UGV0bjA1SEVFOUlTX3NYTldvZEROdkVmM2IyTlZ6ZEZS?oc=5",
+      "published": "2026-09-17T18:30:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -373,6 +351,18 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "DTF St. Louis IRL? Women open up about having queer husbands & it’s a doozy",
+      "summary": "DTF St. Louis IRL? Women open up about having queer husbands & it’s a doozy Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0hVMG95NmhsbU1rWm5zOHNQS3hnUkJEdDgtVXdyLU1xcUs2WXlEVDNUTVhrcXBWQjRlLW5XZWdRMkhWZXluM0o1TTlxa3VBUnVFQWFnZlZ3em9IX3gxZnJjbHhlRDJQWXFLaXM2TFhqOGM3WUNOODNTaFkyZS1OeFFiWEhIaGlSdm1mYzZXY01tVUVVeVhwenlHSVBwd0NCVExJQjE5RQ?oc=5",
+      "published": "2026-09-17T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -380,6 +370,18 @@
       "summary": "Canada's Mark Carney and the EU shrug off Trump's threats, looking to forge an \"Alliance for the Future\" CBS News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGlHWjFxajhoWjV2V1AxdHZoQ25Ucm1PWWJyT3pGdGhDVzZwaG5RSHVNanJSNTJyb2RIU1NJenVmQXVTZ2JUZ0F1M3Q5MUktQnBlQzUwUk9NVUdTd19ueV9ZNmxnOHgyQ2Q2cEpQcEFYSUN1VkpvdUEtLWFJOHpqTld1Z01RdjFWLUlCSDVJRFoxTktoU0JF?oc=5",
       "published": "2026-09-17T16:54:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "New wild cat species is identified for first time in 100 years, researchers say",
+      "summary": "New wild cat species is identified for first time in 100 years, researchers say NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFlkLXZqSi15N3hrSGNPVmlPX0R6OUJmakdoWEM2bnBHX3B3VmhkT1czLXNGSHFTRk1uYmw0dFJyYWw0RTV2aUhPT1BMY3d4UG40OFFucFZGYmVGNC1SRmtqaTNwQUl2TUktb0t5UE5jZXg5RDVUbzRLN1dmTExGNUxad1k3NlJZYnJ4R3JLZw?oc=5",
+      "published": "2026-09-17T15:01:52+00:00",
       "beats": [
         "Politics"
       ]
