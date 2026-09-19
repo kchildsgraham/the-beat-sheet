@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T20:11:40.309713+00:00",
+  "updated_at": "2026-09-19T22:24:43.635374+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,23 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The new lines of southern Lebanon : The Picture Show",
+      "summary": "The new lines of southern Lebanon : The Picture Show NPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUM5TUxSSlJRWkhmWDQ1R2lDczU2Y2s4NERwRldQZDVwMXFjOXcxNGMtT2p2OVZyWnJEY25XVzFBdzZDeUFuN1N0TDViXzhMeVo5VUNvTjcxS1JBY3R5MEFTVGdoWVJsMjF5RlhXTzBPdE1ua3FERHdWc19JQXh4NVFjQUFBb3VRWGh0VEdNS0dnRHRhalozb0dwc0xYa0Iwano1cQ?oc=5",
+      "published": "2026-09-19T19:00:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
       "title": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development",
-      "summary": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development cnn.com",
+      "summary": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development CNN",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5",
       "published": "2026-09-19T17:52:06+00:00",
       "beats": [
@@ -48,21 +60,9 @@
       "source_feed": "CNN",
       "lane": "General",
       "title": "The September 11 cancer wave ahead",
-      "summary": "The September 11 cancer wave ahead cnn.com",
+      "summary": "The September 11 cancer wave ahead CNN",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5",
       "published": "2026-09-19T16:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump bans CNN from the White House: Smerconish weighs in",
-      "summary": "Trump bans CNN from the White House: Smerconish weighs in cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3lwdVpfZk5FaUcxS2pTbHJhdjRFNk1KenpzYkVnSTNCaTBnY2lOaHBSNGdZUWFqT25fT185V3pBcXNuOV9Da2thejVjUENJOFlQYWVRV2FfcFdmWEtKV19IVERPaExHZEZ5Q2E3c3NfR3BkNF9GYnR6TFUweXVic0pCa2xQWWRLNnQ4dEJNNndIYjlPUjJIR2JCV0E?oc=5",
-      "published": "2026-09-19T15:33:14+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,6 +80,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CNN reporter's press pass seized at White House",
+      "summary": "CNN reporter's press pass seized at White House CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbS0tSUtqUnhobWdpSVYtSzRmbERTRFozMTd0WldVVkw5MFVZM1pkMGg2MXNGcmJPT1dfTFV3cDBCQkNLcF93TkgwV1JtNTcwQ2pLRHMxekVXNlBSeTBIc3pZQ0R3dUZ3TFZmOEF0UFFURHk5dzBJTGlpQ0NGU0ZWS1gySVJjYnFtOXZGOA?oc=5",
+      "published": "2026-09-19T15:00:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -87,18 +99,6 @@
       "summary": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban CNBC",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJZXgwbm1PTWw0Vl9TMmRDYjBtMFZLa2trN080ZUlEakhvcTZ3TGRqbkJyNWhaMGR0VVU1SXY1S1BXSDFlM1kxTnhHbldYbFFucW5QbWNaMjBpVl9GOWlTU1lwQjFZdHB4cmc40gFwQVVfeXFMUHQ2OFNDUlYxZVpPUUltZ3hoYXZWcVhnSFFnMjFmQmRZSVR2TWs5STBXdU1aMjhxRnBHZXNtSU1KcC15OTRaNkFQWHdOVUQ4NVdfN3o3ZVRBNjB1elc3OVhSa0szN1ZSQWVNMnd4NnNCdQ?oc=5",
       "published": "2026-09-19T13:02:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Trump says he’s banning CNN, MS NOW and Politico from the White House",
-      "summary": "Trump says he’s banning CNN, MS NOW and Politico from the White House NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORnNreDlBeldEa0RtRE9GTFV2SUdBZXg4Sk5mTjVEbW8tMWVjeUV1SEtZcTBuVG01azY0eWEzQ2ZkTTU5X0kwWEZyN3RWak9yaEtfTTdXR2JXS1RJM0NkeXMwOTd4OG80a3RJRHNwT2ZxczdRMHV1eUdzQVFYMkRZcUVyeHAzNVlwbl9fQnNScjZaS3lrWmNz?oc=5",
-      "published": "2026-09-19T12:22:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,13 +116,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Here are 8 movies we loved at the Toronto International Film Festival",
-      "summary": "Here are 8 movies we loved at the Toronto International Film Festival NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTVSLVV0dXVxZWFWczl0ZnNvMTlYcWE2V0s0cDdLT05mdEVvUHRQeFJWbWZaSk82OWsyN0dUVFg2dkJjM21yRGwtNjZXeG9ZdVdUc2dhdmxJSy0wSFdCaTN6dzl3VllxZDJHcjN1MDFEenNnUl9HQUd1M2dWS2lzdzZybkpyY2dHcURjWWx5LXNOVVNRWjdF?oc=5",
-      "published": "2026-09-19T11:00:00+00:00",
+      "title": "Opinion | A.I. Is a Threat, but Not in the Way You Think",
+      "summary": "Opinion | A.I. Is a Threat, but Not in the Way You Think The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRzJ0NUZMSVM3aTNJOTZObmJCWE9pLTFRVjRySFRsNVdueVlwTk9MX2VoRUVxY0FoWXZiRVU0MnhjT0pSNmRpeFl6eEhDcHJHVFVHT01zZ3dzNGZFZUtJbkhISUN1Vk9pcXVYdnppc0ZLQnAzZ1ppcVd1ZEZ5LXpha05RaXdWUQ?oc=5",
+      "published": "2026-09-19T11:00:33+00:00",
       "beats": [
         "Politics"
       ]
@@ -164,6 +164,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Watch: Pentagon releases 15 new UFO videos",
+      "summary": "Watch: Pentagon releases 15 new UFO videos CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aRm9kY2p0MFRBVmhYZVdYMlFWLVF3eWYxTWZ5RFBOZ0ZpWTEyUGVnSkhPVm5BWUM5T1BvSHcxMUlvWlp5ZF9icU9hSTRSd2dRV2c3TFdjQ2FkdmV6TW1ISGFLWTBEd3dCal9jem9KVFQtUTk4LXZ5STRHVUs?oc=5",
+      "published": "2026-09-18T22:22:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -177,30 +189,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "New Species of Cat Discovered for First Time in a Century",
-      "summary": "New Species of Cat Discovered for First Time in a Century The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUk4Q19sV3pPOHp6RDVlYWF2UG4ydG9RY3RRRU5wZkVoZWxaSEFQXzdvOEg1US1yMnhwSk9Vck9aRzFLS3Q4ZlcwRk95M0VRVGotTVlneFlBWm1MX0RiM192ODNUMFUzQm5ZaGlXdkFoZHZJYWQ0eVVLVHJCcEVZdlNQTmpNUQ?oc=5",
-      "published": "2026-09-18T21:40:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico",
-      "summary": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeldVY1Y1dWUxWXFkZVJweTlhQXp4bEJ0T2x6X09MZTlxaWZOMHNqdTBZbmd2MnBfTlN2VHpTZzFWT2V3UGFHZXo5ZjdTWkRFUzlHWW1kc3U0X19GR0hBOXZkOTJhSlgzV1I3a0dkaTl5bVpnM2NBN1ZGNWh2MHJ6dFJnQTlsR0tERmVaZ2UyRzFQNWZMUlJEOEZvMEk?oc=5",
-      "published": "2026-09-18T21:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -210,6 +198,30 @@
       "published": "2026-09-18T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Trump’s Education Funding Maneuvers Were Illegal, Judges Rule",
+      "summary": "Trump’s Education Funding Maneuvers Were Illegal, Judges Rule Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaU9IZ0N2NHlWR0k4Rmk2UUkyLUNLRGNta1lBd3hXcVJ6V0d3cEYybW83UGtxMEo1M1pRRVR4djg3VlZyZnBrcGZpN0J5M1l2MUdmX0lDRFBEN0Y4Q3pxNUxuc1RPVzV4QzdEOFZnSkZvUHNlbmhaRkVzZWVVM2RBLUlSR1A0QmFKUmZ0YVBNcXBSbjJSU0VHNzZzVU5TZkpGSDlQZVZlc0RKZw?oc=5",
+      "published": "2026-09-18T20:40:06+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Nearly 400 pre-trial detainees to be transferred from private prison in Georgia in move critics call \"a catastrophe\"",
+      "summary": "Nearly 400 pre-trial detainees to be transferred from private prison in Georgia in move critics call \"a catastrophe\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM25CY3I5VE1rY2ljdEtvcGkwWlQxZmxyWWtWcW5ycjZ6V1F0Z2Z5amc2MHJTQnJIRjB1NVBzVjI3WVQ3Z2JSVnVPaGF4UUpYUll0R3haV0VmSkhXTlZNNXdDS25ZR2VzMG83SHc3S21INExqbk1yZWNHMTVDaWdOdWhIOTF3QQ?oc=5",
+      "published": "2026-09-18T19:53:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -263,6 +275,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Oregon man accused of killing five Portland-area women faces new charge in sixth death",
+      "summary": "Oregon man accused of killing five Portland-area women faces new charge in sixth death NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTREZzdXc1NNVW9pWWthMmM5Y2lFUm82S1FiT0kwZURrS09qS0U0ZjIxV0xJSG5NX3VxdG5LLXZqZkVzb1BWd3RiVGtJYzZNWS02eXhFVUJtMjNKdDBLTGN0RkdqYzRDbUxrcU8xX1BVTHYxUV9zQkhBeXF6dWdGMk1pNUNuQk5fYVJCVWNLTDJCT2lOVC0tRG5PTW56cXdBbW5pOGM3b0R6U1JCN19nTU9hcTA5VXNF?oc=5",
+      "published": "2026-09-18T16:41:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -273,6 +297,18 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "New Species of Cat Discovered for First Time in a Century",
+      "summary": "New Species of Cat Discovered for First Time in a Century The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUk4Q19sV3pPOHp6RDVlYWF2UG4ydG9RY3RRRU5wZkVoZWxaSEFQXzdvOEg1US1yMnhwSk9Vck9aRzFLS3Q4ZlcwRk95M0VRVGotTVlneFlBWm1MX0RiM192ODNUMFUzQm5ZaGlXdkFoZHZJYWQ0eVVLVHJCcEVZdlNQTmpNUQ?oc=5",
+      "published": "2026-09-18T15:17:42+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -303,34 +339,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Why Christian Bale Built a Foster Village in the California Desert",
-      "summary": "Why Christian Bale Built a Foster Village in the California Desert The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWNPb3g2ekxDVmdXNS1xdmJmVmFMOXRwU3NBUVA5dWF3aUNSMVZLRjZlalhsLWpBNll3czJ5clNQay1MLWpGYTZiZVRVWUtySkd1SzFObGdfcWR2U1RaNzJXMUppTXNJVERVUGVGa3RwYkVkenRUcEEza0syaVFQeV9qcmN4bmtUTE42b3NKcVdGQWpvUDYyR25fRXpvSmpHQlE?oc=5",
-      "published": "2026-09-18T09:04:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Opinion | What I Found Out About Organ Donation Shocked Me",
       "summary": "Opinion | What I Found Out About Organ Donation Shocked Me The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxFYWUwaEhvQ1AzUl8wS3RuUFR4QUlZRWltMGZDTjVWZzJ0eWxqOW9zYmRmanJfcmNQd1U2SGJZTmVnNk96MlR0c3hFbjZVanhKUmFWTUlZRDJQWmI4NXNYQUVNTTFpODhtWEhtZEZMelc0NzFoMnlkNWhob01pMTBDcjl1SnBKSHc?oc=5",
       "published": "2026-09-18T09:00:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "A Crystal Lake medical office is full of unopened mail, but no employees. What is going on?",
-      "summary": "A Crystal Lake medical office is full of unopened mail, but no employees. What is going on? CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXgyRFFnRDZwa1pTNFR1YXNVMHM4anljbVNuTC1ZYWluMVNNRXZKVG1SNVBEYV9Xa3dFLXEzRnQyS2g4Vm9zTDF4YVVidnc4ZFgzZENVYTBVWkl6aXRCSDhHZHJQVHNmcmFjNXFrZzV1aGJCVUVxR2Jra1dsN2ZBVFZiVE1ObWc2YkE?oc=5",
-      "published": "2026-09-18T03:28:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -350,6 +362,18 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How the Superintendency Is Changing, in 5 Charts",
+      "summary": "How the Superintendency Is Changing, in 5 Charts Education Week",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMWVENjhMUXlaaWJCNWtYZjNxMlFZMXdkVEswWFRMRWthckdiRUEyZzdhWFNNa3dJN1VNMjdpRmRaaFNvbXMyRkF2S25yNVNidkU0Tl8tU2JxYjhaSlRoXzdlOTU1OVFvX0ZmYkxlWklBNGtqTXFESTh0OWhQSnhJS1BZSkxncjV2NFpWaXJWWFpNZWM?oc=5",
+      "published": "2026-09-18T02:38:55+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -359,31 +383,6 @@
       "published": "2026-09-17T21:52:13+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Federal ‘Science of Reading’ Legislation Passes the House",
-      "summary": "Federal ‘Science of Reading’ Legislation Passes the House Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREU4Y0ZfZWVZdm1qd3R4NTZHZGY3MUp2ekxYSlFpNTJNU0Fwc2FjalRoU1ZmLTlCempIT3Y5aUxhX2lDZUFDWWlIRDIwdUJHWWZicXA0LTBaMUk5bEd4MlZ0dFFiRE4tN29vYmN3YWJlQmpkSEhydEUxNHJQNlFxbGJ3TWhZajBWWFRndGRBNHFhaWZfQnAwV0NJeVhoUnAzZ25aUUhEWQ?oc=5",
-      "published": "2026-09-17T21:29:05+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone",
-      "summary": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWlphSkg2LXJmd0lfbXJBY3JjbkVKVENvcUxnT3FRVWVXTEpaX3ZmcTFwdmZVN1UyR1hoRF9qTklzSVBLOE1STU0wTmduVG9IdU9RbU1KWm9raWkwN1dFLW4xUVl2cjI5VlBzcndfSDVaTkVsTEtxYWJ5ZFJNSjFiSjBaMFluRXplaWFDVTM4aHZqRXVrU0RvbDlYb293QXJMWUIyRW90MkdkbVJHWnFfSEVQaVlYRFdCUUFyMHZ3RQ?oc=5",
-      "published": "2026-09-17T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
