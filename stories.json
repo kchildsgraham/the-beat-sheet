@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-19T17:51:06.117145+00:00",
+  "updated_at": "2026-09-19T20:11:40.309713+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,374 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development",
+      "summary": "Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5",
+      "published": "2026-09-19T17:52:06+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "summary": "Higher interest rates and AI safety fears put the stock market to the test last week CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZER3dGN0cmxoX1RqbnBKQnZRT2Y0TkV0N01ubkZGemVLM1FtY1c4SmVCTllxaWtMaTRVbW9rUXpHZmxPMjFsVHRBaFF4eGFKSGkwVk5hSDZaREgyRjZTTl93a2JaUjBtbWgzMHByYzRsY2tPcjZCR2JUVElkZGVndk56azh2MGV1NFMxSHdXUU9jX1FsU05NME95ME9iWjBXczZ0TGh4bGpzRzFSbDN2WmVYZWZRaXFQTXVDeHRB?oc=5",
+      "published": "2026-09-19T16:03:09+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The September 11 cancer wave ahead",
+      "summary": "The September 11 cancer wave ahead cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5",
+      "published": "2026-09-19T16:00:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump bans CNN from the White House: Smerconish weighs in",
+      "summary": "Trump bans CNN from the White House: Smerconish weighs in cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3lwdVpfZk5FaUcxS2pTbHJhdjRFNk1KenpzYkVnSTNCaTBnY2lOaHBSNGdZUWFqT25fT185V3pBcXNuOV9Da2thejVjUENJOFlQYWVRV2FfcFdmWEtKV19IVERPaExHZEZ5Q2E3c3NfR3BkNF9GYnR6TFUweXVic0pCa2xQWWRLNnQ4dEJNNndIYjlPUjJIR2JCV0E?oc=5",
+      "published": "2026-09-19T15:33:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "summary": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeEVXa1ROejI2NDJ4cjdNYWNlMDZpSFVCQ29DWkZuTk5VdkN3SWJfMnN4Unpoa005NnJyMF9jVDY0MWtZcWRBWGxrUE85eXBIQjF5ZnhWOVMxTlJoN05xX2pvckFQel8zanQzV0JHNy14YXF5SDVNOC1XN0E2Zw?oc=5",
+      "published": "2026-09-19T15:26:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+      "summary": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban CNBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJZXgwbm1PTWw0Vl9TMmRDYjBtMFZLa2trN080ZUlEakhvcTZ3TGRqbkJyNWhaMGR0VVU1SXY1S1BXSDFlM1kxTnhHbldYbFFucW5QbWNaMjBpVl9GOWlTU1lwQjFZdHB4cmc40gFwQVVfeXFMUHQ2OFNDUlYxZVpPUUltZ3hoYXZWcVhnSFFnMjFmQmRZSVR2TWs5STBXdU1aMjhxRnBHZXNtSU1KcC15OTRaNkFQWHdOVUQ4NVdfN3o3ZVRBNjB1elc3OVhSa0szN1ZSQWVNMnd4NnNCdQ?oc=5",
+      "published": "2026-09-19T13:02:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump says he’s banning CNN, MS NOW and Politico from the White House",
+      "summary": "Trump says he’s banning CNN, MS NOW and Politico from the White House NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORnNreDlBeldEa0RtRE9GTFV2SUdBZXg4Sk5mTjVEbW8tMWVjeUV1SEtZcTBuVG01azY0eWEzQ2ZkTTU5X0kwWEZyN3RWak9yaEtfTTdXR2JXS1RJM0NkeXMwOTd4OG80a3RJRHNwT2ZxczdRMHV1eUdzQVFYMkRZcUVyeHAzNVlwbl9fQnNScjZaS3lrWmNz?oc=5",
+      "published": "2026-09-19T12:22:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
+      "summary": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWtuWFlmVHNhbkNNM1pjSnJHU3BTcENKTS1qUVpCS2VSd1NkU0lpblI1aEY3Zzg2UWxwQUhMM0NvaWlYX2ZIaEtsYUgzaGFOZFJsRjBPVUpiSnZGVjU0MnlwUTktaUlsSEtUOFU4TE5sSG16QmdFZllhU3JwMVZUQVZqTG1VUG1uVndyVzNERk4?oc=5",
+      "published": "2026-09-19T11:21:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Here are 8 movies we loved at the Toronto International Film Festival",
+      "summary": "Here are 8 movies we loved at the Toronto International Film Festival NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTVSLVV0dXVxZWFWczl0ZnNvMTlYcWE2V0s0cDdLT05mdEVvUHRQeFJWbWZaSk82OWsyN0dUVFg2dkJjM21yRGwtNjZXeG9ZdVdUc2dhdmxJSy0wSFdCaTN6dzl3VllxZDJHcjN1MDFEenNnUl9HQUd1M2dWS2lzdzZybkpyY2dHcURjWWx5LXNOVVNRWjdF?oc=5",
+      "published": "2026-09-19T11:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say",
+      "summary": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzlJVXZCRzducU44bDdzWjJLWnV4RmtwQkpmNE41cEkwVGtLVDNOSkNYcUIxU1hzd19oZEZ4VzA0WUlaOGFWMklEbWxua2haNkZpMS1Pa3kzd0x2cEZ0Ykw4V0lIQnRnNDV2NDJlak5seUs5WGdLdUtsaVlFVENVejI5NU84OUFFWmdFN3BfQmRxRk1lbE43TUd0SFJ5WGh2Q19PcndzaFNuZE1HbmfSAbMBQVVfeXFMTkhhb2tXd2hUdWowZ3ItY0I3cVNKRElpam5VVGQ0WTZ0QkFpM0cybE9IOUJKOU1VeTJEOHVZQ1VBRHplV2V5UnNvck04c2FPRXZVbjhSbF9mM29VRHFEemVaLW1hbHc1OFhMcnJ1a09xVE1ZREZTUHJITTJWWno1SjZMby1mWTBIY05Zdmt0cm5QXzBpWTJkREJ0U3c4QVZtYi1mMVlhd2ZFM2ZUUW5zaXZVZ0k?oc=5",
+      "published": "2026-09-19T10:29:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh",
+      "summary": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHc1LXQ3eTF2MmNnSjQ3akxBV0RNcEItazZQdFloOTRRSmpoT05JNmpZTVp0dl9tSTRaZjVMUWNWRmgtOUlRSnc5ZkVoOTNSYXVJZURVU0RiWXBCODZ6VFRIQmVMV183NlZjeWI2ZXUzeHlWYlFrT0x2bDc5a3NTcTJuLThPVzh2N18yYmxR?oc=5",
+      "published": "2026-09-19T02:54:14+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "An old drug is causing brand new problems in the gay party scene",
+      "summary": "An old drug is causing brand new problems in the gay party scene Queerty",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEhFT2pMRmpDWEVueExkSG85YWg5X1lQQUVSS1dUQ1c2R0liaG55M2kwT1Jyem0ybTBzYlJCd1dYV3JFVDZMVGhwbFQ2ZmhsVjZIS3ZLZ3lURHlmV2hZa3NyeDZMekpaVzZic3h5OU1wQXJwcUk2YTV4bTFhc0FYSmNxY1Y3VHh2azlFc09wX0M0bTcwM3FJak9EbU5FRFE?oc=5",
+      "published": "2026-09-18T23:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "President Donald Trump bans CNN, MS Now, and Politico from White House",
+      "summary": "President Donald Trump bans CNN, MS Now, and Politico from White House Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ON1pLVDZ1YnRsT1Fvc3VPUjZWSVlEWi0zRjQtMElNNEdUOWY5a1V1Nk1uajVjV2NqVlBydThYdXBQellhRzRDZjNaRkxHOE5sUXNOLWM4NUVWRXNYWU9uSzhYWk11czFfNm5ObzN4OA?oc=5",
+      "published": "2026-09-18T21:51:20+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "New Species of Cat Discovered for First Time in a Century",
+      "summary": "New Species of Cat Discovered for First Time in a Century The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUk4Q19sV3pPOHp6RDVlYWF2UG4ydG9RY3RRRU5wZkVoZWxaSEFQXzdvOEg1US1yMnhwSk9Vck9aRzFLS3Q4ZlcwRk95M0VRVGotTVlneFlBWm1MX0RiM192ODNUMFUzQm5ZaGlXdkFoZHZJYWQ0eVVLVHJCcEVZdlNQTmpNUQ?oc=5",
+      "published": "2026-09-18T21:40:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico",
+      "summary": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeldVY1Y1dWUxWXFkZVJweTlhQXp4bEJ0T2x6X09MZTlxaWZOMHNqdTBZbmd2MnBfTlN2VHpTZzFWT2V3UGFHZXo5ZjdTWkRFUzlHWW1kc3U0X19GR0hBOXZkOTJhSlgzV1I3a0dkaTl5bVpnM2NBN1ZGNWh2MHJ6dFJnQTlsR0tERmVaZ2UyRzFQNWZMUlJEOEZvMEk?oc=5",
+      "published": "2026-09-18T21:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Jon Ossoff destroys Tr*mp & Don Jr. over oligarch-funded wedding scandal",
+      "summary": "Jon Ossoff destroys Tr*mp & Don Jr. over oligarch-funded wedding scandal Queerty",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFJyMWxadWlQRktGM3F2OFYwN3VsY0VHek85eS1oNWN3NmxxMjhPeThlelNpU0tJN2l4SzdoWER4cDZ0NDZIUHExeXVUU080d1V1S0ZlU0doYWNqU3FqTGVtX3dLcFVEQkthM1lFUDlBc1BFZWhpN0xzNFZVUEN5UGJZcjF5N2J2aGpJTmlFa0Zna0otWTZJVTln?oc=5",
+      "published": "2026-09-18T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds",
+      "summary": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVY4MnFLcjZ3T2R5LVNvTW56R0RXamlWZTB6TEY0b0VfcURmUk1qeTJLYjFXZF9xSWQwbG0ySkdTX1dlQm5NM0I3a0pPSnFwNFk3U0NZb0VpNEFDMDVhMlBtdVY2cEpIMHU3N09GWUtNSkdISGMxQjNoY0NrUmpXUndiZV9DMHlHTGZWMW1Tb1VRejl1X3F5NTN5aEJUTTB4aXc?oc=5",
+      "published": "2026-09-18T18:34:17+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Federal court rules Oregon can place trans women in men’s prisons",
+      "summary": "Federal court rules Oregon can place trans women in men’s prisons Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdEtIT1gzYUVITnEtUmI5WUNuZlJ3MmRIWGlVMFRLaTMtY0xUTklqOWNBdEZHZ0hKMnpuZTU2ZmI2V1pHYk04dFdQeWcwOHFkNmwxTWoyYTF3Rl9jQV9rdkFXZlZ2RkZESDJUQlgzOWpKSzBfUnc?oc=5",
+      "published": "2026-09-18T18:05:04+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Mister Kansas proves true masculinity means speaking up for LGBTQ+ rights (and rocking a speedo)",
+      "summary": "Mister Kansas proves true masculinity means speaking up for LGBTQ+ rights (and rocking a speedo) Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUdSYklqT2lQNDFyR1R5dW1EdTJHRFcyXzUwTmhBWkVCMDYzTDYzYjdUQXdIRWhrNEZOVXhzSDFKVk5zaXVfM0NNXzRFY1NzQVVRSzBrZDctb1luSzI4WWRDXzZhdjFzWmwybGxIQzZxdkdwSWlMMVZ1Mi01SThWQzZ4SVBWYXV2N243a0k4bks5VzZWUHc1Y1kyVGRKenRpV21lMWR3YzFHS1kySVBEWFhla1dUNHFMalRTODVSUThmX2cxLXc?oc=5",
+      "published": "2026-09-18T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Video shows mountain lion in San Francisco's Outer Sunset District bolting away before being captured",
+      "summary": "Video shows mountain lion in San Francisco's Outer Sunset District bolting away before being captured CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlRrSWRieXFoMkpORVJlNXZ0S0F6WVBQVmdzWFQ5UW14Y3JVSGZvUFVPd1lXekVTelBTNW5SeXV6OG1uVHlwb3JSQkZ5dlZVQ0d1eU9ERUxsSmNmMGhLNUExMHNOdUkyVGR2dDlkN05aZHo2dFlKNVJ2OVp3THdZME50cS1RUTRTNDdLdHUxeXJGcUJHYU13QXBTcU43a1E?oc=5",
+      "published": "2026-09-18T17:18:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Why turf war over community college bachelor’s degrees remains unresolved despite legislation",
+      "summary": "Why turf war over community college bachelor’s degrees remains unresolved despite legislation EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yd081LVZTZzFPUGZnRnpKTWJsZ2JPcnZycnNQSnZGaHRDZlVVSDVCRmRNc1RUT0ktY1YzMlpCeUVwbE05aHBlbThlSUV6VTd1bzFYN3Z4d1FqekxnZGE5SzJGakVmbjNqbmRiZno5TXdKU1ZNaVHSAX5BVV95cUxNeUs3MG91dGl6VWtBVXhDZjY4QkJaWlRvcFh2LU9BT3VzVEZVRFY3NzE2dG9kSUFzRTZ3dDJ4OVNFNHRSSV92dklKdU00VFpuaGFVVTJWT3RneGJmemJaUXpFWXV1Ym1zRHFfNVdQd0FyMXFGX3FuTWlxX1pWMVE?oc=5",
+      "published": "2026-09-18T15:25:44+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Pentagon releases more UFO files, including documents on secretive military program",
+      "summary": "Pentagon releases more UFO files, including documents on secretive military program CBS News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GenVudndBakoyT05oTDltSnppZTlzM3lKeUJtNE5CVUN1WW5hYkRsLS1hN3FHTm1DNG9hdFJJMkFqSDhzRWNMam91eldxdDBvSzB6NGszeWJOV3hjY2F1aUNueHRzcElFRi1tTGRzZmRFUQ?oc=5",
+      "published": "2026-09-18T15:13:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Toys ‘R’ Us is opening 120 new stores as grownup collectors fuel toy sales",
+      "summary": "Toys ‘R’ Us is opening 120 new stores as grownup collectors fuel toy sales NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenppdUVhNlhlVkpzdHdGa1RVeUdWdVo0Ym5CUzdaTUliWW1WbVBKS0I0SERtWFZweEZQeEZNWXJYT3JNNDJHY2ZTTnRpS2JhNklEa1FHMlY5cmYwOUJ6N2NlUF85dkxyOEdwRF9NR1pYbGQtT0JKQWFlZFl5WGI3UExvNVNEY05hVk0tbVpR?oc=5",
+      "published": "2026-09-18T14:37:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Why Christian Bale Built a Foster Village in the California Desert",
+      "summary": "Why Christian Bale Built a Foster Village in the California Desert The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWNPb3g2ekxDVmdXNS1xdmJmVmFMOXRwU3NBUVA5dWF3aUNSMVZLRjZlalhsLWpBNll3czJ5clNQay1MLWpGYTZiZVRVWUtySkd1SzFObGdfcWR2U1RaNzJXMUppTXNJVERVUGVGa3RwYkVkenRUcEEza0syaVFQeV9qcmN4bmtUTE42b3NKcVdGQWpvUDYyR25fRXpvSmpHQlE?oc=5",
+      "published": "2026-09-18T09:04:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | What I Found Out About Organ Donation Shocked Me",
+      "summary": "Opinion | What I Found Out About Organ Donation Shocked Me The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkxFYWUwaEhvQ1AzUl8wS3RuUFR4QUlZRWltMGZDTjVWZzJ0eWxqOW9zYmRmanJfcmNQd1U2SGJZTmVnNk96MlR0c3hFbjZVanhKUmFWTUlZRDJQWmI4NXNYQUVNTTFpODhtWEhtZEZMelc0NzFoMnlkNWhob01pMTBDcjl1SnBKSHc?oc=5",
+      "published": "2026-09-18T09:00:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "A Crystal Lake medical office is full of unopened mail, but no employees. What is going on?",
+      "summary": "A Crystal Lake medical office is full of unopened mail, but no employees. What is going on? CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXgyRFFnRDZwa1pTNFR1YXNVMHM4anljbVNuTC1ZYWluMVNNRXZKVG1SNVBEYV9Xa3dFLXEzRnQyS2g4Vm9zTDF4YVVidnc4ZFgzZENVYTBVWkl6aXRCSDhHZHJQVHNmcmFjNXFrZzV1aGJCVUVxR2Jra1dsN2ZBVFZiVE1ObWc2YkE?oc=5",
+      "published": "2026-09-18T03:28:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Trump administration investigating Mass. school district accused of assisting child with gender transition",
+      "summary": "Trump administration investigating Mass. school district accused of assisting child with gender transition CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTVlZTHVBSWNMY0pPeHNqblcyWU93a2dzYjVXckdHMlNjZkwyRG5HMVJvTlU0bVNHSGZKZ3FRaUl5LW54b0pIenpfT3l1S1hvVVJaVkpCX2c1Q3ktMFRXUldtd2FBZ2xNZlRZcWh4VGRxRFlaQVRnWnhpeVg1RTBNbXBVcUx4ay0xRXQ4dm9oQVdaeWY3cTBxeXZsRDFzV3N2bjJkdUZMU19BOHJWek9N?oc=5",
+      "published": "2026-09-18T03:18:45+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "A summer of AI bans in schools",
+      "summary": "A summer of AI bans in schools K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LZnJod3hPOWNCNVNldFFiNTJyVVhsRmR1bkk4SWpFbFVZMmQ1VHh6WFlzZFlMRTJYY3BCTFBfUG5MSlZ6dl9mUmV5aEJKblZRV0oxWnBVWVhZM3ZscDdrYmxrN29tTVpqVUlBVDhabTdkTk4zd2c?oc=5",
+      "published": "2026-09-17T21:52:13+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Federal ‘Science of Reading’ Legislation Passes the House",
+      "summary": "Federal ‘Science of Reading’ Legislation Passes the House Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREU4Y0ZfZWVZdm1qd3R4NTZHZGY3MUp2ekxYSlFpNTJNU0Fwc2FjalRoU1ZmLTlCempIT3Y5aUxhX2lDZUFDWWlIRDIwdUJHWWZicXA0LTBaMUk5bEd4MlZ0dFFiRE4tN29vYmN3YWJlQmpkSEhydEUxNHJQNlFxbGJ3TWhZajBWWFRndGRBNHFhaWZfQnAwV0NJeVhoUnAzZ25aUUhEWQ?oc=5",
+      "published": "2026-09-17T21:29:05+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone",
+      "summary": "Archer & pole dance influencer goes viral for explaining how transphobia hurts everyone LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWlphSkg2LXJmd0lfbXJBY3JjbkVKVENvcUxnT3FRVWVXTEpaX3ZmcTFwdmZVN1UyR1hoRF9qTklzSVBLOE1STU0wTmduVG9IdU9RbU1KWm9raWkwN1dFLW4xUVl2cjI5VlBzcndfSDVaTkVsTEtxYWJ5ZFJNSjFiSjBaMFluRXplaWFDVTM4aHZqRXVrU0RvbDlYb293QXJMWUIyRW90MkdkbVJHWnFfSEVQaVlYRFdCUUFyMHZ3RQ?oc=5",
+      "published": "2026-09-17T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    }
+  ]
 }
