@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T09:59:14.393255+00:00",
+  "updated_at": "2026-09-20T14:06:25.873642+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,111 @@
   "errors": [],
   "stories": [
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California Mathematics Project",
+      "summary": "California Mathematics Project EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwck1tSGVqSGJWZU9PMTJZakRSNGtIQTgxNm5FeUVIelJyd1lXZm5GNXBZeFhDTlJXQ1ctWUItZTJKVC1iVGxXVlVhMEc2ZktRcElpOXdCR0lHdHVGN1JLUm1xWnlJdldI?oc=5",
+      "published": "2026-09-20T12:39:55+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump’s sanctions, inflation and a collapsing economy leaves Iran’s sick exposed",
-      "summary": "Trump’s sanctions, inflation and a collapsing economy leaves Iran’s sick exposed CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWTF2bWxTR3dmM3gzVzBvMWlfSGc5cUpOUDZadmc4SWJrWGptNnprMXlRX21qYW9DazJpbXJqOEsyTndrTEQ5ZG9wZlM2RlZ1WVJ2eTVrc0taVVZNLVpsVi1NeTljNWpqYVRjckxuSmVpRElXZ1JLVzBUaGFaaUo4ZFRVTHYtRUcxYUE?oc=5",
-      "published": "2026-09-20T07:39:14+00:00",
+      "title": "Trump says proposed triumphal arch will double as military complex",
+      "summary": "Trump says proposed triumphal arch will double as military complex CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GTHJhQTJ1MlRNVEFEX0ZuQzNCcUVIZDFhOTFISDIzYWVmb3VVNzZqcGhER2l1bC1tVVBJWTdsR3d1X2N1NjFTeWZOSHVfT1c0cHNBQ0oydHRHSUFGYkZmaTEwOG03NVh6VlkwWEw5emQtT0ZBbl85YzNB?oc=5",
+      "published": "2026-09-20T12:10:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "North Korea fires two ballistic missiles off east coast in three hours",
+      "summary": "North Korea fires two ballistic missiles off east coast in three hours CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYeE9rb2FGd1plY0RNUjkzYmZSNkkwWkx5V2VUMFgzWHhjaGd5Z3UzaEY2OGVVNXRxYkRETFZ5YmtzYWtsbkRrVjBMVGZwX05FSDhvSUxGeENqX0pRUUdTZTZLYlB0VEVMN0MtVHJPVDNYR0U?oc=5",
+      "published": "2026-09-20T11:57:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ukraine launches heavy Moscow drone attack as Russia votes",
+      "summary": "Ukraine launches heavy Moscow drone attack as Russia votes CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblpTUndRWEpUcUtqVjM2Y0ZpNWxiTmV3aHFLWEdhRmN6eFdYX01udDhzSEdjYThFa3o5THFmV2xQMzRnNzV6NGpYOTVaN0otQm8xMDBKUnctUzlGdTZLck1GZFE0Q29DSE1MNC1tRU04Uml0dUNRUTAzX25lVS0tcWJSVUd2R3Z0MnUtMmlCZ1lXeGFrSFl2NzFDNNIBoAFBVV95cUxNZkZNamhlODZUTDZMUXNmNWRPQzFjZ0xtbTZzaTlKRGlOdWcybzJyN1psYXhDaUNpeG5nb0R1NzBTYTBlbnFMNUdvd253dnVLMUR0R2FCLWYzQVFaWER5LVM0cDZjMm5jeWhDaWhuR1FZSnlMcVhkTUV6R0MzMWRkZm1vU08wSlhGLVpaRW1pT2NmUUtVa1FOMnFDZThjczFf?oc=5",
+      "published": "2026-09-20T11:07:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Sunday Puzzle: Roadway anagrams",
+      "summary": "Sunday Puzzle: Roadway anagrams NPR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjcVZURDk2LW43eGN5RVFzTzBocGo2SkN2amxVZ2kwZ1doQk5OUndveUZGOTU4UWJBZ2k3MU5WNlRLNEE2aWd4YXNTTVhpQVVpN3FqTjNmemx6Z1BDOEhGQWhpMWMwMU0?oc=5",
+      "published": "2026-09-20T11:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+      "summary": "In New Orleans, an empty building becomes a free store — and roller skating rink NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm5CVW93WE15NzI1NWU3U3h0WkRMejNJSVk5S3dXQ19yWG5PQmhpWlRpS2hGZDk3MHhIQ2prX01UZ1dZLTBob2tLcHluOTJOMmZUZEZPaDBTakRiM0xZZmVsaElQdXpCS2Eya0xsR3lfRXg1WVpPblo0ZldEMmJhZXgyWUdwN2JrbVVCOA?oc=5",
+      "published": "2026-09-20T11:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+      "summary": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3dySGlFT3ljamJRcXZPaHhVcWxDaGpZTDVmU0VVOXprdUhFamhhMjFxWWdDb1BqVnJneE9EMkUxbTdqcE4xMW9EV0tRTzRkRGxMNmNESTJ4b2Nzbm5TeEF0b2hqSVdPXzlxQ3RFUGhRclZLOS1xYlp1VnRzSFRPU0FVSEdrWGRDQ3c?oc=5",
+      "published": "2026-09-20T09:16:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Latino voters, data centers and Republican problems are giving Texas Democrats their highest hopes in 20 years",
+      "summary": "Latino voters, data centers and Republican problems are giving Texas Democrats their highest hopes in 20 years CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOU9CQzY2dmRYS25Ta0NZbDBsa2hGTlc2R1J3dnhwRm53ZHZwRHV4YkhERXpyczNUdVpCdzNEaTF6NjE1bkJTZndZSkVsMEZESTA2WEdWNllJMXR0UzBqMURRVEZFMVhPSWkxVnBhTHRiLVFLbDFYOFd5bDdwUmUtVDZoLTFBc2RPSmVrMTNR?oc=5",
+      "published": "2026-09-20T09:00:29+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy",
+      "summary": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEN3M2N0U0JCX2dkTEVvMWpBbjRuVUpVMzNhSzY4TTJYZGFuaE5wX2RCUjBhYXBYLWJ3RnFrbzhPMm1kTU9WZjRQN0J3UTJiT0lMbXNDM1BGd3VFSUprMjJKWGl5eER0OURuWVFvUzhkNlNmVFRrNklyWnBUZXp0SGxlX3FTcUVHYUZwWVdPb3IzVmRGTWdCRm00b9IBoAFBVV95cUxQQS1FbzRacXpqMXJEci1OVGhjQ3VKQ25jQ3l4RGJnWVNjektBcFFlV3ZJV2FzNGZyM0VtZms3cFJOVHlMY2ZIYm9lenczZ2YwaVR0WlItSjNfLTZYU3liNDlkWW43bkFQZXl0Wi14T3FvTFhzSmotN3ZTOFRodHdPZmpHMXVkcms2R3NNbGlwYS0zdW9GVFRfQlRQM1d2UHh0?oc=5",
+      "published": "2026-09-20T07:52:16+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -44,73 +140,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
-      "summary": "France’s wine production nears a 70-year low, leaving winemakers with tough choices CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHNKX2Y0OUkwa1lxVnhXOXJoLWhGUW9OQzNFZXdfY3c4U3VMcHlwVDlJTmZIZ3B4ZVpwX3JDa29PdUZURTZ6MDFhcGhqV0YwS1VZZUpwNDdiWlB5MjBzZURuZl9oaWJrYVpOcHB2bEJKNE1SU1hUdGN6MzBEbUJFZW5rVlZkbXNQd0VhdzMyWk1pc0HSAZgBQVVfeXFMUGdfbXVTdHdGRExZdEFaNHpGUlFJMFhmM0lPMVdjcy1GcXNIUlpOV2F2bnpVVXNBdzlQV0Z1RV80V0pIVFdQUTFTRldsV3luWkthZU5sVXRrWi12enBqVUVsM011OE5sNGFlMm9QYzlRZ1FIUGFkWktYdWQ1NnpLbUZmQk5QUHFDd3FwODhLem5icjlib3VoTkE?oc=5",
-      "published": "2026-09-20T05:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump is only amping up his antics ahead of the midterm election",
-      "summary": "Trump is only amping up his antics ahead of the midterm election CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55ZzhCVkEzSXg3MG55eXFlZzhORFd4M1Babjh3S3ZYVjZTVng1MXFLVk9HdlppSmlHMkNSbU0tbEpvLTBvVmNQb3liX3JoUW9IRWE2UmVPYmt1RDNONGxNZlM0c0w0NXpwLWFtSTJn?oc=5",
-      "published": "2026-09-20T04:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Saudi Arabia says Houthis tried to attack its capital",
-      "summary": "Saudi Arabia says Houthis tried to attack its capital NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdy1oY2xxNXBPVE0yN3NaRWxKX1lTZzlZRHhRMzZFOGxmSWo2ZkU3SzhNUmc3WFdDVGdwYVdjc1dfc2RqV3ItbjViMnF0NUlTT2RiMDMxaHVRVzFXNW9TRUtOeW5UcWJkbDlDcVVmT0V5cFVqYml5R0t4aFNwZHlCRW10SUN5ZVliNERfb09OTmg3SFV2?oc=5",
-      "published": "2026-09-20T03:57:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
-      "summary": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR09FelJ3RjRMNWstSjJLX2YtUjIxM1l5bXhFQWJROXBlZ21sdDlqQkRfaXhVYjYybFVaTFBjT1ExbF9PUHpYdzdMWkhUX0FnUXdmeG00bEFST21kZ3JoSURoZy1BQ2lGS042NmUxZmltNFpHdGtRYXlWSjZUSy1UZFhOTkxZMGQ4NTNidzNmVHNXdGZaNmJ6dDZTdlg3SlhDc2ZqaG5Dd19JZw?oc=5",
-      "published": "2026-09-20T03:34:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
-      "published": "2026-09-20T01:06:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-      "summary": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXVoak5jQWh2Y3ZRV05LaEdyQ0hNS0xPbF9URW4zam5LbFlFR1BMWjAxNEptclUxQVhWUi1CY1JuU1FCMjJCNGFNSWpHUTRDa3lIY2xrS1Zxa1VycUl1UkxkS0FhSXExSlJKd3Fibkx1OEtCeHBIeUlMM3hoY2J6cTk4RG9ZMmY3eF9aWjQyYjJuUjJPeDJ5cjJEbELSAaIBQVVfeXFMUGNRR1UxcHc4X1h0WTdVb1RmbDlnUXAtZk95bkJDMXpaQjVDOWF5bGxCZENvVndLMnEwQVRSTE9GcVlRSmFiV1V2amNKV1BNeGpFMERiMEFRaGdhTmU2c2FWM09RVUNVQ1kzajF2OF9EeUFPQlFONDZIMU1jeUpYa2d2WXRKQXp0bVJGZlRScDZ4dXZEdGVuR3A5R0QtYTFKbjJn?oc=5",
-      "published": "2026-09-19T21:57:18+00:00",
+      "title": "Opinion | This Is What I Fear Most About A.I.",
+      "summary": "Opinion | This Is What I Fear Most About A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkJ0NGRHS01PRlVzX1lNNTFDNUdUNnJMdEkxM3hQdk1Sb3MxMXZNR1NvQUN4SnpncXBVbC1FN01hUnJDZGpfNkRsM1pRd0E4MGM5Z0lkLXVnUnJ4b3RRX1JFal9OY01aalJHVFNJUnZoZHJlYm8yZ1doZnI5UWppMGhhOGNya1Q4eEYwOHVkamNsQQ?oc=5",
+      "published": "2026-09-20T05:00:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,25 +164,25 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The new lines of southern Lebanon : The Picture Show",
-      "summary": "The new lines of southern Lebanon : The Picture Show NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUM5TUxSSlJRWkhmWDQ1R2lDczU2Y2s4NERwRldQZDVwMXFjOXcxNGMtT2p2OVZyWnJEY25XVzFBdzZDeUFuN1N0TDViXzhMeVo5VUNvTjcxS1JBY3R5MEFTVGdoWVJsMjF5RlhXTzBPdE1ua3FERHdWc19JQXh4NVFjQUFBb3VRWGh0VEdNS0dnRHRhalozb0dwc0xYa0Iwano1cQ?oc=5",
-      "published": "2026-09-19T19:00:24+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Ezra Frech’s form, John Duff’s buff, & Benito Skinner’s shorts",
+      "summary": "Ezra Frech’s form, John Duff’s buff, & Benito Skinner’s shorts Queerty",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkFURThPczhlcW9kOFI5a0F6UjBqai1hREpTOGEwRHpGN1hkQU9wV01kVVd2Y1lJMG9BRmlrTk94bTFYMHZDQXdyTkVGM1pCNTVKX1A1YVBiVjc5Ry1zQ0txUjJiWC1xTkg1RTRBN1lzb2gtMGFJemRXVGJIUENfR1pzdTNyaWRPOWxtb3lfcEdfSEk?oc=5",
+      "published": "2026-09-19T18:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
-      "published": "2026-09-19T17:49:31+00:00",
+      "title": "Denmark and Greenland leaders cautiously optimistic after security deal with U.S.",
+      "summary": "Denmark and Greenland leaders cautiously optimistic after security deal with U.S. cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVVKcnQyWkgyYmlqV1FtUGpiWU43b0d4LXAzS2VTSU95LUdVUVdPVkhMcWdpdzZUN2JteVc0dTBvN1ZEZk42ZEFQTjJoZFBVZDh2NkFYckpZRUJ6Rk5SWmxXNnpyNDluNzNzNXhEOGVwSi1EQ282a1lHSVh2dExGOE5fRVg?oc=5",
+      "published": "2026-09-19T13:13:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -155,10 +191,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose",
-      "summary": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5",
-      "published": "2026-09-19T09:00:19+00:00",
+      "title": "Opinion | A.I. Is a Threat, but Not in the Way You Think",
+      "summary": "Opinion | A.I. Is a Threat, but Not in the Way You Think The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRzJ0NUZMSVM3aTNJOTZObmJCWE9pLTFRVjRySFRsNVdueVlwTk9MX2VoRUVxY0FoWXZiRVU0MnhjT0pSNmRpeFl6eEhDcHJHVFVHT01zZ3dzNGZFZUtJbkhISUN1Vk9pcXVYdnppc0ZLQnAzZ1ppcVd1ZEZ5LXpha05RaXdWUQ?oc=5",
+      "published": "2026-09-19T11:00:33+00:00",
       "beats": [
         "Politics"
       ]
@@ -168,23 +204,11 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh",
-      "summary": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh CBS News",
+      "summary": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHc1LXQ3eTF2MmNnSjQ3akxBV0RNcEItazZQdFloOTRRSmpoT05JNmpZTVp0dl9tSTRaZjVMUWNWRmgtOUlRSnc5ZkVoOTNSYXVJZURVU0RiWXBCODZ6VFRIQmVMV183NlZjeWI2ZXUzeHlWYlFrT0x2bDc5a3NTcTJuLThPVzh2N18yYmxR?oc=5",
       "published": "2026-09-19T02:54:14+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Appeals court rejects Trump's third-country deportation policy, says detainees are entitled to more due process",
-      "summary": "Appeals court rejects Trump's third-country deportation policy, says detainees are entitled to more due process CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcktoYUlSejkwQ0N0akZ3ejJid01PT2hJQjRRSk5XeGkyYWpCMnFDYU5Sc1FzaG1RSUJYSm9HMWVXMTZ2cVp6eGRoYkxDNmMyN2M1ckRCaFNmQkM2M25jV2YtNmZwVHEweGRvdU52cmJDZE5yaDU4dWNuQ3NQNkJsQTM5S28wR0FTTmI1SjV6aEJpZ1gx?oc=5",
-      "published": "2026-09-19T02:32:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -197,18 +221,6 @@
       "published": "2026-09-19T01:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-      "summary": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5",
-      "published": "2026-09-19T00:04:48+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -262,6 +274,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Nearly 400 pre-trial detainees to be transferred from private prison in Georgia in move critics call \"a catastrophe\"",
+      "summary": "Nearly 400 pre-trial detainees to be transferred from private prison in Georgia in move critics call \"a catastrophe\" cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM25CY3I5VE1rY2ljdEtvcGkwWlQxZmxyWWtWcW5ycjZ6V1F0Z2Z5amc2MHJTQnJIRjB1NVBzVjI3WVQ3Z2JSVnVPaGF4UUpYUll0R3haV0VmSkhXTlZNNXdDS25ZR2VzMG83SHc3S21INExqbk1yZWNHMTVDaWdOdWhIOTF3QQ?oc=5",
+      "published": "2026-09-18T19:53:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -299,23 +323,11 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Compton Supt. Darin Brawley receives national recognition",
-      "summary": "UPDATE: Compton Supt. Darin Brawley receives national recognition EdSource",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0ZtYnFlRXBBM0pHTUh3MTdabmdHY0NIVWtJdkFGVWdfMjdrZC1MRWVFUXp0RlRlS0ExRlhnZ3Y2N1pXczZLR0sxTjYyYmxEY3kyOE04ZzluZnFHNVpGRUZVQ040STRTcE9PQ0Iwd2RUUk56X21jMENmWVYwZ1RwalMwaw?oc=5",
-      "published": "2026-09-18T17:34:47+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Video shows mountain lion in San Francisco's Outer Sunset District bolting away before being captured",
-      "summary": "Video shows mountain lion in San Francisco's Outer Sunset District bolting away before being captured CBS News",
+      "summary": "Video shows mountain lion in San Francisco's Outer Sunset District bolting away before being captured cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlRrSWRieXFoMkpORVJlNXZ0S0F6WVBQVmdzWFQ5UW14Y3JVSGZvUFVPd1lXekVTelBTNW5SeXV6OG1uVHlwb3JSQkZ5dlZVQ0d1eU9ERUxsSmNmMGhLNUExMHNOdUkyVGR2dDlkN05aZHo2dFlKNVJ2OVp3THdZME50cS1RUTRTNDdLdHUxeXJGcUJHYU13QXBTcU43a1E?oc=5",
       "published": "2026-09-18T17:18:00+00:00",
       "beats": [
@@ -365,25 +377,11 @@
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Pentagon releases more UFO files, including documents on secretive military program",
-      "summary": "Pentagon releases more UFO files, including documents on secretive military program CBS News",
+      "summary": "Pentagon releases more UFO files, including documents on secretive military program cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GenVudndBakoyT05oTDltSnppZTlzM3lKeUJtNE5CVUN1WW5hYkRsLS1hN3FHTm1DNG9hdFJJMkFqSDhzRWNMam91eldxdDBvSzB6NGszeWJOV3hjY2F1aUNueHRzcElFRi1tTGRzZmRFUQ?oc=5",
       "published": "2026-09-18T15:13:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Trump administration investigating Mass. school district accused of assisting child with gender transition",
-      "summary": "Trump administration investigating Mass. school district accused of assisting child with gender transition CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTVlZTHVBSWNMY0pPeHNqblcyWU93a2dzYjVXckdHMlNjZkwyRG5HMVJvTlU0bVNHSGZKZ3FRaUl5LW54b0pIenpfT3l1S1hvVVJaVkpCX2c1Q3ktMFRXUldtd2FBZ2xNZlRZcWh4VGRxRFlaQVRnWnhpeVg1RTBNbXBVcUx4ay0xRXQ4dm9oQVdaeWY3cTBxeXZsRDFzV3N2bjJkdUZMU19BOHJWek9N?oc=5",
-      "published": "2026-09-18T03:18:45+00:00",
-      "beats": [
-        "Politics",
-        "Schools",
-        "LGBTQ+"
       ]
     }
   ]
