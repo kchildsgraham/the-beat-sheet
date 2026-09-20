@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:16:28.677188+00:00",
+  "updated_at": "2026-09-20T05:13:42.773155+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,30 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
+      "summary": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR09FelJ3RjRMNWstSjJLX2YtUjIxM1l5bXhFQWJROXBlZ21sdDlqQkRfaXhVYjYybFVaTFBjT1ExbF9PUHpYdzdMWkhUX0FnUXdmeG00bEFST21kZ3JoSURoZy1BQ2lGS042NmUxZmltNFpHdGtRYXlWSjZUSy1UZFhOTkxZMGQ4NTNidzNmVHNXdGZaNmJ6dDZTdlg3SlhDc2ZqaG5Dd19JZw?oc=5",
+      "published": "2026-09-20T03:34:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "First Amendment lawyer says Trump’s media outlet ban \"not allowed\"",
+      "summary": "First Amendment lawyer says Trump’s media outlet ban \"not allowed\" CNN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXExMHZ4YzBuQ3Uzd0gwOGEwUG5lOEVyMUJqRFlQdGtJM2R0bVc5NklqSHlKYU4taG14T2tGZENVN0dYSDc5RnFpb1RkRU9XSGZfelJmSjJ1RHZOZGc3LS10WF8zaFg0NzhUY1hDSU1JV3d0VVJoOUd5c3RFbl9uTlVhUzlfVVZVaXNYenNWbDByZmFxWlZkcG9xRWd5OEZxVkNvMnBBbnFhVTl2dmlPTmlfOA?oc=5",
+      "published": "2026-09-19T23:31:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -56,18 +80,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Democrats call for investigation into faulty AI-assisted intel report",
-      "summary": "Democrats call for investigation into faulty AI-assisted intel report CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHYwdnhtaXRLd203TmJBQl9mclAzVEJGUDFvRmt6WVZFcmJ1VWtXalJFY1JFZmFQczJLb0dyVVp3dWVzVW9yRU1PUE1wZ3ZTSzgtQm9pWWhhOVVrTl9PNEVNaTl2VzByU2ZhNW5mRVBueFpmUFpPR3pDdGRrbll1cFFCbE5aT09SSGc?oc=5",
-      "published": "2026-09-19T17:33:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -77,18 +89,6 @@
       "published": "2026-09-19T16:03:09+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose",
-      "summary": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5",
-      "published": "2026-09-19T15:41:02+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -107,6 +107,18 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
+      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+      "summary": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkxSNkFlZzRYMDc1cWFTTmQ3QUViNVNaQzdqQ2pfN2RyWldWdkV6akRlU3VIb1NRTk4xTlREWjN5aVJfMnZCQjVFX1lLWUpnX0NzWXBqcExDazdPUW5BcE1HcFJuUzhZQnRzNzNxak1iOTIzS3JiY0FJY0dpVjZiUFg2a1ZHVFg2RW0xZGVWQmdIemRT0gGaAUFVX3lxTFB3YlJYbVpvOTd0bkYxSnduUlhWQU5VRGFTSUFjaFhLTm5XUHZ0U2swUWVTcVdWczZOa2lISGd2Z0RKb1drX1BLbUZBcmo1b3EtS0l4bFpsYnpDSXRablB1NjZ3ZGNDcDJ5emI5a0Z0eEFfTHBRcXJEYlRQaEswMUdqbkwtZ3F5amwySWRhUTdZUUotSUtOSTZHU2c?oc=5",
+      "published": "2026-09-19T12:50:49+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
       "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
       "summary": "The AI kill switch, explained: 'It's not too little, but it's probably too late' CNBC",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1T2hxSks0a0w0OWtLa1FCdTExSmZMNlJUdlRTdHZVOV9OanU5NG5WdW5xd1pwbHlQOXN4UjdzcVR0S2xoSnlLZkh2UkR2OG9ROXl1SWJtTTAxdlF3aE5EQ0Rsa19PUDJjLTBjWmRR0gFzQVVfeXFMUDFDRUpSaDdteXI0WWpHS0RIZ0hBYk1hX3AwTEhwd01pTk5ZWjUySjQ5Yl9aRE1aRDVjVmlvNlFKVmlJTlczVDdxd3l4QUNYRkhzTHA1WkUtQ1hJVmJtdWphZHlDN0kwZnVUc2VsMHNaOThPYw?oc=5",
@@ -116,37 +128,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
-      "summary": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWtuWFlmVHNhbkNNM1pjSnJHU3BTcENKTS1qUVpCS2VSd1NkU0lpblI1aEY3Zzg2UWxwQUhMM0NvaWlYX2ZIaEtsYUgzaGFOZFJsRjBPVUpiSnZGVjU0MnlwUTktaUlsSEtUOFU4TE5sSG16QmdFZllhU3JwMVZUQVZqTG1VUG1uVndyVzNERk4?oc=5",
-      "published": "2026-09-19T11:21:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | A.I. Is a Threat, but Not in the Way You Think",
-      "summary": "Opinion | A.I. Is a Threat, but Not in the Way You Think The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRzJ0NUZMSVM3aTNJOTZObmJCWE9pLTFRVjRySFRsNVdueVlwTk9MX2VoRUVxY0FoWXZiRVU0MnhjT0pSNmRpeFl6eEhDcHJHVFVHT01zZ3dzNGZFZUtJbkhISUN1Vk9pcXVYdnppc0ZLQnAzZ1ppcVd1ZEZ5LXpha05RaXdWUQ?oc=5",
-      "published": "2026-09-19T11:00:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say",
-      "summary": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say CNBC",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzlJVXZCRzducU44bDdzWjJLWnV4RmtwQkpmNE41cEkwVGtLVDNOSkNYcUIxU1hzd19oZEZ4VzA0WUlaOGFWMklEbWxua2haNkZpMS1Pa3kzd0x2cEZ0Ykw4V0lIQnRnNDV2NDJlak5seUs5WGdLdUtsaVlFVENVejI5NU84OUFFWmdFN3BfQmRxRk1lbE43TUd0SFJ5WGh2Q19PcndzaFNuZE1HbmfSAbMBQVVfeXFMTkhhb2tXd2hUdWowZ3ItY0I3cVNKRElpam5VVGQ0WTZ0QkFpM0cybE9IOUJKOU1VeTJEOHVZQ1VBRHplV2V5UnNvck04c2FPRXZVbjhSbF9mM29VRHFEemVaLW1hbHc1OFhMcnJ1a09xVE1ZREZTUHJITTJWWno1SjZMby1mWTBIY05Zdmt0cm5QXzBpWTJkREJ0U3c4QVZtYi1mMVlhd2ZFM2ZUUW5zaXZVZ0k?oc=5",
-      "published": "2026-09-19T10:29:40+00:00",
+      "title": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose",
+      "summary": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5",
+      "published": "2026-09-19T09:00:19+00:00",
       "beats": [
         "Politics"
       ]
@@ -164,15 +152,27 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "An old drug is causing brand new problems in the gay party scene",
-      "summary": "An old drug is causing brand new problems in the gay party scene Queerty",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEhFT2pMRmpDWEVueExkSG85YWg5X1lQQUVSS1dUQ1c2R0liaG55M2kwT1Jyem0ybTBzYlJCd1dYV3JFVDZMVGhwbFQ2ZmhsVjZIS3ZLZ3lURHlmV2hZa3NyeDZMekpaVzZic3h5OU1wQXJwcUk2YTV4bTFhc0FYSmNxY1Y3VHh2azlFc09wX0M0bTcwM3FJak9EbU5FRFE?oc=5",
-      "published": "2026-09-18T23:00:00+00:00",
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Appeals court rejects Trump's third-country deportation policy, says detainees are entitled to more due process",
+      "summary": "Appeals court rejects Trump's third-country deportation policy, says detainees are entitled to more due process CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcktoYUlSejkwQ0N0akZ3ejJid01PT2hJQjRRSk5XeGkyYWpCMnFDYU5Sc1FzaG1RSUJYSm9HMWVXMTZ2cVp6eGRoYkxDNmMyN2M1ckRCaFNmQkM2M25jV2YtNmZwVHEweGRvdU52cmJDZE5yaDU4dWNuQ3NQNkJsQTM5S28wR0FTTmI1SjV6aEJpZ1gx?oc=5",
+      "published": "2026-09-19T02:32:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+      "summary": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5",
+      "published": "2026-09-19T00:04:48+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -186,18 +186,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico",
-      "summary": "Major Garrett argues \"Trump is signaling he's weak\" with ban on CNN, MS NOW and Politico CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeldVY1Y1dWUxWXFkZVJweTlhQXp4bEJ0T2x6X09MZTlxaWZOMHNqdTBZbmd2MnBfTlN2VHpTZzFWT2V3UGFHZXo5ZjdTWkRFUzlHWW1kc3U0X19GR0hBOXZkOTJhSlgzV1I3a0dkaTl5bVpnM2NBN1ZGNWh2MHJ6dFJnQTlsR0tERmVaZ2UyRzFQNWZMUlJEOEZvMEk?oc=5",
-      "published": "2026-09-18T21:00:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -225,6 +213,19 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Notorious anti-trans activist melts down at school board meeting: \"This is insane!\"",
+      "summary": "Notorious anti-trans activist melts down at school board meeting: \"This is insane!\" lgbtqnation.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdldIZHB3UlRucjdjZG1VQWFGUTdUellWcEZ3M19rRTh1Uk5ISDhrcldRN3d5XzZ1S01HZjNwT3VtYjNkZWFSUVE2aVJad1I2bUc5OXB4cnMtbmhZYV9uWWgyTXRVNy1vWExHVkVGcE9FUmxzakt2OHl0bDl4SmtSai1YRDEtcjE5TzBqSWJESFpNdlpiOVNmdEVDRk9rM05YR09CN29xOGY2RGJJTzhKVHNVTXdrcG8?oc=5",
+      "published": "2026-09-18T20:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -246,6 +247,31 @@
       "published": "2026-09-18T18:34:17+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Federal court rules Oregon can place trans women in men’s prisons",
+      "summary": "Federal court rules Oregon can place trans women in men’s prisons Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdEtIT1gzYUVITnEtUmI5WUNuZlJ3MmRIWGlVMFRLaTMtY0xUTklqOWNBdEZHZ0hKMnpuZTU2ZmI2V1pHYk04dFdQeWcwOHFkNmwxTWoyYTF3Rl9jQV9rdkFXZlZ2RkZESDJUQlgzOWpKSzBfUnc?oc=5",
+      "published": "2026-09-18T18:05:04+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Milo Yiannopoulos’ Black husband accuses him of shocking racism, “enslavement” & abuse",
+      "summary": "Milo Yiannopoulos’ Black husband accuses him of shocking racism, “enslavement” & abuse lgbtqnation.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlhwSlBUS0ZwYjhGZU5MSlJ5d0ZhVVc2bTVwYmlxc3VySUwwSnJpcTBubTAtelFCUFY2cjQzWFJKeHg5Z3JVdW9FOVYxaW11cjk2WmVnWGI0WGhfcGN4cnkwdXBIbGNubndiMEFyTVIzRHl2NmZuWGlycUl3VGVkdXB4Q3k2bVQ4QnRGQ3A0TWhrSmdNaVNESFl2YjA5dWRFdm10YVpsTQ?oc=5",
+      "published": "2026-09-18T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -274,15 +300,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Oregon man accused of killing five Portland-area women faces new charge in sixth death",
-      "summary": "Oregon man accused of killing five Portland-area women faces new charge in sixth death NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTREZzdXc1NNVW9pWWthMmM5Y2lFUm82S1FiT0kwZURrS09qS0U0ZjIxV0xJSG5NX3VxdG5LLXZqZkVzb1BWd3RiVGtJYzZNWS02eXhFVUJtMjNKdDBLTGN0RkdqYzRDbUxrcU8xX1BVTHYxUV9zQkhBeXF6dWdGMk1pNUNuQk5fYVJCVWNLTDJCT2lOVC0tRG5PTW56cXdBbW5pOGM3b0R6U1JCN19nTU9hcTA5VXNF?oc=5",
-      "published": "2026-09-18T16:41:23+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "GOP candidate booted from forum for misgendering Sarah McBride to her face",
+      "summary": "GOP candidate booted from forum for misgendering Sarah McBride to her face lgbtqnation.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTZYYzhTZ3k3TzJUdGEtZ3YxT3BmRmhidzNiVWpTQWpjY0ZXTEZlRjctSENQa0xsMGlJamlSVmFxREJxMFBSdVIwVXdlUURsYWxXQ0ZoWE5BS2dTNFF5aU1ld2YtVnFvQ3JnWnJ0ODUtMFNVR0hKbUljRUVVNjFJSnVtSm9tODNYLS1sZmFBLS04YU91WWhzb0QwSDE3UkxMdHUwSl9Ibkx2Ump0ZVVKNQ?oc=5",
+      "published": "2026-09-18T16:33:16+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -357,31 +383,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMWVENjhMUXlaaWJCNWtYZjNxMlFZMXdkVEswWFRMRWthckdiRUEyZzdhWFNNa3dJN1VNMjdpRmRaaFNvbXMyRkF2S25yNVNidkU0Tl8tU2JxYjhaSlRoXzdlOTU1OVFvX0ZmYkxlWklBNGtqTXFESTh0OWhQSnhJS1BZSkxncjV2NFpWaXJWWFpNZWM?oc=5",
       "published": "2026-09-18T02:38:55+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "A summer of AI bans in schools",
-      "summary": "A summer of AI bans in schools K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LZnJod3hPOWNCNVNldFFiNTJyVVhsRmR1bkk4SWpFbFVZMmQ1VHh6WFlzZFlMRTJYY3BCTFBfUG5MSlZ6dl9mUmV5aEJKblZRV0oxWnBVWVhZM3ZscDdrYmxrN29tTVpqVUlBVDhabTdkTk4zd2c?oc=5",
-      "published": "2026-09-17T21:52:13+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Federal ‘Science of Reading’ Legislation Passes the House",
-      "summary": "Federal ‘Science of Reading’ Legislation Passes the House Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREU4Y0ZfZWVZdm1qd3R4NTZHZGY3MUp2ekxYSlFpNTJNU0Fwc2FjalRoU1ZmLTlCempIT3Y5aUxhX2lDZUFDWWlIRDIwdUJHWWZicXA0LTBaMUk5bEd4MlZ0dFFiRE4tN29vYmN3YWJlQmpkSEhydEUxNHJQNlFxbGJ3TWhZajBWWFRndGRBNHFhaWZfQnAwV0NJeVhoUnAzZ25aUUhEWQ?oc=5",
-      "published": "2026-09-17T21:29:05+00:00",
-      "beats": [
-        "Politics",
         "Schools"
       ]
     }
