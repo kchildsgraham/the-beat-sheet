@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:53:47.001317+00:00",
+  "updated_at": "2026-09-21T05:58:04.109059+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,11 +20,107 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Cindy Crawford’s son, model Presley Gerber, dies at 27",
+      "summary": "Cindy Crawford’s son, model Presley Gerber, dies at 27 CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXY1VXIyRU5BWERWb2k0UUxwa2ZtWTRDYWVKcDZUTFo3cnJFSVI0cWlVWmFUNF9kcS12N1lKN1ZMZGVTd1NPV05mejh5ZVphMlRnRDQ4SktUbDZaQ3dqSjEwT2JtT2ZaSUZFNXRVQ0pNd3hpVUx1dmJGNElZUEZDZjVtUEtUTVU?oc=5",
+      "published": "2026-09-21T04:34:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+      "summary": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2hUNHk3WDNZWVBBTExZdHZHWU95QTV2dEVOQVd6bFMwNXN4Z2tlanlrYmxuc3NRaEJPbFJLcHh4QlNycWRSNnlTb2dwb2E4M0x2b3lqbElqVXdsWFFDaDNvbFVOaVdVbGFEeW9QRm9nSXlmaEJ4ZXR6Q3JNVWRCeWdWaDBabWVwVFJxX3dIblpQY3I1NjZkNnVHbGV6NUtGQmh2SW5xQ2FjVFQ2WUVXTklB0gG3AUFVX3lxTE9HdHptLWtVY0V6NXEwVWgwbVl6SWdsWC13VXZkaWlyclVyTlpkUGIxdHpGZXhvQk5yazcxajRnZk5WZHRseHdMRmp6R3REWDczbi1kaXR2cjdsSUJCMkRhVjlweXpmSWlFS19iLWpfemNQNy1kRW9VMkJjbVIzeFE2MnMzV3lLOFk5SjZXeHBUcDBlQUN1c1pRcUU4YWVvQ1lXYkVqVnpZT3l1UjhuZExPaXY5RlF3TQ?oc=5",
+      "published": "2026-09-21T04:20:33+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Supporting English Learners: Practical Solutions for Today’s Schools",
+      "summary": "Supporting English Learners: Practical Solutions for Today’s Schools Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1VUODlOaW0tbnVMbmJJVzJScW5FWDRvWXktSHpzU3BkYXU1Zkw0Wk04ZlNtZlZQZkRkV2h3Y3FTTU5TeEJvNFNQckxKcFpLWGh2cUd0djdYU1Z0SVBWVUk2X2dFWktybUhfY2xlNnZva3Y5MEJqWjdQMG5MeEtpa096bkdGOEwxaGRXcHBaTHhucVZEY3hCbDB1a3IzSk0wY3E3a3cwcUEwbm8?oc=5",
+      "published": "2026-09-21T04:07:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Can Schools Trust AI to Translate for Non-English-Speaking Parents?",
+      "summary": "Can Schools Trust AI to Translate for Non-English-Speaking Parents? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkFmUnAxRl8wbUhvRUIzbllOeGZMTVIyckFnS1NiMVNCeDdqeEcyTTBGV2N3b1QwbTBkNGVOQl9yVWcwOWVQYjVrUVJxanlCS3o4VXJTMUdFVWp5OVh4eVZMVmFoeV9rYTZDQ3JQZm9JMTB4TklkVUFhYUlySW9pazk1cVV0SVRXNk1DY01QVGhSTTBPRUxWaHVsWUxteFVNd0JCZ3FGZkxod3Ny?oc=5",
+      "published": "2026-09-21T04:02:36+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Beyond Ukraine: Why Europe is preparing for a wider conflict",
+      "summary": "Beyond Ukraine: Why Europe is preparing for a wider conflict CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDlQUmc0RGZGSEtNWXBOYUN5YjJlRTVZdU53N05lOXh2X0ptMVJYSzVlZHQwSzc3RFM3VUZXb0gwTjRMczNMX1lLZ005Y09YSTFZM3BrSGJnX0RoODVieEhwRlNOU0w1UW4zWXJiQjF0UUdsUTR6d25OWkVDSElFejNvekZHWlRGQ0lSbjV3?oc=5",
+      "published": "2026-09-21T04:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "White House strips CNN of TV pool assignment as Trump’s press ban escalates",
+      "summary": "White House strips CNN of TV pool assignment as Trump’s press ban escalates CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUTXNYeWdJU1p5eXktUjhBcWQ5V2kzNmVnU1BtdUR1RDFIRnI1bjRvMWljdkp3OVpqOFZGeEdGZEZ5TFBnY3FpZzEwRFhacXlGc0xvVThLX2NHQ19nd0g1XzJwQkxlRG9oc2tiNl91b1BZSFVvV0E?oc=5",
+      "published": "2026-09-21T03:11:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil falls as crude flows remain 'surprisingly strong'",
+      "summary": "Oil falls as crude flows remain 'surprisingly strong' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjFDbTNXeTBfdVRPUEQwRWZxR2dtOS13MzMtT3BraWc1VjBIV0tGVnpOQXMxbERfNzJfV2d3MVdoNHJMSEZkQ0NRazBwcXVod3FkQTRyQ29SeHU4VVdEcW9NMGtQemFkeXJ6MzQ5M05YOGp0OTNneEJXSGtnSC1SN9IBhgFBVV95cUxPN2I3TGdMbHpLaEp1ZG96eWNNMG9ob2pTc3VXbzFYNy1rNjY1dGtFZHZhbThUZzNwcFZiQldDcDVCeVFlRmlnMElyRFJTYmg1RlA3aXhTRTVEdVBVLWQ3LXdjUnVkaGJSUElXbTJxRmp3aHRoTzNoXy1pRnNMWFk3ZmN4dHRkUQ?oc=5",
+      "published": "2026-09-21T02:14:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Everybody wants to rule the AI world",
+      "summary": "CNBC Daily Open: Everybody wants to rule the AI world CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUVQdGstNkpPb1dYS3g4d19pNi1SRTUtYnltZWZEb0NQdlJLN3QtdUNkU2xKN0JtLWZ1R1NHeTRqQXZTd0hxQ1ZhUW5pU0ZzWjRvRC1CclRodDJrazZESFNJQlFIQnFUd0RObVUwZ1J1LXFjRVU1WldzTW1qczdMM2VlRDBrWjlZc0dVRnZB0gGTAUFVX3lxTE5ITUxBc2M2LXd1NnF5QktNaWVJVkdVSUFXX3hWQ0dBcUUzR05UT1ctalhiSTEyMTNpSWR2LS1VSWRxUW0tUGFtVW9YbzlQbHlRT2VTM05qcFRhenZsSlJkeEFZYnZ1THJ1MEdOZzU1R1k2eV8tT21CUHUtaGI5MGFwM195SmgxWU1UMzcxR3hON0NmSQ?oc=5",
+      "published": "2026-09-21T01:38:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
-      "summary": "Patrick Clancy opens up about grief, the memory of his children and moving forward cbsnews.com",
+      "summary": "Patrick Clancy opens up about grief, the memory of his children and moving forward CBS News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSC1FMW5JUkJtd1hZZWo1NWl3LV9vbTcwckRaZVFPcnZCZnNvbGRXcFpHMHlvQ2FpTnExd2dUN0hON19JbHhqVmZCTml3MGFGcHg3TXhTXzNmR3N3Qm4xNHJVQXgwT25NeGNjRE1CUXJ3RmhiSnhvdVNuSFFhQmpYTlE1aHVIZw?oc=5",
       "published": "2026-09-20T23:06:00+00:00",
       "beats": [
@@ -36,7 +132,7 @@
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Patrick Clancy: The 60 Minutes Interview",
-      "summary": "Patrick Clancy: The 60 Minutes Interview cbsnews.com",
+      "summary": "Patrick Clancy: The 60 Minutes Interview CBS News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xZGNaMmlBLWR4SVFvYWx6dFVlYjhnd3dLaEdDWXBDbVpjSTNPVUdzbHBUWnNlbzRfSnEyd3Z4RXE0QW5SUktqVkplWVpNSDAwQVpnX3pkdkpadkgtRlRpZjdzZ2Vtbk5uUTBkNWVpVE5RcjQyOUhjYVd2dWxtUQ?oc=5",
       "published": "2026-09-20T23:00:00+00:00",
       "beats": [
@@ -68,49 +164,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Man wounded in ICE shooting in Austin, Texas, city officials say",
-      "summary": "Man wounded in ICE shooting in Austin, Texas, city officials say CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZnJfV3JMYThUT21NX1VkWHdod2RNSVp3NkwtSF9hWUc1dUpfNHd3NEFMTGFxVjdpTm5GY08xS1p1akxCZ21mY0tiWUNZYVp3MlFjdTdDcDVHcHM2bkdBZ1p6VjNBQUpSYkkw?oc=5",
-      "published": "2026-09-20T21:11:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Paramount nears merger settlement, but some key state AGs are not on board yet",
-      "summary": "Paramount nears merger settlement, but some key state AGs are not on board yet CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMS0zM0hLUWhLTVB4OHlqY2p0T0RXTTJRU0pOb3pfaVBjVzdNNDRvUm9iUjVCa0gwRFk5dHF4eHVBZG8yY2VlYkVBUDFhTmZMUUlaeTZnc0YxdmlkUXJoUFBYUVp5dnlZLTV2S3I2TGU1SVJpVDhsU056bVo3ZFhJWXkzOVpKMWdTTk5xX3BVYUU1aFYy?oc=5",
-      "published": "2026-09-20T20:30:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "GOP Rep. Salazar says she spoke with Trump and he is ‘very receptive’ to her warning about Hispanic voters",
-      "summary": "GOP Rep. Salazar says she spoke with Trump and he is ‘very receptive’ to her warning about Hispanic voters CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOHlmVG1ON0tJWktkU2JXenotMnJ3dUpCOGJEbDFoYXpmeE51MFhnZS0zMVplR2NraVpGSk5UWTFwVUhUTGtzU0EtTFR0ZnU5RnBsNE9xRENHRDlUZTFHSF8yR0gzOGR5cVBmSkhVeG9hck1wM0VvRTBuTzllTHFMSm5Vb1J5WlpFbFBfTzBXMkc?oc=5",
-      "published": "2026-09-20T19:46:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-      "summary": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ3FoQm42cXVsN3B4bU9oZWprbHZFT19scTZYVWk4SlIzMUpXNXVMZlh3VjlocXVIM2tXSjNaaW9ONlBmbEZNV01jZm9qOXFpVXZSdURHLUFkZWM0OHhUZ3Nxdnp5Qk93bGJnUWpkcEFDYTEyOWZBNVE2Yk9PUdIBgwFBVV95cUxPRTZOS0pHNy1reW91VENKTUpGbEJTX0lHY3h5WkU5aFNkVWEybDZaT3c2VGxoQ3QydkFQUmNHcUhqZHpKWVNCWmtWRlRXYVlfU3lfYzFadGlfQWVrZXhFNlRfemxCVW4ycW5LUFlycTdva1ZuQ0xORlJlZkQ3cHlCTW5iUQ?oc=5",
-      "published": "2026-09-20T19:06:16+00:00",
+      "title": "White House Moves to Take Control of N.I.H. Grants",
+      "summary": "White House Moves to Take Control of N.I.H. Grants The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa29ndVdkaHpfRFlHNzl4WU5lVHZGTDV0cnh0d1Rham9lYk15VnZIZWwtM1BGaE9ENDVoRTlRSGFCMnVEYWM3UFlZcFhoenpUZE00SEtBMDN0bm8wU0tySHMwRVRmN1ZNS25zRnkwUl92UnBzaEJtamFhUkNuM3hiR21OV18wT21lYVE?oc=5",
+      "published": "2026-09-20T18:29:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,42 +200,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Fed's Kashkari reportedly says inflation is still too high across the U.S. economy",
-      "summary": "Fed's Kashkari reportedly says inflation is still too high across the U.S. economy CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZVEFneno2MUFKYkdpMjZpQk94SXpCd3NRZ0pub3p4MFRnUUY2cngzMUhKOXBaQ1ZyR3hnajN5TGtRaTdDdy1kYUZ5OFJDaGJ6bXMtN0ZRa05oSXd4WDBzaHRMREFXdi1yQWttNUVnSWh1eDFFcWlV?oc=5",
-      "published": "2026-09-20T17:04:54+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-      "summary": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xakFXYVlPamdlaGJJc0xmd2V6SDVWbkljbTVieXoyMGotV1l5c1pkUXBjWFB3M0xsOGZVaGJDaXlDWDZhb2UxV1dZdmlCbzFjUUhwTjJIQjZNN0pPUGNCeHVXaGgtdnZ5QWd0ZXN0R2sxcnRtSTVRdUhB0gF_QVVfeXFMUDZQWTNFUkF2eVVxR0dBYUc1ZXlLV1hQTW1RS0JMY2VSZEJPYXdzRVZtS1F6UWU0YXJmbGhtYUhMWUlBeGV1WjlzdGlWUjQ2cHp1SDlvdWM3VnZsWlcySHZFeERKZ19vUHVYMmx1dDRBMTdXcy1CVVhJZ0p1Wmxjbw?oc=5",
-      "published": "2026-09-20T16:56:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "In Fighting for Every Black Child, Did I Betray My Own?",
-      "summary": "In Fighting for Every Black Child, Did I Betray My Own? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0xteVBaNGNOSW5jWE9PcmVUY1JPNWNxcExtZmstbWZGeHlRZHloNTNPU0k2VDFaa0YyRjZ3SzNNaEVMWkE0bUQydEQyVEFzMlBWam56R3dBUWNZX0l4eUlKUnhSaGlUQjVPb3BoYmdqWmdFV1l1ZnVZaTllS2JJOVNDOWQ3RTNoWVNyTmllTUNlcVZoNmRldQ?oc=5",
-      "published": "2026-09-20T15:00:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -185,18 +209,6 @@
       "published": "2026-09-20T14:35:41+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Three dead in Moscow as Ukraine launches massive drone attack while Russia votes",
-      "summary": "Three dead in Moscow as Ukraine launches massive drone attack while Russia votes NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdEFXU2pQVTB4SGx3MkFMb3hRMTV3dFZYMzd4SDBLSURMcUdNTGh1TGl4aVkyZmZiQ1k4YmFJYjdiVGRJQ0oyMFoycEtmTGhGRzhCMDVoUWYtWXdDSkEyWm42TjVQLXBLRVlXQjVfQjFkeHBTc1l0enJFY2VzSWM4cXJMeUFCU0RRbVU2b190ajlfT0kyQ0FDUnV0S0djSTFBaEtUZ001MVdJeEVQRlRv?oc=5",
-      "published": "2026-09-20T14:31:41+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -227,24 +239,12 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "How a 1,000-Year-Old Tapestry Took London by Storm",
-      "summary": "How a 1,000-Year-Old Tapestry Took London by Storm The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVV3TGwxcXNmS1M0azFObGNRdGMzbEpUMV9VSjZ3ZXN2Z1lTVk1KTkx3bkExa3NYT1NXRGdsUklZbk1wWVdtNUEtRU5uTFlRRmZ3dWdnb2hoM3BaNVZhN3hkYkdCb252bVJMVGsyU2pKLUV6TzVMT3NENGFPMkZUQjhyU3hRTWhROFJpN3hDUzJNdW9NVXd0M21CQWM5V2FSNS1veTRUb3lrazJi?oc=5",
-      "published": "2026-09-20T10:00:07+00:00",
+      "title": "In Fighting for Every Black Child, Did I Betray My Own?",
+      "summary": "In Fighting for Every Black Child, Did I Betray My Own? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0xteVBaNGNOSW5jWE9PcmVUY1JPNWNxcExtZmstbWZGeHlRZHloNTNPU0k2VDFaa0YyRjZ3SzNNaEVMWkE0bUQydEQyVEFzMlBWam56R3dBUWNZX0l4eUlKUnhSaGlUQjVPb3BoYmdqWmdFV1l1ZnVZaTllS2JJOVNDOWQ3RTNoWVNyTmllTUNlcVZoNmRldQ?oc=5",
+      "published": "2026-09-20T09:01:41+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Rethinking Instruction for English Learners",
-      "summary": "Rethinking Instruction for English Learners Education Week",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPck5La0V5ZHpwbFBrOHpnQXI4U0w3R3d5YjZhLUhPSko0blNoY3RSLTYwcnhoU1pBUHVHZlAxUjlmMDgwaF9lOWVFZjRldFlEYUFNUlVWS1JMY1E5T0NfdmVXbDAyQVltYkE1Nk5sSVQzNXpSaGFlMVFlcE1ieUlFSGNCMXhJcl9ZMHR6ZHRLaFV4dDNVZUlCMXd4bw?oc=5",
-      "published": "2026-09-20T01:59:13+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -288,7 +288,7 @@
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown cbsnews.com",
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown CBS News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
       "published": "2026-09-19T17:49:31+00:00",
       "beats": [
@@ -308,6 +308,30 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "San Francisco Lowrider Parade returns to Mission Street",
+      "summary": "San Francisco Lowrider Parade returns to Mission Street CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTRFa2pfMkZvd2tSRVRPX01TekNXTnBvRXk5dHVSRXBjaFFyRy1NSkoxTkxLM29pTllzM0xRdzdNejF2STFleWNrM3BoTjROOERBUjFENXVLNVZJZlR5SVR4SVNfR3hjZHl0VzZVM3ZjTHV5QUpWT192OUlZSWppdmZZeTBoUE5xMXlXaG9zWUNpaGZXTVRIUGJTeUFkR1VfTFJpYUpUMTk0THNQYjA0MDFn?oc=5",
+      "published": "2026-09-19T15:22:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump says he’s banning CNN, MS NOW and Politico from the White House",
+      "summary": "Trump says he’s banning CNN, MS NOW and Politico from the White House NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORnNreDlBeldEa0RtRE9GTFV2SUdBZXg4Sk5mTjVEbW8tMWVjeUV1SEtZcTBuVG01azY0eWEzQ2ZkTTU5X0kwWEZyN3RWak9yaEtfTTdXR2JXS1RJM0NkeXMwOTd4OG80a3RJRHNwT2ZxczdRMHV1eUdzQVFYMkRZcUVyeHAzNVlwbl9fQnNScjZaS3lrWmNz?oc=5",
+      "published": "2026-09-19T12:22:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -324,7 +348,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh",
-      "summary": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh cbsnews.com",
+      "summary": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh CBS News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHc1LXQ3eTF2MmNnSjQ3akxBV0RNcEItazZQdFloOTRRSmpoT05JNmpZTVp0dl9tSTRaZjVMUWNWRmgtOUlRSnc5ZkVoOTNSYXVJZURVU0RiWXBCODZ6VFRIQmVMV183NlZjeWI2ZXUzeHlWYlFrT0x2bDc5a3NTcTJuLThPVzh2N18yYmxR?oc=5",
       "published": "2026-09-19T02:54:14+00:00",
       "beats": [
@@ -349,35 +373,11 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Body found at base of Marin Headlands cliff identified as Roseville resident",
-      "summary": "Body found at base of Marin Headlands cliff identified as Roseville resident cbsnews.com",
+      "summary": "Body found at base of Marin Headlands cliff identified as Roseville resident CBS News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQklqSGFpOFBJUm9HNElPRzFhWmxzQ0I5SzRKUVUxZFJIMXhDYU0yaXBWMEd3VUFUczVHUXZEb3Itd2VVQlc3MEFFbzJkMkJMUXNKdU1tNEhWMXlEWVVJbk1rV1NlMkJnMEtvRFlEWnN6M2hmMjRPUFJRajI2UWx1Z0lqYWtHSWpESUVBaDBmZ2xtQW5NekdnX3BuQzJNUXlZZjhNR0ZYYmpyeWNnX2c?oc=5",
       "published": "2026-09-18T21:19:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Universal school meal reversals take toll on student behavior, focus, study finds",
-      "summary": "Universal school meal reversals take toll on student behavior, focus, study finds K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFA1VHlmUkZwNEZSM2IxMDJHTFpxSEpsUWJWYjFoUzUtbnBYdTBwa0xmWlhXQmJxYnI1NmFaTDZUTl9uVGFPd08xb2dXS0N3V2s4OEZBbk5JQkNTQ0hTMklBVV9Ea0pyTnhsZ1QwRGN0bWsyT00wU0hKZDVBZmhLQUVGbTZJZElLZ2xFVlJFWi1oQmRkM3lBUWVqeFRaSmJIc1o3SGNadGRjbEowYkE4?oc=5",
-      "published": "2026-09-18T21:07:15+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Trump’s Education Funding Maneuvers Were Illegal, Judges Rule",
-      "summary": "Trump’s Education Funding Maneuvers Were Illegal, Judges Rule Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaU9IZ0N2NHlWR0k4Rmk2UUkyLUNLRGNta1lBd3hXcVJ6V0d3cEYybW83UGtxMEo1M1pRRVR4djg3VlZyZnBrcGZpN0J5M1l2MUdmX0lDRFBEN0Y4Q3pxNUxuc1RPVzV4QzdEOFZnSkZvUHNlbmhaRkVzZWVVM2RBLUlSR1A0QmFKUmZ0YVBNcXBSbjJSU0VHNzZzVU5TZkpGSDlQZVZlc0RKZw?oc=5",
-      "published": "2026-09-18T20:40:06+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
