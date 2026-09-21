@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:31:21.313955+00:00",
+  "updated_at": "2026-09-21T22:29:16.237839+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,61 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
-      "summary": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02UU1OaGxUeG43SV9sd1pNU3RWbjFVdm5tOHR6NEx1OV9KT0lRZm5ZdmFRNlA2ZDVfeUlpWk1qSWZCUWl0MmVUbXRlUmIxUTVFTnZZX0pUcWlCeS1TM0ZNckN1aWpaaVlCQjJMbVFzY2NYVTJDdWJGM1l4N3V6WWM?oc=5",
-      "published": "2026-09-21T17:42:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Aviation regulators turn to AI to help manage the nation's airspace",
-      "summary": "Aviation regulators turn to AI to help manage the nation's airspace NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBITGJpNTlMSmVxZ2drNkxhUkhDaTlrWUZOelBnS1JaWDliNVVYckRiTlVNTDVhWVlHa2prVlJZZEhFY191MEV3ZExISVBpcWxRZ3ZENG1ZSVpVNW9Wd1I3N251eVdMZy1nTzE4aElycmJuamJ2OGc?oc=5",
-      "published": "2026-09-21T17:37:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "FAA halts flights to Newark, Philadelphia, New York because of equipment problem",
-      "summary": "FAA halts flights to Newark, Philadelphia, New York because of equipment problem CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelZFX1FMRGEybXZ2YXBwc2tra2tHSUhCSTR5QUZnVG1UTDh3Q0Y3Z3lnTm5qajV5UFVjNnhUcWd2WjRlTWJKYzFwaWVCMFo1MTZYd2VCaFpYOFlfTlQtZ25xMnc3TE10V3Mtb2R1SEx2X1I3VjhVaVVqRFd5R0ZtUWdsQWU0d9IBiwFBVV95cUxNdmg2VTg0Z3hMMDI4NXpEM2xIUUFjaE51bGV6RXlSZlRaYVpLQnp2ckJSU2szRVJRbk54TG40RFd3bnQ0M0FBaDFzcXJYaXFtZTdJa1YzWmZ1VDNVQXowWk5NV1BpWXg5N0hqYk1UcXdaS1JmQ1FvVFVrdE1DUk9BbzhQNGtsMjlINjNN?oc=5",
-      "published": "2026-09-21T17:06:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "State attorneys general agree to settle Paramount merger lawsuit | CNN Business",
-      "summary": "State attorneys general agree to settle Paramount merger lawsuit | CNN Business CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVE1valFKck4wV3QySzNndE9Kby1vTWdnWkQyLXZtX2FJS3pvOGdLRThIX2JFOFZhYlVsaEtTanV0d09mempuTDg1VldxTFpvQnVENm9XU0F6N0ZleXZ1b0FpbmJiRzJZWE9NRXBaOUdqUXFybzJkOWdQaGZCZHBkbkhzdld1VUUwejR6ZWhmYTg?oc=5",
-      "published": "2026-09-21T17:00:26+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
-      "summary": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVpJVElUSGlmVjB5YjdSLVlIaEdOVklnYlJJaENoNzBDWE5felRFRzJmWk1WbUd6bGxBQUViNW02WlhOLXZZaTJ2c0dZUndZRGcwVklRMjhNb0ZUd2V6UEh2QW4xU3k0VXE3TDFIRlVKRWJITEctdm9zbTluaUpSUjlpeXlEckhrQXl1SXVKN2NBd2Q3NDN0RzNaT2IxUV9hM2FnYThB0gGrAUFVX3lxTE5tRUxDWHFDSDRUMnJsUmFkaWJvMWhpZkNyRnlMSUtzc0MtN3lnSWFkaUV2MjRwQXU1MDZQSDVZV0RRUGRJWmExSHlBalpleXkxb0JuVmRoYmkxS0FSUENVaTBMRVEyNjZabS1DMnBtbWVmUnVZVFJDMzlVOEdreDlDa1RzNWZaQlFTM0pQQ3U0QmtCWkZLQ0F4N3A4ZHBPXzZNdXY1YUNCM3dWWQ?oc=5",
-      "published": "2026-09-21T16:53:06+00:00",
+      "title": "Ground stop at Philadelphia International Airport lifted as equipment outage leads to delays, cancellations",
+      "summary": "Ground stop at Philadelphia International Airport lifted as equipment outage leads to delays, cancellations CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc19VVDVvOVRLTUlrLUdsSzJQYlFZUzdFZWNWLWpqRUduRy1UV050eG5IR2JOZEY1T0otRXl5OFh0bjJLSDI0WnNOY0lLUUtMM01fNm9iLWRRNmEzbnFNTTlEQXV0UENvUHdNYmduam53SjlZQ3dTLXUtSTVaNXR4VlA2NmprUmhBZDl2SUVOb2JZZ3dLd0VVRlNTT0RWVE0?oc=5",
+      "published": "2026-09-21T22:18:42+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,10 +35,239 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Flights delayed out of Newark and Philadelphia after FAA orders ground stops",
-      "summary": "Flights delayed out of Newark and Philadelphia after FAA orders ground stops NBC News",
+      "title": "Flights resume out of Newark and Philadelphia hours after air traffic equipment failure",
+      "summary": "Flights resume out of Newark and Philadelphia hours after air traffic equipment failure NBC News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUpNbUNCaGlXTVVEQmZiR0lnaUxjRVNKTzJfV2Z0X0hrbjVIOUF4ZS1hSzYtRFdId2JEOUdrZzFkbFMwMl9wbkEwNGhWVGIyODNwWklmb0tITnFORzhCeUtudWJITWpDX29Hc2pMc1o1UFVTV2dWTTBicG43MlBGM1VYU2JtMDhpOUhKY1N2WVNMSGpJbHc1UDg1SXJPLUpEdkhJTWxZaHhiNVk?oc=5",
-      "published": "2026-09-21T16:46:26+00:00",
+      "published": "2026-09-21T22:01:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Iowa’s largest district appoints new superintendent one year after former leader’s ICE arrest",
+      "summary": "Iowa’s largest district appoints new superintendent one year after former leader’s ICE arrest K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEZnZ2x3RFFFLXk2U21pMGhDZVB2eWhDSXplWENpb0NFX2hEVTIzVnk1Rk5XVHNuRXk2OWoyRlUyRTYtMjY0eVI0QjJ6cnRYbG13SGpIRWdiOFVLd09hbTlBeTRRZlI1VEdZMkdFUDJqM0NkdG9WdW5teUpLUk1WbjdTV2lfZXA3c202bU9pSFJHLUF6clhORjRqVFdHTmxoNUJVa01icXBuN1FCSVRqNg?oc=5",
+      "published": "2026-09-21T21:20:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Judge vacates anti-DEI directive that led to teacher training grant cuts",
+      "summary": "Judge vacates anti-DEI directive that led to teacher training grant cuts K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzBLcS00OUdUNWFCUHdiQzAzelFIVkZsUE9aWjRZM2xfYzNDUUxxRDZkbG9HNmhQSUYzaG05WVV4UWxDMG4tVlRLQjRrZVZ3MklodHpJVFBQaFozOG12dGtDbzM5LWtDdEtMUnVSeWh2VW93aHhMbTBFRWM4XzJ4NkgzM05QNFU4a2dNMTZ2VXJZXzhqUzVxbU5yU3Fid3lZY1h1Rjd6anA2aS04Nmc?oc=5",
+      "published": "2026-09-21T21:11:15+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Even Fox News is boycotting, but an LGBTQ+ outlet is still covering the White House pool",
+      "summary": "Even Fox News is boycotting, but an LGBTQ+ outlet is still covering the White House pool Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9obEw4Q1VjbnEtUDFfRXZpWHVhcjJDaTJjYjdVUXRLWDNXWFZvZDJva3lvTnQtQ2NRaEtNMjdzT3BMV1VuRzRaNnZyaVhrWUF5QkJJaWtqMXZ4LTZ1bEo1VXNDY1ZFWEdSei15S01lRXNvaFE4M3VSM0Vfdw?oc=5",
+      "published": "2026-09-21T21:09:18+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Paramount reaches deal with California, other states over Warner merger",
+      "summary": "Paramount reaches deal with California, other states over Warner merger NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3RjTHZPOXlITXJPT28tamttdXBMb2IzUlFQMGxvMFBMdDhLeGhVY0M2V1NWa3pJejJ1U1ZiZXZyRHB6a3Q2NkROSDhfOXBzck1rRlI3czNmNllPMlZ4Z2NkeHdOUzZLbzRxQVFaNkVNX0pLTjl1OFVKMTktVTNVdHVqUmIwU0wteVkwUGEyckVQMVcwSWpNa0NiQTJZM3h5bHU3SmdwRDVkM29nLVpnR3REOTI?oc=5",
+      "published": "2026-09-21T20:37:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "‘Block the Merger’ push continues as Paramount settles with state AGs",
+      "summary": "‘Block the Merger’ push continues as Paramount settles with state AGs NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnNTc21CNkw0VzBHYTJVcFdfXzVIQjc4MndiQTk5cGdUdzc4S3N0NVUwVGRUOFdnLTFiMFkwbmJYN2RFVzJBWEdKLTFKMU5PNHZGcTZQRmJZc3diQ0pzWFNCNmRkZjhYNEdTZGhkbDhFTHVGdFVxdjlOZ0E4WXE1eXAtNUhFZkNISDBMelZBR2lEa2dPekROQ3hydGRSZjBicnlqeVQzeVNqZlZxd0E?oc=5",
+      "published": "2026-09-21T20:36:32+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
+      "summary": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999 CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHI2dUs1VHRMaTBYUTdCODVvYUllNkdEVlJXMUs3eTFGZlVQM2hDbGFJMjRQU0hkd3JyQllXUnNOZjU1Y081S0Z4emk3RXdITlU5VjN4UU96YjhsTmpIVkF0cUkwWThGZHZvZmM1a0c2TnVabl9MZ0ljMC1sTmNlOUpLYlJ1OTlncElCQ2hRMGZRc0I5Uk9SMG9TLS1GdTBfdFZjdWdBZ3gwZGJGUmpieUtoVTJjaFRnUXZ1Vm9pZy0tSU1L0gHKAUFVX3lxTE9BZTVLUmhnOExPQlc2LWRvZ2dBVHFNaXVOaWRWRTZRT2V6UDhNamVzYmUzb28zMW16VmY2ejdfMXBVYVZ1c3o2VnU0OXNaQ25RQk9wbV81aGZJRDFmbUpKc2oyVy0zcnhMdFBkdmtseUk5dkJ3eW9UeVhJcnZveWlTSG41dWI1WklGWWIxTmZXdkd3T0ZyM1N2aVg0b2lDOTNfdW1QNnVJaTdyWmxLUmtYeGk0dWlxWGxGUlhzbzBRTWlCbTVObWdpY0E?oc=5",
+      "published": "2026-09-21T20:26:37+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "What the equinox 'henge' effect tells us about U.S. cities",
+      "summary": "What the equinox 'henge' effect tells us about U.S. cities NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wTWJkc1ZibDg2YlpBNzM3MlUtNXNsbDhTMzJrMFMzS2FKUjlpMWVXN0V0MzU5SEFpMUdtVFpnaWxvZHh6S0duT0c0N1RFT2xZbUluTjV4WllYOWJUczM0MlNiM2V4R3VBZ0VBdy0zRzJJeG9oQUtLcC03QmNLZw?oc=5",
+      "published": "2026-09-21T19:50:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
+      "summary": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SZTYwV3ZZd2FHUmJlYUlQRUdvQ2M3U1UxV0RjaDE2bkpDdUFWR2lla2F6VFdSTElIV0ROQS15eVdDZUUwQXJQYzBraEx0TXdwcFJQQ2JYc1dmOThxLUJDWF9XelpfX2ZWaGZTS1VCQklLX0tiUHhoMlAwMHlzMU3SAYQBQVVfeXFMT3RTeU5FeDVtelBGMV83WlNtQldlaFFtUU0ybWRwR2RwRGhKYktLcmlhMmFFQWE3TFpZYWxkOVhwVVRFa0lHNjJLdkxDcTRoQXFRTkQ2NHNaSWQwYmhJMkI0VGt4M2F5cW9ZU3JxZ2hkbWREMmFsZUFWdUUtYUVDb0JLUFRy?oc=5",
+      "published": "2026-09-21T19:28:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Is there a non-gay explanation for these spicy WWII \"massage\" photos?",
+      "summary": "Is there a non-gay explanation for these spicy WWII \"massage\" photos? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlBmUHNubXhKMGNwRWd2SlNxTl9SS25ib3pqLWI2YWZEQlhBSm1ZMnpkSzRNRmlOYTFDNmF6RlUtdllkS0NUeExTZ3RHY292WnZuMFdNay1KZkxQT0xkSmkxXzBLWVVSV1lVWVVHV2wxN0U3S05oQ21mOFNrREhaMEE4R0hLckxzMlZBSUxZQmFuc2tiUkJrVjl1UHppM3dod3c?oc=5",
+      "published": "2026-09-21T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Technical Problems Ground Flights at Major East Coast Airports",
+      "summary": "Technical Problems Ground Flights at Major East Coast Airports nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2E0UkwxYlYwbUwzR2Q4QnJ3Q2htMHQ1U1lxdjZUM05sYnJWLWhIaFh5SG9jd0VadzVpRk52Mk9sLVU5OTg2NW5MMTJKRDhXa2QzSHhnc3g2LXVOUzY4Mzd3SUN1R0tFZVpFT1d4ei14eDF1TkEwQURyd25MeHhJMkUycFBydjlDWlhqbHlPV3dqT0tVZGsxQUpBSQ?oc=5",
+      "published": "2026-09-21T18:59:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+      "summary": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5",
+      "published": "2026-09-21T18:28:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Iran to attend UN assembly in New York — even as peace with US remains elusive",
+      "summary": "Iran to attend UN assembly in New York — even as peace with US remains elusive CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObk5TZXpFS292M1JJZ2FPMWFzTHg2ZFlVaE1DV1JFWndUWDB2NkMwUG5ZVDdNVW5ENS0yenJmX1pzTm1NOG8yN05YQTV0ZVRpaTdZcW1NUWx6aWFuNDhGTUJac2FJVkNpRlpPUUpZUXpienJfWldZY0NVeHdtcndyMGtjWEVIQkV4LV95MDJ1eGdCeXNz?oc=5",
+      "published": "2026-09-21T18:23:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Rhiannon Giddens' banjo connects her to her ancestors: 'The spirits come through'",
+      "summary": "Rhiannon Giddens' banjo connects her to her ancestors: 'The spirits come through' NPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWC16MGhrNlpIbW5yeG15V2pmbm9Ra3ZHaS1iU0c2anhMLVViNWFDVWlMNUVFdHVlVW9famtqNUF1SHpKY0hxN0c3ZHV1R2toczdyeVE0UGtnOWR6RDRrRzE1eHNjT3ZaaElEV0lJS3phUzhkby1QaXRHSWJUV2FscG50NFVmY1FzUEYwTFIyMS1aLWRL?oc=5",
+      "published": "2026-09-21T18:20:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Fiber cut by construction crew leads to ground stop and delays at several major airports",
+      "summary": "Fiber cut by construction crew leads to ground stop and delays at several major airports CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KUWZGSE9fclFuS3YzVkpibDJCY3pjaWFZZ3BYMURXdFE0RWFQMTFtUHY0WEg1R19VY2VDRGdIQ1Nqb0VsTEczVGpCTldmRWdCU3JLN1VJcHdrTkZuZURfdXRkaDRGd2RSNHZHOHNCaE44RnBU?oc=5",
+      "published": "2026-09-21T17:56:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Newsom signs bills to create new system for community college bachelor’s degrees",
+      "summary": "UPDATE: Newsom signs bills to create new system for community college bachelor’s degrees edsource.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDVCSzVsVDZSenR0S1dEYzI0bldSWXVNT2dyZVI1RDJrcmRleTd6S1QySFYyOEJtTjgwbXhKYXpGNXZHQ2FOR3hKNGx3elZJU1JOVlFMVjhMRlpidW0zdkdWc2NtaTBWN0RhVWk2QkIwc1h5dktTM1BGVmk5NnJKclRJSmJXekxidzRTR1U0cjFJRXRDeDlrbXBEQ1RFeGl4Nmc4eUFWMno0SmxL?oc=5",
+      "published": "2026-09-21T17:55:24+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Man Found Guilty of Shooting 3 Palestinian Students in Vermont",
+      "summary": "Man Found Guilty of Shooting 3 Palestinian Students in Vermont nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2d1bDg0SkZLWjU4aUpTQXBHam1maldKcnk5UVlSeUkxVHBRMnZpNl94NHlmN21iRjNYYzAycHR0dnB4a09iLUVJRWVyTG5SbEQxejI5cUlPekVCbmpKTldsT2dLU1pCZHVhNmhPd1AwakFZbnJMeE91N1dwVjFDdmNWWmxtNE5aalVBU3RSOTdkZ1NTRkE?oc=5",
+      "published": "2026-09-21T17:42:19+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Presidential TV pool suspended after Trump bans CNN",
+      "summary": "Presidential TV pool suspended after Trump bans CNN CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qak9sVThyTHlrV0RFN3ZWOC05T2FXQjBXV2VsNHp6cVBmNHFZTjdkR3lPOW12TEVscERUMnlNTXhpYS01dTgxVzRCLW1xLVlxVDdnSW81UHB6TVljSVZjcndJM2k2WVRtaUNpaVB6Zm1zSWZMbFp3eV9uRUVaNDA?oc=5",
+      "published": "2026-09-21T17:27:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "State attorneys general agree to settle Paramount merger lawsuit",
+      "summary": "State attorneys general agree to settle Paramount merger lawsuit CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVE1valFKck4wV3QySzNndE9Kby1vTWdnWkQyLXZtX2FJS3pvOGdLRThIX2JFOFZhYlVsaEtTanV0d09mempuTDg1VldxTFpvQnVENm9XU0F6N0ZleXZ1b0FpbmJiRzJZWE9NRXBaOUdqUXFybzJkOWdQaGZCZHBkbkhzdld1VUUwejR6ZWhmYTg?oc=5",
+      "published": "2026-09-21T16:58:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+      "summary": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02UU1OaGxUeG43SV9sd1pNU3RWbjFVdm5tOHR6NEx1OV9KT0lRZm5ZdmFRNlA2ZDVfeUlpWk1qSWZCUWl0MmVUbXRlUmIxUTVFTnZZX0pUcWlCeS1TM0ZNckN1aWpaaVlCQjJMbVFzY2NYVTJDdWJGM1l4N3V6WWM?oc=5",
+      "published": "2026-09-21T16:40:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -96,7 +277,7 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "Growing pains for transitional kindergarten one year into full expansion",
-      "summary": "Growing pains for transitional kindergarten one year into full expansion EdSource",
+      "summary": "Growing pains for transitional kindergarten one year into full expansion edsource.org",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0ZaS2xfdWZ1aWR1cUZUZWsyeHAxWU1mTDJxUmRUNFVjR3IzWDdjU3FnemR3R0RlcDNCU3FLWHhHMklGakluNzhxQzlYMTBYTXZVSnRyTHJRd2hsN0VaYUtkQVNxU0hiMEQzYTJPOXZIX21nUUlNVnBlcTBoRDJBNdIBiAFBVV95cUxPNFFqY05zMW1iTUdwS1VCSG5fUEZLbVR6MWJZOXJJTjAzcHdqT3FTSE5fYldZZk00ay1oR3VQb29uRTVDVGZ6OXlMemh4MC12OVhmUHhfY21QTjdyNDU3SFlxVjhNVUtuQ09DZWRIZTJwbThCWjB5eG0wNFBtbHV1QzFHVWtDSkot?oc=5",
       "published": "2026-09-21T16:05:28+00:00",
       "beats": [
@@ -104,39 +285,28 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "What is the White House press pool and why does it matter?",
-      "summary": "What is the White House press pool and why does it matter? CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5td0c5bVJhMDNXR2dpS1pWdFJMY1dBUTlLT2JSLWZVbW9KaXBVOWxFdWJZSjlKOUNSOGx1NVY5ZG5TdXJ3TDRLVEh3QVQtNmkwY25NZVBCM1d5TmlZMFU2QkZ5TlZCUlpGQ2FXdy1ZUkkwb1B1bnFKWWx5aTBkd9IBgwFBVV95cUxNeUM4OHVUWTFWSzBxOGkzOVdERENwanV6OXd1Q2VRaVpuYVhfVHd3VFRTTEJlYjF6cTJJQXhnTXQxVWlLMVNkTHlqeTlXdEpfaXNnUE5KdENIN2pmNHFJSzlSS3pvcGJ4dElPVFlyckl4QnNpOVRGcnBUTXRudXdYeDNXQQ?oc=5",
-      "published": "2026-09-21T15:14:53+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "10 thoughts I had while watching the balls-out, b*tts-out first episode of Crush House",
+      "summary": "10 thoughts I had while watching the balls-out, b*tts-out first episode of Crush House Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmExQjRmak5wVHFUM240cE9YblQya0cyZVc4REpIR2J0OS1JTHhzRVJfMWtUaEZsLWs5SjNwc1NxQnVVU1M4UU5SaS1Nb1lYY0VNdy1EdWF5dGZBaHRQQ2szUGQ3X1pSaVlUVWpJVzJ0ekhBN0NUX0l5dzc2TUxtLTNWdWRBNzFXMmxiX1BWNmJIOURtTUxKSkNDSkJRc2xWbU5jOGN0djlsNmR6Rkg4dThrUjA0aHlpNmc?oc=5",
+      "published": "2026-09-21T16:00:00+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Illinois Gov. JB Pritzker says he has lost 80 pounds on ‘life-changing’ GLP-1 medication",
-      "summary": "Illinois Gov. JB Pritzker says he has lost 80 pounds on ‘life-changing’ GLP-1 medication CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LU3VQTVdnOGtkY2E2TzU4MmNUaHJUOFIyemwxUGs1RmdZOTh1MDVaZXJMbzBIQU9mdjJIS2NWWWdpbzUycklTMTg2dE1SNE83RU82b0dLMGhZUjNCMnhreGVockw2T1JPN2pDN2hTMzQtdWFoLXFr?oc=5",
-      "published": "2026-09-21T13:25:14+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Networks stop TV pool coverage of Donald Trump as banned outlets sue over censorship",
+      "summary": "Networks stop TV pool coverage of Donald Trump as banned outlets sue over censorship Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWE1DX20xNW1URGZla19uaGdJVlN2T3lUbkQtaEotckM3NVhFSk9BcDg3OGMyTUxsNGJ5TEtHM3ZLdGl1enF0REZRZS1Cc3BhdkxUa1Y1TGhmdjlCNnVHT01WQ0NnbUl3dG5zb3JpcUVjUHpIdURyLVY1VUI?oc=5",
+      "published": "2026-09-21T15:12:08+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Natalie Harp showed Trump coverage clips before he issued media ban",
-      "summary": "Natalie Harp showed Trump coverage clips before he issued media ban CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4eXBnclZidFlLMUxBUHQ5YU9XRXN0dFM5enZQZGNqeWdiZllTZ1E4S3Y2UThWYnFwTTFmYUFxSE53cThWMDd6YXEzOHlfUVdoRWxVNTM2ckRzd0tZLXZDVFp1Y2hxbzViQkNsYjVwNW1uNW0yajY0?oc=5",
-      "published": "2026-09-21T13:00:34+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -144,59 +314,11 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Week In Review: Rising Leaders and falling turnover",
-      "summary": "Week In Review: Rising Leaders and falling turnover k12dive.com",
+      "summary": "Week In Review: Rising Leaders and falling turnover K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjei0wV1hBbC1hM25STVpmREJaeVVEV19HNjNFaV8xT3p4QVBPdFpwcmZadEwtUS1VQ09mWXE3UHd1cDFmRkhVWGRLV0FMem9aRE5ZaUV3LVlDMnFUeXI0UUJIeFRkYV9nRHhpNEhOdE1RQQ?oc=5",
       "published": "2026-09-21T12:32:19+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Is your college and career readiness strategy a program or infrastructure?",
-      "summary": "Is your college and career readiness strategy a program or infrastructure? k12dive.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmQwM0gtd0x2NzFWTVJueFlRTWRVSUllSmNraElrVEVHalVUaks4ZjhTcVk4UzRxMjBBZVVQWDBvb0ZvZ19PdFVjZmNISUxrZmsxUUNyemltM2pDOEJ6Slp0b3dZWjdYSUZ3SzFoSVpCajdWQXBicUJrSFRrSmFnejZSQ1YtY1FRYlh3Mk5uU3hKbGhYdElhaExaeUpwU0dNYUtuNXBMWmFSeWpBa1g3Vw?oc=5",
-      "published": "2026-09-21T10:16:23+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | America Is Blundering Toward War With China",
-      "summary": "Opinion | America Is Blundering Toward War With China The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xNDhvX2pJQmRhU191cmdNbzYzNXRMY0RWeUx4MmN4cEZVN2N3VXExZU0xVUtseGF3aVB3M0ctNG4yMHBTelcxOXpLN091SzQtWk1JR2JDbjktZXp0bUE4WkV3dUt5bVdaNVdLQVdCVjhQdGM?oc=5",
-      "published": "2026-09-21T09:03:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb",
-      "summary": "It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelowUXltTmVGMjh3YzB1T29hTGJvNHhCRm1tOVRaVjdpY0tMRUpubTNIbVNSbUM3emlYWDhhRzhyWGVSSXlGaHFqMW5qcW5BMC01dWNmVDNrSFFVOTk5QmxjVEV3bXphc3ktYXJLV0lzdWk0bkpjNFdHNWRWMUo1S0pVVGI1Zw?oc=5",
-      "published": "2026-09-21T09:01:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "How a national farm leader is dealing with record diesel prices",
-      "summary": "How a national farm leader is dealing with record diesel prices NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkc5UXd2R2U3QnNEWGRXdDQ2OHo1TkhIeTJ4SHFycEYxaDhvVzNZQnNtQV9QZjViUDBHcjNBd1NLRDNSVng2R1FsVTAzMjdkNDF5bmNzb3BULU1CaVFLbUlKVFFkZXR1NG1haG55UWR0VXVTMFVNNmJ3SXd5bmdiNERNVWlkWktoc3hLa28wZw?oc=5",
-      "published": "2026-09-21T08:40:54+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -224,11 +346,23 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Can Schools Trust AI to Translate for Non-English-Speaking Parents?",
+      "summary": "Can Schools Trust AI to Translate for Non-English-Speaking Parents? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkFmUnAxRl8wbUhvRUIzbllOeGZMTVIyckFnS1NiMVNCeDdqeEcyTTBGV2N3b1QwbTBkNGVOQl9yVWcwOWVQYjVrUVJxanlCS3o4VXJTMUdFVWp5OVh4eVZMVmFoeV9rYTZDQ3JQZm9JMTB4TklkVUFhYUlySW9pazk1cVV0SVRXNk1DY01QVGhSTTBPRUxWaHVsWUxteFVNd0JCZ3FGZkxod3Ny?oc=5",
+      "published": "2026-09-21T04:02:36+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "The 100 Best TV Shows of the 21st Century",
-      "summary": "The 100 Best TV Shows of the 21st Century The New York Times",
+      "summary": "The 100 Best TV Shows of the 21st Century nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1BqeDR2djBDYVdyeFUyZHNHc2t1YVdQZjlZMU5WWlJtU3Bma1FVM0tHYktxYy0yWlM3YUZFZ3pCYmNIZWlYbVF0QkJMVmhISXVoWmtqSHhLb3QzekZwemU0aGpHRElpdm1RdmROeTVmY2J5NDZtOWJIV1ZLTzBQbDBLa09rOTVhV01ZWlNlQ2Y4dw?oc=5",
       "published": "2026-09-21T00:22:05+00:00",
       "beats": [
@@ -245,139 +379,6 @@
       "published": "2026-09-20T23:00:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "WNBA star says transphobes are just exploiting women athletes: \"They don’t care about the WNBA\"",
-      "summary": "WNBA star says transphobes are just exploiting women athletes: \"They don’t care about the WNBA\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUJEMEljVjZCT1pOYVp2Q21uTldtZF9ycEYxTTZvNG9KUWtsSXRHRUdta2NrTEtrUWFZZUF6T0tCMFlwQjdqZWc4VEdCQ2RVYlJ0LUxkSkxOMm1ocWEzNnFuU3VZYmowcmlnakZzeWs2cGE2Rkl5MWxCTDVhWHRLS1ZzdlpYY192S2FOU2M3dmRLNURmMHJyV2c4TXB4NFZ3cllZeWFnMlV5Z09tSXFCVkFBakQ0WTFFNGFRUTNVTUdBT1hoNzRn?oc=5",
-      "published": "2026-09-20T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Sarah McBride tears into Tr*mp over his gilded desecration of the White House: \"It's tacky & disgusting\"",
-      "summary": "Sarah McBride tears into Tr*mp over his gilded desecration of the White House: \"It's tacky & disgusting\" Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM21OSVRZVVdPdzdQU1dULV9KbjhDbHdVaUlpTldGQTZmZWdyc05UaFdGbG9UOUN1bEM1bk1IMzd5Wmk1OFliaGh5c2YwZUxGakNXTEh3VUl6TDZIUjRvZ2hGMFhuXzYzb0tVdXQwS3c0eVZ6a2hGRXpfSXJ6YXZaNU0xLWdXSHQ4Wld0TEY5NFRBQlFRUjdFekx1dXRWQkV2d3ZOcnFrQkljaVJFblhDTDJiSWtmZ1llQ0RuV0xXems?oc=5",
-      "published": "2026-09-20T19:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Ben Shelton’s big game, Jake Shane’s pull-ups, & Bianca Del Rio’s makeover",
-      "summary": "Ben Shelton’s big game, Jake Shane’s pull-ups, & Bianca Del Rio’s makeover Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmFycHV4dFZPVnRsVFVaOV9CUnY4X2tMV2NOOFphUFFhU0hueldxOGthSjdScG43bmw4blYtemFYLW00c0dvRlJyem42MU5IZ3lqQmxtTnE5S3cxSXlBbFVNWDFUbzI2SUZuaTc3S3Y3Q3JfUUpuaXVwVy1FeW15OWVSazg3VFgwQmZPbnZzbnhEc1hvMDdxd05fNjJPWWtBYmFn?oc=5",
-      "published": "2026-09-20T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "IBM vice chairman Gary Cohn says \"consumer sentiment has turned quite negative\" in U.S.",
-      "summary": "IBM vice chairman Gary Cohn says \"consumer sentiment has turned quite negative\" in U.S. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0dCMlp0UzRoalB5dEp6QTRVZ1hYNTBxb05HSVdnZkQ0Tl9zVGhYZy16UWp2cnRrRWZBS1lKZ211X2NYVnpvS3pLZWM3c1JvX29oN0dqcnphSzJKSUVmblhJUFRjbzJwVG5tQldqLXhZMGFyWnNBMnZ5ZHdPeklFWWV4Ym5aTUNmVUZvdktLWWxDV29nZVlxR0pVZW1QcFdqYzRjalJnYkhHWTZQbjFhdUpUcGc?oc=5",
-      "published": "2026-09-20T15:09:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "2 queer ex-pro athletes get it on in a new, spicy music video",
-      "summary": "2 queer ex-pro athletes get it on in a new, spicy music video Queerty",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0NYdHVWV3NTTllWLU9FZ1U2WDg1SnNYMVZSbnNxMWdSb1Y1UE0yQzJRVE9aZEpxZFZKZ3dyQVM5OTJfaTRvZTlrNy1tTC1OekV0SDRBNGxWQTIzTzZkdWQ0cWc2V05WMWVhSXAyV1dicmhnR3c2RGQ4QWlUYk5hQ1N2Zk5aSnUwUmY5Um5OUzcySzZ0YmhYODln?oc=5",
-      "published": "2026-09-20T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Lauren Boebert denies alleged relationships with staffers: ‘I’m not a lesbian or bisexual’",
-      "summary": "Lauren Boebert denies alleged relationships with staffers: ‘I’m not a lesbian or bisexual’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZExTZXAwNHRfSk9nMXk2RUxxZDNnU0JZMDczU0ZGUUJrd1hTSVVXbEc0cTN2YUE4YVFCS0swUWg4c2RXdHpCYVNIdmNPeHZ1blVrY0JJbU9PR2V6VFJWendmQk93b0lTajRSSjdqYk43bjJqLW81RE5zRm5vX3ozaTMwakx1eUk?oc=5",
-      "published": "2026-09-20T14:35:41+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Three dead in Moscow as Ukraine launches massive drone attack while Russia votes",
-      "summary": "Three dead in Moscow as Ukraine launches massive drone attack while Russia votes NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdEFXU2pQVTB4SGx3MkFMb3hRMTV3dFZYMzd4SDBLSURMcUdNTGh1TGl4aVkyZmZiQ1k4YmFJYjdiVGRJQ0oyMFoycEtmTGhGRzhCMDVoUWYtWXdDSkEyWm42TjVQLXBLRVlXQjVfQjFkeHBTc1l0enJFY2VzSWM4cXJMeUFCU0RRbVU2b190ajlfT0kyQ0FDUnV0S0djSTFBaEtUZ001MVdJeEVQRlRv?oc=5",
-      "published": "2026-09-20T14:31:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Extended interview: Charles Spencer on Princess Diana",
-      "summary": "Extended interview: Charles Spencer on Princess Diana CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZHlqS00wMDFXVDFHdzJkN3p2aHdLd0lTSHFPM09uQ21CTkJqUkNwSVBmRXRWY29YVHlqdHBkV0p2N0ZORWlLMjhxLUJMQjEzWk95bl9FNjF0WUxjTmhXOXlySWdOakJVckxWeDBSeVpzeFZsMkxvaVlxbWViSy1yVlVRdTMzWERTUVBr?oc=5",
-      "published": "2026-09-20T14:03:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "California Mathematics Project",
-      "summary": "California Mathematics Project EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwck1tSGVqSGJWZU9PMTJZakRSNGtIQTgxNm5FeUVIelJyd1lXZm5GNXBZeFhDTlJXQ1ctWUItZTJKVC1iVGxXVlVhMEc2ZktRcElpOXdCR0lHdHVGN1JLUm1xWnlJdldI?oc=5",
-      "published": "2026-09-20T12:39:55+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trans women are not a threat to women’s spaces. But cis men are.",
-      "summary": "Trans women are not a threat to women’s spaces. But cis men are. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQanZQcmdnTzEzMUQ0Tk1tM0w5dEVNTjhQa0NYYVljLXB1ZHI2V1hjWGFyUlYxUTlYNlZkMzdXQVl4eS1FUVRiWF9SdFFZV051MEMwS2hIcjd3XzBtMXdqS0NpZzY0YWdiSk0xRmJTTVZoMk5LaTBjcldxZzVkSVlqcWpRRFRqaGpOdHVfclFGSWJKQWpzNW8xVEhiZUVLR2lyR2JmVnFyaWJOR01scElJOVpMYm1SaGZVWXpQRkVieEJZakxRRW9B?oc=5",
-      "published": "2026-09-19T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco Lowrider Parade returns to Mission Street",
-      "summary": "San Francisco Lowrider Parade returns to Mission Street CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTRFa2pfMkZvd2tSRVRPX01TekNXTnBvRXk5dHVSRXBjaFFyRy1NSkoxTkxLM29pTllzM0xRdzdNejF2STFleWNrM3BoTjROOERBUjFENXVLNVZJZlR5SVR4SVNfR3hjZHl0VzZVM3ZjTHV5QUpWT192OUlZSWppdmZZeTBoUE5xMXlXaG9zWUNpaGZXTVRIUGJTeUFkR1VfTFJpYUpUMTk0THNQYjA0MDFn?oc=5",
-      "published": "2026-09-19T15:22:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
