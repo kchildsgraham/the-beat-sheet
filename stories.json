@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:39:26.900439+00:00",
+  "updated_at": "2026-09-21T00:53:47.001317+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,30 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+      "summary": "Patrick Clancy opens up about grief, the memory of his children and moving forward cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSC1FMW5JUkJtd1hZZWo1NWl3LV9vbTcwckRaZVFPcnZCZnNvbGRXcFpHMHlvQ2FpTnExd2dUN0hON19JbHhqVmZCTml3MGFGcHg3TXhTXzNmR3N3Qm4xNHJVQXgwT25NeGNjRE1CUXJ3RmhiSnhvdVNuSFFhQmpYTlE1aHVIZw?oc=5",
+      "published": "2026-09-20T23:06:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Patrick Clancy: The 60 Minutes Interview",
+      "summary": "Patrick Clancy: The 60 Minutes Interview cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xZGNaMmlBLWR4SVFvYWx6dFVlYjhnd3dLaEdDWXBDbVpjSTNPVUdzbHBUWnNlbzRfSnEyd3Z4RXE0QW5SUktqVkplWVpNSDAwQVpnX3pkdkpadkgtRlRpZjdzZ2Vtbk5uUTBkNWVpVE5RcjQyOUhjYVd2dWxtUQ?oc=5",
+      "published": "2026-09-20T23:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -32,11 +56,23 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+      "summary": "Poison suspected in deaths of ten lions in game reserve in Tanzania NPR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHk5cVl4dVNsaW1vWV82am04cXpFUmo3R1NRRTBSN1JQTW54eEJVQ2ZLMzhaWEFWcXRhMjRUQ1dDM2NWbTdTTUhka0tTZ3N4MFhPTU5LSzNTa2IwbFlyd25BUjdKTEU4Vk5WckozNk1jcHhITHZxRlo4WkpYaDllbjZKcWk3TERzdTRlQ1YxWGM5Qi11OEdnVlZvWWZsSUo4aDZZTzBlQ2I4Z0tMNjhlZGRn?oc=5",
+      "published": "2026-09-20T21:39:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Police report ICE-involved shooting in Austin, Texas",
-      "summary": "Police report ICE-involved shooting in Austin, Texas CNN",
+      "title": "Man wounded in ICE shooting in Austin, Texas, city officials say",
+      "summary": "Man wounded in ICE shooting in Austin, Texas, city officials say CNN",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZnJfV3JMYThUT21NX1VkWHdod2RNSVp3NkwtSF9hWUc1dUpfNHd3NEFMTGFxVjdpTm5GY08xS1p1akxCZ21mY0tiWUNZYVp3MlFjdTdDcDVHcHM2bkdBZ1p6VjNBQUpSYkkw?oc=5",
       "published": "2026-09-20T21:11:10+00:00",
       "beats": [
@@ -63,6 +99,30 @@
       "summary": "GOP Rep. Salazar says she spoke with Trump and he is ‘very receptive’ to her warning about Hispanic voters CNN",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOHlmVG1ON0tJWktkU2JXenotMnJ3dUpCOGJEbDFoYXpmeE51MFhnZS0zMVplR2NraVpGSk5UWTFwVUhUTGtzU0EtTFR0ZnU5RnBsNE9xRENHRDlUZTFHSF8yR0gzOGR5cVBmSkhVeG9hck1wM0VvRTBuTzllTHFMSm5Vb1J5WlpFbFBfTzBXMkc?oc=5",
       "published": "2026-09-20T19:46:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+      "summary": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVQ3FoQm42cXVsN3B4bU9oZWprbHZFT19scTZYVWk4SlIzMUpXNXVMZlh3VjlocXVIM2tXSjNaaW9ONlBmbEZNV01jZm9qOXFpVXZSdURHLUFkZWM0OHhUZ3Nxdnp5Qk93bGJnUWpkcEFDYTEyOWZBNVE2Yk9PUdIBgwFBVV95cUxPRTZOS0pHNy1reW91VENKTUpGbEJTX0lHY3h5WkU5aFNkVWEybDZaT3c2VGxoQ3QydkFQUmNHcUhqZHpKWVNCWmtWRlRXYVlfU3lfYzFadGlfQWVrZXhFNlRfemxCVW4ycW5LUFlycTdva1ZuQ0xORlJlZkQ3cHlCTW5iUQ?oc=5",
+      "published": "2026-09-20T19:06:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House",
+      "summary": "Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXQ4S045TEtXYmtrTWh6bFQtZks0N0dzUVVsQmJFU1Z5UWdOWkEyZEM5cWlwZ251bTNJbmgyT0g1b0JrN2U2T1ZKUnVMNHlEQmhoRFFxa2RLVWwtNVplNXdVNF81TG45bE1SX21qLXFpMGFqS0FzZm5vTnJHNDdLY0pn?oc=5",
+      "published": "2026-09-20T18:28:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,18 +164,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
-      "summary": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones NPR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUNPNHZzWkhCWVlyR0Y0Sm1zLVFzNWpkRDdPTWZ5TFpPYTZJUlo5Ulh5aTVoWjlvRGRNTDl6VGUwa05LbzJYdzZlT2VlRmxBLUNCaGIzRWQ0YVltREwtWmNNQUJmMnFSUGZrOUp0OUtsZzBaTnV0Qk54bUtSY1RvQjFfTFBnM29VTzdyNEtsQkR4RkJGUkN5djN0TUFqbjE2U3Iw?oc=5",
-      "published": "2026-09-20T15:05:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -123,18 +171,6 @@
       "summary": "In Fighting for Every Black Child, Did I Betray My Own? The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0xteVBaNGNOSW5jWE9PcmVUY1JPNWNxcExtZmstbWZGeHlRZHloNTNPU0k2VDFaa0YyRjZ3SzNNaEVMWkE0bUQydEQyVEFzMlBWam56R3dBUWNZX0l4eUlKUnhSaGlUQjVPb3BoYmdqWmdFV1l1ZnVZaTllS2JJOVNDOWQ3RTNoWVNyTmllTUNlcVZoNmRldQ?oc=5",
       "published": "2026-09-20T15:00:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "The 'robot relations' department may become reality in workplace of the future",
-      "summary": "The 'robot relations' department may become reality in workplace of the future CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxbWw5STB4ek1ONERmeTJTVGV3Vmh6QnNVenUtTzQyUFhkSXJNUTk4M1g2VG52V0lqWVhhd3lydTg0alRJNzJYQTEzVzhWOGlnbjZYYzNzbGM0aEw4ZjhTem9MVG9rb3hK0gFuQVVfeXFMUGlPcC1OMXFHVlNYNnN3VnduUTkyclBJQ0RLSGxxWTh0M2dPQU0wZzR2bTVoajFvdDBxOXN4VDYyWDRpWllVZjdBWlRrNWZLUUlDeXp4VGZCdGlmZWVETmxYVWJ5QmozUW9ybUJuMmc?oc=5",
-      "published": "2026-09-20T14:37:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,6 +224,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "How a 1,000-Year-Old Tapestry Took London by Storm",
+      "summary": "How a 1,000-Year-Old Tapestry Took London by Storm The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVV3TGwxcXNmS1M0azFObGNRdGMzbEpUMV9VSjZ3ZXN2Z1lTVk1KTkx3bkExa3NYT1NXRGdsUklZbk1wWVdtNUEtRU5uTFlRRmZ3dWdnb2hoM3BaNVZhN3hkYkdCb252bVJMVGsyU2pKLUV6TzVMT3NENGFPMkZUQjhyU3hRTWhROFJpN3hDUzJNdW9NVXd0M21CQWM5V2FSNS1veTRUb3lrazJi?oc=5",
+      "published": "2026-09-20T10:00:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -197,18 +245,6 @@
       "published": "2026-09-20T01:59:13+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House",
-      "summary": "Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXQ4S045TEtXYmtrTWh6bFQtZks0N0dzUVVsQmJFU1Z5UWdOWkEyZEM5cWlwZ251bTNJbmgyT0g1b0JrN2U2T1ZKUnVMNHlEQmhoRFFxa2RLVWwtNVplNXdVNF81TG45bE1SX21qLXFpMGFqS0FzZm5vTnJHNDdLY0pn?oc=5",
-      "published": "2026-09-19T22:09:06+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -224,15 +260,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Trump vows to form \"AI Force,\" says he won't allow slowdown of AI development",
-      "summary": "Trump vows to form \"AI Force,\" says he won't allow slowdown of AI development CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIRjV2Q29jV2VQc3FNT05YSG9TWlpSV1pWZXRBaHVWTUkxdF9FeW5vcnpiSkdDbVVWZjJtMUtwUjhuZlB6VnF0TXMzWUdwSWNBd2VpdGRRdUUzd3pLWVE3RXNCRWtIQTZWRVBzSDlGaDIzN3hw?oc=5",
-      "published": "2026-09-19T18:52:39+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Sniffies unveils comfy undies, Troye goes Medieval & Mama Gaga: 10 things we're obsessed with this week",
+      "summary": "Sniffies unveils comfy undies, Troye goes Medieval & Mama Gaga: 10 things we're obsessed with this week Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVFh5Tlpva3cwRFFkOUtud29aNEIwc2FnWmRPRjhVQUJhUURCQzFOc0JHVndWd003WUFTaXN1UlNsMmlTQUNuZHBHZExfZTJrMmdIZURQWWkwR2gyS2g5QmtqQnJQV2N3VTFzNjRwRTB1WmM1QUpOak9iZWtWbWV6bDVTUG56clBka2RBb3lhUmFOTDMwSmlndTlxakFnNjJ5ZVpqM2ktc0p0bEl0Zm5NTXBBaDZfMGxOeW1meV9LQjY?oc=5",
+      "published": "2026-09-19T19:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -252,7 +288,7 @@
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown CBS News",
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
       "published": "2026-09-19T17:49:31+00:00",
       "beats": [
@@ -272,42 +308,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Gay dancers are showing their fancy footwork & much more on social media",
-      "summary": "Gay dancers are showing their fancy footwork & much more on social media Queerty",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnpta3hUT29nTWRLdEc5X3lnbzJyendoV2JpLUxoeWFGajM4M2dfdFhZNjdRYlJJbTNtanJidlpQZUd2em9KQnNTQ3FJeUxEWkNwUGV5WDllRUtYa1VlX3dNUlRsSGpYSzhNMnFXTUFJUThPSlBVU3ZubC1DQkRnSU9xNUxYNEJZZmtMZWo1N0kwX1FLSkowSWpFOUtyR2hMZzVjc1YzVQ?oc=5",
-      "published": "2026-09-19T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco Lowrider Parade returns to Mission Street",
-      "summary": "San Francisco Lowrider Parade returns to Mission Street CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTRFa2pfMkZvd2tSRVRPX01TekNXTnBvRXk5dHVSRXBjaFFyRy1NSkoxTkxLM29pTllzM0xRdzdNejF2STFleWNrM3BoTjROOERBUjFENXVLNVZJZlR5SVR4SVNfR3hjZHl0VzZVM3ZjTHV5QUpWT192OUlZSWppdmZZeTBoUE5xMXlXaG9zWUNpaGZXTVRIUGJTeUFkR1VfTFJpYUpUMTk0THNQYjA0MDFn?oc=5",
-      "published": "2026-09-19T15:22:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Denmark and Greenland leaders cautiously optimistic after security deal with U.S.",
-      "summary": "Denmark and Greenland leaders cautiously optimistic after security deal with U.S. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVVKcnQyWkgyYmlqV1FtUGpiWU43b0d4LXAzS2VTSU95LUdVUVdPVkhMcWdpdzZUN2JteVc0dTBvN1ZEZk42ZEFQTjJoZFBVZDh2NkFYckpZRUJ6Rk5SWmxXNnpyNDluNzNzNXhEOGVwSi1EQ282a1lHSVh2dExGOE5fRVg?oc=5",
-      "published": "2026-09-19T13:13:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -324,7 +324,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh",
-      "summary": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh CBS News",
+      "summary": "UPMC to end pediatric gender-affirming care after agreement with DOJ - CBS Pittsburgh cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHc1LXQ3eTF2MmNnSjQ3akxBV0RNcEItazZQdFloOTRRSmpoT05JNmpZTVp0dl9tSTRaZjVMUWNWRmgtOUlRSnc5ZkVoOTNSYXVJZURVU0RiWXBCODZ6VFRIQmVMV183NlZjeWI2ZXUzeHlWYlFrT0x2bDc5a3NTcTJuLThPVzh2N18yYmxR?oc=5",
       "published": "2026-09-19T02:54:14+00:00",
       "beats": [
@@ -345,15 +345,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "How Michael Kelly From ‘Lioness’ Became the Big Star of a Small Town",
-      "summary": "How Michael Kelly From ‘Lioness’ Became the Big Star of a Small Town The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHVONWVRQzF0TUZ6bmluOTFDU2RXMzJZZ3dNb25GTmtSTEhxeVNIZzJ3NFJlU1M4Ni1xVnVlbnFhRVZRXy1wMHVHWmZlOExoWVNrUEhPR0w3emxmcVRvZDNKTU1XbGNfcTVaSU1idGtVYzhuZUR5dzZFMnduanpEdlNrZGc4ZTJBZGc?oc=5",
-      "published": "2026-09-18T21:18:50+00:00",
+      "title": "Body found at base of Marin Headlands cliff identified as Roseville resident",
+      "summary": "Body found at base of Marin Headlands cliff identified as Roseville resident cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQklqSGFpOFBJUm9HNElPRzFhWmxzQ0I5SzRKUVUxZFJIMXhDYU0yaXBWMEd3VUFUczVHUXZEb3Itd2VVQlc3MEFFbzJkMkJMUXNKdU1tNEhWMXlEWVVJbk1rV1NlMkJnMEtvRFlEWnN6M2hmMjRPUFJRajI2UWx1Z0lqYWtHSWpESUVBaDBmZ2xtQW5NekdnX3BuQzJNUXlZZjhNR0ZYYmpyeWNnX2c?oc=5",
+      "published": "2026-09-18T21:19:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
