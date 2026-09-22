@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-22T06:38:57.525149+00:00",
+  "updated_at": "2026-09-22T12:25:46.230541+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,369 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+      "summary": "Autonomous trucking company Aurora looks to accelerate toward profitability CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qV1A2SW53MXdfZWVLZWVueUREQVV6dl84cmNZRnU5UnktU3Q3VnRYUmc4ZUd0S2o3WHg1cUkyOXBRSzRBWkxHbjAtZGJmU05fMGFvS0E0TlB4eXgzOVdIWkNZSVF2LUFxcGhyYWVyM3VWQdIBd0FVX3lxTE85ZmhGUVFCbi1LWjg2SHpPNG9PNHlDTTNOX0RscUdfdDA2LXNKNTN4TXllQTF3OHhLcWxkc1NBX3lfT3hNZGhwV0dqVEd0OHNPTVRmUzFEcTFUSVdac1RJamJaU0V4dXZhdlprLUlCNkhDTzdtMWpj?oc=5",
+      "published": "2026-09-22T11:30:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+      "summary": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFpBUEp5dGRteU9DRjRjYk00Ym1uTFVyX1FNV09rQkVzd1hIMGhqeDJqck5PdWZBTmh6WWJTOG1aYmRiajk4clotZklYaEU3dGItSHhQVjlia0FKNXFKbHJPM1YzeUM3WVFJOWp1RmNJdGlkZy05OVlPQWZFb3EyM1FPd2JKVjhsNzZYYWdCakk?oc=5",
+      "published": "2026-09-22T10:59:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
+      "summary": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREhlZGZUd2QtUUhLUVdfeEZNanNzR3JwVlI1cVRYbUxRRkhpS3Z4YkJvNE5SaTNPTUI1elpydmJlOXkyTEtxZmFqdDRjMmtyaHA4MW9YNlBNUkdnVk9ySE9Lb2FOc1pKZThISUVjbkhMQ2hDcFNKU3ltR3ByQk1XM09aVjZ5Z191aEp4ajJvdHp0Rnl0N0RlWjM1aWQ?oc=5",
+      "published": "2026-09-22T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
+      "summary": "AI solved one of math's hardest problems. Humanity learned nothing (so far) NPR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG9qMFh5V2xxbW5YbmNsWVlLUmhQTUhudG12TG5va1A4NTc3ZEJoMElWcjBWQ190SVpfckF6RG5TVjdFNGhqeEpyMk03TnpyVnBsN1VqSWtWb2tNRGtWTlV4enB4dnZQd3dhRGRjVmlvLVRoaU13anU5dHNrakFGUjJwdVNQblM5N191Ymp0SlQtZldBeHRpOHFQeTZXYXBZTEdv?oc=5",
+      "published": "2026-09-22T09:01:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed",
+      "summary": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMi1pYVhQOUdjTFVsRTBsVVBiYnZuemdZeGl0Z0JjUlA1UHpVUVd5dnltN1loWXREdEZ4YW94bzMyN1VHREQ3RXBveElLZTh4VmJNWGFyeV9GMFo0c1VGSDg5WkowR05DaUhjOTBfeERCTy0wSDRreDctZExGN25QclplOEotTmR0TU01WUYydw?oc=5",
+      "published": "2026-09-22T09:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Republican support for Trump’s handling of war in Iran shows cracks in new CNN poll",
+      "summary": "Republican support for Trump’s handling of war in Iran shows cracks in new CNN poll CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTdnWnE4dXVVWW5mOFZyeV9VV0FDaEcwMnBRQm84R19zUjRlTkJJREcwcXdXY3pBWDd3T1J5cVBXVWdUOXEzMm1WTlAzd18xV0pfY2Fxc3cyajNQRWdXTFhfb3J1NUlyY3FiOVhvX2syQTJ1NEtTWWlOZ1hNaEFMTWZoZFIyM1V1eHBld2FtSQ?oc=5",
+      "published": "2026-09-22T09:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Novo defends diversification push as CEO eyes deals beyond obesity",
+      "summary": "Novo defends diversification push as CEO eyes deals beyond obesity CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRW5sNWNBOW5VakRQcTk3OC1saVc3UlpMVzlxZkhvYjRLNEEwSjRJNXpHN3RtQmZlMHpLdi1vRHp3T0hicXo4LVM0N2dGdGtyc0NtLW9IR3VZVnJsbGdZeEFiRjBpTkJuY3RHT01fbzdtZ0VVR1dRdk5WT09Od1RLSzdiWFVDdTRLQ1F3d3U1dmRRNEI40gGaAUFVX3lxTE83bzF1MHNDYU5SbXI3LWlmUkUzbll5NUhiX1FwdDFfdzlmM2RuekhvRVJxYmZncFpxQlN3blNXVkZEbFc4d2VCLVRIUEpZZ2JwMW5KSUZlVkVMV2hsM3dhUGhCejMtRzV0cWpSdUxZNW5XQU50cmRjQlVfZkgyUUJBWE1icllVdzFUYkVkMXUwU29HZFVrOG9ZdHc?oc=5",
+      "published": "2026-09-22T08:53:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: AI trade goes Meta after Muse launch",
+      "summary": "CNBC Daily Open: AI trade goes Meta after Muse launch CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02bDF0a3ZHeWxNY3NCUkNUWkZxUk5ldS1RNFAxaGZ5a09ETXg0U0ZrdU14eDk4aVMyQmpOZjZtdllfMWlSYmVOMFcyTDAyQW5lNDNYOVo5Um01c180VXdEUWJNN053cG52RlRYWUJFZDFheU3SAXhBVV95cUxOTW8xeDVsZEdPeHRQUnE5eHhoRElUQWNySzNtb1pVN0VneUZpYmlweUUzQjlEY3YwNGlZanhwWnNMMDRvX2VVLTloMlhseW9MMnlNNjhjUHRjRXhlVFV1VEZ1VDRZSjFaUXNoQkpxYXlzZ0dJREN5ajg?oc=5",
+      "published": "2026-09-22T06:09:14+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Gulf leaders meet Trump with two fears: more war and less US protection",
+      "summary": "Gulf leaders meet Trump with two fears: more war and less US protection CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUtBZnk1VjhSejFzSE5aRDJQS1BBekkxeGRoWmdMTk51T3dVa3V2NUhnZmtfWTJCdW5YSUhxQU9ZS0dfRy1PdzVVWlBwMWtsOGdQNndfdnF4NlljZWctNm5XdjI1MmZDck1HcVo5ajNZOWtUNDNTMm0wT1dZT3B2Ty1ncDd6VzdoU1UxZUFtYW8wWTJrd19PY1BJUQ?oc=5",
+      "published": "2026-09-22T06:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "U.S. military leaders divided over action against the Houthis",
+      "summary": "U.S. military leaders divided over action against the Houthis NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblpwU05mckJ3Nl9IOE9oWGdtQ3NFR0pMUl9CZ09sR1lSN3JIbHptMVdiVkZxU0VlQUROS3d5bkNHNVYtMTFpa0FMM2Y2c0hjN0xqUUI1RmN0cmlTM0V1ckphdlV2eHp3TjhTUGYwRl8ySVhKeU1kRGt6UjRsUzloOU1iYjFKc3FMbnZtRmZmcU85TXNqRnJ6VDctdUxzbGdpaUpMZkZoaw?oc=5",
+      "published": "2026-09-21T22:35:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Teen Mental Health Is Improving, CDC Finds. Then Why Are Experts Still Concerned?",
+      "summary": "Teen Mental Health Is Improving, CDC Finds. Then Why Are Experts Still Concerned? Education Week",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTFHdW9SRFVYZm04ZjQ3azZRd3ZnOGRVVU1qTXJoaEgtV29hTWM1Y2loeFgwbEIyVE40cHJtSi1iR3NzbnFGcTc4dkNueVUwZEJ6ci1uaGhadmZPdWNYeXR3RGtpQWVsR25rMWcwQlRibms3TF9McTVrTUxBUVNXRW1Ra19YZ3lDcjB0Wi1zalRtUnZxVFZXc29vY281XzJ6d0RhRkNGb0NUd0dpalg3Q1F0aU80ZkNzQ1hPSg?oc=5",
+      "published": "2026-09-21T21:37:39+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Iowa’s largest district appoints new superintendent one year after former leader’s ICE arrest",
+      "summary": "Iowa’s largest district appoints new superintendent one year after former leader’s ICE arrest K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEZnZ2x3RFFFLXk2U21pMGhDZVB2eWhDSXplWENpb0NFX2hEVTIzVnk1Rk5XVHNuRXk2OWoyRlUyRTYtMjY0eVI0QjJ6cnRYbG13SGpIRWdiOFVLd09hbTlBeTRRZlI1VEdZMkdFUDJqM0NkdG9WdW5teUpLUk1WbjdTV2lfZXA3c202bU9pSFJHLUF6clhORjRqVFdHTmxoNUJVa01icXBuN1FCSVRqNg?oc=5",
+      "published": "2026-09-21T21:20:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Judge vacates anti-DEI directive that led to teacher training grant cuts",
+      "summary": "Judge vacates anti-DEI directive that led to teacher training grant cuts K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzBLcS00OUdUNWFCUHdiQzAzelFIVkZsUE9aWjRZM2xfYzNDUUxxRDZkbG9HNmhQSUYzaG05WVV4UWxDMG4tVlRLQjRrZVZ3MklodHpJVFBQaFozOG12dGtDbzM5LWtDdEtMUnVSeWh2VW93aHhMbTBFRWM4XzJ4NkgzM05QNFU4a2dNMTZ2VXJZXzhqUzVxbU5yU3Fid3lZY1h1Rjd6anA2aS04Nmc?oc=5",
+      "published": "2026-09-21T21:20:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Even Fox News is boycotting, but an LGBTQ+ outlet is still covering the White House pool",
+      "summary": "Even Fox News is boycotting, but an LGBTQ+ outlet is still covering the White House pool Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9obEw4Q1VjbnEtUDFfRXZpWHVhcjJDaTJjYjdVUXRLWDNXWFZvZDJva3lvTnQtQ2NRaEtNMjdzT3BMV1VuRzRaNnZyaVhrWUF5QkJJaWtqMXZ4LTZ1bEo1VXNDY1ZFWEdSei15S01lRXNvaFE4M3VSM0Vfdw?oc=5",
+      "published": "2026-09-21T21:09:18+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Paramount reaches deal with California, other states over Warner merger",
+      "summary": "Paramount reaches deal with California, other states over Warner merger NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3RjTHZPOXlITXJPT28tamttdXBMb2IzUlFQMGxvMFBMdDhLeGhVY0M2V1NWa3pJejJ1U1ZiZXZyRHB6a3Q2NkROSDhfOXBzck1rRlI3czNmNllPMlZ4Z2NkeHdOUzZLbzRxQVFaNkVNX0pLTjl1OFVKMTktVTNVdHVqUmIwU0wteVkwUGEyckVQMVcwSWpNa0NiQTJZM3h5bHU3SmdwRDVkM29nLVpnR3REOTI?oc=5",
+      "published": "2026-09-21T20:37:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access",
+      "summary": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmJ1WG9YRWZ5cEN4cW9PcWN2MlBKb1UyODVxQ1lUN2VnSkJibFhiNHhrelFiMzJBUlZqNjhjOERRaFNBSzY0a08tanRIb2xPOE4yNkgyOUxxeDRyU05YdEN4aVNHakdHQ256MGdDakhqNkZ5RjRyWnB0WDFkaGZuRkIyc0JXejNJVi03a3ptbllUMXRfaTVUUlFQQUtGMjZ3VHJHRDhn?oc=5",
+      "published": "2026-09-21T19:02:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Is there a non-gay explanation for these spicy WWII \"massage\" photos?",
+      "summary": "Is there a non-gay explanation for these spicy WWII \"massage\" photos? queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlBmUHNubXhKMGNwRWd2SlNxTl9SS25ib3pqLWI2YWZEQlhBSm1ZMnpkSzRNRmlOYTFDNmF6RlUtdllkS0NUeExTZ3RHY292WnZuMFdNay1KZkxQT0xkSmkxXzBLWVVSV1lVWVVHV2wxN0U3S05oQ21mOFNrREhaMEE4R0hLckxzMlZBSUxZQmFuc2tiUkJrVjl1UHppM3dod3c?oc=5",
+      "published": "2026-09-21T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Newsom signs bills to create new system for community college bachelor’s degrees",
+      "summary": "UPDATE: Newsom signs bills to create new system for community college bachelor’s degrees EdSource",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDVCSzVsVDZSenR0S1dEYzI0bldSWXVNT2dyZVI1RDJrcmRleTd6S1QySFYyOEJtTjgwbXhKYXpGNXZHQ2FOR3hKNGx3elZJU1JOVlFMVjhMRlpidW0zdkdWc2NtaTBWN0RhVWk2QkIwc1h5dktTM1BGVmk5NnJKclRJSmJXekxidzRTR1U0cjFJRXRDeDlrbXBEQ1RFeGl4Nmc4eUFWMno0SmxL?oc=5",
+      "published": "2026-09-21T17:55:24+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Man Found Guilty of Shooting 3 Palestinian Students in Vermont",
+      "summary": "Man Found Guilty of Shooting 3 Palestinian Students in Vermont The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2d1bDg0SkZLWjU4aUpTQXBHam1maldKcnk5UVlSeUkxVHBRMnZpNl94NHlmN21iRjNYYzAycHR0dnB4a09iLUVJRWVyTG5SbEQxejI5cUlPekVCbmpKTldsT2dLU1pCZHVhNmhPd1AwakFZbnJMeE91N1dwVjFDdmNWWmxtNE5aalVBU3RSOTdkZ1NTRkE?oc=5",
+      "published": "2026-09-21T17:42:19+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Growing pains for transitional kindergarten one year into full expansion",
+      "summary": "Growing pains for transitional kindergarten one year into full expansion EdSource",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0ZaS2xfdWZ1aWR1cUZUZWsyeHAxWU1mTDJxUmRUNFVjR3IzWDdjU3FnemR3R0RlcDNCU3FLWHhHMklGakluNzhxQzlYMTBYTXZVSnRyTHJRd2hsN0VaYUtkQVNxU0hiMEQzYTJPOXZIX21nUUlNVnBlcTBoRDJBNdIBiAFBVV95cUxPNFFqY05zMW1iTUdwS1VCSG5fUEZLbVR6MWJZOXJJTjAzcHdqT3FTSE5fYldZZk00ay1oR3VQb29uRTVDVGZ6OXlMemh4MC12OVhmUHhfY21QTjdyNDU3SFlxVjhNVUtuQ09DZWRIZTJwbThCWjB5eG0wNFBtbHV1QzFHVWtDSkot?oc=5",
+      "published": "2026-09-21T16:05:28+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "10 thoughts I had while watching the balls-out, b*tts-out first episode of Crush House",
+      "summary": "10 thoughts I had while watching the balls-out, b*tts-out first episode of Crush House queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmExQjRmak5wVHFUM240cE9YblQya0cyZVc4REpIR2J0OS1JTHhzRVJfMWtUaEZsLWs5SjNwc1NxQnVVU1M4UU5SaS1Nb1lYY0VNdy1EdWF5dGZBaHRQQ2szUGQ3X1pSaVlUVWpJVzJ0ekhBN0NUX0l5dzc2TUxtLTNWdWRBNzFXMmxiX1BWNmJIOURtTUxKSkNDSkJRc2xWbU5jOGN0djlsNmR6Rkg4dThrUjA0aHlpNmc?oc=5",
+      "published": "2026-09-21T16:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Two more hospitals strike DOJ deals to end gender-affirming care for minors",
+      "summary": "Two more hospitals strike DOJ deals to end gender-affirming care for minors Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1RFeVk4aUlJMDItQnQ5Qnc5M2pJOXRYbHZoWm9BVVZKdDljU3RQU3ZpRVZnUmlqdHY5Y2VSdi13dFg4NEFlclF2c3dMaFBjTEJtOUcyQlNNa2xnTWZ3YWdzV2czbmN4N2gzd2loMGE4YkpYMTBEa2VGRkh0MlRxdmtDUQ?oc=5",
+      "published": "2026-09-21T15:38:07+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week In Review: Rising Leaders and falling turnover",
+      "summary": "Week In Review: Rising Leaders and falling turnover K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjei0wV1hBbC1hM25STVpmREJaeVVEV19HNjNFaV8xT3p4QVBPdFpwcmZadEwtUS1VQ09mWXE3UHd1cDFmRkhVWGRLV0FMem9aRE5ZaUV3LVlDMnFUeXI0UUJIeFRkYV9nRHhpNEhOdE1RQQ?oc=5",
+      "published": "2026-09-21T12:32:19+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "CNN, MS NOW and Politico sue to restore White House access",
+      "summary": "CNN, MS NOW and Politico sue to restore White House access CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnFfZzc3SklFb25vVUpndTNMTjNwN1I2UXA3NWVVQlptVmpWcjFRS3ZZTlNRTXU4WGdrWWxPWlViOVdwMDdyOHJoUDNjT0lCMVZDZ09TQXdFd3dnWXh6UGRQMVdxSkZPTzRSRm9EWGJqQ3JsWFhSdFdKc0kxWTF3S2ZVQ3hLS2hIbkE?oc=5",
+      "published": "2026-09-21T10:52:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Texas poll: James Talarico holds a narrow advantage for Senate while Greg Abbott leads for governor",
+      "summary": "Texas poll: James Talarico holds a narrow advantage for Senate while Greg Abbott leads for governor NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmVZV0dTYTVwdkdRX2xOTVJKb2NDa2t2VWpvV1FLNFN5U0ZMc1lOb0h1Z0I1TWFwS1RKRFlUcTc4Q195TDFaQVZfdkR2c0hmdGNYQWtnWC1NVzhlV2ZISnFXYzZSMmdnWHhNZFBHcWRGRUpmRnJqUUYzWEhZQW02Rnl4TVFmc1JJZVBzbUF6bkZyeW50Sl9xSVR4WExtOUJ6YnhSa1hXM1VEUW11X2xNTldXZ1dObGlHM2MydkNOb0Y2SXdzOG9F?oc=5",
+      "published": "2026-09-21T10:00:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Police Investigating Overdose in Death of Presley Gerber at 27",
+      "summary": "Police Investigating Overdose in Death of Presley Gerber at 27 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnhsZWFVM3k3TEZfTE9LaFhRRnBqWHJVOGNyRkR5LTZ1OUZQTWNwcmRqa1RiamIxazhBQ2ZGak0xZV9IdThrcDdfNlA2QTRpeXo4d0pJcmk1S3F1THVUMmt4WFk3bWo0VU8zT1NWREktcmxfSGZOenFOUjNDUmpieFVfaV9wa1U?oc=5",
+      "published": "2026-09-21T09:14:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Supporting English Learners: Practical Solutions for Today’s Schools",
+      "summary": "Supporting English Learners: Practical Solutions for Today’s Schools Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1VUODlOaW0tbnVMbmJJVzJScW5FWDRvWXktSHpzU3BkYXU1Zkw0Wk04ZlNtZlZQZkRkV2h3Y3FTTU5TeEJvNFNQckxKcFpLWGh2cUd0djdYU1Z0SVBWVUk2X2dFWktybUhfY2xlNnZva3Y5MEJqWjdQMG5MeEtpa096bkdGOEwxaGRXcHBaTHhucVZEY3hCbDB1a3IzSk0wY3E3a3cwcUEwbm8?oc=5",
+      "published": "2026-09-21T08:06:36+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How One State Is Identifying English Learners Early—Without Misclassifying Them",
+      "summary": "How One State Is Identifying English Learners Early—Without Misclassifying Them Education Week",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWxZOTRGNFFMQTNBbFpabFc5TFVjbmNRZkI1emlaZHRPZnZUaDY1WGp5eFdXbTdya0NkVThUcjFnYmd0TDFoSTJHTUNiQXdWTWRSeW1YYmJPYm9odDF1cmx1bXlKdUJJa3dlcGp3TjNlMXNYVXZOSFVzWkhGWUJScXBETW9tMzU3cFdWZWthTzU5MThHcEtyZXkxdUdrMDRfRVhiOVlUM2U0MW1OQkp5eTQ5Q0tfU0xQWUlEX2J0bkFxUEprVFU0?oc=5",
+      "published": "2026-09-21T04:02:36+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "COMMENTARY: California needs a stronger state role in education — without abandoning local control",
+      "summary": "COMMENTARY: California needs a stronger state role in education — without abandoning local control EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFZYdm9jUndleVZYLWxDTXpSeThsYXVxYm53aHdjV1BTSWppNjZLY1h2cWxDSFpMRWFRN0ZnZG41YWhpdUdXMU1TN2p5NlI2RXFwaFpMcFJ0Q1BHNG1VLTBHQl9rVWtmVEV1NUlJTmRnNUkzUzNrN182YlZyMFVzdzBn?oc=5",
+      "published": "2026-09-21T03:14:39+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Chileno Fire burns more than 300 acres in Marin County, forward progress stopped",
+      "summary": "Chileno Fire burns more than 300 acres in Marin County, forward progress stopped CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVRiQ2J3cElramNIWGltT01jZmRobUZrOEJhd3hKb3J6UTJ6Z19oVm5uRzVRS3l2NjBzUkJBaVpvNjd6S2U2amFtQnRrSG5XRjlNbUZCcXE4bWpaUFZOUzVtNFh2aWl2SUsyREI2RHM4RkpEdjdJSnJLa3JDVU9BVU16elkxRjYwQ2pN?oc=5",
+      "published": "2026-09-21T01:24:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    }
+  ]
 }
