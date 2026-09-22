@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:24:05.514780+00:00",
+  "updated_at": "2026-09-22T23:10:25.705203+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,75 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "DoorDash Agrees to $131.5 Million Settlement for Shortchanging Workers",
-      "summary": "DoorDash Agrees to $131.5 Million Settlement for Shortchanging Workers The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1lPRUYwa2hCaU56ZzNBaUZvQ0hvTHNONEx0OWxSdnQwTXRDd2dOeWZXbWl2TkhvWjNaYWE2Q2FQb0QwRy1LZk41MUktLW5ZMVlVRVBhUjR4X1Q2M3N0T1BNdzhLWmNXNk05RXpYQ1FmVVdJQTlDSFZuX21SNTNnLVNjYWt1VTJ6dkhvaDNR?oc=5",
-      "published": "2026-09-22T19:31:28+00:00",
+      "title": "White House launches 'Trump TV' after ban on major news outlets",
+      "summary": "White House launches 'Trump TV' after ban on major news outlets NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRllOUVRILTZsSndKZl9hRWVKMjdBZGJvdjIwblpKNlVPTEdsU1RlSGF1TEJveWMxWkFHREpCSnh5eXpFdVF2anJnWF9tU2tsc29jdmVsd2xSYWpCVDVreEx1Y2NCdzJZMjhVT055YW9jc1d0d25raDBBUVRPS25aeQ?oc=5",
+      "published": "2026-09-22T21:31:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Melania Trump breaks with the president on media ban",
+      "summary": "Melania Trump breaks with the president on media ban CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZjFFTGk5REdrQkdvNEQtazdHQ1hXdW5wWXp5dG1oSTNFbUJvUzBxUmJ5SUtjUE5Xa1Fwd0J4QVhfNGhESUpKbEczU3UwR2wyeWtMc1QwRENVSWV2TGhVV2FJWUkwcTRiaWpwZHJzNWU?oc=5",
+      "published": "2026-09-22T20:42:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+      "summary": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzBlSVNtRVBBVmxmQm5EUngxUFBaY2Jxam51SzNuM2d5Yk9iOWNrNmxEb3EzXzhRbXdmVFhqODJuWDJvVHYyQ2JJVjhKTHl6ZkZpN2dDNTVmVWYteDFSTXptbTBtNGc5MW5fMl9TZmdCencyallHYUNvWUI2R0tIVGxYTFVHSmF2dUdJTjd3WllXYzJuUnRoUTlWNnFqNl9YVTZV0gGoAUFVX3lxTE85R1N0Tk1zMDlNV1BCTUx5MVhaQlYySlZ6eEpZb3dOek80Z2t0TWwzTWFOamlBeDE3YUhFT3dudjZwOVJVTko3dFhBRktIczdkWEo2Nk5qNmx6OTdnUHgwOU5qS3dXdURsRC1XQVdfbUxScHBqZGNTdXdreWR3THU5QlcwejhvZ0kzeGplbWVTNXpRS19zYUltbkxfWExGOGcxQjFWVlFvVg?oc=5",
+      "published": "2026-09-22T20:29:22+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump administration says most refugees accepted in 2027 will be White South Africans",
+      "summary": "Trump administration says most refugees accepted in 2027 will be White South Africans CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU03cEIxejc3WndYZE51SFJVSGJhSXZSZU9mMW0yRklCMGo3QkF4WVNaU1RaV2pldVZLSGdObGQ2NU9xWVhyNmlaeXEzb2NLMTBmOGNWXzd1SVNKUUhub1hXSncyaWlwVTdPeDBlWFdvSlBPOHlwemNkNjFNcnQyaDhYcnczQ2R3X2N3?oc=5",
+      "published": "2026-09-22T19:37:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+      "summary": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15dmJPMXZzRWxmUXZIdU1WWEZ5d0w2SmRJWFJlRmpXdGdCX3RnSnJYSmpPY2c3bzJVQlJwV2ZZSm5kWjAybEJVZ0hrdHJCSExGT0RiQzlKUGktLW5hUGIzR2tmQ1N5UEhmVHFaeNIBckFVX3lxTE1vd1lHNl9wX0VEWk9YY2d6ZjFUVjRNLW5GOS1OQXdON0JJVXdISFk2N2RqakRoQURydXBiYVR2N3lQUEJrdWtTeU04bWxTcmQ3SkZaa0NwNml1UnplQWpCTklDck9uNEl1VURuUmw4MkxVQQ?oc=5",
+      "published": "2026-09-22T19:33:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump's D.C. arch is now a military complex. Here's how that complicates things",
+      "summary": "Trump's D.C. arch is now a military complex. Here's how that complicates things NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFlUM1FIS2w1UHh4M3BlaWFlbzZQZDdOVjA5UjIyZFBPeGtGSEZaaHhHZTdqZ1RmY0xrcUJVd1dKVlpGUnl0cS1KM1kyLUpncHAzQzQtZVFDR2I4Q3BwOVhscFF0NUVjeVpxMzVrMXRxaDhKSTFENDMtalhKbXhZV2xrclRvWWkyOVlfd0lR?oc=5",
+      "published": "2026-09-22T19:25:05+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -44,15 +104,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "A journalist once barred from the White House says this media ban is different",
-      "summary": "A journalist once barred from the White House says this media ban is different NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTdtMEJjTk55Q0xkN3Q4SE90bkRWalVoVGQ2ZFVyU2hmRjRUMVRia3pwd1gtQmpubkthNVYtX2JBbXR2LVM3a2ZBcE96Z1FYNVNBYjFmcFVzWVh2QXRhRmlKM1lVdFBFUU5UejlEVTFSeFdlYkREWDhGTjJiWF9qbmQtbw?oc=5",
-      "published": "2026-09-22T19:15:00+00:00",
+      "title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+      "summary": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzdLX0Z1bHBINVp0ejU0bGlZc2tuemRSWjhyOTdXbW1idFNndDVNOFdwRk1LdEpHRGZtYmNSd01UUmlJLThtbEZaVElSb3N6QlFnRDdyUEttanlrOGY2NXIxLVVUYXlBMUhYeW1nbVBjMkFYMTFfdGFDdW1WakxPb9IBhgFBVV95cUxNcGxZWEtwQ216d08wX3IyRThWQzRpbUxtYWNGd3BmOVcyQkx0T3E4ZGJjZ1pLeFJpTERfSE0xaEFhaVFpMThENnVWLUdSMUJSY3NWQ2xIZmlpc3AxZnBkSjNaVnJHRTJDR1lpemhzMFdEazhleXRhV0xRMHFxbDcyRGZCMUhzdw?oc=5",
+      "published": "2026-09-22T19:21:11+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -63,18 +123,6 @@
       "summary": "The 2026 Booker Prize shortlist is 'writing at its best' NPR",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GUGotLWx4YVFLU0poX1RydlZJdk4wb0MxaGUyY212cXp6MkRtZlVOdEpPREx1QmNUVDhVYkNIM2VvLUxIRml3YVdxRUNoZ0lheTRZUlpxVzB3VTVJZXdNcmRrbkJtWGtENm9CQktOcE1oNDg3WlBKenEtNk0?oc=5",
       "published": "2026-09-22T19:01:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-      "summary": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
-      "published": "2026-09-22T18:23:57+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,49 +140,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-      "summary": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDhjQUdQbl9DazhqUEFYbklmaVhoVXhJOGQtNzEwZ2p1YnBfSXBXejctMWpxY3ltV1BPVElRQnhydm5xdm5vYmFydVVBeHFtcTJraUNFamVRUDFvb0tCMEtDZmtOaGcwWDhDYWQ0d1YycEVmNC1vZnh3VnNOQlFUaUlGLW0xR2FjWm5rWmRibFRhcm1LemZZ0gGcAUFVX3lxTE9YX0VmZjdHQXdGRjVnNFRWQnItRElCWGFFTTZWVWhOTVR6ZTdVR0hzU3dybFc4WXlSR3RSM3kzWVo5SGcyeTRpeFhWcmdXanVJWm9jX2d1bW9zalF1bXN6UEU1M1N6Q2JaSE5rQm9CWHpSM0RtS1hrMFNCaDhya0dneExYOEh1RVgtUzliN1daaU9zazJMQnppV3FkNQ?oc=5",
-      "published": "2026-09-22T17:10:22+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Gavin Newsom vetoes bill that would have protected trans care providers from charges in other states",
+      "summary": "Gavin Newsom vetoes bill that would have protected trans care providers from charges in other states Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHpkQzZkd0NfY0diMmwtWEFjcEQ2UEpOYVQtcVZYdE0zVnJ3SjV4RDZBTFAtdkVLMGxGbDBYbUVXWDhVMVk3NlQtZm0zbkNNdEw4MllvNURoZWtYYV85YnBLTHBqalIxSTZrR3hGYk1TZ2FpalRlREJmT1VrbnFOd2lR?oc=5",
+      "published": "2026-09-22T16:03:16+00:00",
       "beats": [
-        "Business"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
-      "summary": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmh6Ykkza0ktNjVYNFY0Y1ZtNGdZek1wcGczX2Z1VklDY0VqVXRRM0FfVUJQNlc5YTBGVnZkRzFxcWpmU181V1p2RF83X1ljV1pEOUI5WFZibTRnczhQSUsxWWNoYzROMlpreXZ5VVlvWGQ4SmkyWEZyeTFiSTNEMEJtai1RVFB6MEFjdmFvTmJhZ1dETVo5czFxTkpDbVZNMVRyT3NybEpjVHRDd2ZuMjd3cjhIbmJJN1RTcFBfaWpUYTBDTHVBQWE0UVdZTEUzQWo00gHYAUFVX3lxTFBPM25WRlJZMlJDLVRDaFp3a0tkZDB1azUzYVl5Uld1Z2dJT1JoajZpY1pXMUppUjZPa28wRF9Rczg4alJRVTdpVGZxV0Q0bGd4WkVhSnRxSHlKR3pIOWFlR0pQcE5iSER0eFlLQlVBQWREX081RWFlQTJtWG9sZ2FtczhseVl1NFhDSWhHcjZmNTE5UF9KUmt6VENFR0lGNDBDNmRsWUVVUDYzdWZqbk5JSDZCOTM0b1d5NTBVd1RZbEhfZmtycnlEREd2OHdDR0pQVUlaR2h4UA?oc=5",
-      "published": "2026-09-22T16:58:28+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Alexandria Ocasio-Cortez questions whether a Latina can be elected president",
-      "summary": "Alexandria Ocasio-Cortez questions whether a Latina can be elected president CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGhrWm9lVjZXSklqUkhZU0ZVSVYxY2tZTTBUVWwxdGVfVjNacnF0bHBlUnpzZ25wUlFwUDBDbUdCZGRqUm0tOF93SzZ5dFltT2JNaHJvU0haRlkzYUlFZ25KM2pwLWwzOGVWczVkRmFEQ2NiRXdFb0Z2OUg2cDh5SURKWWo?oc=5",
-      "published": "2026-09-22T15:37:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Hayden Panettiere died from an accidental overdose that included fentanyl, coroner’s office says",
-      "summary": "Hayden Panettiere died from an accidental overdose that included fentanyl, coroner’s office says CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00bF84eFVHby1sUGxoOU42WVRPcXpZRlZGOTF5M1FYcUtQVGwzbkozZ01yd2hwdTlDY3BTN2FFbVg0OXY3TFprc2ljY0VhbVRCTmVoRDZhQVVRNnhwclFHeGEzdHM2bDVmM1NhcVloemJoSVEtWURuU2NpZnlmek0?oc=5",
-      "published": "2026-09-22T14:18:00+00:00",
+      "title": "Cuban delegation walks out as Trump calls their country 'a failed state'",
+      "summary": "Cuban delegation walks out as Trump calls their country 'a failed state' NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSE5QVmY5UEtLVWNrZHQ1MWQ2SmprUndxYU9wXzJyYVNZa3ZrYjY2bmpXMWdVMXg4aGpob3RyeW9iWFMxTnlIbHJ5N19SaG9YY1BiLWF0LVpwTWQ1Yk1uWU5pOUk5UFh2V1VNWnhTY2s2WXVZNVJHVUZRNnBzY282TDdTdHN6dkpkVExyVzRRa081QlBkUGtCMDFBVmE1eVhqY0F6TTRibmhSQ0VOLWFqU3hNVQ?oc=5",
+      "published": "2026-09-22T15:24:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,8 +167,8 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The New York City Marathon Route Is Changing. Here’s What’s Different.",
-      "summary": "The New York City Marathon Route Is Changing. Here’s What’s Different. The New York Times",
+      "title": "The NYC Marathon Route Is Changing. Here’s What’s Different.",
+      "summary": "The NYC Marathon Route Is Changing. Here’s What’s Different. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1lWbGNKWHc0bEp4N05tdWV0R3E0QnJpOHpiUHdHNkk0ZEdsZkhhd3F0Nk5YekxCUTVMaktxWF9iVkx0dTU4TzFxTjRjWUphZEpYOTZ2Si1iWGR0YmtUblFQQVVEWlYycUxuZUs2cldGX19SRHh4T0ZxbmNONHJXM2xIUlQ?oc=5",
       "published": "2026-09-22T14:15:06+00:00",
       "beats": [
@@ -164,13 +188,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "YEИDRY: Tiny Desk Concert",
-      "summary": "YEИDRY: Tiny Desk Concert NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OelNmYXFEWXhHZXFHcXIyTC01SHFVUHk4Nmg3N3E3Z0Y2Z0ZtYXpTNWMyQW9sYWY2VE1Sa3dabnUwUnNIaUplamhHSFBRbFl5THViUUJJdkwySUVqN1NXMloyYndqeDZsUDhrczJvS2ExUDRJcUlCdHcxalE?oc=5",
-      "published": "2026-09-22T09:00:00+00:00",
+      "title": "These Tech Utopians Want to Build a City for the Post-A.I. World",
+      "summary": "These Tech Utopians Want to Build a City for the Post-A.I. World The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEpRSEVOdVNrVUNBQWs4UzFiSi1uRE1MeUpaVjNLblowVGN5eU8xenRSXzFMdzJBWEVnOWwxdXphSkxjTGJTM0xoSTFOcmN3YmtsLWJ6eDJDeExMMU5udFpNRF9XT1pQMnFOUTctS1NmQzJua2VrRWxOTHBzNHYzMXJOUTJPaUFiV3NKMmt3UWdRTDg?oc=5",
+      "published": "2026-09-22T09:02:37+00:00",
       "beats": [
         "Politics"
       ]
@@ -241,7 +265,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Is there a non-gay explanation for these spicy WWII \"massage\" photos?",
-      "summary": "Is there a non-gay explanation for these spicy WWII \"massage\" photos? Queerty",
+      "summary": "Is there a non-gay explanation for these spicy WWII \"massage\" photos? queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlBmUHNubXhKMGNwRWd2SlNxTl9SS25ib3pqLWI2YWZEQlhBSm1ZMnpkSzRNRmlOYTFDNmF6RlUtdllkS0NUeExTZ3RHY292WnZuMFdNay1KZkxQT0xkSmkxXzBLWVVSV1lVWVVHV2wxN0U3S05oQ21mOFNrREhaMEE4R0hLckxzMlZBSUxZQmFuc2tiUkJrVjl1UHppM3dod3c?oc=5",
       "published": "2026-09-21T19:00:00+00:00",
       "beats": [
@@ -249,13 +273,13 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Family tied to suspected Chinese spy Christine Fang gave $4.4 million to Newsom, other California politicians",
-      "summary": "Family tied to suspected Chinese spy Christine Fang gave $4.4 million to Newsom, other California politicians CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZnh0LWZNRjhPdjVYZTk3R0p0a0xQNVN0U0puYk50WHdhSmEtN3lRcWM4VVZ4Y3BJYWZlT2YxOEhNUTNfdWdIX0tGWXVyS1FYT0ZTZk1UUFFyMGJkTEFiTV9Md00zY25xRXkySGJZUmw0T1B5VlkxU0tnd0hMMGZ5TjdBV0xuTHlscnY5QldRTlFuZ3h1Wnc?oc=5",
-      "published": "2026-09-21T18:51:00+00:00",
+      "title": "Technical Problems Ground Flights at Major East Coast Airports",
+      "summary": "Technical Problems Ground Flights at Major East Coast Airports The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2E0UkwxYlYwbUwzR2Q4QnJ3Q2htMHQ1U1lxdjZUM05sYnJWLWhIaFh5SG9jd0VadzVpRk52Mk9sLVU5OTg2NW5MMTJKRDhXa2QzSHhnc3g2LXVOUzY4Mzd3SUN1R0tFZVpFT1d4ei14eDF1TkEwQURyd25MeHhJMkUycFBydjlDWlhqbHlPV3dqT0tVZGsxQUpBSQ?oc=5",
+      "published": "2026-09-21T18:59:49+00:00",
       "beats": [
         "Politics"
       ]
@@ -289,7 +313,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "10 thoughts I had while watching the balls-out, b*tts-out first episode of Crush House",
-      "summary": "10 thoughts I had while watching the balls-out, b*tts-out first episode of Crush House Queerty",
+      "summary": "10 thoughts I had while watching the balls-out, b*tts-out first episode of Crush House queerty.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmExQjRmak5wVHFUM240cE9YblQya0cyZVc4REpIR2J0OS1JTHhzRVJfMWtUaEZsLWs5SjNwc1NxQnVVU1M4UU5SaS1Nb1lYY0VNdy1EdWF5dGZBaHRQQ2szUGQ3X1pSaVlUVWpJVzJ0ekhBN0NUX0l5dzc2TUxtLTNWdWRBNzFXMmxiX1BWNmJIOURtTUxKSkNDSkJRc2xWbU5jOGN0djlsNmR6Rkg4dThrUjA0aHlpNmc?oc=5",
       "published": "2026-09-21T16:00:00+00:00",
       "beats": [
@@ -314,9 +338,34 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "\"Biological reality!\": The Proclaimers rage against trans women when discussing new political album",
-      "summary": "\"Biological reality!\": The Proclaimers rage against trans women when discussing new political album LGBTQ Nation",
+      "summary": "\"Biological reality!\": The Proclaimers rage against trans women when discussing new political album lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGlWNHhWTDh3dTlNcWtVVlpQU1ZnNzROWE9zbXdxMTNnTW1KU0tBRVB1QTFqalRmTVlxVDlOclh4UHR3WFBNSjg3Z2MwaHRqZUJ6NHFkclFfSlpvdHluWDBwZl9URVc1SjY5UFRlMGR4aVdzd2g0YWFXdDZFRjg4NEhFaS1HMlFMamppRVlIM2N6Qm1zZFZ6RHRGWmltYms3YVVPZ01mOEJMQ1o5M2FQVDdDV2Z6cktBa0J4WmY5dWo3SGZxOEI4dWVENVU?oc=5",
       "published": "2026-09-21T15:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Wait…did Lauren Boebert actually have lesbian affairs with staffers?",
+      "summary": "Wait…did Lauren Boebert actually have lesbian affairs with staffers? queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUNQdlc3YzdiTEJfSWc3RFhWd2d5d2ZCdUViRFVwSDhTRGw1dUhmNUZQUmgwSlFfTXVxbllJU0ZpQ1ZfUldkVnpiX2lDT3lQWHVPSXVsaThsZ1NnekRLVmlfdl95UDd6M0laSlFEZ1dULVlTY3F5enFKblVVbkRCeWtuOFBNakdpR2s1a0dXVnptSWgyWjVhc3FKcURMYzVRanM0?oc=5",
+      "published": "2026-09-21T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Court rules trans women can be housed in men's prisons & calls them men \"who claim to be female\"",
+      "summary": "Court rules trans women can be housed in men's prisons & calls them men \"who claim to be female\" lgbtqnation.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHJuSjJsWmdMdnNrWVhsWEJRc3p2b2dnMF9EcjRxeGhkMktUYjhXTHFRdFZBd3hNVmE0V2dFX19BcW93akc3V2w3bE5SSFNPa0ZjcUFuY3VrTzJDdVdKUzd0VVMyQVlOeWY2SDNTV1lyQ3BPYW40V2d0aFo0bEJhUEdxT3Bmbm44OERETHhGV3R0TEExVjZfa3c0cmV5RlVmLW5XbkUyQXdmUmszbGgxX2xhbTRQQjJ5ckhYWlFvY3RvZTlQVnVN?oc=5",
+      "published": "2026-09-21T14:00:00+00:00",
       "beats": [
         "Politics",
         "LGBTQ+"
@@ -330,54 +379,6 @@
       "summary": "Week In Review: Rising Leaders and falling turnover K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjei0wV1hBbC1hM25STVpmREJaeVVEV19HNjNFaV8xT3p4QVBPdFpwcmZadEwtUS1VQ09mWXE3UHd1cDFmRkhVWGRLV0FMem9aRE5ZaUV3LVlDMnFUeXI0UUJIeFRkYV9nRHhpNEhOdE1RQQ?oc=5",
       "published": "2026-09-21T12:32:19+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Texas poll: James Talarico holds a narrow advantage for Senate while Greg Abbott leads for governor",
-      "summary": "Texas poll: James Talarico holds a narrow advantage for Senate while Greg Abbott leads for governor NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmVZV0dTYTVwdkdRX2xOTVJKb2NDa2t2VWpvV1FLNFN5U0ZMc1lOb0h1Z0I1TWFwS1RKRFlUcTc4Q195TDFaQVZfdkR2c0hmdGNYQWtnWC1NVzhlV2ZISnFXYzZSMmdnWHhNZFBHcWRGRUpmRnJqUUYzWEhZQW02Rnl4TVFmc1JJZVBzbUF6bkZyeW50Sl9xSVR4WExtOUJ6YnhSa1hXM1VEUW11X2xNTldXZ1dObGlHM2MydkNOb0Y2SXdzOG9F?oc=5",
-      "published": "2026-09-21T10:00:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Police Investigating Overdose in Death of Presley Gerber at 27",
-      "summary": "Police Investigating Overdose in Death of Presley Gerber at 27 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnhsZWFVM3k3TEZfTE9LaFhRRnBqWHJVOGNyRkR5LTZ1OUZQTWNwcmRqa1RiamIxazhBQ2ZGak0xZV9IdThrcDdfNlA2QTRpeXo4d0pJcmk1S3F1THVUMmt4WFk3bWo0VU8zT1NWREktcmxfSGZOenFOUjNDUmpieFVfaV9wa1U?oc=5",
-      "published": "2026-09-21T09:14:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Supporting English Learners: Practical Solutions for Today’s Schools",
-      "summary": "Supporting English Learners: Practical Solutions for Today’s Schools Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1VUODlOaW0tbnVMbmJJVzJScW5FWDRvWXktSHpzU3BkYXU1Zkw0Wk04ZlNtZlZQZkRkV2h3Y3FTTU5TeEJvNFNQckxKcFpLWGh2cUd0djdYU1Z0SVBWVUk2X2dFWktybUhfY2xlNnZva3Y5MEJqWjdQMG5MeEtpa096bkdGOEwxaGRXcHBaTHhucVZEY3hCbDB1a3IzSk0wY3E3a3cwcUEwbm8?oc=5",
-      "published": "2026-09-21T08:06:36+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "How One State Is Identifying English Learners Early—Without Misclassifying Them",
-      "summary": "How One State Is Identifying English Learners Early—Without Misclassifying Them Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWxZOTRGNFFMQTNBbFpabFc5TFVjbmNRZkI1emlaZHRPZnZUaDY1WGp5eFdXbTdya0NkVThUcjFnYmd0TDFoSTJHTUNiQXdWTWRSeW1YYmJPYm9odDF1cmx1bXlKdUJJa3dlcGp3TjNlMXNYVXZOSFVzWkhGWUJScXBETW9tMzU3cFdWZWthTzU5MThHcEtyZXkxdUdrMDRfRVhiOVlUM2U0MW1OQkp5eTQ5Q0tfU0xQWUlEX2J0bkFxUEprVFU0?oc=5",
-      "published": "2026-09-21T04:02:36+00:00",
       "beats": [
         "Schools"
       ]
