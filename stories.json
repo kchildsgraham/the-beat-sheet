@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:13:56.233419+00:00",
+  "updated_at": "2026-09-23T23:52:49.296169+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,67 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Key moments from hearing on White House ban of CNN, MS NOW and Politico",
+      "summary": "Key moments from hearing on White House ban of CNN, MS NOW and Politico CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3N5a0V6SE9ySk4wTnZwUk9veGhMMFh1ZGdVTm5SeG5GYUxMT2RHYUdjMlcwSnVTWlFZRmItMUE0empEcXJYSkl4WjAyTHVSOHkzRTRKdTdiYjdObkpLRDBBamZHNy15TVRSVWRyQU9pWFJ5WjlMNE9jNU5IYVlHUWJCcjVEVldrX216b3FRbkVpMUhLd25aTg?oc=5",
+      "published": "2026-09-23T22:55:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Judge considers restoring journalists' access to White House after Trump's ban",
+      "summary": "Judge considers restoring journalists' access to White House after Trump's ban NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnFLRkxBSmpHU3dINEM4ZG5TQW40dnVrOF9LVHR1Rk1zblRfU2xNY0FEU0pvbTh0T05nVmVoVENybzZwMkJ1dnlqTkJTRjRiMXFvSlhFTlcxcTZBS2k4QlRuWUZyOElUSS1jMUdESmNKZEVlRk9JeVl2ZjdnLW5wV2xVUWVEa3B0MVkyWVgzX3VxbmV2aWcxNWZmUlI?oc=5",
+      "published": "2026-09-23T22:40:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Judge dismisses Trump’s lawsuit against Des Moines Register and pollster J. Ann Selzer | CNN Business",
+      "summary": "Judge dismisses Trump’s lawsuit against Des Moines Register and pollster J. Ann Selzer | CNN Business CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazY2Y2ktc3JEMXBlYUs1M2ZXTjQ4eXNsQjYyaVp4Q2t5NmpvMndaWkZQYVJBWU5xZ3pPM1k0SHM1Yl9sOTJTbmFoMTNyd0dNZmhqODNIYUtPNGFIaVByTUJGdk8yNnJjcmplaWpTQzRtY2gzNzdtQUNEeFhEazhhWVhOUWRVcDVCQ1JCODhTZ0V1TWd3V19rRg?oc=5",
+      "published": "2026-09-23T22:24:15+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Eight sailors assigned to US carrier group that fought in Iran war attempted suicide, Navy secretary tells Congress",
+      "summary": "Eight sailors assigned to US carrier group that fought in Iran war attempted suicide, Navy secretary tells Congress CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWlkekNjNnpXTVBXUmpHWmFPc2hTdzY3SXdrSnVMWmxQRWVyR2huWlNIZFBzcDk3UUctejJiLWlOTmRtQzFINXM5Y2RnZ0F6TmsybVFUZ3J2TjFBTjBWWUtEQUlaRk1jc25KdWxMLTdsQ0V1M0dhVFVETnFIU1l1THZEZjZsa3JvZDVGWlB6d29xYkhXZ0NVeE4zd0tjbHB0WVM2OQ?oc=5",
+      "published": "2026-09-23T21:00:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Nothing to see here? DHS Secretary Markwayne Mullin shares a D.C. home with a Republican congressman",
+      "summary": "Nothing to see here? DHS Secretary Markwayne Mullin shares a D.C. home with a Republican congressman Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeVo2eXo4MlNlbDZjTXFTd3BDU3ZBUmYzOXB5M0drXzFKc1BvWVhJMVhzUXl3NXhSOGVvQjZtQ2tOWjFjQ3JYdi05dEhkRU15cGV5SndwWjlrVEVGbVpsdmVtWjFTTm92ekkwcGtEa05NTnRyMkZNTmlOcDZ3TW8tQXB3?oc=5",
+      "published": "2026-09-23T20:04:46+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -32,13 +93,37 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Hayden Panettiere died from accidental overdose of drugs, including fentanyl, coroner says",
-      "summary": "Hayden Panettiere died from accidental overdose of drugs, including fentanyl, coroner says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS19pMzhzd1FocVhDLUtEZWlYSXJocng0dDBEVVJCbTl4N1VzbTI1aUl0VmJpa1psQXV6Nkt3OVVReFgxcXVLdjZibTVqMUFYa1hjeEVEbmxmbm50WjF6bTF5VmxXSWVoVDhrSkJ0V2o2YjZKVFhnWE82Z21OQ0MwOF9LRTNQV3NSZE83OUdhZ0pEdFJ4V0FSWFk4TWhvRjNGZFBPVlJfRGZEd0duMWRrUFd3MGlxMkNk?oc=5",
-      "published": "2026-09-23T18:30:00+00:00",
+      "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+      "summary": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYmxuWFJ2T3UxeFlEbFlOY3VvVjFzaHQ2U2Z2MHlPZ0Q5c01zQ19aQmlGNE1hcnBUQWk3WTlXSmk4cUI0ZFp3TTVndkNDa3Q1RFFWdjdjV1lZWDJVZkpmaldLdEowRXpkSEZid2piVUXSAXZBVV95cUxNMHZEbDdqaUUwYy1xbTYxQ1dSWTJBZGhRRS1BOThUWTVKQnpBSnl3aTktbkN3Vmx2WGR1clRVZExIdDF0TU5meWo2T0wzek1HZTNQZnQ1SjNhTm9PZTJOTkMxUkxiWVdjRnZ5R21ZR3dLTmZyeGRR?oc=5",
+      "published": "2026-09-23T19:53:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+      "summary": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtazE0OFlCeXBRU090aG14U2VnanhIelB0V05xcmM0TE5kdzVKUkZ2b0JwcHFzUUY4MmdseWE3eUNBVHBCQnZNQVNMLWM5d1Zsd0hETFlvNXhqcHBLRWhLZDBDN2h6YmFjSjZ0a3lFdDhZSTBT0gF6QVVfeXFMTnllZ0d1aFFfQXpxeUM3d3NqN0o0eWZBV250VEl3T09td3ZjSktRZG44X2ZRSHRfcWpwNUpaVlpSRk52QlBGN05vZHlnTTlENUg2MldSbmZ4ZUl4T1B2V3FBdVd5Nll6ZkxhMnNaX2U0WTlKQXQ5TlV5NFE?oc=5",
+      "published": "2026-09-23T19:33:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump and Xi meet at moment of global consequence",
+      "summary": "Trump and Xi meet at moment of global consequence NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWGQ5bUFMc3dyM1hoUHMwYlNTQkRoZEEtNVI4aFl4b29yM3kyWnZDOFQ1RWswV0dvZ3FpLU02b21Qa0w2WnVXVHh5SS0wYTRINnpIZHhyTU9BbjU1dnlaUEhpOU1UQU4wV0pWRnRwN3NKWFh6eVE?oc=5",
+      "published": "2026-09-23T18:23:19+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,66 +153,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Maine Democrats criticize Susan Collins over reported allegations of pay-to-play scheme",
-      "summary": "Maine Democrats criticize Susan Collins over reported allegations of pay-to-play scheme CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2VhdGp0bVVBaWxES1lLLUppS180eHdYS2JXc21JdHFpWW1sbDhGaUFIUGxpVXRtNXRCTmhUaWI4Rlk2RnRPOF81a3hnbWNlUS1ySkdhbGptbERhNGtzaGxEZE9GcHpyeWV1VE9mS0NsdHd4REJ3WGdrR0Q3QXA4cjk1azVEdjk0Zkd4d3BZVGk?oc=5",
-      "published": "2026-09-23T17:49:19+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
-      "summary": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEpHTVpzMTJ1ZTBkUDVfdHZwYVRtN2NjcjgtZ0ZhaXFCN0hUTU5tV3Y2bTZCUVVramlKY0FCOGx0WTBtRjR6bEU2TTdVeTVnRmthc19mMTdmZGtGWXd3S1dBNzlFMVZTak51cHI1YzYyM2NabzNwOTdORXlCTnhoYUNRelpzUDNtbEdv0gGQAUFVX3lxTE1sWXBHMF91ZUhlVE41NDM2U3BfRlVDTU4zSUhpeGZFSzNLY041cUdOXzRHT1pQbGk4cG0zaG95eF9XZ1RnUWR4Ni1EaHlTV2h0SEZBM2otdkhCYWhoeThkSlRXaFctVGtMbmVZNWRlSXdXYWJBX19DeDZVQmk0em5lZmxPLW4zZW9UaUkyTl9SYQ?oc=5",
-      "published": "2026-09-23T17:32:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Son of Israeli ambassador to US critically injured in West Bank ramming attack",
-      "summary": "Son of Israeli ambassador to US critically injured in West Bank ramming attack CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUZjUUVwZkZCU01RRkRKXzg1ZTlEMWJodXhNdjEtcnhEZVNHVWp2TFdFeGJVeVRYdXpicFJIYk95ODJLdmE2X0huYjhHYlRHNE5qQmNQZGhuSy1KcjBydHVTQ3FQVHlpNUVjZUpSSEdjVUNSOFlaQTQ0dmxrUXZGMWJKZ1FHTXdhN0ZnT0pn?oc=5",
-      "published": "2026-09-23T17:11:14+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-      "summary": "Market sees next Fed hike in October, following Barr comments and hot inflation reading CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
-      "published": "2026-09-23T16:56:22+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump has skirted concerns about corruption. Donald Trump Jr.’s wedding could change that.",
-      "summary": "Trump has skirted concerns about corruption. Donald Trump Jr.’s wedding could change that. CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51bElkcWR5ZW9oRXA2Vm53ZEZpZHJpWGJLbXgxNlh5cHFuUUIzVUlUenBpaXZzWUxVYnhrM0poQmtOUC1pY0lTcXlLemJoY1NOVzdPbkhTYlYybTh5Qjh5ZlJXYlB4cmlvOElWVFZn?oc=5",
-      "published": "2026-09-23T16:46:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -152,13 +177,25 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
-      "summary": "It's getting harder to afford rent in the U.S., even for middle-income families NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGZrUXVzdmRmdXZkLTVnUXZPODdWTDB6TWp3U3hjeWtiT0hiM1N4akFsUlBUdjlXajlqak14VkVDOFQtWHJoeDl6V1h1ZEtlWkk4M19iLW1rbUpDdlRqY0g2NEo5Z3NQT19OODBESURMd2ljSWhIcmtaUm9nMGJXT0NBSQ?oc=5",
-      "published": "2026-09-23T14:09:10+00:00",
+      "title": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
+      "summary": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGVJeU1YcURwV2VvazNEMDd2WW9uVGJxQk5Ca1F6NXlMaGl3SndLYV9Jb2dIQ2JrRXdxTUNDYjdTdXhfLXExYUxVdWNYNTdEcTVfR3J6RGRvV1JTZjJNUTNmZmthQmV1UlNyd0gwZ0Y4b2ZLd1BhNXdnVTdFUHpvNFJaV054VllVODFYUUFnT2U3cGVuNGVzNS01d192NGxqdjZhaVNYMjV4YkFnZ291MU9CVkR4YVhzdmc?oc=5",
+      "published": "2026-09-23T13:23:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Cuban delegation walks out as Trump calls their country 'a failed state'",
+      "summary": "Cuban delegation walks out as Trump calls their country 'a failed state' NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSE5QVmY5UEtLVWNrZHQ1MWQ2SmprUndxYU9wXzJyYVNZa3ZrYjY2bmpXMWdVMXg4aGpob3RyeW9iWFMxTnlIbHJ5N19SaG9YY1BiLWF0LVpwTWQ1Yk1uWU5pOUk5UFh2V1VNWnhTY2s2WXVZNVJHVUZRNnBzY282TDdTdHN6dkpkVExyVzRRa081QlBkUGtCMDFBVmE1eVhqY0F6TTRibmhSQ0VOLWFqU3hNVQ?oc=5",
+      "published": "2026-09-23T10:03:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -176,18 +213,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Latest CDC report on youth behavior has some good news — and MAHA vibes",
-      "summary": "Latest CDC report on youth behavior has some good news — and MAHA vibes NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTU4WHVTMURUSl9xNDhEXzBodlRzZ1JiUHVISnUzV3cyak9DOGhBczBhSHlTSjBoVmpYNWFPWnJhdkRJeVhkOVZvVlFlQVlaaVBGS25LSDVFUWRZNzlxWUtsREZCb2puaTlLV003bkh1UHlXMjVFdllwNTBhaVRkYVFKcW9uQW8?oc=5",
-      "published": "2026-09-23T08:41:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -195,6 +220,18 @@
       "summary": "Iranian president arrives in New York as Trump weighs cutting a deal or driving Iran \"into hell\" CBS News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGRLV0xqY1AyaEVCb1I0bnRJcm5hVnkzRmZWUDhtR1cxdHdBbTJwTFllNkdhejlhWGx2b3ktdGhVcXdlam1iM2d0TDJPMHN4azB1RWI2TklLVENrdHlSVE5yNHpsWFVlSWpaWk9NbGtGMlZNTW1iLW5DWF9UM2tkc3RpaXRhRFpQbkFsWkw5VXZxQU1a?oc=5",
       "published": "2026-09-23T06:33:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | The Democrats’ Policy on Palestine Is Detached From Reality",
+      "summary": "Opinion | The Democrats’ Policy on Palestine Is Detached From Reality The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oMEctSjNUZ1h2MFBES1VwWEUtZVpQdjQ3ako2Q0MwWTVLZXAwUmtla2ZpQXpTbTJFSHlzV1dSejRDdFgwZGhDcWJFV0NFdmZMazFfRmdXcUJzd0IxMVFYeEFLc01BWHZub2lORVBHUTV3aWFXV0ZvSndDaHFDbVE?oc=5",
+      "published": "2026-09-23T05:00:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -222,6 +259,18 @@
       "published": "2026-09-22T22:27:58+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "What to know about Trump's U.N. address and his annihilation threat for Iran",
+      "summary": "What to know about Trump's U.N. address and his annihilation threat for Iran CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm4xYl9ZZm1DUjNhYjNqUkJHREJuUmxLRUlXc1BIVVFNaFBPUFpFbHJGVkNLc2dBZ3YtaFBkNTlDSGI2SlNFaXh5YTdteHZZNXo5X2h1MGx1eWEzTll3eEpVWGxpdnpsSmxMbE05aTBBR3lFbUxfY0tTc2k0Njh6YzVIRXVBaFVPN2wwZ0JfbklKT1hYWmlmLWNUVQ?oc=5",
+      "published": "2026-09-22T21:00:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -261,49 +310,13 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Many Americans Use GLP-1 Drugs Without a Medical Reason, Study Shows",
-      "summary": "Many Americans Use GLP-1 Drugs Without a Medical Reason, Study Shows The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VcEFRcWJ3X2hTUTVReFlRTUd5VTdReEpyS25IRXdwZE9EUDVzbkZzbDhwb0xUU1hzNTdrWHFkaFB4R2x6YU9BRDk1NE1OY1F3SkpoRXVpMjJ4UUJlbHluV3ZYV2NueUJkckQyaG9tcmk0dWdlb3c4MUQ1M24?oc=5",
-      "published": "2026-09-22T17:40:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Gavin Newsom vetoes bill that would have protected trans care providers from charges in other states",
-      "summary": "Gavin Newsom vetoes bill that would have protected trans care providers from charges in other states Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHpkQzZkd0NfY0diMmwtWEFjcEQ2UEpOYVQtcVZYdE0zVnJ3SjV4RDZBTFAtdkVLMGxGbDBYbUVXWDhVMVk3NlQtZm0zbkNNdEw4MllvNURoZWtYYV85YnBLTHBqalIxSTZrR3hGYk1TZ2FpalRlREJmT1VrbnFOd2lR?oc=5",
-      "published": "2026-09-22T16:03:16+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Cuban delegation walks out as Trump calls their country 'a failed state'",
-      "summary": "Cuban delegation walks out as Trump calls their country 'a failed state' NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSE5QVmY5UEtLVWNrZHQ1MWQ2SmprUndxYU9wXzJyYVNZa3ZrYjY2bmpXMWdVMXg4aGpob3RyeW9iWFMxTnlIbHJ5N19SaG9YY1BiLWF0LVpwTWQ1Yk1uWU5pOUk5UFh2V1VNWnhTY2s2WXVZNVJHVUZRNnBzY282TDdTdHN6dkpkVExyVzRRa081QlBkUGtCMDFBVmE1eVhqY0F6TTRibmhSQ0VOLWFqU3hNVQ?oc=5",
-      "published": "2026-09-22T15:24:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Blaine officer injured when thrown from Corvette during DWI traffic stop, police say",
-      "summary": "Blaine officer injured when thrown from Corvette during DWI traffic stop, police say CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUdBT2JEOV9fOEhpSFVqel9yQnFERHQwZDZOSFJ0N2c4LUJlUmItLV9Rc3p3TmE5VW5sc1dsMzhTU3VCVGpGSmNEWE5QcWJSUERFRzF5Z0lKazZLZmtnMFRqaG41aW05T21qUnUwUFA3amtrbUhkZzVEUHh1TmQydDN4b0U0bFRNOFpEamNEU0ZYcWRZVkctZUJOWjQ?oc=5",
-      "published": "2026-09-22T13:16:00+00:00",
+      "title": "2 Republican Senate candidates call for swift end to Iran war with midterms approaching",
+      "summary": "2 Republican Senate candidates call for swift end to Iran war with midterms approaching CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDVrNXhTalFpVWdxTkxkSjl4VEZoR0lwQ0twUTRoazd1UVhPOFhfSUxvZ3o2REhkZGN6MkJlQnh1OUJjVnhFNDIzOWJjY0pmRjB3cHF2UGxITnFzc3BIR0t6ZFY1enpsT011bGNPckZjZ3NBX3dPR1N6MHFXdm5KNU1RbTBKc205dGZHM0dR?oc=5",
+      "published": "2026-09-22T15:35:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -366,19 +379,6 @@
       "published": "2026-09-21T20:57:01+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Hate group sues school district for not notifying Christian dad about lessons on anti-bullying",
-      "summary": "Hate group sues school district for not notifying Christian dad about lessons on anti-bullying LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTVlRlhxSVBwR1RHeFd4bFhvajMzWElVX0lNLVBzdGMwRUgxYk81UUc3UzdMZ05VZFdhUGdQa2x2TXRqSHF4dmJZdmwzQXFqYnhHTHItR3EzQW5CbVhoRGJaUEx0Q3FOTFhBYklfZXBvUFh5Qk9jSzZYOTZiNkZDSzZXdklKQU5JYjFabG05UkRkRmlCUjZ4bEtmRThFT3Z0ZTExSElrbDMzYURydzllRUw0aUNOUnVsb1V2ek5Ubw?oc=5",
-      "published": "2026-09-21T20:00:00+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
       ]
     }
   ]
