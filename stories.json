@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:48:20.446107+00:00",
+  "updated_at": "2026-09-23T21:13:56.233419+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,90 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "A Powerful Nor’easter Is Taking Shape. How It Could Affect Your Forecast.",
+      "summary": "A Powerful Nor’easter Is Taking Shape. How It Could Affect Your Forecast. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYjJmT2pGMTI2ekV0N3QwSVN5NG1MV2FBUlViMFZMUlpNUmJYYkZYbmRqUjAtem1vY0hZbVd0T1lwdVRyQWw4em5JY1pPVUZJS0NuYWRVRHlyYnBiT1QyOVRKbXlVVXJfUzN0SFdfeDVOLVYtNzR0ZEFXVktkcmNFV3N2YXI2U0xzLTBUVg?oc=5",
+      "published": "2026-09-23T20:04:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Hayden Panettiere died from accidental overdose of drugs, including fentanyl, coroner says",
+      "summary": "Hayden Panettiere died from accidental overdose of drugs, including fentanyl, coroner says NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS19pMzhzd1FocVhDLUtEZWlYSXJocng0dDBEVVJCbTl4N1VzbTI1aUl0VmJpa1psQXV6Nkt3OVVReFgxcXVLdjZibTVqMUFYa1hjeEVEbmxmbm50WjF6bTF5VmxXSWVoVDhrSkJ0V2o2YjZKVFhnWE82Z21OQ0MwOF9LRTNQV3NSZE83OUdhZ0pEdFJ4V0FSWFk4TWhvRjNGZFBPVlJfRGZEd0duMWRrUFd3MGlxMkNk?oc=5",
+      "published": "2026-09-23T18:30:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Iran's president gives a rare wartime speech at the U.N.",
+      "summary": "Iran's president gives a rare wartime speech at the U.N. NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWhVaUFqdzQ5N3g4R2twQmo0TTZRNkNSMjFMZVJrZWJlMHdjOWNYUk1uRFpHUGg0Q2lIMGxIeDBQZk1Ddi1oeVBjdmQ1MzZNRHEyUDBZX0hpdHd6ZjR0QW15SENUeU5Cc2VuZ3V2cjZBTzd6Rjh0S2tKYjBXSGJuME1ValFId2hfNDZaM0ZTWmdzWmIyMlE?oc=5",
+      "published": "2026-09-23T18:14:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "New Social Security bill would lower retirement age to 60 for some workers",
+      "summary": "New Social Security bill would lower retirement age to 60 for some workers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemQ2OE5MMkNkeGl5QlA0aDVkNkVLMDhETzN6MHk2VnpYeEl3RDk0MXdWS2toZnVVbHpTOTVxRlEzeF9XZWtnamJiSVRJVFlDSFRldE1ja2pyX0VuNEt5RzlHYTFLSUNjQ2xILTRpR3NKQjJIVkxsSDZ3dHpRVHJwMldPa0RMLVNV0gGOAUFVX3lxTE5RT0Z4YkowZEw3eVZ1SHhvc2VQRjd5Nl9DVnI4NjQtSV9rc2xVdEZPNkNBWi1yRFQyNmFuZnBaRGs0WXB1cWRyTzhJdzZlQ29jelBxcVI3SGpKOUxTWnpJWjF0VXV0a2Zmd0REbWFrTE05VmRjUzhNV2Z1UkxhTXZxbEM0NXczamxHS1RYanc?oc=5",
+      "published": "2026-09-23T17:58:47+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Maine Democrats criticize Susan Collins over reported allegations of pay-to-play scheme",
+      "summary": "Maine Democrats criticize Susan Collins over reported allegations of pay-to-play scheme CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2VhdGp0bVVBaWxES1lLLUppS180eHdYS2JXc21JdHFpWW1sbDhGaUFIUGxpVXRtNXRCTmhUaWI4Rlk2RnRPOF81a3hnbWNlUS1ySkdhbGptbERhNGtzaGxEZE9GcHpyeWV1VE9mS0NsdHd4REJ3WGdrR0Q3QXA4cjk1azVEdjk0Zkd4d3BZVGk?oc=5",
+      "published": "2026-09-23T17:49:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
+      "summary": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEpHTVpzMTJ1ZTBkUDVfdHZwYVRtN2NjcjgtZ0ZhaXFCN0hUTU5tV3Y2bTZCUVVramlKY0FCOGx0WTBtRjR6bEU2TTdVeTVnRmthc19mMTdmZGtGWXd3S1dBNzlFMVZTak51cHI1YzYyM2NabzNwOTdORXlCTnhoYUNRelpzUDNtbEdv0gGQAUFVX3lxTE1sWXBHMF91ZUhlVE41NDM2U3BfRlVDTU4zSUhpeGZFSzNLY041cUdOXzRHT1pQbGk4cG0zaG95eF9XZ1RnUWR4Ni1EaHlTV2h0SEZBM2otdkhCYWhoeThkSlRXaFctVGtMbmVZNWRlSXdXYWJBX19DeDZVQmk0em5lZmxPLW4zZW9UaUkyTl9SYQ?oc=5",
+      "published": "2026-09-23T17:32:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Son of Israeli ambassador to US critically injured in West Bank ramming attack",
+      "summary": "Son of Israeli ambassador to US critically injured in West Bank ramming attack CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUZjUUVwZkZCU01RRkRKXzg1ZTlEMWJodXhNdjEtcnhEZVNHVWp2TFdFeGJVeVRYdXpicFJIYk95ODJLdmE2X0huYjhHYlRHNE5qQmNQZGhuSy1KcjBydHVTQ3FQVHlpNUVjZUpSSEdjVUNSOFlaQTQ0dmxrUXZGMWJKZ1FHTXdhN0ZnT0pn?oc=5",
+      "published": "2026-09-23T17:11:14+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -32,85 +116,49 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-      "summary": "Trump faces Xi as strains with allies complicate U.S. pressure on China CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nTE1jQ1c0VXNzUExWdXV3bGxhSWU0X1hlcnFqUXNYSEVzTkVNN1Z2NGRMMGVGTDNQdUhtQTFHWHhuaEZ6UGFmdnFYNGJfOVFaYzBfZHNVOERLVHR1enNRczZrZU1hOHh2M2dpZFJNc1BvQ0XSAXhBVV95cUxNZTRGcG5hMzVfcUQtTkVpQmltOEJmN1hMT0hBUWVQcVV1UkRRek11R2ZXZXhPTFhYYTNoRlI4UjZWNUFLV3lIa0FQT2wyYkNtSFA3bGtPTTYzY0N4d2JIdFd5Mk4wMmJnRzFNY2hTeEpDaVJMTmxzQUE?oc=5",
-      "published": "2026-09-23T15:07:11+00:00",
+      "title": "Trump has skirted concerns about corruption. Donald Trump Jr.’s wedding could change that.",
+      "summary": "Trump has skirted concerns about corruption. Donald Trump Jr.’s wedding could change that. CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51bElkcWR5ZW9oRXA2Vm53ZEZpZHJpWGJLbXgxNlh5cHFuUUIzVUlUenBpaXZzWUxVYnhrM0poQmtOUC1pY0lTcXlLemJoY1NOVzdPbkhTYlYybTh5Qjh5ZlJXYlB4cmlvOElWVFZn?oc=5",
+      "published": "2026-09-23T16:46:13+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
-      "summary": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale CNBC",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUxIa2l2Qkg4NUF4YUtBTGxKMmp0eEVtNFRzZ2dqa2lKQ2lEX25TMzQydzAxbkc1c1Y1SUlqYlJLOFV4ZUhFN1VZZW9Help3X05lbHdqT0dXTTRBQUtnRVRROHRoXzgwaVZkSmpvcE1hOTdMQ1RpbVQxdEZYdUdoWGdDU1cwUEFneVk2bXZhS1BQZHBSSUpXbWdfNTg0V0s3aGdCeTNXM3VXa293M0ZwS2ZEMFBuZDhpSnNlaUp3TE01Mk44ZzJN0gHMAUFVX3lxTE02dXZMcU01NjdQY3FDazJRYVBZRlA2X2l2SVEtU2RiMzdEMzhVX0FTYTlnZlYzekQ2OUhDU0w4UVJYamZuQXQxMUpCMVNVcXlmOTRMdjJ1WUR4eFVtSjRvT3MyRkpLTTZETjh6Vk1LX3dPeUdPbVpvekFQNmZmZ0VKazBDc0xjcjRQelpwV0wyTDFRdVB0b0Y0QmVOYU5GTWVYaVliVExqX3pkSC1IYmd3LWozVGJfSzFnbFdxZUtEU0VQZDBCemtJRVJwZg?oc=5",
-      "published": "2026-09-23T13:42:49+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Florida trans woman and her partner attacked while walking to work by women in a car",
+      "summary": "Florida trans woman and her partner attacked while walking to work by women in a car Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0eDFXVExWdk5FWW1uQXl4UnZ2Uk4wbnJjNW1FY0s4aURrTERIZWpGOHdadXpiRXVUdGcyOHYtMnU4aWJNcmxDYnFrTGFIWkljSjJoUVJpVE82YkFYcFdsUFdsaVprWkRaaXdKMjA5SQ?oc=5",
+      "published": "2026-09-23T15:25:57+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Matt Rogers makes a very candid confession: “I used to frott my way all over New York City”",
+      "summary": "Matt Rogers makes a very candid confession: “I used to frott my way all over New York City” queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzVkRm1fd3ZsaUY3NDlaQVlBNUsxUjVsZFktYVlaZm1XWHJCLWczdC1mS1M2MXBuT1psMnpPc1VUQndQaTlpaGE3S0RydmN6UEQ0Ul9mdXlsQ002OWVWODBYaG0xaGNHY21PNm1IYmNBNXo2WktKZS1pQVpWdWpiMUQwcWtoVWQ4TEU1amJ0VTJ4eHQ1by1ua3lqNExBZDEzYnlhR3lINkhXck5ja2ljZUNpOXhOc096NVNZd0lYSQ?oc=5",
+      "published": "2026-09-23T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-      "summary": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaUFsRi1LbjVFWE9rem8yWEpzYTJLcXFqUF9uTkhPN24wcmZxSjVlZ0ZZaWZhWlVTLVBObTNPcTRxd3JRelRwRlBYVWl1ZUlPemJ6UkJMellYU3pzRVBzdXVTUGFxNjRMQmcxeUpRUjZSd1gzQ3Fnb0FVdmp2b3M?oc=5",
-      "published": "2026-09-23T13:31:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Prince Harry calls AI the ‘ultimate sycophant,’ urging swift slowdown to protect children",
-      "summary": "Prince Harry calls AI the ‘ultimate sycophant,’ urging swift slowdown to protect children CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tTDRVdjdwVFk5cDJsZzc4UDVGY3d2RUVhNWhudHdmd2ZJemNLMmhSa0xoTVFxb3FJd2RuSUhfQ0h6aXgtLTk5d3MtNTN3OWhuMHRERXRfbnU4dHBfMDFYMmo3TER3ZzE2QlRhaHgtTy0?oc=5",
-      "published": "2026-09-23T13:08:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Tigrayan leaders say new war with Ethiopian government has begun, as fighting erupts",
-      "summary": "Tigrayan leaders say new war with Ethiopian government has begun, as fighting erupts CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91MXBXUE51Y1F6b1M0YTNPMnE1M1I3a0NOcG1QUXVncEc5allNcW9ITExlUElRU0lFU0lZb3hORXRIU2hVVVJCYlZQY1o5NUxmWHp5ZDZPVlJrcHJ0bFNnRkFUbUdFd2FfVUs0QnoybWxobmVFUEgxTm5zRkdKQzQ?oc=5",
-      "published": "2026-09-23T12:47:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "summary": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDJMYkZIV0VxRjV1NF9DUHlxRW16ZnBNNlJacDZRMUhxOFpaUDAxWTQwbXRrZXJGbG85cVdHbEZEYmU2Y2xUQ1VxNmNILUJ0eDY0TDh1WV9PcWxiRndKdjFTZkEyd3BLWmdNU2JjSEd3Z0lGZzY2Yy1wTmUtOWZTRDlhYWl3OVZUMG1sT2RuLXZWclZjX3c?oc=5",
-      "published": "2026-09-23T10:48:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Republican candidates highlight healthcare in 2026, battling voter distrust",
-      "summary": "Republican candidates highlight healthcare in 2026, battling voter distrust NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hEc3dsU0lGOTd5NGZNTkRxWGZhVnBoejhQMnBxMUk1SnM3LTlKOHlDZ2tfdEE5Nktfd1lONk1rb1p0cDFPM3l0RlRBcHVWSnYwTk9mbW8yNDl6MHNJVlduZGc1U2g2eHFMWmtoQ1ZfVjVKMVBsaVBJajY0eEprNTNMdmZmWGdicE5CSDVYWFhocTg0QXpIY0o2RDlwUkNERDloX0taaDVhOElmckg3eFd2TmM?oc=5",
-      "published": "2026-09-23T10:00:41+00:00",
+      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
+      "summary": "It's getting harder to afford rent in the U.S., even for middle-income families NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGZrUXVzdmRmdXZkLTVnUXZPODdWTDB6TWp3U3hjeWtiT0hiM1N4akFsUlBUdjlXajlqak14VkVDOFQtWHJoeDl6V1h1ZEtlWkk4M19iLW1rbUpDdlRqY0g2NEo5Z3NQT19OODBESURMd2ljSWhIcmtaUm9nMGJXT0NBSQ?oc=5",
+      "published": "2026-09-23T14:09:10+00:00",
       "beats": [
         "Politics"
       ]
@@ -119,12 +167,12 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "$1 Billion Donation to University of Oregon Makes History",
-      "summary": "$1 Billion Donation to University of Oregon Makes History The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktTQW92ZlNhQlZSbHItcWx0MGlBWjNFZkdYakJPQkRtTXJWQS1RR3ZLTzE0bmVpQTJGbVZhb1BiTkxUc1BJcTBlYm4wNE9QNWl4eGFRVktoOU9ObjYzaDVfMEpqYlpRZFM5aVRtWG9lY0JEcjEzcWtmaVRJYnB1ZFRtNVA0d2VoSzdKeHB2UW1fRm13OVpWSUl0OE0?oc=5",
-      "published": "2026-09-23T09:00:31+00:00",
+      "title": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "summary": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5",
+      "published": "2026-09-23T09:02:02+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -201,18 +249,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Neil Patrick Harris says his secret love of the WWE should have been a clue he was gay",
-      "summary": "Neil Patrick Harris says his secret love of the WWE should have been a clue he was gay Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zU3c0bkVCNEZfY3lrcEVlRWdGVGF6UUpEWjRScWJ2M2xJT2tSWnlianJqZWN6M3FBcjRfOEItMDlmcWExYnpMUWItTWVzT2tobkxqZEpNajRzQ2xsQlVxT1kwSllicGhaN3pGLQ?oc=5",
-      "published": "2026-09-22T18:51:43+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -231,7 +267,7 @@
       "title": "Many Americans Use GLP-1 Drugs Without a Medical Reason, Study Shows",
       "summary": "Many Americans Use GLP-1 Drugs Without a Medical Reason, Study Shows The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VcEFRcWJ3X2hTUTVReFlRTUd5VTdReEpyS25IRXdwZE9EUDVzbkZzbDhwb0xUU1hzNTdrWHFkaFB4R2x6YU9BRDk1NE1OY1F3SkpoRXVpMjJ4UUJlbHluV3ZYV2NueUJkckQyaG9tcmk0dWdlb3c4MUQ1M24?oc=5",
-      "published": "2026-09-22T17:02:13+00:00",
+      "published": "2026-09-22T17:40:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -246,18 +282,6 @@
       "published": "2026-09-22T16:03:16+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
-      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "published": "2026-09-22T15:55:03+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -280,18 +304,6 @@
       "summary": "Blaine officer injured when thrown from Corvette during DWI traffic stop, police say CBS News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUdBT2JEOV9fOEhpSFVqel9yQnFERHQwZDZOSFJ0N2c4LUJlUmItLV9Rc3p3TmE5VW5sc1dsMzhTU3VCVGpGSmNEWE5QcWJSUERFRzF5Z0lKazZLZmtnMFRqaG41aW05T21qUnUwUFA3amtrbUhkZzVEUHh1TmQydDN4b0U0bFRNOFpEamNEU0ZYcWRZVkctZUJOWjQ?oc=5",
       "published": "2026-09-22T13:16:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Politics",
-      "summary": "Politics CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdS1KV0x6SHM4SENBLUJIdlFNb3NmdlF6VkdxSEZrQ3Ezem9wX1RRdEtiNE9rY0FOMFVyYklsVDhsSDZwYXdiU3ZLUjdxbUJwV2tfSDc3UjduMFdydmpOZC0zOE4xeTAxQ1RWSnhSTTNLZmVjOVhfdkFMY2lxd3BlR3FsWHRHcndIMThmMFFvTmcyZktSOXN4V2JBY3ZMbkVXMzUwVWZuMmdYZWk0ekdKbTJPMFhocWNaWjJfaUZpZHlFb3RwZEhXOTI3REIySS1Cczc5S0RsLUtMWGRtNVVDM1ZFX2JaVExJcjJWVDZtWWZkakxWMnpsUjJhc2p3VFA5NzlwbzFuMEctaDZOMkIwNVRIakg?oc=5",
-      "published": "2026-09-22T07:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -333,37 +345,13 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
+      "source": "Queerty",
+      "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Dem mocks opponent for focus on trans folks amid rising costs: \"That’s what they’re talking about?\"",
-      "summary": "Dem mocks opponent for focus on trans folks amid rising costs: \"That’s what they’re talking about?\" lgbtqnation.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFJ1TG5yXzJ2RkZPMmFQa3JuR2JQdmJRb1Nmd3hBZ3hYNkhQZnI4Rm5XS0did1gwM2NJQmc1TGVycDJaMzZuaC1jTExOQ0hIWmdUaWM3U2NMa3I4TUdENmtnM1dPN2w4VHJFVlU0cHVJVG1FODdaaWNDZkx5ZVFXVDBQUEpWcDJJSFhaWV9aQnBKWUljWEtOVzA3TE1tT2RPUDdUeTFveDMxenRZZWRFdVVpUXdLbW9aY3F1UVh1UXBGamdYVHNKazFn?oc=5",
-      "published": "2026-09-21T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Newsom signs bills to create new system for community college bachelor’s degrees",
-      "summary": "UPDATE: Newsom signs bills to create new system for community college bachelor’s degrees EdSource",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDVCSzVsVDZSenR0S1dEYzI0bldSWXVNT2dyZVI1RDJrcmRleTd6S1QySFYyOEJtTjgwbXhKYXpGNXZHQ2FOR3hKNGx3elZJU1JOVlFMVjhMRlpidW0zdkdWc2NtaTBWN0RhVWk2QkIwc1h5dktTM1BGVmk5NnJKclRJSmJXekxidzRTR1U0cjFJRXRDeDlrbXBEQ1RFeGl4Nmc4eUFWMno0SmxL?oc=5",
-      "published": "2026-09-21T17:55:24+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "\"I'm not a lesbian or bisexual!\" Lauren Boebert rages at journalists for covering alleged affairs",
-      "summary": "\"I'm not a lesbian or bisexual!\" Lauren Boebert rages at journalists for covering alleged affairs lgbtqnation.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdm5OWExsZVlvUVJpVk53cF9yTjAwWVMyc1BKdkZLYVVDZG00Q1FnNnVCWXYwVm8tSEY4RWYtc09Pamg1ZXNROXJFWDJ6a1BidVdjTkVacVdpUDc0azJVNzd4MVV2LWp2N1JoWG1RZEJkUk5ETjhocXlvOFZfUkVaZ0N3RUhRZGh2emIybmhQa2pUekRXUWFieFpfOUhxaTJVb3MtR2pqSGluZno5RnRLcWhoanI3Q1JKaWZEcGxnUlIyV0x0V2FaMlNB?oc=5",
-      "published": "2026-09-21T16:30:00+00:00",
+      "title": "Drenched pro tennis player shows gays that jockstraps are also used for that other thing…",
+      "summary": "Drenched pro tennis player shows gays that jockstraps are also used for that other thing… queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWcyazNacXM0VURpSXl2UVJsYzIwVXMzZjE3TElyaWRuUXZZUnpRRXMyZVNMZzVGTTRTUDhfWkF4UnhIYjdPV1JkUEVVc1diLUZTQy03QXJzTUZJenk2QnlYNU9OVURfcHBNa2VSZTBjcnJCZUYtQlpMRV9JNmpubE1wbTN2c25JbUwwMGtVa1pTTk1KNWxDcGhHRHhMR3Bnbi1qOTdSb1ppOUFQd0dlTzU2Rm5sRkZVLXg2Q3Vpdw?oc=5",
+      "published": "2026-09-21T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -372,12 +360,25 @@
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
-      "title": "Skimping on Recess Won’t Fix Test Scores, Experts Say",
-      "summary": "Skimping on Recess Won’t Fix Test Scores, Experts Say Education Week",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR19GU25WRXBvYWowdFlIMWdvaFlXVjctSmhfSmIxTk93dlpNYTZPSjdtbHExdTZNNFNHdjBOR0tKZXl1b3FkdjhxTkEyc0xiYlRpalRsRzJJVWE5dDFjTWUybTR0TnJfWFdjOE1Sa0ZMd2xHbThwZjNIbXFKdmhmMVJkdzlHOGtOalo5SFRMLWRRQ25SaWdLbg?oc=5",
-      "published": "2026-09-21T16:27:27+00:00",
+      "title": "How Schools Can Better Support Older English Learners",
+      "summary": "How Schools Can Better Support Older English Learners Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODNwNE8zRWhzM2FpSGhBLVdRSGRGVE8wSUlKS3R2dTY5Q0hsa3Z6TDJtYlNvNGpXcHRHamxrOTVUQ1NESFNlQWw0YlI0UTgtaTVLNWRuQnJXdW1JV2FOT1ktaGNhR1dud0w4SnYtQVlYdm5ITW1JX2tXZmVOOFRKTzRzRGRjTWlmYTNLem9raTRoNzNaT3lqOHVyaXpXd3ZNUm02bQ?oc=5",
+      "published": "2026-09-21T20:57:01+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Hate group sues school district for not notifying Christian dad about lessons on anti-bullying",
+      "summary": "Hate group sues school district for not notifying Christian dad about lessons on anti-bullying LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTVlRlhxSVBwR1RHeFd4bFhvajMzWElVX0lNLVBzdGMwRUgxYk81UUc3UzdMZ05VZFdhUGdQa2x2TXRqSHF4dmJZdmwzQXFqYnhHTHItR3EzQW5CbVhoRGJaUEx0Q3FOTFhBYklfZXBvUFh5Qk9jSzZYOTZiNkZDSzZXdklKQU5JYjFabG05UkRkRmlCUjZ4bEtmRThFT3Z0ZTExSElrbDMzYURydzllRUw0aUNOUnVsb1V2ek5Ubw?oc=5",
+      "published": "2026-09-21T20:00:00+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
       ]
     }
   ]
