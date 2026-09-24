@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:35:07.430373+00:00",
+  "updated_at": "2026-09-24T22:03:56.788161+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,27 +20,89 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
-      "summary": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXcnFYMzJSZDg0VEdUN1VTMnA0UzJtUklEOVd2aERUVGlHMElxQVhWTkgydmptMFpzM2UxQ3BmTlNFWE5LZzNraTlraXJHVkpVLUM1OE5fSmt3T2RvaWRWVnBhempZU1lleUdmaUUtd0E3dVZS?oc=5",
-      "published": "2026-09-24T17:51:40+00:00",
+      "title": "Pittsburgh doctor attacked and killed while he slept, wife also stabbed",
+      "summary": "Pittsburgh doctor attacked and killed while he slept, wife also stabbed CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSE1VaVllTW1xTlgwMWpVVVdCRGRLV3ljYnc1RGdmay1qU0tSZVNaank0c3pnUklFbnpXNW1uNlpNQTh3WDh3NklkZmNaNUdSeEoyM3VtZjhRLUJTc01XZHo0V0poWmhVWnBEOG5icTJoWmR3NzFFSHRFR2FTYzBHZmJTZE80NFI5S1hn?oc=5",
+      "published": "2026-09-24T20:57:10+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Journalists regain access to White House after judge temporarily blocks Trump's media ban",
-      "summary": "Journalists regain access to White House after judge temporarily blocks Trump's media ban CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3Q2V1o5Q3ZqX3RxT1NpVWJnQlJYUXltNVpMMW5sblQwTHBmQ1Q2NGZoeXprODg2amE5U1YyeUhObVJ2b25uRlRXZ3VjOGgteW5JeGdwUVpGTkI5QXRXUE5XMmxRbWxTMWM3Zlc5WlA0UHpsNjlBTTZJLWlObnNUOHNidVRGX0tKTTlPd3NOYk01QWMwYkp3eVl0bGU3WUxBY0VZ?oc=5",
-      "published": "2026-09-24T17:43:23+00:00",
+      "title": "DOJ says it's moving to end more than 50 decades-old school desegregation cases",
+      "summary": "DOJ says it's moving to end more than 50 decades-old school desegregation cases CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVNPWmdWYzFtNGFRN1FtU3RVMWVlYkpCSEp0UEQzWjhpSWZzcnYzd1JsTVpsNU1sUW1QYjRwRmNfWmNHaGVPUmZvYlEybFJyUUd5VVRIdjAxcXBHamZDZGVyRFp3cWhuWlZzaVNlaDBVX2ZUYVhTRmtNdXhDRUUxcg?oc=5",
+      "published": "2026-09-24T20:53:06+00:00",
+      "beats": [
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Principals Who Have Survived School Shootings Offer Advice in New Guide",
+      "summary": "Principals Who Have Survived School Shootings Offer Advice in New Guide Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSG9JdkhsSmkwSjh2cnBPNUh3VjUzNnZPVVFBSkRYSU9VcE53VDlXLW44UjJiZ283RGxuRnJ5MTlvSXlsbVhOZG9oeU1xWTlIdkRaUnFROEltT0R2MDRyWlBBeGZhTEhIY3hMclpsNTA4bjI4NEdUZThnYTZxUTVocjA0UUNHVVpIZnQyc1dqVWd3MUJQTlJiX3FUN3BWZmJnb2FvN0FFVkxhSFo2WGJOWUZPZw?oc=5",
+      "published": "2026-09-24T20:29:27+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+      "summary": "In one of their last votes before November, Senate GOP blocks effort to end Iran war NPR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qeTg2M3VMNWI5NXdCcjlOQkdLU0JQWTVDcWp0YklXYUdMN2hrNmk2MW45QXpBQ3pyR2VTVzRiSGZuNDN1YjhidVdKX2xOelQxZy1lbTAyTUotdVJxcW9GZTlFM1Q2VkZmbHpJZnhndERXYmxXTG9XVjNwd3o?oc=5",
+      "published": "2026-09-24T19:46:53+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'Bad Boy For Life' investigates the culture that enabled Sean Combs' alleged abuse",
+      "summary": "'Bad Boy For Life' investigates the culture that enabled Sean Combs' alleged abuse NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQW1lWE1XeUxxSEl6WWdVemRsTHM3VGpXenJsY2FpTkM2TEFWMHBkeHFsWmxnN1VMaGlteFk0VUNSWXFiZXlYZ2lQVEc5ZUpkVndOdzlUcVAzTWw1T1R4bTBiMFZEY3hWWk03Vy0wNG9SUkNvNXhuRGloblBycWViQVVON0wwRU5WclZWQ0NpNTk5VTNsZUE?oc=5",
+      "published": "2026-09-24T19:37:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
+      "summary": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0RlVlJpRHZNd2Rvajd3OVlGTElKaVpXOGVLUXpiLXNDN25UVFdwY1JQSmppeWFwMHQwQ3UzemxULVFaZUw2aTRPWVBBdzVYSFZiZXhaa19zczUxbktMN1VJR2NfS21JWWFmUFpsNks5UUZqRjZSRVhzVjRHVXB3bGRSTkZhU3BWRVg5dC1OT3JlNXhoNzYtLU5KSdIBoAFBVV95cUxQM2VhYlNzZmlMQnBsVlY4ejRxdjBWS0dZeUtmUGp6bGhGN0paNGdveUxwaWhaMEhEbHJ5a3ppeERudzVwT1hQMUJEa09wcHZ2TkFCTzEtRzFhSGVjNGZPUS1FRUJpNm5YUlpyOWgwR0JSc3d3SElfTXFGTGgwYmM4Mlp2QmF5S0FXeHBRbHhxblc2ZmVkSVpsTXhaTmJnYThJ?oc=5",
+      "published": "2026-09-24T18:05:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Politician has the best response to his Grindr photos being leaked",
+      "summary": "Politician has the best response to his Grindr photos being leaked Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzEzX09NSlhEcGdsdW5ibHJINzFmN3FyR3dXeThOSDAtY283ZS1NWlppZHhWN2JZdUR0TnJpMHNZNVotSW05M19VQjZjcExJTk81R1U2QUwwa0tzbnhXVjdkc2w1LU44bGVQb0ZkekpoeTdCY0ZVS0NBa2FWMkRQY3ZHR01zNUJPdmtWM1VuSTE2MHNfU01XQmhxNEZCY1RBekE?oc=5",
+      "published": "2026-09-24T18:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -50,9 +112,21 @@
       "title": "CNN, MS NOW and Politico allowed back at the White House after judge blocked Trump’s ban",
       "summary": "CNN, MS NOW and Politico allowed back at the White House after judge blocked Trump’s ban NBC News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnhOUzlWZkE3QkRGVWZkRzdwVUw4WFZTUEJ2N3diY2NNTEtEdDIxT2pvQjMwb2E4c0NPNW5EOWdzUkZfU1BsMjc5WkxVMm5kTnlWcDF6aVZwNk5ab0JqejctS2FsM2J1WmhyX2VLWTAwZFFsNTZkYUsxaGJxeG9qeFBBZ2ZYbVJ5bEk2OTBKcHZ4TkFzOHpycDlHTHJsR2ZCRF83d0xZZTh3NXB6anpob2lqbGpWdGE2eWpRaTlfcHNoQnY1UHdxRHV0NXlLOWc?oc=5",
-      "published": "2026-09-24T17:42:00+00:00",
+      "published": "2026-09-24T17:52:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Many of California’s youngest students keep missing weeks of school, data show",
+      "summary": "Many of California’s youngest students keep missing weeks of school, data show EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VZldCQUVnTlIzc2JiUGt6MEVidEsyR2dqMVhvd2duM29TRkRxT2FZSUh0eV9KNnRLT0l4T3I4allLTEFQVnVTc3U4ZC1GU1pmbFNRVkNSUDBtRl91cEZweHd6MEJkNEd5OUFER1hhMUlDQ2FK0gF8QVVfeXFMTUJuSmlYRHAtdFZGM3ZzWjcyT3dRcFQtQ1VKZksyTXVwdVRwOVhZbjhaUEdhWVZwQXAxUWNCOWt1WjZHYVJsMEVCZ2dNRzIxb28zbzE0TTF6a1pHS016cFFYLVNFMkdydFdWcjBybjVQRHdmZUl4VGl5TU02cg?oc=5",
+      "published": "2026-09-24T16:57:05+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -60,7 +134,7 @@
       "source_feed": "CNBC",
       "lane": "General",
       "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-      "summary": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi cnbc.com",
+      "summary": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi CNBC",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXRQTGN0YUZld00wenVmVU5qZjlFNHhjZEhjOWhOdlBmclpYc3BkaXpEdWNqQW43Yk0wSFpuNWE0YmhLVUt1MC1uY21DYnZvdmlUX2E2dFJxWTl0NlJnZ2diVlhlT0tSWkcxdUl5TDRNeXFoZzlTZFFXcmNoc1RFZ2tjMFJHbnl5NnZXR1RqYjBtSjVwSmtSMFlHQnVkX0NrMFgtTUhBMno5Zzc4M3fSAbMBQVVfeXFMTVFKNWhOS0IzQUJiUnI5TmNtLWRxVjdPVXdqWnZBVEgzUkpyUWtaZzk4R1BoS3RBbVBUdDJzUWxjblhVamZkVFRmNXdHYVpQX1lOTEM2Y0NiRmxhblBBU1duZ2M0eGtKZGg3SEJIUHJLWWdKdTB5QXBnNU5sUmdfdTJaX2tQcTMxak5LQS1fWnUtamdualF3Sm81dzUtSU1DcHNJQWo5TkVkQk5NVzhaenpRS1E?oc=5",
       "published": "2026-09-24T16:31:00+00:00",
       "beats": [
@@ -71,10 +145,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Mortgage rates top 7%, dealing a further blow to the frozen housing market | CNN Business",
-      "summary": "Mortgage rates top 7%, dealing a further blow to the frozen housing market | CNN Business CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjM1V0OGw4dnBzMm5abDBnbmVpQ2JEa3Z0SVlhUXV5aFVFMDhaTVFyV1pfcXZfRFdRWmI1azdlTVNPYTR0N2JDSkJIVXhFTmNhWThTMkwxMG03OElxVjZjUXFpaXlZemdlQmc2c1ZnMjVNaFJXLUE?oc=5",
-      "published": "2026-09-24T16:02:14+00:00",
+      "title": "Trump admin to end key part of arch review, effectively evading preservation law",
+      "summary": "Trump admin to end key part of arch review, effectively evading preservation law CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFlMc2NwbXUwR24zQ2sySG1GT0F5d250b2VBeG9MSUJWOUlUVGY0UVV6aHVzVDd5bWh1N21EU0tzeUJOXzZJTnREMGNwR3ZUNVpwNFhCVjc2NjVENXg4SlNRQ3ctcHJLSE1BdVNqUENUNWtldWthLVVHNGRlRVVpUklETHd0WlRrbzdKVlNB?oc=5",
+      "published": "2026-09-24T16:26:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Stocks making the biggest moves midday: Oracle, Everpure, Meta Platforms, Nebius, Bloom Energy, MGM & more",
+      "summary": "Stocks making the biggest moves midday: Oracle, Everpure, Meta Platforms, Nebius, Bloom Energy, MGM & more CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTZuY3ZNbEgxbnF1d2hNT2xRN0NURy1hMWN2YUF4QmQzMmtSS0dWSFVoZTBNWXI1Um9UVXBlaEUzVXg3UzNOQjVFNmxmamc2UG9oWnVRUVJkTEZZOVlTRTV6Wmw1NTlMbFh6d1VydU9Pd2tPZHlzeUc2eEFqS1hHZWxXMVhodjVITkpRMW5IQ2EwZmdFT18xaDFLbw?oc=5",
+      "published": "2026-09-24T16:21:43+00:00",
       "beats": [
         "Business"
       ]
@@ -95,22 +181,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
+      "title": "Mortgage rates top 7%, dealing a further blow to the frozen housing market",
+      "summary": "Mortgage rates top 7%, dealing a further blow to the frozen housing market CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjM1V0OGw4dnBzMm5abDBnbmVpQ2JEa3Z0SVlhUXV5aFVFMDhaTVFyV1pfcXZfRFdRWmI1azdlTVNPYTR0N2JDSkJIVXhFTmNhWThTMkwxMG03OElxVjZjUXFpaXlZemdlQmc2c1ZnMjVNaFJXLUE?oc=5",
+      "published": "2026-09-24T16:00:29+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
       "title": "Starbucks is closing hundreds of locations",
       "summary": "Starbucks is closing hundreds of locations CNN",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14eVp4NG5vVWNsdzhRNENGTzRyTUhRTVlMSHZHUmxDZ2NnUGtmYmNqaXlWdWFVT0FKWnY5b1JfNmoyX20wdEhvcGNFeDJ4R01yYWhnNDFnV0xJT1g2anVvbmpXd0Q?oc=5",
       "published": "2026-09-24T14:51:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "MGM Resorts shares sink 9% after Barry Diller's People Inc. rescinds takeover offer",
-      "summary": "MGM Resorts shares sink 9% after Barry Diller's People Inc. rescinds takeover offer cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4aVpka1VxZDJzMk9SYW41bXhPb2RzWXRLdXFYSlBKa0Z6UWhDNTVOZVZsaTFJZDhnc3FIWGFwVXlVdXVTRTJwWnFDamZJemxNN2xjdE9sdU9ieWJiYnh0cWdtNlUwRnpxNzJjaFBjWG0tdm5UOEVJ0gF8QVVfeXFMTTdlTE5jcjJJaGM1aTdFTzdqUDFQRGcwU09LVFNGa0MyNXNaOGRpaFlRMUpXQmpyWWtXVHlqQ0poYnJ1SnQxdDlrbEZnQ2VoMU1JN2wta0xDaTloNkI3UjdDU2ZINHdZSFBDcU5iVVB2SmZtUjhKc1ZMckdaTw?oc=5",
-      "published": "2026-09-24T14:48:37+00:00",
       "beats": [
         "Politics"
       ]
@@ -129,39 +215,28 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "First baby born on remote Scottish island in more than 30 years",
-      "summary": "First baby born on remote Scottish island in more than 30 years CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVHlIbGVSTlp6eG04amtDa0xxVmNpanp4dW9qT1JabjdhajBIUlpVNjFIcjZXRjZDbjhBN2Yxc2FGMUR2UnpEY2RSR3d1dDVWOURNQUpQMHc2NHI4aXhtRlIyVnVrb19DWlhoZWxnTTdOVEZ6LWVQRA?oc=5",
-      "published": "2026-09-24T14:28:17+00:00",
+      "title": "Lack of federal funding hindering school meal programs, superintendents say",
+      "summary": "Lack of federal funding hindering school meal programs, superintendents say K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzlXNXA1RFBYNEpnX184dG50OE5XT1pEU0xyZXk3U1JDd0hvUG5zOV96NWRHYnRjOXBOUlhaMEFtZWs4LV8tYlVMTWk0a1ZWX0w3Rjl1WVRldno3NjRGUFRYdnl4QlpTQ0JUbENZeGozLUY0MVBQRC1heC1tMzluS1BJcURnNVBBcVo3VHM1S2lQODlnUk1TOGNIYUhiTWx2TkJPc0N0NWpiVzdoS2RhSg?oc=5",
+      "published": "2026-09-24T14:41:57+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "Schools"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-      "summary": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2ZQLXlEOFY2Q2ZQR3lnMDc4T1RaM0hjZkZPdHFuSFl4THJHWWl1a1MxTWotc2pzVnFNQ3Vyb2VkZ29Qc2N6akZxanRUeFBGLXRZell2QVhHX0VxVFlxaGNYZlFvOXlNRWJOb05POTkwLThKZER0QXEtT1pVcHRrYml5cUVJczZFWG1kcEFXZkUtazQ0MEx0bHVITlZkRXJMYmtSeVRRaENHeGZpY2JSYTdDQUwtcXNGeDFHZE9n0gHDAUFVX3lxTFB2UEZMZGszZ1M5SFRXRkM5Q0lmLVJ4TDUwVEVDN20zVnBGSkYzdUFHSFlOaEo5d1ZRdVFNWVdNMXgyc0l5WWVCMUZidEhPSWVwdXdaaVVKNlFVN1ZPOWVhUGdMWnNVZ245UEVyaTFYel8yYWNuc003YWtQbzJ1aDY5ZVhDZG5hZW1lQVd6VGNXdkhXTDZySWR3TEF4b2FQbllQS1l5dUxjWFNGQVFFWkxzTDl2dHBGT0hZMUpMSGtKNnFabw?oc=5",
-      "published": "2026-09-24T14:10:59+00:00",
+      "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
+      "summary": "Mark Zuckerberg rejects calls for industrywide AI slowdown NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzAwVzFnYkd5WkdTaXcxbHNuaWRvSUdIR1ZJT2RSY1RJdTc3eWJJQ0owaHZzR0lvZjNRdjNPUUhHZ25YbDdFSE9NaFkxd0ltdzNOc1ZWR1F4bm9Nb3gzaW5jT0hhNHJMX19FN0V0aVBNTC0zWXJhbWh0WjNseC1DRldEcko2QzdJOFF6SnF5TzdqMUl1aFhLLWhoQkQzM3ZIUVphbV95ZG9lWm5TVi04ZllR?oc=5",
+      "published": "2026-09-24T13:00:40+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-      "summary": "Trump and Xi strike cordial tone at summit amid underlying tensions NPR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRFpjQkk2bFFoZDg5SUV4a2h4VDZhbG1ZNnREc0ZvTE1UUjMweGNGWktrd19yYS1pQUtOdkNZdWR3Q2xiTllIOVhJd0pmWnU3STVQSW91MVJWUm1CV3B6UXI5c2ZnaXhMOVE?oc=5",
-      "published": "2026-09-24T12:43:15+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -177,13 +252,25 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Journalists regain access to White House after judge temporarily blocks Trump's media ban",
+      "summary": "Journalists regain access to White House after judge temporarily blocks Trump's media ban CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3Q2V1o5Q3ZqX3RxT1NpVWJnQlJYUXltNVpMMW5sblQwTHBmQ1Q2NGZoeXprODg2amE5U1YyeUhObVJ2b25uRlRXZ3VjOGgteW5JeGdwUVpGTkI5QXRXUE5XMmxRbWxTMWM3Zlc5WlA0UHpsNjlBTTZJLWlObnNUOHNidVRGX0tKTTlPd3NOYk01QWMwYkp3eVl0bGU3WUxBY0VZ?oc=5",
+      "published": "2026-09-24T05:29:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Cross-Tabs: September 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine",
-      "summary": "Cross-Tabs: September 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlZfUnZqVTZwWFF0SEFFNXJHNFJWYnRBTWVwcTV4U2xkeWxnUUpBUnVCZmdzWVJMbVNac0JGOFROTTN4ZmVONVVqTFlPWHdoblBpY01tQU9BZW5JRkExWTJid3BOOFVUZjhCUU1kc2F6ZUZBVWZmeWlPRXdHMDZXRDF3MGh6SVJkMmMtSHdZVC0?oc=5",
-      "published": "2026-09-24T02:12:45+00:00",
+      "title": "OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting",
+      "summary": "OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
+      "published": "2026-09-24T02:33:57+00:00",
       "beats": [
         "Politics"
       ]
@@ -196,18 +283,6 @@
       "summary": "Now even Republicans want answers on Don Jr.’s Russian ties after wedding scandal Queerty",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFJSNk5mQ3lnbTVxOVp5bHgwdVJLT0x4MzIyWjc4UzJLM0dGWHhiTFdjRWRuVHUtYmJRdlVta3pwcW9mcDZNM1hPTE05NVVyTktQcVFSS3k5X1VpUVlTQzk1YldLU1Zua2stUTlFUGFhVGJlMUYzSVBvMEV1bno2bVJWcWdyZU9vS3ZMMWV1amVlLWxhQWZtSTVXZXlIdF8zQTFabGROclRIZw?oc=5",
       "published": "2026-09-24T02:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco Assemblymember Catherine Stefani says staffer detained by ICE in Nevada",
-      "summary": "San Francisco Assemblymember Catherine Stefani says staffer detained by ICE in Nevada CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzJMZlRpcmxXRUJFWXVoalotVlBxSUxkRDlYNGRpX0F0cEpvR2N3VnhPQzFqNU1aX2x4WWRyNDFEeGZ0Y3ZMaVEtSTFMamV2SG85al9xMmcyd1BMbkFsWlVRd2FydVhrUXNqSTZqV195djlKWWlua0tOd1hRLUgyZnhVcU5fNE1aSU4xSmFGLU41TDZQVlVHblpXVy11VG02VUtHSkcycWU0RGdna2dV?oc=5",
-      "published": "2026-09-24T01:09:35+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -238,18 +313,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Tropical Storm Nolo strengthens in Pacific, Hawaii under hurricane watch",
-      "summary": "Tropical Storm Nolo strengthens in Pacific, Hawaii under hurricane watch CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTDZNYTlLSnplQThVX0JmRm84clZGcTVIVksxUnBicE1zTXhlWVhYUUNaZW1IMnBJYzZlenY0NEsxRl96U3F4RmF6ODUyZmwwTG1meFVNdXcwbTZuWldYTGFDQXJTbGpt?oc=5",
-      "published": "2026-09-23T22:20:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -259,6 +322,19 @@
       "published": "2026-09-23T21:57:04+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Federal Tax Credits for K-12 Scholarships: What We Know (and Don’t)",
+      "summary": "Federal Tax Credits for K-12 Scholarships: What We Know (and Don’t) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlljdkhBOU51S3VweWI1SWNPZDM1NlVaLTdheDdqcm1xTDMzTTVHN1JrQTVyekpQMS1MWE1EYmctRFhxemtHdFlGWFVkdG44SEZ5SHR3dXVJQkdlUHhHRkJ0WW9xeDZYMFZWdzRSWUJsejZmdnQwUXZBZjJoazZHUnJkOGxYa3VnNDh2ZDJCZkM5cUhFUGxSRUZLX2dkSkxydy1sR3Q2enpqZmxuR1Fr?oc=5",
+      "published": "2026-09-23T21:13:48+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -272,54 +348,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "She promised to carry on Lindsey Graham’s legacy. Now her campaign is imploding.",
-      "summary": "She promised to carry on Lindsey Graham’s legacy. Now her campaign is imploding. Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0JVSTJMZDlreE51d3BlQWsweGNOcVBaRXFBU3NyLW1mczUwTzZFbTk3YWxvYmJ6WEtzV25IX1ZXWU05dkNlT0hnRXBsbjlSak16UUZmYlU4Vlg4OHgzNW8zMjZ5ODNEMFozWFJHMTF1Q2RsMnQ1M2pBanN3cXJwT2RZQnU4ZmJIWkpwU2x0eFZRUUdIYm1VZXFLNTNra3E0ejFkc3U2aVpDeUhNT3kycw?oc=5",
-      "published": "2026-09-23T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "More school closure decisions likely ahead for the 2026-27 school year",
-      "summary": "More school closure decisions likely ahead for the 2026-27 school year K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODcwZzE3VmlzUXhQZmNLZ3pienZuNXdjQzNTSGNDejQ4dE9FQXVJRHAwSlBKVDNUa1RGcFVvSGNEaFhUNElXWVk4WEQ0UkFlUVpKOW1kX25qRTFYMnRhWC1MVWVvUURBbHI0c1QxMUp2LUIxYTJUQkxRZUc0MFBDdXBlVTBFUzFKelJpdjJ5TU56TFpFNEdtalFVOW9BY3IxY19fOXJjNnFqeTA?oc=5",
-      "published": "2026-09-23T18:34:04+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Hayden Panettiere died from accidental overdose of drugs, including fentanyl, coroner says",
-      "summary": "Hayden Panettiere died from accidental overdose of drugs, including fentanyl, coroner says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS19pMzhzd1FocVhDLUtEZWlYSXJocng0dDBEVVJCbTl4N1VzbTI1aUl0VmJpa1psQXV6Nkt3OVVReFgxcXVLdjZibTVqMUFYa1hjeEVEbmxmbm50WjF6bTF5VmxXSWVoVDhrSkJ0V2o2YjZKVFhnWE82Z21OQ0MwOF9LRTNQV3NSZE83OUdhZ0pEdFJ4V0FSWFk4TWhvRjNGZFBPVlJfRGZEd0duMWRrUFd3MGlxMkNk?oc=5",
-      "published": "2026-09-23T18:30:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Elk Grove school board candidate loses endorsements after use of slurs surfaces online",
-      "summary": "UPDATE: Elk Grove school board candidate loses endorsements after use of slurs surfaces online EdSource",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXBra2NJZllFbWZEQ0E4NWZXZm9sWTUtbzlmZjl4TTR5czNla2UxTl9OYnJVaVZBcTBuUEJwelA0TzhFb1AxZHdhenRYbTlQdU5BTkdvRFZrUExnLS1nMjEyYTVVbVgzWXVKQVd6VW1wUmdhVEh0Zk9xc19pZ09nRFpuWWFNb082eDQwTUtYNVVLU1QxenNnVnVDUi01emZXNE1ZMW1zZUdaaDdBZ01BV0FRdGk4UQ?oc=5",
-      "published": "2026-09-23T17:59:59+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -356,30 +384,6 @@
       "published": "2026-09-23T15:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Dolly Parton’s estate accuses her nephew of threatening to destroy his aunt’s legacy",
-      "summary": "Dolly Parton’s estate accuses her nephew of threatening to destroy his aunt’s legacy NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFRZd29JQVl6VkVLLTVpeVdvdlJCdy1uUDhjM2tPY2FlcjY5TEVibGMwUEgzZXdrQ015c3pjZFMtVGwyZnotbG9yWUlBUEkwdUxCNkxWMUJ4T2RtejU3LXBzenpIQVo1Y0doYzlQUVRjdGhwYlkzeFY2RnJlZy05QVg5dmZncW1sTlF1WDNvb1JqbVkyTzdCNGZLck5wdGtlOUtSU0hmVmI0MjV2ODE3M1QxYnQxVVk?oc=5",
-      "published": "2026-09-23T11:23:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "An ancient wall discovered beneath a Paris hotel could confirm the city's origins: \"Major breakthrough\"",
-      "summary": "An ancient wall discovered beneath a Paris hotel could confirm the city's origins: \"Major breakthrough\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wNGxsZnppVkZGYXlnZHo4Zmd3dHkyeG0xMGw1QjJFT1ctOTlicFNFcEptRzBfa3pTLXVZbFI1ZGtPUnl3OV83eGZLYU0xaGJLcWF5NGxtUEs5YldyN1I5MGd4VGhpaFlqb3EzNXFxV3BBd3VYMnBhQg?oc=5",
-      "published": "2026-09-23T10:36:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
