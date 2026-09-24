@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:04:57.354004+00:00",
+  "updated_at": "2026-09-24T14:18:59.407771+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,49 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Judge blocks Trump's ban on CNN, MS NOW and Politico, ordering White House to restore access for now",
+      "summary": "Judge blocks Trump's ban on CNN, MS NOW and Politico, ordering White House to restore access for now CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3Q2V1o5Q3ZqX3RxT1NpVWJnQlJYUXltNVpMMW5sblQwTHBmQ1Q2NGZoeXprODg2amE5U1YyeUhObVJ2b25uRlRXZ3VjOGgteW5JeGdwUVpGTkI5QXRXUE5XMmxRbWxTMWM3Zlc5WlA0UHpsNjlBTTZJLWlObnNUOHNidVRGX0tKTTlPd3NOYk01QWMwYkp3eVl0bGU3WUxBY0VZ?oc=5",
+      "published": "2026-09-24T12:56:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
-      "summary": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWb1JzcW5mRU1hemVXcnhBeW0wa3VOcEtIU0FxcnI1bktsc2g5Qkttb1ZDXzRVYW5wWWkyTHlDRUxZakFTejZCbnU4bGFSR0J0Z3BpQkhNd3hXVUVKaUdvYnJnNkxXVUxEZVFXc2J2NWxnaTFwQ1dETUpB0gF_QVVfeXFMTTFwSmxWdHcxa3AyeVNUcGtDaGNrSkJSV2JZUklQajdjdlRfSzh5VEh1Vk5Dd2ZiVDFLZXF2YURsSHlmWlNOOWxmTHNvMEo3UG1nYmd0MmtnNFRQMk0tTmk0SGJ6b0l1UFphXzltamVuM1AycE1hRkpLalh6cENoNA?oc=5",
-      "published": "2026-09-24T07:47:25+00:00",
+      "title": "Oracle shares drop on report it sent 'force majeure' notice about data center project",
+      "summary": "Oracle shares drop on report it sent 'force majeure' notice about data center project CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83OGFNcURydFoxR0o2WFYyX2ZTRkVUdno1UnNET2lrM0ZDVUdnZE11NWtMWFl1NnV1aU4tbXlLeFgtUEJVT2ZRY0tVcWxZWnpZR0g0a2owZDNYUHQ5Z05NZDY0aDAwUGhQMHZtUFZVd2lXX3Nnbkp5b9IBfkFVX3lxTE9xalhSV0NpQlJoUnQ4VDZGYUQtR1hnY1ZKMlVPVlRTelNaQk9qMTF5NzROY2xRcmFVNFJBQnY4QnlsVVRuOE53T1BtaDVxTXJlZlB2UzZhWmE2b0hPZmFlYlhZSDdDbU5lbEpGSnFvUGJtWVd5S1RZMGFvdG1Qdw?oc=5",
+      "published": "2026-09-24T12:48:08+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
+      "summary": "Darden Restaurants stock falls as Olive Garden reports slower growth CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEtXby1uYlR6aE5jV3NSQzlRTmRzc3RaWXRvcktZUnVCR0tYQ25reFFIRFptZUNMNHJOQmJzVmNnX1dDVXFfaE9ieUxoUnQ3ZHppMmt5a09tR25hbTh1WXVXWVVobDVneVRHZzF1UGFCV1p3cGVoNHRhcHV0Q3Itd3JR?oc=5",
+      "published": "2026-09-24T12:14:24+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "summary": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mdzlDbUQ5ZkNPanhHNDFFUjcxTVlITlJzUEM0LW5YVkpoRmNNQ2pTNnlRV1RlV0ZBN21LempRUkg0WHRDX2VyNVZpNTNGSUlJN215Qk95UUlMVFFyRGRqeDJuTEc4Q1NERFhhNGFzOFNiY2c4cldiUUtn0gF_QVVfeXFMUHlicjEzaTNPNzFDbjZ1SERYXzE4bl81anhXZmVNaXd1WGlTaThtU3pKYXZoeG1NUWlqWW9Ja29KNW9qZVJyVkRjSUh1Ui1QQnhQNDlZSFNrajR6Vk9GaGRTSlhHQU5XZkRNekNORFVOSzJkRGd0NnNZMmFvNkVIUQ?oc=5",
+      "published": "2026-09-24T10:56:00+00:00",
       "beats": [
         "Business"
       ]
@@ -35,106 +71,22 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Judge orders Trump administration to restore journalists' access to White House",
-      "summary": "Judge orders Trump administration to restore journalists' access to White House NPR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQajJmRTZzN2tLZGNpWlVhbnZGeFdQMU42V0RoQkNFZlV4clJmalhIbF9qNVByQ216MU5zVHRFQnQxSjhvcVd3cUxRdXRJOWVYWFY5RkJKQVRnaEZBUnN4YkpMOEdHUGtQSHVyay11amN2R1daUGJrZnNoZU9DVFI4V1NFdUJoamI3N1QwS2pLUDk5cTQ?oc=5",
-      "published": "2026-09-24T06:21:06+00:00",
+      "title": "Needy couples got cash and a spending plan. Results were good — and bad",
+      "summary": "Needy couples got cash and a spending plan. Results were good — and bad NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdE9LTzBVRFllZ0hGdkk1dXRZTEM1Qkx6M3g1aGJPSl9lbl82dXFtMWNNenBQZEgzVmcyaHprdGZzbFBkWm9iUU0zTzBiS2NpNXhZYzFzQnIzSWdWaFdkdGgtX0JiYW5WRDJMdG9zcTNVM0MtNWVKZWxGZGpLc2ZqNEJGdVZjMHo3OGZOWTVsajNwZEk?oc=5",
+      "published": "2026-09-24T10:43:25+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Indian AI firm backed by Dune and Odyssey visual effects studio valued at $2 billion in fundraise",
-      "summary": "Indian AI firm backed by Dune and Odyssey visual effects studio valued at $2 billion in fundraise CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHU1Q19qVnRydFNtYjRKYURhNTBYSGphVXVIbkRuc0EwYXlkM3QwUTlPNXZlVnFtc2Z5am9lWXJxU1E0T3B5S083VDdoUGI2N0hPTDlPZHVBdkZyOW1uekpMMS1RSHFNMXJ0MjR1alFTaEhBQWdFTDZYNzdvaFJKTXZPa9IBiAFBVV95cUxNR0J6TlU2S0dtX1hEZFhkbGpjbU56STBNeWdqTENYdkxwVDFGbzlUdWh1Q0FfUGZGZ3EzY0cyT2tpNzZXYWNVS3d1TlpiWTEzLUtqNDF3bjdJZG5ZZjdkRHNyOUEyR1VyTUs2eTNjMkh0T3FXLVNlTS1GT3k5eTVCaVMtMm16OU5i?oc=5",
-      "published": "2026-09-24T06:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access for now",
-      "summary": "Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access for now CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3Q2V1o5Q3ZqX3RxT1NpVWJnQlJYUXltNVpMMW5sblQwTHBmQ1Q2NGZoeXprODg2amE5U1YyeUhObVJ2b25uRlRXZ3VjOGgteW5JeGdwUVpGTkI5QXRXUE5XMmxRbWxTMWM3Zlc5WlA0UHpsNjlBTTZJLWlObnNUOHNidVRGX0tKTTlPd3NOYk01QWMwYkp3eVl0bGU3WUxBY0VZ?oc=5",
-      "published": "2026-09-24T05:29:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "OpenAI's breach of Australian health department website prompts rebuke",
-      "summary": "OpenAI's breach of Australian health department website prompts rebuke NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCRlh0SVduS2xhdjZteFlSSUlpMzdLY0Nfc2RoeW9ZSC1oRXBvZkJteWlmQ2tBcW9fWHNTdUxJbldKUHBDRHEzUzh5WE4yLXJzLWtSVlFOYlVwcVVtTTJUbVhGeGg1N19KVm41VmhSY3BKNjBq?oc=5",
-      "published": "2026-09-24T05:14:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
-      "summary": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3l5RjNyUllpc2hITXZHNFBjX2VHdjRKd2xlUVE5MFZTSlVUZzNpd0s2SG1GTHBsbk16TmZVVlQxaHNjWDJnbHAyd3JtMWprMXZpZ3gwX3N5V0d3QThQZlY1NEtvZEliTC1xNGRmZGZBSnZMa1JZXzE0RDhmQ1RIQndld2dpQ0d3ZmJtQzhOSl9RQjl3XzJyLXJLVlFDU2_SAaQBQVVfeXFMTXZ6X182aFZwSG5ickFNYWozc0lwVmpSWVl4eXBwbk5HS1VuSGY2c1FPQzZjclFSTjhpOVloaHMxY3Y0S3lna3EwUWl2T0F6a3kxZlpMTmtWSFE3OWI4bG95cnZra3ZxbHVVVk05Y0JfT19jU2wxdGJQR3VfWGVFT0NLR1Eya281ZHJ4dG1wR2VCQ0VwWXhHb0stNEwxRmhJdUxMcS0?oc=5",
-      "published": "2026-09-24T05:10:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Judge orders Trump administration to immediately reinstate White House access to CNN, MS NOW and Politico",
-      "summary": "Judge orders Trump administration to immediately reinstate White House access to CNN, MS NOW and Politico CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1F0RTBPU1hudmFTT3BsMFEwLVM1TXdIMk5ncnlnQ2FESC1fV2JvbDBsZEc5SDVfdUtTZFdwRjgyY3VPM1JiZkZqUVpnNVA4WFBpTjRtWHFTbUl0QlhtWGh1WkkxRFcycVU0WHk4ak56U2ttQks3Q2pHaFgwR2FyNmQwemRGOHNjd3NUY1p3?oc=5",
-      "published": "2026-09-24T05:06:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Fears of return to war grow in Ethiopia's Tigray region",
-      "summary": "Fears of return to war grow in Ethiopia's Tigray region NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoVXhjc0gydEZmYVVGc2JSYTNpSlZVNkFzRVVYVnpMclhrX0h3eU5qLXp0VUlsTlpfSF9JUFVhU0QtRE5PdGs0ZHc3Nm5rbHdIbmlYNXlfblF1Um5nUEd1akVyZTdfeDhRNzNPU0cxZXluUGZwY2dUSw?oc=5",
-      "published": "2026-09-24T04:23:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Why the Trump and Xi summit will struggle to live up to its grand pageantry",
-      "summary": "Why the Trump and Xi summit will struggle to live up to its grand pageantry CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGRXpxV3ZFNGRaUUY0X29WU1BPVElrNXFSTTJENHRnSEc3dzl6NUxYT0dTRktKbnJCRmk5cHJkU0dCeWZwRlgwWnVTWDBYanppZ21fdFl5YkF2SEJxakZhLWZYODVtM3dlSHhsbzFsV09lVFk?oc=5",
-      "published": "2026-09-24T04:01:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Meta is betting big on its Muse AI agent with a blitz of new gadgets",
-      "summary": "Meta is betting big on its Muse AI agent with a blitz of new gadgets CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUE4yQWtNaEZuc25LU1BwMzgwN1BSb214SlI3b0lHa2dQQUpsb3VxY3JVTi1JRHBPQnJwcWNrRTBDN0VEWDlPZ3NYX2xDRnNPbUIzZG1mcTZqMkt4dVpWQzFmdWsxMlF5OVJwSG0xQWdPZw?oc=5",
-      "published": "2026-09-24T04:01:29+00:00",
+      "title": "Judge orders White House to restore access for CNN, MS NOW and Politico",
+      "summary": "Judge orders White House to restore access for CNN, MS NOW and Politico NBC News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnhOUzlWZkE3QkRGVWZkRzdwVUw4WFZTUEJ2N3diY2NNTEtEdDIxT2pvQjMwb2E4c0NPNW5EOWdzUkZfU1BsMjc5WkxVMm5kTnlWcDF6aVZwNk5ab0JqejctS2FsM2J1WmhyX2VLWTAwZFFsNTZkYUsxaGJxeG9qeFBBZ2ZYbVJ5bEk2OTBKcHZ4TkFzOHpycDlHTHJsR2ZCRF83d0xZZTh3NXB6anpob2lqbGpWdGE2eWpRaTlfcHNoQnY1UHdxRHV0NXlLOWc?oc=5",
+      "published": "2026-09-24T10:14:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -143,12 +95,85 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Angry Outbursts, Slurs and Firings: Tumult Rocks a Key Senate Campaign",
-      "summary": "Angry Outbursts, Slurs and Firings: Tumult Rocks a Key Senate Campaign The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWJoSW1uZENpVVo3d3hNa2wtSFFqMk0tdEROcFppX3FkRHU0RV9DRVhzdmxMZGpkVHhmUkpQZDlOeDhFN05mMllPbDFVNXZlWTh4aXI0aWxCd2dHTFJhQm1aLW1veFEzcDBQcEhiSjllVnk2dXhIUlI4U3ZtLWFQUWU0dGNIT3l4QlIw?oc=5",
-      "published": "2026-09-24T03:24:57+00:00",
+      "title": "‘They Picked the Wrong Candidate’: 12 Texas Swing Voters on the Paxton-Talarico Race",
+      "summary": "‘They Picked the Wrong Candidate’: 12 Texas Swing Voters on the Paxton-Talarico Race The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUduZFN3Q3g4ZmprM0dnQlo5dkdzcGVHRDFSeXRtQ0ZQRUFnbVpWSlhYV1dmUFJqaDJ5SWJCbXk0TzFFYTliOEhoV3BTUHVEUTVWcTdydzZzUDZzVjJ6NnFTQVd4XzYtRzQxNGlmRFc2bjZGWW9CRnJNVUlzdGFWU1p3c1NxSUhEUVJnUExodXlSRDNIU2VpVg?oc=5",
+      "published": "2026-09-24T09:12:23+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The ‘first prediction-market election’ scrambles the midterms",
+      "summary": "The ‘first prediction-market election’ scrambles the midterms CNN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEQzRzl4cHVYcUtFTDRVX0lEMnlPdWx1ZHV0ZzMzMnBYTkRQMWRTX0lwQXYwckJtWWwtNDZXNzdwelhMZGVsNTlGekROUlYtNnVCVl9hdWZVeXo0YmhKT1ozY1hFOExqVHdWaEN1OXJ2UXVqRU9EZ2RVM2NtUXdkMlpzcGxGdk5McUJuWGlXNzlrWGc4T3hGcWNn?oc=5",
+      "published": "2026-09-24T09:00:30+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Majority of Americans express ‘fear and concern’ about AI, say government should regulate it more: CNN poll",
+      "summary": "Majority of Americans express ‘fear and concern’ about AI, say government should regulate it more: CNN poll CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GTWJQOVVDODMxRDRBYjNfUkY0OTE3eXU3cjVuclVTWFc5ak1JcWdNQnJkT2gyUTNrWWc5VVlrRFFRajNwWGkwbGtnU2R4VEFYSVlJQmdiTVZrUUJIbUo5cFllOGw4V0J2bGdGN1FaN0dNYzBaTkZB?oc=5",
+      "published": "2026-09-24T09:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Kentucky Gov. Andy Beshear pushes to flip a Republican-friendly House seat in test of his political reach",
+      "summary": "Kentucky Gov. Andy Beshear pushes to flip a Republican-friendly House seat in test of his political reach CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalA4MDlxQlJXbkFQWHJ5d0hER2lYN3FxSnk5LW13OXNPS0NTQjZjcjR2RUF6Vk5rYTdLS2VUalFjM21lZFc1ajJmdkt5YkxUak5OWWZRUmJacWNLVjFGM1RJYTJzSjNsWWROdEt2NzJjT2hvd094Z3k3MlYwaTlHTVRrdXFpeWZsdllveFdZX3FtRFIyeGpn?oc=5",
+      "published": "2026-09-24T09:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Tucker Carlson has reconsidered Trump. And quite a bit else",
+      "summary": "Tucker Carlson has reconsidered Trump. And quite a bit else NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2JZM0NleFJUbXhCVTF6V2J3VkIxMXZaMkFQM1BvcG90M0NQRndBT0VROEJBb0Y2U1MyUldmN0V2emx0TTAtNkdHY0huZEhqQVZDaFRiakRiOFYwLVNBZGlnZEx2aG9JS0dLMHMyZW84ZDVHRXU5YjFRRUtIZV9tOXpramg0ODRKTnRpaw?oc=5",
+      "published": "2026-09-24T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+      "summary": "Warren demands Trump officials explain removing a ban on interference in census data NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTljV1pNUGJPNF94ZHVfSFp2bnVyR2JFc2I0TDNISVFCTnRGUDBkdVNtWVlLcVVpZGdvVmFwRU4xcU9BWkpRSHRNMGJzLWMwY3dxYTFyRklrVmg1d1YzOXZKd0xIWmJCei1ETTRvenQyN1NRRE9pZy1QUE9UNG1zbkZLQ2ozOXM4cFdoZE5tS0hFRU03cGNHMWdTUQ?oc=5",
+      "published": "2026-09-24T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Now even Republicans want answers on Don Jr.’s Russian ties after wedding scandal",
+      "summary": "Now even Republicans want answers on Don Jr.’s Russian ties after wedding scandal Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFJSNk5mQ3lnbTVxOVp5bHgwdVJLT0x4MzIyWjc4UzJLM0dGWHhiTFdjRWRuVHUtYmJRdlVta3pwcW9mcDZNM1hPTE05NVVyTktQcVFSS3k5X1VpUVlTQzk1YldLU1Zua2stUTlFUGFhVGJlMUYzSVBvMEV1bno2bVJWcWdyZU9vS3ZMMWV1amVlLWxhQWZtSTVXZXlIdF8zQTFabGROclRIZw?oc=5",
+      "published": "2026-09-24T02:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -159,6 +184,42 @@
       "summary": "San Francisco Assemblymember Catherine Stefani says staffer detained by ICE in Nevada CBS News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzJMZlRpcmxXRUJFWXVoalotVlBxSUxkRDlYNGRpX0F0cEpvR2N3VnhPQzFqNU1aX2x4WWRyNDFEeGZ0Y3ZMaVEtSTFMamV2SG85al9xMmcyd1BMbkFsWlVRd2FydVhrUXNqSTZqV195djlKWWlua0tOd1hRLUgyZnhVcU5fNE1aSU4xSmFGLU41TDZQVlVHblpXVy11VG02VUtHSkcycWU0RGdna2dV?oc=5",
       "published": "2026-09-24T01:09:35+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
+      "summary": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWJoSW1uZENpVVo3d3hNa2wtSFFqMk0tdEROcFppX3FkRHU0RV9DRVhzdmxMZGpkVHhmUkpQZDlOeDhFN05mMllPbDFVNXZlWTh4aXI0aWxCd2dHTFJhQm1aLW1veFEzcDBQcEhiSjllVnk2dXhIUlI4U3ZtLWFQUWU0dGNIT3l4QlIw?oc=5",
+      "published": "2026-09-24T00:34:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Tropical Storm Nolo forms in Pacific, Hawaii under hurricane watch",
+      "summary": "Tropical Storm Nolo forms in Pacific, Hawaii under hurricane watch CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTDZNYTlLSnplQThVX0JmRm84clZGcTVIVksxUnBicE1zTXhlWVhYUUNaZW1IMnBJYzZlenY0NEsxRl96U3F4RmF6ODUyZmwwTG1meFVNdXcwbTZuWldYTGFDQXJTbGpt?oc=5",
+      "published": "2026-09-23T22:20:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump Justice Department’s latest bid to sideline 17 transgender troops’ revoked retirement lawsuit fails",
+      "summary": "Trump Justice Department’s latest bid to sideline 17 transgender troops’ revoked retirement lawsuit fails Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mMEFBamZBX0RpNW5uWFpQSl95OHhRNGM2UlRiQTF1TF8xMDNHZHJLM1JZRU9jZzFvWk5MRkhWWl9oLXUwbGVmSmFCSmZWZ2RrRWZhY1pjb05lU2J2Vm85QjVQbDdlNUJQdWJVTi0wNnRRanoyUEpZYVRVSU5pcjA?oc=5",
+      "published": "2026-09-23T21:57:04+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -189,6 +250,18 @@
       ]
     },
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "More school closure decisions likely ahead for the 2026-27 school year",
+      "summary": "More school closure decisions likely ahead for the 2026-27 school year K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODcwZzE3VmlzUXhQZmNLZ3pienZuNXdjQzNTSGNDejQ4dE9FQXVJRHAwSlBKVDNUa1RGcFVvSGNEaFhUNElXWVk4WEQ0UkFlUVpKOW1kX25qRTFYMnRhWC1MVWVvUURBbHI0c1QxMUp2LUIxYTJUQkxRZUc0MFBDdXBlVTBFUzFKelJpdjJ5TU56TFpFNEdtalFVOW9BY3IxY19fOXJjNnFqeTA?oc=5",
+      "published": "2026-09-23T18:34:04+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -204,36 +277,12 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "A Powerful Nor’easter Is Taking Shape. How It Could Affect Your Forecast.",
-      "summary": "A Powerful Nor’easter Is Taking Shape. How It Could Affect Your Forecast. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYjJmT2pGMTI2ekV0N3QwSVN5NG1MV2FBUlViMFZMUlpNUmJYYkZYbmRqUjAtem1vY0hZbVd0T1lwdVRyQWw4em5JY1pPVUZJS0NuYWRVRHlyYnBiT1QyOVRKbXlVVXJfUzN0SFdfeDVOLVYtNzR0ZEFXVktkcmNFV3N2YXI2U0xzLTBUVg?oc=5",
-      "published": "2026-09-23T17:51:01+00:00",
+      "title": "6-Year-Old Girl in China Sets a Rubik’s Cube Record",
+      "summary": "6-Year-Old Girl in China Sets a Rubik’s Cube Record The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamU5UjkxWTdDc0pkZFl6M3lMaG9xQ1c1NGhGN2Z6QXBzXzFDYllnYlA5LUU4UWRTVUxGc2dndzVkdV9LUjducFpodUJYNkJxVnZjRlBiQ2R4S0UtVG9xOG1wdWxReVFMS3hWNFhGaTdZdUtSTGp3YTJUMHh2NDVncWtPVm1YeVVp?oc=5",
+      "published": "2026-09-23T16:20:49+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "‘Temu Rachel Dolezal’: Philly activist confesses to years of identity fraud faking Black and Palestinian heritage",
-      "summary": "‘Temu Rachel Dolezal’: Philly activist confesses to years of identity fraud faking Black and Palestinian heritage NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkIyX3VqVFJkWUlXR29KZkhQR3JBNUhkMjZOSXVsOUk1WE1XYUlUWXZvcE5panlja0libXpfdVp0eHZNT1M3Vl9qQ3VkUXJvT1lINUlMVnVreFN5bVVJSm5wbnFRUUN5OXU2UHBWM3oyc3NucTdReElRN041ZjlRelVJNVRDd0dPTlNidWZjQ2hlSkkyMDRlTHJWQVR2NlF5a2RIRFlRcw?oc=5",
-      "published": "2026-09-23T17:49:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Kathy Griffin on her new tour, advice for Ed Sheeran & the 30th anniversaries of Suddenly Susan and The View",
-      "summary": "Kathy Griffin on her new tour, advice for Ed Sheeran & the 30th anniversaries of Suddenly Susan and The View Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnptc01INTZ6NnN0bEVvaWVoWmw1N2NWN0xMUGtCbnVDUzFRYUNtNW5kOFhQUUxtRmNKZFo2dzNlX2p3RXh4OHd0YjhadVJ6RlF4cnhaNXFTaVdTMXlUY05pOTByMEJjVDRHUVI4YTVjMjR4T3RDWHRTUlduUkRwVnFOYXZHVzlSRkhiSkVyX0IwcmNCRTdEU01YbF91THdBay1JbGNvblYzOXhmUENfeWFQT0JCSG40LVFyMl9iRzU5RThzVDNXWmMxS3NGdE1GRHk0YkVB?oc=5",
-      "published": "2026-09-23T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -244,6 +293,18 @@
       "summary": "Florida trans woman and her partner attacked while walking to work by women in a car Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0eDFXVExWdk5FWW1uQXl4UnZ2Uk4wbnJjNW1FY0s4aURrTERIZWpGOHdadXpiRXVUdGcyOHYtMnU4aWJNcmxDYnFrTGFIWkljSjJoUVJpVE82YkFYcFdsUFdsaVprWkRaaXdKMjA5SQ?oc=5",
       "published": "2026-09-23T15:25:57+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Senator says \"furry\" pilots are taking over airlines because of trans people: \"We're sitting ducks!\"",
+      "summary": "Senator says \"furry\" pilots are taking over airlines because of trans people: \"We're sitting ducks!\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWxxdnBQcDJUbHJ4aGNLaW9YNmJlbWkyZEc5ejRrVWdGRTZnb2d2UVJHc2VnT1E0YmlnUFJySFJDVE4zeEZWeDR1Ql9xVGRaQTJFbjNSWWFtWUhROS04N0tlcUN6UnA5WUxVRklpVWNlVm1FTmdtU1duV0kxWGtMMFBsZEJsMTE2ODVRa0I4TW5LQWpFSVkta015ZHBRT3hVeUx5MENsV20xN2cxZ2w5RnRRZi1KLVNaS2VjSHRnaTZ0Q2ZERWxjRUpB?oc=5",
+      "published": "2026-09-23T15:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -261,15 +322,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "$1 Billion Donation to University of Oregon Makes History",
-      "summary": "$1 Billion Donation to University of Oregon Makes History The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMktTQW92ZlNhQlZSbHItcWx0MGlBWjNFZkdYakJPQkRtTXJWQS1RR3ZLTzE0bmVpQTJGbVZhb1BiTkxUc1BJcTBlYm4wNE9QNWl4eGFRVktoOU9ObjYzaDVfMEpqYlpRZFM5aVRtWG9lY0JEcjEzcWtmaVRJYnB1ZFRtNVA0d2VoSzdKeHB2UW1fRm13OVpWSUl0OE0?oc=5",
-      "published": "2026-09-23T09:00:31+00:00",
+      "title": "An ancient wall discovered beneath a Paris hotel could confirm the city's origins: \"Major breakthrough\"",
+      "summary": "An ancient wall discovered beneath a Paris hotel could confirm the city's origins: \"Major breakthrough\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wNGxsZnppVkZGYXlnZHo4Zmd3dHkyeG0xMGw1QjJFT1ctOTlicFNFcEptRzBfa3pTLXVZbFI1ZGtPUnl3OV83eGZLYU0xaGJLcWF5NGxtUEs5YldyN1I5MGd4VGhpaFlqb3EzNXFxV3BBd3VYMnBhQg?oc=5",
+      "published": "2026-09-23T10:36:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -286,18 +347,6 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Iranian president arrives in New York as Trump weighs cutting a deal or driving Iran \"into hell\"",
-      "summary": "Iranian president arrives in New York as Trump weighs cutting a deal or driving Iran \"into hell\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGRLV0xqY1AyaEVCb1I0bnRJcm5hVnkzRmZWUDhtR1cxdHdBbTJwTFllNkdhejlhWGx2b3ktdGhVcXdlam1iM2d0TDJPMHN4azB1RWI2TklLVENrdHlSVE5yNHpsWFVlSWpaWk9NbGtGMlZNTW1iLW5DWF9UM2tkc3RpaXRhRFpQbkFsWkw5VXZxQU1a?oc=5",
-      "published": "2026-09-23T06:33:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Monroe Public Schools considers restricting girls sports to biological women",
@@ -310,15 +359,16 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Transgender radio DJ quits on air from Virginia station",
-      "summary": "Transgender radio DJ quits on air from Virginia station Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kQlM3dnphbDI4WGxldzJZWDdINERHeFJmS2FNSEJsNjdNVjZIN3NJbEJIV0JxdmZiLVJNVS1Yd2xjNGhwQjJ2aDNpTFpoYWxKT0g1cGlKTHBFUDZ1Qkd2ZnlzbFhKLUxFbXFvcjRB?oc=5",
-      "published": "2026-09-22T22:27:58+00:00",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "5 ways state policy can support high school transformations",
+      "summary": "5 ways state policy can support high school transformations K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVllmR0VJNGhRTzBJRlNwN2Zua3RnSEZJVjY2bXFBaWZ4Ym4wbjd2YnIzenQ5YjQwaXYwOXBhd0xxMGh5M3pmbDA3bkxtSGlxd3RzbWNFazExZWJKcTZfMkZyUW94TUc2WWRCdlNSSGZwekwxd0FsSEV6U184ekxhSzVzaUVGRlltdnlWX1V2cG82dmpZM0xpUEI2SXE?oc=5",
+      "published": "2026-09-22T21:11:17+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -326,57 +376,9 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Headlines Warn of an AI Apocalypse. How Should Schools Respond?",
-      "summary": "Headlines Warn of an AI Apocalypse. How Should Schools Respond? Education Week",
+      "summary": "Headlines Warn of an AI Apocalypse. How Should Schools Respond? edweek.org",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGJleHd3SlRTbFFxUzZYUXhrTGJzRW5mRFNnbWV2cFBxQjBvbUszNVhCTjdfMWtmODNZckN6bzItQ2k4MHhZUWZ0WDlPQnlQbldIekwtSXR3dElFamNNdFVMc01GTGtzNExXbHZ1WkFBNUlJbDVjelNYQk1xRW5mQmVHVFpKRzc3MU40VWFoZDVFVWxaNzFtclBrdFZUUzZaVDNDb0Rn?oc=5",
       "published": "2026-09-22T19:38:37+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Jose man accused of murders after 2 people found dead",
-      "summary": "San Jose man accused of murders after 2 people found dead CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWdDUEM4c0hUaVI0SFpOT1FsUmNCODFxN2g0N3BXS19NcWJJZ3hveXV3RTBmblRCNkp3T3o2emFOQ1lITG9NcUM0NTFIVXhydHB1R1lKQjY5ZHdkTU5LRFRoa2d0ZXVnUFdmeW1WZUFPemVkTHNuS3lXZ2RUaWl3cmlJOXFCTG54Q01UMEI1ZUZxa1NnUEkyQmtjSkxGaGV2b0Z0dklB?oc=5",
-      "published": "2026-09-22T18:41:16+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Cuban delegation walks out as Trump calls their country 'a failed state'",
-      "summary": "Cuban delegation walks out as Trump calls their country 'a failed state' NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSE5QVmY5UEtLVWNrZHQ1MWQ2SmprUndxYU9wXzJyYVNZa3ZrYjY2bmpXMWdVMXg4aGpob3RyeW9iWFMxTnlIbHJ5N19SaG9YY1BiLWF0LVpwTWQ1Yk1uWU5pOUk5UFh2V1VNWnhTY2s2WXVZNVJHVUZRNnBzY282TDdTdHN6dkpkVExyVzRRa081QlBkUGtCMDFBVmE1eVhqY0F6TTRibmhSQ0VOLWFqU3hNVQ?oc=5",
-      "published": "2026-09-22T15:24:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Teen Mental Health Is Improving, CDC Finds. Then Why Are Experts Still Concerned?",
-      "summary": "Teen Mental Health Is Improving, CDC Finds. Then Why Are Experts Still Concerned? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTFHdW9SRFVYZm04ZjQ3azZRd3ZnOGRVVU1qTXJoaEgtV29hTWM1Y2loeFgwbEIyVE40cHJtSi1iR3NzbnFGcTc4dkNueVUwZEJ6ci1uaGhadmZPdWNYeXR3RGtpQWVsR25rMWcwQlRibms3TF9McTVrTUxBUVNXRW1Ra19YZ3lDcjB0Wi1zalRtUnZxVFZXc29vY281XzJ6d0RhRkNGb0NUd0dpalg3Q1F0aU80ZkNzQ1hPSg?oc=5",
-      "published": "2026-09-21T21:37:39+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Judge vacates anti-DEI directive that led to teacher training grant cuts",
-      "summary": "Judge vacates anti-DEI directive that led to teacher training grant cuts k12dive.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzBLcS00OUdUNWFCUHdiQzAzelFIVkZsUE9aWjRZM2xfYzNDUUxxRDZkbG9HNmhQSUYzaG05WVV4UWxDMG4tVlRLQjRrZVZ3MklodHpJVFBQaFozOG12dGtDbzM5LWtDdEtMUnVSeWh2VW93aHhMbTBFRWM4XzJ4NkgzM05QNFU4a2dNMTZ2VXJZXzhqUzVxbU5yU3Fid3lZY1h1Rjd6anA2aS04Nmc?oc=5",
-      "published": "2026-09-21T21:20:47+00:00",
       "beats": [
         "Schools"
       ]
