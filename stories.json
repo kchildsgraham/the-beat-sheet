@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:03:56.788161+00:00",
+  "updated_at": "2026-09-25T00:41:33.620895+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,28 +20,63 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Pittsburgh doctor attacked and killed while he slept, wife also stabbed",
-      "summary": "Pittsburgh doctor attacked and killed while he slept, wife also stabbed CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSE1VaVllTW1xTlgwMWpVVVdCRGRLV3ljYnc1RGdmay1qU0tSZVNaank0c3pnUklFbnpXNW1uNlpNQTh3WDh3NklkZmNaNUdSeEoyM3VtZjhRLUJTc01XZHo0V0poWmhVWnBEOG5icTJoWmR3NzFFSHRFR2FTYzBHZmJTZE80NFI5S1hn?oc=5",
-      "published": "2026-09-24T20:57:10+00:00",
+      "title": "CNN denied access to arrivals for White House state dinner",
+      "summary": "CNN denied access to arrivals for White House state dinner CNN",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZS0waWVaSTQ3d1VCOG5ia3RybWhfV08xQU9SNkNSX0h3UF9ZdlRKb0c3SkJBeFdobG1iakd6QjJFS25tY2tlVFIwSngyM0VTZE1vUnQ2QU1CQ2lmanFkYWFJRHFEaDZHX2JDbFRUb0lpUHppTTA1U3ktUDJjZFlJWEdCeUhaaXFJX1ZBVG5VamVWeU5VZWNzR1AwcTcyMXNyWFJydC12QmtCeEV6WFE?oc=5",
+      "published": "2026-09-24T23:25:55+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "DOJ says it's moving to end more than 50 decades-old school desegregation cases",
-      "summary": "DOJ says it's moving to end more than 50 decades-old school desegregation cases CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVNPWmdWYzFtNGFRN1FtU3RVMWVlYkpCSEp0UEQzWjhpSWZzcnYzd1JsTVpsNU1sUW1QYjRwRmNfWmNHaGVPUmZvYlEybFJyUUd5VVRIdjAxcXBHamZDZGVyRFp3cWhuWlZzaVNlaDBVX2ZUYVhTRmtNdXhDRUUxcg?oc=5",
-      "published": "2026-09-24T20:53:06+00:00",
+      "title": "Advisers urge Trump to declare national emergency, seize federal control of the midterms",
+      "summary": "Advisers urge Trump to declare national emergency, seize federal control of the midterms CNN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWdLeVdRWWJEWjJFdnpxakh0bkJKNHNrUzlQM1JKYldtczZxNC1ZUlhCenJnSFhKYkNod2FOcHJtdndXVkowTUdVaXdvUXB1ZV9JQUZnaWtkV2swbzRyUWVsV0NIU2ZmZ21HWGhHQUh0R2lZVEtkcGN4T19IWmZfVmpsWFFybnlJNFdDUkZVVzhITFgwQXZEdEJGUVdYTEltWVN1ejg1MHFnMHp0RnZMbkpzcw?oc=5",
+      "published": "2026-09-24T23:09:41+00:00",
       "beats": [
-        "Schools",
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
+      "summary": "30-year fixed mortgage rate jumps sharply Thursday to 7.45% CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFhnLWRNOTF2c1JOTk4tWllJNmQ5N1FuSl9yVGVkWnNnaUI1VldxdkJGQmhzaDFYcGwxQnN6TWtBbkwwcTFkQUc1S0prLS1lODE5VUpneEY5dXZ3aTR4elNjVF9hc1UxTkVBWm1hMGdSWjR6Nkc0Mjd5S09qV1BlQ0FOMUViYlVHbUh3Q2lFU29QemVDWWQ5akp0bjRnZFE50gGmAUFVX3lxTFA3bnVmM1ZRTkFsSDA3X08tQkY4QmE0OExlaGxibG0yZElLbHZOdWQ1NkNVZ0RhUmVEY1ZkbFFTWVplX2JvNTUtN3k3RGtnWm9fbkE3TklCMjJCM0M1Z3kwYXo1NDBfZjI3LVNkTG1vVWVEQ2daLVJyTktyN0lfSEMwSFo3UWdkLV9uZUZNWDZkb2pEb3R1V3VFYlJNemI0S3FrbDRYMVE?oc=5",
+      "published": "2026-09-24T22:29:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Gay Dutch prime minister & Zohran Mamdani visit LGBTQ+ archive — and hear from young New Yorkers it serves",
+      "summary": "Gay Dutch prime minister & Zohran Mamdani visit LGBTQ+ archive — and hear from young New Yorkers it serves Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qeVVZTUVGQUttbU5WVm1OY05lRGlMenQwMlFwQ2pyQW5PRFVnaE85M3ppNEk2WTY2ZGo3R2E2M1VjeW4xbXFCMVN3WTNwSmF2azFFYkpISFpqVUhSQXJrTFcxMkJBQ2ZxOWVpb0xn?oc=5",
+      "published": "2026-09-24T21:59:34+00:00",
+      "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘Love Me’: White House airs government-funded ad praising Trump",
+      "summary": "‘Love Me’: White House airs government-funded ad praising Trump CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYTdvejFEaEVSWlgybndRRjBSRG9Ka1FIY2xfSG5fTFNmNm93anNkLTZOU1U1RERJZFFiaVFfTDlHRmtQVzg1aVdjUmpLZ1RyZ0pvcXhaNmxObG1JRlhpcDd4U0xyUVNvaFFVamdoWjljd0Q3YzZERk5kQWx2ejA?oc=5",
+      "published": "2026-09-24T20:40:24+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -81,15 +116,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
-      "summary": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0RlVlJpRHZNd2Rvajd3OVlGTElKaVpXOGVLUXpiLXNDN25UVFdwY1JQSmppeWFwMHQwQ3UzemxULVFaZUw2aTRPWVBBdzVYSFZiZXhaa19zczUxbktMN1VJR2NfS21JWWFmUFpsNks5UUZqRjZSRVhzVjRHVXB3bGRSTkZhU3BWRVg5dC1OT3JlNXhoNzYtLU5KSdIBoAFBVV95cUxQM2VhYlNzZmlMQnBsVlY4ejRxdjBWS0dZeUtmUGp6bGhGN0paNGdveUxwaWhaMEhEbHJ5a3ppeERudzVwT1hQMUJEa09wcHZ2TkFCTzEtRzFhSGVjNGZPUS1FRUJpNm5YUlpyOWgwR0JSc3d3SElfTXFGTGgwYmM4Mlp2QmF5S0FXeHBRbHhxblc2ZmVkSVpsTXhaTmJnYThJ?oc=5",
-      "published": "2026-09-24T18:05:37+00:00",
+      "title": "16 hurt after juveniles in stolen vehicle collide with MTA bus in East Baltimore, authorities say",
+      "summary": "16 hurt after juveniles in stolen vehicle collide with MTA bus in East Baltimore, authorities say cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xR2NDd0k5dGNTT1VnNkZxRVZscHJLTmxTTUhwYmY0THRmb2hzSWJuckRSSGtsU3lrSWZjaFhlTV8wQzNWcDRYa2hpaWl0U3MtRDA0LXZzS0xGY0tCaDhNZlhHWWFMUFhQV3VDTE1EbXU1M3M1UjE0?oc=5",
+      "published": "2026-09-24T18:23:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -106,18 +141,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "CNN, MS NOW and Politico allowed back at the White House after judge blocked Trump’s ban",
-      "summary": "CNN, MS NOW and Politico allowed back at the White House after judge blocked Trump’s ban NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnhOUzlWZkE3QkRGVWZkRzdwVUw4WFZTUEJ2N3diY2NNTEtEdDIxT2pvQjMwb2E4c0NPNW5EOWdzUkZfU1BsMjc5WkxVMm5kTnlWcDF6aVZwNk5ab0JqejctS2FsM2J1WmhyX2VLWTAwZFFsNTZkYUsxaGJxeG9qeFBBZ2ZYbVJ5bEk2OTBKcHZ4TkFzOHpycDlHTHJsR2ZCRF83d0xZZTh3NXB6anpob2lqbGpWdGE2eWpRaTlfcHNoQnY1UHdxRHV0NXlLOWc?oc=5",
-      "published": "2026-09-24T17:52:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -130,6 +153,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
+      "summary": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
+      "published": "2026-09-24T16:49:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -139,18 +174,6 @@
       "published": "2026-09-24T16:31:00+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump admin to end key part of arch review, effectively evading preservation law",
-      "summary": "Trump admin to end key part of arch review, effectively evading preservation law CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFlMc2NwbXUwR24zQ2sySG1GT0F5d250b2VBeG9MSUJWOUlUVGY0UVV6aHVzVDd5bWh1N21EU0tzeUJOXzZJTnREMGNwR3ZUNVpwNFhCVjc2NjVENXg4SlNRQ3ctcHJLSE1BdVNqUENUNWtldWthLVVHNGRlRVVpUklETHd0WlRrbzdKVlNB?oc=5",
-      "published": "2026-09-24T16:26:03+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -173,30 +196,6 @@
       "summary": "Mortgage rates have just surpassed 7% for the first time in well over a year NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHZaM3lkMWVvUVAxWktZaVM1ZXZWdV9UWmpWN0xNMHlneDdoVHU4OHNQZHJzeUN2UE9EMlQ1dmxiQTQ3ZS1Bbk9BRzNGVU5fc1gxSF9UaVRUc1lDWS1VRm94UU1aZmZGYzNhN1htbzBXUU5EZ0FvRzhQVjVVV25NXzZsdEsteWhlSFE?oc=5",
       "published": "2026-09-24T16:01:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Mortgage rates top 7%, dealing a further blow to the frozen housing market",
-      "summary": "Mortgage rates top 7%, dealing a further blow to the frozen housing market CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjM1V0OGw4dnBzMm5abDBnbmVpQ2JEa3Z0SVlhUXV5aFVFMDhaTVFyV1pfcXZfRFdRWmI1azdlTVNPYTR0N2JDSkJIVXhFTmNhWThTMkwxMG03OElxVjZjUXFpaXlZemdlQmc2c1ZnMjVNaFJXLUE?oc=5",
-      "published": "2026-09-24T16:00:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Starbucks is closing hundreds of locations",
-      "summary": "Starbucks is closing hundreds of locations CNN",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14eVp4NG5vVWNsdzhRNENGTzRyTUhRTVlMSHZHUmxDZ2NnUGtmYmNqaXlWdWFVT0FKWnY5b1JfNmoyX20wdEhvcGNFeDJ4R01yYWhnNDFnV0xJT1g2anVvbmpXd0Q?oc=5",
-      "published": "2026-09-24T14:51:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -240,6 +239,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Pittsburgh doctor attacked and killed while he slept, wife also stabbed",
+      "summary": "Pittsburgh doctor attacked and killed while he slept, wife also stabbed cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSE1VaVllTW1xTlgwMWpVVVdCRGRLV3ljYnc1RGdmay1qU0tSZVNaank0c3pnUklFbnpXNW1uNlpNQTh3WDh3NklkZmNaNUdSeEoyM3VtZjhRLUJTc01XZHo0V0poWmhVWnBEOG5icTJoWmR3NzFFSHRFR2FTYzBHZmJTZE80NFI5S1hn?oc=5",
+      "published": "2026-09-24T09:16:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -252,25 +263,25 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Journalists regain access to White House after judge temporarily blocks Trump's media ban",
-      "summary": "Journalists regain access to White House after judge temporarily blocks Trump's media ban CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3Q2V1o5Q3ZqX3RxT1NpVWJnQlJYUXltNVpMMW5sblQwTHBmQ1Q2NGZoeXprODg2amE5U1YyeUhObVJ2b25uRlRXZ3VjOGgteW5JeGdwUVpGTkI5QXRXUE5XMmxRbWxTMWM3Zlc5WlA0UHpsNjlBTTZJLWlObnNUOHNidVRGX0tKTTlPd3NOYk01QWMwYkp3eVl0bGU3WUxBY0VZ?oc=5",
-      "published": "2026-09-24T05:29:00+00:00",
+      "title": "Opinion | How to Fix the A.I. Dumpster Fire",
+      "summary": "Opinion | How to Fix the A.I. Dumpster Fire The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpVjVwMGVlU094aDA2ZFRRSEg4clpxa1dZMmdfRzdKdU15MVBzR2YzX2xQeXhfdkRHVmpoNWhYbGp1OXlWeF9kQ2w1czVOVzVVdHU4Umw5UkRVTDJIX1Q3ZmxDT3pXSWxFcUpxaUY2MFg2bTgwaDdETEZ3?oc=5",
+      "published": "2026-09-24T09:02:27+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting",
-      "summary": "OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
-      "published": "2026-09-24T02:33:57+00:00",
+      "title": "Journalists regain access to White House after judge temporarily blocks Trump's media ban",
+      "summary": "Journalists regain access to White House after judge temporarily blocks Trump's media ban cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3Q2V1o5Q3ZqX3RxT1NpVWJnQlJYUXltNVpMMW5sblQwTHBmQ1Q2NGZoeXprODg2amE5U1YyeUhObVJ2b25uRlRXZ3VjOGgteW5JeGdwUVpGTkI5QXRXUE5XMmxRbWxTMWM3Zlc5WlA0UHpsNjlBTTZJLWlObnNUOHNidVRGX0tKTTlPd3NOYk01QWMwYkp3eVl0bGU3WUxBY0VZ?oc=5",
+      "published": "2026-09-24T05:29:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -292,7 +303,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "California's historic Gundlach Bundschu Winery, founded in 1858, files for Chapter 11 bankruptcy",
-      "summary": "California's historic Gundlach Bundschu Winery, founded in 1858, files for Chapter 11 bankruptcy CBS News",
+      "summary": "California's historic Gundlach Bundschu Winery, founded in 1858, files for Chapter 11 bankruptcy cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnphM1JHRi1tRnk0TFcwRWpxRkRPRWwzWUt4RmE4V21uRXN3WXlPaTVQVllfRzBiNzRJOU9zbUdKUk5LVmJkclpQTy1yX0RvQzFja1d0Wll6ZFRyXzFac2t2T0p5YUxvUUF2Xzd2ZHFrdUQzOGdWMFA4RUphVHRpa1ZLSzhpRDFZU2hzam0ydjJFMmJ2YXRxNEpEV0V4b0IzM0lObEFoSEVBNXM?oc=5",
       "published": "2026-09-24T01:00:00+00:00",
       "beats": [
@@ -301,27 +312,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
-      "summary": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWJoSW1uZENpVVo3d3hNa2wtSFFqMk0tdEROcFppX3FkRHU0RV9DRVhzdmxMZGpkVHhmUkpQZDlOeDhFN05mMllPbDFVNXZlWTh4aXI0aWxCd2dHTFJhQm1aLW1veFEzcDBQcEhiSjllVnk2dXhIUlI4U3ZtLWFQUWU0dGNIT3l4QlIw?oc=5",
-      "published": "2026-09-24T00:34:19+00:00",
+      "title": "Bernie Sanders and Greg Casar propose AI ‘superintelligence’ ban with a 20-year jail penalty",
+      "summary": "Bernie Sanders and Greg Casar propose AI ‘superintelligence’ ban with a 20-year jail penalty NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGx1WkdsVlk5Nk9VY1Uta0tCSE9nQ2N0UW9NNFRBWUotMTBQM3lfZjNXdml3clpqV2dZYVJ0V0p6YXg2bHJhZWVSSXVnR1NSSGNVLTFYWXRtWjZRSDBUTUJDd19QZDZETkk3R19jZkdfaWtiOWNpR1VWWWVLaDlLRFFfZnhhYjJjTFB3TWVMeTFuYjI3YmEtb3VORGlIQnc1SDlaR09kV3lxRm9FRkxYMUJjSmljdW1xcnhPUFNuLVg?oc=5",
+      "published": "2026-09-23T22:51:23+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump Justice Department’s latest bid to sideline 17 transgender troops’ revoked retirement lawsuit fails",
-      "summary": "Trump Justice Department’s latest bid to sideline 17 transgender troops’ revoked retirement lawsuit fails Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mMEFBamZBX0RpNW5uWFpQSl95OHhRNGM2UlRiQTF1TF8xMDNHZHJLM1JZRU9jZzFvWk5MRkhWWl9oLXUwbGVmSmFCSmZWZ2RrRWZhY1pjb05lU2J2Vm85QjVQbDdlNUJQdWJVTi0wNnRRanoyUEpZYVRVSU5pcjA?oc=5",
-      "published": "2026-09-23T21:57:04+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -355,21 +354,9 @@
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
       "title": "\"You never see numbers like these!\" Analyst says Trump approval in the \"deep depths of the ocean\"",
-      "summary": "\"You never see numbers like these!\" Analyst says Trump approval in the \"deep depths of the ocean\" LGBTQ Nation",
+      "summary": "\"You never see numbers like these!\" Analyst says Trump approval in the \"deep depths of the ocean\" lgbtqnation.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQzNZUTZsQ0NOeG9zRXNrRWo0N0RKWE50clZqMl9kZm43dlJJTEczaXQ0SmNkSnpHSUIwMUZMaERJZm9zQkItN0pJd2Q5VFAya2JZcHZzU09laW0zMjlXYkxyZUpQRzNiRi00bDRvSGdOeHYtM3ZQY2ZLQ29MSjVyeFd4aml0MHhHZFhtcmNhOFREVnhub1NBLWN1eFRTcS05alItZjVtME92b3RLVDFuLUJCQ2lYRUZLcFZ6WnFucnZickwzaHRPN3FTYTk5UQ?oc=5",
       "published": "2026-09-23T16:30:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Senator says \"furry\" pilots are taking over airlines because of trans people: \"We're sitting ducks!\"",
-      "summary": "Senator says \"furry\" pilots are taking over airlines because of trans people: \"We're sitting ducks!\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWxxdnBQcDJUbHJ4aGNLaW9YNmJlbWkyZEc5ejRrVWdGRTZnb2d2UVJHc2VnT1E0YmlnUFJySFJDVE4zeEZWeDR1Ql9xVGRaQTJFbjNSWWFtWUhROS04N0tlcUN6UnA5WUxVRklpVWNlVm1FTmdtU1duV0kxWGtMMFBsZEJsMTE2ODVRa0I4TW5LQWpFSVkta015ZHBRT3hVeUx5MENsV20xN2cxZ2w5RnRRZi1KLVNaS2VjSHRnaTZ0Q2ZERWxjRUpB?oc=5",
-      "published": "2026-09-23T15:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -382,6 +369,18 @@
       "summary": "Matt Rogers makes a very candid confession: “I used to frott my way all over New York City” Queerty",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzVkRm1fd3ZsaUY3NDlaQVlBNUsxUjVsZFktYVlaZm1XWHJCLWczdC1mS1M2MXBuT1psMnpPc1VUQndQaTlpaGE3S0RydmN6UEQ0Ul9mdXlsQ002OWVWODBYaG0xaGNHY21PNm1IYmNBNXo2WktKZS1pQVpWdWpiMUQwcWtoVWQ4TEU1amJ0VTJ4eHQ1by1ua3lqNExBZDEzYnlhR3lINkhXck5ja2ljZUNpOXhOc096NVNZd0lYSQ?oc=5",
       "published": "2026-09-23T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Mother of Renee Good says she voted for Trump to fight \"terrorists,\" not \"innocents\"",
+      "summary": "Mother of Renee Good says she voted for Trump to fight \"terrorists,\" not \"innocents\" lgbtqnation.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0txdExDTHVhSnZuelVnYmhpYTJJWlM1dEVGNW05dXdIWU5Id2lJY2t0eG1tVGV3ZmtHWHFHcFNRREdQUFd4NWdhSVBhUlg2S1k2ZkZoa2hodU5jU0pQVkRvMUVBZ3RKNGpLYk5pblExaEVJMnFTUEp6aGFXOUJEaW1LTDItcFdlR1hjcmRRanhvR2ltLTF4bklBQmlEZHhRemRwUHZJWnFpd01fUlRn?oc=5",
+      "published": "2026-09-23T13:30:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
