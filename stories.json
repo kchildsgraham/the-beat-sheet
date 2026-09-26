@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T16:36:19.554038+00:00",
+  "updated_at": "2026-09-26T19:34:25.046526+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,66 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "White House moves to block $810 million in funding through pocket rescission",
+      "summary": "White House moves to block $810 million in funding through pocket rescission CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd095RnZpVWpGMEFUMnljbk4tRm40NXE3YjBnbUtmcDMtR1Z3QTlGVjFYeHJpSnFPaFBtWktsZTl4ZERva1prczVkZjFHTWkzTnI4MUFRa3h5R1QtM18zNzZvckZDQTRWUjlUM1JpRWhoMWhaOG5KYnpZbU1UbWxpWFhKX2HSAYoBQVVfeXFMTW1rMEtFSWgwdEtIWlFIb1R6UGdObVNDUlA5Ml9zZ25yWTAyVHNsR09EdEFzVUhMczY5M3pkYnFiVUdmNUJzRjMxeXhteWtxOGpCYlRwU1RrNEt2TDdydUVmdE1yMHFjRU5DZTRLNFpvT1IzWWNJcURJVVFtcXpxSERIYTJqWEZNa2JB?oc=5",
+      "published": "2026-09-26T18:46:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+      "summary": "OpenAI expands review of model behavior after more rogue agent incidents emerge CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNQ25HaXFaODhPRTU1YTBSMWtEZkZwZGJQaUNfWkQxSGdpUVFyRGtrSUZxYi0xTnR1aE1lUHYySEY3eVdPbVVEUWRuTkpKR2ZSczA2X2ZNd05MT1RRZWVTazBhS2JNa3pwSHlFSUJ6MFFmVUM3bDJaQUZMRdIBgAFBVV95cUxPMGtzUFg2LVBJUm5SMkszZV8zelJvakZ5TEdBTW5QZC1PZHNySWQtQ1g5Y1c3ZzE4UXNtdlduRjVGZTlBTHBTMVkzUHJUVG9WRk1zb2E1T2F3OWNUVGt5UHl3T0tqWFZhcVo0elI4VlF5RUV2ZHBsVGNmRTVtQm9TXw?oc=5",
+      "published": "2026-09-26T17:10:32+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "summary": "OpenAI says its models engaged with US government websites in misbehavior disclosure NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5",
+      "published": "2026-09-26T17:10:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump declines to say if Ukraine can manufacture Patriot missiles to fend off Russian attacks",
+      "summary": "Trump declines to say if Ukraine can manufacture Patriot missiles to fend off Russian attacks CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50anZKYlBiLWxiZC03RXF5azVMQklCSkZZMGVtcDM0a1NvMlRzUmNoRUJyU2ZheEVwOFZCSmtqZTlWX05RZEdFaW5vSkQ2akJVRVhpZW5USkVOTTJlUWVMUGEzQ0lOZWFfQjRUdjVpZm5CQUd4TUhwZ2FB?oc=5",
+      "published": "2026-09-26T16:09:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+      "summary": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1VOZW5BcW9ncDVQMDlmZ3FZNmxvcXlYZGQ2MzV2TEVTWUt3MWlJQUN0dFB3enlhZHN3SjlXMzFJanpGdk44b2ZkcXRwX1hBNURSeEZwVmZKQzZpcVVkOWpmNjROTExtWW9XVVZUSnRBVy04aDFxejdGOGpMaWFjZkw4MlQyMEFwYnJKcGRmdmlVZFXSAZgBQVVfeXFMUDVnNVVadXhlSXJ0c2l5MHRPNXhFVWJhM3pXMlBZVTh6NWJubmNGT1RJN0NjdnBoYlM4N0ZLdHBDRUUxUk9wNHFsdGZfQXBVajVMMHo2akpjYm5CMHlHSEZfWVBfRzd2NUtKQnZPNDh6T1AtWThwdUQ0aE1VOU1NR1h3RjhFVmRKUFU5VkI4ajlNb09Kcjk5TVE?oc=5",
+      "published": "2026-09-26T14:55:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -44,42 +104,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Berkshire adds to nearly doubled stake in slumping homebuilder",
-      "summary": "Berkshire adds to nearly doubled stake in slumping homebuilder CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcE5mTjBGeU80SExXMFhhVmhLX05qR3J5eDZfY2pfVkVIY1VzeENIeFFmMUNrbUd3RFJVemViTHpDYzJLU2UzcHlFWTZxUlZjTTdwWHZJXzd1T2RiQVRSWUpGbmZaZGRqNTItU3poV1NtdjN4cDE1Z29kTEM3UkdTTjgwcDlsdjA2ZHRrbXkteEt4X2NHVzZOVFVYaVZGYXNf0gGmAUFVX3lxTFB2UHFocFA0czhOeTFEZnJaTDFLLXcwTzlXUDhvSTNROFl0M3A4cEtfY1pyVEpCWkVZR1ZIUWluVHhFLXFHMUFHTjhOejRxcndYdGQ1Ri1OU0diQ3ppbkNDa01XRm8xeE5POXo1QmZqLTVmYXVGTU80MDVzVzQ4Q25QYXl0TkIzQmhFaE5LUFliWUFJeGRURF9BUEs3Vl8wLUx3S3NYNVE?oc=5",
-      "published": "2026-09-26T13:14:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-      "summary": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUxMZVVFQXRza3JoYUlJSWtwUkw4WF83RUJIdDg2ZjFybVpZeHFnVVNxQjEweFZ2aGdVSXlaS3p2bjNiQmxtUkZJdkpxZGRHQkgtMkMyZ1R0ZFJuaGp1dWlPbzVGdHR3Wmp1NG5GZnBmXzdCTkNOTU5ycUF4ckVQNHk4ZGg3ZHJGNG4wT3pQdUtrZVNod2RvQnNrMVZFckpM0gGmAUFVX3lxTFBYc1JCcDZQLV8zMkxxTHR5MlplR3NEU0hDSF9fcTJaSFh1QjZkaU9IajNGYk5UZ1VVMS0zQU5sZURnSlNIbHB0VzBlaUc0XzhmTGFtQTNSWlp1MXZjQTd6dXMxVFJvblBIdkVlVEF1bmh2Wk5sbW5sUXhiYjlCa2g5YS1WVEFlTHZpbjJKdDlJQ3FuLTVLQlhkZ2hmSEI1aVphMHdrNVE?oc=5",
-      "published": "2026-09-26T12:39:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Outrage as East German town bans Holocaust ‘stumbling blocks’",
-      "summary": "Outrage as East German town bans Holocaust ‘stumbling blocks’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXFQZWFRWDh1WFg0YVVTNjByNmZ6WlpTNENScE9MaTFUM0lEVzRTcUpKbGUtaEswVW1XRmZQM1NzM0Npdkg5QkZic05ZcWNnUk9oakNJMHB0Wm9ySFE5QVl3TjZjazJxYm5PNV9NODZOUkE2bFJzMnNPbXlkM0R0LVpzRG96M1NwRnVaUGl4UGY?oc=5",
-      "published": "2026-09-26T12:32:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -95,10 +119,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
-      "summary": "OPINION: Trump's U.N. speech, a stark contrast with past presidents NPR",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43Um4tWEtyMkdqcFB4ekEyeXJueGc2S1FxTDFrR2gtejV6QW5wZXV2bHI5UlZLNGVVOWdRVnJEZ1JfdEdSOENJeEE4VUZ6SXV3THZndkxmbnhlb1Qwc2M5ekF0WHlqZnVBZ1U0?oc=5",
-      "published": "2026-09-26T12:00:00+00:00",
+      "title": "Powerful nor'easter brings winds, floods to East Coast",
+      "summary": "Powerful nor'easter brings winds, floods to East Coast NPR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhFa2VPMmFNVUZUYXZpTkI5M011bFVtbjhPekNZT3hNeFd0YnJuNkpCOEp6RWFPbHJnMFg2bjRFcTNSdmtKYjhEdWtLcW5xWkhhcDFNUzBXakh5VVFnNEZoZmxjN0NlaVlNRlhoeUxsTHZQT2thUWFFdF9SaHM5SmU1OWFhNU9QYzB0U1Byajk5elFlQ01jSU8zaHREV3AyMGhDekwybUUwcHdnaUMxdkZocS0xVDRjZXBjam5MZHdibm8tNnc?oc=5",
+      "published": "2026-09-26T11:38:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,54 +140,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "‘The MAGA Flag Is in Tatters’",
-      "summary": "‘The MAGA Flag Is in Tatters’ nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWRYa2pxeFRJN0ZEY3VpeXR4X3JjRFhCaUlGRnJKeEhCYThQem9LVTJqbU9QYUkzN1VyQzkxcXhIOEg1TmdrZGpaTnVnUklSYVdTeFUxd0J0VnVta2pMcld1NDRhaGRSWmtZRmxIRXF0NmEzMW9oeERqUVhFN1lSRG0wUUV5c1JwRmlRSFp2eDZURS1CS1hhcnpVaw?oc=5",
-      "published": "2026-09-26T11:00:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
-      "summary": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSmZMbFZYV2FMZWJqSU9PdTI4QVNrT1lKS1FkSC1BdE54ZnpzN2RMZTFTNG11TW5sZWVSeGJZblBfVi0ybkctU0VRbnllOVBISU9iOTZEbTdlam1tQXNVazNULXlIRjN2WnVsRkF6czdCWDJSMHBz0gF8QVVfeXFMT3NpeHlJU3phd3RTbTFfNUlvdDJPd2R3QXRhQnhhQ29yZnJuX0M0Q3ZKQWhSNmZyanpMQ2ZUc1RPY0VadTRNRnYtNVpra3hwUjdBTmlxMkF3RFBnampNT3BaSVpaY3V0bnprMFBMNno4WUFiQVprY3Nud1JPWQ?oc=5",
-      "published": "2026-09-26T10:58:02+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The U.S. has more thalidomide survivors than the government admits",
-      "summary": "The U.S. has more thalidomide survivors than the government admits NPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2NXTkRTMjZyQmtBb2s1eHNjazFacnluMDhrYWNWQzZVeFBJNUFnQzVfRlduTEFuYmxJT1RWRExpY29VTXh5bERjRU8wNnJKaTYwTlg4bEM3djZLYjl5MUpZQVBJbGxpb0FIU3dJVE5GdHdhaWM5c0l5cFF3QkJSeGNhRDRka25XZDV1N1dDWFVYb2I4MU9yTEtVSWlrQQ?oc=5",
-      "published": "2026-09-26T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "What’s the best gay sex scene you’ve ever seen & why?",
-      "summary": "What’s the best gay sex scene you’ve ever seen & why? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFMxMHkwZER1SXE2N3A3VEYtanJURHlqTTZ2V0swNkVud05MakNRWXBoZ0diUUxkeWRPQTNxRlZEOENYQXFRYV9yN2RVQnJFcFprVUpWNnVTRlhkWF85ZlQxRl9SOUp6QmV6LVFrdDAwc1NhRHR6ZENrZkROd1NSdjYzS24?oc=5",
-      "published": "2026-09-26T01:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -176,6 +152,19 @@
       ]
     },
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Federal court clears way for first religious public charter school",
+      "summary": "Federal court clears way for first religious public charter school K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnVzeVRLSWlFWmNub0JLSl9fVUVnbWxHZFZKX1AwSEZweEV3V3hiaDZ1ajlHV2RyUG1tSGZ2SWJaeGRxQnhMd01FN1FJZ3dYMENXSHp5QW9DRGRVMEJzVHNjYTVpaVhFLVNQSjVzQ1huYXRuRmw4V3hiWXlUbURUdFZaWDRWN2lScGdRbHBhSGlkT0dLcks2dDJKSmZHNUYxRXZSa3Fn?oc=5",
+      "published": "2026-09-25T21:52:52+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -183,6 +172,18 @@
       "summary": "Mountain lion sightings in Palo Alto neighborhoods prompt investigation CBS News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHlnRkFsb3ZfYjc2Ql9vNXJrSVlYcVV4UUFQYU44TmQ5b3IwV2FKN2Iza1N6WFJRTU1MTk4zWHhhMnUyRDNiVjNZQ0VsRHVjN29DNzd4RWMwV0NzeVowTmVTZjhMNTR2azQwQ19rMmIxZVRtblhOZVlQeUZjYzVUYjNVZ1FrblJIZFdKbHotazU1ejVrX2x5SXpCV09VZlBuT1J1NVhNdlg5emNU?oc=5",
       "published": "2026-09-25T21:36:24+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "\"Disappointed and ashamed\": LGBTQ+ & ally groups slam Dem Rep. Marcy Kaptur’s anti-trans ads",
+      "summary": "\"Disappointed and ashamed\": LGBTQ+ & ally groups slam Dem Rep. Marcy Kaptur’s anti-trans ads LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTBreDdLUEZvZS10Z25QTWdVc0xldkFyQnFwb2xONl9xbnluTkVkbzdVb093V3pKT2JyS09CR0k2LWh0dk5OOF93cWVQRl9Hd3ZsQVhaV3djaXJibEl2WGllTW82d2VQXzhrN05uZE4zMG9zbk9tTmlQVVE4MnhSaVJPTmNfc2kwOGRvX0d1d3JuQXpSLUVQM292Mk5Qd1pyUk94ejZfVUt6UGxCU0E2RjhJZTB5TlFYQ1JlRkVB?oc=5",
+      "published": "2026-09-25T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -250,15 +251,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pope Leo champions free press, dodges White Sox miracle question",
-      "summary": "Pope Leo champions free press, dodges White Sox miracle question NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGxlUHozYzZXb2J0RlJXUG5iTjc3WjIzUEplZFVCMDVEeEtvMjVDT3ZUX1RRajlaV2EzMm1pcmJiRGgzTG9acUg4VWxSbktFaVhvU05oU3FBZUZOTUxjejNNS1p0T3NOQUFVcmtYcmZYZGxfUTdMS3RUNy00aDNyZlg1ODRkdXBGLVg4?oc=5",
-      "published": "2026-09-25T18:10:54+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Is Peter Thiel breaking up with JD Vance?",
+      "summary": "Is Peter Thiel breaking up with JD Vance? queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQdWhLNnUyV0VCcHRxdGF0YmRFSmFXVUtaY2otcmM3R1Y5M0RaV3RaQ3gtSXVlYTlVdUtod0paUGlFVU05cjBId1lBTGdXZ09PSnJIZHRfSGI5bWUxOFhnbWRrTkZ1RXBzS0t5cVEyV0NJNmZORTR5SUtVeUNsLU0?oc=5",
+      "published": "2026-09-25T18:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -287,11 +288,23 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "The right’s \"last-ditch effort to assert itself”: Historian says we are winning the culture war",
+      "summary": "The right’s \"last-ditch effort to assert itself”: Historian says we are winning the culture war LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUJlNG54WmNrdnpGWmhlS3BBU3NTb3k4dU9UdDQ1WHlFTVYxczI3ZjZFUzlUaE9PTWhwaWpZQ0M0TEQtMUdzeS1Xa3p5ZmR2WFhWZUFnZXhsaFpXUHpLZDlzRTlNTjBwbEdEVllxSlVtNC01OExxQTZaRVFiZGN5bFlUTDlJZmlmY1ljdHNtYURNRTFCN0gwM1g0bWFuWC1LV2ZMSEYyWGJzMERTRERZTEpFTnVHbjJnU3pmcGhBcXNxUQ?oc=5",
+      "published": "2026-09-25T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Daniel Franzese reveals body transformation after dropping 135 pounds",
-      "summary": "Daniel Franzese reveals body transformation after dropping 135 pounds Queerty",
+      "summary": "Daniel Franzese reveals body transformation after dropping 135 pounds queerty.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmRJMVZLUGVRUGlDVG5peHdrZGZDVFpKaHRyQ0pWc3pJYUNMOFROTWQwbTVpSTFkTUpfa1EyQlpENVNzQ2VqQ0swT003aEFFT0I1MDF0MUw0Q2hmQWpiR1BMWGJNNzlzYlB0bGhJblJSYzZjMFdNZHd5aEt4TEpIYjF5eVNfT2dmc0Q2em1aaFJZQnFTN241ME1LUV9zekhXbi1Idkx3?oc=5",
       "published": "2026-09-25T16:00:00+00:00",
       "beats": [
@@ -311,11 +324,35 @@
       ]
     },
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How a Connecticut district gave its high school a career-connected revamp",
+      "summary": "How a Connecticut district gave its high school a career-connected revamp K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNm5oNlRIcy1xaWZlYlB6WngybFd3dS1JNGc3QlJRaU5oSjI2eDF3eEtac1R6eGx5Z0ZEWEJSNWNkRURVMVFHdzVpX0lSWjNhaUV2NnBiR2FYX0JhWUU3VGktSG40Qy1ZdF9HUmZYb0U5X1NwbTlTNGdqU3ZyMEhFYTdYa2cyV29iRllXZnAtWWFfaFZRcWtFd2dmb1FnUFRqQUVfM2UxZTY1Z3REcDJTQnR6dEZYSGlhZVQ4d3VMUXJGLU5O?oc=5",
+      "published": "2026-09-25T13:47:11+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The World Needs Better Power Grids. Why Smaller May Be Better.",
+      "summary": "The World Needs Better Power Grids. Why Smaller May Be Better. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkE3eFFULXJCSk5CbHExY09WOXQyV0VUUUlwQWVTTml5bHZ1NzdUNU1mQlQ4NjNjZlgxR3JQUXZYOXpVZ0RHbHZVR0NuTlF4d2V4M25OU0prOV9lOEZSY1M5bDRzWGdDSWt1R2tqcThxX1g0a1prMkhqcjNlNXBSYVhR?oc=5",
+      "published": "2026-09-25T09:01:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | Being a Doctor Will Never Be the Same After A.I.",
-      "summary": "Opinion | Being a Doctor Will Never Be the Same After A.I. nytimes.com",
+      "summary": "Opinion | Being a Doctor Will Never Be the Same After A.I. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwTEZHSHRjWnhmdkFURmZUbjJEUE1CVFA1bFlUYWJhNHFRQ0NrRlMyU19tLUtSbXpDbElyWC02X3k4MnVHc2dpcFk2VlVnVUp5bFBXNmM2bXJ6a1FxelN2NkMzX2ZCcldmQ25oZ0RZSDhNVEdyUmhEMl9ULUVIRm8?oc=5",
       "published": "2026-09-25T09:00:29+00:00",
       "beats": [
@@ -339,48 +376,11 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
-      "summary": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday nytimes.com",
+      "summary": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWV1cGtxX0RqWVh0Z2JUTnVBdzFVY05hakwtV3FGeEwzdVBnR0xWSXFfN3U3bzI3d0RNMnZXMElLOURJU3hRdE9Wamt0Q0hzTlQxeDFLb3BGYVhBbE1VN05zUDNFb29uRWNYTDQ2WmlMTFRwRzZMLWtYUEdJVThKMnZTRFRDRkkyemhlVGJjcmRtQQ?oc=5",
       "published": "2026-09-25T04:01:05+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Mini labradoodle stolen in San Francisco; suspects arrested, dog recovered",
-      "summary": "Mini labradoodle stolen in San Francisco; suspects arrested, dog recovered CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUhlX1ZndkVqY0lDV3NoUTNvY29NY0xWQjF5TE40SHVUbk5IZW05UjJHNHl4VUd3WHhsNTAyUHRmeWRVNTUycWNjRlB3VWkxdW42ZVd4NU9zY3dSdnY4em9qdFJjS1UxZE1rdHdWV2xVLVJfVnFIaVJ0Szh2Yjd6WFFvODZRRnhaY0owMk5VYS1ZdHNwdUd5RFZhekhxTS1Vb0lv?oc=5",
-      "published": "2026-09-24T21:03:17+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Principals Who Have Survived School Shootings Offer Advice in New Guide",
-      "summary": "Principals Who Have Survived School Shootings Offer Advice in New Guide Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSG9JdkhsSmkwSjh2cnBPNUh3VjUzNnZPVVFBSkRYSU9VcE53VDlXLW44UjJiZ283RGxuRnJ5MTlvSXlsbVhOZG9oeU1xWTlIdkRaUnFROEltT0R2MDRyWlBBeGZhTEhIY3hMclpsNTA4bjI4NEdUZThnYTZxUTVocjA0UUNHVVpIZnQyc1dqVWd3MUJQTlJiX3FUN3BWZmJnb2FvN0FFVkxhSFo2WGJOWUZPZw?oc=5",
-      "published": "2026-09-24T20:29:27+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Politician has the best response to his Grindr photos being leaked",
-      "summary": "Politician has the best response to his Grindr photos being leaked Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzEzX09NSlhEcGdsdW5ibHJINzFmN3FyR3dXeThOSDAtY283ZS1NWlppZHhWN2JZdUR0TnJpMHNZNVotSW05M19VQjZjcExJTk81R1U2QUwwa0tzbnhXVjdkc2w1LU44bGVQb0ZkekpoeTdCY0ZVS0NBa2FWMkRQY3ZHR01zNUJPdmtWM1VuSTE2MHNfU01XQmhxNEZCY1RBekE?oc=5",
-      "published": "2026-09-24T18:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     }
   ]
