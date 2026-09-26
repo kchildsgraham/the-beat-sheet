@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T23:10:00.256003+00:00",
+  "updated_at": "2026-09-26T01:50:06.687933+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "White House bars CNN from covering Trump on behalf of major TV networks as he travels to Tennessee",
+      "summary": "White House bars CNN from covering Trump on behalf of major TV networks as he travels to Tennessee cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGtEaFFIdEpxVFp2ZVdYNHlBWmFRXzVYTVVVV0VJRFFkQndTUzFwWWpnODItQVZOY0Q1LVZ5bWNnNUdHR0pLZ0swVmRfU3FHM00xa2lHZUZSRl96ZVQ0RHBNUl92Y3RpZkRWSmFBQThBd0hfUVdQR1lKaUdUWXE2Qjh0OVU1eFhLTUlqYWV4VFkwZw?oc=5",
+      "published": "2026-09-26T00:50:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Trump-Xi visit wraps up with few achievements announced",
+      "summary": "Trump-Xi visit wraps up with few achievements announced cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
+      "published": "2026-09-25T23:47:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump’s disruption to TV coverage during Xi visit frustrates Chinese officials",
+      "summary": "Trump’s disruption to TV coverage during Xi visit frustrates Chinese officials cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXTHlxbjJTeE43N2RSMjhfWTdqVlpEV2ZVN2NQVmo1NWEyNjAwT1llMm9mWGdseV9STFlkRjhnZFlZMjB0b0VDaFBiUmc5SGM4WFR1S2QtVE9LdmJkUlR1TTU3OWdGMUFUWjJxQVA1aXZEZw?oc=5",
+      "published": "2026-09-25T23:04:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -27,6 +63,18 @@
       "summary": "Supreme Court blocks Trump-backed Missouri congressional map NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSG50OTdCUGVKd2ZLYlV5cmtTMHhMU1o0cXBEOU55OUN3azRWTjBxbjR6UEw0RHB4Sm95LU1NTkc4TTlydVc1Q0JzamF1UHBNdExEOURZNy1vR1piRnhDdTk2VWNiamNySS0tVVJsWjRaOGZvNVl2RWFIMDNDcDFuVFFOLUpmTnlaMnc?oc=5",
       "published": "2026-09-25T22:06:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Supreme Court rejects GOP’s third effort to capture Democratic House seat in Missouri",
+      "summary": "Supreme Court rejects GOP’s third effort to capture Democratic House seat in Missouri cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWZwSGdjREtVY1ZqV21Ka01Uc2ZEXzRaOG83MGV6ZDBDbXVPVVB6RnJ6SWdmMDlocmtreGZpLTI2cnJHNURFc2FCQzBxNFBjQkwwVG5MM1k0bGJMRldybDdmeVNpRzI1UU9SaC1BcWhYNlZUancxRUhLcnhRZDJhVmJxalhUQnBQZmg5YzlkOE1VT2UyZHhqTXo4QjBqTFZDM3BzejNZcnpicnVIb25zbjU0a0I?oc=5",
+      "published": "2026-09-25T22:00:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -58,38 +106,38 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal | CNN Business",
-      "summary": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal | CNN Business CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RajNPU0VTeE5CeTZlZEtEY2Z0SEw4TmNPdG81bjRpYmVOMnQ1UWhjTHBtOG1jVEc0UFdwaHl0N2d4T0x5cWpPQ3pfS3VsMDB4a3ptSGlXUV82QUJXbEdBdC1jdUx5d3RZQk5iaVF3RGpSbWI5WjhwczdfOVctd2s?oc=5",
-      "published": "2026-09-25T21:03:31+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Ketanji Brown Jackson warns the Supreme Court puts eligible voters at risk in pro-Trump ruling",
+      "summary": "Ketanji Brown Jackson warns the Supreme Court puts eligible voters at risk in pro-Trump ruling Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWo0TTRTQXppZk1lYW5MTHJtbVg5bk5KUXozOUlvNFI4ZTRNdHo2NEZHNDUyOGVjdDhkenNPeVRJVU5LNzdXQnNoTVQydkNFWGtoejZHZUkxX2d0cmJoX3FsUVY3TUFpOElXS2pxWWFWT1hZbDJmMDQwV0lnUkRCTWRKZk12QQ?oc=5",
+      "published": "2026-09-25T20:21:44+00:00",
       "beats": [
         "Politics",
-        "Business"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Pentagon data breach of military personnel raises national security concerns",
-      "summary": "Pentagon data breach of military personnel raises national security concerns CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FU3hZMThFblp5Y1lrZW9pb19mMG93Z2tPNlZWbjZHenpBMzhQbXUyMFNEaTBSUUw1amM5MXdQQ2RmR3paUHdXV1YxXzJ6a28yVDVENnZHcURSZElxR2FRT0gtandKbDk4X0dYVHlpclZ0M3NvVVIzMlp3?oc=5",
-      "published": "2026-09-25T20:18:46+00:00",
+      "title": "Trusting relationships in schools support student outcomes, study says",
+      "summary": "Trusting relationships in schools support student outcomes, study says K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3ZxNEdHSFZ6VzkwaVUyaXFtQlBBc0U3RENHSmpXU0dvZFVyVkotZEJyaE02WjJoNVRVcnpQTnJQcnJHazY0SkFYenhrZXE1a1YzcG4ydmlNUDgxcU9Fd0xXS2lhQVRzeVV1dkloYnRMeHRMNzlkVWFQTlAzUWZtaklTUFlfdDJ1b1I0XzQ4Nlg3ODZwTllZTHpRNzA0RGkzS0VmN21rY281UQ?oc=5",
+      "published": "2026-09-25T19:22:58+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "The Supreme Court just threw a new monkey wrench at the midterms. Here’s what to know",
-      "summary": "The Supreme Court just threw a new monkey wrench at the midterms. Here’s what to know CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1RHNfMnJNQ2NlLVAxeV9XOGdEOTExajJTTkpaSE5ucnFFLW9YbzNoZnR4cGpxdXZBdUowbmZadFZYQ2Z1M3dNVGVEZ3BFMGJoalBjNXZldmZFc2xCRUhpTDRaZ2czbHFYZkpETFhkeXF1dk9vNEdmZzZvZXhiVEU?oc=5",
-      "published": "2026-09-25T20:03:44+00:00",
+      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "summary": "Takeaways from the Trump-Xi state visit: Pageantry and pandas NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVBZWnVJOUxQenNUQWNlSnBVQUk5RWc2WnROWmxkUTBuRHJoazdvNVlIeUhpeDRzNzdoWmlVNUtYV2Z1TU14d0tCUDdUVUllRUQ4SWRPMXc0bm9hSWRkb0lPWEpCM1NjQnRxZ0lDNlpzblpWOU5GVXJDb0wzSFBRcktfOGJKbXNNRW1kM3pjVWRCZTZBUDQ0?oc=5",
+      "published": "2026-09-25T19:11:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -108,37 +156,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "'The Disappearers' is a fiercely personal novel that hits like a tidal wave",
-      "summary": "'The Disappearers' is a fiercely personal novel that hits like a tidal wave NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOThsWW0zMXRWQ19iOWpGcWxad09tRnlScmhSWVVKT0RTeUtaR3UwMzNOS1NIc19vSWpyUEtDY3RXZXpVdzY1NElmVEQwdUtFcUx5c0o4V0F2emFtdFkyY0FLTGxnRG5OY3Nwdmp3QnJjSVVVbElhaXdxNnRXN0JQcTVubm5yZ0tq?oc=5",
-      "published": "2026-09-25T18:04:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
-      "summary": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlNDbm54a1ZDTTRLWWczUzhZRjdMdDRMV1YwWXNleU5KSF9pbGhKTDJmTFRsVzNEZlNIXzdrWkFneUpUNHJVVWI3QVZtU3ZMcFU5d3hXZDJFOHYwaFlvNEJoYXFzS2JFSGZfNHVjRXZOMmVSNUJYYV91X1hWcWNRY01SZktIRlZsMmgzSHJtdU9VNnoyR2FfWXctYk9UYUc0LWo5YjBka25qRHY2MjFLStIBtgFBVV95cUxPUTJIVGo1cnM0UmdWbEd4RF9CV0NyekFtUmgxYTZUSjA0TmlySnFJTW41MnRodjF0VU1zQlo1Zk8yWnpwS3g4b0haUlptTHlBcHBzdU5JcXZ2aWk2bWN2bVIyMXNoMUpTUUdJQXpjTWUtbzh4emxxOUVsMlU0TElSQWpHTG1qUFlDNFZUNk55VGJJdVdqaDVVcUltN2R2OVhnYjQ3dHFFNmxWUkF4RzdGUEVEUGlndw?oc=5",
-      "published": "2026-09-25T17:56:49+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Trump-Xi visit wraps up with few achievements announced",
-      "summary": "Trump-Xi visit wraps up with few achievements announced CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
-      "published": "2026-09-25T17:46:53+00:00",
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "summary": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Y2U1dGFnNjlCV09TV0psR3llbzhsbTluekpJQ3ZOVVFGcE12R2VDS0tiZ0gybm9aYjRLYnRKblpua0hLWkZMVFprWTg5U1M5MXZnWDVEVFpCdGVucGdjYWc0Z1BwUzFrbDVDeHRORdIBdEFVX3lxTE5oSW9RR0lVMVM5SlhPSEIxSEQxZFNUclBFYkgxTkZUWk02UXlBYWxPcUJGR3I5TThZV2tsYjBNdGNTUXdtczd3aU9CWGVVcTYyN0U0LUZYUm5CVG5qWllNcWtlZ1piU0s2dFhlS1VydUhRUlpJ?oc=5",
+      "published": "2026-09-25T18:52:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -150,7 +174,7 @@
       "title": "Trump Administration Moves to Limit Fixes for Systemic Racism in Schools",
       "summary": "Trump Administration Moves to Limit Fixes for Systemic Racism in Schools Education Week",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0ZIV3lacFNuS19qem1OQ2VhejJJMjZkMEdXTGFqaURqSmFDTHJ3MTNaYkl3NzFaWUdyVzhUU3FhQVJlN2JqRGNTeGtTc3F5ZGhrVjZvcUpmNkJZdGFBYWhVRkluSnpYX09MVzFzZHZlUWl3MzY3YUJrS3UxZklmQXZDQzZoMmJpamVla1hrYnZBXzdlSGZGdGdHeEhhd0ZqQjZPamZMQThOWkk5UE95M2VQWDdXQWotUEow?oc=5",
-      "published": "2026-09-25T17:46:38+00:00",
+      "published": "2026-09-25T17:53:23+00:00",
       "beats": [
         "Politics",
         "Schools"
@@ -172,10 +196,22 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "The Supreme Court revives a controversial data system for citizenship checks",
-      "summary": "The Supreme Court revives a controversial data system for citizenship checks NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
-      "published": "2026-09-25T15:40:57+00:00",
+      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+      "summary": "Woman who accused Jay-Z of sexual assault says her claims were false NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFkxS2tBSUFQeE1SUkJWa3Z6UFJsNVVuemZaT3hySURpTlVmM0cxRWFfOGJHVlM4QjJveFg3ZTUxVWhBQ2gtUkcwRm01c3pRWGJLX0hmSjh4dGM2VFJQWGV3ZWtBNXFlVVlKNHBUMlBlZUtHMzhGMVF6Qk53YVZ3Rm5zM2pDUzRFNzRUZU1BNA?oc=5",
+      "published": "2026-09-25T16:14:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "White House says new pro-Trump ad funded by the ‘U.S. government’ is a ‘public service announcement’",
+      "summary": "White House says new pro-Trump ad funded by the ‘U.S. government’ is a ‘public service announcement’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTZXbVBuVnAwbGhwTnU4REtEU1VLeVBHSHYtU05LLUpLYTFWMFQ2TjhBUFdnSE5fWFJzUzlPQTBfRGlZT1NOZkZCU2Z3ZzlkRG9rOXk4dDFtNUpXTUlnNTJqMWR5VzhYNzFEVVdrSWdoQTNQWXNxVHY5c0dvZ25LS0pCU1VObnJJeVBOZTUxV0pxZk10ZGlSTFQ3VHZ0ODBjeVFPenVZX04?oc=5",
+      "published": "2026-09-25T14:55:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -194,47 +230,11 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "How a Connecticut district gave its high school a career-connected revamp",
-      "summary": "How a Connecticut district gave its high school a career-connected revamp K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNm5oNlRIcy1xaWZlYlB6WngybFd3dS1JNGc3QlJRaU5oSjI2eDF3eEtac1R6eGx5Z0ZEWEJSNWNkRURVMVFHdzVpX0lSWjNhaUV2NnBiR2FYX0JhWUU3VGktSG40Qy1ZdF9HUmZYb0U5X1NwbTlTNGdqU3ZyMEhFYTdYa2cyV29iRllXZnAtWWFfaFZRcWtFd2dmb1FnUFRqQUVfM2UxZTY1Z3REcDJTQnR6dEZYSGlhZVQ4d3VMUXJGLU5O?oc=5",
-      "published": "2026-09-25T13:47:11+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Gay Dutch prime minister & Zohran Mamdani visit LGBTQ+ archive — and hear from young New Yorkers it serves",
-      "summary": "Gay Dutch prime minister & Zohran Mamdani visit LGBTQ+ archive — and hear from young New Yorkers it serves Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qeVVZTUVGQUttbU5WVm1OY05lRGlMenQwMlFwQ2pyQW5PRFVnaE85M3ppNEk2WTY2ZGo3R2E2M1VjeW4xbXFCMVN3WTNwSmF2azFFYkpISFpqVUhSQXJrTFcxMkJBQ2ZxOWVpb0xn?oc=5",
-      "published": "2026-09-25T09:56:35+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Being a Doctor Will Never Be the Same After A.I.",
-      "summary": "Opinion | Being a Doctor Will Never Be the Same After A.I. nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwTEZHSHRjWnhmdkFURmZUbjJEUE1CVFA1bFlUYWJhNHFRQ0NrRlMyU19tLUtSbXpDbElyWC02X3k4MnVHc2dpcFk2VlVnVUp5bFBXNmM2bXJ6a1FxelN2NkMzX2ZCcldmQ25oZ0RZSDhNVEdyUmhEMl9ULUVIRm8?oc=5",
-      "published": "2026-09-25T09:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
-      "summary": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday nytimes.com",
+      "summary": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWV1cGtxX0RqWVh0Z2JUTnVBdzFVY05hakwtV3FGeEwzdVBnR0xWSXFfN3U3bzI3d0RNMnZXMElLOURJU3hRdE9Wamt0Q0hzTlQxeDFLb3BGYVhBbE1VN05zUDNFb29uRWNYTDQ2WmlMTFRwRzZMLWtYUEdJVThKMnZTRFRDRkkyemhlVGJjcmRtQQ?oc=5",
       "published": "2026-09-25T08:27:08+00:00",
       "beats": [
@@ -242,13 +242,13 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "GOP Sen. Thom Tillis on Trump-Xi visit: \"It's a WTF moment\"",
-      "summary": "GOP Sen. Thom Tillis on Trump-Xi visit: \"It's a WTF moment\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeExoS1BHM1pqeFo3WVU5dWM0eXFiM3VzaVR5MkhCbml0RzZtM0RPQzBZVFlEX29MODItVDhTX29jSHFRREdzN0tKR1YyVWwtaXp6LUVYMFhZTHhvSzlWNzB0bTBLdWJzYzRqRHBVRlRWd0NpeWw1dUFQZGNyRlFybzlXTnJ6M1Vr?oc=5",
-      "published": "2026-09-24T22:42:00+00:00",
+      "title": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
+      "summary": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVJpWFBiZDZrMFgzWG1IdG9jVm56ajRMUm9ON3NmbDJJT0JXeTFqcE40WWRsbjVoN3FJbWw5NGFOMy0zUXhHZ1hZak1PTDZHVE5VUDYyRnQ2ZG5VeTNCUWZzX20yWElGQmthNF9WeTRLRFlqdHVibEUwQ1hOYlJaeGh5dVh6X184cWxhREZyMmprRlgtLXhVNU9ORzNYUGM?oc=5",
+      "published": "2026-09-25T02:59:36+00:00",
       "beats": [
         "Politics"
       ]
@@ -258,21 +258,9 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Mini labradoodle stolen in San Francisco; suspects arrested, dog recovered",
-      "summary": "Mini labradoodle stolen in San Francisco; suspects arrested, dog recovered CBS News",
+      "summary": "Mini labradoodle stolen in San Francisco; suspects arrested, dog recovered cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUhlX1ZndkVqY0lDV3NoUTNvY29NY0xWQjF5TE40SHVUbk5IZW05UjJHNHl4VUd3WHhsNTAyUHRmeWRVNTUycWNjRlB3VWkxdW42ZVd4NU9zY3dSdnY4em9qdFJjS1UxZE1rdHdWV2xVLVJfVnFIaVJ0Szh2Yjd6WFFvODZRRnhaY0owMk5VYS1ZdHNwdUd5RFZhekhxTS1Vb0lv?oc=5",
       "published": "2026-09-24T21:03:17+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "\"Deeply alarming\": Anti-trans FDA nominee refuses to say Trump's untrue medical claims are wrong",
-      "summary": "\"Deeply alarming\": Anti-trans FDA nominee refuses to say Trump's untrue medical claims are wrong LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPem9zQWJNdHdoVTdRSXhpcHNaS3N6Y3M4QTNRRi1KS3JzdW5tWkJZZWJEUUJsVUMxOXZ2NjlFYUlaMXlieXdiM3JBelc2cXpjSGtXMDJDYnVBcDBiaXBHNzhqMk1qT0s3bDJOejhVdXU5dlpFQ1l2bWJIRTB0SU1kR2xIa3lDRm0yTThWWDV2UUkzQmRqSXlESlZRdEtmMjBsYXBXSVFOcTRuUng4ZEktS3RsU3c5Z3NiWHFVb0dvYjBObHFHZ2I2Rg?oc=5",
-      "published": "2026-09-24T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -294,7 +282,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "DOJ says it has ended more than 50 decades-old school desegregation cases",
-      "summary": "DOJ says it has ended more than 50 decades-old school desegregation cases CBS News",
+      "summary": "DOJ says it has ended more than 50 decades-old school desegregation cases cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVNPWmdWYzFtNGFRN1FtU3RVMWVlYkpCSEp0UEQzWjhpSWZzcnYzd1JsTVpsNU1sUW1QYjRwRmNfWmNHaGVPUmZvYlEybFJyUUd5VVRIdjAxcXBHamZDZGVyRFp3cWhuWlZzaVNlaDBVX2ZUYVhTRmtNdXhDRUUxcg?oc=5",
       "published": "2026-09-24T20:53:00+00:00",
       "beats": [
@@ -331,7 +319,7 @@
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "16 passengers injured in crash involving MTA bus and stolen vehicle in East Baltimore",
-      "summary": "16 passengers injured in crash involving MTA bus and stolen vehicle in East Baltimore CBS News",
+      "summary": "16 passengers injured in crash involving MTA bus and stolen vehicle in East Baltimore cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xR2NDd0k5dGNTT1VnNkZxRVZscHJLTmxTTUhwYmY0THRmb2hzSWJuckRSSGtsU3lrSWZjaFhlTV8wQzNWcDRYa2hpaWl0U3MtRDA0LXZzS0xGY0tCaDhNZlhHWWFMUFhQV3VDTE1EbXU1M3M1UjE0?oc=5",
       "published": "2026-09-24T18:23:00+00:00",
       "beats": [
@@ -376,15 +364,27 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Pro-LGBTQ+ Democrat accused of calling staffers \"fa***t\" in angry outbursts",
-      "summary": "Pro-LGBTQ+ Democrat accused of calling staffers \"fa***t\" in angry outbursts LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdjlHMDN0N1lscVdjR0dYZ29ZSHMzZ2lXX2ROaWx1YkxhTXBnaWhaQXBJLWxNS05WQXZpd0gzZTUzTlJjMjRwUFdyY0E3clBSeEVQTzRkWWJ3cE1LR0dPSS1pY3R0SnJkcVFiT2Y1X0ZTNHR0MEQ4ajdOVW5NSS13MnJGckhsZjdXUEthbVR6ZnQxT3JOWU44ZXFQQzhzeXNHZ1k3U040Z3pSUQ?oc=5",
-      "published": "2026-09-24T17:30:00+00:00",
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Many of California’s youngest students keep missing weeks of school, data show",
+      "summary": "Many of California’s youngest students keep missing weeks of school, data show EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VZldCQUVnTlIzc2JiUGt6MEVidEsyR2dqMVhvd2duM29TRkRxT2FZSUh0eV9KNnRLT0l4T3I4allLTEFQVnVTc3U4ZC1GU1pmbFNRVkNSUDBtRl91cEZweHd6MEJkNEd5OUFER1hhMUlDQ2FK0gF8QVVfeXFMTUJuSmlYRHAtdFZGM3ZzWjcyT3dRcFQtQ1VKZksyTXVwdVRwOVhZbjhaUEdhWVZwQXAxUWNCOWt1WjZHYVJsMEVCZ2dNRzIxb28zbzE0TTF6a1pHS016cFFYLVNFMkdydFdWcjBybjVQRHdmZUl4VGl5TU02cg?oc=5",
+      "published": "2026-09-24T16:57:05+00:00",
       "beats": [
-        "LGBTQ+"
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "4 arrested after teen takeover at McDonald's in Lynn, Massachusetts",
+      "summary": "4 arrested after teen takeover at McDonald's in Lynn, Massachusetts cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3ZaZWZTYXJkTHlvYnM2RDVhTU5yeFFySjhoZzJ1dFNnbHZBOW9BVGk2ZXMwREh2S3BkbzF1T1FiTWdtYTBfNTJtaWctU3l4eUYwM3FFWVdLeFN2SG9xQzQ4QllleUM3dDNPMEZfd3NQM01RelVkOEJOM011cGY5U091LUJpRTRKV0E?oc=5",
+      "published": "2026-09-24T16:36:00+00:00",
+      "beats": [
+        "Politics"
       ]
     }
   ]
