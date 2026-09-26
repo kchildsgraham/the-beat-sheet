@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T12:21:08.483703+00:00",
+  "updated_at": "2026-09-26T16:36:19.554038+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
-      "summary": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KMDRaay1UXzEtME9peXhOc3FPZXdhR0tFb0ppNFlDdmU1MDVzbXVnelVYNk1tWE9GX25LTXZNRld5VjdVMkUtNzlTVzhjMi1iZjZORmJvUVpzTmJnZ2ZkS2dXTjNienRfdy1HMktrX0RBdndjbUZieUpWeHp2UQ?oc=5",
-      "published": "2026-09-26T11:31:18+00:00",
+      "title": "Rogue OpenAI agents targeted three separate US government websites",
+      "summary": "Rogue OpenAI agents targeted three separate US government websites CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5",
+      "published": "2026-09-26T14:54:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,34 +35,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "How one of the most bombed places on the planet survived",
-      "summary": "How one of the most bombed places on the planet survived CNN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yZ1M5RVgxcnlKZzA5eEJremIyRUV1Y0pWNFk2ZWRaZV9nMWlMeHRWT0hNcUtHN2NmNzl5bHhWUHhwdGlveHc1VDlJZm5TRDgwdWVhVmJCM3AwdTB2YW13SlkzckU2eFhuY2c?oc=5",
-      "published": "2026-09-26T11:00:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Republicans fear two key Senate races are slipping from their grasp",
-      "summary": "Republicans fear two key Senate races are slipping from their grasp CNN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjF0dVJxUnhjakVDc3RwWUVEZ2dlcjlKaXc1aW92N2ZiRVJIeHhUbDE3Mjcxc1hRcGRqYTNtZmpmWFhSU1NfMDdGWHYtRDFoS3RPNjdPM094Q3dIckpBeGVha1JXelhyWjhMQ2FSUHJtZVNOQWstbzRpdTRCcUlOaGtiTm0yQTBaVlFxQ082cF9CLXA2WEpSQ2ctR01MMHJJdk1Xb0IxWmdHa3ZNQ3hr?oc=5",
-      "published": "2026-09-26T10:00:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘Marie Antoinette’ at 20: A peak behind the velvet curtain",
-      "summary": "‘Marie Antoinette’ at 20: A peak behind the velvet curtain CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MNzlhNnpZYURwWkNNTGxubXdERHZaOTA1YkVTYjRzdHJKOGFRaVN4enAwUVQ5U0pZWTYtdW5NVUFVQmdvRlJyX25TckNKZklPSlJReHF6Z2RxNVhyT2ZDUEFTZm1lTUJ1VThpcFdBbU5lWWpNRXJQdjNEZw?oc=5",
-      "published": "2026-09-26T10:00:29+00:00",
+      "title": "Trump rejects Iran’s latest proposal to reopen the Strait of Hormuz",
+      "summary": "Trump rejects Iran’s latest proposal to reopen the Strait of Hormuz CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanhFb2xmbkh4RDluS1pvYzFQSmNKS1JOcFNmeV85b2lJWndpMG84UUxsVGlpSmR1YVR5Mmd2QVViNWQta0F1Sk15TGE2X3lEQmpLaUVFcExBbUlXQnZNSWhrZms3SmM1SVA0aGxtNUFDd0UzUmk0Q01SbTNNb2ZBanV2MGJZQ0Zw?oc=5",
+      "published": "2026-09-26T14:37:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,24 +47,96 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
-      "summary": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEZ1blN3UmZIdjNJNTdmSFcwbjNQY1hDMEFPbC15Q0psbEQzY1F4a1ZTWXdJSXZLRE5OQ3ZNSnBfMzJtNHBvWnFTQ2tJVEpzMHNUY2lTaFBDMlVFTGpxT05qaVAzVTltbG5ocXJiTDdRb2ZGODc3THp0OXdvN2VfUGoxV1RraFdXdVdBaW9GY2R0bjk5VUZqWHRJMC16RGJaZEo3VdIBqgFBVV95cUxPT0w2QjUyeWpTMXNtOVVSMWRNZzRvNHpSTzdKZVRSdGwzT041X1ZWcFRBM3AxNXlDaWg4Q1pmWHU1YXl6NWxiaGlUM3hjS29PR2xfci16TlVyYnQxOHd1ZVBsemhhYVd4Y0xVMlFLZ1hPT3R2RTk5X3Vtb2w4NUkzR2hZR1Nvcm02SUlXZ0FVb1N6eW1uQzIwUlFsYUNkcmhrZC1GRjFKc2EwQQ?oc=5",
-      "published": "2026-09-26T10:00:01+00:00",
+      "title": "Berkshire adds to nearly doubled stake in slumping homebuilder",
+      "summary": "Berkshire adds to nearly doubled stake in slumping homebuilder CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcE5mTjBGeU80SExXMFhhVmhLX05qR3J5eDZfY2pfVkVIY1VzeENIeFFmMUNrbUd3RFJVemViTHpDYzJLU2UzcHlFWTZxUlZjTTdwWHZJXzd1T2RiQVRSWUpGbmZaZGRqNTItU3poV1NtdjN4cDE1Z29kTEM3UkdTTjgwcDlsdjA2ZHRrbXkteEt4X2NHVzZOVFVYaVZGYXNf0gGmAUFVX3lxTFB2UHFocFA0czhOeTFEZnJaTDFLLXcwTzlXUDhvSTNROFl0M3A4cEtfY1pyVEpCWkVZR1ZIUWluVHhFLXFHMUFHTjhOejRxcndYdGQ1Ri1OU0diQ3ppbkNDa01XRm8xeE5POXo1QmZqLTVmYXVGTU80MDVzVzQ4Q25QYXl0TkIzQmhFaE5LUFliWUFJeGRURF9BUEs3Vl8wLUx3S3NYNVE?oc=5",
+      "published": "2026-09-26T13:14:15+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Iran says choice on reopening Hormuz ‘rests with the United States’ after deal offer",
-      "summary": "Iran says choice on reopening Hormuz ‘rests with the United States’ after deal offer NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHo1SzFjTnJGYkExZzNTRklIMGdSSk9HZEw1MW1nOHpKZFQ2QkV4Ti1BdzBlSnJ6ZFg0T2tIcWx6cm5xU3NQRkF1UkFIQWN3MnQ3ZE1kclBMWHE1UjVQZ21RZ21VZnNyYWhnU3BPTkJBcmxjN0tWWm9xS3VJYzZieVZkNUtrV2YtMGFaYXR2WHl3QWlNdVJIR2R4aERVTHZTUVYyWkh6VnY?oc=5",
-      "published": "2026-09-26T09:35:55+00:00",
+      "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+      "summary": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUxMZVVFQXRza3JoYUlJSWtwUkw4WF83RUJIdDg2ZjFybVpZeHFnVVNxQjEweFZ2aGdVSXlaS3p2bjNiQmxtUkZJdkpxZGRHQkgtMkMyZ1R0ZFJuaGp1dWlPbzVGdHR3Wmp1NG5GZnBmXzdCTkNOTU5ycUF4ckVQNHk4ZGg3ZHJGNG4wT3pQdUtrZVNod2RvQnNrMVZFckpM0gGmAUFVX3lxTFBYc1JCcDZQLV8zMkxxTHR5MlplR3NEU0hDSF9fcTJaSFh1QjZkaU9IajNGYk5UZ1VVMS0zQU5sZURnSlNIbHB0VzBlaUc0XzhmTGFtQTNSWlp1MXZjQTd6dXMxVFJvblBIdkVlVEF1bmh2Wk5sbW5sUXhiYjlCa2g5YS1WVEFlTHZpbjJKdDlJQ3FuLTVLQlhkZ2hmSEI1aVphMHdrNVE?oc=5",
+      "published": "2026-09-26T12:39:09+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Outrage as East German town bans Holocaust ‘stumbling blocks’",
+      "summary": "Outrage as East German town bans Holocaust ‘stumbling blocks’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXFQZWFRWDh1WFg0YVVTNjByNmZ6WlpTNENScE9MaTFUM0lEVzRTcUpKbGUtaEswVW1XRmZQM1NzM0Npdkg5QkZic05ZcWNnUk9oakNJMHB0Wm9ySFE5QVl3TjZjazJxYm5PNV9NODZOUkE2bFJzMnNPbXlkM0R0LVpzRG96M1NwRnVaUGl4UGY?oc=5",
+      "published": "2026-09-26T12:32:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "FAA rolls out new AI flight software",
+      "summary": "FAA rolls out new AI flight software CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpMUFEcUNNTjhSTU9WWF9FdjZINDJKeGJhQmhtNVFJR0ZYN1dyS1ZvMFFGTWs1bTJGLXF6WWs4bklORzk2REFUcmp4QXRUb2MxSjJiU2g5dDRScDdWelBoSjVCOFcwOGJROWVtWDF4YTluN20wUkE?oc=5",
+      "published": "2026-09-26T12:03:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "summary": "OPINION: Trump's U.N. speech, a stark contrast with past presidents NPR",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43Um4tWEtyMkdqcFB4ekEyeXJueGc2S1FxTDFrR2gtejV6QW5wZXV2bHI5UlZLNGVVOWdRVnJEZ1JfdEdSOENJeEE4VUZ6SXV3THZndkxmbnhlb1Qwc2M5ekF0WHlqZnVBZ1U0?oc=5",
+      "published": "2026-09-26T12:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
+      "summary": "Why this island paradise has the world's fastest-growing HIV epidemic NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KMDRaay1UXzEtME9peXhOc3FPZXdhR0tFb0ppNFlDdmU1MDVzbXVnelVYNk1tWE9GX25LTXZNRld5VjdVMkUtNzlTVzhjMi1iZjZORmJvUVpzTmJnZ2ZkS2dXTjNienRfdy1HMktrX0RBdndjbUZieUpWeHp2UQ?oc=5",
+      "published": "2026-09-26T11:31:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘The MAGA Flag Is in Tatters’",
+      "summary": "‘The MAGA Flag Is in Tatters’ nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWRYa2pxeFRJN0ZEY3VpeXR4X3JjRFhCaUlGRnJKeEhCYThQem9LVTJqbU9QYUkzN1VyQzkxcXhIOEg1TmdrZGpaTnVnUklSYVdTeFUxd0J0VnVta2pMcld1NDRhaGRSWmtZRmxIRXF0NmEzMW9oeERqUVhFN1lSRG0wUUV5c1JwRmlRSFp2eDZURS1CS1hhcnpVaw?oc=5",
+      "published": "2026-09-26T11:00:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+      "summary": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSmZMbFZYV2FMZWJqSU9PdTI4QVNrT1lKS1FkSC1BdE54ZnpzN2RMZTFTNG11TW5sZWVSeGJZblBfVi0ybkctU0VRbnllOVBISU9iOTZEbTdlam1tQXNVazNULXlIRjN2WnVsRkF6czdCWDJSMHBz0gF8QVVfeXFMT3NpeHlJU3phd3RTbTFfNUlvdDJPd2R3QXRhQnhhQ29yZnJuX0M0Q3ZKQWhSNmZyanpMQ2ZUc1RPY0VadTRNRnYtNVpra3hwUjdBTmlxMkF3RFBnampNT3BaSVpaY3V0bnprMFBMNno4WUFiQVprY3Nud1JPWQ?oc=5",
+      "published": "2026-09-26T10:58:02+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -104,35 +152,11 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
-      "summary": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYWmJrczNqTnozR0dsVGd2SjBibmVSanVtbXAySGMxekNpRlRKaVBGVk42cG9qN1FTdEdVM28zM2xQSGJkRUJUdHI1aFV5NURqakl5eHE5OGNDQ3lNeDFDYnZtazZ0T2pUcjdCQU51UWlvQWJlNUNsaE1B0gF_QVVfeXFMTV9BT0hGTkZiTzR6VUI5TVpfaTBuYkNqS04zSUR1Sm1ScDRXTW9BbUdpcHEtYmlIbEY4LWNMQ2VjRVlvdUVmVkRrSlEzTnMzRlRtYlY3dUhoSkFVUFpJT1BybUpEOFhvLUdJa1dSazJRSDJ6R0U5RGU2ZVZHM05ERQ?oc=5",
-      "published": "2026-09-26T05:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
-      "summary": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5Mmt0TG9Fel9kSjRoa2U3VEFJdUxCblJ1NldtTVlUSUZ5aENQVFU5c2tHRGtmVzNQby1fV0QwbExDal9SSFF4RlFwVC1lRnVUYXVZSk96ZjluNkpRbUZ2Mmh0eHoyNEFCTzkwXy1VUEx2Qkxvc0JlQQ?oc=5",
-      "published": "2026-09-26T04:42:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "What’s the best gay sex scene you’ve ever seen & why?",
-      "summary": "What’s the best gay sex scene you’ve ever seen & why? queerty.com",
+      "summary": "What’s the best gay sex scene you’ve ever seen & why? Queerty",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFMxMHkwZER1SXE2N3A3VEYtanJURHlqTTZ2V0swNkVud05MakNRWXBoZ0diUUxkeWRPQTNxRlZEOENYQXFRYV9yN2RVQnJFcFprVUpWNnVTRlhkWF85ZlQxRl9SOUp6QmV6LVFrdDAwc1NhRHR6ZENrZkROd1NSdjYzS24?oc=5",
       "published": "2026-09-26T01:00:00+00:00",
       "beats": [
@@ -149,31 +173,6 @@
       "published": "2026-09-25T23:47:35+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
-      "summary": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeGdCaWM0SU53VGhXOExtZm5TYThIeEkzRm1NcHhaSG5Sek5reFZIUkh3d2t0OW9rX3pzT3J6bzRMUzNHMHNCSFVCblZoMUo3anU4eEpzU1hGWnV2RHRpLTRoYy1yVnhfdFBHQkRnU3FwRGPSAXhBVV95cUxQSkJvZ0FQbzdQWHJJbXcwLXhRTUVBdVNXS3d2aHVBTVRnMzFfbzFOSVhkZnRTREpTSDE0aHJHdW9JNHg2bHVHa0dCTmFlMWtWYVlRWXI2R0NWT19ReGpkN2xfbW9jTGw4QzhKVXdiSExNZzF4X3N5Q08?oc=5",
-      "published": "2026-09-25T22:31:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Federal court clears way for first religious public charter school",
-      "summary": "Federal court clears way for first religious public charter school K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnVzeVRLSWlFWmNub0JLSl9fVUVnbWxHZFZKX1AwSEZweEV3V3hiaDZ1ajlHV2RyUG1tSGZ2SWJaeGRxQnhMd01FN1FJZ3dYMENXSHp5QW9DRGRVMEJzVHNjYTVpaVhFLVNQSjVzQ1huYXRuRmw4V3hiWXlUbURUdFZaWDRWN2lScGdRbHBhSGlkT0dLcks2dDJKSmZHNUYxRXZSa3Fn?oc=5",
-      "published": "2026-09-25T21:52:52+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
       ]
     },
     {
@@ -251,6 +250,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Pope Leo champions free press, dodges White Sox miracle question",
+      "summary": "Pope Leo champions free press, dodges White Sox miracle question NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGxlUHozYzZXb2J0RlJXUG5iTjc3WjIzUEplZFVCMDVEeEtvMjVDT3ZUX1RRajlaV2EzMm1pcmJiRGgzTG9acUg4VWxSbktFaVhvU05oU3FBZUZOTUxjejNNS1p0T3NOQUFVcmtYcmZYZGxfUTdMS3RUNy00aDNyZlg1ODRkdXBGLVg4?oc=5",
+      "published": "2026-09-25T18:10:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -280,7 +291,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Daniel Franzese reveals body transformation after dropping 135 pounds",
-      "summary": "Daniel Franzese reveals body transformation after dropping 135 pounds queerty.com",
+      "summary": "Daniel Franzese reveals body transformation after dropping 135 pounds Queerty",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmRJMVZLUGVRUGlDVG5peHdrZGZDVFpKaHRyQ0pWc3pJYUNMOFROTWQwbTVpSTFkTUpfa1EyQlpENVNzQ2VqQ0swT003aEFFT0I1MDF0MUw0Q2hmQWpiR1BMWGJNNzlzYlB0bGhJblJSYzZjMFdNZHd5aEt4TEpIYjF5eVNfT2dmc0Q2em1aaFJZQnFTN241ME1LUV9zekhXbi1Idkx3?oc=5",
       "published": "2026-09-25T16:00:00+00:00",
       "beats": [
@@ -288,28 +299,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic",
-      "summary": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5",
-      "published": "2026-09-25T15:47:36+00:00",
+      "title": "White House says new pro-Trump ad funded by the ‘U.S. government’ is a ‘public service announcement’",
+      "summary": "White House says new pro-Trump ad funded by the ‘U.S. government’ is a ‘public service announcement’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTZXbVBuVnAwbGhwTnU4REtEU1VLeVBHSHYtU05LLUpLYTFWMFQ2TjhBUFdnSE5fWFJzUzlPQTBfRGlZT1NOZkZCU2Z3ZzlkRG9rOXk4dDFtNUpXTUlnNTJqMWR5VzhYNzFEVVdrSWdoQTNQWXNxVHY5c0dvZ25LS0pCU1VObnJJeVBOZTUxV0pxZk10ZGlSTFQ3VHZ0ODBjeVFPenVZX04?oc=5",
+      "published": "2026-09-25T14:55:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Judge questions Trump policy forcing HIV providers to disregard transgender patients",
-      "summary": "Judge questions Trump policy forcing HIV providers to disregard transgender patients Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmpYZm1DWUJmc0s4WlZWRUVxS0JPdmhabkR0NFFMZEg2M0N1WjFuc2NGUEhLcUR4MXhweVMzaXliTlZhdXp1UERLMVc1RS1oSV8yR3ZVRFg5ZEJLYTlUQng5NGEzRC05ZzJiMWJrZ01nTzcwVlc0QzQ1eXNkc3hmZ0N6OA?oc=5",
-      "published": "2026-09-25T14:35:44+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
@@ -317,7 +315,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Opinion | Being a Doctor Will Never Be the Same After A.I.",
-      "summary": "Opinion | Being a Doctor Will Never Be the Same After A.I. The New York Times",
+      "summary": "Opinion | Being a Doctor Will Never Be the Same After A.I. nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwTEZHSHRjWnhmdkFURmZUbjJEUE1CVFA1bFlUYWJhNHFRQ0NrRlMyU19tLUtSbXpDbElyWC02X3k4MnVHc2dpcFk2VlVnVUp5bFBXNmM2bXJ6a1FxelN2NkMzX2ZCcldmQ25oZ0RZSDhNVEdyUmhEMl9ULUVIRm8?oc=5",
       "published": "2026-09-25T09:00:29+00:00",
       "beats": [
@@ -341,7 +339,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
-      "summary": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday The New York Times",
+      "summary": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWV1cGtxX0RqWVh0Z2JUTnVBdzFVY05hakwtV3FGeEwzdVBnR0xWSXFfN3U3bzI3d0RNMnZXMElLOURJU3hRdE9Wamt0Q0hzTlQxeDFLb3BGYVhBbE1VN05zUDNFb29uRWNYTDQ2WmlMTFRwRzZMLWtYUEdJVThKMnZTRFRDRkkyemhlVGJjcmRtQQ?oc=5",
       "published": "2026-09-25T04:01:05+00:00",
       "beats": [
@@ -377,7 +375,7 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Politician has the best response to his Grindr photos being leaked",
-      "summary": "Politician has the best response to his Grindr photos being leaked queerty.com",
+      "summary": "Politician has the best response to his Grindr photos being leaked Queerty",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzEzX09NSlhEcGdsdW5ibHJINzFmN3FyR3dXeThOSDAtY283ZS1NWlppZHhWN2JZdUR0TnJpMHNZNVotSW05M19VQjZjcExJTk81R1U2QUwwa0tzbnhXVjdkc2w1LU44bGVQb0ZkekpoeTdCY0ZVS0NBa2FWMkRQY3ZHR01zNUJPdmtWM1VuSTE2MHNfU01XQmhxNEZCY1RBekE?oc=5",
       "published": "2026-09-24T18:00:00+00:00",
       "beats": [
