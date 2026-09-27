@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:27:44.355453+00:00",
+  "updated_at": "2026-09-27T00:48:57.672378+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,27 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "China’s latest panda diplomats Ping Ping and Fu Shuang take flight as they head for Atlanta",
+      "summary": "China’s latest panda diplomats Ping Ping and Fu Shuang take flight as they head for Atlanta CNN",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXM3SVZ0RWViSEhPYXVjWm5RQnR3X081UW1fbG9ZTHVneVVEaHIzWk1qanMxUmtVTHRkdmZuSWxlYlplVDk5dmNmTFlHVzZMQVd2SnYweks5T25ZRjYyQ01aVUl4RFRHY2htWVhmSlRoNzBPNEZpQUVFcjJ3UHZEd2pSdE1LS3ZUM2hiSUZwVmo1UWJfRTVZVFJqcnB4VjdBejNRZzNhTXJmd0E4TXp6S1RNVG9YM0x2azhaYXF4Z2twcHFjM3N3TA?oc=5",
+      "published": "2026-09-26T23:29:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump says he approved new fuel economy standards rolling back Biden-era rules",
-      "summary": "Trump says he approved new fuel economy standards rolling back Biden-era rules CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SjFYLW50LXlpYTlGdXJVdTg4Y1l2MkRSNmtqUFVtdG95YjBySXB1ZXk4TjZ6SGs1NXdNV0ZMcjYzYUlfZTlCb25ldjlvd1JCMjdSUlh2alBnQVhnNW5UVzBzUnNnX0ZhcmJWY29ZSkxsYkVmaW9JeUR30gF_QVVfeXFMTVVfaktTbFNTRHZNamV4ekg3V05RZXFMNFViRnZ3NUN4TTZjZC1UN19Wb3VVTGh1NjFvZ1JCM1NQTDMtX0k5ZEZfY3VLYzZWdXhRVWRscjV6UTEtZ25oUTJtWFdMRFlZQ3VacUx3Mmp6Rl80TElGWDhwNmJIQm0xaw?oc=5",
-      "published": "2026-09-26T20:50:06+00:00",
+      "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the Northeast",
+      "summary": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the Northeast CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LV2RhMWRIZG1vMHdOR0Q5RGZDUWpkdG5zaGk0WEZoQ2MxS1U4NFRVVktuY1NmYmw1UTVYNlIzUlp6MlN3ei1MMGkxN01qQ1N5Y2dKY2hxcU1aaWN4ME5CZmVVVU40SXItQnJNQlBjV2ZyeFdoZk52UnVpQU9NVFowYVc0UTBuLTNPY094N0RBcnJ1NW1R0gGcAUFVX3lxTE81U2tYcDRDSjcwZjFZMTNBcDJtQVNqYndzSzhiNjFpZ1Zsa2NqZVRlN3VUQ3dpejFqSVBRUXpBeVRoQ2QyUkdCQ0FoVGpGQ3Nla2UyVmY3dms0SlhlQkxTTlpxZE5QaldqNGcwTU5iekRKRDh6QXQxSnpEdm5kZDNOR1JWRndwQTB1c3R6UHhtNGpiSXFLa2ZxVDZTRw?oc=5",
+      "published": "2026-09-26T21:45:41+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -48,7 +60,7 @@
       "source_feed": "NPR",
       "lane": "General",
       "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-      "summary": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' NPR",
+      "summary": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' npr.org",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFFIUk9GUUctYjB3UzR4VmZGTTU0S2VKSm5paEYtbHNZSFAtSXl6TlgwRWxfREkyOXpkbTNTd0lyeTdfTW5kMlhnQmVhWUo0YnZydlRCVGFrVlZVellxTFlidFFTS2FiS3piUW8yVFlmVjVuN2FuWWR4bjB2ZDltWVpJTmFuVURhNXdaXzZHMDY2QQ?oc=5",
       "published": "2026-09-26T20:08:28+00:00",
       "beats": [
@@ -59,8 +71,20 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump admin cancels funding for refugees, immigrants and others in move lawmakers argue is illegal",
-      "summary": "Trump admin cancels funding for refugees, immigrants and others in move lawmakers argue is illegal CNN",
+      "title": "At UN, Russia and Germany’s top diplomats hold first talks since invasion of Ukraine",
+      "summary": "At UN, Russia and Germany’s top diplomats hold first talks since invasion of Ukraine CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjMwckhZVHFKSTlvSl9wVnpvNXljN3cwcVRfcHJBNWNwQUFTcHV4TWdrYXB5cVNXclhncU1oaFo0M2pYdmlsWVF6X2NEbWdYVUctbmpjTmd3S1VsUlhJZVV2M0lyVHNMeEhoZk1HNjA5V2RDejlfTE1vY3BwY1pRbkxQOEk4QQ?oc=5",
+      "published": "2026-09-26T19:29:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump admin cancels funding for refugees, immigrant detainees and others",
+      "summary": "Trump admin cancels funding for refugees, immigrant detainees and others CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFJvR0xJalhHMmZieVpHSVg3RnpudjZMNnhMRWNkVFd6LUVHNUNyYU5Ya3hDMVpWdl9BX2IteVdZZjV6V2l4djJPNURZLUFsQlhDYXhsbG5HZkQ2dVdLQk9VUzZ3eUZrd2lLY1B0Q2VGWkZJZXVmMFlkTmZaa1VPR0NfUQ?oc=5",
       "published": "2026-09-26T18:29:13+00:00",
       "beats": [
@@ -84,7 +108,7 @@
       "source_feed": "NPR",
       "lane": "General",
       "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-      "summary": "OpenAI says its models engaged with US government websites in misbehavior disclosure NPR",
+      "summary": "OpenAI says its models engaged with US government websites in misbehavior disclosure npr.org",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5",
       "published": "2026-09-26T17:10:04+00:00",
       "beats": [
@@ -104,36 +128,12 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump declines to say if Ukraine can manufacture Patriot missiles to fend off Russian attacks",
-      "summary": "Trump declines to say if Ukraine can manufacture Patriot missiles to fend off Russian attacks CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50anZKYlBiLWxiZC03RXF5azVMQklCSkZZMGVtcDM0a1NvMlRzUmNoRUJyU2ZheEVwOFZCSmtqZTlWX05RZEdFaW5vSkQ2akJVRVhpZW5USkVOTTJlUWVMUGEzQ0lOZWFfQjRUdjVpZm5CQUd4TUhwZ2FB?oc=5",
-      "published": "2026-09-26T16:09:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Rogue OpenAI agents targeted three separate US government websites",
-      "summary": "Rogue OpenAI agents targeted three separate US government websites CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5",
-      "published": "2026-09-26T14:54:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Powerful nor'easter brings winds, floods to East Coast",
-      "summary": "Powerful nor'easter brings winds, floods to East Coast NPR",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhFa2VPMmFNVUZUYXZpTkI5M011bFVtbjhPekNZT3hNeFd0YnJuNkpCOEp6RWFPbHJnMFg2bjRFcTNSdmtKYjhEdWtLcW5xWkhhcDFNUzBXakh5VVFnNEZoZmxjN0NlaVlNRlhoeUxsTHZQT2thUWFFdF9SaHM5SmU1OWFhNU9QYzB0U1Byajk5elFlQ01jSU8zaHREV3AyMGhDekwybUUwcHdnaUMxdkZocS0xVDRjZXBjam5MZHdibm8tNnc?oc=5",
+      "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
+      "summary": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend npr.org",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVVZsVFBzN201TXUydUFKQ2NDbGhvTXFDOWlyMVA2UXhrbm9BdkpoR04wNGx1NTR0bU55YzluZUd3VDFhclZuTnpWeXcxMEhfNmNYWFFTRGR5djZoM1dWMnJtSHBYU1Qtbi03ZDBwX2dyb0RSeE1aTlBsNDM?oc=5",
       "published": "2026-09-26T11:38:00+00:00",
       "beats": [
         "Politics"
@@ -303,7 +303,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Trump Administration Moves to Limit Fixes for Systemic Racism in Schools",
-      "summary": "Trump Administration Moves to Limit Fixes for Systemic Racism in Schools edweek.org",
+      "summary": "Trump Administration Moves to Limit Fixes for Systemic Racism in Schools Education Week",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0ZIV3lacFNuS19qem1OQ2VhejJJMjZkMEdXTGFqaURqSmFDTHJ3MTNaYkl3NzFaWUdyVzhUU3FhQVJlN2JqRGNTeGtTc3F5ZGhrVjZvcUpmNkJZdGFBYWhVRkluSnpYX09MVzFzZHZlUWl3MzY3YUJrS3UxZklmQXZDQzZoMmJpamVla1hrYnZBXzdlSGZGdGdHeEhhd0ZqQjZPamZMQThOWkk5UE95M2VQWDdXQWotUEow?oc=5",
       "published": "2026-09-25T17:53:23+00:00",
       "beats": [
@@ -321,18 +321,6 @@
       "published": "2026-09-25T17:49:08+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "The World Needs Better Power Grids. Why Smaller May Be Better.",
-      "summary": "The World Needs Better Power Grids. Why Smaller May Be Better. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkE3eFFULXJCSk5CbHExY09WOXQyV0VUUUlwQWVTTml5bHZ1NzdUNU1mQlQ4NjNjZlgxR3JQUXZYOXpVZ0RHbHZVR0NuTlF4d2V4M25OU0prOV9lOEZSY1M5bDRzWGdDSWt1R2tqcThxX1g0a1prMkhqcjNlNXBSYVhR?oc=5",
-      "published": "2026-09-25T16:18:19+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -369,6 +357,18 @@
       "published": "2026-09-25T13:47:11+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The World Needs Better Power Grids. Why Smaller May Be Better.",
+      "summary": "The World Needs Better Power Grids. Why Smaller May Be Better. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkE3eFFULXJCSk5CbHExY09WOXQyV0VUUUlwQWVTTml5bHZ1NzdUNU1mQlQ4NjNjZlgxR3JQUXZYOXpVZ0RHbHZVR0NuTlF4d2V4M25OU0prOV9lOEZSY1M5bDRzWGdDSWt1R2tqcThxX1g0a1prMkhqcjNlNXBSYVhR?oc=5",
+      "published": "2026-09-25T09:01:05+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
