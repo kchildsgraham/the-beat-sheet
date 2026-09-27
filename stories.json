@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:10:30.554001+00:00",
+  "updated_at": "2026-09-27T20:19:00.003645+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,27 +20,63 @@
   "errors": [],
   "stories": [
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge",
-      "summary": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
-      "published": "2026-09-27T16:47:53+00:00",
+      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+      "summary": "Anthropic CEO Amodei set to meet with Trump after missing state dinner CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbE5Yb3J6V1pEWDhyWlBfRW9KdFFUT0MyNGQ5Q1lUMFdnNENFNE42aExZSzdSX3ZoT3RmSWwyNVFxWGlQUWZWZkN3a1F4SV9oSTdLeFcyWDRYV3FYVnljQlN2X0djekxpWW1lQ2Y4bW1PcVQxb1VYYnlmUFJKUnFKZWV6S3lCR0RHejdvRDJWc0RMbUttZGMta19kMHRQeFc4WkpGNjhqZEtOUdIBrwFBVV95cUxNOHNSX05TWlVVUmxEMUl5Ml8zSFZFSEFSeFRtYU5McTVfQm9pOGRKczE5T0xPaTRMdTZseHE1azJtYTh2bWtMaHJUZHBJcV9ZYjl2MmZLeGh0WE1CUUlxZG9HcmdISmRHcjN1OEZMSE9XNGg2Yk0ySFBKMzBYZWJNdnItTkQ1XzR2bU1jRUx2eGpkNDJ1SDItTm9FNFRES3pHLUZoX1ZRZXhmMjBjdm53?oc=5",
+      "published": "2026-09-27T19:10:34+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
-      "summary": "Here are the 4 big things we're watching in the stock market in the week ahead CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0p2MmpQNG1lWktLTzV3eDhjN21jN2pjV0VEM3V6SDhZVlE5N0JvVFJvbHJVaE9iOVN1ZzhDSkgwNFYyTWp2aGh3VlBsNjZieDVwc2pta1pRem1xYVdDY1ZlR2JXOGxhVHowQTlzTEstTHJlbUZoeFVxRlZ3eVIwRDRZWG5wRmJHWHIzQlZMeHdqODdqd2J0Q1lwVFJZbXVKWVA2cC1DOHlzSUZrQllsM2ZreFA?oc=5",
-      "published": "2026-09-27T16:13:03+00:00",
+      "title": "White House airs another government-funded ad, this time with Trump warning of ‘final battle’",
+      "summary": "White House airs another government-funded ad, this time with Trump warning of ‘final battle’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVBacDNSTEsxemZPY1NtZ2FoREZBZXpMV0c4RU9PVTZmSmtpRWtvQmlSRXZGbEZfYmNYQWtOSGYzMzZjbGMtd1pucFRJeS1zWW4zaW50alFBLWF4YnAxZm9RUFJKRHQ0ajBKYUZ5aEw2YmpXOGpIV1VEVGZNRjlmc1MtZ2s?oc=5",
+      "published": "2026-09-27T16:37:47+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "College isn’t supposed to be perfect. Here are 5 things I wish every student knew",
+      "summary": "College isn’t supposed to be perfect. Here are 5 things I wish every student knew CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGp5blJ3REN1anRTUkZMUk84UGo0SUZSMTBfelo2cl9kSElNQm9HZEdZSXQtWEZ6Wno4clp1bXVrSy1OM2Y3UzI5QXI4RUZNaEFtemlhWjZDdTk3T2ZGUVI1a2lqOHROZ193UW9VMXp0ZFVNeWhhVE11UmVzUUM0VFFNaXlPQ09B?oc=5",
+      "published": "2026-09-27T16:00:29+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The DMV is good now, actually",
+      "summary": "The DMV is good now, actually CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLVFZkMzctVFJ0RTU2cGVRTUJWT2FnS09vYVlzUENUaW9NSW45WWZBYlBWOS1HdDdMa2Z5bTRFb20yaGV5Smc2ZFJFalNrcWxoMFlpNVVTRnI1SF8wczNuYWhYZmZQcW5IV0FSOU9IMjdqQzhZQ2N4bTUwVGExN2M?oc=5",
+      "published": "2026-09-27T16:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "From evil puppet masters to twinky pop stars, queer people name their most disappointing gays",
+      "summary": "From evil puppet masters to twinky pop stars, queer people name their most disappointing gays Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnhCM211c2ZxdlFsME1ySkpySjBRRHRHN2dtQzF5X3J0czVLTVpvQjc4YXNmaUpDeVRMUmxvWUNmdE8wOUp4MXdmRHJkamhVeG9WbTRhNWEwaUVERVZIcW9wZ1ZsZnZLVDREanZnQ0k2VjgzYjhMNGJkM1R2cWVhUDhTSmFhTDc1OFMteHM0Vl8zalA3Z2JlVHpZSVJha3VvZmE1azhaLVdWZGtGOWNTdFA4Y0lXMmg5dXFBcmNtU2RyWjBv?oc=5",
+      "published": "2026-09-27T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -56,6 +92,31 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Open: This is \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "summary": "Open: This is \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjZJZ1Y1YmtoYUFJZ1NjZk1nZUxYY0pXc2JUNG11TmQ1bmZYTVo1OE11d2x5amdrSll4RTZGS1o2amNtTElEUHluQ1BoSmYya0h1RTNkUFkxNENfNHVYMU9ha0NMaGNwZVl3Ni1Cczd5TWp1THBfcU43M01JY0w1MGJLY2RaR1JzeFoyOWk1aWZNMElHWWs0RlB3?oc=5",
+      "published": "2026-09-27T14:30:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Sen. John Fetterman says it's \"entirely possible\" Democrats take back Senate, says \"let's revisit after the midterm\" on his plans",
+      "summary": "Sen. John Fetterman says it's \"entirely possible\" Democrats take back Senate, says \"let's revisit after the midterm\" on his plans CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNm9iN3RwRXJLV0tWWEg5RlJ1UkdpMXI1aVE4NTdJMzhpeEtjMW9MUGotN1l5VGozTTlpRjllRDdYRTV2bVFBM3FnX0xLM0VQd0VyLTdaR2lXVU5Yem0tZ0hkUjI2TTJjQ2J4ckNfcFd0RlE4MDdfeUpWejJIZkNEZQ?oc=5",
+      "published": "2026-09-27T13:48:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -63,6 +124,18 @@
       "summary": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table CNBC",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU1TSVRCVjFmV0ZuQmtsNTBuZkpZb2JKVU5EaHMyeDZaUHdIQzhOZno0QzdUeHRaVV9ibFJIQU1pWnRTVHA2b21XR3VhYmNPenl2eEhYYUhXSkc2TFI3UUI1S2dqZnJ1SEp6eEJEWnh2bUdGeWlhQnVRb1dQenFvcVgxenRWbmFJYTczRzJ1aTlnLTdLRHZSOHFQTkRMcTJneEUyT3JFd9IBrAFBVV95cUxOZEZodUZKbjI5T01UanZ3NWtBSE9NMFQ4UGhESDl1SDJ5WFdISWsxeFF1NFRDZ04wMmswUHdBOEtKbkZSS1JPa2RMemxtTW5tZ1lHWmhycFNWRGdValNMcUx2VElIc3BTYUVvVVNCQ3BWVi11aE15UDloODY2T1E5b1dLRUNpZ1h5cTBiWXRaSkx2bHZuTDBLUXlXamFNTmxxZkVTUHVkSTA2Z1Rk?oc=5",
       "published": "2026-09-27T13:30:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "How YouTube creators are revamping Hollywood",
+      "summary": "How YouTube creators are revamping Hollywood CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUloajBkd2RZbGJVcEU4STBRUGpMY3JrbkEyMUxJNXNGU3JYdzFaM2ItTnhyT3ZVUTlRY2NzOG54bEFnN3doUHYtUDh5T3VHNjJXT0hlNUtoTTZfUDdTY0xRcC0yUWowZ29BWmE4RUN4SWNEcnFQQ0htU285SGdocA?oc=5",
+      "published": "2026-09-27T13:16:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,51 +165,16 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Facing a barrage of Republican anti-trans ads, some Democrats are changing how they respond",
-      "summary": "Facing a barrage of Republican anti-trans ads, some Democrats are changing how they respond CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmZ5TE44d0ttZVpyeHc5S1NxUTNNWWNxN0gwaFpnemVMWC1hWi1TaG40TGZCbm8wZWJZcEZZYWF0Z3NaV2J6UVdWbkRhcXhtQ0pIbnplbzdWTHFHUTRMNWEzWFZyTVdoUjVlazlLSHdLekEtejhpeXcxNXlsRjNWX0ZkQ1pnai1yM1E?oc=5",
-      "published": "2026-09-27T12:00:29+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
-      "summary": "Playing 'La Bamba' for an hour? Must be a Mexican fandango! NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15QWl2S29BM0lqWXlMMFBqYndxVzQtNlNaa0M0dWFCd2dQUkZWcTdfNU5BQUtEOUFPZV9WRDhQUkNZVEtyTmlFcDZSU1gtZXpOXzdZVVpMM0NoOTI0dDV5T21lRGMzRlFSTjFjUVI2QkFBakpZSlZZRA?oc=5",
-      "published": "2026-09-27T12:00:00+00:00",
+      "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+      "summary": "As Congress debates college sports, athletes-turned-senators have a seat at the table NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1JhanUya2hfaWxHU2o0R25MRWk5NlE0aFhhR3ZDNWFfdWhzbl91S3pORHVrZnRWUFNNMnVZdnE3ZjBuVThsdEJDSm1HdVhRWnJOWmJPRUdFVGhmcFNCTEtjN3lDb29hUzB0eG1xNGY1UGo2LU53QmNSMVVqUlhjZXNQVVQ1U1dUWWlzbUdvbmJYcTQ?oc=5",
+      "published": "2026-09-27T12:06:24+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "I started fact-checking Trump 10 years ago. Here are 15 things I’ve learned",
-      "summary": "I started fact-checking Trump 10 years ago. Here are 15 things I’ve learned CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRS1BVUF0bVdPTmREaE1xYTFoUHlYTk5peHBWQWlpLTgtQ3pPQ253ejgtUDFIS05MenZVWGxQN3Iwc2VvbUdtV2NHV2xsNjVzZXlJN2htbjgwbUktUVhENGpFdjBla3pVS2NjamkyNkJnZElHUWZra3RGV04xZEJQMFRR?oc=5",
-      "published": "2026-09-27T10:30:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The most powerful rocket ever built is on the verge of its biggest — and riskiest — test yet",
-      "summary": "The most powerful rocket ever built is on the verge of its biggest — and riskiest — test yet CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaHpFUXhJVWk5S250Wkw3S1pRemY4T2Q0NTVkVS0wNk9sT1U0V0RaWFZqSUk4NFlXalViYWJ0TzdHaHVUY3ZsbXhFZUpZbjZLUTg0dDN6ZDJtTG1ZUjY0ejRPS2g3R0ZwYThGY3hzbE1XeFNPTFBobw?oc=5",
-      "published": "2026-09-27T10:30:29+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -180,7 +218,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Gretchen Whitmer to Democrats questioning their support for trans rights: ‘I’ve never wavered’",
-      "summary": "Gretchen Whitmer to Democrats questioning their support for trans rights: ‘I’ve never wavered’ Advocate.com",
+      "summary": "Gretchen Whitmer to Democrats questioning their support for trans rights: ‘I’ve never wavered’ advocate.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2k0NlJJdzJXVU54NHoybmwtSldnU05qXy1lcTR6a19CemZBZ3ZZMkpwWHFoUjhBbi1uNWNFcjl4NDhrdC1ZQkVzSWVZZi05dkd2VUYtMTA5NjZ2Q0lnOEs3V3VzM1hUVUlMNG00czlwVkFua1l1NG84YjBvdk4wa0ZoSmY3MmRUNXc?oc=5",
       "published": "2026-09-26T22:43:46+00:00",
       "beats": [
@@ -203,20 +241,8 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Gay Halloween, Spice Girls & Survivor's newest LGBTQ+ star: 10 things we're obsessed with this week",
-      "summary": "Gay Halloween, Spice Girls & Survivor's newest LGBTQ+ star: 10 things we're obsessed with this week queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMFlWRkNvS1g2ek9ZWTI4cV9PT3BkWlRwVjRDcF9nb0hwMWFsRmlpTG1MZ1NneFdFT2duX0l5V2l1RHhNRWtuVnNCbmxuTlBvTHJ5TFFwbkV4UHlNRjM2TGszdFJiYVBxV3doMmd5OG9ucTVpS2E4TVZUTjMzWGZpWGVldlVuN1l6TkR2RzVtWTFTbVIxOUk0V1RkRzk4LU1jTDJPaHc5enptMVF5YjZzMkhReDR3OWZELThGTi1lQi1qY0NE?oc=5",
-      "published": "2026-09-26T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
       "title": "Ryan Cleary’s shake, Princess Poppy’s body, & Heath Thorpe’s party",
-      "summary": "Ryan Cleary’s shake, Princess Poppy’s body, & Heath Thorpe’s party queerty.com",
+      "summary": "Ryan Cleary’s shake, Princess Poppy’s body, & Heath Thorpe’s party Queerty",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2ZVbmpRS0J4ZXdVc1NvOF93WDJqUGoyNlBxMFFpaGNleFh5YS1GQXEydDI5aTFvQnNlcU9Ibk1pOXhRcmEwOFVsczQ5Z2tnbEdROG44QlhFZlBKYkFPOXZFRjB0b2ZMZ1BacjYwMW9QQk1zR3dVVjlRekVHX1h3S2NqbmJKQkxBVVc0LUFETzJybEs4ZlUwdA?oc=5",
       "published": "2026-09-26T18:00:00+00:00",
       "beats": [
@@ -248,25 +274,13 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "First papal visit to France in almost 2 decades attracts hundreds of thousands of worshipers for Mass",
-      "summary": "First papal visit to France in almost 2 decades attracts hundreds of thousands of worshipers for Mass CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTERPLXVLalJZUENPMFpKZjVSbDdtemphX0FKcnZ1dW9jTmxIN3lEUGVXLTNJZEFPbEVjQmxXdlF5VFYxMFFCZElrbld0SjFNLVZvc3Zwc2ZiZk1FWHZZWWkzNDRPTVU3a1N1YnptNA?oc=5",
-      "published": "2026-09-26T14:51:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "OpenAI reveals its agents accessed some U.S. government website data after going rogue",
-      "summary": "OpenAI reveals its agents accessed some U.S. government website data after going rogue CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHoweTB6SkhjcllkWkdIVEhBbW16dEFFUnc4ZkpvRWlLTGJReDhFTnBqVDZTUFh6b0FCdGE0dTJ5dkk2RDBOSEVXVmdpcXppS2ZzTE9rUXFZWGctaUNKakJMRXcwWmxHRm9LRGJ1eTBUbmppcW9TNkR4NkhJdW8xR0lQRVNJZw?oc=5",
-      "published": "2026-09-26T08:52:35+00:00",
+      "title": "White House blocks CNN from covering Trump’s Tennessee trip",
+      "summary": "White House blocks CNN from covering Trump’s Tennessee trip NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGNOZjFEMkU0clNPcVpYeWFLWUQ1Ynh5WjlLNWh1d3hSNjBFRVZid3dJdEhvZGg1UHpVUmFjeG03Q1cxWXV5NmdXQWRFRVhIUjZqYjlxRDVaUnU3cnYyejMwS1A2cURLR2RmdUVBOEs2WWF3VWczc0ZJUDZoS3hmc21kaUM0TWRRQ1ZuRTRjQ1N1bHhWUzAwYW9yeXYzeUZUZXBSbjF3UDFSWm4ydkE?oc=5",
+      "published": "2026-09-26T13:47:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -297,30 +311,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Mountain lion sightings in Palo Alto neighborhoods prompt investigation",
-      "summary": "Mountain lion sightings in Palo Alto neighborhoods prompt investigation CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHlnRkFsb3ZfYjc2Ql9vNXJrSVlYcVV4UUFQYU44TmQ5b3IwV2FKN2Iza1N6WFJRTU1MTk4zWHhhMnUyRDNiVjNZQ0VsRHVjN29DNzd4RWMwV0NzeVowTmVTZjhMNTR2azQwQ19rMmIxZVRtblhOZVlQeUZjYzVUYjNVZ1FrblJIZFdKbHotazU1ejVrX2x5SXpCV09VZlBuT1J1NVhNdlg5emNU?oc=5",
-      "published": "2026-09-25T21:36:24+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "\"Disappointed and ashamed\": LGBTQ+ & ally groups slam Dem Rep. Marcy Kaptur’s anti-trans ads",
-      "summary": "\"Disappointed and ashamed\": LGBTQ+ & ally groups slam Dem Rep. Marcy Kaptur’s anti-trans ads LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTBreDdLUEZvZS10Z25QTWdVc0xldkFyQnFwb2xONl9xbnluTkVkbzdVb093V3pKT2JyS09CR0k2LWh0dk5OOF93cWVQRl9Hd3ZsQVhaV3djaXJibEl2WGllTW82d2VQXzhrN05uZE4zMG9zbk9tTmlQVVE4MnhSaVJPTmNfc2kwOGRvX0d1d3JuQXpSLUVQM292Mk5Qd1pyUk94ejZfVUt6UGxCU0E2RjhJZTB5TlFYQ1JlRkVB?oc=5",
-      "published": "2026-09-25T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -337,7 +327,7 @@
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
       "title": "Testosterone-obsessed Pete Hegseth has a bank account that jumped from under $50,000 to over $1 million",
-      "summary": "Testosterone-obsessed Pete Hegseth has a bank account that jumped from under $50,000 to over $1 million Advocate.com",
+      "summary": "Testosterone-obsessed Pete Hegseth has a bank account that jumped from under $50,000 to over $1 million advocate.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HNkpvcUNxTjNvbkx5TjA3NTVnanA1T2FDcWZKeTU4THhGVXJJYVBLRjNNVW5MdmpYT1NTZS1mSUNMR1U0a1daUEN6bU9IV2ZIN0pxRDVzWWM5U20xbUliZU1naTMzYjc1VUkyazZURktQUVh4ZXBuUQ?oc=5",
       "published": "2026-09-25T18:53:44+00:00",
       "beats": [
@@ -375,11 +365,24 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Is Peter Thiel breaking up with JD Vance?",
-      "summary": "Is Peter Thiel breaking up with JD Vance? queerty.com",
+      "summary": "Is Peter Thiel breaking up with JD Vance? Queerty",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQdWhLNnUyV0VCcHRxdGF0YmRFSmFXVUtaY2otcmM3R1Y5M0RaV3RaQ3gtSXVlYTlVdUtod0paUGlFVU05cjBId1lBTGdXZ09PSnJIZHRfSGI5bWUxOFhnbWRrTkZ1RXBzS0t5cVEyV0NJNmZORTR5SUtVeUNsLU0?oc=5",
       "published": "2026-09-25T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Trump Administration Moves to Limit Fixes for Systemic Racism in Schools",
+      "summary": "Trump Administration Moves to Limit Fixes for Systemic Racism in Schools Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0ZIV3lacFNuS19qem1OQ2VhejJJMjZkMEdXTGFqaURqSmFDTHJ3MTNaYkl3NzFaWUdyVzhUU3FhQVJlN2JqRGNTeGtTc3F5ZGhrVjZvcUpmNkJZdGFBYWhVRkluSnpYX09MVzFzZHZlUWl3MzY3YUJrS3UxZklmQXZDQzZoMmJpamVla1hrYnZBXzdlSGZGdGdHeEhhd0ZqQjZPamZMQThOWkk5UE95M2VQWDdXQWotUEow?oc=5",
+      "published": "2026-09-25T17:53:23+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     }
   ]
