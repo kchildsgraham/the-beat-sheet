@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:19:36.649095+00:00",
+  "updated_at": "2026-09-27T17:10:30.554001+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,97 @@
   "errors": [],
   "stories": [
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge",
+      "summary": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
+      "published": "2026-09-27T16:47:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-      "summary": "Top Wall Street analysts like these 3 dividend stocks for steady income CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0x4TmRrbmt1cVQydW1XLXp6amEydXVEcUZ0a0ZiQ2tPMm9idXVPMWFBS19ubE9JNktzeU1TdGpSc216dElYVWFheEJNb3l2NGx2NmE3U2hocmFTZTN1dk9XY0JIa1lfWUlRSFBGbGVSZm1GM0VGcVlUZWpiY2EyOWJDdVFEbDMyWFZ0cEdQWlR1cUpUU0p2RmMwQTBFX190NUJOeUtUdUNqQdIBrwFBVV95cUxPWFA4QmtyNU9mNmt5aG5PSXczdTFVSk9qek42bENBUjcxODYydW91eFZUZFA5VFMxcmdZSW5lQ2NqVUdNVzdMQVViYURBTWxaWEJZNUcxQ2ppQ3dYVTZzSExJUVY4YXhLa3B5ZmFuM0hRRXA1WkZqb3c3WXFEVzdQM255Uy1ZbzExSGlKLW0tNm5sbzVGRS1FLXMzZHN4a2hWZ25JaDBxYmd5WjVhRUlv?oc=5",
-      "published": "2026-09-27T11:33:15+00:00",
+      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
+      "summary": "Here are the 4 big things we're watching in the stock market in the week ahead CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0p2MmpQNG1lWktLTzV3eDhjN21jN2pjV0VEM3V6SDhZVlE5N0JvVFJvbHJVaE9iOVN1ZzhDSkgwNFYyTWp2aGh3VlBsNjZieDVwc2pta1pRem1xYVdDY1ZlR2JXOGxhVHowQTlzTEstTHJlbUZoeFVxRlZ3eVIwRDRZWG5wRmJHWHIzQlZMeHdqODdqd2J0Q1lwVFJZbXVKWVA2cC1DOHlzSUZrQllsM2ZreFA?oc=5",
+      "published": "2026-09-27T16:13:03+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "summary": "Meta's Muse agent is attacking one of the economy's most profitable weak spots CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
+      "published": "2026-09-27T14:33:22+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
+      "summary": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU1TSVRCVjFmV0ZuQmtsNTBuZkpZb2JKVU5EaHMyeDZaUHdIQzhOZno0QzdUeHRaVV9ibFJIQU1pWnRTVHA2b21XR3VhYmNPenl2eEhYYUhXSkc2TFI3UUI1S2dqZnJ1SEp6eEJEWnh2bUdGeWlhQnVRb1dQenFvcVgxenRWbmFJYTczRzJ1aTlnLTdLRHZSOHFQTkRMcTJneEUyT3JFd9IBrAFBVV95cUxOZEZodUZKbjI5T01UanZ3NWtBSE9NMFQ4UGhESDl1SDJ5WFdISWsxeFF1NFRDZ04wMmswUHdBOEtKbkZSS1JPa2RMemxtTW5tZ1lHWmhycFNWRGdValNMcUx2VElIc3BTYUVvVVNCQ3BWVi11aE15UDloODY2T1E5b1dLRUNpZ1h5cTBiWXRaSkx2bHZuTDBLUXlXamFNTmxxZkVTUHVkSTA2Z1Rk?oc=5",
+      "published": "2026-09-27T13:30:02+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
-      "summary": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces NPR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU183OFFGREx3anJ6OWJhbG1pdU9Rb3BJX0xjY2dTSnR4NHNIYjlIUnhtZFNfMXZyVTZGTnFFTV9XWUtQVFNpSnpLbzU4SHg0VUNRd2cwa2k2Z0hOaVE5d2d0T19kM0VZUFl2TTEwcVJZTWZ5SFcyMWNBLUZ2eHZKUmhFYm0taFp5QV9JWVJ3MDVkSEs1VFJJWmlTQ00xX2VabVBvaFdrTTAwVzFlR1E?oc=5",
-      "published": "2026-09-27T10:49:36+00:00",
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "summary": "South Africa reels from spate of mass shootings that killed 38 people in a week NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWktvMkVRUVFLaTNxTGFpQUdiM2tzT3lVZDBJOXpjSzBWNFAzOWdtVzU2eGEzdnNTYnNEeHdMMkZ4bmpLUWVlamdoYVE4dWpDd2tUYnlIdGR1TWVmWDFTckxLOU9IN1NLaDRlUVllOFZ1aEY0SmV4NVNzWDNfcHpRY01RTkQ5YXQ2TjJ6ZXpjcHg?oc=5",
+      "published": "2026-09-27T13:01:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Sunday Puzzle: So-so",
+      "summary": "Sunday Puzzle: So-so NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEVkkyZjFoRUMzblFXVUw3SzJXSGZ2QWs4aWpzdTA5YlotMHkwWE9mWHlocUNSWlhtcXY0YnpzYWdUclhZOHlzOVdaWnlaYnhEdTlGWkVfenRfZTZGR2JuanRrbUVpSVJSNzFKXzBXZw?oc=5",
+      "published": "2026-09-27T12:46:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Facing a barrage of Republican anti-trans ads, some Democrats are changing how they respond",
+      "summary": "Facing a barrage of Republican anti-trans ads, some Democrats are changing how they respond CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmZ5TE44d0ttZVpyeHc5S1NxUTNNWWNxN0gwaFpnemVMWC1hWi1TaG40TGZCbm8wZWJZcEZZYWF0Z3NaV2J6UVdWbkRhcXhtQ0pIbnplbzdWTHFHUTRMNWEzWFZyTVdoUjVlazlLSHdLekEtejhpeXcxNXlsRjNWX0ZkQ1pnai1yM1E?oc=5",
+      "published": "2026-09-27T12:00:29+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+      "summary": "Playing 'La Bamba' for an hour? Must be a Mexican fandango! NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15QWl2S29BM0lqWXlMMFBqYndxVzQtNlNaa0M0dWFCd2dQUkZWcTdfNU5BQUtEOUFPZV9WRDhQUkNZVEtyTmlFcDZSU1gtZXpOXzdZVVpMM0NoOTI0dDV5T21lRGMzRlFSTjFjUVI2QkFBakpZSlZZRA?oc=5",
+      "published": "2026-09-27T12:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,25 +128,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "These Democrats are running for Congress on Christian faith. Will it pay off?",
-      "summary": "These Democrats are running for Congress on Christian faith. Will it pay off? NPR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGtXNnc0TmJUMlA3QmpxUjFxQXNpTEY3RFhId2dmSG5pd1NkY2ZhTTdhcE1NQXJwLVRwQU51cGd0eW1UWTk4UnlJdnItbWJ6R1Q4c1Z4WW84dGE4aEpQNXRIZFBGd2pSMUxOMTVjOFFYY3lIYzRzcmJQMzJ5SDhaNkl1ZmZkejFxcXczc0s2bTU5MjQ0ck9MTzk3UXlwTHN6U0JzczRZYlVhZk9KWnhyLXpKNHdmczFLTU56eg?oc=5",
-      "published": "2026-09-27T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Police declare major incident at UK's Fairford air base used by U.S. forces",
-      "summary": "Police declare major incident at UK's Fairford air base used by U.S. forces CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHI5TXNGWFZCdEpwTHpLTzJUTXdrYlJra1NXV25qOXVrVm1Kb2h2UHltUFVDXzZqSDdxS2lQUHc0Y1NTVW5fUi1rbHBwdlNEOUZJWl9ORWdlNkRwb2NTUzdtaVpmcUJVRHdPUWVROWNwS1BnVkVjcmI5LTBRbTZ0d2ItUlpEc0t5VFh3OFB6V2JscF8tUG5pcXIwX0JxZ2ZE0gGmAUFVX3lxTE9YbHBmTDhyaW5sYnVUZ1NLcUVXVlhQa3BIQWxNUEEyMUxGZDFmRk1SOE5mSGptZEIzRlBVdWdBSWxnMHZOUlVvUXhLTU1IdWl2M3QzeUVKTlFFYWlMNTBuTHR3aTR2eFpMRFVlb2FQbUdlLUEycjRSS014dDlvYXYzcG5nVmpkaG53TTU1Y2dIaFJqdURlWWZXOWE4UHNMaU1nQzZLcFE?oc=5",
-      "published": "2026-09-27T09:26:39+00:00",
+      "title": "The most powerful rocket ever built is on the verge of its biggest — and riskiest — test yet",
+      "summary": "The most powerful rocket ever built is on the verge of its biggest — and riskiest — test yet CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaHpFUXhJVWk5S250Wkw3S1pRemY4T2Q0NTVkVS0wNk9sT1U0V0RaWFZqSUk4NFlXalViYWJ0TzdHaHVUY3ZsbXhFZUpZbjZLUTg0dDN6ZDJtTG1ZUjY0ejRPS2g3R0ZwYThGY3hzbE1XeFNPTFBobw?oc=5",
+      "published": "2026-09-27T10:30:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,46 +143,22 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Why Won’t My Co-Workers Acknowledge My Birthday?",
-      "summary": "Why Won’t My Co-Workers Acknowledge My Birthday? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQQmw4SkJaUGRqZnNTMVpvMnJqSUhobWg4aDFkZUFUbHZZVXVqVTY0RlVMdXhLbE1ja2k3XzMyNnlIT2VUNV92MnlHSmUxeUdYakxXVHJ1VXkwX0xJYXhFWDVDbUlndVBVaXA4?oc=5",
-      "published": "2026-09-27T09:01:43+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘SNL’ pokes fun at Trump and Mamdani’s relationship | CNN Business",
-      "summary": "‘SNL’ pokes fun at Trump and Mamdani’s relationship | CNN Business CNN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVdUZ1MyX05sVEEzNkxyRHo1UmdKQ0hBWHhJbjE3SXpPc0czY2c0eUlreFlXc2tacVFGVzBPdDdSbDNTbVRrdEV0MV9kZ09yU2ZPYVhUaUtCVnFINUgzNlV6NFBjSVJUZkI2NEhoREl6UmdjZFBlVG1HUVB4Z04xREw2MkhQN3c3VDNpanc1VnF4d1M5el83ZDk0UkV5dkh3T1VCUw?oc=5",
-      "published": "2026-09-27T08:56:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5",
-      "published": "2026-09-27T07:13:12+00:00",
+      "title": "Opinion | The Mean Girls Presidency",
+      "summary": "Opinion | The Mean Girls Presidency The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2tqNy1vMjgtNk5MUHZUTEhtdmMxUnZFbTZDM1FQTllOelNXbWNmaVFtX0xhb0wzbjNTTWhqamVfTlk1UVBxeDJMLVdqNWRXamxtRWNpeXBqUm5hTF9HaEVsWnp4eXQ0RkFkdE1WMTBVZW40c0dzTUtYcG1LUmxEMHpTV0FpaGNHYWdNWWZTOA?oc=5",
+      "published": "2026-09-27T10:00:14+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "South Africa police hunt suspects after twin shootings leave nearly 30 people dead",
-      "summary": "South Africa police hunt suspects after twin shootings leave nearly 30 people dead CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbU0yQWVXakpuQm5uY3hKQ2VhTk9fRFFuWW14RE9WaFprLWt0eWZFZEVEZlJMN3hfTFUwLTAwODlqT2dQVjVmYVVrUVNnOXZveVpKY1RuLTVLQXVQTHJLNUZwTFh2VS05VjFIQmpfMWlNNEt2UzFPZ3Y5R09ZMW45ZQ?oc=5",
-      "published": "2026-09-27T06:06:55+00:00",
+      "title": "Separate mass shootings in South Africa townships leave at least 27 people dead",
+      "summary": "Separate mass shootings in South Africa townships leave at least 27 people dead NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNS0ySHZZbWtPdzJBZEhHLS00bU9GQU9aeUFncEV1UElZVl9iOUlXQXlWZDA1NlFnVmNlcVZpV2FXSl9CSzFiWVR3Q05GNXNnQ09wOFNZcFg3Q3J0MGFFWVFuY0JJeGhpUFpLTkJCSEVvN3QtelFWeFBKVjFqYW54Z3NmbFlaMC1TNVlDVV9DOEdjVmZjRWMzVlN1MVlIaENLdkJycG5TUlB0Rzc3X0NYN2tvZ2h2QTRYT2c?oc=5",
+      "published": "2026-09-27T09:47:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -167,6 +203,18 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
+      "title": "Gay Halloween, Spice Girls & Survivor's newest LGBTQ+ star: 10 things we're obsessed with this week",
+      "summary": "Gay Halloween, Spice Girls & Survivor's newest LGBTQ+ star: 10 things we're obsessed with this week queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMFlWRkNvS1g2ek9ZWTI4cV9PT3BkWlRwVjRDcF9nb0hwMWFsRmlpTG1MZ1NneFdFT2duX0l5V2l1RHhNRWtuVnNCbmxuTlBvTHJ5TFFwbkV4UHlNRjM2TGszdFJiYVBxV3doMmd5OG9ucTVpS2E4TVZUTjMzWGZpWGVldlVuN1l6TkR2RzVtWTFTbVIxOUk0V1RkRzk4LU1jTDJPaHc5enptMVF5YjZzMkhReDR3OWZELThGTi1lQi1qY0NE?oc=5",
+      "published": "2026-09-26T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
       "title": "Ryan Cleary’s shake, Princess Poppy’s body, & Heath Thorpe’s party",
       "summary": "Ryan Cleary’s shake, Princess Poppy’s body, & Heath Thorpe’s party queerty.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2ZVbmpRS0J4ZXdVc1NvOF93WDJqUGoyNlBxMFFpaGNleFh5YS1GQXEydDI5aTFvQnNlcU9Ibk1pOXhRcmEwOFVsczQ5Z2tnbEdROG44QlhFZlBKYkFPOXZFRjB0b2ZMZ1BacjYwMW9QQk1zR3dVVjlRekVHX1h3S2NqbmJKQkxBVVc0LUFETzJybEs4ZlUwdA?oc=5",
@@ -188,6 +236,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "When the Weed Wars Came to Warren Street",
+      "summary": "When the Weed Wars Came to Warren Street The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclNHZzJPd2s4dk5RbU1DWnVDZEFnSlhDRm9KY0RyY3licXJLeTdLM3dmYVk3X3I1Tmo0d2NOVzVjd3k5bEdCdkhIZURqTExGSGlJcUlISFgyWTJGMU4zcVpCNDR1TEJmeTZER0lObGdlMFJwdWYzekRHSk1iU0kydXpObw?oc=5",
+      "published": "2026-09-26T15:18:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -195,30 +255,6 @@
       "summary": "First papal visit to France in almost 2 decades attracts hundreds of thousands of worshipers for Mass CBS News",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTERPLXVLalJZUENPMFpKZjVSbDdtemphX0FKcnZ1dW9jTmxIN3lEUGVXLTNJZEFPbEVjQmxXdlF5VFYxMFFCZElrbld0SjFNLVZvc3Zwc2ZiZk1FWHZZWWkzNDRPTVU3a1N1YnptNA?oc=5",
       "published": "2026-09-26T14:51:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pope Leo draws vast crowds in Paris, warns of AI ‘paradise of machines’",
-      "summary": "Pope Leo draws vast crowds in Paris, warns of AI ‘paradise of machines’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXZ2NHUxRjQ4ZlJFZ1R5WXVJUWxQdDVITGtGTmNhTFpZcXJQY2xjV1c5bjNDQWRjR3JjVzlYdzEzT19ZLW5kSFpkTWVXdU5HcVY5Y3hNSGJnTXFrT3laZi1SQkttNXptQmk2OEI0ZkNPcTFkZEM1NENSOFMyeTdMRHlYaWRCZVhTa0hMUk5FbUhxODcwV3d5Z2x0dERidE5WTDVQM1dMeUdfVUpUTkszVmtuZw?oc=5",
-      "published": "2026-09-26T14:49:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
-      "summary": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wVVZsVFBzN201TXUydUFKQ2NDbGhvTXFDOWlyMVA2UXhrbm9BdkpoR04wNGx1NTR0bU55YzluZUd3VDFhclZuTnpWeXcxMEhfNmNYWFFTRGR5djZoM1dWMnJtSHBYU1Qtbi03ZDBwX2dyb0RSeE1aTlBsNDM?oc=5",
-      "published": "2026-09-26T11:38:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -233,43 +269,6 @@
       "published": "2026-09-26T08:52:35+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress",
-      "summary": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHctNEt4RHVjYXREeERXb3gzRDlaUkpxd3ZLN2FuWXgtWVNiVWJxU2NReUZTWU93U1JxYkpza2RvMWtQOW9lbVI0bkpPcloyVFZZR3JuRU5EOE9udjdNZ0I5bVNETGFHeWtBWk9lV1oxVS1hVDlXRHlsRkJBOUVxQks3VEV3SnpNeGdnaXFnSXdCOTZKSjUwaF9zNTJvS2NmVC0zNQ?oc=5",
-      "published": "2026-09-26T01:05:34+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "What’s the best gay sex scene you’ve ever seen & why?",
-      "summary": "What’s the best gay sex scene you’ve ever seen & why? queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFMxMHkwZER1SXE2N3A3VEYtanJURHlqTTZ2V0swNkVud05MakNRWXBoZ0diUUxkeWRPQTNxRlZEOENYQXFRYV9yN2RVQnJFcFprVUpWNnVTRlhkWF85ZlQxRl9SOUp6QmV6LVFrdDAwc1NhRHR6ZENrZkROd1NSdjYzS24?oc=5",
-      "published": "2026-09-26T01:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Gas, mortgage rates and inflation send Americans’ view of the economy to near record lows",
-      "summary": "Gas, mortgage rates and inflation send Americans’ view of the economy to near record lows NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHhpQU9RMzhBTGVQRHRUX0g2XzNoZjhXLVNtQjEzeG4temJpdTRHdlVOTDNYbjdyaWdMVExOaGVqXzJoSmI2NzYyaGppSHVkT1VpQzVOMko0cHhmMHNveWVxZ0FNRFM0dFBfNnZWdTVqWHIyaU5BZ3ZWdlZYekxpRWFzcjNsWGgzWkpvMENycWxrUQ?oc=5",
-      "published": "2026-09-26T00:44:00+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -310,15 +309,14 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Ketanji Brown Jackson warns the Supreme Court puts eligible voters at risk in pro-Trump ruling",
-      "summary": "Ketanji Brown Jackson warns the Supreme Court puts eligible voters at risk in pro-Trump ruling Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWo0TTRTQXppZk1lYW5MTHJtbVg5bk5KUXozOUlvNFI4ZTRNdHo2NEZHNDUyOGVjdDhkenNPeVRJVU5LNzdXQnNoTVQydkNFWGtoejZHZUkxX2d0cmJoX3FsUVY3TUFpOElXS2pxWWFWT1hZbDJmMDQwV0lnUkRCTWRKZk12QQ?oc=5",
-      "published": "2026-09-25T20:21:44+00:00",
+      "title": "\"Disappointed and ashamed\": LGBTQ+ & ally groups slam Dem Rep. Marcy Kaptur’s anti-trans ads",
+      "summary": "\"Disappointed and ashamed\": LGBTQ+ & ally groups slam Dem Rep. Marcy Kaptur’s anti-trans ads LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTBreDdLUEZvZS10Z25QTWdVc0xldkFyQnFwb2xONl9xbnluTkVkbzdVb093V3pKT2JyS09CR0k2LWh0dk5OOF93cWVQRl9Hd3ZsQVhaV3djaXJibEl2WGllTW82d2VQXzhrN05uZE4zMG9zbk9tTmlQVVE4MnhSaVJPTmNfc2kwOGRvX0d1d3JuQXpSLUVQM292Mk5Qd1pyUk94ejZfVUt6UGxCU0E2RjhJZTB5TlFYQ1JlRkVB?oc=5",
+      "published": "2026-09-25T21:00:00+00:00",
       "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     },
