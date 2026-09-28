@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:53:46.631667+00:00",
+  "updated_at": "2026-09-28T08:22:11.686665+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,85 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+      "summary": "Eviction of 87-year-old sparks protests in Madrid over housing crisis NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazBoOEtvYjlGdWdzRkZMbl9jeXpVUE53TkxiajM0ZHg4YkRMVkVRRXJxZU9GalBPU1o0UjhHTFlHRW16YTRpZ2pFcGlrM1ljcWlSdTlmV1hNQzkzU0tLb2o0VElnSWZLZWtTcXkyNEZ2enZVbkhmblo3ekMtZDAxdm9pRFg5ei12WmUya2tB?oc=5",
+      "published": "2026-09-28T07:20:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "AEW wrestling star Benjamin Satterley, known as Pac, dies at 40",
+      "summary": "AEW wrestling star Benjamin Satterley, known as Pac, dies at 40 CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhTi0tWEotaml6eFFlOUZLemVGb0xtSzFTUy01d0x0M0lxbkN0RmJyczZCWHRFeElJTkVRZTJZdDdPZng1Q01wY05mSlJoQ2YzSGxJU1N3TVFQNzdobWRmd21YdU8xcEVjT3p2Z3ZmWW91cFlITTN5bQ?oc=5",
+      "published": "2026-09-28T06:08:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The newest pandas in the US have arrived in Atlanta. What we know about Ping Ping and Fu Shuang",
+      "summary": "The newest pandas in the US have arrived in Atlanta. What we know about Ping Ping and Fu Shuang CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMnAwQXVMOXM5M2xOQjU2S2ZZMXVHbHlnOW1RU0V2b29WcDZ6TEIyNUxLcmIyRXdqNmJDb1ZkbzNJTUd1YzVNdlg0aGMtMm1kMzd6MGhmRGtHd1FJa0ZDb2wtVE9rR0xlNlFfN1FpcDhKOHhEMTdUR0VZeGhqejA?oc=5",
+      "published": "2026-09-28T06:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump stirs new storm by posing as strongman in taxpayer-funded video",
+      "summary": "Trump stirs new storm by posing as strongman in taxpayer-funded video CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnU5TTRQTFJZd0tWNy05UGxzZ0lSRmktWnhoSHNBb1AwWXFpdTRyS1dSanNhMERaQXNVRWZ3UVhGYVNVelBZcFpxenJpaF85aGJ2c2pqc2pTQ09XUEtUYm5XVFg3Y3ZoU0F1TlBEZHA3WDZ6LVVBVzRqXzZ6Y3ZldUtqak9LYkxrdFJTaFI2b0E?oc=5",
+      "published": "2026-09-28T04:01:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: The art of the deal-ish",
-      "summary": "CNBC Daily Open: The art of the deal-ish CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazg2SzB5ck9MemRhRGg5cUotcGVkaDJFSkxsUVk5M3M0YlFIUWlOSHE0c2FUc0MwclkxTUFLVlZmV2FSQjQxUENSSzhNbTlpY0lCVTdpRnc4cTJqMDRMT3lCT1R6YmczOFVEWjVlamplZlh4UExGMzM0Q1RPYTVTaHFB0gGHAUFVX3lxTE16MENJQTZNTDJaTnAwNlIxT3BsWGxWUU11U1BhQkdlNmszTFVzekNqY0RsdFFHaFNUM0hkTEFtMmpLbDdoR2RObUl5cDNwTERraEwtZndKUV83a19vUW1SUU5ZenY2d21MTFY3TUQ1N0lDQVhZLWVlTVA5S0VHR081dWgtWVFjOA?oc=5",
-      "published": "2026-09-28T01:11:00+00:00",
+      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+      "summary": "SpaceX prepares to send Starship rocket to orbit for first time cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2RkMkI4ZlBkTUhDYWZkZVBWa0M1c2JVZ2NMS1FuMkhqa3RjSERxMi1XWXNLUkNJZTNJaUMzZ2hJbWtGV19ES1RJazJ2YlVLTGpGQnpEcFFPaENXeUdyUVZZUlJkT1hJUWVISjhHQW5wb0JueUR3QjJoS3dXS3lBeUktQTAzLWN6TGd6VjVIem9EZ1IwekdLaUtHNFJtNHhkclHSAacBQVVfeXFMTy1yTXk1Qk0wcEZ2QnhELWJQOVZtaEZFUHozUFd6TnNqNjFmNTVaNW1qRk41Yi1GeW8tZXhXMnlhZjVUQWFsSzJPZEVvNUtONjQxVTlsRkItbUI3aHVtVUtsdl9QbWJxSWxKd3FYcGhNR3Fkb3JtZTFxNXpRaGlHRTJZdGlwbE5CNzF5bkZmbjcxSlN5LUNqNVJYZ1Fvc3NhUzNaN1U3cWs?oc=5",
+      "published": "2026-09-28T04:01:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+      "summary": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjFhWkpHUTlER1lydFhVSkoyUFdackc4R3p6N3FXcWo0X1JxMFdCcXFhWFJHMzFzVGtMS01JS285dE5rUW4yeWc3MkNuWTVFeUw1elJOaFlTZFcxZ2lsSkljcFY3ZG14Q2JUQThoNVdiU1hWM2FvN0xwcUZSY1cxeDYwRGtFTWh0TE5qX3B30gGTAUFVX3lxTE5ST0Y5T3lhYW9lMk0yaklxTDNMZTlEVW1YZ29OZ0U3a2FtLTc0SnhWdmlKa2Z4VHdsVnFzQXBwU0ZUYVZkX3BpMlBkRmNYai01elQycWs5RV9keTNfNy1YZnNWQjd2cTRNYURrWjQtaUp5NU1rWG5Hb3ZoM1VmMW9SRlFsX0YzblZmZG5md0QzR1B1WQ?oc=5",
+      "published": "2026-09-28T02:49:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "summary": "China posts weakest industrial profit growth this year, expanding 4.2% in August cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUtrM3NvQksyb1liLUJJRi1QNG5LSzhGdEV1OUhQYmFTdHFlMTExOTl3MHF0RG0zUHNMUjBpd1ZYQ0R0bEUtWjF0NmRQYmtvb2s3NnBDWW84a0V2Nm4yTFM1SmtvTU1XQVdtUDRQanhGaTViZmdEZl9UakZiVWNid2FBQ0xNNGNfTEdtd1FGazJmaVc3TFR0aHZ4Zjd1cGZOVWludjZFQlhIUm9CSi1rYlhqblZGbGxFYm4yYVNfNzFKRFY5TVE?oc=5",
+      "published": "2026-09-28T01:40:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,73 +116,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-      "summary": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iS25pUWtaQlhIVkNyU2oyYjg1enVuSE9EV3VvR1RnM1NkeUFBTzNoZW1WZDhkTERTQm5WZmUyYkxMczhLLUVXaExhMEhyc3RCcHlxZHMxNk5JSjNJamZmSklPTXVHWWhwVE80YWR2Y3ZZS0FKakFTQzhGQWhmd9IBgwFBVV95cUxPRkh5X0phRnhfLXYzbGtUbXU2UTA0UVowTU5hTzZKNzJEZHZ2SUZXb1VwSUR5M2lwU0x4Qk9EUU9XeW9pREVrdmRMZjVRZXM1MWZ1NFR0d2xaS0Vzc3dWUnQzVWFfUUE2WTdDcC0xSzZETm1VZ0w0N2pCQjJvbXFjLV9UNA?oc=5",
-      "published": "2026-09-27T23:58:57+00:00",
+      "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways",
+      "summary": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmhabDZfN1ZHQXprdWJ4QThjNFVRWTU3ODlmakJmcy1iVGpZakJpMGZULVhSaWZod29QaXdtNTkwTXV1T3lWVm1GTTk5Q2hZRG5CLW1DYTVheGt4ZnF5cnIxamlsaE1WeGlZV0pxTWxPZ3NLWEgzMGlERlc4WFJoa0h6enN1dUQ1dTdYaHZTOER2SU1uUUFTazNtNW5hdGJkYVJ5MjduZ1dkWEFEQ3BuVHVMZkozM3lySHZIbg?oc=5",
+      "published": "2026-09-27T21:57:53+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer",
-      "summary": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX25yelIxbEVpNDZHTlpBSWluejFESTQ0TzNkQXBTcE9taU4xVlZEN1FndUVUenJBNTBkT1ZwY0laRzVTSkp6UXVrTDY3Y1Jra0hhS3I0Z0hWLWJDNUFmSzhnbzZmdFdQTUplUXI3Mk5VN3BuU2JULW9OekJWU1dESVlvUQ?oc=5",
-      "published": "2026-09-27T22:52:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
-      "summary": "Five arrested near UK air base used by U.S. bombers in Iran war NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjgtSVd2TTBLbE1VbFBMekcxblNzcVpQejNXSlRHTk0ydHlsUm14Sjk1bUVKSnZhTGp2R2w1c2dqbC1GTG1OcUhCUnhwSWFRTnVlUEhQZEZQZUZQVG5XVHZOdndDSWgzaW5NSEljNDNISjItSk90MkcyQ1h6eTVsTXFzUjRHVVg1ZHNtYU9yTlZkcWZZOFdrV25aUzNKX1ZtYktCT1hjejRtNjA?oc=5",
-      "published": "2026-09-27T21:14:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Blanche says ‘one-sided news’ is a national security issue worthy of barring press",
-      "summary": "Blanche says ‘one-sided news’ is a national security issue worthy of barring press CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMkRBQW9QT1BlZDB1ekhZa0J3elNLS1hGNHlkRUhoeC1PSTdFNEFQb1Z5RWpFWlk1ZnJoMFNDZVg0MEJGWlRpUHZxTVhXekRlejY0UnhzZWJhUHhHTDBBQlVncVhndHc0NWdFUkNFak9wYV9jZmNkNDlnYXI2NjA?oc=5",
-      "published": "2026-09-27T19:54:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-      "summary": "Anthropic CEO Amodei set to meet with Trump after missing state dinner CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbE5Yb3J6V1pEWDhyWlBfRW9KdFFUT0MyNGQ5Q1lUMFdnNENFNE42aExZSzdSX3ZoT3RmSWwyNVFxWGlQUWZWZkN3a1F4SV9oSTdLeFcyWDRYV3FYVnljQlN2X0djekxpWW1lQ2Y4bW1PcVQxb1VYYnlmUFJKUnFKZWV6S3lCR0RHejdvRDJWc0RMbUttZGMta19kMHRQeFc4WkpGNjhqZEtOUdIBrwFBVV95cUxNOHNSX05TWlVVUmxEMUl5Ml8zSFZFSEFSeFRtYU5McTVfQm9pOGRKczE5T0xPaTRMdTZseHE1azJtYTh2bWtMaHJUZHBJcV9ZYjl2MmZLeGh0WE1CUUlxZG9HcmdISmRHcjN1OEZMSE9XNGg2Yk0ySFBKMzBYZWJNdnItTkQ1XzR2bU1jRUx2eGpkNDJ1SDItTm9FNFRES3pHLUZoX1ZRZXhmMjBjdm53?oc=5",
-      "published": "2026-09-27T19:10:34+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "White House airs another government-funded ad, this time with Trump warning of ‘final battle’",
-      "summary": "White House airs another government-funded ad, this time with Trump warning of ‘final battle’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVBacDNSTEsxemZPY1NtZ2FoREZBZXpMV0c4RU9PVTZmSmtpRWtvQmlSRXZGbEZfYmNYQWtOSGYzMzZjbGMtd1pucFRJeS1zWW4zaW50alFBLWF4YnAxZm9RUFJKRHQ0ajBKYUZ5aEw2YmpXOGpIV1VEVGZNRjlmc1MtZ2s?oc=5",
-      "published": "2026-09-27T16:37:47+00:00",
+      "title": "Dee Brock, Who Created the Dallas Cowboys Cheerleaders, Dies at 96",
+      "summary": "Dee Brock, Who Created the Dallas Cowboys Cheerleaders, Dies at 96 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53dWRUQTJqbjk5OWxkTk1uOFA0Y1dneDdzRm1YZF9HNW1rQU9UMGYxNUtGa09CZWNLQ1VOSHRCN3Z3ZFl6YktGWDhYWVV6aUw5SlBrdFFGa0hLeF9rY1M4NmE5RFVaOV81?oc=5",
+      "published": "2026-09-27T17:41:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -168,24 +192,13 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "summary": "South Africa reels from spate of mass shootings that killed 38 people in a week NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWktvMkVRUVFLaTNxTGFpQUdiM2tzT3lVZDBJOXpjSzBWNFAzOWdtVzU2eGEzdnNTYnNEeHdMMkZ4bmpLUWVlamdoYVE4dWpDd2tUYnlIdGR1TWVmWDFTckxLOU9IN1NLaDRlUVllOFZ1aEY0SmV4NVNzWDNfcHpRY01RTkQ5YXQ2TjJ6ZXpjcHg?oc=5",
-      "published": "2026-09-27T13:01:27+00:00",
+      "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+      "summary": "As Congress debates college sports, athletes-turned-senators have a seat at the table NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1JhanUya2hfaWxHU2o0R25MRWk5NlE0aFhhR3ZDNWFfdWhzbl91S3pORHVrZnRWUFNNMnVZdnE3ZjBuVThsdEJDSm1HdVhRWnJOWmJPRUdFVGhmcFNCTEtjN3lDb29hUzB0eG1xNGY1UGo2LU53QmNSMVVqUlhjZXNQVVQ1U1dUWWlzbUdvbmJYcTQ?oc=5",
+      "published": "2026-09-27T12:06:24+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | The Id, the Ego and the Superintelligence",
-      "summary": "Opinion | The Id, the Ego and the Superintelligence The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORU92RC1PcTZ4ZEdfZ0p1UkthNW51dUVrQzdfZVc0eHVaTDh2U3o2VWZ5ZEtKM0ZON1VKcXNaRWJ6YnNQUlJKQXB5a2xwcXlpeE10azB6dVRQVnNHOHpzeDVMa2xia1FQNERLM09QZWg3QzBSR3pvZXFPNWNlWmVjQmN2ZVB6UQ?oc=5",
-      "published": "2026-09-27T13:00:05+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -196,6 +209,18 @@
       "summary": "Swiss voters set to reject tighter neutrality rules that would curb NATO cooperation NBC News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnZNUWtVaUVIZ3dZM2xBekh4OHByUjhBS3gzUGJ1VXM0X3BwWElpVEp5TjRXSGpBYWZrLVdCcW53a282aFcxblpKYjRZZFRFc2VoT2hKUFZCNEw1T2NpQVA0YzAxT2JCakczcmtXRDlIX1p3bV9FTngtdldaWkF3Qkd4TFdIdUNRRURwMTJkR2RwUzV5MjhJWUl0aXR6U0J1WW9uby1tNS1Ic2J2bjZ1bENvOC1DZUdpS3c?oc=5",
       "published": "2026-09-27T11:17:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "At least 1 dead as powerful, slow-moving nor'easter causes flooding, power outages to NYC, Long Island, New Jersey",
+      "summary": "At least 1 dead as powerful, slow-moving nor'easter causes flooding, power outages to NYC, Long Island, New Jersey CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYndVaVFiU09PWUo3SVlmbEQ4U0JrUDlqaHVQUE5nZ09CdXR6Q2h4MHN2X1Y2RWpYSlFnNWlJZUFXRGx1MkQ5WFFXa2ZIMHhsRmVrM2JSM0MwcVp2UUdvQ2ltQ1d6UGtfSEJWN1p5M29wbjMzc3lWX25EQnlLRkkzRktWeWdVYzFDc1Z1NA?oc=5",
+      "published": "2026-09-27T10:22:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -285,30 +310,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Trump says he has rejected Iranian proposal to reopen Strait of Hormuz",
-      "summary": "Trump says he has rejected Iranian proposal to reopen Strait of Hormuz NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHo1SzFjTnJGYkExZzNTRklIMGdSSk9HZEw1MW1nOHpKZFQ2QkV4Ti1BdzBlSnJ6ZFg0T2tIcWx6cm5xU3NQRkF1UkFIQWN3MnQ3ZE1kclBMWHE1UjVQZ21RZ21VZnNyYWhnU3BPTkJBcmxjN0tWWm9xS3VJYzZieVZkNUtrV2YtMGFaYXR2WHl3QWlNdVJIR2R4aERVTHZTUVYyWkh6VnY?oc=5",
-      "published": "2026-09-26T16:10:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "First papal visit to France in almost 2 decades attracts hundreds of thousands of worshipers for Mass",
-      "summary": "First papal visit to France in almost 2 decades attracts hundreds of thousands of worshipers for Mass CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTERPLXVLalJZUENPMFpKZjVSbDdtemphX0FKcnZ1dW9jTmxIN3lEUGVXLTNJZEFPbEVjQmxXdlF5VFYxMFFCZElrbld0SjFNLVZvc3Zwc2ZiZk1FWHZZWWkzNDRPTVU3a1N1YnptNA?oc=5",
-      "published": "2026-09-26T14:51:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -338,7 +339,7 @@
       "source_feed": "Education Week",
       "lane": "General",
       "title": "Better Tools, Not More: What Educators Say About Teaching and Technology",
-      "summary": "Better Tools, Not More: What Educators Say About Teaching and Technology edweek.org",
+      "summary": "Better Tools, Not More: What Educators Say About Teaching and Technology Education Week",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejRmMldGUDM2a0p6bXNLOVRqb2QzX2w1MkxKMGU3eTZCWTZPTzVZYUdUdFQ3NGl2Yk1PVmZSVVAtOGZmWXYxNzQ0LUVMYi1iTGhacHJJSWw0cFY5R2pJVXZWNGpuZ1UxRklMUzBveVdFamtzLXdaOFBTbUpsV0c0NDF2WGc3Zl94dFdPYlFWdFA3SXRfMVJnSU9iZ2laUXVNbHJoci1kc0hLS0VH?oc=5",
       "published": "2026-09-25T20:19:33+00:00",
       "beats": [
