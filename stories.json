@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:54:05.341422+00:00",
+  "updated_at": "2026-09-30T04:32:58.616590+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,85 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
+      "summary": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnUxanFiN2QyTHRmMkpwTmFtZnBsYWR3a0hvdS1XczlaMVk3SmxmYUlpck5EOHlIWkF1dnJ3cU0xR3c0R3FFcVdONXV6UXJrZVpBVmhEeklxOVd2Q05fNHhoZThTdkY1dDZ0OGlNMGxtY3NiMXE5ek5oVno3N2QxYnBzVUp6VHRNdXFFa2p5bjI1OHNjYnpwZTJn0gGfAUFVX3lxTFBSdXZ1blBLLVdTTzBpZk9vaDlXclE4M29XMW93OGdfMTc3U1VfMmMzVmpJTW03MUc1bjF0Z2ZNcXVYZVZmeUtqMUFMWmkwTU02bG0wX2RDMFJKQkhySHRFM2JYYXpnQlNuak9IMF9mdFp2WXpwa1JreGNQbzBoeEcwX2NUaWJ3Tk9EODNVWG84b0J4WjlTeXFqTTJRT2ZRaw?oc=5",
+      "published": "2026-09-30T02:37:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Markets are wide awake as September ends",
+      "summary": "CNBC Daily Open: Markets are wide awake as September ends cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmtNWVdqd05iNW02VTgzVTlqcWdySGVWU1Uzby1BUmRzcENwVXk3ekxMRWFOVngtcFlwTFRxcVJKMDg3d0g3em9KcDBRMVkxdDNfa0J0UnVXNjFXYUkzMHNENkg0TGVnZ01RaE9FV2ZRYmJSMDRUOFZRTWtLMGpHQnIyVE1Ua1pzVFIzdjF6ejFhSGU0REZKaNIBngFBVV95cUxQQ3g5cURiLVlwaTJJUndzbWhIRTNRcXhSTEhiY2FSZGRtemVQLW1mR0ctOGZDdXZKdV9FQ2Z0enRmRDBlaVVWQ2l4NmFsdDZFdHYwN0ZzQS1FbXpjcXJZOE1iY0J6cm5wNnNhaFllMXhHcjNDZHRDWUpZZUxvQUFid1VHOTNEeHE3dmJpRWlMckcxZlFmOF9CU2ZKd1piQQ?oc=5",
+      "published": "2026-09-30T02:00:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Lindsay Clancy’s attorney said prosecutors did not prove she actually killed her children",
-      "summary": "Lindsay Clancy’s attorney said prosecutors did not prove she actually killed her children CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90SEtkQkhaQVlPMEptNncyY2phNW1Ic3B1VkpJVlhoRjFnQ1RhazZIdkdTM05POXFONXpaVFRPOFZwcTloR21RVU5xRmtIVURQVHgzS1c5RC02VlVUR0MxMVB6OE83MkQ4UW9FTENiOXkxeF93VlhQcTFlY1U?oc=5",
-      "published": "2026-09-29T22:18:46+00:00",
+      "title": "DNA analysis suggests 99.96% chance that Thomas Jefferson fathered at least one of Sally Hemings’ kids",
+      "summary": "DNA analysis suggests 99.96% chance that Thomas Jefferson fathered at least one of Sally Hemings’ kids CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnpXQ3JkQ20zUW9tVFI3cVFkbGVBbWFRLXRTemlLV3plZ1VKNHVlbExqRTVZeG40NEYxWTR0TUhXeXEya3doZUdxbkItSTdtZzUxZ1dsYXJvdVpTZ0tCR2ZFVjhsSFVzX0gxeno4NTZ4em04QzBPTS1ycFZvbEI3ZmJOeWFtRnlSbmlqVzBRb1U?oc=5",
+      "published": "2026-09-30T01:12:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump’s blasé attitude toward AI risks backfiring politically",
+      "summary": "Trump’s blasé attitude toward AI risks backfiring politically CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU21hVVZ0a00wclFTYmJsSEZpUmVFcm1vd2xKeUc0Y19aM0l6YnVCME1hUElhUE55SUwtOG5aVzN6ZC1YYXdIWkRvSVY5UkxQd3lWMDVvTWRhdDFNSl9ubGpUVHRNZWZEbE1TNTZqNE5idkZvb2VJOXg1ZElNZ2FJUw?oc=5",
+      "published": "2026-09-30T00:35:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "GOP senator airballs perjury claim against Jack Smith over apparent Hawks/Hawkeyes mix-up",
+      "summary": "GOP senator airballs perjury claim against Jack Smith over apparent Hawks/Hawkeyes mix-up NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmJtUGxfc2w2NG82aU1xNUhjX0VPSGtzakhBdG1oWnVqRXJ2alBTWGt1c2RvUWd4N2xEZTJ1RnNVbTN3b2plZEw2TE56U0RhYk1BQWFkZTFZN0lOR25tYWllWGhHTUhNZ1lBdmJjSGdvWk15R0h6VmVlcEc4MW1jOWdfbEdoTGJiRlctQTBIMlBELTRhNDloQTVNRkJrQXBYN0J1QWFn?oc=5",
+      "published": "2026-09-29T23:36:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "New details on GOP Senator’s basketball blunder, attack on Jack Smith",
+      "summary": "New details on GOP Senator’s basketball blunder, attack on Jack Smith CNN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHNGS3Y4Q2dyZ0h0YXp1Yjk0TV9aNlhsLTBDcG5GSWM2Tzd1UTJyYWdJb1lDM2tQWmRvV0JDVk5BZVBkcW5KVVlkQ1U1TU9qdEt1dV9ubWJCTmxjZFROQmF5VGROUzN3d00xUU5YRDlUdFN5OVBwOExabURYSC1DUnBfZ19odlVocV9HWXZPZzdFbFA3UHhscU5nY053dXZ6VEVNbThtdjV4VWRkMHU4dTFIdw?oc=5",
+      "published": "2026-09-29T23:24:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump lawyers lose bid to pause sanctions in IRS lawsuit case",
+      "summary": "Trump lawyers lose bid to pause sanctions in IRS lawsuit case cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXpFeWJ3VnRVcDUzd3BzZUtHVFhfdk1zUXJZY21FOXlZMWEwZnkwcHA1TXpxUWVBRlJXTXVGMXBHbGMtRk81NGxkaURfODgxYmNDODdZWUhjYm9EOFBsRF9udW9CU0NEVXExTU1MODIxdjNOZXBEay0xZUZ0NXl0MlBVdDRXdk3SAYwBQVVfeXFMTkQxZFA5c016cnlGeVFDeGtiVjV2UzFnNGMxTVF0NktveTJGc2dkM2E0OGRwTlBMQWVVbWI4RURvRW9MZmJVNy1Pc0syODNfSnNKSTU2cmlkNElEdkNBY04tZVRwRnJsSUV4emc5MmxRWi1tR0xmaDBxLVJ2R2p3NlZ5QUg5OXU5b1hmT1k?oc=5",
+      "published": "2026-09-29T22:14:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,13 +116,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "New York judge orders city to scrap Mamdani’s pied-à-terre tax rollout",
-      "summary": "New York judge orders city to scrap Mamdani’s pied-à-terre tax rollout CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RNVI1NldTeGFTNTFtWldHWnB1bW8tMVdUZmk5dzdZT0FBZk1RWDBpdEZMOExuM1dSUWJEQkdWWGZKT1lteE1fRHg4Rmd4NDNlSmRoczBkUVY5cVF3dGdRX28xeThzaWxaOTBwazM3Y1Y0OEZOTFliMQ?oc=5",
-      "published": "2026-09-29T20:48:39+00:00",
+      "title": "Historic science museum in Philadelphia to close",
+      "summary": "Historic science museum in Philadelphia to close NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObkc4ZkZoQ1F1dTZLQzZsN0hGY0xGM0oyMkhZbUsxVlNpSW1VZGhiOEtzRURkSFNPRmdTSlhKM2VidDFQOTVGVm1ybTFyX3QwWDRWSGF2dmFwUTJMdU1zVkRjWE9nVVlacHoxSS1ZcEZRYjdYaFVUbDNkcGw5STlJOE9aQ2ctMHJFSDFFc3Y3ZFYwdm83aDU1Vw?oc=5",
+      "published": "2026-09-29T20:55:36+00:00",
       "beats": [
         "Politics"
       ]
@@ -62,10 +134,22 @@
       "title": "Public Educators Are Skeptical of the New Federal Tax Credits. They Needn't Be (Opinion)",
       "summary": "Public Educators Are Skeptical of the New Federal Tax Credits. They Needn't Be (Opinion) Education Week",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDBDVW0tTjdhc21XM3ViSkMxTmRfc3U1ZkVxY3BKaDRkbm1hTVAtWEtZV0NaZmZjdjJUSFRlZURid0pPanp6aFhMTDQ0VlV4bS02VEloVWc0dWlhNFpENWxnem01WHZ1cEN5SWx4bGdmX0pvOU1iTlF6MXlMTEVHeWt4X0d5UEZUM2lqVUtIMW9NUUQtNWJGTmtlWlh2WW9kRGdSRFRLZ0RpUWlwRG5fMGphbXkyaXFoaDFrWmFTNlhPTEhYZDlIYU85Yw?oc=5",
-      "published": "2026-09-29T19:59:11+00:00",
+      "published": "2026-09-29T19:59:39+00:00",
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Man Killed After Bag Gets Stuck in Subway Doors, Police Say",
+      "summary": "Man Killed After Bag Gets Stuck in Subway Doors, Police Say The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmg4bVN3a25wQkkxQUVydHE0aGpQdkNRRlg0VEltS0xPalVUZDRqU0dDdlY2QThzWWgxUV9yaVh0TG9EalFWNEIxamRkWXl0T1Y5c0RiR09zR1JzbndsVTZLYmRBMnRXSVliYVJoTjBTTE1jMU1jdDQ2ZWtMWGVTS0xLY21EUQ?oc=5",
+      "published": "2026-09-29T19:24:34+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -76,42 +160,6 @@
       "summary": "U.S. Supreme Court sides with Trump administration in third-country deportations NPR",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmhLMkhXRUVScHFoZ2VCbFJoS1FkcWl1d0MtZ0wwZC00elJqZHZKYUVMUzZsYTJMRGIzOWs5RVViR1MzSlJxZGVIXy1VaWN1blJsSWtJUGlLUTdDLTlRWE1wX1RWQlZLRFEwQ0dBaUVDN2ExWE82QTJRT2lyNWF5Ty1iYUhrclZwV2RqVWVldGVxcUU?oc=5",
       "published": "2026-09-29T19:19:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Supreme Court allows Trump to restart controversial deportations to countries that migrants have no connection to",
-      "summary": "Supreme Court allows Trump to restart controversial deportations to countries that migrants have no connection to CNN",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZU5raENKRVk1TldLQnNWSjVLaHE0cW1TVHZ4c0lTcGtjRmtGMi1UYzhVS1VVdUN4M2Rad2FYOU9vek8wdmxyTjJESkMzTzJ5Mm5wbi1VTGNjMjFiN3lTN3BodEJZSUFJc21JdWJxVlhSc1NRVTltdGVTSzFEdTlvbE8wV3NTOFN4djNKWEhBbExnMlQwLUljOTdxOFg3N0V5RkcxaGtmMHR1RHJIclBmUDlETlFnaEZKRTFhWUFHcVA?oc=5",
-      "published": "2026-09-29T19:08:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
-      "summary": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHBONDg5dFhPOTJQVmlqNWFOSXd1TUVXMm53VDM4S1d1U0xqcC02cVd2cjNEbFhySDE2U1UyMmM3ZXJvRndWTG53OWdOYkR0aFBNREJPUXRkbmZQZTlLc1NyY0Raak1sRm5uVDV1eFk0d3FDcWdVS3R0clRDRi1ZNkx30gGHAUFVX3lxTE4wZ3djLWNRbHRiN19uMFFkaWJhdWN6VldUQWdCdVJFZ2YyVEdkZWdQcE5DdFZIMEp3c2hQTDBETko1UHp5ajlfM2FvRmlweFAyMEpROUplUWVFbXB6Z0JRNm9HdE5ycTBJQTNtZ21OSWd2YV9QUkR4NjBsa1ZUd1ZKcEVObXZFdw?oc=5",
-      "published": "2026-09-29T19:05:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pro-Trump TV ads paid for with Customs and Border Protection money, official says",
-      "summary": "Pro-Trump TV ads paid for with Customs and Border Protection money, official says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLUdXSVlRTkJ5U2IwRUhEakgwTi13NWsyUFJOcExGVF9aMFZfXzdKVUNIZEI4NlZ3WjhaNzNoVExTVTdkQ3N4bWdqRTR3c1pmTXdBaTZqeXY5c2U4LUdqNzdGX3JtMDhqbllKMFdCSFQ1ZlVTLUJrVmIzMkEwLUI3X1FfcVEwRGgwd0VkU1RUSlhpeExpSk54SjhwLUJVOVlhY0R3UUJ6ZE84ME8wLVE?oc=5",
-      "published": "2026-09-29T18:43:46+00:00",
       "beats": [
         "Politics"
       ]
@@ -141,39 +189,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-      "summary": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBycVZ0dUZweFNiLWJHZ2NzQXdvcXdLN2JaMEZZd1ZHTmROVzdWR19aZlNUcF9oNXZiUkVMZzlqOXYzSzEtRlpaVk4yWmpDQnBIbW03VzdSNVd5T2RzZmV2cThyckV0aDJMc25QRjhfTXnSAXZBVV95cUxNeHNIV2VxejhoVGxTWHFRNndKVFlqU1gyZE9jbWJLZi0xckpMY1VVdXBLX1RJZDVoZXRLOHVLYk13LXlJbGpObUEwLTExT05Ubm10b0NibW14SnN1eUlTelpIclFxR3lWMVlMSTEySlRFaWV5Zkxn?oc=5",
-      "published": "2026-09-29T17:37:29+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Gay men share their journeys with prostate cancer & explain why early detection is everything",
+      "summary": "Gay men share their journeys with prostate cancer & explain why early detection is everything Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTlIc1duVlhIbnNXbWhWU3FOZVJJWkJ6TU81V1p4d0hoVTdMekFpWEZyMzVCN2x3bFVFQ0R4NkRqT3JYYmw0cUFnZmEzYW5hak1tTzJqenVGWHYyM0hDR082RUd0My1LR1dWaVg0cTd5TW9SUTEzUGkxdGZsUzZUcVRTU1R0ZmZnR3pvejFJR2lwZ21JUlFCODcteEtHMzN3ZEJDU3MtcDdyQlZZYkdZZXJqbGFxU0EyRDBRMnhaVXltaVU?oc=5",
+      "published": "2026-09-29T16:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
-      "summary": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRaHFKM25oUEhJTEV0cUNjNC00WGs0MlpGRVB4YTNGRjJzQ0d6LWVnYWYwWHRDTXUwNGs3dy1KX1JmWkFkR0hmNVhLTDVNSl84RWZUb3o0WmllMFRsWnNNNElpeWtWdXhEdGV5TUUwRETSAXZBVV95cUxNMkVSWkJLOE5jcmktbHN2T2lLMTVFQXZPU1BabnhISldha1hQdDJpY3hwZmhIM2ctdlVCTE55S0N3U1ZGb1RnSDN1ZEF1a211cGliQURXVDFLVmtITjRIRzgzajRaN243dzRvLUpJZXFmWWV6YjdB?oc=5",
-      "published": "2026-09-29T17:36:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
-      "summary": "This startup wants to prove gene-editing embryos is safe for making healthy babies NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWtWTHI1c1ZFYXFnb1EzaDhzVENLcVB2TS1mTTJNbHZsUGFzVWpyWExNcmUtLWtjQTkzVU96b1JzV3ZCZWFUV0h0SnJfZEdxRWRxcXZ6eF96N2FwMnJWT0dWdzhfUHpWaEowZkhmSUZoeHFhZHNuZ0FkYmhoRGt2dVRadi0xdw?oc=5",
-      "published": "2026-09-29T17:00:08+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -201,18 +225,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Man Killed After Bag Gets Stuck in Subway Doors, Police Say",
-      "summary": "Man Killed After Bag Gets Stuck in Subway Doors, Police Say The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmg4bVN3a25wQkkxQUVydHE0aGpQdkNRRlg0VEltS0xPalVUZDRqU0dDdlY2QThzWWgxUV9yaVh0TG9EalFWNEIxamRkWXl0T1Y5c0RiR09zR1JzbndsVTZLYmRBMnRXSVliYVJoTjBTTE1jMU1jdDQ2ZWtMWGVTS0xLY21EUQ?oc=5",
-      "published": "2026-09-29T14:15:03+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -233,6 +245,19 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xVGZKeG1lTjBwdDNRQlJGMlFaRjBYOEdaNWp6QmlaWVVxZk42QnE1RlNYLW5qZmhaYkNCRU5KZXZiT1FDMTVQdVJXNmp1Nng2Xzd5WXNMNTZnc1oxSjR3TXMwa2dDaGJ0Q29PTkk3X2J6SzVy?oc=5",
       "published": "2026-09-29T13:36:15+00:00",
       "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: U.S. Department of Education ends Title IX protections for LGBTQ+ students",
+      "summary": "UPDATE: U.S. Department of Education ends Title IX protections for LGBTQ+ students EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3JxemdnVXNodVlQM0dIQzQ2bHZObW5iZTg1d1JxTnNVei1SZWktVDRQamhyUUEtTmR6a3lHVjk0NVNhdG9aVF9obUlfMjV4QnNDMGJPYUhtUmxVQmhkX21LQUI5bzduTkxtOVBVVmtkMHNqQVZkTW1sZkRtQ2VMQjF5YUFRX1V6cUpKRHpDcWlWQlZBTnFLR3hVNEtwbmNwTmRJ?oc=5",
+      "published": "2026-09-29T11:51:32+00:00",
+      "beats": [
+        "Schools",
         "LGBTQ+"
       ]
     },
@@ -266,7 +291,7 @@
       "lane": "General",
       "title": "Teachers unions make pitch to renew California tax worth billions for education",
       "summary": "Teachers unions make pitch to renew California tax worth billions for education EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84WHpVczBYYWxsVFZEeUNUa3NaTUZIUDBOSEIzRVZHMzJfWGJXUnVjNXVXRGxRVGUtY0Z6bFYtMHA3WFFmUlJ0aDVsbWRJaWVjV3laM25BYzJvNVF3Y2ctbjlBN2hFTWxS0gFwQVVfeXFMUDNZRFhUYmRtbFYxU1pMYjBNS1dMWXAtYklIcmtBbE1TSFNqRGFHejR4VjV0SDlKUGkzNXhpSXI3UmFjX1YwSzZfX0RWaE9yaUIwVXFjREFEWk1VNWlPMFZGLWJ6VFZqWkRDMm05WnhSVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84WHpVczBYYWxsVFZEeUNUa3NaTUZIUDBOSEIzRVZHMzJfWGJXUnVjNXVXRGxRVGUtY0Z6bFYtMHA3WFFmUlJ0aDVsbWRJaWVjV3laM25BYzJvNVF3Y2ctbjlBN2hFTWxS0gGvAkFVX3lxTFBwZHo3dVdBUzY1WFZ3WXN5TkdCeUFVVExhRl92TzdUVndyWjVaSW1CaVRzS3JMeUN3eS1ULWJNbDhCbUE1NEFuQ2lWS3VfTWU3Zmx1SHVYaGdQZ1F4VE9BRlFiQTVPXzR1OTE4bUUtUXY2bVZXQlJVS2wxcFpsOFlxSXh0LTZDS1dwaDdyTjYwVjFLN3cxTmhaYlNrQkJsQWYzeGpjV3FHbkZpalFwSEV2SUJtZzJNZmtEMk5zSEp1MFk3ZWRCYl9UWFVsS2o4akNvT24xRXdDVTU0Uzd2NUdTT3owSWRWT2VtZUQ0MUM5bmRsMWtVYl92SDl3bzNWOEltN3libV8yM2dvOE9mWUkzdDA5ZkttR2oxTjVveE9zWkw0OHlrYV8wNUdZU01Vcw?oc=5",
       "published": "2026-09-29T07:11:29+00:00",
       "beats": [
         "Business",
@@ -290,7 +315,7 @@
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Education Department takes 2024 Title IX rule off the books",
-      "summary": "Education Department takes 2024 Title IX rule off the books K-12 Dive",
+      "summary": "Education Department takes 2024 Title IX rule off the books k12dive.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenp6RmFtS1J4NmNvdUVNYUdlR3BVRTVucGxoYi01ZW5uSzRwUTA3V0dJa19xNDNjVUUtY0txcVNVZWpFWkJGZ21wYjMzdUh2OFBNaS1HdFg1ZHpNZzZFVXFaRmZ1S1VYLXpaRkpYVHdvVnVqNWktZUVNSFNYSUpVYmpMcjdQY0Q1N0tQSEFXUEhZU2d5VUZWamlZa2U?oc=5",
       "published": "2026-09-28T21:33:06+00:00",
       "beats": [
@@ -335,18 +360,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Billy Porter on his words of advice for anyone diagnosed with HIV",
-      "summary": "Billy Porter on his words of advice for anyone diagnosed with HIV Queerty",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHZFRzBvZ19UZmRRS21KU3J0UFFoSHcyc0xkWnVqZ3dVLVVMQ0NMekwxRjJXYmNGTzR4TlRSeXFQaUQybi1tTVJ6S2I2aHNQcUJqVFBCY2xVd0QybFhtTGlEaUVLSjJWb3JyTlNqOWdlSkJkdGxvbkNYT3o5dGdCSkRoOFJvU2lBVkkxWDRoRUt5RmpsQXB3cURtYWljWWJx?oc=5",
-      "published": "2026-09-28T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -369,19 +382,6 @@
       "published": "2026-09-28T18:46:29+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "A school board passed a blanket ban on rainbow imagery in schools. Students are suing.",
-      "summary": "A school board passed a blanket ban on rainbow imagery in schools. Students are suing. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObE9wOGpENHg1UzN3SHRvS1RMREdGS0ZxajlOMVRodmROVEFjX0prOTZDa3NVNy14TUtHdzBlS1E3MGxzbTlMT1dSdGhZWG9QTjVFZjFYcEdEMG5sZXA4amNvM3hHeUZ6OUtYYVJVa0t5MGt1cF9LQm5wSWVtSVJZZkp3OURPWlBtellJd1VPam5KamxSeXdWc2lTb1BQWWRtejJLY2U1WkRycUFxejZVYTBpYjVtLVJ2NUw0dnN3?oc=5",
-      "published": "2026-09-28T18:00:00+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
       ]
     }
   ]
