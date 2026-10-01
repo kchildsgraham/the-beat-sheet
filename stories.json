@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T14:23:07.223160+00:00",
+  "updated_at": "2026-10-01T19:43:08.372959+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,27 +20,111 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Details emerge in case of former Cornell student alleging gang rape by fraternity members",
-      "summary": "Details emerge in case of former Cornell student alleging gang rape by fraternity members CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWURETXRmbHdaS2RQZE9LbU9lU1VjQ1JIUEFzZXZuMDg2dVkyV0tYLTBkNWxRbXdJd0IxdmRmdVdXTEwxa19UNmRCN2hlSjNjRWVMbURnQ0Jiak05THE4RVBOM2k5Y2M5YWdpM0c3c1RjMEp4Tnh1XzJjSmRvNWpONFJ6Ny01bTFCbmw2LU1oN3RfNWpINm13?oc=5",
-      "published": "2026-10-01T13:36:58+00:00",
+      "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "summary": "Google launches Project Suncatcher, a step towards AI data centers in space NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHpoSkZMSUJMOGtZbVVtY3RWVmdBVExLSkNSSjlqRmdvRnByRHhuSVhYbVhPS3RYcF9oUTY2aHVZY3FUb1o5YnVScFlmX3Z1a3ZuZHk2NmZJcmNNWmlxS09JZjh6RE0wVGI4YWFpeTZuVjM5QVdmZmpXeWl4VElrWkJxbjFBcVNSa0lXdUJ2cmpvdm8tdlE?oc=5",
+      "published": "2026-10-01T18:41:07+00:00",
       "beats": [
-        "Schools"
+        "Business"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Inside Wealth: Racehorse market breaks records riding high on tax breaks, stock market gains",
-      "summary": "Inside Wealth: Racehorse market breaks records riding high on tax breaks, stock market gains CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVh4eW9aUDZTYmlRaGtVYlFrNzlXSlZaMHVHY3Y4YVRWbnFvV1RJakNfcnIwWDdPMWk0U2ttSEg4SU5pRGZqakMyc3BzNjE3WFFvWl9Ea0ZOOTQ4U0xxaDNoS1hSUVZpVlRueVZ1RWlNbHluOW5qeDB0R1BCcFk5UjhtU0Z5Szltckc4dWxqTlJyQUFzWmN4TjhDUlZ0ZWZfX0pv0gGoAUFVX3lxTE9EdXhyT0ZRWTlGMWhBVHRpMTFBb2NDWGJHSElIM2p0bGpmSkNBTy1wVG9uUmZ5UFp1ZUh4aUNFcWZuOVZpbUpBdVRxckVnSDFnUTlIcHZ2Qlh3UmdIWHdyQmVJUnZtTFRwaVA3bzdidU01ODJacC0xbHBJVjd0QXlfSGM0RmNJbDlDT2VYRExYbTFVOTk1eXhxWmFoNjBKN2lKWEVaMWVROA?oc=5",
-      "published": "2026-10-01T13:19:21+00:00",
+      "title": "You think Nvidia's $235 billion buyback is big? Just wait and see what Micron might do",
+      "summary": "You think Nvidia's $235 billion buyback is big? Just wait and see what Micron might do CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2JhTnFqcnpPcDJNbTZGZmJUOUNSZ3FGNWw2cFpsOFE2UjZQSVA5TzJGald3RjA0SFh2NFQtLUF1dXVmY2JuMVVPdmp4TFkzNy12azEzU2FrSmhMWVpwb09iWklObGZkZEkySmZESkZzRTRhX1kwaUt6OG9tUkVRc0tGRVpnVUNIZ0E2U0g1elVLdTByMGQtZC1UNjlVeUhvQ3FUNXJzWkwzMERJMmJ2NVo1bVFlMUl3dnh3cA?oc=5",
+      "published": "2026-10-01T18:23:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
+      "summary": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped' NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUU0Zk5Va0JMZEFJNmdWWllzeVMtYTFVSF96b2NfaFlzY3A2WnV2TzNTbUJYRGtMbS1EczdnZ3V5LXpsUlhnX3c4dnd1THJ3MmMtRXE3OWhhODc0cVlDY3RyajR0aEE1bHhDZm1IODh0WnBNMTVsQjVtTVo2eG1vRzNTaWttNUVi?oc=5",
+      "published": "2026-10-01T18:07:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "American passenger drafted goodbye texts to her family as Flydubai plane plummeted",
+      "summary": "American passenger drafted goodbye texts to her family as Flydubai plane plummeted NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTm12clpwMnM1ZWY2ZEZ1N3BSUkdEYUtxeHRFSHY2c2YtbDdENXU2SUppa1M0NmVTbWlicGRDaUdMZlJLYnRudGJlemZlWGx4N2hoUFpRbFI2LW0wbmxYR0Examw5Z0w1cnBIME5rSHNteWRPZURWQTc5clVpRGVINy16cmEtVGp2UmtoUlZUaGpmSF95X19mUmtiSWg4eG9aNW9JM3Z6cHQwOHppRzJZ?oc=5",
+      "published": "2026-10-01T17:59:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+      "summary": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neDhtODh4WXhPazlFWklfLWlINzd4N1Z5ck5TTlNJV2VYQ2xzN3libXVWME9xOHJvR2J3S3lMaEwyZzNlc25xOVU0UDJvS3FYa2N4dUFNMEEwU3ZYWl9GWlViaTZJbGRHcDNaeW5uZmlSTVZ5TTY5Y2pB0gF_QVVfeXFMTUJNT3FWUnlTZy1adkZtT01IeERSWm1uRkd3S2t0Z0s5SkUzdG5uNWZwMWFMVjJpbDAzN0lfT3lRZ3BHVmU2SHN0cmlTenF4TW81bjlPMkhxUkdkRDU2azRZR0RCQ1BpQXpESUJITEhvOF9VRWQ0alFIbV9uN2JySQ?oc=5",
+      "published": "2026-10-01T17:11:06+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nike's new Caitlin Clark shoes are already almost sold out",
+      "summary": "Nike's new Caitlin Clark shoes are already almost sold out CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSkFxZnlKXzRzYXYwRmhnbi03SmdlVEU1b3Vyb3h1SHpnMFlNRnJpaE12a201UXZFX1VUVC1OcDJjdnluTzVRQ3pLN1JCRGpxeWhJbUtReG9qZGZZSjlIeE9xVTR6ZTBubXhEckpjcG5UU01hX1gzWkZxTnNFbmRjTlR2Sm5kLUtHQ0JnQ3JQcjItZnNra0Z4UW9n0gGfAUFVX3lxTE1NazlxVXVVTjNXODdBMzc0Vk1ybklKRTloMFNPeTZMYUExTzJ1elp0YUFqbU5jZy1PMkE2NEZCcXZGc1VNV3VVUHFfOTdBRExONTJVTUZ0cEM3TXJ2XzFEeE1iQ21DZ1Brd3kxQUZJR3pUVDB5bmhTeUpCSUM5SThub1NjUjhjZGRCN2lPNmF3Z0pPWkxtSUJXOUc0ZnlYNA?oc=5",
+      "published": "2026-10-01T16:34:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Amber Guyger granted parole after serving 7 years for shooting, killing Botham Jean, officials confirm",
+      "summary": "Amber Guyger granted parole after serving 7 years for shooting, killing Botham Jean, officials confirm CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmhoUjlZVmlHYnZha3dMZDBlQ0tWNDdSR0xyRjFybjA4N29PLWlOa3hYNU41T3RPWkpXY0IyQTdzY3M2TW5TczRBRXJkMndnZHFjcGwzY3A1NjVJTU1ncmJnSXFkenU0eFBId2RqN0EyNGhBYW5tRWZ4MzFBS2dkYTFwYl9qSDFRcjhYRTcyR3R6UVhWQmc?oc=5",
+      "published": "2026-10-01T16:24:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Donation pledges to Kennedy Center fell by more than 100% in months after Trump’s name added, internal documents show",
+      "summary": "Donation pledges to Kennedy Center fell by more than 100% in months after Trump’s name added, internal documents show CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QYlFBVzJNOThYREVPU3EtZFBhSF9lTGJnbjBHcGN3UVVMQmlMcEFhMnB6bmtxYVUyTV9RUThhZUNDZC14YVJibHRyR2t6SGZZSXZQV1NfcE12TXBCMmF5T3VQcXVaSVJEMVd1dDNCV2RnanlncUtj?oc=5",
+      "published": "2026-10-01T16:00:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Mortgage rates just hit 7.28%. But there are ways to get a lower rate",
+      "summary": "Mortgage rates just hit 7.28%. But there are ways to get a lower rate CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNjZoZzB6Wm1pc0htZmxQMVJObnlpRnNNeWxMc1ZJTnJwRU83Sjg3MUhNdEEteFh1SmhmSnR2bjN0TWRNZ3M3Q1dsWGh0bnlRSXpfWFJPeG5CQXowcEoxeURtRWstdGdmUS1iaWZnaFVOWXJOeGQ5U0RUSQ?oc=5",
+      "published": "2026-10-01T16:00:29+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -50,21 +134,70 @@
       "title": "FlyDubai co-pilot stabbed captain, tried to crash flight to Israel after \"radical indoctrination,\" Netanyahu says",
       "summary": "FlyDubai co-pilot stabbed captain, tried to crash flight to Israel after \"radical indoctrination,\" Netanyahu says CBS News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVnSmlhSFJ2SDI4M3B1SVhEd2VFQk1OZXRGRVVTaVpRRUdjLUtVTVJtZDZIWGlXekRxUVFrTTNFd21xUWNaRjF1dzRvYTk5N25Cdkg4eE16WnBIeEhYMm12OXpqSzBVVVNfSEg1bnZqbGd6V0pQTDhJZUw0a2dKSkcxTklSdUkyQUFfQXBDYk5ZMmk1?oc=5",
-      "published": "2026-10-01T12:52:26+00:00",
+      "published": "2026-10-01T15:38:01+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "The Dow's rough month, Micron's revenue surge, Google launches Gemini 4 and more in Morning Squawk",
-      "summary": "The Dow's rough month, Micron's revenue surge, Google launches Gemini 4 and more in Morning Squawk CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGFnNjZGZVBRYXlUV3ZVVmZ1N2F5VFE0cXB6UTgzLWkwemVzT1lkQ0VjTU5KY1VJLVhSTUtiWjZ6LU9vd1prbk9JS0JUOVpLMnVNZVhrMjlIcDJOOHM5RExCdFdreFYwM2JXX0x1X0s1MVU1Tm9uODB0QmVTV2FYTnhMMmt3WW9Rbk9R0gGQAUFVX3lxTE5HZ2NPQ2FPZnpOU3QxVWd3bFdscGpvYWl0U2dLb0t2aTFqSks5LXJSY1Qtblkwbkc3dG8yTW5VdjFVMVlheDJEXzZhbFBPRXFuUkstZlBjSHZkU185WFNpdWlEU3BlTXdCeHlES0xsMVQyTXdhTmJWaC1lMmM2TUFpaXVvZ3FXbjRha19sd2hpbg?oc=5",
-      "published": "2026-10-01T12:30:56+00:00",
+      "title": "Christa Pike survived an execution. What went wrong?",
+      "summary": "Christa Pike survived an execution. What went wrong? CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rREY2dllmZ2o5RUROa05HdmNuRkN2aUlZTUo0ZEJGQTRUSm80Q3ozRWZQME1fZUUxLWI1dG1HbDBhWU1ndlFJNHZtOTlEYU4yMk9PRmhaMGFOaGNNMEJGdVZUMGhTclY1ZG9FcXZqbDV3TEFp?oc=5",
+      "published": "2026-10-01T15:26:21+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+      "summary": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVdNOEgzNEFPUmxEME5HdUZoMThnMEVnWTg3S2thLW1Benkzc3l3WTI1eURtbzZrUHFpMmRmQWxieWlTSFRxUk9uV095VjhudTd1MlBoWTlNek1iOVNhSm54WUt2bng5M2VEZ3l2S1hzcHhZQU15bEpkeklZd0JDbDZrZ3pBVUtSRDdNYmt2dDQwWE03TFREM1Z1SnM?oc=5",
+      "published": "2026-10-01T15:21:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Queerty Crossword: Oct. 1, 2026",
+      "summary": "Queerty Crossword: Oct. 1, 2026 queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzYXh6eC0xNF8zT2YyX1hqRWh6ckw0RHVUZl9hUDlTRGQ2WlFuSXdUZXJhYlJlYlUzQlBwQ3BrQ1FKNXV0bVBnTWFERkE2Xy0yamx1QVRQMnpkeVFPalUxbVRSVEY5dGo5QmpGc1d0NA?oc=5",
+      "published": "2026-10-01T14:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "IRS proposes rule for groundbreaking school choice program",
+      "summary": "IRS proposes rule for groundbreaking school choice program K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjR2ZjFIMVJrM2lpTWFfdkxkX1VhOGZSYzAxUDZwWU5ZZVMxYldmd1ZpSkZyY1djNnZWSzBlYjZ4d19lS1EyV2dnYUFHUVIxMnFUWGxHWTJtWjNNeHpVY2dIVTVWb0NvYmo2WE5vSGxaeUpBZVYzd3pFQjJjVXRFUG5qTVV5ZEtBeEVadkxERks3S2pfZWpYUXBYWkRiWjJFRTdMdlhaaC1YUQ?oc=5",
+      "published": "2026-10-01T13:34:37+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Federal Education Tax Credit Rules Are Finally Here. What We Know So Far",
+      "summary": "Federal Education Tax Credit Rules Are Finally Here. What We Know So Far Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlBuUVpDNlAyTGNpRnR3aHhXRm1FcmVwcTJtdWZrYUtKVnBrdTVrS2NOSm1kOTJ5OXBQc3htcll3NTVBdlJ0WklZeUlZLTVXcVQ5TDdPVWExQkRvcW1XXzhmUi1mbU15R2FIVkFPUW1YVDRidmR5U01wMFp5eThfSC1JS29wX1E1ckhuRHFkdjBTUGVwckJOX2prSmxoTU5UMnZKLThaQ2R4MTRZSk1zTndFYzgzb2wxY0E?oc=5",
+      "published": "2026-10-01T12:50:44+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -80,97 +213,25 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Jared Kushner’s company has large stake in firm with Israeli military links",
-      "summary": "Jared Kushner’s company has large stake in firm with Israeli military links CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTEd5aTdNWnVodG9EMWdseUF3eWpwLWduZUZST1FzODdCZk9DeXNwWFA0SFN0MVdxZzQ5Z2xkdC1yNG5xVTAtZm85a1hQVzB6SGJtbk9yTElpOHR0SWxCQ1FwV0F3dWNrR2EzYWZBd2hja21KdHgxdzlVTGZPdW1RU2k3T2VEejQ?oc=5",
-      "published": "2026-10-01T11:40:42+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
-      "summary": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkdhZGNReVpJcWxxUzVmZjljcURHdm5oc3ZjMzFWZ3lTd08zUUVISno0QU5LUklld1JSVGc2LVprclc2REVPZW1LN1hveWNpNXhncTlJZjgwMUtvRlJCWHBRUXFLWGVjcXNnNl9mQ0k3VTh0SnBiTmowOFVVZEhseVZLbzM3dkdjaWJNaTZ2aFY2ZmlrTHhscEN6WEpZUlUyVVctWXh5d3hQd9IBrwFBVV95cUxQYVJadHZIVjJjd1dIQUR3cHZiWTZUNzhSMkxVdzV4czFEWDVCajdVNEFPR1ExaERiZE5UbERZNFlwOEoxQkRnMVpfOU1TbTFHcUpGQjNyZHljdWd4aTJTX0lMelRZdUJFSkhYLWlYdk9BdjVfZ21WYzlGN1lYNWJ5Wk1Ud3dFYVRsZ0dGWlVlcW9fckhVcG5teG5JU0RHYzVGNE5NSEkxOHFCT2NlNmFj?oc=5",
-      "published": "2026-10-01T11:20:15+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Bond market bust: A key rate just blew through another decades-old record",
-      "summary": "Bond market bust: A key rate just blew through another decades-old record CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qREZfSFZmVExqZUtNRTd2UXZucS13d3pYOTd3ZXZROVlaLXVXYjVvZmtXclNJSWN1enNYX0JaQXZpdzJEMnREM01GU1VMczFYSFdNYWQ2eGtBT1MtRE9ZM2JqYkY3YnpGWG1Ud25lY2xaWjZIRHc?oc=5",
-      "published": "2026-10-01T10:22:21+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "These were the ‘Adams and Eves’ of facial recognition technology",
-      "summary": "These were the ‘Adams and Eves’ of facial recognition technology CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYklONmZQVlFIeEMxdlR4STF3R1ROdFhTdFJ4QUdGZHBoY1o0NFFkODJXeXlObWRvREJQSjZvcXp0WnNBaTI2UFA0cmdPUlFGTUc3T0xLVmduZmJEQk91UFliVlZudm5UWDI2YXVZLWhDMkNKVGZBU2J0S0twRHFUSmc5LUNvdW9zVG04Ym8yVQ?oc=5",
-      "published": "2026-10-01T10:01:04+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "U.S. can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules",
-      "summary": "U.S. can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVZySHNyM2M0RlhBZVhWSFhpZ2ZaTjMtd00wcjZpVTRFOHBYcWVLODdZc3dfVHVEUzhkemoyalhqNnNsdkF1NFlkSThaNWQ1T0NqakJLUE5mZGw2SVNNaFhTYjlqMDBIQjd6OWRpY2tOZkthbGl0N0RJWkdVaFNzSnlOS1hsbi1YY3hGREFEUnV2ang3MmtOZVJlQlpNN0lIY05HZUg1WWwzRkdCZ1phaC10VWF3VkJ3WXc?oc=5",
-      "published": "2026-10-01T09:30:34+00:00",
+      "title": "Opinion | Behold the Paragons of Rank Incompetence",
+      "summary": "Opinion | Behold the Paragons of Rank Incompetence The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzFxalcycTh0VHJScmdPODctRmxodGVKbjI2a2ZkRWM3c0dNTXFaRXBrY2Fadmd5V1B3NVhtT2VMTmQ1SHd4T1h1WUszNTBOQ0MyOWRlcnBEVTlaMDlxUC01NTRNQnU2Ul9KcktEaTgtaV80UHhLQzJuTUlEelFFNE9zRFJRLWc?oc=5",
+      "published": "2026-10-01T09:07:05+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Trump administration reverses stance on integration of people with disabilities",
-      "summary": "Trump administration reverses stance on integration of people with disabilities NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGFjZ0tJeWpXclZDa3ZybXg4bmtzWmJFOWJCNWV5NjQyRFcwbmtSZEZsYWEwNW0xNXpDRk5Dclp5dF92djBJVi1pTzlQQ3ktdGFBVUw1TG5xZkNhZWJsTjBYaDVNYWJ1LVVJaVVRNVoxbFBKZHhnRHU3YllYRUtlUVdNTkVoaktUZEV5NElrWXA5eGpFOUY0?oc=5",
-      "published": "2026-10-01T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "SNAP's funding model is starting to change. Here's what that means for the program",
-      "summary": "SNAP's funding model is starting to change. Here's what that means for the program NPR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYl9ZN0dkVzNDb2pxS2hkcm5xY081dlpWTjRIeV9rMEtXTDJfbWFVSVRHX19jTHR2RVJiY2ZwbGFqdTB2RU5sLTdhWlZCMUt1dVJpSEVJeXBBbXdTVVJVZUFLSlJ3YTZVR2k5VUUxLVVoei1vTnNnRVBsOEc5V1FTa3g4QVNBelpTWllCNGlJZTVVN0U?oc=5",
-      "published": "2026-10-01T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "COMIC: How the census gives your state power (and what Trump wants to change)",
-      "summary": "COMIC: How the census gives your state power (and what Trump wants to change) NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT1BmNDBLczRZYlJNUFVyd3pPNUlGVlF2bVBBV01tZmdEcXYtZHNWcFdUMFZOTDBrNERscy1teWk1NWI2TTdMd3ktZzVVd3JFNU00M3BSUHJvNmVCbkp3Ri10ajBTWVRad1Q1WjdmRjRBOE1fQnVyYUdYdkx0TnJBZ2V3Q3JJUQ?oc=5",
-      "published": "2026-10-01T09:00:00+00:00",
+      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash",
+      "summary": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfWWZBWjNOUGNjMVZoYlFwcFg1ZVJCUlNOdGR6LTMzYTN4WHA0LTkxdVpaSXR4MzR4YTNoazVSOVFxSHZMejcxMFNlX3FYMDdDLWoxVzkybm96ck9STzBEbDczcXZYSk9jM1J4VUVFc1F6T1A3SEVN?oc=5",
+      "published": "2026-10-01T09:01:54+00:00",
       "beats": [
         "Politics"
       ]
@@ -200,18 +261,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "While Surging to Records, Stocks Experience Some ‘Wobbles’",
-      "summary": "While Surging to Records, Stocks Experience Some ‘Wobbles’ The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VMW04TWxQMGZDTy1WM1FaOTlDbEhhS1hCRFliY0ZoZEJ4Ujl3NFBtMzczRXZzWmxZU2NRYzI4N0l3UkNZTi1ySWpzbWN1enUzSG90M0lYbTd1dGd5Sm5kUnowQmdpSXE2bElxWkpXekNFWWJ2NmRmd1hhcw?oc=5",
-      "published": "2026-09-30T20:28:17+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -224,35 +273,11 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Trump’s Ed. Dept. Is Still Disrupting Grants—Just More Quietly Than Before",
-      "summary": "Trump’s Ed. Dept. Is Still Disrupting Grants—Just More Quietly Than Before Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkZwdUhSQVNrRk12Mlp0LU9jMW1ocHNNdm0tOGN5N0hPUks3ZkVHRGJPRUdCZkE5aWNRc19NTVlWWFk2WWZ4MXF5aEs2bFBVLW8tUmx3YUNkb1VwNnFpZnFKYkN3MXg2cjBQRExWZ3VTd0xhdnNuR2diNi14SWlvZ1lxOWd3MzNKR09hRUxYVVB6QWxvR3lBb0ZXUjFzVGEyVVFiYnZ4ZHh4VUlKTDVoME5iSU9QT3g3eGc?oc=5",
-      "published": "2026-09-30T20:00:28+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Is American Culture Simply Bad Now?",
-      "summary": "Opinion | Is American Culture Simply Bad Now? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjZ3U3JWRlcwTGdqREpLNllFX2N5Q0M4NFZGeEJCZklFdTZmcE1PY1hyS1hyOEpVR3JIUGFIWlg4OGNkcndBRE5wYmFpbFo4anRyVWRXN19zQ0xGSXpqamNtNUFQczZ2dUx6S1hUQk1aQ1F3Z2FuRVEtSDBQUGZvemNEMkRZUQ?oc=5",
-      "published": "2026-09-30T19:00:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Lil Nas X’s comeback, Grant Knoche bares all & all the best LGBTQ+ releases this week",
-      "summary": "Lil Nas X’s comeback, Grant Knoche bares all & all the best LGBTQ+ releases this week Queerty",
+      "summary": "Lil Nas X’s comeback, Grant Knoche bares all & all the best LGBTQ+ releases this week queerty.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNk5tVFMwY01QTGdMd2g0MkRXckNndk10VzYxS0dmM2h5cXZheE0yUmVZQklBc2ZkTXpPZWRFb0FSeVk2cmtQU3NiVFFWTzEtWGVMRy1Ra21nM1ZrUUIzNFVYWXlYVTNuTGpEMTMzX3pYT200aUI3aFhVc0t1Smg5dDhRYmw1Z3U1a0c0TlpidG8zSjVXRmRINFo1RWZjMWlacEpDTGxMdEc5YmhiVVh2S2VBN3o?oc=5",
       "published": "2026-09-30T19:00:00+00:00",
       "beats": [
@@ -296,27 +321,28 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "SAT scores are up across the board for class of 2026",
-      "summary": "SAT scores are up across the board for class of 2026 K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGh2ZGZnTXZ5b3hPVUxIZEItN0ViT21iV3VqSk5ENExyLUVBOGlnS2UyWWVaczVxbG9BX2Vta05mbWt0YVUteVpXcWZPbjg1OXVORFNEUnVDckVjOVRZNjJXMGN3Z0hVOXpwYmRhX2dDYjI2NDdRd21YQTRWMnE5SHFxYjZERFktOU4zOWdxY3k5d1U?oc=5",
-      "published": "2026-09-30T12:53:09+00:00",
+      "title": "Caltech students organized a ‘Mathathon’ sponsored by Anthropic and OpenAI. Then came the backlash",
+      "summary": "Caltech students organized a ‘Mathathon’ sponsored by Anthropic and OpenAI. Then came the backlash EdSource",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzAwOTdhdWFBaU1zUGlLbVc1bXhnRUVPX0h2LWpPUklHeWtjZS1qM0o0eHdPM0F1bjRJd2ZaV25jMTlfcjlRODlQSDltbmpIbDlkSElQZjRWakt1c1c5YWRZazhER054RDZRUnhqeWdRMEtqSWJzdUdOQW1INE9ib08wUzdsdXIyc2MyMkRB0gGWAUFVX3lxTFBQVkRiZzdabEpjU2ZxYXlkLUFQdzZYZGh3X1V3SlpNeklWUi1hWndmOHR0bnM5VWJ0TVdrRmYybFlWZUdsVjFKTVBaSW9SZzFJZEZxWk1tbGtuNFY3RkRYWldRRmpfVVFCUUptNkw4Ql9kVE1WZFZBWkxSUkVGeGJ2TW11YXpsWGJVOERxTF9nUTNaWTRSUQ?oc=5",
+      "published": "2026-09-30T07:13:52+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Do NOT ask Lindsey Graham's sister about his rumored gay past: \"I'm not even gonna entertain that question!\"",
-      "summary": "Do NOT ask Lindsey Graham's sister about his rumored gay past: \"I'm not even gonna entertain that question!\" Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUk5c3BQSTZmb0hmNFAyRHBnR0RXZmNoTVRTZ2laRHZTdmNlelJiV3d0SEJSbmRmaThyY05CeU5WYS0zLTFoZ1IwRGg4Z3ZtU2dUcUNad2dXcG00bDE5ZW45VEx0MTBDbFhGeUhQZzZYS0xBS2FOM0ZVTHR0REJOdExIOUlPbml6VUNManFwdVl3c3hGa0JOVFV5TVVJV2d4SEF5aFJBN19STjNnb210RHE1aUp5UlNaQjNOelk3THYyUXVvelFjdU5ocG9hUkJONEE?oc=5",
-      "published": "2026-09-30T00:00:00+00:00",
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Public Educators Are Skeptical of the New Federal Tax Credits. They Needn't Be (Opinion)",
+      "summary": "Public Educators Are Skeptical of the New Federal Tax Credits. They Needn't Be (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDBDVW0tTjdhc21XM3ViSkMxTmRfc3U1ZkVxY3BKaDRkbm1hTVAtWEtZV0NaZmZjdjJUSFRlZURid0pPanp6aFhMTDQ0VlV4bS02VEloVWc0dWlhNFpENWxnem01WHZ1cEN5SWx4bGdmX0pvOU1iTlF6MXlMTEVHeWt4X0d5UEZUM2lqVUtIMW9NUUQtNWJGTmtlWlh2WW9kRGdSRFRLZ0RpUWlwRG5fMGphbXkyaXFoaDFrWmFTNlhPTEhYZDlIYU85Yw?oc=5",
+      "published": "2026-09-29T19:59:39+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -347,36 +373,12 @@
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Anti-trans activists are addicted to misinformation as their latest \"report\" shows",
-      "summary": "Anti-trans activists are addicted to misinformation as their latest \"report\" shows LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFJDUHpwcDFZcGJXcmxMRE9DbkFTc0ZGeUtYcUZQY3VEWWlxQ1d0LUo4QU5uQkx5djFlNU9mUzEyX202NXBUQl8wRmkyTGNwUFUzZzY1d09QcUtYTm91NWxyOGg1MUZaN0laV1U2NXVvS3VlOWo3V0pqYWRfU0ZQcGswUkRjWlJNX1Blc0owS0xaaW1TdG1ueko0MlI1SEwybXpqRjdFX1ZhbTRvU0FmQ2JXRzJHNUs4?oc=5",
-      "published": "2026-09-29T16:00:00+00:00",
+      "title": "Karoline Leavitt mocked for basic math error while trying to slam Dem policies: \"Oh my god\"",
+      "summary": "Karoline Leavitt mocked for basic math error while trying to slam Dem policies: \"Oh my god\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkpGNzF1QzBCUjRtQ1RzNkNOanRKTE4xTmNOTkdRMmFwV0RvMERBRTR6OF9xWkNXMDU5c2NycTlUcXpib1hFc0YzckVOSFdmUnFFeld4bC16TkstNnlqcUN1V0o1MTFNaEhRTGVTdTR4ZDN3ZTBxNC1GaklEMmhzMXpsQlNsNGh0bmF3SmtRVTNXTzdFWjhoajkxc3RBZGQzVFltRC1adlpsUnE3SmhyVFZOS050Vll0dXlkeU95R0JsSDBKUVpUd1E5N1BWTS11?oc=5",
+      "published": "2026-09-29T16:30:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Tr*mp’s handsy moment with a handsome golfer has everyone talking",
-      "summary": "Tr*mp’s handsy moment with a handsome golfer has everyone talking Queerty",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTU4VUxMOVNoZ2hBYS1ZZ2VxMHRLYkhUNUlNOTlfWWMzZjZkRTJjY0hZSVZad2tGNjdyUVRNZF9JdEJFbDNVME05Wkp5MUpYRGtDRV9memhCODcycWpiN1BPQTBVUU90SEVPUEU0Z1FXZy13SWJrMWRNR2c4Y0pIVGN3eHRsRjE0NlZ2NWVYQmtBUHNzOFV3emNyV2VGQQ?oc=5",
-      "published": "2026-09-29T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Exclusive text messages reveal new details in alleged gang rape at Cornell University",
-      "summary": "Exclusive text messages reveal new details in alleged gang rape at Cornell University CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlFORkZ2bXdBN2kxdGN4c0JGbVV6MWtJcFdCTHlqbTE3RHAySWl6YWh5WWhoamRRSFBrZ3ZTVU1CZVBFc2JzVXRGaGN2WE0yY1o0cmpZWkhJX054YXY0RUhuOXc4UlpCbnN1bHBWeU5JcFZmNHUzTHBvdTlGa25lNlUxeHRpblRURm94RXFVdlBXOTZCVWhVRGIwWDlZSkpCb2g0NC1CYXNjT3cwaUtpR3lDSQ?oc=5",
-      "published": "2026-09-29T14:10:00+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
