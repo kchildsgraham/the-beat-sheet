@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T04:35:52.977362+00:00",
+  "updated_at": "2026-10-02T10:55:27.096346+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,37 +20,61 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
-      "summary": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWnhXc2UzZlhDcmRhTEtLWWhHNWNSNlREX1FDakR5alZZc1pzUGFobUt6WWI2ZjNJVjB3SmZMWEo0QmoyQkxWZXY1ejZtcXVrS2w5NlNqN01WTlhXREYxSk9TeDdjZEhRLXBRb1VRYWRad9IBd0FVX3lxTFBaQ0lXTmJEZ1VaR0FCUUg5YTRoUUhlMkNsZWRfWWw1aWo1SFZiNEtHdHVvSWs2N1FEZDlRVF9UYTZVUlJFYmpyWVlvYmY0MVUzQ1o2OEJRNHNSZ0xMUWw5MWE0c0dJc0pLQnRmcDBEZDBiYWZoZDlJ?oc=5",
-      "published": "2026-10-02T03:11:00+00:00",
+      "title": "Failed ‘torturous’ execution attempt on Christa Pike reignites death penalty debate",
+      "summary": "Failed ‘torturous’ execution attempt on Christa Pike reignites death penalty debate NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelNrMExPUGRROGVSLURvZXViYmVwWDd0dDdRRGowaEdmZktIT3R0LUp4THA1QkFGbk5oeW9CUmxQcWwzUXBnVlFYRWVZZUxKeU1LSUM0cEVxTUdERjkxbFpkb2JCWFJ0alFfRzZQdTRIQnlYLTVwM1puMmRFLW5mU01EVkNIdTh3SmFmOEFnN0o2Zw?oc=5",
+      "published": "2026-10-02T10:25:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
+      "summary": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2V5SUotOEdGb1BCWks0ZDJwSWxmMnVnR0NsWVo2T0VKbDlGZ3BuNHk5bWtNOHd5dlo1ellQeDQyanNuQk9QUTE5Z1N3RXFTRm90QnJKZXhTVXhfb1lYS0RFXy1SMmJDaFFFMmFfSUt2eUhLSmZxeXlMVld1d1hCRHR5aEdaS3VLNFhR?oc=5",
+      "published": "2026-10-02T09:01:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "What to expect from today’s jobs report",
+      "summary": "What to expect from today’s jobs report CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjeTQxTnBZZHhGNHNiSkpVMFVuUWVsX1pLQU50TFRxNVB2eUtJUW1KN3dtVnFtdmN1ZHp5N25SMXMtbWJINnE5cE15WFg0a2FmZWg0RHpDUWhtby10bkJocmpzLWNjMTdpcm11N3dvZDBBRVJDaDdTVQ?oc=5",
+      "published": "2026-10-02T09:00:45+00:00",
       "beats": [
         "Business"
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Cornell Students Call for Change at Fiery Public Meeting",
-      "summary": "Cornell Students Call for Change at Fiery Public Meeting The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tWnVLWUlId2hrWGIwZllxYTJmZGhPLTJrZ0hLQW4xeTFuZUtUdFc3OXY0a2FwTUdiQzdjLXBOb3RrSFlURTBPam9TZTNjdWQyWlVjNi1aYzlpZWNad1ItWUlSNkkyV01FcmVvalA5cHlGNmFHR3FGOFhRYw?oc=5",
-      "published": "2026-10-02T00:36:06+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "At Washington’s tomb, a British royal honors the man who kicked out the Crown",
-      "summary": "At Washington’s tomb, a British royal honors the man who kicked out the Crown CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDAzUUtkR2ZnZjlnTEdORThZbVpBbURfLXp6YngtRkRROUw4dkhVWjNZdW43T19Bend6RjVEckRZeEF0WmYwSFFsNkpPVHR1Z0RHVEptMndqcFlxVXM5VVA4RUdGenZDWEc1ZFJOODNJM3NzWlYtaUlXcFZOX2ZVX0VUTGU3X2xxbFE?oc=5",
-      "published": "2026-10-01T23:41:14+00:00",
+      "title": "What’s in your cat’s food? New investigation finds lead and other toxins",
+      "summary": "What’s in your cat’s food? New investigation finds lead and other toxins CNN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wSGR3U0xhR0pXTFM5WjJscHFXQURhSmRja0xQV0ViSHRVLV9tTUltUGd6b0lBWUR4cVl4Z1hOM1V2UXZxYk1ZaHI1aFJManRoNk8tS2VQcnFnQklwM01fVnp1QkZONGh3NGxjYlBMVQ?oc=5",
+      "published": "2026-10-02T09:00:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "10 books we are looking forward to this fall",
+      "summary": "10 books we are looking forward to this fall NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWRUZmxkaWNDQnA1TzFwcmdPYmpybkVLeTJqNTdpREJaQ1Uyb2VhTWdGMXVRRmlsT3RIaVdlRXFhVFJZY0ViSUFtV2Q1UTI4dG1DQ2lvMXZlNnJqTHJrc2Roc2Z1ZXdsY0Q1Z2hKV3dCYktCUGRuYnNXLS14NFV4OW1WYW1SdS1LU2c?oc=5",
+      "published": "2026-10-02T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,24 +83,36 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Cornell snapchat messages included picture of Jane Doe in frat room",
-      "summary": "Cornell snapchat messages included picture of Jane Doe in frat room CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDVjd2FSQ1hyT3Y5SlZxczhpejBuUUlNeGp5WXlEWFBfcUFscWROMG1HdWFSbkJPbjBHRWVtSnVXN2lrWW00UVh1VmtvQUh3ZFhqWExoekZqTDdva0NYRDloVEM4cUVrd3A3UDBBUUJzSjVncF9vRTlnajhoOGVxTktHYXI1bEViLVl0OFU3R0hVSEV1T1Q2dXRpcGRYcEZrem9XNEdkdzVZNGM?oc=5",
-      "published": "2026-10-01T23:32:00+00:00",
+      "title": "‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar",
+      "summary": "‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar CNN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVF9taTNLTzJXSHkxUVFISFRCYzVxekRrdkwwNlNob0o5Zkptd3ViUFJnUTA5NTNJSXdkUUR5UEgxUmVkVGFDWE9zdTRqVlZ0eXFWT2l5Ykh0Tnc0T19OYzFwdDlGX2dETUlHdUUwcW0zejUzNkpNTEJMak5OZHdzQmltN0pReWxZd0puTTN5bjBaZElQZWpkUGczbkdWY2szUmhGVEJYQ21zb2lGSkZGc3JfdDBYWUtEM3c?oc=5",
+      "published": "2026-10-02T08:03:38+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Trump jokingly calls Paxton a ‘pain in the ass’ at Texas event",
-      "summary": "Trump jokingly calls Paxton a ‘pain in the ass’ at Texas event CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52bGxWTkxvUkpLVVVxNW41WjVscDJuZm0xckxhWFNFOXExVXhuRFBzeWd6YU5fa1NoZ3VvbVRwSHZSdXFzNnpnZkF0eFJfeFI2YlRfRW9BSGtpb1I4WjEwUnBkcGV2ZHYwWEYwNmtVd2pDRWUyRElCcg?oc=5",
-      "published": "2026-10-01T23:14:48+00:00",
+      "title": "Vance talks 2028, Ted Cruz and a tough midterm climate that could factor into his future",
+      "summary": "Vance talks 2028, Ted Cruz and a tough midterm climate that could factor into his future nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU0J2WjVfM3BBRmY0VDdEc0xKVXBTT0gyYTVjU2dWSWRlSjk4ZTI4UEdCTFJKVWtRZ3hOYi1Dd08xWnlSN1JfcGtrSmFDQ3YzNlFtVlRkRGJrVU9kZnJmbndDemxrRkdrbVNxYWVGYk1SWlExVjBMYXN2bnc0MmJIX29Pak42WnFibGpPc2JHOFdoYVRxMkJ1ZHhSaw?oc=5",
+      "published": "2026-10-02T01:03:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Castro Valley pedestrian killed in hit-and-run collision",
+      "summary": "Castro Valley pedestrian killed in hit-and-run collision CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXBJVjFhbmFFdDZiLUpMVkNDZnU2ZVZHT3FZZlNURzcwQ3E3RUc4U2M1SnhVZEFzVTVPODNJbzF0NlFxdk5xSHhBVDBPV1BaRTBzbjZ1bWNmR2hybGt4eXI5a2xGY2tRTGJaMGQtZHNrMUU4QTUtVXBCdTEwU21WU0hNZVFzNUtzeE4zalVXcWdvYWF4Y19KUEptcExpdU9w?oc=5",
+      "published": "2026-10-02T00:00:46+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -92,27 +128,17 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Three reasons why bitcoin's recent bounce could be the start of a bigger bullish move",
-      "summary": "Three reasons why bitcoin's recent bounce could be the start of a bigger bullish move CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjhtOXFoNHJBRFNyb2JSZ3RRdV9PWDJrMkZORUxBM2NmVVY4YTBVUUpnMGQxX0VKZ3JsdWs3YjNxaVl6TmY1SkEyU29ic0hiLWM1YU51YThMV2Y1dFo5X3VPZEdVM1YtTmsxM0d4d3kzU1VRa1FzY3JXNUE3TlpTQmRBYUZMT1F0N1JrV3Jpak5pTl9Ib0xlQUY3TVY3RFhCOF90V2JwQ0pScG02N0trY1liaGtRVGE2R0pSalp3?oc=5",
-      "published": "2026-10-01T20:56:43+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Federal judge refuses to accept Christian beliefs as excuse for company's anti-trans discrimination",
+      "summary": "Federal judge refuses to accept Christian beliefs as excuse for company's anti-trans discrimination LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREdfVHFFVU9wd1lES1NGaEVNcmJ2dk81ZExiQjVMWlRyZGFGVll3NkNpczd5NlNxSW1pMk82YmtYQW5Za3FiZ3AxNUg4cFdmT05KLUZ4ZGlUai0zRXAwaWZBYko0NElySFZnbEh0Q3NOeWktZGp1WVRUOGo0b0lsQU4xWjhfcW1JeE12cVdOdmdWV1pQb3IyMWFfNGFxMlNzOGZmN2QtdEU4MFFxSkxaRm4wTUpzUW1lTFdzM1hxSkpxYzNFUEM2alBrYkZLc0xD?oc=5",
+      "published": "2026-10-01T21:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "New revelations in Cornell sexual assault case spark outrage",
-      "summary": "New revelations in Cornell sexual assault case spark outrage NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUU5LdXhhRlNoT0FXdGNIY00yUVRvTk1HM1BYR1E1Q2J5ckhjMERncEEwNHd0bi1GS1V1T3Nqbk1BbThSQUVxWHVrdmRYTW9BTWEtRmhKRXNENmdqTjRLMkFqdzlIa3k2LXRZbHIzaE5oMXlSTDN3QVgzUXYwYm96X1JzU2RhanRMU2xpVk9VODN5dnhlemg1dVNiUW9KVkRXS0k4amk3bnc?oc=5",
-      "published": "2026-10-01T20:51:55+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "Business",
+        "LGBTQ+"
       ]
     },
     {
@@ -128,18 +154,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
-      "summary": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYzNNTFJDQ01FTGtXMmZPWFFmd056b05HUFB5RDc1dEk0THN0VzFOalRmUGpYbHhWODhDRngzX3NsUHd2V0pVbjl2ZnpvSjRrQy11WC1HLXZGU2c5VXFYVEZVRDZFNmFjYzI2aUk4c3l3amttNlROcjZyaW5VYW1uT0s3S3R2UQ?oc=5",
-      "published": "2026-10-01T20:15:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -152,35 +166,11 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "A new California law bans child marriage. What's the global outlook on the practice?",
-      "summary": "A new California law bans child marriage. What's the global outlook on the practice? NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzMzbUZnMFNWUlBEX3VKYVBINnZxa28yNlZ6VkppcTVaQVNrR2dJRC1vTEt6Q0JJZ2hNUVpWR00ydkRwakJqMkhlb3pBMEd2SWhvOGZVaGJxdFppMVFRczc3U2lWcnFvUUxhbHRhYWZJOE83WHpCWTI0c1VYdURod1Y4RlUtX1pZbmM4?oc=5",
-      "published": "2026-10-01T19:44:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
-      "summary": "Boeing engineers and technical workers approve new contract, avoiding strike CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUFUOGpPVnFHbmlyZUc2NVdlc1FoSnBMNUFScmFKbU9jVlR3Q1VTY3JjWElfMGgwU3BYc1J3ZVNEMFZPRExfclNsdEJ6NWptT1NXUThIX1JpVjUwQzJzVzNrVlNvNmZ1NkdwUnVZdnlDZEhidG1nSmFxWFo3NjdtMzBGQkNla0HSAYwBQVVfeXFMUGgtREkwbkFlMHBaalRXN3Z6bzFVZktOM25LMXFWQm0yS092bnhLWUZncnhVY2hwMDZ2eXpGNWdSVGVjUmVxdHdqc01IWU9YX3VPTHBCeTY1alNlWGhKckRRUkpFVkl1OHY4OW05UXVNSU82NXZneW1oeGRGZ09WR1VRcWV4Y19FUld2bjU?oc=5",
-      "published": "2026-10-01T19:36:58+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
       "title": "These 8 new California laws will have a big impact on schools and students",
-      "summary": "These 8 new California laws will have a big impact on schools and students EdSource",
+      "summary": "These 8 new California laws will have a big impact on schools and students edsource.org",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVTNoa185QVNkMEFSWWhsYUpUMGNKd1BYb0N6a2t3NUU2Z3RfdTZiOFh2WUk1NEFocTc4YWJxLWZPS0ZsX05XTEFOUUVPeXpMY19uYVdUMThOVUlGUnZicEc3NGxDUFB1dU9yWWhMakdTYnEtZjNWZlBSbFRRNWFhRkpOVEV5eXg2bkxtalU1djRQeWNMaWdBdmNDRXh4UdIBpgFBVV95cUxNbTBOZEhZTnhkS19mWUlfV0R4YkNkNjFRRG1KRWxQRS04NzVxTmFtX1YyOHFvUzB1XzkzN0lrN19WWGRHLVNBb1hfMWljR1liZmljTU9NN3BxVWtfaTl0c000SlZ2dVMxOUpDcDdnWnZqYTd0MzVPNjlZQVYxQ2VMZjU4MUlnQ0I4QkRaTk1TLW1pdkxtcHpVOEpsQm92eWp0a1NTVDN3?oc=5",
       "published": "2026-10-01T18:48:54+00:00",
       "beats": [
@@ -188,11 +178,23 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Antoni’s signature leather jacket is apparently in big legal trouble",
+      "summary": "Antoni’s signature leather jacket is apparently in big legal trouble Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0E5bUlFdHdfb3dFNFNaZXE0ZU9mbDhzREJkMWU4MnpmaHRjSUVoTF9RTGhCSFNZbjgxanQyczdyeEMxd1VvVF9GSEw4ai1Sc1hzNHRTN21pN2Y4SXpZX3lOMUVuTnBiMExMNmdFMGRybVlSZkZLNHhwM2pqZXJBai1jSS1nYWlDOE4xLXNHek1MRUdfQllScDRyWEZXejNzY1o0?oc=5",
+      "published": "2026-10-01T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
       "title": "American passenger drafted goodbye texts to her family as Flydubai plane plummeted",
-      "summary": "American passenger drafted goodbye texts to her family as Flydubai plane plummeted NBC News",
+      "summary": "American passenger drafted goodbye texts to her family as Flydubai plane plummeted nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTm12clpwMnM1ZWY2ZEZ1N3BSUkdEYUtxeHRFSHY2c2YtbDdENXU2SUppa1M0NmVTbWlicGRDaUdMZlJLYnRudGJlemZlWGx4N2hoUFpRbFI2LW0wbmxYR0Examw5Z0w1cnBIME5rSHNteWRPZURWQTc5clVpRGVINy16cmEtVGp2UmtoUlZUaGpmSF95X19mUmtiSWg4eG9aNW9JM3Z6cHQwOHppRzJZ?oc=5",
       "published": "2026-10-01T17:59:22+00:00",
       "beats": [
@@ -209,6 +211,18 @@
       "published": "2026-10-01T17:46:25+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Dual U.K.-Iranian national arrested over security incident at U.S.-run air base in England",
+      "summary": "Dual U.K.-Iranian national arrested over security incident at U.S.-run air base in England CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVo0MGNTb195TFBwaG9sbDhXS3dXRGRRNDJqNmVzeVBIVTlhSWhIX3AzN3lxcGJFR0lia2lSbElwWENERlhNXzJOQ3pOVDRVVWxWb2dZdmdSWTJxQkxyQTR2SE9BRUlld041M005aHViTkZmeGd4SDVTQnVLQXdlRzd4a2xlVFZ4cTE4bzdYeWNUYnlLVkllLVdEOFEtMTc3?oc=5",
+      "published": "2026-10-01T17:43:51+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -233,18 +247,6 @@
       "published": "2026-10-01T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "FlyDubai co-pilot stabbed captain, tried to crash flight to Israel after \"radical indoctrination,\" Netanyahu says",
-      "summary": "FlyDubai co-pilot stabbed captain, tried to crash flight to Israel after \"radical indoctrination,\" Netanyahu says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVnSmlhSFJ2SDI4M3B1SVhEd2VFQk1OZXRGRVVTaVpRRUdjLUtVTVJtZDZIWGlXekRxUVFrTTNFd21xUWNaRjF1dzRvYTk5N25Cdkg4eE16WnBIeEhYMm12OXpqSzBVVVNfSEg1bnZqbGd6V0pQTDhJZUw0a2dKSkcxTklSdUkyQUFfQXBDYk5ZMmk1?oc=5",
-      "published": "2026-10-01T15:38:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -288,22 +290,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash",
-      "summary": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfWWZBWjNOUGNjMVZoYlFwcFg1ZVJCUlNOdGR6LTMzYTN4WHA0LTkxdVpaSXR4MzR4YTNoazVSOVFxSHZMejcxMFNlX3FYMDdDLWoxVzkybm96ck9STzBEbDczcXZYSk9jM1J4VUVFc1F6T1A3SEVN?oc=5",
-      "published": "2026-10-01T09:01:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents",
-      "summary": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
-      "published": "2026-09-30T20:24:05+00:00",
+      "title": "Opinion | These Things Are Computers. Stop Talking About Them Like They’re Human.",
+      "summary": "Opinion | These Things Are Computers. Stop Talking About Them Like They’re Human. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CMk41dDBCTDlEYTlGb0FrU0VfYXpmVWVNbVJMWE1XSGg5SlZRLUhXQTRVSXV0cmxPczNGbnd2RWZKOEdjZERSR3gzaERFSGI3WVFhSDlHMkZYeVhZQUN1ZjhrTWo2bWc?oc=5",
+      "published": "2026-10-01T09:01:30+00:00",
       "beats": [
         "Politics"
       ]
@@ -345,25 +335,25 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Lil Nas X’s comeback, Grant Knoche bares all & all the best LGBTQ+ releases this week",
-      "summary": "Lil Nas X’s comeback, Grant Knoche bares all & all the best LGBTQ+ releases this week Queerty",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNk5tVFMwY01QTGdMd2g0MkRXckNndk10VzYxS0dmM2h5cXZheE0yUmVZQklBc2ZkTXpPZWRFb0FSeVk2cmtQU3NiVFFWTzEtWGVMRy1Ra21nM1ZrUUIzNFVYWXlYVTNuTGpEMTMzX3pYT200aUI3aFhVc0t1Smg5dDhRYmw1Z3U1a0c0TlpidG8zSjVXRmRINFo1RWZjMWlacEpDTGxMdEc5YmhiVVh2S2VBN3o?oc=5",
-      "published": "2026-09-30T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
       "title": "Iron deficiency often goes undiagnosed. New guidelines could change that.",
-      "summary": "Iron deficiency often goes undiagnosed. New guidelines could change that. NBC News",
+      "summary": "Iron deficiency often goes undiagnosed. New guidelines could change that. nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDQzOU9KTFZxZ05oRHVQbl8tZEZiWkNYMGlWVXFfU2h1bldfRTk1c2NyeXR5MFQwWTIzTXRPbFhTSkVMWHZOZzJiYk1oR1RvcGMwZ0prSG5VbTZVY01oN0IwbkFqeFVyM0VyZnlPbEMzdDBMM3lrZ0NZZG9uQkxqZnVsUEtjS0NiZ3hQcmlvWXFnallwTGNzSVRTdFBQYmtOVVNMOGZHNktOckJTRVFiZ1NyS0JCdDNu?oc=5",
       "published": "2026-09-30T17:14:59+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Viper Image That Caused Alarm in California Was A.I.-Generated",
+      "summary": "Viper Image That Caused Alarm in California Was A.I.-Generated The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ITHZsSGdvbW85U1c2RlprcmNpeFNGZENnSTV6dlVNcHk4ZW9pSDJ3U0ZINEtaQW5Nc0s3NE5nY1BhQ2pVZDhjY2o1RVR3WmlUZXk3U3NBbjFDVlFyOTMtNzNTUm9WanpRUHlpa2cxbFlTNHlPZ3JLcnI3QVY?oc=5",
+      "published": "2026-09-30T15:43:53+00:00",
       "beats": [
         "Politics"
       ]
@@ -372,13 +362,24 @@
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "This trans man has been harassed by the same poll worker for years. But he won't be stopped.",
-      "summary": "This trans man has been harassed by the same poll worker for years. But he won't be stopped. lgbtqnation.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaU5NT1RwVXdUamU1emluS2FjYVBPaDV0blo4VzBWTmN2MU4yTWgyajllalJvTXNFVnJ2V0RkaFJyN1BCOW1HM3VxV3FjcVR5N0ZUbjRwTm1MaVFRWlNqNWV1Yi1iWW5oblhvSE5zQjQ4SElaV0hOV2tJTHI3NE5mRUNPaXF1dllKSTE3LUF0RWZrVmVXaG83Q0FEVDJwclJLWGNCZ1RaZ3pYNTdETGdlNzV2cUdFajRDTlFkOWw4OFhsSWpP?oc=5",
-      "published": "2026-09-30T16:00:00+00:00",
+      "title": "Lindsey Graham’s sister snaps at journalist who brings up gay rumors about her brother",
+      "summary": "Lindsey Graham’s sister snaps at journalist who brings up gay rumors about her brother LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzE2LVoxanFkYjJUaUM0aThsNFphYkRXT05ZeEN5U2xrTHF0SHN5RGkxZEtaM2ZocXNzcVhnSWZFQUs1T3Q0bnNEM05fSmVHeTAyQmIxb2pFQ0xiMGM2QTRZWXZzOHBlbEJIblZVSEk3SnczTkpjOVIzQ1BkdnlWQkxneFotRU43VEZ4bk9XS2FCSzFqdnYyNFQ4WXhqcVozQk9CNzVqdjdGU05rZnd2clY1LUloeW1Yc0dNcFA4WQ?oc=5",
+      "published": "2026-09-30T13:30:00+00:00",
       "beats": [
-        "Business",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "SAT scores are up across the board for class of 2026",
+      "summary": "SAT scores are up across the board for class of 2026 K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGh2ZGZnTXZ5b3hPVUxIZEItN0ViT21iV3VqSk5ENExyLUVBOGlnS2UyWWVaczVxbG9BX2Vta05mbWt0YVUteVpXcWZPbjg1OXVORFNEUnVDckVjOVRZNjJXMGN3Z0hVOXpwYmRhX2dDYjI2NDdRd21YQTRWMnE5SHFxYjZERFktOU4zOWdxY3k5d1U?oc=5",
+      "published": "2026-09-30T12:53:09+00:00",
+      "beats": [
+        "Schools"
       ]
     }
   ]
