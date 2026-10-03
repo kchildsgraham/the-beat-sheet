@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:54:51.937650+00:00",
+  "updated_at": "2026-10-03T15:53:21.007603+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,42 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+      "summary": "How Nvidia, Micron and a surprising jobs report drove last week's stock action CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGg4dlFVOVZjcmJ5ZVNUOHlmRTlISFFpdGlDVi0yTHhCUmU5ZjNBNGJtSE5Da3BRWGVybkFxMGZVbmFMdDh0NDFLQ2xEOXFQdE1TUUk2VXJFUUFobFk4dUhZekJGMDlydm9zRVFZQnVfd3FVbFdINVROMEE1ZXNLbkM1ZmJRSWQ2czM5VDBwS0J1REhEYkUtWDUzLW1oX25vd1lSYzdVN2NxM3ZDVkZ6OEh1cw?oc=5",
+      "published": "2026-10-03T15:06:10+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Opinion: A Hawk is not the same as a Hawkeye",
+      "summary": "Opinion: A Hawk is not the same as a Hawkeye NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUxPOHdEeEstNHhjdkFKS01palVXbE9XUUNoT1QzZkVJRlpCdGJlcV9pQ0xYdVluTFJzNGo4T0ZJRlNScWNQOTFuMDJrdEYtMVZrbm4yd2RERVZSOWhYcTVkYjRBR3I3MFVQUFY3ZEk3LUVEby00MEhzLVR2UUR5ZjRNLW5KV3ZDTXZ0VkVtTklCZw?oc=5",
+      "published": "2026-10-03T12:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "These 55 deals are worth shopping ahead of next week’s October Prime Day sale",
+      "summary": "These 55 deals are worth shopping ahead of next week’s October Prime Day sale CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSDliNUVtbDYySkZrREVkU1E5SWVJQWQwTExyS09heDk2Nm5aWjJ4STJSdWlySjZ2WjlqQzVfcFJEay1KaXM1OEFCNEFqcVZsejd1TVZ5Um40c2lkSzdYM3FmR2FmRllzbHRacEUzdTVvbVpxSDRmM0YtZ251SC11bVlBaERoQXM?oc=5",
+      "published": "2026-10-03T12:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -35,10 +71,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Terrorist images found on Flydubai suspect’s social media",
-      "summary": "Terrorist images found on Flydubai suspect’s social media CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFJHa1c1V1VYYlh2Tko2NDRBSkcwVGd5SU5meFc3ZEM5NUUyQUE4R1k5a0RTLUxFZ3BJQ3hkTkJ5N05RWG5NTks0eF8tcC1hRHp1QjNjYU5SSjB5VUZCdk95V2tudzh6cHQzLTkxSG9WU1daV096SmNVZHZFNWxMeEd4U2FiUnc5?oc=5",
-      "published": "2026-10-03T10:48:55+00:00",
+      "title": "Clarence Thomas is in the hot seat for Supreme Court’s biggest climate case in years",
+      "summary": "Clarence Thomas is in the hot seat for Supreme Court’s biggest climate case in years CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDFyb0lWZ0xpWHdsVEdtT0VIZHhweHRjWWhKX1FBZlE4N0lKTUxvczdOVGo2aDZ6ZHc1V0dlQ3FDYUIwb0d3dTMtdHlvOHZxbjFvUDFfQXNkVkhJOFRVMmxaekV2NlhIVjg5VTdZVjV4cThJMjNJczNsV29TV1NxSXd2MzdldlpJZTZZYXB3?oc=5",
+      "published": "2026-10-03T10:30:46+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,8 +83,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "A growing number of House Republicans privately believe they won’t win the House",
-      "summary": "A growing number of House Republicans privately believe they won’t win the House CNN",
+      "title": "A growing number of House Republicans privately believe they won’t keep the majority",
+      "summary": "A growing number of House Republicans privately believe they won’t keep the majority CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdnlxVjVYX1JDYlFfZ2dSN0ZBcU16N0xFa2g2T25IMmNscjRLVEVobzJ4NXd0UjVWa3NmWGJtMU90UzIxVkVsUU1Jc190dV9zU0JUMGlKckhKVjItaXB4b2ZtNUlic0ZaLU9xb1NtS3RrNjhQQkFRT3MySW9MZXAwTXNFaw?oc=5",
       "published": "2026-10-03T10:30:45+00:00",
       "beats": [
@@ -59,9 +95,9 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "The Supreme Court faces another term jam-packed with controversy",
-      "summary": "The Supreme Court faces another term jam-packed with controversy NPR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFkU1hYNXNZdlFNTWpDanZmOTFMMjVMNERwZEQ5R25UTEpSaUtfcU5jQWtIdGdUaGU4aTF0c04zS1RFMTg3RGtHeUFxTnFSa241Rlp6T1lySTFNcFZOODM2OGRLMVI1bDVzU3RKcXlRYl9WZGE3ZEZoODQ3R2x6NW9YX0xWT2p5bnlKYXFWbEJZZ21WOVBIZlRmeXdLb1owSGFv?oc=5",
+      "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
+      "summary": "No one expected Leo to be pope — except everyone who knew him as 'Bob' NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTdNaDR3ZGtTR3Qybko4T0ZXa1Q0cjMyLUdkQ2JQSWR0VnR0QUwtYjZTbEpqdDVaMjhkejVFaTVWbmdOOG9PVDctVkpCTThfS2FJU3NNTkhiT3RWMHpNeVRDWURPd0ZwNF8xalJicmgzQTcteFlBUTRkTXpyS0RvMDFYdVJMMTA?oc=5",
       "published": "2026-10-03T09:00:00+00:00",
       "beats": [
         "Politics"
@@ -71,20 +107,8 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "'Handful' of G20 countries reject U.S. stance on excess industrial capacity",
-      "summary": "'Handful' of G20 countries reject U.S. stance on excess industrial capacity CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWw0S0p6b2pDQVFycHJzd0FreldUWFBPYkdXdDBtWnhPdU5WOFF0ZF95SjN3V2J5ZnU2Y3NJalRYYWljMXJGbDYyMTI0ZlRnUWJRVzhMN1B6TzZPekZvU0dsQjhTUXgzSGRjNWk0Nmt4c2NuQlQ2d0E4c3M3cFVzSDNWWFN5R29fckxxNVFtSG51T3FZYlYxQi1ZdXlpTDNydEczTNIBqgFBVV95cUxPY1c1bWE1RVItT3Q4RUw1bGlmdzg1d3g1Y1QwMFhpcm9vdEIxRXZDZWZ4R0dXUEg4bjdxaUJZWThLQmNGaExMR2hDMFVrYUEwSzViZlRrX3NhSWhPeGIxeDBpTllCWG9JZXdHbmxvZnkwRkE1QVFWV1NHQ25VU1VVNjZ1RC1HcmQ0LXEwdEQ0aXI3SEJxa19yY09fUWMtV2dxd09HRy05Rnpwdw?oc=5",
-      "published": "2026-10-03T08:53:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist' attack, UAE says",
-      "summary": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist' attack, UAE says CNBC",
+      "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+      "summary": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmRTQ3RscWkxMmZfODZ4ZlZjUmJ3OGU1NFlGNXJ2aWJfMUc4X3NCMTlQUDBDTW0zY29TMWF3NFJlVXN6MTA5WUpBbGhRaGk5XzRYRXY1c3RUR3FyQ3JPUmF2VjdvUVYySzFMR1RyWHlMcXBpdWRwNWtHTWFWa0o2V1FVREtiM2Y2eDFheWZaSlHSAZYBQVVfeXFMTkxKVjhsLWRfelF0bjVaeGtDc09DSHJQZloyR2toam14ZVBLdkhKSmlMU0lZM2VGN3dNNGtSVllVZXMxMnRHOWRwQzg5N2Fob3RMWXhoUlZibzVfMERsdWVuQm9LMVNIcjZMU3dlUFMxdmJrMTFLVUhFZ1NJeUpfbTVOejY3d3hEdWNsb21qWENRRFlHNVRR?oc=5",
       "published": "2026-10-03T07:38:59+00:00",
       "beats": [
@@ -104,25 +128,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Breaking down Trump’s new ‘drug factories’ claim about Iranian nuclear sites",
-      "summary": "Breaking down Trump’s new ‘drug factories’ claim about Iranian nuclear sites CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfRXEybHNZc041Z0pkMkNXOWlqa3d2eldTQnBlamtHbDU5dHA4RW9yX09EamJzdTJjWktlRUwyc0RJVllXSHptZW52T3RrWjcwZ0dlVEU0ZEJMMUFNX1I0UW9TaGthOG9leFFnYV8wQzY3Mlo1NlNvUnd3SQ?oc=5",
-      "published": "2026-10-03T04:00:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Brazil's big political rematch: What to know",
-      "summary": "Brazil's big political rematch: What to know NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVpLVS1aSUxZdXVCNHFOS0U5dWs1REd5S1RLRkttb2ZQa1RzaXZLRzFJMkR3TUNNeXp0TnVFLU9acUxqRW9ZZDVfdGZsQjN2R0pxREYyT05GeW4zaG5teThlRVBra2NmVm12eTV2Q2pTbGltVE1hZ0NWVlNaaHphX1ZhYkp4TE1EcWhTMmxHUlZpSmRaNk9F?oc=5",
-      "published": "2026-10-03T02:57:07+00:00",
+      "title": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "summary": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWtLaV9yaG1rbnc1Z2UtU19PZ3pVVXFRRzQ3d0Y0eGNGSm5veW9CSV9aeHViWWZ6cUR2OGtoelRDVjVaZnlFTC1jR0RaMzRub21XaFdIbDdldktDWlkzWnZDMWNtUl9WNGNoNVRZNWpEcl93ZnRGeEJ2cUdUbHhvdXl1eHRaWjc3UmdoVw?oc=5",
+      "published": "2026-10-03T02:12:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -137,6 +149,32 @@
       "published": "2026-10-03T00:58:40+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "K-12 cases to watch during the Supreme Court’s 2026-27 term",
+      "summary": "K-12 cases to watch during the Supreme Court’s 2026-27 term K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVotTEVzU29nUUNjNUhPVUpwZTFyVnM1Mm0zeHd2eExQLW5VZ0JCbGJjZkpWd3FYOVlkbmtNMW9NYW1ISlBNbDhaUHNaa05MQ1pLeG40bHo4RnJiNzNiTE5zTnVqVmZuVzRwWEJ6YVl4LWVxTGdWdFBWaUwzS3NpTHRGQ2dJaXI2Y2J0ejBHa3ZZQXR5djZ5SjEwWQ?oc=5",
+      "published": "2026-10-02T21:18:14+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump is targeting their daughters’ medical care. Four New Hampshire families are taking his HHS to court",
+      "summary": "Trump is targeting their daughters’ medical care. Four New Hampshire families are taking his HHS to court Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQTJqai1UY3gzT3VhUThJbkNvT1ZrcU5ZM2FkNTdRNTgzZEtVZjhJaXNkTHhSMXZlTmFmUEF4YTNUUFQtS0xIcG0yWDY1ZTlDRXp4bXpJYU9MNEcyTVFuMTdDVG1rckNhV2pSUF85eEtKd3pTalJoVnl4SFgtVGZsaW1DaDhWelM5ekE?oc=5",
+      "published": "2026-10-02T21:16:47+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -160,6 +198,43 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pOE1NeU9heS1FS2JITnhVd3k2MUVXYUVZSzI3enUyS0lLdUc1eUs4WDJCNl9XdVlNVnFUcWRGa3BtNEVQYnlSc19XWFBTajhTMGUtRXZBOTUyMW1NMkh5dUN2VUhrZFVSamQ5SWFTOFd4MVZldGY1UHNqdzQ?oc=5",
       "published": "2026-10-02T20:22:47+00:00",
       "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Florida's dengue outbreak is now the largest in the continental US in decades, with over 250 reported cases",
+      "summary": "Florida's dengue outbreak is now the largest in the continental US in decades, with over 250 reported cases CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWh6aThMRWFPM2wwSjduczdMaWw3amlIR2hHVTVFdmw4cFRuT21XQWkwaVAxZ2xHNFY0SUdtc0Y2cGt1blByek5sU0I4QVRTWEdzV0hsZmhVSFFTcjFDWHVnR1Z5cmM1aU5qTlFZTkhEb0lMbHY4WGo0S0phTW9jbDcyOXl0RHJ6WWpNbVNpSUJVZWJnUWxNX0pIN1BLWXl5NmozZ1NjM2p0VjVqR1VqS0t3?oc=5",
+      "published": "2026-10-02T20:15:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "49ers owner Jed York suspended for six games, fined $500,000 by NFL after Ohio arrest",
+      "summary": "49ers owner Jed York suspended for six games, fined $500,000 by NFL after Ohio arrest NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMndVaFh5aXZvWG4xYWpvU3p5bkI5SUdMczNvcTU4LV8zRWMtOWtldTBCdy1UWHlzdXVuVjJLQW5RUGZPT25IdEdHQ0xhblhMMDYxeGEybS1mSTVaU2syOVJaZ3pQemdyRTRZUFluX1BTRkFxUlg2Ym1SeTNYcE9DRzdkSjA5R2lQTXNXREpxTlVhbGZTemhyb1lCazc5cGVCT2c?oc=5",
+      "published": "2026-10-02T20:09:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Republicans redrew his district. Now Democrat Don Davis is making anti-trans campaign ads",
+      "summary": "Republicans redrew his district. Now Democrat Don Davis is making anti-trans campaign ads Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZUxMb0dtM0k3OHp0M2MwVDFMM0ZYMU9vVEk0THpTa2x5VjJTdlY4d3VmRF91emRTUjJnWExjQzl5TWIzbjhqQlBzWXZwdlpYOHpVTWVVSEtDQmVhUnRqN184OXozVTFvWUoya3lHUHRJdHd2N3l6eV9vNlhoMjA?oc=5",
+      "published": "2026-10-02T20:02:47+00:00",
+      "beats": [
+        "Schools",
         "LGBTQ+"
       ]
     },
@@ -188,6 +263,19 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Leading US trans rights org cuts nearly half its union membership",
+      "summary": "Leading US trans rights org cuts nearly half its union membership LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWpQWFdYVWxkX1E1WkZXNnVfT0dTZUpuLV91QVhsUDJrQmxac3BaaTYyYWtPM3BLUUdOc0lUMC15VEw3b015VWtURTlESEtkUk9ReWZQRUpEYWpMMERpSmRoR0MwZ1g3Ni0wMGJ6ZUF2VzlRUEVXNF8wTzBpZHNRZlZoeXJMNkRnQ3oyOTZLSVhNdDNQU3V6UGdvMlBscE0xcFJBRg?oc=5",
+      "published": "2026-10-02T19:00:00+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -213,15 +301,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
-      "summary": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemR4OXdzUnRTS01EbDdkQl91V25RY1hUTG5tX05sUmMtUmtOQ3pqeV9zbDRSbzNWbzdHbWFoSzhsNWFlVVREdnFuekV1UVNYVFBuVkFDcHF4MENzZzVWaElCMmZIbEpWMjBkWDlPUlh2MDRkVnJLajhwelZhN3RQNTlxV25NcVlBcEJ5TXduSUwtbk04OU1nd0FR?oc=5",
-      "published": "2026-10-02T10:00:14+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Bartender blocks trans woman from using restroom to tape up \"Ladies Only\" sign",
+      "summary": "Bartender blocks trans woman from using restroom to tape up \"Ladies Only\" sign LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTd6MUMzSG5LNXJ5eThnalpJdTZQRmplZXdiczZHMHIyVVlMS0hGeXA4ZDRfbmZkYk54OHhjeWN0NllrOEZXUl8xeFpfU0JJcURaMmRVMm1RTmp5bFZJVXFEa2JQTTBVb2h1ZmotMGxOZlJUM2dNMU1yUGRCbkRfcjZ4VGxKbnJrQS1xNFJzQUxLR3N2ZlI1RWpuLWIwREVlbGp3Tk9TMWNFS2RPb3pqcXYxTQ?oc=5",
+      "published": "2026-10-02T16:57:48+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -238,14 +326,14 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Castro Valley pedestrian killed in hit-and-run collision; suspect arrested",
-      "summary": "Castro Valley pedestrian killed in hit-and-run collision; suspect arrested CBS News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXBJVjFhbmFFdDZiLUpMVkNDZnU2ZVZHT3FZZlNURzcwQ3E3RUc4U2M1SnhVZEFzVTVPODNJbzF0NlFxdk5xSHhBVDBPV1BaRTBzbjZ1bWNmR2hybGt4eXI5a2xGY2tRTGJaMGQtZHNrMUU4QTUtVXBCdTEwU21WU0hNZVFzNUtzeE4zalVXcWdvYWF4Y19KUEptcExpdU9w?oc=5",
-      "published": "2026-10-02T00:00:00+00:00",
+      "title": "New information uncovered about death of 6-year-old Frankfort, Illinois girl run over by her school bus",
+      "summary": "New information uncovered about death of 6-year-old Frankfort, Illinois girl run over by her school bus CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmo4bFhzM1lPUXpzZ1lYQjZ0a1h1YWhDZ2g3aW80MW1qVU9oVlIyWkRjc21rdzhENERnWnhnTzMxbXNyTFdZQTVpbVVxQ2RoTWhuSTZRcENyNkFQaW1aZ192dGxqUGg1ZUhFNGhjaXZBWEN1LUV2S1BCMnRZZ2VGRnRRWGthd1VSRXduZkNXMENaRU5kc21RZFRWd3BwUUQxbTh2eVNFSlhWcW8?oc=5",
+      "published": "2026-10-02T03:18:00+00:00",
       "beats": [
-        "LGBTQ+"
+        "Schools"
       ]
     },
     {
@@ -286,18 +374,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Macho man Pete Hegseth turns ‘State of the Force’ address into a spectacle of slurs and self-congratulation",
-      "summary": "Macho man Pete Hegseth turns ‘State of the Force’ address into a spectacle of slurs and self-congratulation Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHJuM2wxR3pYb0pBbGRESi1QNU9wV3hvWkUwcFY2c1pJQ1VfTFBtRjdlNkhGZjVva1h4NTBkNVJSeS1wZ3hTN20tOG1PTkpUSFMxSHI5NFo1SFRBekJQUXhldXN3N3p1dWNtVk5yYjcwOGljcUdvTkpNa0xoaVdQQk43UlZkYzF0NTRDWQ?oc=5",
-      "published": "2026-10-01T21:12:21+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -308,78 +384,6 @@
       "beats": [
         "Politics",
         "Business",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Kansas AG Kris Kobach uses transgender people’s social media posts to defend forcibly outing them",
-      "summary": "Kansas AG Kris Kobach uses transgender people’s social media posts to defend forcibly outing them Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVVXlfOUlxZmZDNGx5VXVQZFJVS0tteTgxMWZSQUJYQWdMUFZMcHVYaWZPdURJSDNPU21BM0l0cGZmbVdubHJSWnhhbjl4eWJvVE4yQ0pGX2k0MGg5V2hwRC1DMHBfZWNvbHJJRVM4WGNYcjNmdE9ialNMaGxqOTA?oc=5",
-      "published": "2026-10-01T20:32:25+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Transitional kindergarten for all 4-year-olds must include enough bodies, potties and play, panel says",
-      "summary": "Transitional kindergarten for all 4-year-olds must include enough bodies, potties and play, panel says EdSource",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoWl9aWHpZYjM3R0JhV1lJcjZqLWQyN29OMVR4QUNncGFBZmM3ZncwRHFYQ19TR21RdjdXOFNPbDZiSnNIZ2t4Tm1wNTFEOWVhbDhFR2RMc2Nqd0E3WnhaVTJaVTRERjFkN2M5V1JPdE9QUUQwYnc?oc=5",
-      "published": "2026-10-01T19:39:03+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "These 8 new California laws will have a big impact on schools and students",
-      "summary": "These 8 new California laws will have a big impact on schools and students EdSource",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVTNoa185QVNkMEFSWWhsYUpUMGNKd1BYb0N6a2t3NUU2Z3RfdTZiOFh2WUk1NEFocTc4YWJxLWZPS0ZsX05XTEFOUUVPeXpMY19uYVdUMThOVUlGUnZicEc3NGxDUFB1dU9yWWhMakdTYnEtZjNWZlBSbFRRNWFhRkpOVEV5eXg2bkxtalU1djRQeWNMaWdBdmNDRXh4UdIBpgFBVV95cUxNbTBOZEhZTnhkS19mWUlfV0R4YkNkNjFRRG1KRWxQRS04NzVxTmFtX1YyOHFvUzB1XzkzN0lrN19WWGRHLVNBb1hfMWljR1liZmljTU9NN3BxVWtfaTl0c000SlZ2dVMxOUpDcDdnWnZqYTd0MzVPNjlZQVYxQ2VMZjU4MUlnQ0I4QkRaTk1TLW1pdkxtcHpVOEpsQm92eWp0a1NTVDN3?oc=5",
-      "published": "2026-10-01T18:48:54+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trans teen fights back after principal bans her from running for homecoming queen",
-      "summary": "Trans teen fights back after principal bans her from running for homecoming queen LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlF1OEpCVjRWTzYyeGNBN0pEaThLRU1keW03S0Y0cURKTldFV24xRGdxRjVld0pIN1pfdG81ZlVlTlJDTXNzam5uY2FIWUtTMmNQdWNERXlzbVQwV3pDWWVXSHRHeDZSVFlVNjhPRHJKeXBsWUprSjluTzFyNlJGRkMxVkJ5NWJsZWRlaFpsc04tOFV0OFpLak9uV0k5X2RoaUtYdjNMQjAtcUFkZmhBNTc5OE1VdUFFZkE?oc=5",
-      "published": "2026-10-01T17:05:20+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Antique vase catches the internet’s imagination for the spiciest of reasons",
-      "summary": "Antique vase catches the internet’s imagination for the spiciest of reasons Queerty",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0E5bWxMV2VpUUZwZkx5ZzFuc21ZaUlRQ2pxUld2LTFkcmMydEYtVHhTeWxac2xKWnhXbUlWc2R2eXNnM2QzcnRiTUtVOG1QaTRzNGl5RkRLZTZ0SWtJOWxkV2NBWGRMWmw2N1h0NXlybWRmR25ENE1qaEFMTEtSSDBoZUdZVzJJM0VwOXVyV0Z5WGFfeTRxTlZZOEt6aFNZRUc2WFkzajdZSjh0?oc=5",
-      "published": "2026-10-01T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco underground vault eruptions shut down downtown blocks",
-      "summary": "San Francisco underground vault eruptions shut down downtown blocks CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRk1aVHcxdHZCV21ZdFpYZWFJRk1tbXlReHEtd29vYmYtMTlGZ2t4MFpxV05LWUFLV2R3WFBoZE9MbjVjWGQzeF9IcmlYd0Zib0pkdTEtWlZMLXJZWmZySU10bHNBVlJGZ3BVWGh5OWdGQ0pvSXBtcHNrZlNoWUFLTlZ2bjRhOHpUUnVDeGJ3?oc=5",
-      "published": "2026-10-01T14:41:00+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     }
