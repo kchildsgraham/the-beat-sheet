@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T22:20:14.516016+00:00",
+  "updated_at": "2026-10-04T01:52:01.264863+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,39 +20,63 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Coast Guard searching for missing medical plane carrying 6 people",
+      "summary": "Coast Guard searching for missing medical plane carrying 6 people npr.org",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHhEbTBXbC1FdklFMk5DVzVaakxUSl9STm9HcVd4UFBRNlRDcGpkVVpGUFdhdkVVdjNuRTFBaTRKaFl5b1NRT2dBX3pHQjBqVWctQ0pVLThQSW54MldTX3J5YlZZX1I2YjFlTWlRUlRqUzRVTE03a0NfdlFMMW9FMUxwakJOTkZmM2J6UGtnc0xFZ0E?oc=5",
+      "published": "2026-10-03T22:31:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump posts GOP lawmaker’s phone number amid spat over Daylight Saving Time",
+      "summary": "Trump posts GOP lawmaker’s phone number amid spat over Daylight Saving Time CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdW8xUURRRGloYU1SS1lhX3kydHktN2VxVHVnSnNHaXhjM0RHdGcxOHZWeHN3V05CZDBRSUVOSC1zRW8zenJkVFMwTHVlLVJ6SnpFdWdWcTVSR0tmMTJqUnktMjg1NmU2MUQ1djhWZlFKS1lkSGVvZUh6aGR5N1hTVXd2ZDJMWmt1MmlZc0ZB?oc=5",
+      "published": "2026-10-03T20:17:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Coast Guard searches off Nantucket for missing medical transport jet that left Bermuda with 6 aboard",
+      "summary": "Coast Guard searches off Nantucket for missing medical transport jet that left Bermuda with 6 aboard CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGtpY0FITkF5a1ZGUnNnNkVzRTA3YUJ3UjFOLW93UFRIREE4UW9wcXJ0OTAyd0xWZ19ENlZGVndzcUdQQnZwS0E3Rm5fNE95ZWFlOEJMSGxOdHllTG9iYm0zcjJoVzJnUW5ZMzVKU19WXzhSOWFFdXpNQjRMVDRPVGNpN1M3d0V6d2JLTlZ3?oc=5",
+      "published": "2026-10-03T18:04:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘To Catch a Predator’ spawned a generation of online pedophile hunters",
+      "summary": "‘To Catch a Predator’ spawned a generation of online pedophile hunters CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1luY2FId1ZwaVcya2NtWGhlSmd1bXg5bUNGRTkxZVNHLW9BRGptbXBhWUk3cktiSjF5U1I2eEJPdGF2TG5NVlpkY3lfdUF1MG93WDVQeXZzbUdEZXJiYm93Q0pMLVNqLVlmalhmNk5zcmhTYVd0WWx0azNnbnhUY09ZbFNHbjVfcVE?oc=5",
+      "published": "2026-10-03T16:00:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Frankie Grande’s tea, Dylan Efron’s wetsuit, & Antonio Bruno’s b-day",
-      "summary": "Frankie Grande’s tea, Dylan Efron’s wetsuit, & Antonio Bruno’s b-day queerty.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0l6R2RKdjlNTjRScTItaHNDejAyYUNiVkFESGwxeDYxdFllZExLOVFva2dWR2I0UGNmNmVzTEFvZDFzRW9yclpBRlRkRFNmLXRmZTduNmx0SnZ4aWszMVFRSEk2YXZMdUduUFlpa2VFV0t2T2ZHTnkxSGg5M1o1SWhQa2UwVWhzNnhyRzdUUV9YbzZGX0NHcnRTRQ?oc=5",
-      "published": "2026-10-03T18:00:00+00:00",
+      "title": "These gay truckers are carrying the biggest loads… of cargo!",
+      "summary": "These gay truckers are carrying the biggest loads… of cargo! queerty.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHlzVmp3Tjh4MHI3NGtxVlo1SFNOdHFJLW9HZkc4ZUNtbnQxc3I5SG85RnJ1cGhtNkZ6SUpqOGVhYzlvUXJfR0tNMFlpbjVycWdJM2JKUHgtYWNySVRRUWJENWp6eTZzX21zYW84Uzg1bEVMdmRHaC1DcFRBQUpHVEtFVTlXOUVHd0F2WG5iY01iNkRzdElr?oc=5",
+      "published": "2026-10-03T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Tennessee’s prisons chief is resigning after failed execution of Christa Pike, governor says",
-      "summary": "Tennessee’s prisons chief is resigning after failed execution of Christa Pike, governor says CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Z4NU1sbnlRVmszWG5XZ2JNRzZiLVpzMGRFVHpVSEVLWWVKUjQ3TjltcGt1M1pSVGtQUlRsY2JpZmFXZWpWOXJncGNPdk9hc2Q5MW5mUk4wMmVHY2Vjc3hqc185UnVacExhQlk4eFhySnF1Q0pHTW9XNi14eGdLYW1MeFd5QQ?oc=5",
-      "published": "2026-10-03T15:36:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump to give $90 to senior citizens for Medicare premiums",
-      "summary": "Trump to give $90 to senior citizens for Medicare premiums CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Z3B5cFM5THl3QmlWc2g1Uy1LLUEzczJBNllYVl9jSmhENUUxRUxqdlpPYmFIQjN3aFdUa25mQWUwMmpkRlpPOVRDMk4zaVRjczBDV0dQVkVoV2NsWFAtSTBhbEpncGhWdGItbWs5dnY?oc=5",
-      "published": "2026-10-03T15:13:05+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -68,13 +92,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "One dead and scores rescued in floods in Spain",
-      "summary": "One dead and scores rescued in floods in Spain CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTzlNU0pfZ0Q4V2VXTkVId21pdTYwd3pteXZJR3NSYUdET2pKWVNzS0hqTmV6XzE1ZzRkdnh6ZE1KcXV1VHRLUjBFWHVSdDV0Vk1QYTZ0ZE1IbzBFT093eWVmeVpIUURKREMyYm9zYkduN1p0LS1qNkg1TQ?oc=5",
-      "published": "2026-10-03T13:43:12+00:00",
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "summary": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjRDcGpXeEtrQWd2bjdtSFRXM3d5YVU1WVVIVXg2U2I4VFlldUt2UGtsRjhHSU1UZnhEUjFIY3JORm9yNXRtQ3pmM1VnVjlVa0RjLXR1MEtadDgtT1ZGUW5xTlhkbXRzNUxSOVBaUmFzOGlXdUIyQldXSTRoN1pvS1hKYnQ1RjR0UFRCMUtpU0pwY1ltMExwajZUNFM1WjduQXRXNS1Ka1dfQWpESWdnOWNIcF9nRlljSWtORFAtTHVNUkHSAcgBQVVfeXFMUFQ3NUZ6SzhXY08xYXlYLVpzbUM5Qmc2NzlGLVZuam5tZWpvR1FIS2FXdldEWmlSRnE3Q3FaLV9mWGpsQ2FLcjdnakJhdElqMGY2YXI4UDlFanVOR3pHX005RklqMWJ6MXphOEEwMjVHdzVYQ3I4bjl6aVdfS05GZ2RBWnNjYWZDdGcyRU9DdnlTUkVsekhDNmd5eVJNaGlzSXY5ZDg4cGNhQ09UM2ExZGdCdjlqZlEwdlBEMHJTczNHUzFiX0FaY1U?oc=5",
+      "published": "2026-10-03T13:12:27+00:00",
       "beats": [
         "Politics"
       ]
@@ -95,32 +119,8 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Opinion: A Hawk is not the same as a Hawkeye",
-      "summary": "Opinion: A Hawk is not the same as a Hawkeye NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUxPOHdEeEstNHhjdkFKS01palVXbE9XUUNoT1QzZkVJRlpCdGJlcV9pQ0xYdVluTFJzNGo4T0ZJRlNScWNQOTFuMDJrdEYtMVZrbm4yd2RERVZSOWhYcTVkYjRBR3I3MFVQUFY3ZEk3LUVEby00MEhzLVR2UUR5ZjRNLW5KV3ZDTXZ0VkVtTklCZw?oc=5",
-      "published": "2026-10-03T12:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-      "summary": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWY2WG5uVHNUbTI1YTB4NXBpbFYtRHA5QnpFbVZuVVJmS1JaMXBqbW40NlhPNzNsVWh2YmhTWFAtXzlRZFdiSkZaSm9kTGtlcC1LMHNVYXNvMkhaZENKX2VfUUE5emlXZDVRQ2tIWDFHQ01hbFNxS3RKUXhKaEQ1bWUxY2UzQjF5VzZJdXhDWG1QVFpLVllsRU8wb1B5WXlKaU1pd0xGa9IBrAFBVV95cUxPQ1B0Znp0dUZkMjZqLXdyQjRjMnJDOHFXQ3lXV1BmNEhIRHdXbWlFX2ZKM0w3ZGJKVzZyTDBhSHU3X1hkYzhRVm5EeXV2aWlzdEw4YnBTUERVLVFhbGJNVGlXSVl3alV2NGRwTVdrR0p5ZnktcXp6cW1FdFhZa3NPTU5pX3JxM3ZodUJDNENWZE5Zbjd4N3pOWC1MRVl2TzQzb1FQMFBIdGF1RjlF?oc=5",
-      "published": "2026-10-03T11:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
       "title": "Theaster Gates bets on fine china",
-      "summary": "Theaster Gates bets on fine china NPR",
+      "summary": "Theaster Gates bets on fine china npr.org",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sVXR6RmZOSzNyUzU1bnJ0dUVmSm5IbEtianJPWlBhMDV6WkZhMHdQbEt5bld3azUwVnRRUlJyemQ2QzFuMDdDTWdIMF9Kc1V2S0lZTjNIQmJJdjFERHlpM1NXcVVPc09lcDBnZ3ZDZDZMZGRuaDlMVG9sTEp6Zw?oc=5",
       "published": "2026-10-03T11:00:00+00:00",
       "beats": [
@@ -132,7 +132,7 @@
       "source_feed": "NPR",
       "lane": "General",
       "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "summary": "Just short of its 200th birthday, a landmark natural history museum shuts down NPR",
+      "summary": "Just short of its 200th birthday, a landmark natural history museum shuts down npr.org",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXRwYzdfLW9Ubk5DRVhSUTZvN2QxTnBkTC1OTmxMdVY3VEJxUmJuR0xBMlpaRC16UWFPUkVDS3BIWnFBaXhNX2taM2s4dnVOakMyenlFWWJlUHZqakZBeXd1UV9mT2Jsam1HaGVrSXlzZGxIdVRkUUE0WUZ4VFlpMl9xV0hlM3VnM1NTemdFTWg0RjBzX1ZtakJIcnNLZw?oc=5",
       "published": "2026-10-03T11:00:00+00:00",
       "beats": [
@@ -143,10 +143,22 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Don’t Tell Weird Al, but Kyle Gordon’s Satires Are Great Earworms, Too",
-      "summary": "Don’t Tell Weird Al, but Kyle Gordon’s Satires Are Great Earworms, Too nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW8wSmRQWDNzSlRZNFdTZ1BEUXZnTWRsekE5emRaX0lvN3BxOW00S1BSN3ZEWG9HNEFZRVF2VkVfWXpHUkZ0S2c2SGo1cENkTVdhdllqWGd4YkxjMS1ZV3N4OXpscC1ad2hCa09fS0szckRHcW1wcUNmNzhlOFFLbWJmZ3JxSFJpcjN0bXNWS3dzYjBsMkkzVTl4OUMzQ1EzeEpJUmdSdkNMN09GQzBQUDhiXzJRWmRL?oc=5",
-      "published": "2026-10-03T09:02:31+00:00",
+      "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
+      "summary": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWFBdFpIWVdzQ3JQb21kS1dCaE0xM3RSQ2pUV2ppZ25iUU5fQUh5SVdDLUs5UUIzRVJlYnFtVTJyT1pjUGNXWUN6SElXZUlSLU92Q0VQWDRSWXpCZkVzZWdOV2lSUURXWVdGY1AtaHp1cDY4SGlIQUxKOXZYdlB0VDlQd19rbWxwQlN6TTJRV24?oc=5",
+      "published": "2026-10-03T10:25:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.",
+      "summary": "Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenBBdjNvQk50STdTSmlxWkVhanlZQ2pxaThaNHE3MFVTeGlQNmZxdEJwUG1lSVNiNU5pWHZmbGNmNURrQUc2Ukt3U0hsV2RDemFmX1lUUFNjeDEwdHhTZFBHMDlLSmtoZlUtcExzZUN4d21nYXg5bk9kRVFoc1hJRDd4eU9MVnNhaEp1SU1PQ0FQVHR4QXBCemhhakF2Ym5OeDNfRmN1bE1XS1Ay?oc=5",
+      "published": "2026-10-03T09:02:06+00:00",
       "beats": [
         "Politics"
       ]
@@ -156,7 +168,7 @@
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
-      "summary": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races nytimes.com",
+      "summary": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWtLaV9yaG1rbnc1Z2UtU19PZ3pVVXFRRzQ3d0Y0eGNGSm5veW9CSV9aeHViWWZ6cUR2OGtoelRDVjVaZnlFTC1jR0RaMzRub21XaFdIbDdldktDWlkzWnZDMWNtUl9WNGNoNVRZNWpEcl93ZnRGeEJ2cUdUbHhvdXl1eHRaWjc3UmdoVw?oc=5",
       "published": "2026-10-03T08:58:10+00:00",
       "beats": [
@@ -174,6 +186,18 @@
       "beats": [
         "Politics",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Details emerge in case of former Cornell student alleging gang rape by fraternity members",
+      "summary": "Details emerge in case of former Cornell student alleging gang rape by fraternity members CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWURETXRmbHdaS2RQZE9LbU9lU1VjQ1JIUEFzZXZuMDg2dVkyV0tYLTBkNWxRbXdJd0IxdmRmdVdXTEwxa19UNmRCN2hlSjNjRWVMbURnQ0Jiak05THE4RVBOM2k5Y2M5YWdpM0c3c1RjMEp4Tnh1XzJjSmRvNWpONFJ6Ny01bTFCbmw2LU1oN3RfNWpINm13?oc=5",
+      "published": "2026-10-03T00:32:14+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -212,18 +236,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "CBS News poll finds voters split on state v. national focus in tied Maine Senate race",
-      "summary": "CBS News poll finds voters split on state v. national focus in tied Maine Senate race CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5N0NVclRmd0F5Y29GMDl2ckRXbDNYd0cxckc3NmlENmZhcmU3ckc3ektVQlZIZVpvYnFBQlVMVVZXQk0yRDQ1bEs3SXdScWlCNjhYQ1J1YXg2SnNNSGJyV1V0LU9HUjdEbGc?oc=5",
-      "published": "2026-10-02T21:00:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -338,30 +350,6 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "The LGBTQ+ rights movement can only move forward if we learn to stop eating our own",
-      "summary": "The LGBTQ+ rights movement can only move forward if we learn to stop eating our own LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM083LVhqWVVxWHJUUHZxV3k3TlltdUpaSVhVc25JN21xbExiaVdKTTc5S0RFNTl0SkFLYTlyYXNrVVBaYVk2S1cyR0pQd3E5aDJTRVRNaUxQcXNMcDFvSFZ0RDM1Q1V4dFRXeWxTazlIMjZucWVWNTdNWXJZWnVKQWF3QThDM3UwWTdoV0hxZGxzYTZ6Y2pyc2xKZHRtQkdXTnU1dFpNeExlTS1rN1FPMUR3WXRaOVp0dTNJ?oc=5",
-      "published": "2026-10-02T13:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Readers Choose Their Top TV Shows of the 21st Century",
-      "summary": "Readers Choose Their Top TV Shows of the 21st Century nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZW00cXVZWnpVOEdhbVlhbjM2Q1p4NE5hWi1KRS05X1dSaWdZOFRqbUpETEtQby1hcGJJa0RPcW82SWpLVmlQVF8zamZoblpDbGtlVmx6RVpNNTZYQ2pGazFjVmlRZ2RkQy1sLXNkR1RDcFRmRDJ4WUVXY3NsblA0el9EX1V6Nk9hMGNVekZFMzh1M3NQLXBQRnBMLXM?oc=5",
-      "published": "2026-10-02T09:03:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -383,6 +371,18 @@
       "published": "2026-10-02T00:38:02+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Records give insight into how one Cornell student responded to rape accusation",
+      "summary": "Records give insight into how one Cornell student responded to rape accusation NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHYyclYtRDBSOTRneFV4T0tkeG91U0hLaWR6SWJSRlNteHVFOEIzNE1CeV9tbll3WDhKbmo4amxvTFNMelB4NzlDZU95a2FoQjg0QXhIOWFkYXh0MnhJNHc2YmJHM2FMM2RGTW5TMUxZWFNWMEM5dEMtQTg2Y3R5cEZobFBhVVp6Z1VrbkNyU1R3RTBCN3pQMnhQWkhDMGtuc1Y0el9uS04wY1J5UjVBYXNGTDh5eFVoNVE?oc=5",
+      "published": "2026-10-01T23:23:00+00:00",
+      "beats": [
+        "Schools"
       ]
     }
   ]
