@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T22:21:03.536552+00:00",
+  "updated_at": "2026-10-06T02:25:03.670755+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,87 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
+      "summary": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEVJWkd3eGNsWEpIRmFSSDhYcnpfRHZnX3JqWjZyWGhGTmlJY0NWakJYQ2w2Sm5tVEp0Wndnckp6V0FLVGc0T0oxdUJ4NEtFVmlUbGpHQWlDOWo3T3BSa0dKME1ramNqdDJ5OW14T0s1U01yY3ByR3haVUZWVXN2WHc0bE5maXVCelowVk1oZVdSTHJiWVlFSjBFYzM?oc=5",
+      "published": "2026-10-05T23:41:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "What Teacher Education Should Look Like in the Age of AI",
+      "summary": "What Teacher Education Should Look Like in the Age of AI Education Week",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHRESGJIbmFvVEE5QS1XcmQtenhMbkRTbTM2WlBmOXFsMC1vS3huT3BZR0h4czRfVlpNVE5MRFhvOTh3R0c3U25MLUVDS3ZVd29qYWhXdERuSWpuazlDTXU2SnZ4ZlEwYnQtNXFqcW1WOEhCMVhlVU9oU0hCUWRWVENOUkE5MFZ1VkRnODVYSGxFYldic21pSjdR?oc=5",
+      "published": "2026-10-05T23:17:36+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Georgia school district invokes federal law to deny trans girl a shot at homecoming queen",
+      "summary": "Georgia school district invokes federal law to deny trans girl a shot at homecoming queen Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmk5OW43Mll3c3U0ZXJkTnZzUlVmNVVpSGVBXy1SM1J6Zk82ZXJ2ajZoWXhzRHhtQkFtSXFQZzhfUlMyWDRHa1pqYUVVTU45ZDFDUTI5VlpiaDFQX0VMQjdiQlVhai1ueVlDZUpJUVJvNXUwWV9yUVF5aVZ0Q19Nb0F3Zw?oc=5",
+      "published": "2026-10-05T22:58:48+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Pete Hegseth’s Air Force Academy speech backdrop draws scrutiny: ‘Accidental Nazi is just not a thing’",
+      "summary": "Pete Hegseth’s Air Force Academy speech backdrop draws scrutiny: ‘Accidental Nazi is just not a thing’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jR2IzeU1uLUd6UGd1cmtHRE51cW1oSjRIOERQOEdIdzRFYURsV3BoamRYRER6cFNxcUdLQ1F5LTlBN3hMQVc3ekNZU01zZjlfcDFycXhhZS1hMXA4WmpyMzU2UlpCUjFPb28wMFBGc0dPR0x0Z05GNg?oc=5",
+      "published": "2026-10-05T22:50:34+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "For Students Walking to School, the Route Can Be Deadly. What Can Make It Safer?",
       "summary": "For Students Walking to School, the Route Can Be Deadly. What Can Make It Safer? Education Week",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjlEUmVmR01YLXZ1eUFNa083SUljb2poSGVITGdDWmdyQl9rR0RpcHFEMEx5MW9HVHRQdjJaR0E4RzlDeEhlVHdreEsydW5jd284b3lxVE8zdi1HcGM5QVVZUU5hQ0FMRFF3c0VJbVhPTHJLMHcyeWdscDAtSUhZYkEyQVNBZno4ZnhYTDVHdENjUmZicU15MTlwM1U5UDRaa3dVYllNalRwVnJ0TzdQcWxLR2VkZkFkQ1Rv?oc=5",
-      "published": "2026-10-05T22:15:54+00:00",
+      "published": "2026-10-05T22:16:18+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures",
+      "summary": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXgtMHdMaHhOR2JzclhWWWxocDZFOVNVZW83dUdwVFhkRzBCWWtfOEx5aGVRLXI3S0tLY3NtakE0ZTFud2JIUWJDeHdFeEgzSG4yRnRvWEVXNjAzQlRHY0wxNmpMaWFUM0w4Tkw2Mk1yOG5icG9kYnZyNE1EcTQ3SnJIc0xxNkhkNldtZlp4MUhuY0tBbi04bG9qVy1EcTlzZmV1WWpjWmNTdFBOX2c?oc=5",
+      "published": "2026-10-05T21:56:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Proposed Head Start changes could lead to more suspensions, expulsions",
+      "summary": "UPDATE: Proposed Head Start changes could lead to more suspensions, expulsions EdSource",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGJocndGVmxCYm91N1dVZE9rVmJieXVhdnEtdmVZbFdmdk5fN3hKSXZiOEkyb2lSZnZXX0wyLXBCall2SmhYVXg0U1BIYkR3dThLMUN6amM2eWRkWFA3a202cUl6eXdYeVZBTVh0ZGIzTHp4WDFCMzltSDBFenJ0LTQ1VDlPRWZFQWxsdl9HVkNCQmRmNTFybi1PUWlmUVpfaTFjMQ?oc=5",
+      "published": "2026-10-05T21:52:46+00:00",
       "beats": [
         "Schools"
       ]
@@ -45,18 +119,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Pete Hegseth’s Air Force Academy speech backdrop draws scrutiny: ‘Accidental Nazi is just not a thing’",
-      "summary": "Pete Hegseth’s Air Force Academy speech backdrop draws scrutiny: ‘Accidental Nazi is just not a thing’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jR2IzeU1uLUd6UGd1cmtHRE51cW1oSjRIOERQOEdIdzRFYURsV3BoamRYRER6cFNxcUdLQ1F5LTlBN3hMQVc3ekNZU01zZjlfcDFycXhhZS1hMXA4WmpyMzU2UlpCUjFPb28wMFBGc0dPR0x0Z05GNg?oc=5",
-      "published": "2026-10-05T20:26:15+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -69,17 +131,27 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Georgia school district invokes federal law to deny trans girl a shot at homecoming queen",
-      "summary": "Georgia school district invokes federal law to deny trans girl a shot at homecoming queen Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmk5OW43Mll3c3U0ZXJkTnZzUlVmNVVpSGVBXy1SM1J6Zk82ZXJ2ajZoWXhzRHhtQkFtSXFQZzhfUlMyWDRHa1pqYUVVTU45ZDFDUTI5VlpiaDFQX0VMQjdiQlVhai1ueVlDZUpJUVJvNXUwWV9yUVF5aVZ0Q19Nb0F3Zw?oc=5",
-      "published": "2026-10-05T19:19:42+00:00",
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Cal State goes all in on AI, but some job-seeking students remain skeptical",
+      "summary": "Cal State goes all in on AI, but some job-seeking students remain skeptical EdSource",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41VEl5M3BIUHUtMmRHYlZhdDNoanhCRU95N0VteWhGZXlrb0xZYUh5R2l3YVJrM2dVMkVBMHJ0TUs3TjRhR2dWQU9JN3BULWZnbFdmNUNzMWNIQWd5V04tRHdfOEk5Q3dnRzkyLXRBWdIBd0FVX3lxTE9rdXBZNW1XR1RCUDZaTGFMQjI5NDc5WWZMMjhZRHhaTWEwZWpHcWxReXNKQU1TeGxPX2RucmtzUFllR0ZBcmNraE5FTEhOLWM4RUNEaU9id05sV2lCLVhVcHNKeDhtTWZTLWdyam9nUFlxdzRjOWlF?oc=5",
+      "published": "2026-10-05T20:16:10+00:00",
       "beats": [
-        "Politics",
-        "Schools",
-        "LGBTQ+"
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
+      "summary": "'We had a threat': Trump explains U.S. moving long-range bombers from UK CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05c2xkQWhZdUZmSzZwdzlTX1gwaGlKOEFUQlBTYmU4NDlwbGZDbHdubDZlTjVJVU9vUTdNaW9MNkIwdTl3ZUZFV25sbVBJcWxlLU0yblFIemozSlVhT0tPdHdLTnZwYzRvbUHSAW9BVV95cUxPWGdfdTBRd3oyWkQ0aExkNXpUSmhDQXFVdFUzUTFqaG9XNEF3TEQ2Vzd0VjRxNktwOFJFSjZwUzNiWHRTcWI3Z0xoUzhCNHBmODlQX19oTU5JZFl1bVBLeGVKNUJMamR1ajJLeHNkSTQ?oc=5",
+      "published": "2026-10-05T19:39:30+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -92,6 +164,18 @@
       "published": "2026-10-05T19:03:18+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "summary": "People are asking ChatGPT to help them decide how to vote in the midterms NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZY0xkU3B1dEtuQV9ZTVE3WE5Kc1I4eUNBcjRCRHVBOW9MaldmbVNNTVVaWktmdG1KNF81X3NNVloxMmstTWRsblhSa0RucjUyLXMyaGpVbUdTVlpwZERieEFMODU0akI1Q0RyeFRRWVBpZW1BakVfOVp1UUwyUQ?oc=5",
+      "published": "2026-10-05T18:32:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -132,15 +216,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "UPDATE: Food assistance is still available to California families, but time is running out",
-      "summary": "UPDATE: Food assistance is still available to California families, but time is running out edsource.org",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdk9JOHJ3UGYyTWJvb3pPdXU3WlR6ODQ2MU1Cb1BxcFg4dWZyY2ZJbVN4Q1U5aGNEMnRMQ25EbnF5bTZiWC14cDRwNUdWM0JKOXRYVkE1Ykc4SFZTSHdtaHdDal9NbnJWTHYtWkN3WGk0QTlnbFctRHRtY0xsc0JFZVBwMUd2cnNabjFuWGFxTXJQQlpLZDk1U2l1a3A2dEdlOUc0VA?oc=5",
-      "published": "2026-10-05T17:26:48+00:00",
+      "title": "British Airways flight to Chicago drops 28,000 feet, returns to London",
+      "summary": "British Airways flight to Chicago drops 28,000 feet, returns to London NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlZhN3lET1lNdXE3ak14OVVkZnpndktHMEhHWnNCNDd4Qjd2dEF4UDRnTnBfQVROT3ZCSk83T05sT3hiSF8tcTdiZm10Q3BWeEV3RkFGMGY3MmR0NGNhRGhORzJTaU95UW1yY24zSG1zcHByQ2pSVUxqdW9UcDE5QjI1M00yOWdLcUNzSzNycldUUWF1cS16Rjh5Tmt5RExwLXJHTDZLVTcxTUFRSDJUdmQyd0EyT0o0X3c?oc=5",
+      "published": "2026-10-05T17:45:41+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -148,23 +232,11 @@
       "source_feed": "EdSource",
       "lane": "General",
       "title": "UPDATE: Proposed Head Start changes could lead to more suspensions and expulsions",
-      "summary": "UPDATE: Proposed Head Start changes could lead to more suspensions and expulsions edsource.org",
+      "summary": "UPDATE: Proposed Head Start changes could lead to more suspensions and expulsions EdSource",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHVHZGFGcTNXalY4VUVTakp5NlhZNnQ0alR4WHVqaHhxUDBfMjI5SUd2WXVpSTNmZ3dqRVF0aFlpd3RXQ21CckU5aU5ucFNURjVrdGNFSUdSNmFRektqWmNrOXl4Mzc3Ui1GSi03NGRGWGludjFUVWdCVlBxbjdhelZJcFpwRGVsUEhkdGFPbmtQOVRydnFoaDF3?oc=5",
       "published": "2026-10-05T17:16:37+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more",
-      "summary": "Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObW1JQVhXOHZ4WmVqNk1JeXdLOFZJOGtjVnVfYVhSRHIxN3dORGI4WGVjTDB3VHJHbnNBcGhvYTZ3bDNDM1hGUUNUbVd4U2VhdV96eWJYVmtvbGpkRGdIUUt5ZjY5OWR1Si0zdzRDT0hXeEo0LTA5cEN0MUtacWVrMWNGMm05bzZaTHNKSFdBem9EZThYd013TUdRVzBCRnhS?oc=5",
-      "published": "2026-10-05T17:13:38+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -184,24 +256,12 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Luke Evans clarifies his “woke” stance after interviewer probes him on gay actors and politics",
-      "summary": "Luke Evans clarifies his “woke” stance after interviewer probes him on gay actors and politics Queerty",
+      "summary": "Luke Evans clarifies his “woke” stance after interviewer probes him on gay actors and politics queerty.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjhPbURsMUtvZ3kyNHdqTy1KWlF2SWo1MncxZ0M4S1FKaXlDME1NUFFqLU92QXFLYTZHMTg5WmlDQ1gxRDhwd0R1cDU5OE5DNGdacEpIOWUtaXRfcXdyRG9QLUNUWHl0ZGp2UXlRWGI0Vll4VVYwS044cHNCZG1la2tCaUllSUlLWEowX0hoYVg4Sm9DWWVjeUJFeFRxYWlsZGZkWm81dFp4aW5NUXhpNFJUQjNsTnFwREZfUC1ScmVqTEdD?oc=5",
       "published": "2026-10-05T17:00:00+00:00",
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "DOJ moves to revoke U.S. citizenship for 40 foreign-born Americans",
-      "summary": "DOJ moves to revoke U.S. citizenship for 40 foreign-born Americans NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0tGRWlIQWFzQzdrelI2TDZLcnhOQ19FTHZWOWYtZXlPa0xNa3FMZXlkSnBfQzdQT2ctUVU4YWdUZ0ZWcG1TZUtxdGVNMGZZMC1feFNmY3E2WVI2ZjlIZVB6eTR3ZGRrWDFQSEZycmhQUjd5aGtVUGF0TkRfZlo2enlQaVU0Q3pTbjVQOXVNaHNhYzZ2Z2xIZ2JqLTdaaXh5anpqbmFrU1Q5MUhVNkxtWmNEVQ?oc=5",
-      "published": "2026-10-05T16:32:28+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -221,35 +281,11 @@
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
       "title": "Eyebrows raised after Tr*mp-Epstein whistleblower is found dead at 57",
-      "summary": "Eyebrows raised after Tr*mp-Epstein whistleblower is found dead at 57 Queerty",
+      "summary": "Eyebrows raised after Tr*mp-Epstein whistleblower is found dead at 57 queerty.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVBLcmRQQkpFTmZaNHM5UFN3RlduZ0VFTEc0clN5OFRETlRFRXFUOTRBMUtrUE4xMlNacjZvOU9qVXhpdlJoQ0IycWRLUnpmODdnYk9tLW16NlI4YWkxZFduQ1VoNElHX29pRkNucHFlWDlMT3psaWFMdms1blg4WkN4bGF4ajJVdllXQThQSS1uWW5tV1B3LVI1WXI4QQ?oc=5",
       "published": "2026-10-05T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
-      "summary": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tMlZTSmhldFlfaWNYeXdVNENBYW55RVFSajRaa2toaHpkY19JaUZUZlJoQ0lnV0pPUHk3bzZuc0Z6RndFMXFuM0tVZW1PUC1qX0ZYODl2TE9PRUh4UWJTTHphSXJtU0Vnb0lxbF85OExwUTJPT0FIUC0yMEtNZ9IBgwFBVV95cUxQdnh1NFI4VDQ4ZnIzZXhETC1ZTklPWmJaZHR6eEVPalhwM05YeTdLQVdMcnFIRUZmbXpYT01QcGhsSmtaeGFJelZRdDJORDFyQkY2dGlEbXpwLVBfbzdDZDRxd1BOZURBQkdwUVcwNVM3ZWVyQW04ZG1aTUFUaUNMeXdyWQ?oc=5",
-      "published": "2026-10-05T15:46:49+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "PepsiCo recalls 122,000 cases of Gatorade due to undeclared dyes",
-      "summary": "PepsiCo recalls 122,000 cases of Gatorade due to undeclared dyes CBS News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xT0pZWDUtMElXaGRnWDNUN3BXRGwyNEJBWS1CSm9JaXVITkdiMXM0aGI1dVN0b1RVempxakt5bzhBN3pBNTJQMzZ0SXMtM1ZFd1BnaDBaVV95VzgyRXcxYm9yRDJnMzN3Q2F4LVlESllMbTF5QnRNag?oc=5",
-      "published": "2026-10-05T14:08:50+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -266,13 +302,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
-      "summary": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone NPR",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1ZHMGZETllJa0VWRV9Mb0tXRDBIZnIxWHVOQ3R5NG94cnB4NFRfT2dTTXNYbXNKQ204ME05aDRYZlA5MHVpX2d3M0R5SExnaE1tc0RYVUhCb0x1QzJSX3kwVGtqT1V4NzNNeHhVNnhmU2lDWmJ2OHoyaldTZVFwekZ0OU9oRW5FWnVJTUJkRWg1MDFaQWd6bWxUMFpJZGtpQVZKaEFVSkthVzYwX2pZOEdZNTYwMjF6WTY3YzVn?oc=5",
-      "published": "2026-10-05T12:33:20+00:00",
+      "title": "Jeff Koons Is Selling $100 Million of His Personal Art Collection",
+      "summary": "Jeff Koons Is Selling $100 Million of His Personal Art Collection The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFliclkwcGYzRjkxUFZLTVBkeW85TXRsam1rNExnU1Z6Nkt2bXAxRXdMVTNxUFJteXZ3dnloc3BQNGRTVV9kcWc5djU3OEhzMU9Pb2pYVWJfZ1pqdTI2Sk1WbmNYTEk3aXc4Qm1GNWRvWl94THJ6Z2hIQ3FzNGN3QXZoS1V3anBwbGhSdlBRM3o?oc=5",
+      "published": "2026-10-05T09:03:48+00:00",
       "beats": [
         "Politics"
       ]
@@ -326,6 +362,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "U.S. military removes bombers from U.K. air base following security incident",
+      "summary": "U.S. military removes bombers from U.K. air base following security incident CBS News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jR2ZGQS1fZ1p2ZDdyRFBuYW85ZlR5TzE5MEZDWFE2VDBENm1MYmhJWWxGNGhqZkhoUGZBQi1MMlVwWkJSRHJkODZlc3hiYlo0eWZoaHhDRy1OQTVxdllGVlBkYWl5TTlXZ3A3emZR?oc=5",
+      "published": "2026-10-04T21:53:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -335,54 +383,6 @@
       "published": "2026-10-04T19:00:00+00:00",
       "beats": [
         "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Madonna’s hotel room, Jonathan Bailey’s dirty talk, & Romeo Beckham on Shawn Mendes",
-      "summary": "Madonna’s hotel room, Jonathan Bailey’s dirty talk, & Romeo Beckham on Shawn Mendes Queerty",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVZJdXlDRHQ5bTFQVnRscEN1SGUzVlNHT2VwclV0alRvY0lEME4wOUdNRk00SUVxMTVGOFNzTE80c3hoTEpFYy1UZnNEc1pZVE9JenpURlYxaDQ0RVB1WWlRQlI4QlpFTnRQUlhfdDJ4d2loUEJMdVRPOTY4TE9vbkVpcUtWSTExVm9pLUQ3Q1JFRDR0c09EZ3h4aG1VT29HTXdSdldrVmZma2JqbUJHbw?oc=5",
-      "published": "2026-10-04T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Alan Alda on fighting Parkinson's with laughter",
-      "summary": "Alan Alda on fighting Parkinson's with laughter CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWmpTdkpZdmRNcnc4YzFGVUNydkRCUWJuQ21ock1RajZEVWoxZWxtYU5HTUF2VEE4YjNuZGtDVFI3SENheUJYdlhDR2R6QlVsVGFfODhYSldjQlpjSXNPWnlWQ05HQk1hYmdEdWZ0Zy01bzFiNkRpZ1dTQTlxRDlFajRR?oc=5",
-      "published": "2026-10-04T14:16:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Kornacki: Trump’s 2024 support among Latinos fades in new NBC-Telemundo poll",
-      "summary": "Kornacki: Trump’s 2024 support among Latinos fades in new NBC-Telemundo poll NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGdIcTV2NVRZem1zQ09VTjlCRVM0WGFkR2tjOXNEWk5ZX1BxRmV4aUozUmplenNaNk41bGk5RVhZb21xOTc5dEt1RGdTM0w1enpIOUZkc3dfYkhMS3d6NlZ3RzF2cU1sc2VqeldiUXdlRVNZZDB0WUY1bHhoQnlxb05lQVpJX2pabUVsVzFQVlkwWl8ybUp5N0daTVd1bkdJNVR4Smo4aWFFZGFqRkxqQlJLTVJQMU9RYmdwMF9Vd1FndmpPaXhGeDRac181UQ?oc=5",
-      "published": "2026-10-04T13:13:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trump admin ends LGBTQ+ protections, Renee Good's family sues & crisis lifeline service brought back",
-      "summary": "Trump admin ends LGBTQ+ protections, Renee Good's family sues & crisis lifeline service brought back LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGZ5OWoxc085S255YU5KS0g2S0tLcmszMXc2R1NkU2JSakNUQVBOc0w2WEdVVXlzRThxMjBYVXEzTDdoMzAxSE1LYml6TFJWVndOLTJxV0ZOUGRxaFktRWh0S3AweFVGUFpsNUhQQ2F6ZjVlbGd5djFna2k1UkQ2YVRUQzI0VElmaXdLMjN6RXZTZXh4VWxyLUpJVFhiOTVPblpUaWc5czlCX09nRmNSeENDTjUwT2pOdnRseFJOWUI0VlpP?oc=5",
-      "published": "2026-10-04T13:00:00+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     }
