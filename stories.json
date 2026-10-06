@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T09:15:00.081439+00:00",
+  "updated_at": "2026-10-06T16:08:54.191547+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,109 @@
   "errors": [],
   "stories": [
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Book banning in U.S. schools hits a five-year high",
+      "summary": "UPDATE: Book banning in U.S. schools hits a five-year high EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tTExkbzh0ejJZRnh0LUpKUXlOTjVtZnZXeTJVOUI5VVNZZ3RzRE1GMVVCOWMyWG5ISWZ2XzY3bVNSWmRyR1ZWVE1neWhFZ3dhM3RSQ0xnVWM5MDZwY1ZTSjFMQzlVUGo2OW5ibjJidU1tM1I0MTJzVV93?oc=5",
+      "published": "2026-10-06T15:56:20+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "CNBC Daily Open: 'Red' diesel to hit U.S. highways",
-      "summary": "CNBC Daily Open: 'Red' diesel to hit U.S. highways CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SSnNTQmZKQldLYS03eUpHV3ZNQTNpNkJXYlotbmZSTXNyVGNlLTZ5ZGNCVGptTVNzM1pYS0FCRUNHa25lNUV1MlZqMlJvT0xFLW1TM29Cc3RUNTN3M085djJ2bWhHTE9McXNnRWpEc1hYRnZuZV91dm8zOEdyZ9IBgwFBVV95cUxOU1E4NVVVUU94bTExcXVIVHJyVXdYUEFkQjl4ak5TTTZCR2tsRDhKX1NGQmpWQ3h5eGRHUW14aEJKV3dUZjRXNlV6N1ZhZUx2S3hMSEZlUV9kM0c0bXFETUFDTDhQQVBxcmVZaUg5NXJoZHhGb3FpYjVWTk9TSmdLbFRmaw?oc=5",
-      "published": "2026-10-06T06:06:35+00:00",
+      "title": "UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens",
+      "summary": "UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwRS1USmRIeHk2TGhrODlJSWlZa0l1Yll5aC0ySEJyMlJLZjhPZGt1d3B3OFo5OG5YamRHZlE3cC1sbmdmcmktM0lrbEY1aWpXcXdaX1V1bU1XWHVDY196R3Z3aFMtdzRDRzlVRXN3SmV4cV9fd1HSAXtBVV95cUxQc1R3bGFjMXE1eHlXUmtGS3pJOW1uS3UwdUtmdjFuZDBONGVzU2xaUGtvbEp6bW1UYjVPaEdxWHNXNHFDYkFSNERzT2dQUXlsWUhqLVc0c05BYm9OV05kZFlNbE5ZS2hiRU9Qa054cW1XYTh1S1g2VlhtOUU?oc=5",
+      "published": "2026-10-06T15:13:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US stocks hit record high, shrugging off bond market turmoil",
+      "summary": "US stocks hit record high, shrugging off bond market turmoil CNN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CVkNXNkYyc2ZNcGxWSXlXMkFqZnA1ZGlQRTJHUXhZXzhnb0NrVEJ3eXBYQS1wS2xEcExvd2pVUFpndFBLUnd2SFIwY01uOGdzbWc5aURKLWIzVEZWQkJRQ2tGQUNzb1E?oc=5",
+      "published": "2026-10-06T14:25:46+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Why Don’t We Talk More About Family Structure in Schooling? (Opinion)",
+      "summary": "Why Don’t We Talk More About Family Structure in Schooling? (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMFgwWXJWMGwwWUpmd18zTnpTYmRZMDRFSlZnSUpORVdHZ1FlNElDY2JWUGhGZUJCcHJKWFFyNFJWelFYVmg5elgzS1I0Z3dOaUx4cnkzWkxLc0Z3b0VLWkFNY0c3Mk1nQU5Ub2JlWW5EcWxhYUhTTjVtNUFnQnRZS0dOWlVsSHE5LXFoTlN6U2dPUjc5bjhrRFA3QWZ4a3NhLS1IS0wtRGU3TVk?oc=5",
+      "published": "2026-10-06T14:17:16+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "What Teacher Education Should Look Like in the Age of AI",
+      "summary": "What Teacher Education Should Look Like in the Age of AI Education Week",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHRESGJIbmFvVEE5QS1XcmQtenhMbkRTbTM2WlBmOXFsMC1vS3huT3BZR0h4czRfVlpNVE5MRFhvOTh3R0c3U25MLUVDS3ZVd29qYWhXdERuSWpuazlDTXU2SnZ4ZlEwYnQtNXFqcW1WOEhCMVhlVU9oU0hCUWRWVENOUkE5MFZ1VkRnODVYSGxFYldic21pSjdR?oc=5",
+      "published": "2026-10-06T14:13:14+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "The top K-12 conferences to attend in 2027",
+      "summary": "The top K-12 conferences to attend in 2027 K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xNXhRVC0yd3A5eU54U0hwekc1Z3YyOUxrcERQN3FQMTRUa000NUZ2WkZ6N3lqV0N6cDc3c3pHNVg0WlkyOVF5WmdmeGlZRll4dGliVXBzWnVoVk1NZDV6SGRtQUZzMDQ?oc=5",
+      "published": "2026-10-06T13:30:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "David Ellison has built a Hollywood giant in Skydance. Now he wants to make it a tech company",
+      "summary": "David Ellison has built a Hollywood giant in Skydance. Now he wants to make it a tech company CNN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNampQVWJMS0diUkR3UF9JUDJ5b2dPWlZxNGtlbkNHb3hiUHl6ZTBmSFZUWFN5d1cwNWtleGU0NDBFcUNNRGVvWFhVbzNIblkyb2hkQmdMSV93cUF6SUNhQTg2QUg5dHVkWWNJekdzSUN3eWI0bUVZbGx1XzlzUmlleHFHdVVfZTBkb3RmRXNvWEt2UTdyM1RDT1hR?oc=5",
+      "published": "2026-10-06T13:22:27+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
+      "summary": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmF0WjZkaEpHdmRhSGFHczJHWlhib25fT1lvZXB6RVo0SVBGX1VOYzNKREk1N1R2RHJHaXV0anMxeHpNZFg5ZkNXY29jU0NTajVEeEdqSThmSUxzTERnY1g2cEg2azlfOU5qMmVCU1R3aWdZMlM1WV83NHZrWXQ0cXpmMNIBiAFBVV95cUxPN2RrNjh6UC1lYjVJSUZfcGpBQU1LNzRrb05UcGNWZml0RnBEUlUyN2FvNHdJM3B3c1hGTU1ITGxob1VlOXNURUx2cTlEamhNbTVjbm9iOWpLWmEzZEhRQU9wd3RNaGdTVXgtczNTTGt2Y0xFZW5SXzcybWRrdDByYnBQOG81NE5l?oc=5",
+      "published": "2026-10-06T13:00:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Mistral unveils new AI model it says rivals best open systems from China",
+      "summary": "Mistral unveils new AI model it says rivals best open systems from China CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FTlJ6SWZzT0xiYi1RR3MtSFpJVk0yS2cwNGJUelJmcEVHVHkwUVFGZDZULWtXSHBXNndQbWJ0S1lPVjZoZDJQR3A0QlJvT1ppU2lMTlJiRWx3bjI4c2NrX28xM0VwMW1iSV9XZnMtQdIBdEFVX3lxTE1tMDVOZG9acWpaNEhUcnhLM01pNkJ0eFVkZFJGWWRoSVpvN2FDTVNKMkl5akJ4dnhSMko2bi1aendmaFVnSmJxU3ZqNE5LcXlWSWVfMVdSR2FmQ1VvdXY4X0ZLa2FzSXdfQldUc21WaWRzYXVK?oc=5",
+      "published": "2026-10-06T13:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +131,22 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Jim Bakker, who built ‘PTL Club’ televangelism empire, has died at 86",
-      "summary": "Jim Bakker, who built ‘PTL Club’ televangelism empire, has died at 86 NPR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41T2xBNmV5Nk5Mb21WeXdzYzBEcUdLN0pZVzdRcGh6N3p2aVltSWVrM0d4ZUtqRWhHcjgzeFJtSlIwUkg0YjdoZ3VHQ3JmMzVoeFRBc1FSRUZEVVB2SWVUd3dpRnAzS0VuOFE?oc=5",
-      "published": "2026-10-06T05:57:34+00:00",
+      "title": "'Avengers: Endgame' takes the box office crown back from 'Avatar'",
+      "summary": "'Avengers: Endgame' takes the box office crown back from 'Avatar' NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVh6eHVDNUU2RTgzR1p2aXgyZUpLOHp2T2NBUjU2c0Y5WE1QaXhwdjg1TjM0RnFTbVdGdnJFNkVlWlVXLVNOTk5wT29adkxLZ1JXVGZ2Q2haYU9jSXB4WEVBVjRxVE9HOG1mWnpsVFBDUFlhenAzVl91Q083MUNTc0NqVWJyU1RjdUZzRkV3?oc=5",
+      "published": "2026-10-06T12:19:46+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+      "summary": "A history of presidents naming things after themselves (It's short. They rarely do) NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODJTOFZ0Ykh4UWZSdVlTTGNsYkVRcnd4R2Q3M0NMM1BTc2hNRUJQb3VvcXFXaVliWW5UZWtTY2Y2RVc2YWd4ek5uSkNITzVLY2ppeHJTbnoxTnE0R1hERGJIUmxqU3NWa0c2bGJmcVRNd0JHMkV1QXM0aWYyeVVuX1RuOTI2WUUzR1JB?oc=5",
+      "published": "2026-10-06T11:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,58 +155,46 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Cornell faculty prepare no-confidence vote against administration over handling of alleged sexual assault case",
-      "summary": "Cornell faculty prepare no-confidence vote against administration over handling of alleged sexual assault case CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZUw4R2NndnpodU9iYmtCNnRORjF2anZhc2JLSEJhMFNBZHFObkFoVXJINUNuQ0dJZTRWTGY1YW43V2VWemVlbzBmZ04yMVVySXNwdktEUGhrSVQwd3NpYXhoYzFrdjJJUG5qWVpscTlyOUl6b0d0QUhPdDVndWs?oc=5",
-      "published": "2026-10-06T05:19:28+00:00",
+      "title": "Trump draws backlash after he suggests Iran could ‘take out’ Los Angeles or San Diego",
+      "summary": "Trump draws backlash after he suggests Iran could ‘take out’ Los Angeles or San Diego CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdW5pRFY0Q1hvZFV1ZXlONHVNcUc0SVBidzkxMTcwaVY2dF9HU3VwaTA4YWlueEEwajM1RnlCRWtnMVQ5RWdqZ1JFc0F0R3JvNE5NZGxRel9mUkJYZ1p5aER5MDV6Q3h5czA1dzdtT1Z0aHdhR1pHT3JaX2hRcF91R21xZmV4YjEt?oc=5",
+      "published": "2026-10-06T10:26:31+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-      "summary": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5% CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnJmTjNJUXdKOExfRUh0MGdLeVFKSGhLVUdibGIwcGJxSUp0WFBVTXlsamZmN084dnNoNExOZ2QwLTlTZTNSZVREOEh5TTV1M3JPMzBjdmVtZzU4RVQ3alRjX1p4WDhjbFFSWC1iVHN2SmZIdEt3RllEbG8wM0I3RFpFOHFmcVNzT2ZUMVRQb9IBlAFBVV95cUxPUHZPYTZXQzNkQ2VlVGhvSW1ERV92WVE1bGJxVzc0UGo4RERETlFIcGt0U1lhSVQtMU45cEJUVjVkMm94ZnZENXdQQVpzcnhqWTNPZmppUUR0anE5V2FJZVE0WkNWVl93ajNCSTZsTmFQSGVaemRTaGg3UkNYLV9FVmVMaU9pSHBjR3ptNmtPUUFycDA5?oc=5",
-      "published": "2026-10-06T04:06:57+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump backed Iran into a corner. The regime isn’t blinking",
-      "summary": "Trump backed Iran into a corner. The regime isn’t blinking CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVlaUmNHUF9jYnhFb0pRZzdLVTNYaEVtRlhDdVhlWldiTXpiUnc5YWlBQjBUTGlUeDVHVkF3Qk9pSml6dHVHM0JmdmMwMlU1QlZzUnlwd2l5MUlGTjM4VkJBcGo0cC0yYXZSRU5YMXZMdTNLUVVlRWFUZVBJRk9udDVyWWxGM1ZzT1E?oc=5",
-      "published": "2026-10-06T04:01:45+00:00",
+      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+      "summary": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xa2JKelZEX3l6a0tPQmNYSVVGcWN1amFrS3JJVUp0Vy1EOEhQeWo2Nlo2aExOUVBWQXhldjVBcGJTeWZrOGJUSzFjaW1FZEVqbEJpLWUwYWNVMUE1VE1HRjJiQWxRb0FSekpwU0xuTQ?oc=5",
+      "published": "2026-10-06T10:16:28+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Trump may be in political trouble. But Trump-style global populism isn’t",
-      "summary": "Trump may be in political trouble. But Trump-style global populism isn’t CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QNk9KVTgtUmIza0hrMlJfWlRzdWN2aFlQYlpBdjZnY2dONkFGTkNYY01MQ1p6amRORTF4bjZ3X0xkMkpnMThPaGcwSmM4M0E0SVlWUFNOeEN6b2pMR2hnVndiM2RWMTE0cnJEOW8tMzBCb0pHUzBiZDJGcw?oc=5",
-      "published": "2026-10-06T04:01:44+00:00",
+      "title": "Battle Between Disney and the F.C.C. Moves to the Courts",
+      "summary": "Battle Between Disney and the F.C.C. Moves to the Courts The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkR1VGIzWURoR0hZVkJZODRqQ25DSlFMRGtlN2FBbDhuZVlCaDE5NFhxYmhlOXMxNG80ZmtTd2RWOHVJWUhIMEhEb3FzZ3RTV3h5RFJ5cFZzQU5GanZhNm1PWmhOZEthdkR2U3pCTWJoVTZTX1BRVWh1NVUtUVF1SnJta0RYTlkxTmNF?oc=5",
+      "published": "2026-10-06T09:03:19+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
-      "summary": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2tmS0RjZXp2NVpCalhCcnUwQ1FwSGE0UE54a2RTdjRCMzRnXzhpUlFrTWt0dmEzNmJ0bFlOdWZ0cW1hWS1vcUpGMjZZUFg1eF9kZmhfWFlaNnpwSkNkaW91bV92amg3Y1NjMnFqTS1OMUFJU0hZNHQ2a1JnX1R0X091RnhzMjFPeGdfTWplcmXSAZYBQVVfeXFMT0tRdTEwNktuNmJ5OXp6XzN4ekh6U3JiX1lpUkVVZzJCT0ZWNVNsbmtQS0txakRKQWxOVG5NX1lESWF4S2dMeWxNdDlGU25EMzZNMFp3c0UtcTFUbThFQl9xOG14Q0ktNFh6NmRaT0VUaUhEaklUTFA3ZjMwUXd3NVppbThBSmNIM2JMQy0wTU1JM0x2dk1B?oc=5",
-      "published": "2026-10-06T02:23:00+00:00",
+      "title": "Nepal ends search and rescue after deadly flood, with more than 5,200 still missing",
+      "summary": "Nepal ends search and rescue after deadly flood, with more than 5,200 still missing NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTC1id3B5R3NQbGtkQy0yREVva1EzRDB4SnFSc280UVVoa2RCenRSTHNxckNzajVUd1ZqSU1tM3J1bjZUSUViaHhJbWpWYnBYaW9tb1J0a05HWUpqMGJyVW5YSmdOTEtpNnpCVzU1d25ZZzgtelFoV3lmZXdoNDdoczFoaHJWX3Bmdk5halo5Z05XM2otVzBZVmV3aFdiMndpMHpRbw?oc=5",
+      "published": "2026-10-06T03:23:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -128,18 +224,6 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures",
-      "summary": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures Education Week",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXgtMHdMaHhOR2JzclhWWWxocDZFOVNVZW83dUdwVFhkRzBCWWtfOEx5aGVRLXI3S0tLY3NtakE0ZTFud2JIUWJDeHdFeEgzSG4yRnRvWEVXNjAzQlRHY0wxNmpMaWFUM0w4Tkw2Mk1yOG5icG9kYnZyNE1EcTQ3SnJIc0xxNkhkNldtZlp4MUhuY0tBbi04bG9qVy1EcTlzZmV1WWpjWmNTdFBOX2c?oc=5",
-      "published": "2026-10-06T01:31:04+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -153,15 +237,15 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "What Teacher Education Should Look Like in the Age of AI",
-      "summary": "What Teacher Education Should Look Like in the Age of AI Education Week",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHRESGJIbmFvVEE5QS1XcmQtenhMbkRTbTM2WlBmOXFsMC1vS3huT3BZR0h4czRfVlpNVE5MRFhvOTh3R0c3U25MLUVDS3ZVd29qYWhXdERuSWpuazlDTXU2SnZ4ZlEwYnQtNXFqcW1WOEhCMVhlVU9oU0hCUWRWVENOUkE5MFZ1VkRnODVYSGxFYldic21pSjdR?oc=5",
-      "published": "2026-10-05T23:17:36+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Whitney Houston’s lesbian love affair & emotional split detailed in pop star’s new biography",
+      "summary": "Whitney Houston’s lesbian love affair & emotional split detailed in pop star’s new biography Queerty",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTGxrWGdnZ2ZBVnZOMVg3Q0dCaTI3Y08xY0pCTDk4SUVXWnhRdWRybkJIM0JzRFJxUDJEZ1NtUzg2TEVwbkkwamxmUTVBVGxKRHJmVnBxejNVcDJ2a2xkNzRoRTBMVlA4TG13UV96VV9KNmFBbU4zYXBhd1NuRlBaNk5JYkwzNkVkYzJCV1UxRXh0X3R6azB0cnYtQVVhbjkzNHNMLWtMcTRVc25sNFRCb3pVRURrYVNfdXExZHlzNA?oc=5",
+      "published": "2026-10-06T00:00:00+00:00",
       "beats": [
-        "Schools"
+        "LGBTQ+"
       ]
     },
     {
@@ -188,18 +272,6 @@
       "published": "2026-10-05T22:50:34+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Proposed Head Start changes could lead to more suspensions, expulsions",
-      "summary": "UPDATE: Proposed Head Start changes could lead to more suspensions, expulsions EdSource",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGJocndGVmxCYm91N1dVZE9rVmJieXVhdnEtdmVZbFdmdk5fN3hKSXZiOEkyb2lSZnZXX0wyLXBCall2SmhYVXg0U1BIYkR3dThLMUN6amM2eWRkWFA3a202cUl6eXdYeVZBTVh0ZGIzTHp4WDFCMzltSDBFenJ0LTQ1VDlPRWZFQWxsdl9HVkNCQmRmNTFybi1PUWlmUVpfaTFjMQ?oc=5",
-      "published": "2026-10-05T21:52:46+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -233,34 +305,10 @@
       "lane": "General",
       "title": "Cal State goes all in on AI, but some job-seeking students remain skeptical",
       "summary": "Cal State goes all in on AI, but some job-seeking students remain skeptical EdSource",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41VEl5M3BIUHUtMmRHYlZhdDNoanhCRU95N0VteWhGZXlrb0xZYUh5R2l3YVJrM2dVMkVBMHJ0TUs3TjRhR2dWQU9JN3BULWZnbFdmNUNzMWNIQWd5V04tRHdfOEk5Q3dnRzkyLXRBWdIBd0FVX3lxTE9rdXBZNW1XR1RCUDZaTGFMQjI5NDc5WWZMMjhZRHhaTWEwZWpHcWxReXNKQU1TeGxPX2RucmtzUFllR0ZBcmNraE5FTEhOLWM4RUNEaU9id05sV2lCLVhVcHNKeDhtTWZTLWdyam9nUFlxdzRjOWlF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41VEl5M3BIUHUtMmRHYlZhdDNoanhCRU95N0VteWhGZXlrb0xZYUh5R2l3YVJrM2dVMkVBMHJ0TUs3TjRhR2dWQU9JN3BULWZnbFdmNUNzMWNIQWd5V04tRHdfOEk5Q3dnRzkyLXRBWdIBqAJBVV95cUxPQU9MaXB5MVFMYW91dDFhS1doc1RyclBCOHBMRHJwaXppcWdWSUY5MnlqdTdYNTc2Z1JKYWdEMkVRYlYyOEkyV0diLWFwSXh6a3R2eFJBcU9uOUlnTW9IMkxxQmdIeHVWQjN5dGszTjdHTFhWbkxMT0swd0VNeWZ6a3FZTmRnZVJ2NWdlVEFfTzBKYnoydUt0WmtpcFNXZGlGQVNUdUU4ek9Xczl0RzlHZFZCb0lUYnBwLVE0d1A3WE0tVW9jNHhyb0hiYUtkY2JCb0xpQUY3MHprTmRwRFFpNXdySjc5WW1XeWZBQnFRdW54TlJBUnhJWUVWMFBVbWN2ZTMtUU5pdWVISmN5eUtrc3pQaGI4M1ZjTEZrTXRpMlRCS2lWNkNWNg?oc=5",
       "published": "2026-10-05T20:16:10+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Russia changes what it is attacking in Ukraine’s capital",
-      "summary": "Russia changes what it is attacking in Ukraine’s capital NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDN5RUF3dld4UkdTd1k3SzhnckFNR3NyYmdRT0tiRTV6TVUyVWtqb2JpYjhYSDNhNlJ1TXlNVlFXc29hcWJpSmxZaHF5aVdjYXpHZDhfYXJ1MFlhSV84X0x1enlTQlNzQWRERXlzZ29HZUtTaWFjNFFvRGVfY0l4Qm9oMFpVUEIzWDVWOERTcWhHeE9fWHBVbm1uUWhOTU5tTkE?oc=5",
-      "published": "2026-10-05T20:14:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Debate over whether gays are \"sidephobic\" penetrates the discourse",
-      "summary": "Debate over whether gays are \"sidephobic\" penetrates the discourse Queerty",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnQ1SGMxSzRwMFBTR0hJYWlvN1V3UzhHWVZYQzJLY1RabzhZZnAzLXVEUXowWWRRQ3ZnMHNGOEU1LTJHSFRnTE9OSHRibnNvc3pUQWViWHBDa0ZGOWxrakNQSHkxckQtTVlXbTFGNHNmWkdteFoxMzNxUXlkZlRzNDJsRUlsQ3E3MjBmRGthM0ZURWRSTGU4MlNvTXRJbFU?oc=5",
-      "published": "2026-10-05T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -288,18 +336,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Is our fate pre-destined? A new 'East of Eden' adaptation asks again",
-      "summary": "Is our fate pre-destined? A new 'East of Eden' adaptation asks again NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yNE54b3dkdnpUR3RDRGZtQUxiNHZpT1FlcjJQQ0NPd21HZ2NGSVRQQkh4TkJZdFF5R2lmOEFlaDNFYTJBYWstXy1RXzJkLXZsb1ltU3pnQnNBS1RGV1lELW5YY3l5VktZSXNfYU92M21tOGJZZnd6eGxSZjdaQQ?oc=5",
-      "published": "2026-10-05T16:54:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -309,18 +345,6 @@
       "published": "2026-10-05T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
-      "summary": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYi1ONVEyaXNoNGVCV2NhWlMwX1V5VHFoWXRKUldYdHFzZUg3eW4tbVBDb0tYSTI3aWJRcnV4LTJYVUZOcVRZOEs2N3Frc1NvZmhZTUR5Y2Nlem9CYlJxUzBzYXotc00zeTBaMEEzU2VpaDQxQUQ2TmRDMERZNWs?oc=5",
-      "published": "2026-10-05T14:40:53+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -349,18 +373,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Senior Trump administration officials met to discuss Iran war at Camp David",
-      "summary": "Senior Trump administration officials met to discuss Iran war at Camp David CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk1PTUxFTU5QZFBNQ2xQZEhqUkVEaHN0VUNLaVVfd3kxUVZUdG1TSnVYYVp2X19yTWphUnFUSlhaNENkcFd1WWR4UjJwUVE5bDhxRzU5V3RJekdWRTN5cmNuenRoRHFZbndnVGNSbnphRHI3Ml84T2pwdkFwYlFJR2FhOGIwX0RtT2w4bTR5amNldm1CcWc?oc=5",
-      "published": "2026-10-05T06:40:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -370,18 +382,6 @@
       "published": "2026-10-05T05:00:08+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "California man accused of impregnating teen daughter in infant death case arrested in Mexico",
-      "summary": "California man accused of impregnating teen daughter in infant death case arrested in Mexico CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREtfSmdqZ0trNThFS09jMHBBbEEwVUdseG1zSlZtOGFETWdvNmx6eG1UUnJ4TkVpLVRFUTF0Y2dZME9MRE01TjZTS2pWX0szZTZadWFMam1YWHNZMHkyUmNkMTZRd3hyVUtTOGlqODg5SXlzSk5zU29ySk80bnpwd29jb3FjXzR2d0pNQnJkSC10UFlYdXpGVWJjVFdTdlFiX01KWVNBZGtHMXB6ei1OWFhWdXo?oc=5",
-      "published": "2026-10-05T01:21:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
