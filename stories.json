@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T20:14:16.210360+00:00",
+  "updated_at": "2026-10-10T23:43:46.463197+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning.",
-      "summary": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0wzWW1oNmIzdVY0M3UwN3k2WkhGQnVJYWlMck0xemFudWlralkwRXlNUTd2cHE2emhPczdCQktKV0RULXZlY3NYUTNKWWZBRXFZeXRZSWdMcXNNaEFSRUhEcXlCd3JDSXM5VHh0RFRDbDNMVExwUFF1OE1LemVacFl3?oc=5",
-      "published": "2026-10-10T18:08:32+00:00",
+      "title": "Christa Pike discharged from the hospital and back in prison",
+      "summary": "Christa Pike discharged from the hospital and back in prison NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlVGTEdJMmxfNHhsLWVYZVFBMDczNTVPZm1tQjZzYk9vMDdPT3U4TWEwVTNIeWFTTVFFVjJ2eDRDS0p3OVAtZVhMeVNJOEI3bHpFMVdpblpOMmtlcTFfaTM2XzFFaXR1c2tCckRVV2F5SGh6YjJLTlRjV2ZVcXU0ZlpDQlM0OHRSLUVYTmYzYU1mOTBPZ291LUQyTmpWUQ?oc=5",
+      "published": "2026-10-10T22:15:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "summary": "Trump weighs joining the fight against Houthis after Riyadh airport attack NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHppNFllbVBxRmdxSUhRdWhDeGNyTkNEMnpYY1hxU2RSb2JRd3J2Q0poWk1xWlZ0M2xkdzhqNkFxa2tSMk9CTzFMTXk3OVNzVHphb0NBUGhhZXdTbloyQ3lacGdwbE5ZU0lxdDFmYXZ1RXg0WGxOVkltNVpLdmRNOFVoSF9sd2NBZ29odHdaRnY?oc=5",
+      "published": "2026-10-10T21:32:53+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +47,46 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Map: Large Earthquake Shakes Panama",
-      "summary": "Map: Large Earthquake Shakes Panama The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelZreWFHM040c05xcjRySFgzejdBRHc3ZGd2MGZWT0tyZnk0UmZRcDJsNFBVeWo2X2xMRlVJdzhpWkMwZVh0WHlxVzhFa3Z6SS15TzQwcTFSSDZLSFlSZmpFUHEyN0gyb0l4RUFOSnZzQlJnRFcxcjZXdjgtQ3dObkRpci1CdHVzVkh1Ml9BdG5IRDk5WmJF?oc=5",
-      "published": "2026-10-10T17:56:58+00:00",
+      "title": "‘It Was Horrific’: 8 Killed in Shooting in Erie, Pa.",
+      "summary": "‘It Was Horrific’: 8 Killed in Shooting in Erie, Pa. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTjhmUDYxZ2dHanppNEpzV2t3MUFlZ0l0V1BscGpFX1Nhd2JXT0RzeV9FSk5zZ3J0c2ZueHU3Q2hVMHN5QTRpOTFlcUJwWTJibzFZWW9fLVVFRVFuMEVlVjBKN0lHZENwUW1YTnJGREFwd21GaEpxZ1pUeFRNbXRCWlg2V3NnTGFoenhR?oc=5",
+      "published": "2026-10-10T21:31:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+      "summary": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
+      "published": "2026-10-10T20:59:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The Kennedy Center names new artistic director, amid concerns",
+      "summary": "The Kennedy Center names new artistic director, amid concerns NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1U1M1RrRkYycXJ3RkZ4Qk5KdXJiYXdvd09KZG1tUzExS1VSLW40aG1zZ0lNQmRoQ2lNbks0bWpJZUxrRVVXdFI2V1dMMjQ5SVNaN1hTekVSUGFkdjlXODJuUHJzTmlodFJ1Qko0Y2FVY19GMXFDZnRnYWdheTFJa2E2dWZuUWhvTUNyOWNqdjAyOW5KcHVj?oc=5",
+      "published": "2026-10-10T18:17:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+      "published": "2026-10-10T18:01:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,10 +107,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Multiple people wounded in attack on Riyadh airport, Saudi aviation authority says",
-      "summary": "Multiple people wounded in attack on Riyadh airport, Saudi aviation authority says CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmhGWWJuV3R4THNfQV9uMFB6XzdVejZ4bHY0UTlhRjg4SklaTms1dTJzSy1ZVTJrVDUyNUExQ1Nab0UxemhHbjJHNEl0XzR2cjhmcEliYjBJRURBeEYxWmlMajBMMHpYMEZtbzkxeTVXcFBPbjFuNG1VNjVTM1Z2LQ?oc=5",
-      "published": "2026-10-10T15:43:56+00:00",
+      "title": "Man dies after entering tiger enclosure at UK wildlife park, police say",
+      "summary": "Man dies after entering tiger enclosure at UK wildlife park, police say CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUdBcmlpTkFPbXBGaVpOTURwajVDWTdVQkV5VDdNbFVUYmVRSTc3ZEF1RkQ0N1g0bjkyd2JzSmtTa2tvX3FkM0RrSjdnSUtTUXp3OG5sQjRlbkgzblM2d3RKWGpQVmg4RjNURzdlQjJlVU5IV0MyNGNQN1A3MHRTMU5aMTI?oc=5",
+      "published": "2026-10-10T15:39:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Pope Leo calls death penalty \"inadmissible\" as U.S. plans to livestream Fort Hood execution",
+      "summary": "Pope Leo calls death penalty \"inadmissible\" as U.S. plans to livestream Fort Hood execution CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1B3ZVJpNW1RRkRpeldhOGJPZXY2LWlyYklHV2JVZG9rNHdYMEZmRVVVd1U0WW5XRGZYdlZZQnZwRkJQamgtU1FjTTVaR2lYWW43a3h3ZWl1QlVuSS1UWWNxdWxRMFpXNks3bnRETHFDTFlqTEd5UUFQdzVqRTg3aFFETWF2WGpQWUU5UWJBRHN0dw?oc=5",
+      "published": "2026-10-10T15:28:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,8 +131,8 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Missile strikes passenger terminal at Riyadh airport and many are wounded, official says",
-      "summary": "Missile strikes passenger terminal at Riyadh airport and many are wounded, official says CNBC",
+      "title": "Trump weighs joining the fight against Houthis after Saudi capital's airport is struck again",
+      "summary": "Trump weighs joining the fight against Houthis after Saudi capital's airport is struck again CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1l4eGwzQU9YSkdQVHExamFsOU5fT1JNVjNHYmxiTTdOODYxRmJGYnUxX3ZlX1l3cjNpLVgtbHpGLXp0QjBOekFRRmdrclBiclp6S29NNHM1SDgza2gzUjJ2OTA2SGpESnAzT295WGZsN214V1p2NVZybi1nQjR1WFVZQVQ0eFRHWmxzdnplNVJ1RnUtRGFBdmllYXc4bVFWYzlmeV9R0gGrAUFVX3lxTFBpZl9aQXk5OW05Rk9sM2ZKR3pHSHUwRklWdVRHcWg1Ynd4cTZDS25HbENucHBGYzd1Xy1MenA1LUhUd3F2MUl5YVo1RUxOOE5CbjQzVXdnbVJtemthdjcwRTduU0JWQ25wSTRqVHdGOF9mY2FOWTQxNmpJWHlUTmxrbEpXckk2eHlka3hGcGZrZmdKZFIzUFRpR1AyVEJteHVkMzFSaHdCSjlhQQ?oc=5",
       "published": "2026-10-10T14:46:09+00:00",
       "beats": [
@@ -97,22 +157,34 @@
       "lane": "General",
       "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
       "summary": "Putin relayed Iran war proposal to Trump, Kremlin says CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFCZGtHekNRRGdLZUd4UGc3a0pyNnk3aGlFQmdNVEN0LXRXQ2dQNDV4RUpMY2UtYlVieTlDck5tZkQtVXNYSS1lV1c1QzVFR1NqQnJRZHJHMVFIT3FiSkFPMnFQclRfLVlmOFZZakxIZUxteg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZw?oc=5",
       "published": "2026-10-10T13:41:46+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-      "summary": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWT1kzc3gwRVIxcUpXRmFkdWRhdVZBZEl6TnpJdXl4Y2Y2eXVCcndCckNUQUpyd29DaUVOTVNNX2VSeTNnSWNPZ0N5eVd6TWFiR1NlZjl5d2ZDcGNqSzY1R3ctZE04ZzhsdzlnaEZpYTVqRXBJ0gF6QVVfeXFMTW9oSFJjSmdBUW03UnpWYVFSQlVJSFp2T2tWdWtfRzVsaHpzWWZMTjRkaFU0aWlWRjFqdHcxOGk4eVlqSWxBanJEU2NoTVJoZmVkUm5JZmN1clVjQUJJREtOUzUteGVjY1hSVkItSVhSNlFSbVAwaUJqcWc?oc=5",
-      "published": "2026-10-10T12:00:01+00:00",
+      "title": "Opinion | How Is Child Marriage Still Legal in the U.S.?",
+      "summary": "Opinion | How Is Child Marriage Still Legal in the U.S.? The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VVFpJaTVsSG1Fd3FFSjMtNF9hZkdLZ1h6QzNIVGRGdnRHV29ieTF1XzRHRzVrRGF3bzJ5RWNpc3htQU4zTVRtMW8tWEN4NlZXSG1jVi05LWlxX0ZrTXBzdGRfcUdQd2h1eWppWGFyUkNBdldzU3VVMFpXVQ?oc=5",
+      "published": "2026-10-10T11:00:40+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: San Francisco Unified to replace school lottery system",
+      "summary": "UPDATE: San Francisco Unified to replace school lottery system EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFBrVHhGUG5IZUdlRzdtNlVWVExieGw5bE05TXJwMzgxYW5MZy0xMF9sZHc1ZlM1UUFuOE9iai1JM3dUajFMRmNjeGhSaEFVSnZkcGlCaWI1OFVPdUNINUNYd1RmTHhXN0luLXpmSjdZdEhXZ1lsRUNKY1F4NlF1Z1psSnFocnRJVWRV?oc=5",
+      "published": "2026-10-10T04:43:55+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -149,18 +221,6 @@
       "published": "2026-10-10T00:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-      "published": "2026-10-09T23:15:12+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -202,15 +262,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
-      "summary": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that NPR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbURqTEtfWm1WelJzdDZ4M3lPWWZUVUUzZWpGWDNudUNFejc2VmJnSVZyc0dPeWtoLTFHVnE4eHFBVUJWLWFyZ2xkQXBZS3VZS3F4VGc0VVBHS0tBWlVBeUFzYUprcXdHamJjUlJqTmhUSWdqNy1yNnFpbHVjc3lDUWJqS0tWaFJOUzhrU3BrTDhqZ3F5S0Y1c1NEUlk?oc=5",
-      "published": "2026-10-09T18:55:38+00:00",
+      "title": "\"Baby Angelita\" was allegedly run over shortly after birth, California authorities say",
+      "summary": "\"Baby Angelita\" was allegedly run over shortly after birth, California authorities say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdU5VN3dXR2FmUExrbWZoekVJb1B4Q2Y2UUN0ZldoaUZFWmV3X2pwUzRvZWp0c01EWDQwcmdTZURZdXg2VGZVaXhpVE5Oc2E4U2ZlZW82YUszMXlVTFN2cDFtSjVvYmc4VHZVZmMtTkNVVFNOOTh4RHZ5NFhzNDJCdGl4T1NVdnhQQ0dUUm9nLUFpdFpWSmV5OU5waV9PaGs4ckF3b1RrSVJqU1kwUW9CMWdtN05GYWE1OE8tOFJTX05YZUtrT3FMRzk1bFluUzlkRnR6YQ?oc=5",
+      "published": "2026-10-09T18:20:18+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -317,66 +377,6 @@
       "summary": "Crew members quit Ben Shapiro's pro-ICE film after learning it mocks queer victim Renee Good LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0JhMERqWUp2bUVYOWlnR2JpMnFmZmphUWdjQTdXbXVYS3FCa2R2NU1CMFVhTE5HbmRNd1hPa0EtLXEwM3FxZVRZT2tZT3k2RXlfNl9oQU9lMzBmcDJyN0JqNDItZnF2SlJWLWxpVk9SX1pnWDktRUxxaEtCdlFacEpZVUZOY0FoUEd3WmhwbFo2dWdkbEMxeXVJdnE1MmpqdmtTeTFsMF9TU1lDTDJvLVF4RF9WRGxUWUx3S3FR?oc=5",
       "published": "2026-10-09T12:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "AI, tech leaders are lobbying Trump health officials in a government-run chat room",
-      "summary": "AI, tech leaders are lobbying Trump health officials in a government-run chat room CBS News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpM0xvN2FtdXdERExEVlBZYUtLYk9aTHFkRmNETnF4ZG9BYjhtQ19Fd29DRTVFYzZpd3FhcVZndWdiZ2ZNNVdzVmNwcDZEZk16MWVOdkpiY3pGZ3M4ZzlBVlhSZ0MtMThEc1VNTXB4ekVEVjhhajlpd0dPOVNGb2s?oc=5",
-      "published": "2026-10-09T09:00:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize",
-      "summary": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize NPR",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkb012OG00SldicjlPUHZVQ3JhdENKMS1NaU5fLVlMbllLa0pYU1gtVHJUbnlQX3ZNdGdBRldVS0NERWVRXzVoVlltS0oybDd5Y1BvTHBhMXZvcWJFR2lBeXJSRHhhZWxobk8wRDRHSQ?oc=5",
-      "published": "2026-10-09T08:23:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "California school board member ordered to stay away from parent he harassed with profane emails",
-      "summary": "California school board member ordered to stay away from parent he harassed with profane emails EdSource",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVE1dkJyclpwXzNZcXJCZjhmQV9GWEhQVnVnMlBLWXRsMHpfLUpmUGtvS0tTeTZ6eWkzNVZmN3NSSG5hT0JXQjE3dDktWlNFdGZsT1FfdC1wN2U0WDRyQ2xIZHJTdUxaOGROOTBvenNiajJJbHZRZU00OFBUVWZTYjN4SldneHlaV2llZkU1ZEdTVDVNRkRLSTUySUdENk9tdlg1ZdIBrAFBVV95cUxNTG51d0tyQW1KTFdCM2IyLVBoWFJzRXZuQkNSV2NfZFd1ZDQ0Y3FTSE5TQWhuTXhzbVNoeFhWeWNzY1VnZjQ5VHNVeXJOYmxvU3p5N2lUSzdqNVpGZlUyVXIzMUxRV1dya21ZOE9XXzY0MFFtaDRpM2VNc0p1clJzYnQ3YVM1ZmNZX1dSeUtlYWNWbXhHOVdobURLNkxDSW1GZHZJODN5blIyOUhN?oc=5",
-      "published": "2026-10-09T01:05:34+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-      "summary": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZE9QY05vM01MS0RQbVNwMkFkTUlyWjBQUlBZczZLSUdHa3ZSUnF4MU01eFhvVUhWYzE2YkR2QVlDdmtvV29ZbXNxUTlKamJHdDdKRnplSC1HWktrbGR1LWRNVnFfSXQ1UDBRZVNZdFYxekx1WUlOcDZrV3c3YlpPQzhVQnVWQjF4RTBtZjBSaXRpVjVxbTVZ?oc=5",
-      "published": "2026-10-09T00:25:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "This speedy new treatment for ED is now available in the US, and it could change everything",
-      "summary": "This speedy new treatment for ED is now available in the US, and it could change everything Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNEJ0enhodXo1aVJVOXJiSnJCMmRDYkRRWHdTVUZmOGNxVm1HWkZId1FSSGY2NzhtX0xleXBYNzFHYWRpSlJrUnZvUzZKZ3lGSjJ2RjZjQlhkM3VLT0hzUGEwOTBxSzlyVzltNTJid1UwVXdmUVh1aEdiTngyTFUtNDVJWnVGQV9YMDBCUWRuYnQwTkNvR1NSaW5xOGFrbUItdzRvY253YnRHcFBUM3RUdDRzc0M4MFdVejM0SHYtVVM?oc=5",
-      "published": "2026-10-09T00:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
