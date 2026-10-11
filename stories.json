@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T16:42:58.051585+00:00",
+  "updated_at": "2026-10-11T20:49:42.651872+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,63 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Justice Department opens antitrust probe as White House press-access fight escalates",
+      "summary": "Justice Department opens antitrust probe as White House press-access fight escalates CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWERYdE10ZEZuUk1XSkdma3BMOThHXzZYWWtyYk9HT1BMR2Vad2h6ZmtQZGVkZWo0NENLSHNGSjdyQXpUN2g3QTBuQThvMkhhMzhqR2NOb2M1bGVzVWVkOXlsRFR5NGsydlRYRm1fVHZOTHNwREZFbEVyeGVvUDZMYVJaTlVJVTloaUHSAY8BQVVfeXFMTnJZb2RxYUpxT2tOemY5d2JTZlhRZzNrV052Yk8yUWppR0lpb3pjV3o1WXg1cHNFMVMyR2FQQ3hIeU9POEtSUjRXU0tybzBOVlZoMnhKSnBKUk9kYzZrUVp0Ql9lVnB0dzN2QnA5c2thWllMUE90ZXpZc2FCcXl0Qk4ycmhpeFc5N21JUXJIUjg?oc=5",
+      "published": "2026-10-11T19:07:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Trump claims Ukraine and Russia have agreed to energy ceasefire",
-      "summary": "Trump claims Ukraine and Russia have agreed to energy ceasefire CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0tCODRYeVprWTRDNW5uMEY4aFlGZUQ0V0w4QWdvSEtiaWtsYURWSUhHdGRvbnJEZ096R2tGWnM0V2dCSk5JekMtV2lPU2wzZzJIZGE2cjI0dnpReHR5cDdzR1BRZ2VCZTdQOHcwWWZCejBFZTVsTFROM1hldmo4ZDNqVQ?oc=5",
-      "published": "2026-10-11T14:45:26+00:00",
+      "title": "Kansas GOP Sen. Roger Marshall pays off 6-year-old campaign cookie bill",
+      "summary": "Kansas GOP Sen. Roger Marshall pays off 6-year-old campaign cookie bill CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmFOWjdQUVJ0UXRVTHZPRFI4R2R6NGdPeXMzRzlYRjZKZUJ2UUJRXzB5TWtSSmdOYzFqTU56SjdDa2h3OUs0SU5LOHByN0dIc0RRdGI0YXhIZjRsV2VKYjFXWDh3dGdLOHpLYTZjTVh2d29EMENsbjkzazhCRWJXWlpXM3o?oc=5",
+      "published": "2026-10-11T17:04:21+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Early voting figures suggest Democratic gains in Ohio’s most Trump-friendly counties",
+      "summary": "Early voting figures suggest Democratic gains in Ohio’s most Trump-friendly counties CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXNQN3hId19pNnBpN29sdnJJMHBqNEJWd04xaWZZSDJzWE5IMXZjN3NIMm1Lc2Uyd1BoeWJqV1JCZVJEZkdIVko5dXdzMS1pMDNwSXFDUFllZW5IVE5qQU04ZF9fSEtpQTRRMXFvQm1lQzBwM20yT2ZPZ0gtU1h1akFmNjdZR2E4QlJFd1RrWU8?oc=5",
+      "published": "2026-10-11T16:52:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump really wants to make ‘super intelligence’ happen. Is it going to happen?",
+      "summary": "Trump really wants to make ‘super intelligence’ happen. Is it going to happen? CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HOFdTWHoxdldqUHkzUVdGWXdhRXRjU1NZemxqWlU5YkY1bmdmQjExc2hWU2Q4a2RCNkRsMEppT2FPQTNzQmdybUVwWVlDb2NFNW9qcXFIaWdHYzJCNEhFNVFxdThDLUczdUdxeXlSMjhCcTNQbFE?oc=5",
+      "published": "2026-10-11T16:00:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Transcript: Shyam Sankar, chief technology officer of Palantir, on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+      "summary": "Transcript: Shyam Sankar, chief technology officer of Palantir, on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXJZc1VzVXphbXp5LUsta2tOYWN0RjI2ZUtBdm11Y2Vlc1dYck9PTjA4djRaNXJxcnp1UF8xSkJoWlFXM1NDeUYxR3FrYzlhLXl2SnNQMzQ5WExPcEhOdVY2SFh4WDRyTjZNSkcyTFJUZlpING5aY0ZfT2UtNzVESG9lLVkwYkZJdDFaWkdjdEtmZUtEeUNoRHVGblJpLWJ6MkswdkNlZmViaGpGc0ZZQWRZV0w?oc=5",
+      "published": "2026-10-11T14:31:11+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -51,6 +99,42 @@
       "summary": "Pope Leo XIV to undergo lung surgery this week NPR",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWxXYk9jejhWdDZoVDF2aDhsRUZlM3RySHZ6bk9PV3dDTW1CZVlQTlFSRVhSTXJIZ2tIOHJQeW1nWHRwLWNfeFhrbXd1RTA3Z0xJcHdWMXJzYkp4eTFYdWoyRHVDNWV5cFlBbGdpaU9sX1doMnhvVlBPOWpOa293RGNKUERKRUJjRGg4dDVhNVh4bUxmaXc?oc=5",
       "published": "2026-10-11T12:54:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Republicans stay bullish on Texas governor’s race, but two key groups present challenges",
+      "summary": "Republicans stay bullish on Texas governor’s race, but two key groups present challenges NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUhHWTN0RmFEOXhER3VOTEhaSXJNc1dJRjVYb0pqR00zNVBYdERmOUdJNHFjYU1ldXd2cTFEd245Q1BnM2UxZlZlYmRBdWpjcjVZVUthdTdWN1hFUXlGTGVIc2prOUFZWW1LdmtHcmZFZTBCSVlEV1VKaDB0S3VDVGI4TUo1ano4QW5EYmhiMXY3RjhUc0VwcVRsdjlxdEVlalY5YS0wUXVSVmk3LWpWeHNMQURmY1BveHppX1pn?oc=5",
+      "published": "2026-10-11T12:00:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+      "summary": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1QzVjhkQ0RwZWhTYWZJNFktdTFJaVA5ZkdPMHcxYXZYX2d1cWFuZ0ZhbE1jek0yeUZjdHdyTTFoOVV0YUJDemwwZEpTdVBiNUxCYThua19EQTJEa1hmalB2c21KbDREbGx0NENBaWMyR2FCb3RlTUJGS3BLeTdFTVVtMTJncnNrSWI3REU2bk8zS3puZ1BCaUh4ZHpMQkdoVFZkR1E1Z9IBrAFBVV95cUxNclh4Mmphd0x6a0QzNHpkbW9Od0dBUDVpemE5VnpITkNJZm1yV2VRLTJ5SzIxeGFlNUNxLWpCTUJZZFNXVWRSUThZSkRqcm1FX280d0FmRE5hU2dzNFJUQWlpZWRUN3JGOHduZVZ0aWE5SG5DV0xaTVhMZE1MbXhEVnRRYi1vS1RaMnBFN29fTXQzaGhoMTlncjNObDVBemo4Z1VqcDBBLV9sUXF1?oc=5",
+      "published": "2026-10-11T12:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
+      "summary": "Don't be scared: Being afraid is outright fun, and maybe useful NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnk5aVJNNFRGYjFXT0hNQWZVSzJjZ3ZPNk5DclhKaGFpcHVRdkpkejI2cFlCQmlud3RJd2ZTRjVwVHlkN0hrN2tMdnJyMkFXZ1ZvTmtZU0h0RGwyYjRfM0lBc0xZTGRpNjdfX0I4SFY5SmFrZE5jdWdyblByYXJxT0Nick9wQ3M1SXlYT00tcFRhNGZLcl9TZXN5VjdnSDBidEJTYUZtOGo?oc=5",
+      "published": "2026-10-11T12:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,30 +164,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Pope Leo announces he will undergo surgery to remove lung node",
-      "summary": "Pope Leo announces he will undergo surgery to remove lung node CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sTGVtanhXb01kdl9Vb2RtUVY2cDJpVy1FRUhoUXZ2azhRcExYb3BBS0RnUTFFTWhITGtyemVfR0tLMDM0dW5LOXVzd3RqUXFLa3RsQk9mQUJ4cjZRWF8ybVFHRDI3Y1E5UE9VSnMteFRodlJSSVE?oc=5",
-      "published": "2026-10-11T11:42:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
-      "summary": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now? NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tSmYtTjBWNnBJcWJRcTBtZWR6Q21aQy1iZ2s1RDRJYUpRamtydDZ6VktUc1J0VmVIcDVfZEZEclRlTnRZNE5lTGxWcUN1Q3VHOXBucUhFNWw3UkRoOHhfcjB2Z1o0a3A0YWQwZVQ2Q0lyRG4yTXJFVV9kazJYSHM?oc=5",
-      "published": "2026-10-11T11:28:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -116,47 +176,11 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Pope Leo announces he will undergo surgery to remove lung nodule",
-      "summary": "Pope Leo announces he will undergo surgery to remove lung nodule CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DbDlsNXRtTkhBbkI2cWJNcTZjbFgwYk8waENlTFY2RTlTcHdYU1RTX0RWeGZPN3h0YXhwTjZjcVZsRUg4TzVScDhxNTlYckhOMl9kbXBXcjNwM0JaU3RLZ3FKTjF1TmRPSWJjTElZbzE?oc=5",
-      "published": "2026-10-11T10:58:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub",
-      "summary": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTZRT0ZmMlNPd21VeXR3bnZsY1kxZ1dSWWlfbWhLU3N0ZmtmWDFhN3VJTzI4NXM5NFpaejlEMkhQTldwaVJyb1JtUWJZcUxGRXhmd2NuQ3RackFvN2pldXhjcVNSeUVnY3NJSDdXZnktR0gzVG1mOXhFaC1FWllWUlduQ0dmcDAxY185dmtyWlh6djJRQmtSOVJVRXJRWXfSAaQBQVVfeXFMTnpqYjJaZldEamhZcUxqb0llRkVUQzl0THREZlR1TE1YcTRXakxTU2xLTWJMVU91MXVxQUVyNjR4ODJVc1NQRXVqMS1xME5rZGF6dkFmTEE4WGZRTEtMbF83cUpuaktFT1B6b2diLVZxRWxWQ25uM01vZnJkckpvbnBwTWF6NE1XbUN3SHNXWGxodWs4T25xcjZBak9tOUZmVFdpazY?oc=5",
-      "published": "2026-10-11T10:37:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "DOJ says it's investigating whether White House TV pool's coverage halt violated antitrust law",
-      "summary": "DOJ says it's investigating whether White House TV pool's coverage halt violated antitrust law CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTYybUxBM1VsaDRWRDVKZmdpa3FWMHc0Nm5uamNFdFJNNEZHdjgzYTFyTWVGSE1mNDRrVEFwQm1TbV9oR2diYjRjMHF2djFFRU1QaWgybWhkTVQ1bTBYWjk4YldDUWZMbUExY2UyR1pNTGdZSmdfMm1qWUVEbDY0SklUbVRYNE9oOWhzTF8yR0xCTHJodmpEcS05STF4MGljNkdheU85ZHdFQdIBrwFBVV95cUxNZjRIZmdlNktydDJjYkhBa0htdUFoN0pXVkhvRjhXajktZ2RtLW1LVWYtMEdIMjdQTFFMY2JJZ0RmNUlRNVFwdHdFRkZNSGNSb3VvS0d3bUNhaHZ1UVJSNWV1UXJlTDdzWmhpcXJwa1lJVmp0RTB0ODZzSXJQcGRZQ29KLXFZTnVneTVXQkZJZG96Rmp6LThzYW8xWjRpaTdtdkhkZTlzWHl2ZXphYnM4?oc=5",
-      "published": "2026-10-11T10:12:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | The Neuroscience of Decluttering",
-      "summary": "Opinion | The Neuroscience of Decluttering The New York Times",
+      "title": "Opinion | Neuroscience Can Make Decluttering Easier",
+      "summary": "Opinion | Neuroscience Can Make Decluttering Easier The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzZxMUVET2llSS1PMFFtYTV5dE1hYS1oeFhITXdKMmRuZllKcXFHaTZZYVJzMGF3V0hsMmxkWlNjcVJlNnotbW5ySWlmZE9nb1ZHT0hjaEJqeXFnbFc3eXo4MmFjd0JiRlNWd1JFTW5udkJOZHFkMkhBQ0ZPaWN5U29PLUtfSlpfZ3c?oc=5",
       "published": "2026-10-11T05:00:06+00:00",
       "beats": [
@@ -249,6 +273,18 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "October 2026: Supporting Young Learners Today",
+      "summary": "October 2026: Supporting Young Learners Today Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHpCVkJ1TlVoUElweVJFMUtMcWtKbDlLbGk3VG51MlVPV2ZuUFp0LV9BYi1SdFc0UUhGbGpKTGVJaWxFOUp0N2djTWlkR3Mwc21jblBEQkNicmItSmdpQmdzT1M0WVFJMG1tQW5mZUxQUkxWQm1RbmJ5SUVUWnhMajJR?oc=5",
+      "published": "2026-10-09T21:13:16+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -284,18 +320,6 @@
       "published": "2026-10-09T18:20:18+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "U.S. hits International Criminal Court with sweeping sanctions, hours after former judge wins Nobel Peace Prize",
-      "summary": "U.S. hits International Criminal Court with sweeping sanctions, hours after former judge wins Nobel Peace Prize NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmVRSkM5ZTJjWFZtZXdjYld5eF9iMlJmZldwalZyVG5iTUlwdXlHbWsxY0gxWmlwRVh5eC1oaDdaWmRCZkJZWW1ZMWNIMkZJNDdWcXBHb0RSRWNNdzd4alhYZ2hIWmcyQlBmd0RXcTNnQ0Y0dThuc1NCMnlRaGFaX2EwQm10V1VJTEdHaVVrZE5TWl9tcmoxNlhhcmhnMU1taHhkUmV2NDZVaUVLM3U5WklKM043bUxFRkVr?oc=5",
-      "published": "2026-10-09T18:05:27+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -338,46 +362,22 @@
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
-      "title": "Arizona District Needs Math Curriculum; Tennessee System Looking for Leadership Coaching",
-      "summary": "Arizona District Needs Math Curriculum; Tennessee System Looking for Leadership Coaching Education Week",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPblNXUUZEVjB0MzZFaWNPVk9ycHdfcGpGRTgtSUF4YklHUm5IaEN0dVRJWHgwUGtMYVA5M3VMbWRNT3lReEtXYTFRY1doMnRxZDR5aU1sZkxBRmNHVUJ2aFRGejNJSzlsTnVIUHBnZEU0cDc1RVZIaVYydEJHZjBISWhaSTM0OE5renUyNlNJOFhmbG9BcVhtVUNxblBxLUx3aFIxTmdMZDhSWjRtd3Q1dEZ3ekVMS0lMNlBHTjNBMHBUcTZWbUNWbGZKTDZncldhQV9FRHV4MHFrZDhp?oc=5",
-      "published": "2026-10-09T16:33:24+00:00",
+      "title": "We’re Hiding the Beauty of Math From Children (Opinion)",
+      "summary": "We’re Hiding the Beauty of Math From Children (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW9YdzBfWXh3Snc0TnFTU1RzelpWZHZWc2RCaGFFcmlNeEJFMVFDaWxHQzJTVm9LQUlzbmtwQWRYcWdXdTFjbU1RZ1JjaFhROXVET2lDYXRUaUwwVXRmaTV6N3FJdXlGdzFMTkw2dWRxbGJ5TFNKTU5qTDE0UXFLMFZLMFpmZU00OVdGZHRXbTVMQXZzVmJvU1pOUGtySHB5YzBV?oc=5",
+      "published": "2026-10-09T16:37:56+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "Trump promised to lower prices for Americans. Here's what the data shows.",
-      "summary": "Trump promised to lower prices for Americans. Here's what the data shows. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSV9yUHBQZUxKUWtGVm5QUm15NW55dTRxZnFtYXlxbVFZZlF6N3NzRUpTN21YbHBIMDBLeF81dXctLV83TlowMU1QNkxnQmI1Q2ZwTFhGV0NfZmRBMW9XWlZWcUxvYjh2QlJZZTVxQkhzZk1FdWM5UG5DNUpMbUZUYl85S0RuUQ?oc=5",
-      "published": "2026-10-09T16:23:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "NYPD body camera video shows aftermath of ICE agent shooting man in Marble Hill",
-      "summary": "NYPD body camera video shows aftermath of ICE agent shooting man in Marble Hill CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSmNGRTJHS0xYWElZdG11aGhmWEFNSlptaDlNWkwzX0FQV09MZDNhWkZiZTFORmJCZjJYdFBMd2pWSzVTSDl4QlpQZU40VmZzdnpaTDB5dV8tTlRCZTU1T1g1QzlocWxnM1JkSm40OA?oc=5",
-      "published": "2026-10-09T15:51:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Test yourself on the past week’s K-12 news",
-      "summary": "Test yourself on the past week’s K-12 news K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU3duemxfbERiSXJKcy03WFl6Q3NadnBZaHVJNTk3YkN0YmtPZWpIYlFpdXpncHVTb1V2WlVtdTRaZVhSYi1OU3pISTU5TEp3eUUyTlctTzYxR0VlRW1MdVRqRjVuaURvOFVUdUtBZXpnSEludHN2Q1pnMjg2VGtKMg?oc=5",
-      "published": "2026-10-09T14:12:46+00:00",
+      "title": "Arizona District Needs Math Curriculum; Tennessee System Looking for Leadership Coaching",
+      "summary": "Arizona District Needs Math Curriculum; Tennessee System Looking for Leadership Coaching Education Week",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPblNXUUZEVjB0MzZFaWNPVk9ycHdfcGpGRTgtSUF4YklHUm5IaEN0dVRJWHgwUGtMYVA5M3VMbWRNT3lReEtXYTFRY1doMnRxZDR5aU1sZkxBRmNHVUJ2aFRGejNJSzlsTnVIUHBnZEU0cDc1RVZIaVYydEJHZjBISWhaSTM0OE5renUyNlNJOFhmbG9BcVhtVUNxblBxLUx3aFIxTmdMZDhSWjRtd3Q1dEZ3ekVMS0lMNlBHTjNBMHBUcTZWbUNWbGZKTDZncldhQV9FRHV4MHFrZDhp?oc=5",
+      "published": "2026-10-09T16:33:24+00:00",
       "beats": [
         "Schools"
       ]
