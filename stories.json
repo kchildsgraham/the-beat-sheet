@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T06:22:02.394409+00:00",
+  "updated_at": "2026-10-12T15:54:54.751785+00:00",
   "lookback_hours": 72,
-  "story_count": 0,
+  "story_count": 30,
   "sources_requested": [
     "The New York Times",
     "NPR",
@@ -17,20 +17,368 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [
-    "The New York Times: HTTP Error 503: Service Unavailable",
-    "NPR: HTTP Error 503: Service Unavailable",
-    "NBC News: HTTP Error 503: Service Unavailable",
-    "CBS News: HTTP Error 503: Service Unavailable",
-    "CBS News LGBTQ: HTTP Error 503: Service Unavailable",
-    "CNBC: HTTP Error 503: Service Unavailable",
-    "CNN: HTTP Error 503: Service Unavailable",
-    "Education Week: HTTP Error 503: Service Unavailable",
-    "K-12 Dive: HTTP Error 503: Service Unavailable",
-    "EdSource: HTTP Error 503: Service Unavailable",
-    "LGBTQ Nation: HTTP Error 503: Service Unavailable",
-    "The Advocate: HTTP Error 503: Service Unavailable",
-    "Queerty: HTTP Error 503: Service Unavailable"
-  ],
-  "stories": []
+  "errors": [],
+  "stories": [
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Rep. Ilhan Omar’s home searched by federal agents in criminal probe",
+      "summary": "Rep. Ilhan Omar’s home searched by federal agents in criminal probe NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenhTcUF0eV9qanBKUnNlaU9QV2EwNjhZUUlfMjc2QVNDOXpkcUJ3bVpnMW1sNlVFaFVHZlpkXzZxdDYwWUJtVG1OWk9iSzNrcVlVcEM2aXQ4Qk85cW9uRzh3RVE4SXZMMUV3MEhVcDN6bUNaNjJyd201S21ESmZDZndoVUQ3djQtdXVOX2VuZjVhek5rSGdJdExiRFpiQ05KcnVLa25tOV9CTjRfUFEyVHZxTG5Xd2ppT0tWT3BHYUtqaDYzMFE?oc=5",
+      "published": "2026-10-12T14:43:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Elon Musk emerges as the top booster for Republicans with $276 million in donations",
+      "summary": "Elon Musk emerges as the top booster for Republicans with $276 million in donations CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjhoTlhaVXVCWjRpT21BRllhVktKZjFmX1hHQUF6eDhHLVBnUFlUYmp5UFVrVV9tZzZubHhBLUtoUDRtQTk0SkM2ck00Uzh5OW9FRnpYNjBHaC1HV2g0bnVmUG0ydTdEQko3NWVfd1R4QjN3MTV1ekZrVFExSy1XRFF0M3I?oc=5",
+      "published": "2026-10-12T13:54:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "4 areas of impact that define an effective CCR strategy",
+      "summary": "4 areas of impact that define an effective CCR strategy K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVm50Tno5aFNkX0M1cnBKa2ZOYVlyMUpncFlzM2FYQ1RTdmFJT2lpcmwtdjlONFE4N1VlZ2FZZXVpcnVfY3lqaklvNndpNC1xNXhfYXBtMm1NYThhZG1YVVNkWWlQOTRwTG82a3RkWG5jcS1ZYU1pRDdEOVhEcEg4YnFjcFQ0bVdhUHdzWGdCN3p0a3RfbUVncw?oc=5",
+      "published": "2026-10-12T13:46:08+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Federal officers carry out search at Minnesota Rep. Ilhan Omar’s DC-area home",
+      "summary": "Federal officers carry out search at Minnesota Rep. Ilhan Omar’s DC-area home CNN",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5feFlfbkswcVJIbFlqYXJJY1l4YV85aWRTUXFUTXIwV3huN3RrRUEyUmVINlQydGtJQU92VGNlUzZwS0FIcF9sd05EZi1XdlpDSHVIWlpLOVZWRUgtLWQ5bjR2ZnJ6Mmlj?oc=5",
+      "published": "2026-10-12T13:43:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Goldman upgrades stock and bond markets on strong earnings growth, little recession risk",
+      "summary": "Goldman upgrades stock and bond markets on strong earnings growth, little recession risk CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcmxadmthV3lUbDR2bi1DMlNKZFZfTzNzUnFzRnU0NVgzR0d2dEkwSXFvaFVUdzRpU3R6TG5wUTZhUjBtMThBdU9NUVZycmt0VXpGUndRc3FOa2xCRzk2YWtzbGdOaVVGdTNkSDIzR1lNb0ZfeE4tWVRwMA?oc=5",
+      "published": "2026-10-12T13:31:13+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Starbucks says it is not buying Chipotle after takeover speculation",
+      "summary": "Starbucks says it is not buying Chipotle after takeover speculation CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82OGZYOUg4UGFYWksxUF96dkd2U195UTZfaGFNNVFpMmlwcXRkNDdscVRLTnJPNDg1emZ1aXI4MW42WXlUQTRURWQtbU9VamJPc1FGQ0RiUFVZN3h5eU1PQThQQUxtNGp1Y3NlMUQwdVk4X2J1Ukh0d2xORdIBgAFBVV95cUxPeElnRzdaMW5pYUJDQ0lWY01wQTE4Q2loWEFYb1BQZ2wyY1h2cV96SExiVjYtaHpCdGdFUjhlQUFUbU5ya19PX2Y2RXlRYURDMlprZG1VRVdNbDl4YnhfeXNKRHd5WEJYRWxmWllHU3hHczlFRFlsY1hWaVgta3hSZg?oc=5",
+      "published": "2026-10-12T13:01:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "summary": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXdvdGREcjRPNHptRzBRc0U2a3ZSZXQ5cHdDRG5HVkpyYnZCTmJKcVdJVnpGUnhua09PbmR4bXdXM0diYVptTWNmcHFaY3FTRmlJV2N6d2Vma183QnA3UnFjUTVNRjhEWWRFZDJNQTdGNkkzbFNNSzFvLTloQ25kQmlYRXFfcmRCSzVvdU9VdXhSUEx5d1ZqU3VB0gGfAUFVX3lxTFBYNlVqUHRKWk9zYWtJU1hCWEpKM2tRUDgxdDltRlV1aU52dmlieFIyWTNwOEt2VndRT01ERnVmVG1xaEt6YnptRDhJNW42bFgwQWM4QXJMTTE5SllPZFc5dUtoclhJamluZENjdXdzeGdDNDFzejZlSHRwbjBVX0VTbHh0ZDRPVlNfQVgyelJVUl9KZi1LQllkR29uRlg4NA?oc=5",
+      "published": "2026-10-12T13:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Week in Review: Head Start, school choice plans draw pointed comments",
+      "summary": "Week in Review: Head Start, school choice plans draw pointed comments K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZNEl4M29sS0ZxNHhCRk5WbS1jRGJ6dkNhMnBRdzB4ZmQ4cEFEeTZNY2NDWkpRMWg1SkVsWUw4cXRPSERXNHJRRWxRVWxjQXVhdnpFdENoaEdwRlFUMHhzdVB3STBZZUNSa1hCd3lwRUl6ZW8y?oc=5",
+      "published": "2026-10-12T12:26:56+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "An abandoned rock sample could prove life once existed on Mars. But will it ever reach Earth?",
+      "summary": "An abandoned rock sample could prove life once existed on Mars. But will it ever reach Earth? CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZV83WHhqd0lhQmwwYmpBM1JjaVFJSF9zNDZqeXN4WHpDUTl5N2hJUzhVOWd4ZGxKUzQtRHRITksxaDVQWTBkby1EWEVOeUtCdkR0enpDQ2RLcEphcVh4T2lyWDFVRkxrZUh6QjRKY3VaNUlzVlNFV3RhNl9oVFh4cjB3RXdjQjZNZEJ6YQ?oc=5",
+      "published": "2026-10-12T11:41:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns",
+      "summary": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUVqLWk5eDJ6Z0J0Ny13SFg1M1BaUFhEcnFxaWlXNmp2RlQtdlA3cXlheHBaSHFuRE5aczVtRDgxQU5sTHNDaEdEY2o0TDFJVjFHY3NIb1ZZYi1uYVJYVDN2Q2FHaEc3b0t5VWk5Qmp5bG8yc0JSWG9LVFFXbTRNNjB3?oc=5",
+      "published": "2026-10-12T09:10:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
+      "summary": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUx6UndxNGl6dlFKcEF5S2N1Z2lvdFRyeWFQeEZicW02T1FMeE05X2VmdW1wdlRFeG1ZcUpkRDRaVldIbWpxLVJrN2JqOG52VjgtS09JQVg0dXpIU1ZtVU9QSzZZTjdqOUl3VlAxZzNMU0l2bWhxWlhoaGpEekVZUTlLMA?oc=5",
+      "published": "2026-10-12T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Here's what to know if you're unsure about your measles immunity status",
+      "summary": "Here's what to know if you're unsure about your measles immunity status NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORE10ZDhqTmpxZC1TMEczckRrWFc3eVRyYWJia1pKdnhzZlZYQ0dLVXg1ZUlwX2VvanJjZlkyWW9Qb2pXaU4yci1HZ3ZnRmRBYnUwYjU3NTcyQjYxVFdpLUNjSC1ZTnVMNVo5elhTVlFmRnk2YlRLZ2pta3huVmxaV2NVdWN0VVByaG9xellWc2RPOHJPLVE?oc=5",
+      "published": "2026-10-12T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+      "summary": "2 Americans win Nobel Prize in economics for work on boom-bust cycles NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04QWx4YlhxYmxzaFJ5bUJyOTBkTWxGS0FuYWtUQS1FVlpKNDdjRUc1aEVQVm1TdndjN0pvbG9pOTN0U2RKOVBRempUWXRnQWtQLXZXLXBjTjNxRWxzZG51Rk1PVmZZcy1wLXBJOW5qQU9DOUhQc3hLWg?oc=5",
+      "published": "2026-10-12T08:35:16+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Trump administration ordered to cancel taxpayer-funded TV ads",
+      "summary": "Trump administration ordered to cancel taxpayer-funded TV ads CBS News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pLUtqbzlUWHRveXYwMmY5clRlVzVGVWc3SThfWEEzb2xvZm9tSFhHR0pHcFo3c2U5UXdjMnp0aTg2NTAyc3FHSlhIR0dxSlFEOUdwVmlsek9GTEVmYlhaT01kQjVJWmVWLU10U1FvWFdaYmc5N3pYSA?oc=5",
+      "published": "2026-10-12T03:18:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Bay Area regions that rarely see flooding could be affected during winter storms",
+      "summary": "Bay Area regions that rarely see flooding could be affected during winter storms CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUVXM3YxM3BKX3d0cWRWMWpuaFlYRTFDYW1tWjJHakNIQThJLWdoMThFVjJYeXpwQlp0N3dJTjB2V20tQXFyQkFaOWhiOGwyaTk3LVJheDNBSlVmbVhlaFhwN1RoTDF3SlNwek9DNWpVSktLLW8xNjNHY3JzdnpkVnFUZ2I0NUFQWDRIWnJsRGdWOWMzcl95VmJpQUN1cHVPbmZyZU5mdGxub0tj?oc=5",
+      "published": "2026-10-11T20:27:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Speed’s ice cold backflip, Joey Sacco’s cat, & Anne Hathaway’s special message",
+      "summary": "Speed’s ice cold backflip, Joey Sacco’s cat, & Anne Hathaway’s special message Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0NMTFNvaV96Q0ttT0wwZ3Bvc090bFcxamRFa0RlNkpEMWhNUVhvTHF5UU5DN042aWU4WGJVRVNpZ3l6Mk5oM0p4WXM4TXpIeFVmM2ZvaEx1SXdncUIzZXRKcWZ4QlBnRVNfUmtjNXBTaFVzQnZfYVk1NndUcjREUGpRWkFLSnZvLU1sU2l3T3BBY0l1UkZHMjBCZFVsajNVQmhWZ2hubE0?oc=5",
+      "published": "2026-10-11T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Prince Joshua was a “weird kid” in Idaho. Now he’s nightlife royalty",
+      "summary": "Prince Joshua was a “weird kid” in Idaho. Now he’s nightlife royalty Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFdpeTB3QjVMQlhvcU1Ycmg2VzlYMWJoNE1WVkJ0SzVwcFpERFVsdzJFQ1dFajRfTUVfSnNNS1lmcWFpXzRzaWxZYmY4UUlqYUdLSDAtaTVIdi14WFNtUTVudmM3dlczUHlTakdGb2hWTEhteGpFUnlac1oySEdpVDdQSXlJLTFDOERkZUhOT1paMHRZNjF3?oc=5",
+      "published": "2026-10-11T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Brandi Carlile says having kids helped her feel settled in her queer identity: \"I got so steady\"",
+      "summary": "Brandi Carlile says having kids helped her feel settled in her queer identity: \"I got so steady\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEZjU0x3Mk1nQzJEVmExNXM3TkRFdjZUVVRzS095b1BSOXozYlpBOHJPSDFQTjdybkxpZXhqc0szU1c0dk1hbnlKYVBGb3UwWld3UU15VlhsZHNRMzhoalByVUhjY0phb3pDNDhxTENadkNObEl2N0VkeHZBaHNQSURtLUV4S0tJRmtkWUZYOGVUR0pMU3NmMEE2NmxFWlRUbjN0dlRyMWtmUHN6TEVNQW5JbkRGbnJBSEZmQ2VadE9wX1RPR2RQVkZ3?oc=5",
+      "published": "2026-10-11T15:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Transcript: Shyam Sankar, chief technology officer of Palantir, on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+      "summary": "Transcript: Shyam Sankar, chief technology officer of Palantir, on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026 CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXJZc1VzVXphbXp5LUsta2tOYWN0RjI2ZUtBdm11Y2Vlc1dYck9PTjA4djRaNXJxcnp1UF8xSkJoWlFXM1NDeUYxR3FrYzlhLXl2SnNQMzQ5WExPcEhOdVY2SFh4WDRyTjZNSkcyTFJUZlpING5aY0ZfT2UtNzVESG9lLVkwYkZJdDFaWkdjdEtmZUtEeUNoRHVGblJpLWJ6MkswdkNlZmViaGpGc0ZZQWRZV0w?oc=5",
+      "published": "2026-10-11T14:31:11+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Daytime Russian strikes on Kyiv shatter residents’ illusion of safety",
+      "summary": "Daytime Russian strikes on Kyiv shatter residents’ illusion of safety NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFZ3QnZlUjRCcE1HQjZ2Ri1VUWNrZ1cwZDVkcEtBZ2xLc0MxcDFBQ3ExdEIxSE41a2xMMmJrbVRSUGd2LXZwVDZXcktMQ2Rwc2Q1WjhrdnMtaDBsUlB4bi1TYXVvSTI1NTRFN1pteDY2T24wcVR6Q3dLTC1YYklVaXpscU5tZVU2NnpzVEZtZk0tQlQ0ZGVtUDNqWXhDem1kRUFxaTNYZFQ0VjFNOFQ1bg?oc=5",
+      "published": "2026-10-11T13:47:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | The Sex Scandal That Wasn’t",
+      "summary": "Opinion | The Sex Scandal That Wasn’t The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVQ5ZVNtMFNmZjJSaTJROUZlLTZTYTU5X0wzd1pCVzY4RENQWEpJbmxBenhDQUVyOUxsMHF1MklTbExKS1d3eXZ1eXl3d3p4dEVSYjhFbDJPRWloR214Q0Y2OFZFYjlrbE1EOHNQcFp5U1dlak4yb2Q2YXE4N3VNNkxnYw?oc=5",
+      "published": "2026-10-11T11:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | The Racist Tinge to These A.I. Literary Scandals",
+      "summary": "Opinion | The Racist Tinge to These A.I. Literary Scandals The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWFpMVJ3QmdxcVlvWVhlaXNqeWVDYlZhSnRfcWxkWkxZY3JBQjJZUF9aVUtEeWVhNHlQZUxrMDc1TFQzZk5zeDRFSy04SG1YbWwxc3ZaV3ZKRGt2UHlQb09PbktZTjQ0aXRfNFdxY3VCcndVMktmd1YyZG5ra3BMZ2phQi1IV3EyTUJreWl3?oc=5",
+      "published": "2026-10-11T11:00:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Boomers Didn’t Always Have It So Easy",
+      "summary": "Opinion | Boomers Didn’t Always Have It So Easy The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk80aGZ5ckNNbmdzMlFuSkNFbGtkLWU5TFl4cjJncW5xVGVXWnhXWWNaREVuQ1ZDbFNWVWN3N2ZEdE5laXIwdU5EMk1QMmVNcS1vcjZDajVPT2VOYlFCREZjUWlOUUg2bXZ4VGVGMDFMSjhjd0R1S1Y3YVdROEd4bFktUQ?oc=5",
+      "published": "2026-10-10T11:00:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: All California college students now eligible for CalFresh, Newsom says",
+      "summary": "UPDATE: All California college students now eligible for CalFresh, Newsom says EdSource",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVZhRnppMUR5VTA4ZWxFRkRwN2ZXUHFTNkF3clBCWndOdlppV0VuZS1OUUJLMTdTVEtsWEtBNDc0V2tDYjBQUGhtSU5iU2c1cEVHM3JNaHJxcDRVS2N4Tjd0RDFoOFk2V3ptZkpVRjg3a2pYMC1DUE9SdkdPQ29jSlBZRVZMNzJQU2h4OVNJNHh0Z0VLNnh5VnZOZ0lwUnlYYTlYVA?oc=5",
+      "published": "2026-10-10T01:44:56+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Loss of teacher prep grants affects teacher pipeline, survey finds",
+      "summary": "Loss of teacher prep grants affects teacher pipeline, survey finds K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWYzMTNjbDN5WEtIcnItQXMyQlk1N1pZcEVTQzZFc0ZKWnlkODJTRmFtZFd1VXNOam9yREFYcWFzTGZDZWxUOG92SEJ5T01JcnUyaXBZckZyazJDSmZ6QUdhYlpCZEYtcmdhNC1FMGpLS0dCU0tGVnQ2eWFmaUxDUGJpYnVKS0NLVUk0eEJyY3VfNnVWSldLQmFUQ2VrZnVUeXI1ag?oc=5",
+      "published": "2026-10-10T00:54:01+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Straight men offer advice on being friends with gay guys",
+      "summary": "Straight men offer advice on being friends with gay guys Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0RRXzY5UnhCQlozZWFLOU9lWnF1S0lGQ3JjZU1nZE5vbHgzWXc4TEpNV3F6MHhyRUQ0RlVJZWZlZkN5TUZ6RXRHRThjWHZGVHNYWGJiYW0xazVTc3V2Ynl1NGtjY2RtYWVnWUt2NEN4OE41d1k2WTh6OFJqZ1VwclhLbnZsaUVnUXZ4T3JROUhKZC1m?oc=5",
+      "published": "2026-10-10T00:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "East Bay teens say opportunity, purpose behind decision to join Marines",
+      "summary": "East Bay teens say opportunity, purpose behind decision to join Marines CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU9UQjJXM0xjWmF4Q0cyTUJqaWM2YUxCeXJxZTloYXJnQTRkVW9CeUxic0ZlYmd1YnpacC1XR040dEJmZ1AzNzJra3JzUHZVeVh4YlRRMU9KRTBxUnNCUzVhQ0lGVVgzeGw3OC1UR2g5VFUtTzhGTGphMC0teVg0bWtWRU1NdlVOMTNjdDJHcXRMTU5ncE9mRk90Z0RHRUQyNHZxRTBabFA0WmtRdjFLVUtORQ?oc=5",
+      "published": "2026-10-09T21:43:32+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Tennessee court overturns killer’s conviction because jury wasn’t told that the victim was transgender",
+      "summary": "Tennessee court overturns killer’s conviction because jury wasn’t told that the victim was transgender Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlZXSmVVVk9tV2p0WkQyZ3VJeHp2UVVGTTJ3Y2ZsTFpPQTk0ZG1pQ2xMTkdyeXRFTmNaNjI2RmttZDIxQVJhaW9pRXdDaFpqWjNSOUhuRnZrVlJBTUhaNjg3R19OLVFEcW0wazlCTzB5Um1qSE5GSktjb1l3MU9PTDdn?oc=5",
+      "published": "2026-10-09T21:31:25+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "October 2026: Supporting Young Learners Today",
+      "summary": "October 2026: Supporting Young Learners Today Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHpCVkJ1TlVoUElweVJFMUtMcWtKbDlLbGk3VG51MlVPV2ZuUFp0LV9BYi1SdFc0UUhGbGpKTGVJaWxFOUp0N2djTWlkR3Mwc21jblBEQkNicmItSmdpQmdzT1M0WVFJMG1tQW5mZUxQUkxWQm1RbmJ5SUVUWnhMajJR?oc=5",
+      "published": "2026-10-09T21:13:16+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Ohio Democrats lose two transgender Pride Caucus members who say the party won’t let them speak",
+      "summary": "Ohio Democrats lose two transgender Pride Caucus members who say the party won’t let them speak Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzRzRFWHRmZlQwUGU2ejhDZVhVMGVMMmxjWGw3djNwY1hiSkZKb2RNRkdpV3pqeXlWZ2xvcnlaWTRUbWllWG5QUVQ1ZDl1VXdWNXBzeUVaT1BiV2I4SXJIS29Qc0tfTm5HNHZQS1lmRjlRbXYyVFhRWndDTDA?oc=5",
+      "published": "2026-10-09T21:10:10+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    }
+  ]
 }
