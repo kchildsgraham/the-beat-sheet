@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T21:52:25.038101+00:00",
+  "updated_at": "2026-10-15T00:19:26.118543+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,50 @@
   "errors": [],
   "stories": [
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Inflation jumps to 3.7% as gas and diesel prices squeeze consumers ahead of the midterms",
-      "summary": "Inflation jumps to 3.7% as gas and diesel prices squeeze consumers ahead of the midterms NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSm5KMGt6cDh1MzYtYXZjTnYxMVcyUXl0VnlZNUtvSVNpZWR6NXRYZ1Eyc0E0X0t6dXVPUXVBX1Fzb1I4aE4zVUxNVGtpdlVZUXk0ZF9yWDl1OG5FWkFSSFItS3lLdlRDVHJodkFzakY1RGtZaGctR2c0aUVVWmRBdURha0hERGpCbkx0UWxDd0MyS1FtQVdQMlg4YnRtdXdQM1VGXzcxWWdoZ01zY3plRldhQU5Qa1k5bkRNWkN3?oc=5",
-      "published": "2026-10-14T20:22:16+00:00",
+      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+      "summary": "Jim Cramer explains why even strong bank earnings couldn't save their stocks CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVC1ZS3NWT1VGX0IwOVJVX1JLVHc2TjBlakVJU0dxbTQ5WW9jUWxseVNIVXlmd05oRWFWZGRVVzA5dnc1cFRNd2RqbFcxc1NKV3RvZHMtNzd1NGh6UnZvc0Y3c3VwdlBmb3o4TFNDdS0wbGdfSzYtQzNud3lpb2dvSjBn0gGHAUFVX3lxTE9LeVNkZFY4dXo5NjJWNUFfWTg4Y0Y1SDhiS0ZxeVN1aGVnN3V5TXZMSV81aUtHaVBPSmRwNTA1dy1FQTdTVEg5dFA1RzR3Yy1YV2NWaWZUSkV0RWpJdWdqRlVUSEZRbFJ6SmlTOHdyaERoT1ZRb0tCajgyVVVQMUhrbTM1TGJTVQ?oc=5",
+      "published": "2026-10-14T22:48:06+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "New White House Press Secretary Katie Zacharia claims to have passed bar in China",
+      "summary": "New White House Press Secretary Katie Zacharia claims to have passed bar in China Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVNPYlc0ZFZWTHY1aHJfam5BVXctUVA1TW9LQXBDY1Y3VjM1LUpZdVBTZEg4OEc4ei1WeG13NnNqLXByckZTbHo3MENUTHluYWo2Znl6RGVWV2Z2b3FWZFF0ODNreTd0Z2ExYVB6TDZiSEtwRjJFTlVRd3BOcDBIZmt1SU5Bdw?oc=5",
+      "published": "2026-10-14T21:39:03+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "summary": "OpenAI sued by 8 states over ChatGPT safety concerns CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5",
+      "published": "2026-10-14T21:09:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Medicare Advantage plans are shutting down, leaving millions without coverage",
+      "summary": "Medicare Advantage plans are shutting down, leaving millions without coverage NPR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjB3dDFlSHZabXlxd1lGUjJpYkdEQ1l0LWpXT0s4Zk8tNWhjZ2RzVW1rVkE4NktVSHlrWFZLdTd1c0RIbUV6QlBiQVBLOUN4NWdyMWxJVC1iWlJHRGZRQVlZd2FNcDN3aVZhSXNDTUlFdUlobkFJRFBrOXVsX1EzTWtkbWtxNkN1OW55YXhTa3FMa0JJZlRoYnpISkdLRnc4a0NpV2JKdG1vWUhwLVh3Q054dS1va3J6OFhhMENR?oc=5",
+      "published": "2026-10-14T20:27:53+00:00",
       "beats": [
         "Politics"
       ]
@@ -41,6 +78,18 @@
       "published": "2026-10-14T20:14:15+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "AI stocks drop after hot inflation report bolsters bets for Fed rate hikes",
+      "summary": "AI stocks drop after hot inflation report bolsters bets for Fed rate hikes CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05Smp5ZFZadGJvLXk5cHo5c1hBRnIwcmR1UldxOVlNRWZ0b19rLTEwT3hLRE1ZdHdWaHRoSFRMeUlsSVN3b2RvNVNRMllzTU5xZVBCd1JJcUNwWDRYTEpJeGowcHhmdmJuenduVUljM3BrUQ?oc=5",
+      "published": "2026-10-14T20:12:17+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
@@ -80,66 +129,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5",
-      "published": "2026-10-14T18:47:38+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-      "summary": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PTkxJVTNYeVZQeC1kR3JQN0NfQ2xGLXZrTFpZQUcxSGJRMFRwRE1uSW4yQmZjVFV6eFp5akt1UmdzU01OYTBFTkFoT2l4aC1xSTBxcHplU1pDS0hnWkk0MVhYMFNueW1Fd1Q5dnEzX2NTTnhhSE9mZ2F6clXSAYIBQVVfeXFMTkMxcDY3VUNucE9BemM4T0kzd3g4TjNzZVBKZWRDa0JYbjJRckRTeU9PcGUwNnJCVDFLN1N0MmZVRk9DY3NMcGVmdU5CT2hGWm9DZVNZRFMxUTRpWlcxdzRGZFFrWlN2aTUzTzFGdFBlUVFHalVEUDdUYWVacERmS05lUQ?oc=5",
-      "published": "2026-10-14T18:20:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Five Who Lived Along Walking Trail Are Dead and the Police Hunt a Killer",
-      "summary": "Five Who Lived Along Walking Trail Are Dead and the Police Hunt a Killer The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtWGZ6bVV1Qmlrc0hDaUhBbGdXMklBdFAwWHUyTkpEdFJ4ekFkcEp6RzV3VEJBNkFXTjBuWURHbWE5WmRwV0ZzNkRpeUJHZVRWZnVqQTNLa0xRdV9XOWx6WjYxSW40a1Jtd3pteENFVm9NSkpnRnBDSHJQbEJIUQ?oc=5",
-      "published": "2026-10-14T18:03:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Pope shares first message after lung cancer diagnosis",
-      "summary": "Pope shares first message after lung cancer diagnosis CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ba0pMOHJwSEVpVDEyYkVjWFRIcnMzUTFGajh5czVlbjZiR2Ixc3IxbmJybU9oeU5uTHI2NzJrNkZLYkJiNjRqZTVvVHJWQ1Nqb0pXRlV5eFZTeEhRT3pvM2k3bVdjZDJEb2ZDUF9XNXFBb29sSW1mRWtlRGlCNXM?oc=5",
-      "published": "2026-10-14T17:04:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid",
-      "summary": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanJjcmlyTXZ3ZkdnV1pabWJGVUwySXNfcmN1N0ZlbGVid3JfeGZjMFNRZklKNVh5NXJyblU2QUpxcV9PV2VyaWUtODFGMER5MkJEc091SjU4ZW5HbVlSaHR1Rk1femlPdUtsRnQ3bU1IdDZIRGtIRk1QWUxqMXpoakt0a2x3MGxnY2lkY0h2VEh5X0pv?oc=5",
-      "published": "2026-10-14T16:59:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -165,18 +154,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
-      "summary": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWlpMklkWmVoazZHOGtUN3ZBbFNIZUZER3ZLYnhCNUVEWWpHYlJFRDFUZFZ6THJhSXhrSTVaTFBVc05HSUxWcV9sakNnSUs4NnNiQnlRT3Jrc2pDNlRHZTA2MVEyZm9nR3pMRUUxYnRUd01CN2ZQV1lHN1RlbHFjYXRMbDJOSHVBemZ1c0FXckxZOTg2?oc=5",
-      "published": "2026-10-14T13:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -186,6 +163,18 @@
       "published": "2026-10-14T09:30:42+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Singapore pollution spikes and East Timor shuts schools as Indonesia wildfire haze intensifies",
+      "summary": "Singapore pollution spikes and East Timor shuts schools as Indonesia wildfire haze intensifies NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDhvT2R3c2xOMlgyYkJJU2tHMGMzRGlBUmpEZVNFS1RKeWRGVE5JeDljOHdBVG5admkzQU9UZzUyQ25mWXRUYUdaTmZmMkhhNHlkQS0wUzdBN3p6ZFk4UGRqSjF2QmhTZkYzZU8yYkx2cHJaYXZLSnNaZ2hXVFpQcDFYUlpCQm5PUzF5UEJDZzUzQ08xd282eV9fdjlDcVR0YUs0UVo4SmZYc0t0M0hpdi1vR3lwZG8?oc=5",
+      "published": "2026-10-14T09:13:37+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -210,6 +199,30 @@
       "published": "2026-10-14T07:14:05+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "New York City Comptroller Backs Off Promise to Invest in Israeli Bonds",
+      "summary": "New York City Comptroller Backs Off Promise to Invest in Israeli Bonds The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXJxSzRvMW55RGM0dFdlVEdEeTF5REx5bHpqTTBSaUZNTzRfV0VxQnh3OVVKQmtScmlWMGZPM2ZGaTZVTzJLSk41Q2RhWWJtWVhmUFE2RFp5dVRzTk5FLW5LdG5pRV9IRFBRYy1LTHZrUGpvZkF6T3p1N2NpMHJER1RNMk52QQ?oc=5",
+      "published": "2026-10-14T07:00:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.",
+      "summary": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkNCNzlsVUJNVGRZUUVGT3BrZDNxa0xpMlZQV19uZW5mTVp3c0NuZGhKdnU0MEhWbFNKQ25qM0pmV0poRE0zeTRUWTB2YVZLTE92MmloVXpyaFZySGEtdGNuRkZIZjhWR0lKTVVlNUVobjh1ZHFFV0tVbmJuMEMzYU03NTJ6dw?oc=5",
+      "published": "2026-10-14T04:11:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -261,15 +274,15 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Trump objectifies anti-trans WNBA player Sophie Cunningham while insulting her athletic ability",
-      "summary": "Trump objectifies anti-trans WNBA player Sophie Cunningham while insulting her athletic ability Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGNmbzl1dVZMV3l3VkpXNVNrZnpmUDZKN3Z0UmFVbW8xR1p4b2tRWmhWQmdTcVBwWnJQczI2R180b1VpcjVwcGpyVWgxMnpSNVBEemlpSXo5RTg4Unp6MnRyUUZzWUx5TWFuY3ZjUG1tTzY2Z0c4QVUwYnNUUEtMOHpxNDF2dw?oc=5",
-      "published": "2026-10-13T20:21:38+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The New Yorker Cartoonist P.C. Vey Has Died",
+      "summary": "The New Yorker Cartoonist P.C. Vey Has Died The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlNYTG9SaG9jMThMNWp4MHFEaE5NS3NXNEtKc3pjT21JM1l2dHVIUnBxem5LYXdxdGxYMW1XRDVwM01VeDBMYWtxQlVURzZObkFvUURaNll6VXJ4YXdpOGZrYkp5czlkZHdkb0dPWDdMSm5lZnAxZWN1bU1fZTU2Z0JBZnl2MGhmXzBvag?oc=5",
+      "published": "2026-10-13T20:20:28+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -294,6 +307,18 @@
       "published": "2026-10-13T19:53:30+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Two news directors were fired for wanting to cover \"both sides\" of Pride. They just won $4 million.",
+      "summary": "Two news directors were fired for wanting to cover \"both sides\" of Pride. They just won $4 million. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLU1QandRY1hKcDdEcEVvSm43M0d1eGVCSGc5REhRZXJTQUx5bVdEWkJpZTVTOUh4VVdQeXppdUtLcXRBVzlwX3BCTF9PSXJEei1mNTJhbWRWMGJ6S1B1eVhOOUhGTmlIRFo1QXR3YXp3RER3ZUZRUlFiNlg4ZEhHLXYyNkdfc2MzbHV5MnFhT1U4a3FPbHJJS2t6WHlvYXJUQUpIcmJDM3A0aWxGTWp1M0J3eG92UEsxMUpRbzltYXFEdHlnbHV2dUxuYw?oc=5",
+      "published": "2026-10-13T19:32:44+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -354,31 +379,6 @@
       "published": "2026-10-13T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Parent sues Monroe Public Schools over alleged transgender student on visiting volleyball team",
-      "summary": "Parent sues Monroe Public Schools over alleged transgender student on visiting volleyball team CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEo5bzIxVllHQlpqMlJBWFVCRklIMUkzOUVLN3NPbHk3a25FOTktZ190R1U1bWxVNnpjTkxkRGRuem5Fdm15QTZ1a19XZEVMZEphMlhERkFRczZhMUhEYldpdWd3U0QtUG5YaXRXS2NyTkJpTUdyTlVwYmZ6NUl5X0NCTWxpRzNjaXFSRXdrQjhIYVlaa1N6c0VPZkYxWkdqbFE?oc=5",
-      "published": "2026-10-13T15:19:00+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "When A.I. Comes for Your Purpose in Life",
-      "summary": "When A.I. Comes for Your Purpose in Life The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmh0cTlXYTZxc3pkT2drTEF6YTdXRFN6RFRoZFROcmRpOVJfeXdRcXppbzBlcUtJWWpCMUphWWljcU5sck1tdldVbWNVYmlQMjZqcDRhMHNuTVF4QUZkbmU0TlRDT29FaWoxOVdsWjhJQkhQbU5ZRzJ5ckRXSmtnamJ2UFFEVmNZazJMcTV6WHhvdEk?oc=5",
-      "published": "2026-10-13T11:28:36+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
