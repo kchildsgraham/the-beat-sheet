@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:12:07.832806+00:00",
+  "updated_at": "2026-10-15T15:13:46.044844+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,26 +20,50 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+      "summary": "Southwest is overhauling its frequent flyer program. Here's what's changing CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pbDNsc3RZMjZQX2xEeGFOemVfM1lHRGVzRGF3VFYxYl9vVTZPbEwxX01qcE1fU0xPVE12dTlEU3ZPT2JwaXJWOW9HcFVkUDNET2xJVHZ4am1BNnNNNzdPSExCN0VBV013emlXY1JjRWRNS0FBUXJSQ2t4aXVwQdIBgwFBVV95cUxOdWN0Y0hwN2FMQkR4Wk54SUoyZkhCUGF3UlNhUlJwRGFaYld6WFJieW1NV21wd3p3dmpYQVZGdFI5VWdyanNUS1dYMXV6Y2VtckJOSW9HRGlMMEhBYnA1b0tTWEhUSzdab3ZQTWFPR2hqTlVZN3p3OFlGbFRHc1pfWWM3RQ?oc=5",
+      "published": "2026-10-15T14:25:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump says Nidal Hasan execution won't be live-streamed",
+      "summary": "Trump says Nidal Hasan execution won't be live-streamed CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXA2YjdMOUNEUnRuTXVvZW5RXzJ3NXRySTQ1M2VZNEMyZjJYMndPVENuU3NNX0c1eDN4cEZnU2RiV2JXUHFLaG5KNm8zYVVNNkhXUVNTRXZmeFNhYUVmNDNyTVY0Y09SM1AxQi1GZTZFNThKbjZUWmdac3p5anhmVtIBhgFBVV95cUxObUM5d2xHOUU1Z2poZ21VelpsT1dLc1d6cE1JWTlTWk4wc2Z5MElqdU8wcmRXM0gzYy14bVZ3eHl1UzNuc1ZFNV9WbHRSYW5nUkFJTDE3MTV1RVRfd2VDa0F2d0V4LXpOT1gtdjNUQjU1Q0JZMlIwaVBQbzM1aXF5dkRFRkpBZw?oc=5",
+      "published": "2026-10-15T14:16:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
       "title": "Democratic lawmakers accuse Education Department of ‘frontloading’ grants",
       "summary": "Democratic lawmakers accuse Education Department of ‘frontloading’ grants K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzhMWEtKUGxPYkJxdmN3dlEwSG5QbFdibGs1dnVUUlNYeHItX1NWc1F0TGhCcGFOMExyZmp3cUhuRWFTU1pOWmVoZi16c3AwOEhnSGdLdDh6TnpkYjRZckV0SGx6YmJFT2tZZTN6ZldnLUZoQWllTnItMmpfX2JNTGp6WVpYZnZ4TnFadkRLRWtONmRDQjNtNWs5T0pDbVJhWXBBbUhSN0Y1WHBi?oc=5",
-      "published": "2026-10-15T09:21:17+00:00",
+      "published": "2026-10-15T13:18:39+00:00",
       "beats": [
         "Politics",
         "Schools"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
-      "summary": "These swing voters regret voting for Trump and it's influencing their midterm choices NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFdIWDNnc0R0eHNyc1FqOFlNbmt0Wl9UTlF6LTEyNjZSaG9sLU8zck5rRnY4MjZRcXdYeGdEVHp6cHNqSnd1U0JMSV93V2h0c1N4QjVmZ2JYQmx6ZVh2QzRmZno0NkFqNHpSWUR6enNVeWdSVmo0M0puV1c1VVlyU1VFdi0?oc=5",
-      "published": "2026-10-15T09:00:00+00:00",
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "summary": "Amazon launches new Bee 'personal AI' devices that listen to conversations CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGY4UENqVGdWazRXQUN1WG9iZGlhOW04RmlXZnQxWGU4c0xYTE4wTXRKWmV2c3dQSjVTS1ZWYzR5a2d4bUtCc2haODJBQkdWdVVWRkg5RUQzUk1YV0RiTWNiN0hpNHduelQyQkNGNXE3eVFHWFRLSElVdy1oZmhPeNIBhgFBVV95cUxOZjJ0Rm9KdWRnSnBJRHJpWDBQdnRKZUFUYkRXRHVHYUxrSkl4NTY2LXRRTGdSc3BuTEFHWUs5clNkVjl0T1Y5ODJlTU9NdUhLcTV0eUtQX1kwclZYd2NFcS15bUd4R3RFYndyazBhTmxxSlhYY0V2N05lVXZhMkhRcjZ2WHFzQQ?oc=5",
+      "published": "2026-10-15T12:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -48,22 +72,46 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-      "summary": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM0xDTTFyaFBzMVRPTERiZ3hyZmdKMFBNYktWTXROdzhXOF9UMHRCZ25TdFpLR0FSTmU2OXdiYkxqanVpQlVEV05ONzB4eUIyMTNoeFAxT3RKYzJ1d0lZVW0xVm9fYnZfMnE3TDI1c0pya09KTWVtSVZQMWhMSEk?oc=5",
-      "published": "2026-10-15T08:22:07+00:00",
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "summary": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZC1iNFJqZzFSTHRVeExoMTNOdzZRWWRoa0NmeWZjYU9PRmdMeno5V2VtMHZxRUhLbXJZdnljRXVia0hsMERma2FGWDUyTmRLczZFMWxYcS1WSkJFREZNemlwZzJ1MDgwMmZYMEp4TEFXWktVQmZ6a3BMU1lTOThDeS15MmotZTdtSG12a0d5NW0wZWtmWDhyT2JtTHFybnNrOFQtN0FQekE4bUNVUjIyOVozcFc0U3RKb2Z3MHpvUQ?oc=5",
+      "published": "2026-10-15T11:31:25+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "CNBC Daily Open: Who controls the Strait of Hormuz?",
-      "summary": "CNBC Daily Open: Who controls the Strait of Hormuz? CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IMndKTkVpNVBwSnRsM3p0ZmJReG5IRWxvUXU5RzVzVDYxOU9vYWx4d1NKSUUwTkctZUZ5YVRPOUVNN0poYUY3d1hlSlNfUFpJYm81MFNpZU5LMWJqQmNvNUpQZVB2VzR4QlRRQXdLcGtNSldVeHBKSlZETkdFd9IBgwFBVV95cUxQZDl0S19hbzFIY3pyQmRJbU15Wi1BdFA4RVdEejFhcEREOWUtdVVhV1BJMGNzTlVoMUdYZHBMUDZqMmp4ZlNEUk5FNXQzQUt2TlEtLVZoeGxpb3YwbW14NGZRY1VpNldwWG5qSjRNejhPdGs2VU8xSFJKX0E0R3ZWbmhnZw?oc=5",
-      "published": "2026-10-15T08:05:12+00:00",
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "summary": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsRDgyckppOURNTkxTeml5Z2JpTXBUQ0VXRXJlaGowYmJDN0wyMUtzXzF1Q3F2ZkNwYmJ4ejllTEdaT3hTT1VON3FURDBzdGl0T1NCRExVMTRNODIyZ0hkenVLSXBrZjlncjhzanhB?oc=5",
+      "published": "2026-10-15T10:05:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+      "summary": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training NPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUNyMU5uRWJMbm12UGRYLTR0aWVEQkcwdW8xd1JpUGtYdlZMUFBfUXlxaWJEaUticVhQTFlCTFVuTHM2b0g5S0ZtNzFEMmk2dTg2LU5GckpDelhhS3hRLVVrbEs5RGsyREtwNEJKQUZfeE4xZEFpTzAzTXZDYXJObFh6S3hkLTZ0TGhNWkFIUlBmMVJR?oc=5",
+      "published": "2026-10-15T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Jon Ossoff for president? How Georgia’s 2026 race for governor could affect the answer",
+      "summary": "Jon Ossoff for president? How Georgia’s 2026 race for governor could affect the answer NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0FhTVdwZk9ZczQtYlk5V3RPZnZLR1FDRnp2RGdBdndaaTJoVEhvTnh5ZFM0TU9QWGhnd2ZpWTR5QmVXVkZudWd5UWJjYlp4eDJsdmxMMUgyOTVyVzdqU2lhcnE0djF6ZEFpZFcxaFBZUlhXaUZ1LWZ0T0lIRnE1cFJFMGpLZ2IwZDRtYy1DeFQwb0FDRmJnYkIyS29VRzdfbzltdXRYU201dGVCUzF2ZnhpLUJmMFdyS0ZXeg?oc=5",
+      "published": "2026-10-15T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -72,34 +120,22 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "At Least 20 Children Dead After School Roof Collapses in Pakistan",
-      "summary": "At Least 20 Children Dead After School Roof Collapses in Pakistan The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaTdrNHhQalhsS2hLYmpiQzVpSUxzOFBSbTRIX1YyNk82dmpqaVp2SjFMSEpCNV9MTFRVNVpxX2VUWlRoQjE1eThSQVhBWWtXTUJ5Zm1tb3ZLRFM5RXRlWnM2bVlfcVJkTk5yY19LTmFhNmVvS21xRnZBaXg2cVg0bQ?oc=5",
-      "published": "2026-10-15T07:54:25+00:00",
+      "title": "Opinion | France Is No Longer in Control of Its Destiny",
+      "summary": "Opinion | France Is No Longer in Control of Its Destiny The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbDVBOTJzNWZCYmhkcFlSZWVYT3hVM3l1X2Z1c3lZM1JUMThoWXNTV3lQaFY2Yjk5LXNIVEZaRVd0dFBzWFlucDNVdzNTS2JzeWc2UGlLeC1nQ3Z6T0JhV3BVVHhmMFA2VDRRSHJVRzROQ3dfOHJJTUg3UjR1eGctZg?oc=5",
+      "published": "2026-10-15T05:00:05+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Pakistan school roof collapse kills at least 28 children and one teacher",
-      "summary": "Pakistan school roof collapse kills at least 28 children and one teacher CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkVlVmNnNGxBTW1kYldjUGVxM3ZJWDUtUHUwa2EzT3Vnckg3QmpnUlFOYWk3bjItSU1rd1d0ak5mYURqNXd1Rlk1Q09qWF9lWGFrZzZZX0x1TkJjVExpV2UtbXU3Tzg0b2o5WmI1aFppNGliVmFMRlhrTFVFRDAyR2ZSektQQUtJ?oc=5",
-      "published": "2026-10-15T07:40:04+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "summary": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ma2pzMWkya2t5N2Jvbk96dlBYZWtzMlpnSlpDdWFpbldxVEdFcjFkdWV6TGxpa09HU3dXSGNWVU5uZF9xdWJNZmlKTWNKQjNCeEFDQVE5aVI5V0VaWFIwS194VHp1N1pUZHVSNW8ySjJCT1R3OHNjQXJEemUtUdIBgwFBVV95cUxPeVg2MXNaS1g3NzQxQXV5WjFWazhxdXlTYm1IQWtVSUhLUDdDaG1xemFrdUZ6bF9LazJwSThpcGwwbEROWEVhZEkyZ0lGY1dabkJhRjVzSTd2XzB3Q05JQVFQSjdOWF9rUEtWa2s2MG1ueVdFMTdwVHpJVjJyenJDT3d2MA?oc=5",
-      "published": "2026-10-15T05:37:31+00:00",
+      "title": "Angry Youth in Aging Europe",
+      "summary": "Angry Youth in Aging Europe The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakpNcE5mYl9MZVNaUzM2dUVtMFlrZGZfa1FQN3NoQzFjam5NX19uQllORzJoYzI3UHd4ajRaeWdiTVR0dzNha2ZEMFhHV3lFbzVvVEg0S0VLNEduYnA5ZG9CR2hRdjRucjJGcVM0T1VJTDZrODUxYkJjWjJHaFIwb1RPWHZIZEg2QmpiZmdDZlV1dTFLMnc?oc=5",
+      "published": "2026-10-15T04:43:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -112,54 +148,6 @@
       "summary": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say CNN",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSktNLUM1VEdiandOcDJVNzE4b2NuajZkcXAtem40MlJ4TWc3VEptSjJqQ1g0QjF5VTVXemNQUDBSdy1wYWM4eG44b05FT3ZLVi1sTUhGM3U1MEk0X3JvTzBFUlVNczJZZlZfUlcxN1NwVnQzc0ZuTEVxSkhLOE5wenBMZ2xqZw?oc=5",
       "published": "2026-10-15T04:01:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "North Korea says it tested cruise missiles designed to be fired from submarines",
-      "summary": "North Korea says it tested cruise missiles designed to be fired from submarines NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXFWbEhTRTRIbFh2NXF6enBiLW0waHFUODZTNlBIaGtBVmhSNVc1ejFhT1VCNmNUTklRYjBOSzVQMXgwU0JBbURmRmFvZ0pvT2hSaHZfR01lUWZORFY3YmU3eGhlWFRmNWVzY2VZRVctZTVPQ1hGSGwzS1AxUVZxdmhBNnZ3NV9TbFFWMmlHZTFDX21aNWhpYjBud1hHUU1zMVJFckxLQ0tUWDNnTjVlRw?oc=5",
-      "published": "2026-10-15T03:49:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-      "summary": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0pwUi1KVnA2SDhrZ2tkTlhnMkpEWU9HTTRacWpHUDl1aVhzWlNHLUpIWUx4MjQ2dFNfd2VJZTdDbUVtV3hCVjRDVDhncnZZWDBEZVdjZEQtcVNaTFRvbWdENmVQZkdRYXkybW9ucllJVy0wLUtERjN3c1A2M2pDaktKc0tJSEIzMTFDM0pQYWR5a1ZCeTNoYzFRSdIBoAFBVV95cUxOa09ZVHMzLVc3Rk9sRFhSRGQ0NkFSYmZuLUpLQjMyY0hYRTI5bU9rNGk5VEI1a2t3MFNHNThMTlZyVFhTMFgzMDlqdVI3WkNCUDRFdFphTXBFbHl5ZDV6d3hrcURESmNJQWFiYVJzaTItVWJiV1NSbTN5Y2ZoaEZfWTd3RWlXMWlYX0dQMHQzYlI4Ym5mRzkzdy1KSU9yQXNk?oc=5",
-      "published": "2026-10-15T03:48:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Brewers’ blasts push Dodgers to the brink. Is three-peat dream over for champs?",
-      "summary": "Brewers’ blasts push Dodgers to the brink. Is three-peat dream over for champs? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSERxbHI4bDBHZlI2bjZIRUJ6X2xnVGd6YS1WaDRYTnZzS2tyb28zMFdneW5CVV9OaWJPUEZWSVVvN0s4bzhrb045ZnNxeVVfdFNZSEtOYTc2UUxZYklYWjNFZ1NvYWpOU0hZYm80dE1EaXVRZjdDSGFlcmpMZHNjV0tiNTlUeGxiODFxRkFEMk5CelNsV3NPNEkzb1VXVmUzRWNKclZkZjJzc2VUVFNxZUdwSQ?oc=5",
-      "published": "2026-10-15T03:24:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Talarico tackles abortion, faith and ‘conspiracy theories’: Takeaways from the CNN & Jubilee town hall",
-      "summary": "Talarico tackles abortion, faith and ‘conspiracy theories’: Takeaways from the CNN & Jubilee town hall CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWFLTzBKNEhBNDdsYjYzVXFtRFlkZzlMSnVoVUFyTXMwamhsX3ZjNHh4a1k1aWk3Z2Nia3pIUXJTb2ZOUGJ4cXlNMmZxLUo0THhOWDdWaGVueWVzS1dvWTRMeGJheHdSTmMtTFpQZG9UQVhJT2hTSU1ndWprd0hHTFZDVDFFQjNxVW8yUmg4UQ?oc=5",
-      "published": "2026-10-15T01:54:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -190,28 +178,53 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Medicare Advantage plans are shutting down, leaving millions without coverage",
-      "summary": "Medicare Advantage plans are shutting down, leaving millions without coverage NPR",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjB3dDFlSHZabXlxd1lGUjJpYkdEQ1l0LWpXT0s4Zk8tNWhjZ2RzVW1rVkE4NktVSHlrWFZLdTd1c0RIbUV6QlBiQVBLOUN4NWdyMWxJVC1iWlJHRGZRQVlZd2FNcDN3aVZhSXNDTUlFdUlobkFJRFBrOXVsX1EzTWtkbWtxNkN1OW55YXhTa3FMa0JJZlRoYnpISkdLRnc4a0NpV2JKdG1vWUhwLVh3Q054dS1va3J6OFhhMENR?oc=5",
-      "published": "2026-10-14T20:27:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Texas school district suddenly cancels production of Little Shop of Horrors over female Seymour",
-      "summary": "Texas school district suddenly cancels production of Little Shop of Horrors over female Seymour Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41TzBxS0Jua0RNZGJuWVRsM3dlMnJ2dTF4UEV3dWdiNzZTRFlHNnBLOEh0SjB0d2tGcTU0QnRUSFlCYndtRUVuR1RQUGVXcTlDQ243Y1h6eS10ZmlaQmF4X3NtbDhPUF9lQ2V5SzlPTlZwTXNhT1Yza1R5aElRQQ?oc=5",
-      "published": "2026-10-14T18:53:03+00:00",
+      "title": "New White House Press Secretary Katie Zacharia claims to have passed bar in China",
+      "summary": "New White House Press Secretary Katie Zacharia claims to have passed bar in China Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVNPYlc0ZFZWTHY1aHJfam5BVXctUVA1TW9LQXBDY1Y3VjM1LUpZdVBTZEg4OEc4ei1WeG13NnNqLXByckZTbHo3MENUTHluYWo2Znl6RGVWV2Z2b3FWZFF0ODNreTd0Z2ExYVB6TDZiSEtwRjJFTlVRd3BOcDBIZmt1SU5Bdw?oc=5",
+      "published": "2026-10-14T21:39:03+00:00",
       "beats": [
-        "Schools",
+        "Politics",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How New Federal Guidance on Disability Could Impact K-12 Special Education",
+      "summary": "How New Federal Guidance on Disability Could Impact K-12 Special Education Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONURiMGVpMU9LTXJ6SmhieXZsbmVmLXRlSUdxT01oY2FtRnhCMjlPSWs5NUlUdHRZa292NS14bmJQel9VRjhLN2JDUHZHM0NJVW1GY0tEd0E0d1NmcnBYeEQtaExqT1Q5V0tCeTR1ZlpsbnJhZDZ6Y2ZKbHZ0dVFyWWRtYmFoODFCb3pnUXB6N1ZmaDA1cnM3UDdoNkxWR09EOUVOQV9WSTlncldtc1k4eFZfUzlrSzNma21tX1M3ZUc?oc=5",
+      "published": "2026-10-14T20:07:10+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California kids are still struggling with math. Many districts haven’t made it a top priority",
+      "summary": "California kids are still struggling with math. Many districts haven’t made it a top priority EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5STUNlTlVSYmZmWWVUTWVhMC1GeXJjbmhPd2pYMXRBRE5nQ2tkSlZoelM1cW9pcUdBQ2lBbmtId0UyWUZfRGtXbXowSzVMMXhmVTd6VkVUeGwtQTIwQnJPcE13WlRDeE1pWVpTbGJtVDUwcVR1OVlIWWZn0gGCAUFVX3lxTFBPRzBqWUhtbUZsaHVqNnd0aHJraWptd01uSDFfX09pZmk5RjBPdTBsUFlnMEwydDBRLXpNYmd4QzRTVjRENS1yb1FGbmtmaEVnRjVOanhrbV9ONHFFV1dvTnh4TWxyX1BQWUU3NUhHNFM4TmJDYjZhTG1hOWFFWlR4UXc?oc=5",
+      "published": "2026-10-14T19:32:22+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Pope shares first message after lung cancer diagnosis",
+      "summary": "Pope shares first message after lung cancer diagnosis CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ba0pMOHJwSEVpVDEyYkVjWFRIcnMzUTFGajh5czVlbjZiR2Ixc3IxbmJybU9oeU5uTHI2NzJrNkZLYkJiNjRqZTVvVHJWQ1Nqb0pXRlV5eFZTeEhRT3pvM2k3bVdjZDJEb2ZDUF9XNXFBb29sSW1mRWtlRGlCNXM?oc=5",
+      "published": "2026-10-14T17:04:32+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -227,6 +240,18 @@
       ]
     },
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Katie Zacharia presented herself as a lawyer. She’s not",
+      "summary": "Katie Zacharia presented herself as a lawyer. She’s not CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWlPZUFfR3pqdmstY2Z3eFo2WEtHdWM3OUlQWjBhU2k0UUdtOWF2X3NUNlB5OXEzeEtQRVlEVnNpZmt6VzRTY3lKSG41RkRvVUdBb2xJeTY3OERKbmhKS256V0lHUElSR1pZazUzdno4dVhwVFFFM0ZKM2ZrSFN5V0YzSQ?oc=5",
+      "published": "2026-10-14T15:33:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -237,18 +262,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "When A.I. Comes for Your Purpose in Life",
-      "summary": "When A.I. Comes for Your Purpose in Life The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmh0cTlXYTZxc3pkT2drTEF6YTdXRFN6RFRoZFROcmRpOVJfeXdRcXppbzBlcUtJWWpCMUphWWljcU5sck1tdldVbWNVYmlQMjZqcDRhMHNuTVF4QUZkbmU0TlRDT29FaWoxOVdsWjhJQkhQbU5ZRzJ5ckRXSmtnamJ2UFFEVmNZazJMcTV6WHhvdEk?oc=5",
-      "published": "2026-10-14T09:39:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -285,6 +298,18 @@
       "published": "2026-10-14T07:14:05+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.",
+      "summary": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkNCNzlsVUJNVGRZUUVGT3BrZDNxa0xpMlZQV19uZW5mTVp3c0NuZGhKdnU0MEhWbFNKQ25qM0pmV0poRE0zeTRUWTB2YVZLTE92MmloVXpyaFZySGEtdGNuRkZIZjhWR0lKTVVlNUVobjh1ZHFFV0tVbmJuMEMzYU03NTJ6dw?oc=5",
+      "published": "2026-10-14T00:23:39+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -357,30 +382,6 @@
       "published": "2026-10-13T17:58:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Judge blocks Trump administration from cutting down trees at D.C. golf course for 2 weeks",
-      "summary": "Judge blocks Trump administration from cutting down trees at D.C. golf course for 2 weeks CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZTB5YXFnS29nUXgxSlR5R1BJb01sNXcxbW5kbFVWQW95RklXdlBfbnBSN2hKTGV1OTlTcXBmbWEzZnRPeVVGVmdLcWNUQ3dBbVVPZURPazliNzc2SG94bFFQbl9ybTJySm1ua01DV1dETFJMR3pvcUdpTnN2cVpLTzFn?oc=5",
-      "published": "2026-10-13T17:34:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: 9 California universities rank among top 100 in the world",
-      "summary": "UPDATE: 9 California universities rank among top 100 in the world EdSource",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0dHUktOeUxCblpYT3hSN3p3Ry1HdEJ0eTVBNTZMQkRRYmxQUVZ3Y1BRV0pSXzhxcjJnLWNoWWlNX3Rld003ZXk0VFJqWko3Vlpnb2VIbk5ZYW1YaUhyakhvX1g0TEh0WFIzZEJRZmNPbE03aWRMMlg4SFktcEVaVDN0VnRBMzNBNDJ0a2FUc25zeTQ?oc=5",
-      "published": "2026-10-13T17:01:04+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
