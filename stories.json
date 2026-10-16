@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T06:10:59.101155+00:00",
+  "updated_at": "2026-10-16T11:46:44.011732+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-      "summary": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUh5dGtoYWtXU1lKMXJoamwwY2Z1M2RtM2pJb0pCN1RqdjVUM1ltOGI4RERjN0ZUM09vanN5bFlmWHNlNG5lRVpJU0Q1VDRyX21Fd2EtMm9BT2NWREgwd2hGQUVTQWVZdThsMmF5bVV0VGFqZHFpU1liZ2JyMi12NNIBhgFBVV95cUxPY0N2NE5MVXJMcWxucG53WHg4T0tSckd3dXROeWtfUWt4em5HLUNWbk44OG5lMGdKcHdPUjJZc1NqOHVOWTlnT3ZoTTJrR2dBc0pJYm5JR1BDRERwV2tBS3hHY0k0YXp1NmJDR0VpXzF0Ny1xU0lUZGoySWdtSE9nVjNnMjRUUQ?oc=5",
-      "published": "2026-10-16T04:29:27+00:00",
+      "title": "A growing number of prominent Republicans are endorsing Democrats in 2026",
+      "summary": "A growing number of prominent Republicans are endorsing Democrats in 2026 CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GNGNCclc2ZkNhNDRPMVF1cVFDcDEwQ1B2ZkVSblZsR3V6c3RPV3pRWmdqSjhLaWFBTHpva1dMaUZrd2Q5Y05fOGx0cXFXTV9UbWlmMkJpOEJoRWl1WWVzejBFcnpvbTlscVI2NmZMRG5NbXBqTnpTUXg5SQ?oc=5",
+      "published": "2026-10-16T10:00:45+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
-      "summary": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
-      "published": "2026-10-16T04:08:27+00:00",
+      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
+      "summary": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
+      "published": "2026-10-16T09:22:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,22 +47,94 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Police reveal details of deadly Oregon elementary school shooting",
-      "summary": "Police reveal details of deadly Oregon elementary school shooting CNN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUkl0c1BoZlY1aWRMR29TWmxhc2pNbnZnWHRmM240OF9vU3diR1lmS1dMdGRoVzEzRUZXVzFaTFVyaDFCckZqMHFEbkY2eWcxeWNKNldUM0tPenFqUHgzUFU4MGZuVkFGQTZuM1RqS0xEM09heVVBWHB2OGtUMDNJQkt5cWNGcFpVT29CbXZpVGFveW5WdDFqam41UFlfdDRYTHVQdEtaUUtjd2dUMFdVSHlJQWdwaHZm?oc=5",
-      "published": "2026-10-16T04:04:00+00:00",
+      "title": "GOP states have made it harder to vote. The changes could swing tight races",
+      "summary": "GOP states have made it harder to vote. The changes could swing tight races CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVVXMXVJcy04UWMzMTJ6b1ppSi1ybk5lRzNaWHBaZXVLdlJfVTZtb0ZmckpTaHRqOURtc0U4dXFGLV9kSl9Vc3JoRXluMUFQOWl1RmJzSE1UMFdvQTNTTlhxbm9WYTZnRFpsMmJ5cE5hUmNaQUs1Q0VBLU5ESEdiLWl4SQ?oc=5",
+      "published": "2026-10-16T09:00:44+00:00",
       "beats": [
-        "Schools"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Why some Gen Z voters who backed Trump now regret their decision",
+      "summary": "Why some Gen Z voters who backed Trump now regret their decision NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yaHRFek4tTlppaU9mb3pDaEt3cGluNWx1Vnp2VktPbUt4TjRPLVFkRTBnNnk4cDVIaG5RN1JwVnJGb3V4dkNhWGpaMTU3czRmYkVUNDNaMGlNdW8wd01mdGYySHdyZ2dPSF9LeXNzR2p6ajRMNEUzcmxVcw?oc=5",
+      "published": "2026-10-16T09:00:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Controversy over Musk military system in Ukraine pitches relations with US into deeper crisis",
-      "summary": "Controversy over Musk military system in Ukraine pitches relations with US into deeper crisis CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pYWstOEdnclhmUFV6TWZaQ0kwOUNOaVozenZpaWx2U2cwUEpRSzBDOHF1b19vd29YcTF4Z2lXQ1JuT3BqbW9rUE1ocVBvNVZDTW1rdWdpSW9OTGpQQl9qQ1J4b1FIZHQwMXhQQTltMFhLLV9qRHh3NA?oc=5",
-      "published": "2026-10-16T04:01:32+00:00",
+      "title": "Musk contributed more than $150 million to bolster GOP in Texas Senate race, filings show",
+      "summary": "Musk contributed more than $150 million to bolster GOP in Texas Senate race, filings show CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWJDZ3RoNHplblVfUlFyMEtZVEMySUoyZFE5QlR3eUV0VnMwcU12LTJENFRrNW9DYnBtMG5XaWNFa2lQbVBuUjFqQUdEajQ2bWh6LTJUZVhlRG1RUUxCdEY5S18tYXV0UjQzSWRMbVFRYUo1VFc2ZG56UHhrUWVCa21Pclk?oc=5",
+      "published": "2026-10-16T08:49:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "CNBC Daily Open: Warsh holds cards close on Fed policy, but inflation numbers may tip his hand",
+      "summary": "CNBC Daily Open: Warsh holds cards close on Fed policy, but inflation numbers may tip his hand CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWYzVlFEVkVvRUtzZUh6TmdiaU5NbWdIbEJvUHpaNTlJcDdCdlN6TE04RzkzMzIzMTVEOWZFV1pwdHg1aHhYaVlDU2FPNGlNUXpxZTExWUxsazI1U0o4TTEwdEU1bWg0TkJRWlZYOUM1bVgxZmhCRU5nVHZ0UHFPVnMwTVU5OURBbUJlckZLdWRkM09NTHVSb2poYmdQa1BJRkNTeWNhRHAwNWNJMUpZWXZmXzhzWFBwSEdQM2EzSmVmZDBSWnM1ddIBzgFBVV95cUxPRml6Z0ZYemctczJHWjBsY2Y3cnQ3enRkeEc2NDg4MnVzdVhxM2FUNzFJVVZKdjFRYnFQbTJhd25NSmE5bWtvQjdwUFZNOWFJWGc0TnFOeVhnLWJ6ZXY3RDQtRUF3akVkTmVoRlZiTWNvdUNoZm04bTZoYjlWZldXd0hXT3pwT2tPUGZNMTRtV2JlSVhYbXRGeDRLRF9XV2tJb3pNN3lUb0Zpc1ZhN2VCOUtQTk1MY3AxWjM3bEltaTNpZndRUF9XbzlRNkRUZw?oc=5",
+      "published": "2026-10-16T08:31:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tesla unveils its next-generation Roadster 'flying car'",
+      "summary": "Tesla unveils its next-generation Roadster 'flying car' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGhwMkZ2SGtsTTFxTHVQejVFelA1XzZSVm9HWjNEWVdVY2Q3R1JFV0RwVGRkbklVeDRQN1dtaFBwLVFROVlqVV9pajkyRVN5Z3hrazJPeE1ya2tVZlZ5RnBzMGhwVTQxbDFENFVOZmY1QjNOT3BPc3R3VTMyc0xlMlB0Y3g3OUhSbmJaOEo2RU5hZjhoanhHOG1ncGI?oc=5",
+      "published": "2026-10-16T08:22:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
+      "summary": "Trump says he won't use nuclear weapons or send ground troops to Iran CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVUVZclRnWDk3N29XeWRoV1pvUmNrTVJWZ2NOWEdKSlpMZEJtTUU2eFhXT1paWlZ1VEJHTDNPbElvbzczMjF6NTd5X240T1dyRzY3WGRpNUlocC13amVJSWVxai1ucTZQOGF2X0F30gFzQVVfeXFMTXJ2ZWlobThNeHNpX0dXeVdkYU9aaE9CZHVGeUdvaS1EQk9NQXVCbmJTeURnaEVwQnh4WmVBNjFJMUp1MjF6bTBmaExFdVNEMHdSbC1RVkY0ZWpVSXlRdjBsUng5Uld6RDF0SkNJZVdsaFY2bw?oc=5",
+      "published": "2026-10-16T07:56:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+      "summary": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated NPR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVTlaZFRuc01IQVZBRlF5eGVfVWJDM0Zna1hCS3NadVZjWWFDNm1rVXFwQ3NlZkE2WnA4TnhtYzc2eU1yOUNKQTg4NXRDOGVfUkpHNGtnazdvakZxRDdPWFNTQU0zRkVvTmZzcU5pejA?oc=5",
+      "published": "2026-10-16T06:27:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
+      "summary": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982 NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iNWdFSlhWcW1JU0ltTmpVcnhsNFpQZUotMTc0ZlBSQzdPdWlEOEN0UmlTbkhyUWl5cFl2d2VxWDRQWG5Daks0aG5TYTRaTy1jc1VLU29KVWg4bUtLbTM0ZHVlczJnaGlxNUxpTDRxZndXNmhGM043MXp3?oc=5",
+      "published": "2026-10-16T06:12:04+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,36 +155,25 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Brewers sweep Dodgers to reach World Series for first time since 1982",
-      "summary": "Brewers sweep Dodgers to reach World Series for first time since 1982 NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ05LaW5lOFFSb19XMjJRMS1Cc0tBMThCaDN2eXB5RHEyV2ZvbWNNVWk2bjEyZ05EM2ZMRFJnRzZzZ1FzR08zVlRZVi1wNE02NWpJTDJMd25jSS1MdW5UeWZUeS1iR3Y5a1JuM0cwWElwSEItTWdNdTFoRHphLVAwU0RtSWdnVXp3U1A0a3RXekNNd2FtVU5HWGU2VzFIcW53dDFRcUl4M2s?oc=5",
-      "published": "2026-10-16T03:08:00+00:00",
+      "title": "Four years after discovery, remains found in a barrel in Lake Mead identified as those of 1980s murder victim",
+      "summary": "Four years after discovery, remains found in a barrel in Lake Mead identified as those of 1980s murder victim NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHNQU2hxY3h6WGRZXzhyUDhkMndiTHJOT3ZseDVTR3Vsa2ZCa3ZXSTF6UVQ5UlkzRWxEMHo4OWkyVWZqTzJxdWJtMjh6TG54eXliV2dHTjU2c0JvdTVqaUUxM1ZiS1M2WjBxdlFFVzZ3MjgyMXFlaGJ2T2RIOEh0YWl4cnhZQmtKQUEzRGdrNlY3UGc1enE2REQyejNoWE1COVctNWhpajI?oc=5",
+      "published": "2026-10-15T23:51:35+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Tesla unveils what it says is a flying car",
-      "summary": "Tesla unveils what it says is a flying car CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcDNkZ0NmTUtLYkNwbEUyRklCUE9rUnE4WHNfQk42d0ZHVUpoUGpQd1JMQWNUSElNQkVQbExQSmdWcVRnRXdjWEZMeHUxSVdOTVNCbHdHWGRBUGI3c2dxMnNrc3RqSExQZlBQb1g0bkYzMTZHb1RtNUpfSHRCZ1NDS0x5SnlVdFhWTmc?oc=5",
-      "published": "2026-10-16T02:34:00+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Colorado ballot measure could leave schools to verify students’ sex, raising fears of forced genital exams",
+      "summary": "Colorado ballot measure could leave schools to verify students’ sex, raising fears of forced genital exams Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQTJ1eE12bWU1akotVXFvTGFEbUpjeHk3RUQ2Y0dyRy1PREtjMWFKSFBYdHZJVENvaHhJakx4ZWpKbFZfMXEyYWN3Z1NXWVktRFktVjdQNTdBQnU2WHRvYVprT25aR3pEMDRYcmNOS0hNVW5DVnFnOUZ1SUw4b0RydEp4Vm8?oc=5",
+      "published": "2026-10-15T21:45:12+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Order to limit Starshield for Ukraine came from inside White House: Reuters reports",
-      "summary": "Order to limit Starshield for Ukraine came from inside White House: Reuters reports CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWU84akVHU1YyOXQ2S0dMM2V4OE0tWk9hVUc0cC1udjJGdF9UM29UVGlkNENOUFFkSWxfQUNuamk1TnNlNlhaTTJmS3BVdW90aDhDQS1mRVNMQ21UUU83WUtvYTM5bnl4Y3RyYjM5OEthRTUwenJid2g2bzdPTlNGdURXZ01POWI5aUtHc0pZeTV6WTZPYWxJbTRHTDJNRkNnS0Zrc1g2U0ZfYkloazZ0alFBbHIyZGVUOVRv0gHAAUFVX3lxTE9pUjlJQTZfOWd1RXotYkhOYk5xbUlLR1o2c1F6OTVCc2NDVVlQdHJYblZBejlvYnJFVTV2Tk1vYUxTOU80d2hJcGdhaF9IdnBCaEhJVUU3RFc2cTlNOThLUjYxLUxtYXRXWG0yWk5jclp2MTlEMlBDMVh2dl9oRFBtRWMyWjNHNWpBc2czZU0tdXd1dENUdC1aTDJtbzEzQUV3d05OOFdmSUlteEl5WjU2cGp5OHU0TG9WLTNOdXBYaA?oc=5",
-      "published": "2026-10-16T01:35:00+00:00",
-      "beats": [
-        "Politics"
+        "Schools",
+        "LGBTQ+"
       ]
     },
     {
@@ -154,30 +215,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
-      "summary": "Hit a midlife wall? This test identifies your strengths and what matters to you NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pbnJKN0dMYUJtZXlzVENFVHJ2Z1daQ2xzTGNjMGdEVERkNkpzY3BIZ0NkSUJLeUxMMFhPdHNUR2RwU2RoRlFva2JyZzdnWnZNRndCX3cxbzZNci1iSFU0Rm0wOHpTdW9ZbXFIeXB1OTY2VThvQVQ1LTAyTTVYSWM?oc=5",
-      "published": "2026-10-15T20:50:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Suspicious mailings to election officials, congressional offices under investigation",
-      "summary": "Suspicious mailings to election officials, congressional offices under investigation NPR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON21YSVJ3M3RlZ3lkT251WlJwTm9RUS1kMFhSRXMtLWloalgzc09aUFJUblFTdVpGUk1jQ215VGtFTDRoNmFJVGFRc01PS1lsU3pESEo5aFZaTUxfa2sybGR0cm1iSHR3ZC1XTjJVdG9NYWIwcWNrNkJMSGF3S3NVc3dnNV8tcVB3N2xZcEtVLWNOTWgzQ2xSc1dpdw?oc=5",
-      "published": "2026-10-15T19:54:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -191,25 +228,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
-      "summary": "U.S. historic preservation law faces the most serious threat in its 60-year history NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmI3QWVZNzdBS0hEbEJYLWl4V0c2clp1WXU2c0xoT2NIT3NObE9kcDl0aHR6SXVsS0FUamJLbVpkc1hKcjdmbGdUOXc0SFpsRHFoQ0hiU3NSVXNNYlA1MHdOM1RZVV9CTlpsa3pRTTRPSm9QYWNwdlpwT1BuRE9Rd2VTYTRSNW15bTF3TVQ0VWd6Zlg0VW5sN19qNXVoTV9EUHp4Mw?oc=5",
-      "published": "2026-10-15T18:38:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-      "summary": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-      "published": "2026-10-15T18:28:25+00:00",
+      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+      "summary": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHBhakpzOXY1V0prakl3TmF1WnE2ZkV5bWFMVk13QVJ5VDhPanJHS2dqblNCU29UNjNrVkwxekpxWEdkdl9lc3ZINGNWXzk0Y2JnaDcwS2F3XzF6Q2ZFWndxMDBOM3Z3SWtCcGlycnF5TnVDSi0tZ1drSlZKejBfM2JGNnFXdWJ2TjFXMjhPWQ?oc=5",
+      "published": "2026-10-15T18:18:46+00:00",
       "beats": [
         "Politics"
       ]
@@ -228,15 +253,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Berkeley High yearbook photo discriminated against Jewish students, California Department of Education finds",
-      "summary": "Berkeley High yearbook photo discriminated against Jewish students, California Department of Education finds EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDVBZFhCajBYSi1pWmFraXRlMURuVUZzTEpzUUZKbUZxb054NjIyNHA0T0JOVUdIWmVTZHFtZVVMNTlLWUljUmIzRjhWUHpFNkRJWmN3bEpSUXBLY1NMVVdjTlkyMEhCVUUxa0t2cFRhU3FEWnJmbkF1TzBjOF9ubkkxN2M4Umxfd1FnV1BYRkxnYzJ1el85bHdEdFlsV3NfbUJ1NDFxZkpZNnllZFlLN0E3ZTBfY3Ixa2Y1cWVpVXhUOFNYMFllYjVWMA?oc=5",
-      "published": "2026-10-15T15:39:07+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Todrick Hall back in the hot seat after new off-Broadway antebellum musical raises eyebrows: \"It feels like a nightmare\"",
+      "summary": "Todrick Hall back in the hot seat after new off-Broadway antebellum musical raises eyebrows: \"It feels like a nightmare\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVdBV0t6U2ZsaGtsem1iS0t3X19ZLXNGWTVtSjltOGpyUXY4OFdwb2ZRVU9HQXJpc240RWM4SEN3aldMUXBRMTlEVmxITFFYMjR2cHJpanFjQ3l2ODJTVkd6WmE1dG1saE1uWkVKMS1vSVdFekxmWkI0dUpCeEd5anNyUHA5dFNQQkF4LUdjdm9QaUhoOHVHa3p2SDFDMmZ2ZXg2MjZsUFVFUnFWQnRVVmpGNVEtTzkwTmlGakwyN2gtWlVYOVdwM3RPQ1B5a21hSFlPOHowZEs5bnRLaTZmUVczRGlXUQ?oc=5",
+      "published": "2026-10-15T17:00:00+00:00",
       "beats": [
-        "Schools"
+        "LGBTQ+"
       ]
     },
     {
@@ -272,18 +297,6 @@
       "summary": "Opinion | He’s the Most Influential Podcaster in Silicon Valley. He Thinks We’re Getting This Wrong. The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnFiYk5NYWNMRGtyVHV4Z2VuZW1jRFgwZEc1eWpkc0lNTUNYcms0QnBhQm04T284UEJpdi1Ebk9ja3gxWlFLVUdFUENuci1nTDhRaGpVWGRuNl9RNzhzT2Nab2xGeVp2d05LX0dRRVliQ01EaDYySVR6THhFRTVqNVhTTnZaUHppUGtQQU9GR0ZVYXc2ZHc?oc=5",
       "published": "2026-10-15T09:04:22+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes",
-      "summary": "‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2c0cUtydFVGVzltSXRMdVkyMUR1LWlqeWg3TWxSSWZHNHVVcXVPZmlRaVdXX0dwVU13cmN6ck4yZ2otcThlTlQxWHJKcVdlV3dtX1lYamNEVGJ6NXBjeHRlSnFWTUswWnBVcUN4eWJNT01RV0YtcW1jQzROM054V19ZWi10bmpHMVNsczRfeElmY1g2TTVtdw?oc=5",
-      "published": "2026-10-15T09:03:51+00:00",
       "beats": [
         "Politics"
       ]
@@ -325,6 +338,19 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Pete Hegseth may have to testify under oath about his anti-trans slurs. A federal judge put the DOJ on notice",
+      "summary": "Pete Hegseth may have to testify under oath about his anti-trans slurs. A federal judge put the DOJ on notice Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEdzWTI0OXVoeEJvMXV6aWp1ckNGZ0pqc05xTURrdEdkdFNhbTM4QnRteGF0Ujc2RmxhdmVGc1RXYUdzcTBjdUs4VnpUaW9QZTNsejNRWDhaZ0N0TDFqalNjUTFYZjZQanRfLXk4ckIxRVRIQTFBeTdtZ19rc0VyTnlZWmdTanpIUDVqVg?oc=5",
+      "published": "2026-10-14T22:04:53+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -359,31 +385,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Kyrsten Sinema is reportedly promoting an anti-trans Republican in the midterm elections",
-      "summary": "Kyrsten Sinema is reportedly promoting an anti-trans Republican in the midterm elections LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYTYzRU1WMUlsQThmMmVIRURUWlJzTkJ4cW1ZX2pUYWZfZzZLRjFja1J4X0ZwSzlZQXYzVjQxbkFrQlRiSy15MnhBWDZtUmM5QVNiUk5za21tUWxTcE5DYm5iMk1IZk9nYy1aZmRyX0N6QXd4aWY1MEk1QWxyOG5PWm9SR0JoLVFfV3AtRHpyT0J2S3c4WktuR2djdnBXQmVmcGkwSUtxdS1GMjA5dEFoTE1hdXBPRWV1OTk0MDdNYmVmOTg?oc=5",
-      "published": "2026-10-14T20:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "The best haircuts for a receding hairline, according to barbers",
-      "summary": "The best haircuts for a receding hairline, according to barbers Queerty",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGdHQVpFR1hZX29aMTBCZFBTdjJmSGo3S0p5TG1zQm5UWnhObWZFTmppYk43YUFPY1gwTzRYRmRzUnNyUGdCcnV4T1Y4akV4M3ZMcE9hZTB3bDFfczBQcHI3cUdRcXRUQW9SUC1EbEphdXJwZEJyek5lUjFScllsSUdJYXpQVnBqckF1Q0pVbHZTaVZ0T0VxTEstVFA?oc=5",
-      "published": "2026-10-14T20:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
