@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T22:35:09.538178+00:00",
+  "updated_at": "2026-10-16T01:01:55.128704+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,15 +20,63 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "3 children, 1 teacher killed in shooting at Bend, Oregon, elementary school, police say; suspect dead",
+      "summary": "3 children, 1 teacher killed in shooting at Bend, Oregon, elementary school, police say; suspect dead CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGEwbTB4OGtLYlVNWnpYQmh5TTRMMnE1QmtCdWRpeTZzdDdOaDJGWEF0ZHFuQ3RVNW9tZ1hfM0xsc3owbzJzd0Zkb1Zac0ptVmltN192ZVdhcTk2VnNFZFZNN2swTHRmU0ZBU3NvaFBMXzhmb0R2T3dOclF5MVRWeHRVY0FPbGpx?oc=5",
+      "published": "2026-10-16T00:53:41+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-      "summary": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XV0JvSlNjYXNaaFBEOXpweXFiNW1aSm1ORGtJbG10LWR4Q0JUN1dwaUNfa0plWDZraTBiNFR5X3JjRWd5OWlFLUwxZzZ2VzU5SFA5SWlLZkx3cU43a0xoTHExelZ0LURlbndFRHAwcVZPS2hhWHBV0gF8QVVfeXFMTjlXaG84NkluSjNmYVpsaFotRGJwcS11MTFjdVhDRlVqWHU5RXVzd2doM0E4R241cTkwdFZ3eXczdzVMMlhUZU1GTGJjSEs3Qm1CMFBsTGZlOUkwQmQwMGFNR1lKdVZXTjNmZFpha0xvblZCeEhJc3FVNm83eA?oc=5",
-      "published": "2026-10-15T21:57:08+00:00",
+      "title": "Elon Musk helps GOP Senate super PAC raise record $273 million",
+      "summary": "Elon Musk helps GOP Senate super PAC raise record $273 million CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUm4xSFFOUnpqc0NOVzF6cElxRG1jbjctdjlDZjdCRUFoOUhfYmNHNUlWV0lOTXRWdlZsanNacEtCR1oxcG90OTdlamc3TUYtS0JENTR0eDloNi1MbDR1ZG9GbFc1ZjdPckpqVUVNeDYyRGY2alNqNTZNTjk2R2t4QWY3QWM3cElD0gGOAUFVX3lxTE9ycWVmV0NLNXJfMXlmVDUyLVhNNnRxUF9DSldqb3g1TXlieUJzLVI4bkdheTZINXg0UlFWR1ZVUkkzSlUtQXo1Ujh6Wk44Um1YMzNmRjhRLU5OQWliYzNyTU92TWJEMGRPVjZ4QVFCSEZWbnFjNGlXdGo1UUxjQmw3SW5CcXFjRTlnVWdOR3c?oc=5",
+      "published": "2026-10-15T23:53:29+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Sources: Oregon elementary school shooter is a 16-year-old male",
+      "summary": "Sources: Oregon elementary school shooter is a 16-year-old male CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXBSSUl2VHNZQS12VFNBNzk3aTNKclgwZ3VLVkdUVm9DNC1jNW5OWlZnbDVvaXZocFF3cGliUWxjOThkb2dNNnlqV0h1TE44ZndmWUliMFRfdm5vZGxyNXRpRWs1VEhOcnFVLVpVSXNpbk9vVG1ObnJwekdBeXFMSXVfOHBLZHRXb2tMZWdkU2taR2RaeXhz?oc=5",
+      "published": "2026-10-15T23:42:07+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump ally removed from role after report of State Department feud",
+      "summary": "Trump ally removed from role after report of State Department feud CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHpxWVlXbnVHWXFIVktrLXRIVkNiZFNpTjBUUXh6bDNUNVUtYVJ3R0RsdmFxX21aN0N4RnkzcW5MTjJlWTVzRU9NWjQ0TTR5T3FkTHpLVG1nLXBlcTZld1F5NDdNcU1TZDQ3QVlzRkJxS2UweWFLOTlXdnNnMW5HOTRTNFQ0WXZCTWZz?oc=5",
+      "published": "2026-10-15T22:40:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Shooter dead and multiple injured in shooting at Oregon elementary school",
+      "summary": "Shooter dead and multiple injured in shooting at Oregon elementary school CNN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzI3ZHVYeGtHWkVxWThpa2JrSU1VTGFBNHdFdHRCc0ZxQTRHc1NtMXh3S05PTWh3VzUxSmZGcVFyck1nUTVBTGJ2ZDFYcjhQRjAyTHFjM3BZNnNHQjNiVWhjOGo3YndLRXNjV1RUaUFqeHl6dS1NYUI1Z05yWkktVFRZeGl4UFd4bFJvTThLek1iNi14bGd6ZmxtZU9feXU4OUE?oc=5",
+      "published": "2026-10-15T22:16:00+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -48,8 +96,8 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Cracks are beginning to show in the stock market, as doubts grow about AI investments",
-      "summary": "Cracks are beginning to show in the stock market, as doubts grow about AI investments NBC News",
+      "title": "Cracks are beginning to show in the stock market as doubts about AI investments grow",
+      "summary": "Cracks are beginning to show in the stock market as doubts about AI investments grow NBC News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEpUNXhwc2JkVzhOd282UndZbzRHYnRvY0I5MWlRZEhveFZYZGVLYVFUUy1iR21XVE5XQ05KUlk5Rm54RmFHdUEtWnMtcENhNTBaM2xvTTZfQW5CZ3VITTQ2aHFIVU1rOUVRSXl3cjM5NUgxU3RMYkJpd0dHWjZJUWVZWVZhTWhKWkpqNVo4Slg?oc=5",
       "published": "2026-10-15T21:33:56+00:00",
       "beats": [
@@ -57,27 +105,39 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "4 killed, including 3 children, in shooting at Oregon elementary school, source says. Shooter is also dead",
-      "summary": "4 killed, including 3 children, in shooting at Oregon elementary school, source says. Shooter is also dead CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ucy03Y1N5V2ctYVlsQ29jQTE5WWdHQ0dtYU5LWTBQS0tuQXh4ODFEM082WXNaUHk1OGFYcW1hLWN2M1pRTFY5MWNqWHVUMXNxYWM2WXZieWNnbEJ1VTByRThtX01GSGFhS21lV1VNcw?oc=5",
-      "published": "2026-10-15T20:57:24+00:00",
+      "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+      "summary": "Hit a midlife wall? This test identifies your strengths and what matters to you NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pbnJKN0dMYUJtZXlzVENFVHJ2Z1daQ2xzTGNjMGdEVERkNkpzY3BIZ0NkSUJLeUxMMFhPdHNUR2RwU2RoRlFva2JyZzdnWnZNRndCX3cxbzZNci1iSFU0Rm0wOHpTdW9ZbXFIeXB1OTY2VThvQVQ1LTAyTTVYSWM?oc=5",
+      "published": "2026-10-15T20:50:53+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-      "summary": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WNFBRV1VOV0dya2xCZzg0Z2tpLTlpWFhuQURSUTFjV1VEWWR5Y1R2MTZnZEhJY1NzMEphaHNNZkJTNURUQ3B6Ymh6ZFRBOGhnOEFYSlZKOV9oNDJsT09qYVhDLUU5ckhtRmV0Nmd6WEtOUdIBd0FVX3lxTFBhaDNGVTh4ZzhleVNmbURoRnJZLW54bzd0UXJXRVl2SDhRRVBrbzY1dkp2RU5GSFNFcFBHN2JndGFqS3Fub0tUbGpWOWxuVVo5MUpIa3NFc3A4Uno4ZVJha2xwT2RZYTNKc3pnMnBzWGF0dW5mNy1v?oc=5",
-      "published": "2026-10-15T20:41:18+00:00",
+      "title": "Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more",
+      "summary": "Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2ZkWklxX2dqYzZXS1VFYVpXTGdMSEd6RHZNb0FaQkpIVUpPYlZKYTF5dVFnQ2hpTmRZcnkxTXpvOFNLdExTQXgzR3gtdVhCenNHbk1XOTNPSVZRekp3a2VvcDBuQVBOQzU5WmljRVp3aVcteEExYXhfcENQWG5HQms3VWF2cmFPRkxpTHVxUm0tUUQycDc3Uw?oc=5",
+      "published": "2026-10-15T20:48:50+00:00",
       "beats": [
-        "Politics"
+        "Business"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California graduation rate hits 10-year high, but 18% of students are chronically absent",
+      "summary": "California graduation rate hits 10-year high, but 18% of students are chronically absent EdSource",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNnhlSnV0LU9NT3l6XzlHemJWamF6TmF0aVZNTHRxbVVSUmpWNE92ZUNIOC1OempyekVha1pOMElBNnNfYW9qTWZvd1NWNWg0SFJLam1lUzBQWW5LaUtrX0pXd2hSMlZ2UDNHZENlSU56QWg3OHZEeExmNnA?oc=5",
+      "published": "2026-10-15T20:09:09+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -105,42 +165,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "RIBA International Winner: Factory championing women workers named world’s best new building",
-      "summary": "RIBA International Winner: Factory championing women workers named world’s best new building CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFpBU3owcC1QWGxXRDE1cThtcmJsTWxQQnlzcTBNOGhTTkQ4U0pmcjRVRElPRDlkdDktN20zeXljYzlTTVVjMFhTQkc4Rzg5c1RQYkg2ejc1dVk0YlVzU3A2VURMWHZxcVFjNm13R1E3NExtajVHVERQZDFhVTU1XzVwT2k3SFk?oc=5",
-      "published": "2026-10-15T19:01:28+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The new White House press secretary failed the bar exam. She shared posts calling her an attorney anyway",
-      "summary": "The new White House press secretary failed the bar exam. She shared posts calling her an attorney anyway CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Eb19pVEwxeG5KX1dPUjhrREc5djRLc1FOZGFrbkxfU1hkY2M1RTNhX1pLQWdZYi0tVXN5Zmh3OWR1LVlOWFh5eFlTemtzakRxN1NhbFkwd0dpZF9ueHpRZTRyd05paVY2TU42a0hhOHJKM054b3VidA?oc=5",
-      "published": "2026-10-15T18:51:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
-      "summary": "U.S. historic preservation law faces the most serious threat in its 60-year history NPR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmI3QWVZNzdBS0hEbEJYLWl4V0c2clp1WXU2c0xoT2NIT3NObE9kcDl0aHR6SXVsS0FUamJLbVpkc1hKcjdmbGdUOXc0SFpsRHFoQ0hiU3NSVXNNYlA1MHdOM1RZVV9CTlpsa3pRTTRPSm9QYWNwdlpwT1BuRE9Rd2VTYTRSNW15bTF3TVQ0VWd6Zlg0VW5sN19qNXVoTV9EUHp4Mw?oc=5",
-      "published": "2026-10-15T18:38:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -162,6 +186,18 @@
       "published": "2026-10-15T16:00:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Berkeley High yearbook photo discriminated against Jewish students, California Department of Education finds",
+      "summary": "Berkeley High yearbook photo discriminated against Jewish students, California Department of Education finds EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDVBZFhCajBYSi1pWmFraXRlMURuVUZzTEpzUUZKbUZxb054NjIyNHA0T0JOVUdIWmVTZHFtZVVMNTlLWUljUmIzRjhWUHpFNkRJWmN3bEpSUXBLY1NMVVdjTlkyMEhCVUUxa0t2cFRhU3FEWnJmbkF1TzBjOF9ubkkxN2M4Umxfd1FnV1BYRkxnYzJ1el85bHdEdFlsV3NfbUJ1NDFxZkpZNnllZFlLN0E3ZTBfY3Ixa2Y1cWVpVXhUOFNYMFllYjVWMA?oc=5",
+      "published": "2026-10-15T15:39:07+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -214,6 +250,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Angry Youth in Aging Europe",
+      "summary": "Angry Youth in Aging Europe The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakpNcE5mYl9MZVNaUzM2dUVtMFlrZGZfa1FQN3NoQzFjam5NX19uQllORzJoYzI3UHd4ajRaeWdiTVR0dzNha2ZEMFhHV3lFbzVvVEg0S0VLNEduYnA5ZG9CR2hRdjRucjJGcVM0T1VJTDZrODUxYkJjWjJHaFIwb1RPWHZIZEg2QmpiZmdDZlV1dTFLMnc?oc=5",
+      "published": "2026-10-15T04:43:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -235,18 +283,6 @@
       "published": "2026-10-14T23:10:43+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "High-profile Republican slams his own party's obsession with trans people: \"Let’s be honest...\"",
-      "summary": "High-profile Republican slams his own party's obsession with trans people: \"Let’s be honest...\" Queerty",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOFlZejVNM1ZLTlNCUV93Z0ZzeE5mLWxfUjRITnJQcmNOQlBqSFFwdi1Obi1DLXRYck1zdW5wN1VnTk9LempIcTNHSW85SnltdGc0REY1a0FZSnZsYnV4ZEQ4NFRTLTlHeWdQY3JrY1l5anRieXdDWnl1WjdDNVpnRnU0VkRrZVNOdlZXa080OXlJNEFodFowN2c2NkUwSy11YzYwRnpLS0FDSFVXMklRbUFaTUZDS0Vxc0FteWFn?oc=5",
-      "published": "2026-10-14T23:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -273,18 +309,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Angry Youth in Aging Europe",
-      "summary": "Angry Youth in Aging Europe The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakpNcE5mYl9MZVNaUzM2dUVtMFlrZGZfa1FQN3NoQzFjam5NX19uQllORzJoYzI3UHd4ajRaeWdiTVR0dzNha2ZEMFhHV3lFbzVvVEg0S0VLNEduYnA5ZG9CR2hRdjRucjJGcVM0T1VJTDZrODUxYkJjWjJHaFIwb1RPWHZIZEg2QmpiZmdDZlV1dTFLMnc?oc=5",
-      "published": "2026-10-14T20:38:37+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -325,15 +349,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "California kids are still struggling with math. Many districts haven’t made it a top priority",
-      "summary": "California kids are still struggling with math. Many districts haven’t made it a top priority EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5STUNlTlVSYmZmWWVUTWVhMC1GeXJjbmhPd2pYMXRBRE5nQ2tkSlZoelM1cW9pcUdBQ2lBbmtId0UyWUZfRGtXbXowSzVMMXhmVTd6VkVUeGwtQTIwQnJPcE13WlRDeE1pWVpTbGJtVDUwcVR1OVlIWWZn0gGCAUFVX3lxTFBPRzBqWUhtbUZsaHVqNnd0aHJraWptd01uSDFfX09pZmk5RjBPdTBsUFlnMEwydDBRLXpNYmd4QzRTVjRENS1yb1FGbmtmaEVnRjVOanhrbV9ONHFFV1dvTnh4TWxyX1BQWUU3NUhHNFM4TmJDYjZhTG1hOWFFWlR4UXc?oc=5",
-      "published": "2026-10-14T19:32:22+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "The best haircuts for a receding hairline, according to barbers",
+      "summary": "The best haircuts for a receding hairline, according to barbers Queerty",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGdHQVpFR1hZX29aMTBCZFBTdjJmSGo3S0p5TG1zQm5UWnhObWZFTmppYk43YUFPY1gwTzRYRmRzUnNyUGdCcnV4T1Y4akV4M3ZMcE9hZTB3bDFfczBQcHI3cUdRcXRUQW9SUC1EbEphdXJwZEJyek5lUjFScllsSUdJYXpQVnBqckF1Q0pVbHZTaVZ0T0VxTEstVFA?oc=5",
+      "published": "2026-10-14T20:00:00+00:00",
       "beats": [
-        "Schools"
+        "LGBTQ+"
       ]
     },
     {
@@ -350,18 +374,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: San Francisco Unified to remove lottery system, assign students to neighborhood schools",
-      "summary": "UPDATE: San Francisco Unified to remove lottery system, assign students to neighborhood schools EdSource",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBqanM2NW9oZFRTczFZMlpnaXNYZkxlSWNGVS1jdkFIX2M3RnlsdmIxb0lvWk9TWm1GU1NwcTJKaURRLVAxcjdQdk1ZbjdmSC1XWGRYUUp5cjlucU9yWXVHXzg3emV6R2xfTEpGOGdDdDB2UHVzNExUeWt6ZGdtSnE0N2gyOTZCY2plNHk1MmlGMkU3OTlGWEJJQmJzVTlTSl9jSXJyLVJRV3FqVG9tRk95VTZGdw?oc=5",
-      "published": "2026-10-14T17:04:05+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -371,18 +383,6 @@
       "published": "2026-10-14T05:26:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Ronan Farrow’s latest investigation is “for the gays\" & targets Grindr’s controversial “gAI” feature",
-      "summary": "Ronan Farrow’s latest investigation is “for the gays\" & targets Grindr’s controversial “gAI” feature Queerty",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNnI2a0gxVmY1LUpxandXRVpFc1luRU9PSjZEYzU5N2JlN0hWTEVoS0RDcVlic2paZkpFbDlLTW1YdUhXWUdNcDY3V096YlNXaXpmMEJnRVF3SDNvVTAzTzMxcVNrTzJTZmlEX29uc0V5OUZXaDJCMll5OGhiRHB5VVhBOVg1SXdPUmtMUnE2SkNVaDlxZ0xWeEZaWkExM2VROWxnR2VyeV9UdUxqUUtBUDFiT2t2RFotb0VTOHVoM2I5aWZQ?oc=5",
-      "published": "2026-10-14T00:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
