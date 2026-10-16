@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T16:15:37.013978+00:00",
+  "updated_at": "2026-10-16T19:38:37.396995+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,109 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says",
-      "summary": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2aURfdGotR0JvZTg1YzFqNTAwd0tzdDYxZ2d3UmJfaVhCaFJ6dGYzOG5feDFobnJlQzdYSVJWQ1g2YUh5TmxnOUh0UnlYMGlOWnNtUi1ReEVTbHE1eTBMbGh1TUVRNm5pVzhHamdpWjItY2ROR0tZ0gF8QVVfeXFMTVBocE1ZYl9QUFZZQ0ZCb3dZOFFoRzRZQ2dMOE9SQXMxYlFDaXRaWjhKZFRYTVZXNHJ6MElxd3U5S0NtTjBIVDU4UFYzZDc4bkVqVzZ2Z29IYnZDd2dMdDJJamlkVjlfTm10dW5meUs4QTY0NnhkWDNKekN0Nw?oc=5",
-      "published": "2026-10-16T13:55:56+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Katie Zacharia’s first week has been so rough that even Fox News has questions",
-      "summary": "Katie Zacharia’s first week has been so rough that even Fox News has questions CNN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTRzM2lYZGpDOWNjS182blA0VHJKQWtqV1NKUVZDQzBGSURUekxZZzJ5TURmUndmZnR6eHBXNmdYTEVBVV9TeHhUdXpoeVFSa09QQjRQNGFFOWRLaVNvZlhKamhqaGZuYWFYanBfczNIN3d0UTZ0U01FeEd6TUYxNWg1Z2dja0xZZjBNYnpVREc0WnlMX1lFNld2TGFydw?oc=5",
-      "published": "2026-10-16T13:54:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk",
-      "summary": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTBvdG94Q3JaMjlnWERTNFZUbVl3UFJRcGZ0VUE3Z21zMUJGUTZfeVlCV0hlUzd2ejZYYVAxekdfajRjMy15SmRldzdTa29jVmFaN1k2bnJsempKMElxTzR2M21yZXZpTXQzRmJwRHpCM21HYmpUVGQtYlNIYXI2VElOZlBfb1gzck040gGQAUFVX3lxTE02cktiaTMtbnd5VE1pZ0tKTEEyeDlrZVg5cGh6V28wZnFrNnJVSGRxUVozbUpOSmFBbWtzTWNQZ2k5aGRwNFpEMVpBN1BiOVc5NU44aHBJdnNsekVnQy1nYlFLMVZ5dkhGZkRDUmF1WVJPYk5Oakw5akZSRkF6N043UWhEVkJMalNtVjVwcGVaRg?oc=5",
-      "published": "2026-10-16T12:38:58+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exactly how much of an environmental menace is AI? Here’s what we know",
-      "summary": "Exactly how much of an environmental menace is AI? Here’s what we know CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEgtNXhpZnU3U3FQVmR0NXpiQ0REaWhPbzZxOGxxTTR0YVRpZS02RTBiX1NTeEdIaXFTNlFHWV9zdDZMUlVQWmpERkMzV3RETElhZzljYkgyTjJKOVI2TzViU2dacnBGZDNzN3VUT2pFdXpTaWh4QmpwdVRWM1BONEJlM1M3WjdCYldaVjRQWm9oRG5MV0E?oc=5",
-      "published": "2026-10-16T12:24:19+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "First images of Pope Leo released since lung surgery as he celebrates mass in makeshift chapel",
-      "summary": "First images of Pope Leo released since lung surgery as he celebrates mass in makeshift chapel CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtUmlGUEdlZkEtU0ZWQUVkRTFnREI3UjcyWFNNSDV3OWJVcDBNRGtXMzF5ZW5JRlJRNHdNb2tmQ2wxZkJKR2ZHVTBGaHlKWW94VHpETU5ZS3ppdWlLN1JlRWtBczdLUlpzX0h3My1xRzJqM0FGWjBTNDRmTDI?oc=5",
-      "published": "2026-10-16T12:11:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
-      "summary": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0S1E3Sl8waTZfYXNrT1NQUzhxZ2JuY3pjRTV0anZoYnFCbW1GTW45UzBsSTAzMWZxZ3VFaEhpOXNlUWgyY1ZXaEFZRjBFQ1N5RG9XaVl3emQyeXFUVG1FMU9VQVZCWkVqY1pHVDNKcEt0ZWpLMXZXU2w5SdIBgAFBVV95cUxPOHhaZEZId1ZWdnJLV05xc2Y4UUhfQjBYVWJzVnlIb3FsMW93WE9VanF1TTNLU3pLR0pfWm0xdzBCUGVBdERFZjJUbG13YWRheU5qdWRMNGF5RlJzVkxKamN6REtaZ01BbmdmS2VOai1HMjNwRkJkYlptREZISGxSaw?oc=5",
-      "published": "2026-10-16T11:58:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Sally Rooney’s books will no longer be sold in U.K. after Palestinian Action support",
-      "summary": "Sally Rooney’s books will no longer be sold in U.K. after Palestinian Action support NPR",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzUxWDVzU0pRV2NRWjNNXzRxbzdVaDRMSlNTbUNZQlJ4VGF0X3p1YXN1V0NuVXB0NE1oVGUzUDdqWExfcE1YZHBEeHk4clBXaVZZNTFhTkQ2SkhhRTAyVzJkVmJXbWMteVEyeUw2bTdaWGdmU0ZtQ0tHajlhNldDNlRZMUsyRzl6dVg0cUxkRGZraGVxcXY0cw?oc=5",
-      "published": "2026-10-16T11:30:31+00:00",
+      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "summary": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks NPR",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUhyRHZEM3RYcWJqT1pLaU82OW1qTnZuTFFOSXY2VzN1b1gtR1pGTDFKNnpwd182SmQ0Yl9VY3JRYU5GVzJvNTdONHUtcEVxR2RHOXFLUVRTdWt3X2E4dUF0Y2lUVDhfYkh2N3BYemNTaHFkRDFXQXREWlBlZmd2UGM4ZWpGeFVYdTlYeWRpd2tnajB5LWtTYzh6U0Qxc3J1T0FzLXJLVEhIQUZzQmZLVQ?oc=5",
+      "published": "2026-10-16T18:53:52+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-      "summary": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens NPR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNejZkWHJmZE1zYmRfSXBjUlFNeGwzWUppaVhxWWVuRFFmaTFiSHlPSU9fbW1STDc5ajNpY3NySDNReUFXbUlNRXpTQUJvVm41aWp6S1FVY0tDZHItUGtHRXBTdjJwSGFzcFZPZUV6dVcxdlp2VGdQaDlEVXBPWmVJQUNIVVFyMmhwNnY2RlRrUEVablRGYWNqUFFsQ25rb09sSXdQZjVCTnFLZEU0WUI2VG9wOTVRdHRJbjg0NnlwWkprRVVxMElyQUFDbkM?oc=5",
-      "published": "2026-10-16T11:03:57+00:00",
-      "beats": [
-        "Schools"
+        "Business"
       ]
     },
     {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-      "summary": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-      "published": "2026-10-16T09:22:00+00:00",
+      "title": "Oil surges to $110 per barrel for the first time since May",
+      "summary": "Oil surges to $110 per barrel for the first time since May NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a?oc=5",
+      "published": "2026-10-16T18:46:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,10 +47,167 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "'Everything got worse': Gen Z express frustration, regret after Trump vote",
-      "summary": "'Everything got worse': Gen Z express frustration, regret after Trump vote NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yaHRFek4tTlppaU9mb3pDaEt3cGluNWx1Vnp2VktPbUt4TjRPLVFkRTBnNnk4cDVIaG5RN1JwVnJGb3V4dkNhWGpaMTU3czRmYkVUNDNaMGlNdW8wd01mdGYySHdyZ2dPSF9LeXNzR2p6ajRMNEUzcmxVcw?oc=5",
-      "published": "2026-10-16T09:00:00+00:00",
+      "title": "Trump casts doubt on press secretary's future",
+      "summary": "Trump casts doubt on press secretary's future NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkRzUk1FdTJneVZPR19yNktsbXl0YVJ4bFpFUVBEaE9BdnZhd293SUxnN004cHJSTXpqT3RmSGl1SGpLQWNRMTZwT3F5NHVZeU5Sb1JlMkstRXBWVVZxQWFyOTd6SjM5R2x6aU5uOEgzcWI0SzQ1LWZhMng3S3h1QVljNVNybUdRYTZlM0M0aHhPQVU?oc=5",
+      "published": "2026-10-16T18:08:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
+      "summary": "NBA tightens betting rules, develops AI to flag suspicious wagers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGkzY2hGN0FnSlVBM1RBTGlTZGZzN2NIWW5MQWE1OWVQemszZFFGRGp2YjVfWjFVNlFkOU5JMWNoWWNUbWdMUFJfdVF1VDFuZzI2bGEtcEhHNFY1azFnOElwaFNRNmw5Yzd5aDkwbENtN0VXWVpxMkt6RnFEVDVMQXE4QjlGQjlBcjlYWU5DM0RZbWJDSW1oYkNaU0Y5ZVRkOVVF0gGoAUFVX3lxTFBSSFRzXzdJVkNqb01zemY2NmRONVJPMnJrbHhhZDQ2dW1FZ2k0Q2hBc2dTdi1DMXAzZHByaVAybjNNOUNIRTVoblRTNnF2cWRHYl9vcHhoSTFZVm1XdVoyY2t0dDdHVTk2MHl0ZFlTQkl5THZIUi14eS0xUWEzTlhmWDJzWi1OSHV0bU5FVVY5dWswamtUNWMyUURTX19xLVN0R25uZzJuQw?oc=5",
+      "published": "2026-10-16T17:50:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trump fires new White House Press Secretary Katie Zacharia in first week on the job",
+      "summary": "Trump fires new White House Press Secretary Katie Zacharia in first week on the job Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlAyR0NybmpEWEREQXlaRGJOamhBOUhWXzlGYm9VRU8yVU04Tlp6ODFEZnFNSGtvSmRHcUdaT0h3X3huZVYyLWZqMmZjakJhcnB3c19pd2UzcXlFRWtZQlVycHpFdGRWb3hlR2ZpLTgtWkFac2JjMS0tbWRPZ2NVeg?oc=5",
+      "published": "2026-10-16T17:48:44+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump says ‘zero chance’ he’s replacing chief of staff Susie Wiles",
+      "summary": "Trump says ‘zero chance’ he’s replacing chief of staff Susie Wiles CNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2T1o0dnJ5SFZLeWk1UGVqN2dlNDVPZk5LV2djT1FtT3Eybktzd2hwUlVXM2ZWeGQxQzhaMHdFYWJNNjQ1X3AxdUUyNXc2TDh5LUh6WkJLdnJNTmxmNFhjLURxV3BYUTBBYU1pTlpndEd3QkY2SkZ5bEtaaUU?oc=5",
+      "published": "2026-10-16T17:32:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump fires Katie Zacharia as White House press secretary after five days, advisers say",
+      "summary": "Trump fires Katie Zacharia as White House press secretary after five days, advisers say CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rR3JkMU9NOG5MS2tSTS1LdzNyc0hGR2RHcGFCQl9YeXhWeHhwMnNkbkF0NFdYdlVaREdNNEpDRUdzaXY4OVoyNXUxaWlST2ZlM25qaE8zRWdVY2pMQmxZcExJVlROS3lteFdOOVZJd194Y2pPOGVVT3FR?oc=5",
+      "published": "2026-10-16T17:16:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "U.S. crude oil tops $100 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "summary": "U.S. crude oil tops $100 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2lpZ1dfaGpSckplSzdGU19iZVY0cTJUd01MN1dpd29hcUtKZkpWbWZFZy1jTWxNME1oRWt6dGV2aU5tbzZ5UVpRVzI3amt6VzlXQXlfVkRNU2o3LXNpcUJZV2pPOXczV0k5SENNdGU4UWcyaEN4bUZUejNtOThUbGVYbGQtN2tYQ1g1M1RKQdIBlAFBVV95cUxPN0Q4b3V0UEhjMWVzZ2RkLXJGLXNtdGRlS0hWSjNROE1HTjA4LXIwM1dtZ3o2NU5leWVBQkpEMXViX2o2SWQ1d2g3dmhScHVRN0JSRDcyV1JsYl80WVZCaFNXVjVjNFRENEx5RDQ1blBhTnUwcjZsQ0xRSmt5aFlPeGxCNF96aVJiQ2Y5UnhjWk5zZEF5?oc=5",
+      "published": "2026-10-16T17:15:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "summary": "Katie Zacharia out as Trump's White House press secretary CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41ZmpDUUVnYmhLY2hWVVFBakdtLXRSMGVMaHZOZF92SHJLVk1SYm5FSzVoUXFiYmV1dU5zWGJ2TGRIc3BuQjh2VWh5UlV3T29BQU9YTzdXRVhKU1dPOU9rakhXUTlOQUpwWDc1OGpjTjBaQnhXemdTUtIBfkFVX3lxTE8tRnRxc0FqRmF5ZTdWcFVEemlSQkNqVHFVUkxJN1RwRHlJQ1pjSnpTcmZSd0tCcFl3Y0o4R1NqRDhSSVhVZ3AxRDJFRWcza3haT2ZvLUJ1cDc0Vno1V0F0MmM5Zzk3ZU1ZbmVuSzlqb081cXVhZ3NJS2VFNDdLdw?oc=5",
+      "published": "2026-10-16T17:15:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Astronomers say they’ve discovered the first green star",
+      "summary": "Astronomers say they’ve discovered the first green star CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjNWV6Rl82eGdvcVdVcExMOWlVRk55WVN1Tk1CWGRMOFFVeFNhLWlrZ29vdldQOVNqN1VrdDNHbkV6Tk84N2tfVDZRV3JvYWhYMzlhV1ZlOGxlTjhVelFGbzlaMVVKYjJ0X1JMWkJWR0o1SGRoUERBTVY1Y3c4UQ?oc=5",
+      "published": "2026-10-16T16:47:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Amid talk of public execution, public opinion on death penalty is split",
+      "summary": "Amid talk of public execution, public opinion on death penalty is split NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaW1WV3lUQUtKMGNmNE5xbW1SRlF4YUNpdUE1VjVCV0w2eGNqWEhKNmlQdHZiWnkwdHc1U0RkdVB6U0M3RzVkTnlTbUU5cS1rUXVGbjh4Z3ljVU5wbXhyYmNNQzA2bDYwRUxnLTFHSUhCQmZ4SVV3cmhTU1RTeXprVVNNR3ZodTBm?oc=5",
+      "published": "2026-10-16T16:28:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Want to Address Sexual Assault? Make Fraternities Admit Women.",
+      "summary": "Opinion | Want to Address Sexual Assault? Make Fraternities Admit Women. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWIxQVVCZUFzWHAwNUJnTnZ6TFR6S3JjTjdWRUcwTUxwT1M5eHY1ZXVqdV9uUGY5UGV3RHBpUGNVSUVMRUtMblJOZy1WM1RVYWgzbThJTmo2azYwRVNNY2cycHNaa3k5ZWYwX1FGM3BTUEM1WlR2SnNXT0pqT04zbmp3SXU?oc=5",
+      "published": "2026-10-16T09:03:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Why new limits on bachelor’s degrees worry some California community colleges",
+      "summary": "Why new limits on bachelor’s degrees worry some California community colleges EdSource",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjM3Iyb3QxZjEtSGRnSldUY1g2bjdERmNHcThuMUptT1l1MllnSW9lS1FEMkpLdXlQeldDQmlmLXp2ZlRWRS1yZTdRUE5CNUZ6emVFeXVVY0tqN0FnZzNCMW9adXhJY1VYcDBMTERqMFFmSzjSAXtBVV95cUxQYUhoQzVnc1Z6UGFUSnhRRlpJQ2NPNk8yMjFlZEhpU0ctQXBxdmUzVzNLNUdGMDZpMVJmSDBjbC1uTG5YZ3l2MkgzUW8tZEtEQ0RNM29halRuSWJaN29RMnFPUGVEaXpkLVphbzMyM1FJd1IyNmltNmRHaWs?oc=5",
+      "published": "2026-10-16T07:14:19+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "A parents’ guide to understanding the 2026 California School Dashboard",
+      "summary": "A parents’ guide to understanding the 2026 California School Dashboard EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mSDY2UFVHcXlfS1JCWHB2cUxaR1RtUzVzOV9fWUo3OXl6S3ZYN2dmbGllM0wxcFpnU1BDeUxleDlJazZWRTJsWmI0ckFDZ1Qzb0RvTGtpVW9sSjdCYTRfd25WZm1JT0hIMjljSmx4WUJubV810gF8QVVfeXFMUGxiME9HTGtHUUNwLTd6UERueDJHcXBoM3R6M2JwajhJcnZGQXBvczB4SmZVYmp4Z3lKQjRqcFByQ2dLeWpFVmZmWVU0TG1Yc0VYLUoyVEZtcGNEQVBFdmEzS0Ezd1pzOXN6cEVJVWhOTFNJcVgwemNPMGRfYQ?oc=5",
+      "published": "2026-10-16T07:14:08+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Three Children and Teacher Killed in Oregon Elementary School Shooting",
+      "summary": "Three Children and Teacher Killed in Oregon Elementary School Shooting Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRmN2azdfazd0ZmF6em81MUstNmtSS3lQckdZVDNQWGwtMVpKV2h2d3cxYmtCVUxwSTJlMnpqMlN0WGl2cVY4UzctTW9vdTI3aHIzMUdpQm45clJkT29oRzRkb0lIR3ktYjh3Vnp1aHNkMW55MTV6cnNaT1hZS1RaQU83T0NQM2h6WkRycFNCc3ZJSmtWNVp1Z3hwMlBUNHh0dWlpcDBFR2xoUmIxVnZSd2RqRXBJNU5BcU1KNnFRR0hQUGl1aTFIRUJVaw?oc=5",
+      "published": "2026-10-16T02:47:42+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Bryson Fire in Malibu hills burns 200 acres and prompts mandatory evacuation orders",
+      "summary": "Bryson Fire in Malibu hills burns 200 acres and prompts mandatory evacuation orders CBS News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RdzczanYzUncxajNkYm5pTGNTamVSR251VDlnNGZQMFZBNnRMbExHdlNyRzJNUGRYVVlySlBjSmZkZHpLcUlQU29MY0VTeGc0ZFJKdVJHTjJvckZnYlRvN1RHZHJUVjJySXVJ?oc=5",
+      "published": "2026-10-16T00:12:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -189,18 +262,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Teen Arrested Over Plan to Attack Hindu Temple, Officials Say",
-      "summary": "Teen Arrested Over Plan to Attack Hindu Temple, Officials Say The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wTnF6M0Mwcmp6MUV0YnBzLW50NW1XbDFBVjBZbjYyRmEzcnB5RUxHNGwxOFVkRnJiNEFqWV9PUjFtRXN2V2QzWUpkdzA0TEVaZXlhYkd0MWFhLXctZW9nRHJlZmZNRllqeVN1LWdnRG1XdU12Nl9ESUZn?oc=5",
-      "published": "2026-10-15T21:40:54+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -251,27 +312,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "California graduation rate hits 10-year high, but 18% of students are chronically absent",
-      "summary": "California graduation rate hits 10-year high, but 18% of students are chronically absent EdSource",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNnhlSnV0LU9NT3l6XzlHemJWamF6TmF0aVZNTHRxbVVSUmpWNE92ZUNIOC1OempyekVha1pOMElBNnNfYW9qTWZvd1NWNWg0SFJLam1lUzBQWW5LaUtrX0pXd2hSMlZ2UDNHZENlSU56QWg3OHZEeExmNnA?oc=5",
-      "published": "2026-10-15T20:09:09+00:00",
+      "title": "White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer",
+      "summary": "White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWs3UkY2VGZZUWpseFBDNE1xV2FPQlZhekZqeF9Nejdxb2JJbVZBZVQwUnFzam9tY0l0cFFCNEk1VG02djBxeFpmUVNleEtlUmkxTlFpNkgyWmNUZnd1S3AtV29vRTRSZHlvejFiMjVVaE10WEtIVzkwdGNSVURiTG9BM2dPNW8tc2pkdHpFWTFic0NkTnc?oc=5",
+      "published": "2026-10-15T19:28:00+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Exclusive: How much have California schools spent in Prop. 28 arts funds? We now have an answer",
-      "summary": "Exclusive: How much have California schools spent in Prop. 28 arts funds? We now have an answer EdSource",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RcmhkZHQ1SkRSa2I5cWk5RGlpT0tiRlNkVFpyNVE2eEp2Y0g1cjlneUJ0d2hwSG1IdV83STR6c1FUSGFkMHN4VmFsOUpuR19SMmY3SkM0aGgyNjFNMzVEenE2cU92c2FDMzJiZnZfTzVDek9Jd0I00gF_QVVfeXFMTmFNcmQ5dzVZN05pSUVkSHE0T1RfZHlUbzhnWTExWmloUzZRX3JveEJSV2JVb2ZLVXBhcC1QMzBGUm14QmxVTl9lM1RJV3J6SVdNc19DcV9XUjdBSUlDZVBxWk43YW9PdG56UE5ILVZlRGRqcEZYQ18ydmZkNHB4WQ?oc=5",
-      "published": "2026-10-15T19:54:09+00:00",
-      "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -301,6 +350,18 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trump admits he has \"very severe problems\" in surprisingly candid interview",
+      "summary": "Trump admits he has \"very severe problems\" in surprisingly candid interview LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTFoeWxKT1Y4LXZralJTd0RCa3FlUlUwZEx4RF9temltdEdyelVha3FaZGs0VVZibHpyR004dklxdjhZdFVRbnBaZldyYWtEVWxaeWQ3dGNqQWlPWW5TanNweU82aENYZUM0ZnFBR1E0Q0VkZWVPT19RekVTZExBTktzbjVobjVBd0Z6c3lIN2V0ZW9YS3BleDAwWDBkOE81MHBmeHdXcFR3QXZ1V2NxWm5iMTg?oc=5",
+      "published": "2026-10-15T17:35:27+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -322,67 +383,6 @@
       "published": "2026-10-15T13:18:39+00:00",
       "beats": [
         "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "New California test scores show most students don’t meet standards in math, English or science",
-      "summary": "New California test scores show most students don’t meet standards in math, English or science EdSource",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GbFdyRXlrUkR1M0Y1cVphV01ZT2NFVlRBNTFLVTMybkZ0cVFxSVpRRHhYQU4wS2RqOU9WUU5iWDlIN1ZWWnRCdjh6OVk2ZzJoSjVrM0V0X3NUT01oOWlicHl3WVVjVnc0bXJ4YXdwekk?oc=5",
-      "published": "2026-10-15T07:04:20+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Can AI Crack the Code on Some of the Biggest Challenges in Schools?",
-      "summary": "Can AI Crack the Code on Some of the Biggest Challenges in Schools? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0FCVy1FZzBJRVBwd05kT1ZCWnhqUE5pakhEN1g5QktjYzNfVFp2cGl5MXpiTG9jS1NNMFYzVTVvUV9qZ0V6bFp3U01yZW42ZThYVzJZRm5TUFlWSnROd1I3dkFYOWF4Z1ZvbEVGZFpsZDBfdkFUbDlvWnpWYmJWNDdROXdVS0REbkxMWGtCLVVqUy10Qno3djdGV085VDlocFBpTnhma3J1bXRW?oc=5",
-      "published": "2026-10-14T23:10:43+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Pete Hegseth may have to testify under oath about his anti-trans slurs. A federal judge put the DOJ on notice",
-      "summary": "Pete Hegseth may have to testify under oath about his anti-trans slurs. A federal judge put the DOJ on notice Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEdzWTI0OXVoeEJvMXV6aWp1ckNGZ0pqc05xTURrdEdkdFNhbTM4QnRteGF0Ujc2RmxhdmVGc1RXYUdzcTBjdUs4VnpUaW9QZTNsejNRWDhaZ0N0TDFqalNjUTFYZjZQanRfLXk4ckIxRVRIQTFBeTdtZ19rc0VyTnlZWmdTanpIUDVqVg?oc=5",
-      "published": "2026-10-14T22:04:53+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Man accused of assault, attempted kidnapping of 2 children near Oakland's Lake Merritt",
-      "summary": "Man accused of assault, attempted kidnapping of 2 children near Oakland's Lake Merritt CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3hVMVlsNVFVN0hiSzBiUWdBc1dleTE0dDRTQ0lFQU5Ic1JYNE1zRjkxYkNMeUplWXFLd1dQWWJ3SHkzYmJnY2NlTGxna090bE1BZUhHSmctUVdjZTZSZXVKT1dGRkVRRGlvOGRMSkxiRjVONHk2N0tDNEhkQ1RNLTBjNkpWZHlucW45ZUdjS1ZlSF81QVRTNTVBbnR0aVRFV2dWOWVLc085bWxtUkZ1cElTdnI?oc=5",
-      "published": "2026-10-14T20:24:51+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Democratic Holdouts Still Aren’t Committing to Trump’s School Choice Program",
-      "summary": "Democratic Holdouts Still Aren’t Committing to Trump’s School Choice Program Education Week",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzhNWjFCMzdPNGhnQlA3OFdRWDNXbVd2blQ0dnRUM0VsMVJ1eW5hbzdRRGxyRUowYmRfVkhnZTN5SXRVTGltcTdNeW5jR0lDVVYxbzlkcmZ2TWlUaFIxT0hwUVMwNVdkQVZ4eEl5OGMtNnVmRXBhdUpZTy0wRWlTeGtfa3A5NHZzclE0ZTBZdWlmRHg1amRIR2hCY3Z1eC14T3FmQ0ZYMWdJcXBDRUdVZzF1WE1RTFhZbGFfWnRB?oc=5",
-      "published": "2026-10-14T20:15:35+00:00",
-      "beats": [
         "Schools"
       ]
     }
