@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T19:03:47.700832+00:00",
+  "updated_at": "2026-10-17T21:37:21.376484+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "U.S. Floats Another Lifeline to Russia: Allowing It to Sell More Gas to Europe",
-      "summary": "U.S. Floats Another Lifeline to Russia: Allowing It to Sell More Gas to Europe The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IQ29DeWFfbUJIOEEzNlVuMzJUOXZKZ1l5bDBpUWsyQjV6SmpKYlNVczVEeHBWUWZYTFJNa2ZXWFhuRVlNZndWaHVsdWxXSEJnLXk3NmNMQkszdDhQcXJlT2lzekhpNmFEdjg0R1MzR2pnZ21VUU80?oc=5",
-      "published": "2026-10-17T18:00:45+00:00",
+      "title": "Half a million protesters sweep France in major show of youth unrest",
+      "summary": "Half a million protesters sweep France in major show of youth unrest CNN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2R3RzdVVXpmVnowVWlEeVJxSzVUQjVGOFF6eE8zT0tFZmJnWS1ZMWpWc24yVWJ0Z0VsbkRoN3pLMUxOY3QxU3EzTkpZRC1mSEdtYUJvaEw2NzBYZW1Wb2dPeGtrZnZYLVl6U1Q4ekNNRFBOZGM1cDl2aUdfMlBmbGdIOHR4emtwRGh6cjFXd0FvRF9RTVl6ZHZRakpvSVhxOTB3?oc=5",
+      "published": "2026-10-17T19:52:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress",
+      "summary": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress NBC News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
+      "published": "2026-10-17T18:54:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,39 +56,40 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+      "summary": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuR9IBkgFBVV95cUxNazg5ZWV5amlrcnpLZkZnaDd5SjZsSmdXbVBEQVFfYUdZdUIzX20wbHJMNk9JRWtjZkhqRk8xZlpvenVvNGtoRWVHU3ZhMk1PZE1lOXBjZDFoNjY5cDFaOFpOd2Q3SkdxWXFLVHhUSUNqdDhJeGxWRkhwRXpoTnNiZVU3eGZiSzRFb1BZWEJiSVU5Zw?oc=5",
+      "published": "2026-10-17T16:31:29+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Israeli settlers attack diplomats in West Bank one day after assault on Washington Post journalist",
-      "summary": "Israeli settlers attack diplomats in West Bank one day after assault on Washington Post journalist CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHA3VzJUTHlBV19vT0dtbmwyLUlEMHlRamJ6RkM5d3pubDRablB6Q1RtVDhnOC1aLTMtRC1lVDVXRjZDYTd0TXQwV3o2VzFYM2VQeURfZlRjUll6U2RId2ZrZ3VScmtlRDhyNjJ4Njd5NjhXbXl3VndsRURBa3p4cA?oc=5",
-      "published": "2026-10-17T16:26:16+00:00",
+      "title": "A grad student said he became ill after noticing an odd taste in his water. His coworkers may have helped crack the case",
+      "summary": "A grad student said he became ill after noticing an odd taste in his water. His coworkers may have helped crack the case CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FNEZ6V2pBczhLSTFUUHlTYVdTbUF0RGxUUHhEc2ZlRWFwQWpxT1dQOVlLblBrby1uOWZVNENQNGdjdS1HQ25kbEp1VUNkMWxocEdLRjQ1UmJIMDF1elZvc2xhMDdWT3Jvdksta3RqaVJmUQ?oc=5",
+      "published": "2026-10-17T16:00:44+00:00",
       "beats": [
-        "Business"
+        "Business",
+        "Schools"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-      "summary": "Pope Leo XIV leaves hospital days after lung cancer surgery NPR",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmJUVFhZUk5DeVlTQXg4OXp0Ym9IQzlJSDJfeXhWMHg4ZXlQSHE1QnVVOGhaQ2UwSEhwWVRpTUp2Y3RIRy1zOW52MHUzdFR5UDVFU0lJOHJ3MzBLb0pwdjF3QWYwYzhhUHFzWDJIRi1BZ1BIM29VRmdJQWw3MzN5UEZaQ2lydDJMSTdhandOd21OSFlqbUNDLWhWSzl5c0dtVUJ5bGwwOA?oc=5",
-      "published": "2026-10-17T15:10:14+00:00",
+      "title": "Scuffles and fires break out as protesters rally across France, joining students",
+      "summary": "Scuffles and fires break out as protesters rally across France, joining students NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CbF9jMUNLZGhaWUhMUzBVUU1qMUg3NE9LYklxNVp2U2taYTBvNUdyQ0tmRVlySEozSEo4WlZnYm5KLS16YlVlaGo0SGlOdjUtdjh6TFJrWWF0QWhQS0laYkNHYUYta3I5M0N4a0FmbHhxcmI3b2Jj?oc=5",
+      "published": "2026-10-17T15:57:40+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Elon’s gone from friend to foe in Ukraine",
-      "summary": "Elon’s gone from friend to foe in Ukraine CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDZzTVBpeHhfYTV3MGMtbDk5OTV5THBPTkNpazJTQWJjTDI5ellwcGhhaGswX3dwZjFqVXg5OFpfbEhndlpLZ3F3UzMwM3hYSUpIZTl6dDhXMlNHMjRIdUJzNzhMVkhicW9XVTlVUnhza1g5VUM5V3hIVkpGQWR0dHlEVHlmOUNwMHZ3?oc=5",
-      "published": "2026-10-17T15:07:22+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -108,36 +121,12 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-      "summary": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGlXT2s5c3VlRzBXQUFPTzJPekJkOUNUdTkyYlBCNkZva2ZFVWxCQkhjU1Q0U0pNRzJ5Wmt0cTI3MFBuTWRiSTNwOGJmOUZLeG4tZjQwOWpnRmJLYVhkVWZYdXFMZTRKWVR6RDlRWmVfR2Rzd19qQkFfSnlzTmR4bHZ6cGJuc1FDWUdrTnlFNEk1enNC0gGaAUFVX3lxTFB2YXgwa0FkdG9KS1VtUUNSNVZoQWplZU9TZ19VWTNRYmREVC1vbXpVaDV2NkVlZ0pKb1NFOWt4VDNsWWlYM0lIMThTOVZwRXVRZ0w0WG94al9yWEdpY1hKTXd2YmNQWmo5Q2tKajJYSHVJYzM5cUZnUWdzNEQ0bTFTSlRUalRtcElYb2dyWTRfekNrbnR0a3QtSUE?oc=5",
-      "published": "2026-10-17T13:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
       "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
       "summary": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO CNBC",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFl2aE8xUUxSZjlhZWhuMFpBMWdyeUhCaEJiZF84RnlvNGp0d2stQTJ2LXB3TFpHSklWYzZTUDQ4dGV1TVpvMEdJTWNlV29aWnlIX0VicGo5TFNKTXBiQUJadjJmZGFwVm1CZUJlTUlhUFRBZG02amsxT0JSNWpTVUN4ekpFck9uX2ROWXRxWnFDM1lB0gGaAUFVX3lxTE1Hamt5QTRYaWZuYzRySkVoMUJMQTRSR3NwYzJFb3lxY1k5V2l5enRiZjNMYlNhMDlEYTdFdV9oQ19idExvajZhV1gtNm5QdUt1cnl0dVQwYnlyOXh5OTdmOXNaZ3RnQWhHYlB4aW9Ld0hRYjJRdFFMcENSZndvalpuQ2hDUG14cFZ4WkVZZjdQcHFaTDBPOENjYlE?oc=5",
       "published": "2026-10-17T12:46:21+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress",
-      "summary": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress NBC News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
-      "published": "2026-10-17T11:59:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -150,6 +139,30 @@
       "published": "2026-10-17T11:43:15+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Trump’s Bubble Is About to Burst",
+      "summary": "Opinion | Trump’s Bubble Is About to Burst The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnF5ZXJOUVZ4RW9GMzJHbjFMLU9uZmdvMV9kR0pCMWRoeVlNQXhuUDYxak5jSTVDZHE2RUx0RkNhdlRJR1BMT0pCcWpsdkZLTlJtX0RzZDR6QVlfX1pBcGltOVVWUXRDWFhsRzA1NUdMTGstZzBJNkZZQVhleFJMbHlOTms5blV0YTlUYQ?oc=5",
+      "published": "2026-10-17T11:00:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Why I Canceled Russian Culture for Myself",
+      "summary": "Opinion | Why I Canceled Russian Culture for Myself The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00SHBDNl82eU5MMF81ZlhzVFZLMy1wU1RoSnluMDJ5RUo3NzVmVlhXWXpMenI4eHhPMFB3OHRXQkt2Q2dXcGxFLUc1X2lNM01CRXJRalNOcUI4OU9LZm9ZMXpRT3N0UW45VTB4SS13U2pGZzhCejUwSDlDdw?oc=5",
+      "published": "2026-10-17T11:00:08+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -214,6 +227,18 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Supportive Christian father shares how his trans daughter taught him \"unconditional love\"",
+      "summary": "Supportive Christian father shares how his trans daughter taught him \"unconditional love\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeVVPOHhkaUN2ZHVyMy0tZFR6TnJKYXR5c0ZfaWs3WUVBYnBRMms5U0dBMXVuSi1PeGtzVGZuQXlLZGhvbXBnYUF1MDB3U2FIVzV2ZlV0Z3VhNm81YksyeG1uRzd1eXBWcW9nZldua1BEUDFzalQtSjE0cVZnVDhLN3hWUU01SW9aNWtxS1VzdEhCQkNOVWNoS2dwWDBINWdJOUg0TnRCeUowOHljdDBNeDdwdk04bTZDWDYwQU9YWHBmZw?oc=5",
+      "published": "2026-10-16T19:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -241,22 +266,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-      "summary": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-      "published": "2026-10-16T09:22:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Why Is No One Doing Anything About Affordability?",
-      "summary": "Opinion | Why Is No One Doing Anything About Affordability? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWMxSFE0R2VzSFRZTXA4ZDBPSmNWQnIwalQ3Tmo3MDFrLTZfQ2FlZ1l3SGRQV05QTlJITE02dlN2X3ZDdllZME4wakVUazBvdEpRTFVvMkE4WXpYSDBBZ09kblpEMWFQTk1iMUNsRWNWQ3l4Q2pjQkJjbEFQZXNhWVpBVmZXSGZmU3Rv?oc=5",
-      "published": "2026-10-16T09:02:24+00:00",
+      "title": "Trump says Ukraine resuming strikes on Russian oil sites is a ‘disgrace’",
+      "summary": "Trump says Ukraine resuming strikes on Russian oil sites is a ‘disgrace’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEFfQWYwNDJvOGJDQV9ZeTF3OVdKTnJUUWVNOXJhbkxsd0laMllFRWhOWTQtNkJMOWhjR3pMb1I0dG9jOHp0V0FZUFdza3hIVkljNXNuWmlzdTQzcTgyVEhvNEFaUlc4QjMwWHNfQTRta3paWUF0Ukgxa00xVkdHYVRTNGtnczlpdkRNbjJuWllIUjNOakhwU2lna2xZbVRyZWs1WEd1eXlDQmt1U0Q0?oc=5",
+      "published": "2026-10-16T12:17:37+00:00",
       "beats": [
         "Politics"
       ]
@@ -370,18 +383,6 @@
       "published": "2026-10-15T21:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Judge finds Elon Musk, Kristi Noem engaged in premeditated campaign to smear ex-FEMA official",
-      "summary": "Judge finds Elon Musk, Kristi Noem engaged in premeditated campaign to smear ex-FEMA official CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYjRDMU5JeUMzc2JGTWppcTNya3BvYTJkZGJYdl9HQkd4SHlJQldxaTdMTnlibWpRV0lmMDhuOEpaNmpSVkg2d3NpZi1JZmE2eTBsdXNkRWdneE11QXVGdDZHVG5tQUMxdHVpdDN5YVkwd2N2ZVRGSzA2YjV2NnlfMmhMNA?oc=5",
-      "published": "2026-10-15T20:25:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
