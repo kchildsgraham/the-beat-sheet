@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:53:17.434224+00:00",
+  "updated_at": "2026-10-17T19:03:47.700832+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,54 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Floats Another Lifeline to Russia: Allowing It to Sell More Gas to Europe",
+      "summary": "U.S. Floats Another Lifeline to Russia: Allowing It to Sell More Gas to Europe The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IQ29DeWFfbUJIOEEzNlVuMzJUOXZKZ1l5bDBpUWsyQjV6SmpKYlNVczVEeHBWUWZYTFJNa2ZXWFhuRVlNZndWaHVsdWxXSEJnLXk3NmNMQkszdDhQcXJlT2lzekhpNmFEdjg0R1MzR2pnZ21VUU80?oc=5",
+      "published": "2026-10-17T18:00:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Fourth-grader recounts Oregon school shooting",
+      "summary": "Fourth-grader recounts Oregon school shooting CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHBMU3h5UGotc3pHd09HM25tQWV6TktlM3dxTGxyLVNGd0tUbU11R1hfSHhfWG1qSl9LZUR4TzI1V1J5VjhUNHRJdDEyQ1dNeDVyUTdYM0lqUmxlRUVrSzdVZFNvcWdOek52c0ZsVTA1YkNCd2Z6d0hrWUFrN20zZjczazBuNEdBcFdzelMwWnYwQUVT?oc=5",
+      "published": "2026-10-17T17:23:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Israeli settlers attack diplomats in West Bank one day after assault on Washington Post journalist",
+      "summary": "Israeli settlers attack diplomats in West Bank one day after assault on Washington Post journalist CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHA3VzJUTHlBV19vT0dtbmwyLUlEMHlRamJ6RkM5d3pubDRablB6Q1RtVDhnOC1aLTMtRC1lVDVXRjZDYTd0TXQwV3o2VzFYM2VQeURfZlRjUll6U2RId2ZrZ3VScmtlRDhyNjJ4Njd5NjhXbXl3VndsRURBa3p4cA?oc=5",
+      "published": "2026-10-17T16:26:16+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+      "summary": "Pope Leo XIV leaves hospital days after lung cancer surgery NPR",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmJUVFhZUk5DeVlTQXg4OXp0Ym9IQzlJSDJfeXhWMHg4ZXlQSHE1QnVVOGhaQ2UwSEhwWVRpTUp2Y3RIRy1zOW52MHUzdFR5UDVFU0lJOHJ3MzBLb0pwdjF3QWYwYzhhUHFzWDJIRi1BZ1BIM29VRmdJQWw3MzN5UEZaQ2lydDJMSTdhandOd21OSFlqbUNDLWhWSzl5c0dtVUJ5bGwwOA?oc=5",
+      "published": "2026-10-17T15:10:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -44,18 +92,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump administration seeks to remove judge in golf course case, accusing her of ‘egregious’ behavior",
-      "summary": "Trump administration seeks to remove judge in golf course case, accusing her of ‘egregious’ behavior CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1scUM4V1dDanhPazdaSFhORFlKT3V1ZXdUcHpMR3dMSENzOE5qNVZQWjVVWWZtSDZqV1JTUjRjZ3c0OU5oXy1FOUdLT2xwdll1OHBqZS0xcFgyeVBxMkNaQ0hxVkJWWUVwdkU1UVc4aEpRTU41eHc?oc=5",
-      "published": "2026-10-17T14:17:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -72,36 +108,24 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-      "summary": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFl2aE8xUUxSZjlhZWhuMFpBMWdyeUhCaEJiZF84RnlvNGp0d2stQTJ2LXB3TFpHSklWYzZTUDQ4dGV1TVpvMEdJTWNlV29aWnlIX0VicGo5TFNKTXBiQUJadjJmZGFwVm1CZUJlTUlhUFRBZG02amsxT0JSNWpTVUN4ekpFck9uX2ROWXRxWnFDM1lB0gGaAUFVX3lxTE1Hamt5QTRYaWZuYzRySkVoMUJMQTRSR3NwYzJFb3lxY1k5V2l5enRiZjNMYlNhMDlEYTdFdV9oQ19idExvajZhV1gtNm5QdUt1cnl0dVQwYnlyOXh5OTdmOXNaZ3RnQWhHYlB4aW9Ld0hRYjJRdFFMcENSZndvalpuQ2hDUG14cFZ4WkVZZjdQcHFaTDBPOENjYlE?oc=5",
-      "published": "2026-10-17T12:46:21+00:00",
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "summary": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGlXT2s5c3VlRzBXQUFPTzJPekJkOUNUdTkyYlBCNkZva2ZFVWxCQkhjU1Q0U0pNRzJ5Wmt0cTI3MFBuTWRiSTNwOGJmOUZLeG4tZjQwOWpnRmJLYVhkVWZYdXFMZTRKWVR6RDlRWmVfR2Rzd19qQkFfSnlzTmR4bHZ6cGJuc1FDWUdrTnlFNEk1enNC0gGaAUFVX3lxTFB2YXgwa0FkdG9KS1VtUUNSNVZoQWplZU9TZ19VWTNRYmREVC1vbXpVaDV2NkVlZ0pKb1NFOWt4VDNsWWlYM0lIMThTOVZwRXVRZ0w0WG94al9yWEdpY1hKTXd2YmNQWmo5Q2tKajJYSHVJYzM5cUZnUWdzNEQ0bTFTSlRUalRtcElYb2dyWTRfekNrbnR0a3QtSUE?oc=5",
+      "published": "2026-10-17T13:00:01+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Tear gas, clashes hit French cities in cost-of-living protests",
-      "summary": "Tear gas, clashes hit French cities in cost-of-living protests CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDlTS0VyMXJ2V0FyWUhYdzdPbUxiVUFrOTl1X3BwNERGU2FVTVQzSHZkVFFVdWtSZ2VrVjV6REJTN1Frem9sS3NzSjZmeEtpYm01T3c3djZUZlNOQ00zWXRDZ2tIZlczejFueGRVdk5hai1neFFtRnU5Q0I5Qk1QdVk2akJ3Mk5pSzZ1UTQ5ZUt3NFB3UlAxYTZQUzZ1VS1xTndwbm95NWFyVGfSAbABQVVfeXFMTlJkWHNlZ2dFelFLTGF5bWFSampxZGlnWXlvaEU2b1o4MjhOeTdERjFzbnVvUEZsbERBd3hzQU1yWUtRWTVXOV9WalZWSVM3ZjJuSlc2Xy1yY19QZEVRNXhDSDh4c3Z1Q2t1U3doUHNZV1FudjBGTWVqSTJ4OUF3dkh1NjR0YjM0dGpDR3BMWkdKejF4NklfQzBiNmlzc0NuV3dPYUNLRURHaUtrd2Q0dG0?oc=5",
-      "published": "2026-10-17T12:29:39+00:00",
+      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "summary": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFl2aE8xUUxSZjlhZWhuMFpBMWdyeUhCaEJiZF84RnlvNGp0d2stQTJ2LXB3TFpHSklWYzZTUDQ4dGV1TVpvMEdJTWNlV29aWnlIX0VicGo5TFNKTXBiQUJadjJmZGFwVm1CZUJlTUlhUFRBZG02amsxT0JSNWpTVUN4ekpFck9uX2ROWXRxWnFDM1lB0gGaAUFVX3lxTE1Hamt5QTRYaWZuYzRySkVoMUJMQTRSR3NwYzJFb3lxY1k5V2l5enRiZjNMYlNhMDlEYTdFdV9oQ19idExvajZhV1gtNm5QdUt1cnl0dVQwYnlyOXh5OTdmOXNaZ3RnQWhHYlB4aW9Ld0hRYjJRdFFMcENSZndvalpuQ2hDUG14cFZ4WkVZZjdQcHFaTDBPOENjYlE?oc=5",
+      "published": "2026-10-17T12:46:21+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Perspective: Midterm money madness",
-      "summary": "Perspective: Midterm money madness NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTh5LTVFLXo3U3FnSHk1eG1FQ3VDZmczOFVZRmtFOXRBOWtLcEVrMHQ3cktKRFp2RXZTekVyS1ZUb2dkRmE0SzdqNS1tSjFTd2xkNjRxMjhSRWxwX2RhOWZrbGZvYkN1UGg3WTVEREh0SVh0SmtpNUhvQTU0alI3NTJ5YlU?oc=5",
-      "published": "2026-10-17T12:00:00+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -129,25 +153,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Why the Katie Zacharia debacle is a huge embarrassment for Trump and his White House",
-      "summary": "Why the Katie Zacharia debacle is a huge embarrassment for Trump and his White House CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LdDZFZ09ZaElfeVVaXzZuZS1xYmFac3dvM0ZXc2RUR2pRcjgwMGVmX3VhbEtIRlBWd0FtTUhzQXV2SGo2LXJvNjEyV21vTkJneVZHWEFNWWFkeDl5cHBzeDZleU53T3BYbWUtLXNlaWVlbTI5Q0w0Zg?oc=5",
-      "published": "2026-10-17T10:30:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Weak Links Start to Show in A.I. Borrowing",
       "summary": "Weak Links Start to Show in A.I. Borrowing The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG5jQ0JtclR4S2w1dzdJeFNQWmdXLTlwaDJ0SWhseFFKTHdUb2tHaHIzd0R4cEhobmFjV21TRXVDdS1HeUVGZm5RbDRCcGRMYlhCMnB0QkYzV3FrX2hhLXB2X0lnSUI3c2QzQWpTREdxLVRaUjVfOEtHQ2VrMlZrV0c5VHNTNjV0OVE?oc=5",
-      "published": "2026-10-17T09:00:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1ZwVmdzNVhGMmhfZnBhbUkxMUNmbmJ5c3Rmb28yMWVrelJhbmhIR2NwMC15cm9xc1Mxd3JBU3VGa183TjBoS1ZWN3pEQkNyQXFzdzBOWFpPTmktUWJnMmpaVGJSdWljdUVKZzNHMkw2X3ZrSmxxdmlxWXRVdW5mVEpJaTBWTTJTNGFPVUxhTzdGSUU?oc=5",
+      "published": "2026-10-17T09:00:51+00:00",
       "beats": [
         "Politics"
       ]
@@ -229,10 +241,10 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Trump says Ukraine resuming strikes on Russian oil sites is a ‘disgrace’",
-      "summary": "Trump says Ukraine resuming strikes on Russian oil sites is a ‘disgrace’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEFfQWYwNDJvOGJDQV9ZeTF3OVdKTnJUUWVNOXJhbkxsd0laMllFRWhOWTQtNkJMOWhjR3pMb1I0dG9jOHp0V0FZUFdza3hIVkljNXNuWmlzdTQzcTgyVEhvNEFaUlc4QjMwWHNfQTRta3paWUF0Ukgxa00xVkdHYVRTNGtnczlpdkRNbjJuWllIUjNOakhwU2lna2xZbVRyZWs1WEd1eXlDQmt1U0Q0?oc=5",
-      "published": "2026-10-16T12:17:37+00:00",
+      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
+      "summary": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
+      "published": "2026-10-16T09:22:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -308,18 +320,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
-      "summary": "Netflix Replaces Bela Bajaria as Chief Content Officer The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVm5MX3ZoM20tR3diNlhNbkFZVGozdnM1VGxJS0dSVmRCbXhoR1FHOGx6akl1VF9UVUZacWRlbEFCbWd4VUVvUVNjM3ViTERNWGswUmtFM1pCMGluRWhOai0wcktCN2duMmZlR0QtNlRkVE9uVVZ4QVVSdkgwVnp3MWVEQi1nemprYTdkc0ZPWQ?oc=5",
-      "published": "2026-10-15T21:57:11+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
