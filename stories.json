@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T03:33:09.253259+00:00",
+  "updated_at": "2026-10-18T08:39:26.869113+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Boy and man killed, 10 injured after woman drives through youth soccer game in Wichita, Kansas",
-      "summary": "Boy and man killed, 10 injured after woman drives through youth soccer game in Wichita, Kansas NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZlBhSnIwQ0pGeWxqR29oT0Jya1hhS3pfWFg0RDdTcHUxVVptYXVsMlBRRUJnaWw1OUtlMXdicFVqVzJqTlctNE1IaGVmUHBNQXZvVFF5VjBlWnpOSUZQSmlydUFrYUNsYkpMOUN3cnpxYVFLWUR4Yl8xNlNuemg5NnZoQ1JveGNtNUdNaHZVN1NIcDA?oc=5",
-      "published": "2026-10-18T00:09:00+00:00",
+      "title": "Why hedge funds could be making a bond market shock more likely",
+      "summary": "Why hedge funds could be making a bond market shock more likely CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DUTlkcUxEOFoxN253NlFTZUN1WVhtN1FEWXRwaDBxLWJ0RHFEUW9EejB6bFpGT0Y0OXZ4aEk1eHV6S1J2WU1BUGlmNTd3aUFYeERqTGVMZ0gwbUhuQjJkVXloRlZxVjRJbmtFUUQ2MlUtd04xSHNJ0gF8QVVfeXFMTzFINVFLSkU5alRoYklkbk5KRS1sZEdJaGZaRmxDR0RhZnl0OGFSLVZZTkRHZV9MejRIaWNUdVUwR2R2cWJhdWdUYkttOURTUzByRzVsZXR6dk52OWw3dzFTTk9IX3NKMVNiM0RKMlo4ZHpqbWJwZ3Eyc3FLOA?oc=5",
+      "published": "2026-10-18T05:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Deadly fire breaks out after ‘serious incident’ at Canada military base",
+      "summary": "Deadly fire breaks out after ‘serious incident’ at Canada military base CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmNxaS1EYjcyUG12ZC0zQ1A0VndXX0d4UER5dWxkMVVucEdEdFp2NXM2S0ZsVm1kbFZoc1l1QTdjTHNCOXJLQ0NxUWpmVk9yeGNZM2lGdTVDVm16WUxRUzRqc0ZjTFZnMWI2akFjQXVPaU9nOTd3R2ZuX21WeDM2N0VQOTJQQmJjSDA3SGJJUWphb3c?oc=5",
+      "published": "2026-10-18T02:44:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +47,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Indiana’s first loss in almost 2 years shows Hoosiers a new, painful side to being in college football’s top tier",
-      "summary": "Indiana’s first loss in almost 2 years shows Hoosiers a new, painful side to being in college football’s top tier CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZblU2N0syVnU3MGg4V1ZVZnlpU25TRFkzNTE2WmJzREM4NFcwTlRTSWRnd0R4MHN4Q3Fmd0FjWW9COTJHMU1YcmtBQWJ0V0o4SEFLOGxfbXJmTjBEalRiZFplSEk0eVVkR29XVk14b2VhUQ?oc=5",
-      "published": "2026-10-17T23:37:23+00:00",
+      "title": "Abdul El-Sayed disavows Muslim Brotherhood and criticizes implications that he has ‘dual loyalty’",
+      "summary": "Abdul El-Sayed disavows Muslim Brotherhood and criticizes implications that he has ‘dual loyalty’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzc09kZjdBa3pkZnlzSG9fdi1EdzFPQXdvX3owd1JYSndpX0pBbTMtcHJ3SVBKRFl1T3RNLU9PaW9BbFJkZF9CS2NjbUNCTUlwTklxX2R4dG54elBKWW51eVBReHhaU0ZPc2hfSXhwQ1ZaTS1FZEs4ZEkwc0NSZw?oc=5",
+      "published": "2026-10-18T02:16:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Final plans for 250-foot triumphal arch omit Trump’s idea for military complex",
-      "summary": "Final plans for 250-foot triumphal arch omit Trump’s idea for military complex CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGZXUW8wVThpSXVzNlo2U1o5MmJ3ZF9jMWZwNklEa1dSeUVjZUZNRmlRUk5NTDYxaS1LcHd0UEVrOEJzMFNLZmt5b3NFRkhKWDV6QUIwOVk3UTJUY0E5bHplUzJ0djhILS1uUVlDMFNHTEJVZmVfVjE4ZGFEendCRWZCRDRISU01aG5ORlNB?oc=5",
-      "published": "2026-10-17T23:16:01+00:00",
+      "title": "Trump waives more Russia sanctions as feud with Zelensky deepens",
+      "summary": "Trump waives more Russia sanctions as feud with Zelensky deepens CNN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNzblp1aHJpeHBMcXZNaVIyUG5RdmRRQUF2dTgxbFZxNUNPcXZUS1dHSldndnd3eWltTzNIN0tHdDA5RnFuYVphYzRPODFRRlR4QWY4Vkk5eE9wNjVzN2NIM0Q4b0NhOWZpUjRPdzM3ZWNJUHJEUm9LWlBqbUlnWWFycEtSb3ZGcUt5MGhQZXplNktSWDFnbU1pRWJFOXlia3BFdHdhNUN3SWNuUXg0?oc=5",
+      "published": "2026-10-18T01:04:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,13 +80,26 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex",
-      "summary": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaY0lMYUgxazF0Yk04cWxLeEFNX29xWDY3WkJXbWV2QzVEOUc0VkN0bF9OOFFXRE5sSG91RDhOUFU5dklfOVhCYVN1XzQwMU40SjlqRHh5LXR4WXA3YVdOeHJ5QjRfRzR3eFpJdVFBM0ZYWDd5ckVUNnJ3?oc=5",
-      "published": "2026-10-17T21:55:50+00:00",
+      "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+      "summary": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting NPR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVU4R3o1eTBCTVpBWGV1T3NvVWNfbU8yY1JuazJLS3lUTUhUclhwZW5kbGFJSWNseEstQkd6RjF3TEg2d2N4UGhZT29mYXBRczhLaS14Ry1DdnFZVFhoVVU4a2JmN3VOal9LajNaTjVSUmNuVE1JV2JrenVmeGFUYXNhSzNCVlc0WjhhQUcwSERnSm1IMWg3Z2lOdHNDYno4UkFYOHNFUWJmVHFwZW9oeEFkblkyWjBIVGJGOQ?oc=5",
+      "published": "2026-10-17T22:45:25+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Biking along the Great American Rail-Trail",
+      "summary": "Biking along the Great American Rail-Trail NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHBjVnBjRE5oUVI3NS05b2R0cTdITjdOLXFFU1dhYnF2TW00c281dzRoa1pHQWpCZmUtVzJDSkZTc1Z5UzE1bmFhVDlGWFBmR3lDOUFvLTRETk9KNHIweVdaOEJXaTJ1Q1NHa3h4YXpjVGJLMWVTYXNyUGZNaVFYVG1RaDdQVUdEeG5Ia2FWTmc?oc=5",
+      "published": "2026-10-17T21:18:48+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,18 +129,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-      "summary": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuR9IBkgFBVV95cUxNazg5ZWV5amlrcnpLZkZnaDd5SjZsSmdXbVBEQVFfYUdZdUIzX20wbHJMNk9JRWtjZkhqRk8xZlpvenVvNGtoRWVHU3ZhMk1PZE1lOXBjZDFoNjY5cDFaOFpOd2Q3SkdxWXFLVHhUSUNqdDhJeGxWRkhwRXpoTnNiZVU3eGZiSzRFb1BZWEJiSVU5Zw?oc=5",
-      "published": "2026-10-17T16:31:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -123,6 +136,30 @@
       "summary": "These gay handymen and mechanics have our engines revving Queerty",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2RpZERWRTcyTzJuanBKT3B5aTB1eUFPVEhyejFNTkpiRjhOMDVKWFNSYk1pTFVCNVhLamJGOTVVclM3MXhfWnk0emszLU5DaGRNaG1LS2hKNWZ0bkpKNUtCSkFUM09hNGxlRXBvcTlHNzR0UEdXQVlVSURpYmE2X3U3ODMxRGxrZEloaU5LNGNMbUVVOHc?oc=5",
       "published": "2026-10-17T16:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Scuffles and fires break out as protesters rally across France, joining students",
+      "summary": "Scuffles and fires break out as protesters rally across France, joining students NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CbF9jMUNLZGhaWUhMUzBVUU1qMUg3NE9LYklxNVp2U2taYTBvNUdyQ0tmRVlySEozSEo4WlZnYm5KLS16YlVlaGo0SGlOdjUtdjh6TFJrWWF0QWhQS0laYkNHYUYta3I5M0N4a0FmbHhxcmI3b2Jj?oc=5",
+      "published": "2026-10-17T15:57:40+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Queerty Crossword: Oct. 17, 2026",
+      "summary": "Queerty Crossword: Oct. 17, 2026 Queerty",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JQ3FkMFJGTndzdndtQ0JocDhYYmlyN3Rnd0l4V0E4ZVViN2h6cWktVVd4aWlsc3prak51OGJFbVR1ckZUdHZwYlFibEQtSkpTTmNERTFHWXFTdkVjLWFkZk9mZFpvRjh0RU1hT1I0cWw?oc=5",
+      "published": "2026-10-17T14:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -143,34 +180,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | Trump’s Bubble Is About to Burst",
-      "summary": "Opinion | Trump’s Bubble Is About to Burst The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnF5ZXJOUVZ4RW9GMzJHbjFMLU9uZmdvMV9kR0pCMWRoeVlNQXhuUDYxak5jSTVDZHE2RUx0RkNhdlRJR1BMT0pCcWpsdkZLTlJtX0RzZDR6QVlfX1pBcGltOVVWUXRDWFhsRzA1NUdMTGstZzBJNkZZQVhleFJMbHlOTms5blV0YTlUYQ?oc=5",
-      "published": "2026-10-17T11:00:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Weak Links Start to Show in A.I. Borrowing",
-      "summary": "Weak Links Start to Show in A.I. Borrowing The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1ZwVmdzNVhGMmhfZnBhbUkxMUNmbmJ5c3Rmb28yMWVrelJhbmhIR2NwMC15cm9xc1Mxd3JBU3VGa183TjBoS1ZWN3pEQkNyQXFzdzBOWFpPTmktUWJnMmpaVGJSdWljdUVKZzNHMkw2X3ZrSmxxdmlxWXRVdW5mVEpJaTBWTTJTNGFPVUxhTzdGSUU?oc=5",
-      "published": "2026-10-17T09:00:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "No Kings draws crowds with focus on early voting",
-      "summary": "No Kings draws crowds with focus on early voting NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85N0l0dEhoV09xcDdkS2EtM3c3dEh3ZzR5dDcyQXI4SlVwc2ZWcEY0alpBMW8wUDdTaUx2dFRGQm5wY3VFdm5YRE93a2c4RTIyUjZTNl9Wb1FqQUk2cVZDWG54YkxsV3MwMjdhZUZHaXJSMV9K?oc=5",
-      "published": "2026-10-17T09:00:00+00:00",
+      "title": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary",
+      "summary": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjJDR0lGSmU4c2swYVpvb3p4T3dOODdlU2E3ai1MS0FQOE52dlBIU0M0LXhPMlA0X3M0MHRsZWhXdGk5dEhzcTVCN1hmS21YWm5Zb01MWGl6R0YxdXVDMXhrblVSY25JeHU0T19oSmxIMThreG5iZ21jM3NGT0V2MlhKOWNQcDVBT0JvZnZyYndzMzBOOVlF?oc=5",
+      "published": "2026-10-17T09:02:12+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,15 +201,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Which trashy movie or TV show is your guilty pleasure & why?",
-      "summary": "Which trashy movie or TV show is your guilty pleasure & why? Queerty",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanl2dzA3R1BuanBLZm5hM1pyZVVWMFNvYXRoa29pV2oxZEhiRTF2U1RfYktTMVRjbWlkN2xTVWxqb0tvaHozaXNzeTBpMVpfM21FTkhSV0pSX0pCdF90c01uVGJCTEtKbVBWSEJ2cnQtV1N0eVpJczRPMlg1ZnlfRUd2UF8zU3RxQ3NpOUpKWnRUSVJpUWc?oc=5",
-      "published": "2026-10-17T00:00:00+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Trump Signs Order Exempting Russia From Sanctions Law",
+      "summary": "Trump Signs Order Exempting Russia From Sanctions Law The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5",
+      "published": "2026-10-17T01:55:30+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -225,6 +238,18 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Supportive Christian father shares how his trans daughter taught him \"unconditional love\"",
+      "summary": "Supportive Christian father shares how his trans daughter taught him \"unconditional love\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeVVPOHhkaUN2ZHVyMy0tZFR6TnJKYXR5c0ZfaWs3WUVBYnBRMms5U0dBMXVuSi1PeGtzVGZuQXlLZGhvbXBnYUF1MDB3U2FIVzV2ZlV0Z3VhNm81YksyeG1uRzd1eXBWcW9nZldua1BEUDFzalQtSjE0cVZnVDhLN3hWUU01SW9aNWtxS1VzdEhCQkNOVWNoS2dwWDBINWdJOUg0TnRCeUowOHljdDBNeDdwdk04bTZDWDYwQU9YWHBmZw?oc=5",
+      "published": "2026-10-16T19:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -232,18 +257,6 @@
       "summary": "Decades-old snapping turtle dies after kids \"bludgeoned\" him with stones, Pennsylvania rescue says CBS News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZENtVUhLY2NKOWFkd0kwYU5HN3FwVldwWE5uS2RXQjVhU1VOeUNGUWQ2dTAzTE1QUVBoUExUWTdCZzRoSkl6U2RTdjhhYW1McXRRallnV1hybWtKNTlLVS1KbVVJZGhURDlaSzFNRmhGN0liUGpTUmRMQ2ROY2QxVHQzazJ3d3JZQ0hwb21FQQ?oc=5",
       "published": "2026-10-16T19:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
-      "summary": "Katie Zacharia is 'transitioning out' as press secretary, White House says NPR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkRzUk1FdTJneVZPR19yNktsbXl0YVJ4bFpFUVBEaE9BdnZhd293SUxnN004cHJSTXpqT3RmSGl1SGpLQWNRMTZwT3F5NHVZeU5Sb1JlMkstRXBWVVZxQWFyOTd6SjM5R2x6aU5uOEgzcWI0SzQ1LWZhMng3S3h1QVljNVNybUdRYTZlM0M0aHhPQVU?oc=5",
-      "published": "2026-10-16T18:08:33+00:00",
       "beats": [
         "Politics"
       ]
@@ -333,6 +346,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Brazil’s Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias",
+      "summary": "Brazil’s Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHZOc0RNeUluOGc5MFYwTWs2LWhkLXo0a2RTcDYzVnZzdjEyT0poTllheUZCT3h6emxjdFdobUJkN0cyYXlaZlBMbE9LUjdaZFZBY3FjUVhrcFhFQ3hPZXY4WlpIVGZOVDEyQ2VKUG5qMUJUSjlvQ2ZJUlhZUlpBdEp2bVo5N3pzRWRrcjdJQm5zemhEQ0RaWHJ2NFhvZ2JpS3JHdDl5X2N0OTMzcmJZT1ZrS1BxQldkSEZNcGNIaUFhWlU?oc=5",
+      "published": "2026-10-16T03:46:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -354,31 +379,6 @@
       "published": "2026-10-15T22:22:17+00:00",
       "beats": [
         "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Ohio school choice program ‘undermining’ public schools, state court rules",
-      "summary": "Ohio school choice program ‘undermining’ public schools, state court rules K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0VhblRMZ0JocEMwSEx0Q0E4cG84VkFUcHhxbUpVUTk0WkZUd1JoUW9zNTFlR0NiT2tDVmxuclZWdGl3U19uQkVYakVGZGhDSHRYTjlBeVpYbFBpUDdYbTUxaG10czlpVUpfSS14MjdGVnRDUUNqZEdwZUFSeXlKN3hpQlJNNmVOZXYxNEpqU3VXUjhCc2hrNi00blB1RThIZFZnS0R3Ym9kTXZZ?oc=5",
-      "published": "2026-10-15T21:38:39+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "3 children, 1 teacher killed in shooting at Bend, Oregon, elementary school; teen suspect dead",
-      "summary": "3 children, 1 teacher killed in shooting at Bend, Oregon, elementary school; teen suspect dead CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGEwbTB4OGtLYlVNWnpYQmh5TTRMMnE1QmtCdWRpeTZzdDdOaDJGWEF0ZHFuQ3RVNW9tZ1hfM0xsc3owbzJzd0Zkb1Zac0ptVmltN192ZVdhcTk2VnNFZFZNN2swTHRmU0ZBU3NvaFBMXzhmb0R2T3dOclF5MVRWeHRVY0FPbGpx?oc=5",
-      "published": "2026-10-15T21:05:00+00:00",
-      "beats": [
         "Schools"
       ]
     }
