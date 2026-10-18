@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:41:05.199035+00:00",
+  "updated_at": "2026-10-18T23:57:59.528967+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,37 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+      "summary": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
+      "published": "2026-10-18T23:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
       "summary": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDl0aUQzYnZTSy1WSWJVWmhjWHViby1VRnFxSjFwWWZGQk1CUjhCNlpPM3IxdXUzUnZIWlF5X1NBZ0traG1FZ2dfOVQ3SjhOU3pqcFpDME9zUzlhMjFReVhSaVZOUExTWVNSckNoVmpIUmZvVnUzdVVpSEJFQmdQUzJuRU1kZU0?oc=5",
-      "published": "2026-10-18T21:04:41+00:00",
+      "published": "2026-10-18T22:50:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
+      "summary": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUW9SNFdwd2NrazFkOFQ5UzNZdkhZUTlsZzJZdGV1RXBXNndfSGtpcnBtWGpsOXZOQi1VTXNqWDNrWmdaZzVUeURLYXhEX2NJelpoUnF0NGwyM09UZVo4WGNobEFyWF9mbjh6aTRVaThpYlh3b0FGQnJB?oc=5",
+      "published": "2026-10-18T20:20:55+00:00",
       "beats": [
         "Politics"
       ]
@@ -96,34 +120,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game",
-      "summary": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcExPM1ZFYnczTXdqMHFfNUpBTDkyM3BvTkE3Rmw2RFRTWGJWQ2tKX3g2VHBVWEFJNG5nYk9VQk45OTVHZWZmSy1taU5GdkoxUjBsUUFjd25JamNUUkFqMFhoeGljR1BYaGlUOXNFcjhMNV9Ub1J0NWVlT3BMU054dXdB?oc=5",
-      "published": "2026-10-18T15:34:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Exclusive interview with Maine Democratic Senate candidate Troy Jackson",
-      "summary": "Exclusive interview with Maine Democratic Senate candidate Troy Jackson CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXJPWUFTUXo3SDZYdERnRHlaaXI4aVB4NVFDWUdrRzA1THhvRDRQWG4tRXcxT3NudHY3NXppSVFFTGg5VUhHYW5JZFpMOU5DTE43SWVhVktvNFNBR3BsV29NWEZpN2FRZDIzWVBYX1JmMlpoUzZQXzhBTEd4ak5HeFVR?oc=5",
-      "published": "2026-10-18T15:05:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-      "summary": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbktXSXE4Y21XR1NVYUlvLURKVVExNlNOZkNfRzRzTmpBU2Z5MzZMaGNxV25LY0prMXI1Mm5qcklXMVVGNXZTRXd5NTZOaTR5WWIzOVA4RzJmWHVCR3dXdmJ2Q0pfbE5tYXFUNkJzWHFyMDVZZ2FSaVNucFBxcmQ0d9IBhgFBVV95cUxNR2ZNUENKSGl5ZWEySEYwVmZtTl8yc0xwNW5jMjByRzZic2toSVU4NDNHal9rZWhvUUI4S0dtS0xLUHJ2aTQ4YTVSYkFwcVpsaGV0amxOMWdvM2s4TFJ3d19sMDZ2YXJiU0ZVTXZjUk1zYl9qVzUxZGRGLXRHWWVJWlJPSUhBQQ?oc=5",
-      "published": "2026-10-18T14:37:36+00:00",
+      "title": "Buildings torched after protests descend into rioting across France",
+      "summary": "Buildings torched after protests descend into rioting across France CNN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUkxcG9NbVF4UmVVdGVob3dNbUZhQXZIMkVhNHRsNDJ5emxtQ2UxX05ocEFwZ1pJUGRtRTNuTlVsMWF2eklQNkkwS2g0eXQ5MkRyYnpUSXhWWHNKUTdEeGlYcUVLdm51YXIxbzM5VllsdUlzTGNoMFZaaVpKd0xXeEloVk1xbkNwUXR5cXRTdDNOZmVxVUFOUjZJb3NSdzNo?oc=5",
+      "published": "2026-10-18T15:37:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -144,10 +144,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect",
-      "summary": "Meta Platforms and Tesla are among the companies set to report next week. What to expect CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSXZwWHdvclVzQXBWMWFOOGZpa216a3FaTWtpdkdiSl9CZ18zdWNpdG8zdVVERWUzU1hidjRFZFZUTWx2YmRHbVhPdVVzYXhEdjR2ZldrdkdNbzRmSkhzVVAybkYyNTdlMU9semdzQVJOVk0zeC1BcnhKRFA?oc=5",
-      "published": "2026-10-18T12:41:18+00:00",
+      "title": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
+      "summary": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXBBYnlfdWF2OFpnTnE1ckNZOVhtWWt3Mk54MEtXOHBtdlJJRkFoX2NySElKWDBlcVpOcjMzdk9OVUFHbEFoMnpOa0pvcEs2SWdUZFlKVWtUWk1NY0w1M25EOHNDdEpFOW1aalpGalVValVvOXZGc1RJcjhZb2F0WjFBbldRQmw4WDNrS3pDWG85VVRGQlFsRkFETmJ2QdIBowFBVV95cUxQMTNGVDBJeHdwU1BzQlgyVU5RTDY5cHExTG1qZVdVV2VrZFUyazNLYzk3TXo2ZGduWGxELXhkNDd3c3pLTWx0TTJMa1h0cEQ2TXVTdEZTSG9jTkhnVFpxcVA3UDNrQXd6TktnTnM3LUZ1b3E0cnQ2ai11RmkzSkFQaGlWbHFtZUpwbGNBTE5WOEZPc0lZVGpmUDhvTGZHbjUzYU9v?oc=5",
+      "published": "2026-10-18T13:37:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -160,18 +160,6 @@
       "summary": "'From socialite to shopgirl': American Girl Samantha gets a new story NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXBhSmdRNTV0ank4bEY3ZHRyUUJlVDViRlQ4MUtkTDlzQ0FpekRsQ1hYVFpyV2JtSVlzdUppTUd2Tjl3VmhXbkRDZXEweGlUdkxULXBpRmFQc3I0amV1ZWlMMDJWdFIzSzB0Zld0TjFPcFRtU3p0RzNfTG9SeXMzR1dDczZmbnQ5eHc?oc=5",
       "published": "2026-10-18T11:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Anthropic wants outside input on Claude’s values. But who gets the final say?",
-      "summary": "Anthropic wants outside input on Claude’s values. But who gets the final say? NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5",
-      "published": "2026-10-18T09:30:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -196,7 +184,7 @@
       "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
       "summary": "Singing, Dancing and Getting Dumped by A.I. on Korean TV The New York Times",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbEdtcm9pNXNFU2h1dUxVN2c4NGVIM2o1OTZ1QXlDNXlLSWZkUnI0N2pObVVUWmRkajhieS1hT2s3dUk3WlFZekRYOU1CNE1SVHp2MkIyMHVpNS0xSW1OZ3ROUG5uN3dLbkhDMVpZR2RGcVRwSTVTbUotZw?oc=5",
-      "published": "2026-10-18T04:24:04+00:00",
+      "published": "2026-10-18T04:00:07+00:00",
       "beats": [
         "Politics"
       ]
@@ -221,6 +209,18 @@
       "summary": "Corey O’Brien’s back, Chris Appleton’s pump, & PJ McKay’s vacay Queerty",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDZIY2ZOUlFFc0lqWGpLakZhNzlNMkl5OGZPVlU5NTBmUFUxLURsVnhDU1FLbjItQkw0UHgteWRfTUZvYW11bHE2SEUtM3B0WEI2ekxscXRZNWVXbUZhNm5vdkoydE1JVktGd1JOaEg3eGNqQ2kzQkRybXJyYU9PT3pqbzJuNmZVbjhTSk1MM0VzajA?oc=5",
       "published": "2026-10-17T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Texas Democratic chair unloads on Ken Paxton: ‘If brains were dynamite, he couldn’t blow his nose’",
+      "summary": "Texas Democratic chair unloads on Ken Paxton: ‘If brains were dynamite, he couldn’t blow his nose’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZU9Bc0g0QkdaaFNGblZJcElrVjBQdXhpYVlCdGdHcHJGRVZLME9naXp1Q1lWN1ZUdFM0TmNhamEycjNGV1NhVGpvYXVXanlYdmdBN09fNk9PRnVNaDZYd3hMaTJ0WVRBanBJV3RqczRKeGhPc2oyVDlFNGVwR1IzdjZKcEllQUQzSWR0Mg?oc=5",
+      "published": "2026-10-17T16:55:14+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -274,19 +274,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut",
-      "summary": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWElzcDlYUVFxdU1GaFRZc1dSUHVUX2hyclhfcHJONEhPZGoyRHNJV3VnNlIxZ0h3WHk5UHNIS1NWN3pPTlRocElOVHJ0UmZBLW56WWVnb01heVhESko2VGo3UzFneXM0UDVudDkzbXpCaTlrSWdfUENJOFRyaTMzb0tFejU?oc=5",
-      "published": "2026-10-16T23:30:20+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -312,6 +299,18 @@
       ]
     },
     {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Puerto Rico Balks at Trump’s Proposal to Require English at Head Start Centers",
+      "summary": "Puerto Rico Balks at Trump’s Proposal to Require English at Head Start Centers Education Week",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUndWZmFxWVVtNE1yNUVWT3ktTDM3UHZzTHg3TFVvZTVMVTh0ZmlrTmhBQnF1b2lZRFlBNXhnemJ2MGVrdEs3dUNYUXM2NXBDdk9OV1NLUG9mWi02bmJUYndWQkRZenRtS3NhN1doTG1ySHRDNzAzeFlPSHVoZzUwckFpWTN0dkxXOFVSZFRTXzdfNXBXc2NRaUN0X1NQVGo2R0poWEh4b29xYmRjSFI1Z2VCVXJzemZyQnozTU8weFBrRmdO?oc=5",
+      "published": "2026-10-16T20:21:24+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -333,6 +332,18 @@
       "published": "2026-10-16T19:00:15+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "New York City college student dead after being drugged with fentanyl and raped in her dorm room, prosecutors say",
+      "summary": "New York City college student dead after being drugged with fentanyl and raped in her dorm room, prosecutors say NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVQ1aXBHYzRoWFo4aDV0enVlU3RseVNkbU4yM1Y5UFNNRTUxUDhGWXl6VjkyR1REOTlWMVFjaDNTY3gycVpSMm1zbndjY2tqRjdIU3VHcWVqLU1PTHZqdmJxLTBBS3NBSWdBV2VkWmF3cEFjSkRYRnN3YnZWQV84SXZENEswM2VKQ1gweWtESWpOS3l2VktyOWRfa1RLVlhubEdhVlkyeEpOQVBFUWU5cENERVc3WmdMeEE?oc=5",
+      "published": "2026-10-16T17:33:38+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -369,18 +380,6 @@
       "published": "2026-10-16T16:53:13+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Michigan District Seeks Early Childhood Curriculum; N.J. System Looking for Job-Embedded PD",
-      "summary": "Michigan District Seeks Early Childhood Curriculum; N.J. System Looking for Job-Embedded PD Education Week",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOE5rc3c5OGtfaXpWU1k2TkZhbk1zRzVPZ3BKZXpjelE5QjVJc3cwYjN3TnE4ZWlraU5PV0lnRUhPNEpKbjhXSWx5ekFyTDI0dDFaT0ZoM1dCMGllSlR6d3R1dUpidmUxYkRzcWpYYkVjSDQ4RDhWdS1vWTJTbXU3aXFBaTFCMUhmTHpSbE5pQVZBa1pFS0p0elotUFJLWENwQnFWLTVPZ0RzUS1ySmpQNlVBUkY0ZVFLdF9md050MkJFS19RLS1fcGI2QkxuaW5KZzRSdXZoQWZXMFV5RV9F?oc=5",
-      "published": "2026-10-16T16:19:15+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
