@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:43:07.707933+00:00",
+  "updated_at": "2026-10-18T19:16:30.650872+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "summary": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDl0aUQzYnZTSy1WSWJVWmhjWHViby1VRnFxSjFwWWZGQk1CUjhCNlpPM3IxdXUzUnZIWlF5X1NBZ0traG1FZ2dfOVQ3SjhOU3pqcFpDME9zUzlhMjFReVhSaVZOUExTWVNSckNoVmpIUmZvVnUzdVVpSEJFQmdQUzJuRU1kZU0?oc=5",
-      "published": "2026-10-18T15:48:40+00:00",
+      "title": "Noah Adams, longtime host of NPR’s All Things Considered, has died",
+      "summary": "Noah Adams, longtime host of NPR’s All Things Considered, has died NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdy1WYUpQSE5xY095MEw0Y2JEWUU5VjhvMXFmN09rYjBvS2JBaWRuWXAtYXBYbXMxRmhHZ3RDRmVzRVBuLXl0SVgxVGF1Y1JqQU93MU5yaTBqQ3ozSy1LOWJaTHZKcnFkMDJwMEVVTVhWOFVjZlhHMUFqWjkxVThlVTBaMzNoMzItT1ZRaF9NWQ?oc=5",
+      "published": "2026-10-18T16:30:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Buildings torched after protests descend into rioting across France",
+      "summary": "Buildings torched after protests descend into rioting across France CNN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUkxcG9NbVF4UmVVdGVob3dNbUZhQXZIMkVhNHRsNDJ5emxtQ2UxX05ocEFwZ1pJUGRtRTNuTlVsMWF2eklQNkkwS2g0eXQ5MkRyYnpUSXhWWHNKUTdEeGlYcUVLdm51YXIxbzM5VllsdUlzTGNoMFZaaVpKd0xXeEloVk1xbkNwUXR5cXRTdDNOZmVxVUFOUjZJb3NSdzNo?oc=5",
+      "published": "2026-10-18T15:37:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Exclusive interview with Maine Democratic Senate candidate Troy Jackson",
+      "summary": "Exclusive interview with Maine Democratic Senate candidate Troy Jackson CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXJPWUFTUXo3SDZYdERnRHlaaXI4aVB4NVFDWUdrRzA1THhvRDRQWG4tRXcxT3NudHY3NXppSVFFTGg5VUhHYW5JZFpMOU5DTE43SWVhVktvNFNBR3BsV29NWEZpN2FRZDIzWVBYX1JmMlpoUzZQXzhBTEd4ak5HeFVR?oc=5",
+      "published": "2026-10-18T15:05:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Energy Secretary defends Trump waiving Russian sanctions: 'This is an incentive to end the war.'",
+      "summary": "Energy Secretary defends Trump waiving Russian sanctions: 'This is an incentive to end the war.' CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QaTVWYWxfQW56bkhtN3RLN1lNZlNhb1dMb0czWXV4TW5Zck13aEt6a2c2aXdEYlpmbDlFQjdKeFdwMV8xUTlvUUVYY1dISmtvS2ttQXF6R09MMC1MeVpiLVk0ZE9PNzJDY1p1VXkzeHRrT3QwNnY2Q2dtZlMzVFE?oc=5",
+      "published": "2026-10-18T14:49:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+      "summary": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbktXSXE4Y21XR1NVYUlvLURKVVExNlNOZkNfRzRzTmpBU2Z5MzZMaGNxV25LY0prMXI1Mm5qcklXMVVGNXZTRXd5NTZOaTR5WWIzOVA4RzJmWHVCR3dXdmJ2Q0pfbE5tYXFUNkJzWHFyMDVZZ2FSaVNucFBxcmQ0d9IBhgFBVV95cUxNR2ZNUENKSGl5ZWEySEYwVmZtTl8yc0xwNW5jMjByRzZic2toSVU4NDNHal9rZWhvUUI4S0dtS0xLUHJ2aTQ4YTVSYkFwcVpsaGV0amxOMWdvM2s4TFJ3d19sMDZ2YXJiU0ZVTXZjUk1zYl9qVzUxZGRGLXRHWWVJWlJPSUhBQQ?oc=5",
+      "published": "2026-10-18T14:37:36+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,30 +92,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Poll: Americans are anxious, pessimistic and deeply unhappy with Trump ahead of the midterms",
-      "summary": "Poll: Americans are anxious, pessimistic and deeply unhappy with Trump ahead of the midterms NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUpJdnlDdnVzOVFlWjJYaXEwZG9aOHlDVTF0cFVkX3dTS1gzdnc5OEJzZGtVX2lfemtlSFY4TGhVMTc3b1p5X3ZiT0JOenNqTUFyZGV3QWVpVm4xaV9vejBrZVQzZ00tOTlkUTJteUdpbVBWQTc3a2hMbjBER1FQc1lyekh1WnFYdDZpZW41X1FsQXd6WF9WM2dhYXB0bm1oMks3Z1ktNS1kRDBKU2RMMG94MXl0YVR0VWRBUzBPMUliVXFvZ3VZ?oc=5",
-      "published": "2026-10-18T13:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-      "summary": "Pope Leo says he will gradually resume duties after cancer surgery NPR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEpvVUJGbmNnNDVLcGMzVXhWOUR1bXFmTHpNV0tuVlZUN0NiNTJETTdkaWRkRE9Gekw1V3ZzcWoxWHlsazdxZ2dqekhYT3R1Uk0wZVU3VnFGTWZjRU9fX1N0aG13QnBkSTdENU9ycG5zaXlzMnhoMXN5UURHVUNfRGpjWU1Kb1VXeG5pSlQtMl95c3pkd2paUVplbldRTmlLc3hBVWllSXYxcmtOQ1E?oc=5",
-      "published": "2026-10-18T12:55:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -75,18 +99,6 @@
       "summary": "Meta Platforms and Tesla are among the companies set to report next week. What to expect CNBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSXZwWHdvclVzQXBWMWFOOGZpa216a3FaTWtpdkdiSl9CZ18zdWNpdG8zdVVERWUzU1hidjRFZFZUTWx2YmRHbVhPdVVzYXhEdjR2ZldrdkdNbzRmSkhzVVAybkYyNTdlMU9semdzQVJOVk0zeC1BcnhKRFA?oc=5",
       "published": "2026-10-18T12:41:18+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "summary": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZHRYMm5JQlowV3BIWlYyVFYyblFwaXRiUkdrbFBTQVZybmhQeHhGaWdqR0lIOFdRMjBnWEJHa05yT2NzczdueGlIRHVUWldMcndwQVo4QmlseTU2TjZZZG9tTlpBVGw1SmkySGx4eWMtUVg2Zkc1d2NB0gF_QVVfeXFMT3dVUEl4TlZJSzV4eEpqMWFWYTJESFF2YmFWN1VHWDhtWHpjajJrV0djSGNmTkRPcE92UnpEYzVMVEhPb0N0WjdheDZtMGVTeUdwOHdfd05xMFJ4Q29KSzZ5QXFlM2JrN1poZjI0Q1I1S192SFFUOVBDV3FqM1NZOA?oc=5",
-      "published": "2026-10-18T12:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,6 +128,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Anthropic wants outside input on Claude’s values. But who gets the final say?",
+      "summary": "Anthropic wants outside input on Claude’s values. But who gets the final say? NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5",
+      "published": "2026-10-18T09:30:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -128,13 +152,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Nine days before Israeli elections, Trump finally endorses Netanyahu",
-      "summary": "Nine days before Israeli elections, Trump finally endorses Netanyahu CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWp2V1pObHhqVHdUTjJ1NDBhVDRzRjJnMks5R2p3dDFVbTJEek9MR2JBZDZnckh3VUNLRVBGaEF4UGlQc285cFRjSldLMHFGbmhtbldfQjUyU2JGdU95QXRPQm1FWHJzb0NjSzVUalp0WEZFcHlmSWxpb2JRZ2J0Q29pVQ?oc=5",
-      "published": "2026-10-18T07:20:28+00:00",
+      "title": "Huge Riots in France Prompt Shock and Blame Game",
+      "summary": "Huge Riots in France Prompt Shock and Blame Game The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDl0aUQzYnZTSy1WSWJVWmhjWHViby1VRnFxSjFwWWZGQk1CUjhCNlpPM3IxdXUzUnZIWlF5X1NBZ0traG1FZ2dfOVQ3SjhOU3pqcFpDME9zUzlhMjFReVhSaVZOUExTWVNSckNoVmpIUmZvVnUzdVVpSEJFQmdQUzJuRU1kZU0?oc=5",
+      "published": "2026-10-18T08:44:26+00:00",
       "beats": [
         "Politics"
       ]
@@ -152,25 +176,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Several dead after major fire breaks out at Canada military base",
-      "summary": "Several dead after major fire breaks out at Canada military base CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWJlV2s3SFVLUzA3Q1BtMFhIUkRjT1dvaGhMMU9IWUpSdkZJTXRxWVVST1lnU19LNE1IcU5VaThqcy1ybldHMEVmalJHSG9aa0phUGFhOGZLYkc3aHY0eG1yclpSZ1hKTjE5bllISTJBb0JuUVM2Z3dsOFotQ1NYU21nUV9iVXZ5a0dxa1l3?oc=5",
-      "published": "2026-10-18T02:44:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "France wakes up to wreckage of a night of rioting after protests turned violent",
-      "summary": "France wakes up to wreckage of a night of rioting after protests turned violent CNN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2R3RzdVVXpmVnowVWlEeVJxSzVUQjVGOFF6eE8zT0tFZmJnWS1ZMWpWc24yVWJ0Z0VsbkRoN3pLMUxOY3QxU3EzTkpZRC1mSEdtYUJvaEw2NzBYZW1Wb2dPeGtrZnZYLVl6U1Q4ekNNRFBOZGM1cDl2aUdfMlBmbGdIOHR4emtwRGh6cjFXd0FvRF9RTVl6ZHZRakpvSVhxOTB3?oc=5",
-      "published": "2026-10-17T19:52:31+00:00",
+      "title": "Pope's surgeon details operating on the \"ideal patient\" after lung cancer discovery \"entirely by chance\"",
+      "summary": "Pope's surgeon details operating on the \"ideal patient\" after lung cancer discovery \"entirely by chance\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX09ZZWZHWExqbjBYc3dGUEs0TkxaelBhSi1PLU5yNkdpbV82eWNWb3JUN2tvcmU3TG5iYmV2X2NtS3hadVB2WjNwV0JKWC0wQnNFVVIwRHRncG9VQkRqbThCWndnd2hPVzdtb29IVC1TTU1Nc1BHQmZHVWY2UzlDdWxB?oc=5",
+      "published": "2026-10-17T19:53:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -224,6 +236,19 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut",
+      "summary": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWElzcDlYUVFxdU1GaFRZc1dSUHVUX2hyclhfcHJONEhPZGoyRHNJV3VnNlIxZ0h3WHk5UHNIS1NWN3pPTlRocElOVHJ0UmZBLW56WWVnb01heVhESko2VGo3UzFneXM0UDVudDkzbXpCaTlrSWdfUENJOFRyaTMzb0tFejU?oc=5",
+      "published": "2026-10-16T23:30:20+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -262,24 +287,24 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Decades-old snapping turtle dies after kids \"bludgeoned\" him with stones, Pennsylvania rescue says",
-      "summary": "Decades-old snapping turtle dies after kids \"bludgeoned\" him with stones, Pennsylvania rescue says CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZENtVUhLY2NKOWFkd0kwYU5HN3FwVldwWE5uS2RXQjVhU1VOeUNGUWQ2dTAzTE1QUVBoUExUWTdCZzRoSkl6U2RTdjhhYW1McXRRallnV1hybWtKNTlLVS1KbVVJZGhURDlaSzFNRmhGN0liUGpTUmRMQ2ROY2QxVHQzazJ3d3JZQ0hwb21FQQ?oc=5",
-      "published": "2026-10-16T19:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Woman fatally stabbed in Baltimore after altercation involving gay slurs, police say",
       "summary": "Woman fatally stabbed in Baltimore after altercation involving gay slurs, police say CBS News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1kzRHQxY2pMRFdpcGNleWpteUh1d1VzdXFCUWtGVnhiU1pFWHBsdU9ieGxHY3ppWU5jLXFoUmJYNEdyb19qaFJHdHNGeUM1TzNLSWgtMWozVjRJMXFNdEdjWE1CcGpRVU9vMkZENl9hMUdtUUVCNklLZ1pDeU1DcU1ESmtsN3dfeHZxRTlrcw?oc=5",
       "published": "2026-10-16T17:22:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "James Talarico explains \"God is nonbinary\" statement by pointing to Charlie Kirk saying the same",
+      "summary": "James Talarico explains \"God is nonbinary\" statement by pointing to Charlie Kirk saying the same LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWctYW1VYnh5MkJDZlNtNUJLb2tEQXhiRk5idmFzYUVHeVE5RGtYbmNJLUpHR1F6bVhEbGdORWJCTWdkU1ZrTUhKUFl5cGFiNEhrMXptOXNCaThnaUQ4TWpkSFB2NW9ncDdpRUt6ckdGUUtjQ0pfUVZEOTZ0T2NJRnU3TktNRTIyVjFqR2hUTlNxMHM5dnlYVnVoVDhQSmZjUHl2MTN2eWdFeGFPSUZiemNQZUlWdlFZdTlSRUlKQmhaM3F6dkppRnRmMA?oc=5",
+      "published": "2026-10-16T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -354,30 +379,6 @@
       "published": "2026-10-16T07:14:19+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "A parents’ guide to understanding the 2026 California School Dashboard",
-      "summary": "A parents’ guide to understanding the 2026 California School Dashboard EdSource",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mSDY2UFVHcXlfS1JCWHB2cUxaR1RtUzVzOV9fWUo3OXl6S3ZYN2dmbGllM0wxcFpnU1BDeUxleDlJazZWRTJsWmI0ckFDZ1Qzb0RvTGtpVW9sSjdCYTRfd25WZm1JT0hIMjljSmx4WUJubV810gF8QVVfeXFMUGxiME9HTGtHUUNwLTd6UERueDJHcXBoM3R6M2JwajhJcnZGQXBvczB4SmZVYmp4Z3lKQjRqcFByQ2dLeWpFVmZmWVU0TG1Yc0VYLUoyVEZtcGNEQVBFdmEzS0Ezd1pzOXN6cEVJVWhOTFNJcVgwemNPMGRfYQ?oc=5",
-      "published": "2026-10-16T07:14:08+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Brazil’s Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias",
-      "summary": "Brazil’s Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHZOc0RNeUluOGc5MFYwTWs2LWhkLXo0a2RTcDYzVnZzdjEyT0poTllheUZCT3h6emxjdFdobUJkN0cyYXlaZlBMbE9LUjdaZFZBY3FjUVhrcFhFQ3hPZXY4WlpIVGZOVDEyQ2VKUG5qMUJUSjlvQ2ZJUlhZUlpBdEp2bVo5N3pzRWRrcjdJQm5zemhEQ0RaWHJ2NFhvZ2JpS3JHdDl5X2N0OTMzcmJZT1ZrS1BxQldkSEZNcGNIaUFhWlU?oc=5",
-      "published": "2026-10-16T03:46:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
