@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:05:05.746615+00:00",
+  "updated_at": "2026-10-19T21:39:58.587450+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,78 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Smashing Debut",
+      "summary": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Smashing Debut The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVlFU1l2eFJ2d3AtaHkxVXMxaEgtRjFQNlVPUkE4MDFxQmR0a0VWRXUzRnU5d3ZXdDZlZ1RVUmhYMExBM09UNzB2YlhsVVpDRWVES2Q2WFNKaU5ySWQ5VndaOHlpSC1uRkhVVElSeVptQm9BdHoxTUFXM2NDbXFVMXFCUV9EY1FRaWxKUWZLNzZ5aEc0R0R0SlV3?oc=5",
+      "published": "2026-10-19T19:52:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Democratic senator sparks controversy over comments on investigating the Trump administration",
+      "summary": "Democratic senator sparks controversy over comments on investigating the Trump administration CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTk43WlJFRUsyS1BvYThuU3J2VzZrSXVpdDljaC1CbG5JV3o0NG1CcFhGSU1wWUxEeC0xY0MwOTJJcXRyUUozRmhhZmZZLTlDSnhBUGowMEpBWTVRX2l5XzBvUEFLeHZWNDYwQnRaWGljQjgzS1UwN1NONUMyWXBBVFcwM0s?oc=5",
+      "published": "2026-10-19T19:23:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Beyond the Classroom: Extending High-Quality Instruction Into the Home",
+      "summary": "Beyond the Classroom: Extending High-Quality Instruction Into the Home Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGVpWkg4OFotWk0xMWhfRTRJWmxXY2NvbmhqSDFtMW9jR0NLak5BaHkzVDEzVWkxdE51RUFpOTZCYzc1WnJTbWFKekQzV29yVVpfX2xMaGtxLW1rMnZXeVZaalVfbGxVV3B4LWxTVURSei1BNHI1eERITG5LNy1ZZGZFRFFRSHhvWHRBb1hfUXhjN2lCd3FyT2o4d3VwdmY3ZUh1cVJPMlBfejQ?oc=5",
+      "published": "2026-10-19T18:53:01+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump admin cuts to satellites will set back US weather forecasting by a decade, experts say",
+      "summary": "Trump admin cuts to satellites will set back US weather forecasting by a decade, experts say CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm83WklXdjdOMUR3enF5UFE3TGFaSDZ2bmdqbzNFMFZ3ZzdTem1UcmpKeEZuYk8wb1pDQnRDWi0wNmVFNW1UaldwMlc3Y21HOHYzSDVOWkNRYW1qTUtoYll4VThHOFktRlp0am5uT3ZkSmh3eTNkMWxTdFhkNlBPckp6Nzc5cXpTbm1YdWdBdENXNWxDNGFDYzczQi0?oc=5",
+      "published": "2026-10-19T18:37:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The (very red) pattern of Trump’s 2026 campaign rallies",
+      "summary": "The (very red) pattern of Trump’s 2026 campaign rallies CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzQ3JWNzdyYk5iUVExRHlZYkQ5QWhCUEtfa3psY0lZSVhxNFJ3cE14TWFBOUtHZ29BZU13OEl5OUtjWlVmU2RnUWVxa1VWTEhXN1g5Nm9tQWcydm9CVlVTWm1ZYkthT2RyMktpZFpscDRCVWJBTUJGdjZyaw?oc=5",
+      "published": "2026-10-19T16:43:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "As Republicans face scary midterm polls, Ted Cruz blames ‘transgender witches’",
+      "summary": "As Republicans face scary midterm polls, Ted Cruz blames ‘transgender witches’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13S0tmcGNCSXZpQWZBS19renBmdE9KZVlKRG14V2xvZVZvckhvM1dVaThkM21pWm11SzFJc3RKdVFuM3EyMm9vU0JPX0lQaVZmcVBfX0JYUHR1b0t3dVdveEtVVkNLSmtIRDBkeWtpcTVVaXNFUXdCcHB3NA?oc=5",
+      "published": "2026-10-19T16:30:08+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -32,64 +104,52 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Kenyan cult leader found guilty over 190 children starved to death in the hope of ‘meeting Jesus’",
-      "summary": "Kenyan cult leader found guilty over 190 children starved to death in the hope of ‘meeting Jesus’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XYlBQVVZIaWw4YmZlaFBZNlN4VGdVMmtINWlheGxaNzVINnNxRTYxVlZpZFlkMnk5QjZ3QkEwbmtLWUNtanZ1MHduQ09HcTE5XzAzNUc3c25TbWVlSnlRcVlJb2lLVUs5azdJRTd5dm9tOUl6MGRGdGVLNE9wZw?oc=5",
-      "published": "2026-10-19T15:27:36+00:00",
+      "title": "Opinion | The French Fantasy Is Coming to an End",
+      "summary": "Opinion | The French Fantasy Is Coming to an End The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PeGtmanU2WTVhUWJHbEU1YkdtcllhVUFMTmV6UnVEMTNjTWRDeFo5NTVUdlAzSUtFMzdJdUxiLUZHVlhzRXdJOHA5bFpJd1dmZExPRXpldTFKLVNrUmczRXNRZ2hTamFVdUp2T1B5SUdGSnhyRFlCcQ?oc=5",
+      "published": "2026-10-19T15:57:12+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "summary": "Anthropic is AI trade's last big hope for a major IPO this year CNBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81Rkp2RnpSZVNGbTEyaU9jeFkxdUJfZ1E5VGg4YUZmSklueTJPd0I5aElKMV9taERnOVNJUkJiZzhkbTVtNVFXajI4dHdoYWNJVnFHcGtPdnFtSWhKZUNsajU0YXA4bEM5M3ln0gFwQVVfeXFMUHhPRjNFT0tZOUVGcWRXXzN2ckRjcGpGb2J3TVlFRzAxelI5cmxEdGIwQm05eElzcWFQSmdQRVZJSHdSZEVnMkNad2dubW9WblV0X2t5UGxkdVBlUkF0aDRXUHNjbGZYMEp0YWJBZWlWUA?oc=5",
-      "published": "2026-10-19T15:25:27+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Joe Locke’s ex boyfriend opens up about secret high school relationship",
+      "summary": "Joe Locke’s ex boyfriend opens up about secret high school relationship Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFhpS196eWpjWmE5WE9tV2VwSUVIYWgxVDNfMWRBamZMam5ySHVNUGthb2tnSjhRcUU1aGNUWmNlT1ZmWEdJMnZ5U0p3NWF0eUh2WThLXy12V2VCUjFoNVphN3ExOXBaT2dsQzhFakxlNnM2MHpkei16OTVvSjdlYmctN3l4VnlhaE5yLV9qNUJJUlhsUE9XRG90aXZqbWZ6SVNWb2V1RQ?oc=5",
+      "published": "2026-10-19T15:00:00+00:00",
       "beats": [
-        "Business"
+        "Schools",
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Christiane Amanpour announces she will leave CNN next June | CNN Business",
-      "summary": "Christiane Amanpour announces she will leave CNN next June | CNN Business CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdldOZjlHcWJaRHhuYTZvOE9BMkJvTkJ6dmFnYmQ4YlYtLWpYSEJZSUpheks2VllZa21uTWp5WGJvNlZwcVRTTFpORk9EaG1KdmV5OVpUdUFjbGpRVXVxVWVOUExtT3kyQ3ltNjl3TDhYNk1ncVRDYXRFbFBJWjRzQzdPbW1EUkhvUVE?oc=5",
-      "published": "2026-10-19T15:11:14+00:00",
+      "title": "Students vote on how to spend $25K at this New York high school",
+      "summary": "Students vote on how to spend $25K at this New York high school K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzJxSVczWVRUTG9RTjdLMVc0UVJXRXR2bHVtUFdfQVRUakZFUVFwZEhfR0pIcWtpMlhHUWQ3amxVZkROb3Fub0hhbEpLSDZvM0U2MlZVZWNXdG95N2lKNjZSLWtIa01kdnNnbGpYV0plU0JxQWxFQ0NXVXBrM1JyTEVqbmZXOFJLTU9DM1Z1WTNYU2otS3pZVVZiNmhseFF5?oc=5",
+      "published": "2026-10-19T14:59:46+00:00",
       "beats": [
-        "Business"
+        "Schools"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Supreme Court won't review Trump's firing of labor board member",
-      "summary": "Supreme Court won't review Trump's firing of labor board member CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMlVlV1RZdUs4ZmtleTQ1YUE1ZUlRc0wyMjZ0dmxHdlJEVDFHdnQwZ3gtZkV4UWVWOWFoWXNZTnV6TVZ0NVFaTjdyUnRfcjBMWnQybXZXU2dZWk9XMkkwVDhpU0x2LU4wZGk2SWpOVy04M3JiNFd3LUJLZDFmaXpNN9IBhgFBVV95cUxQX0JUVXZXMXdpbU5OLWhWNTVLbU05VFV2Q1YyclFSbW9UQ09uOEZfMDBkTG1hbGtKaVpqbjRZY3I2Y0wtY2d1RFZSckJBUXg4ZWYybnBJUGZsMHdWN0VveFhMdVRHVlJ4TkhhQ2hEbzlsRG8wUGxPU2R3cnhfTjI4WE5YcmlhZw?oc=5",
-      "published": "2026-10-19T14:59:29+00:00",
+      "title": "Week In Review: New York signals choice program opt-in, and ACT releases new data",
+      "summary": "Week In Review: New York signals choice program opt-in, and ACT releases new data K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CdHlYQ3doOGhyb2UzdklDaUNzLXJlWEwyUU51M3lJZHR6RFRkVXNXZElvSFFxRzMycU01SGN5WFNYQ0ZHWm5zVjJqVGR2UndHdWFyb2hVTmdFVVgxdzlHb0Rydk9XeGsyckhVak1JZlNqN2ZHYUE?oc=5",
+      "published": "2026-10-19T14:59:46+00:00",
       "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US relationship with Ukraine faces deepening strain",
-      "summary": "US relationship with Ukraine faces deepening strain CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzVaRzlnQllLdk5ObWo4RkN6aHRkQVJ4R1Fqekx6Y0JpeWd3RnE2M3JiY3owb2R0VEtSaEtEdTNkamUzdlJ5WUxQM3pROEluZXFqdzZfV08tV09YSkxYRkdaTTRtYS1EbUdsbUplc3BZYmVweGF6Zm5rUmxleUlpb1FfUkF5RG5CdF9YZWxCTDhHMTg?oc=5",
-      "published": "2026-10-19T13:48:04+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -117,30 +177,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "'Not all neoclouds are created equal': Goldman Sachs says buy the dip on CoreWeave after sell-off last week",
-      "summary": "'Not all neoclouds are created equal': Goldman Sachs says buy the dip on CoreWeave after sell-off last week CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkMteG5WdjFQZUJHZW9MSnhSbEV1NlRWWkN2QVk4RHVIT1FIdjl2OHdIekNyU0ZBaElzbEZKTkt3YWhKS2JkX3NZZXc0MTlXYXdTN1hsLWtudG9qYkJDbi1wY1lPM2pRdzZMbGNyRzhVY2NoVk5fOWtReFB3UTBPQWxwc25NcU9UQkZlQQ?oc=5",
-      "published": "2026-10-19T12:45:34+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: New York signals choice program opt-in, and ACT releases new data",
-      "summary": "Week In Review: New York signals choice program opt-in, and ACT releases new data K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CdHlYQ3doOGhyb2UzdklDaUNzLXJlWEwyUU51M3lJZHR6RFRkVXNXZElvSFFxRzMycU01SGN5WFNYQ0ZHWm5zVjJqVGR2UndHdWFyb2hVTmdFVVgxdzlHb0Rydk9XeGsyckhVak1JZlNqN2ZHYUE?oc=5",
-      "published": "2026-10-19T12:45:00+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -148,6 +184,18 @@
       "summary": "France moves to impose curfews as it reels from worst violence in years NBC News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbXVpWG1YX3c4OGV6UDcwQzJTMFVIcV81LVM4RkVNeWY4d3pyVmRJc1gxdEQwM1J4a21DeS13S1p1Y3Y2Q0FfMmJDQjNxWW9tYWJzRHpXc09GZXh1MUVPZlJ1NG9yczU1dTQxUmFzaHR5ZWRHNlpNaWpGVlpoazJXeXJlRVBwNnB1Y0l0Vks5b2psN3pSQ1lpNmQyTHlXcHM3YU9RdG5jOWYyRzBoWUNJNnh4VkFiQQ?oc=5",
       "published": "2026-10-19T12:35:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Elon Musk says he plans to gift a SpaceX share to every child in the U.S.",
+      "summary": "Elon Musk says he plans to gift a SpaceX share to every child in the U.S. CBS News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kSXY1eUVBSVU1ZVZFUTRmMlY2UXhLMnpXQUd1dlJVWjZGOHVObEJzWUR1c0x1Y2pBWGlpRnREb1pobkFmcFg2UUdIb0VsaDkyVW05VFZKY1czaE5MSjNrN1I0WWZ4SkRoMnBlSVV1WkhFWmc?oc=5",
+      "published": "2026-10-19T11:51:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -189,30 +237,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Students vote on how to spend $25K at this New York high school",
-      "summary": "Students vote on how to spend $25K at this New York high school K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzJxSVczWVRUTG9RTjdLMVc0UVJXRXR2bHVtUFdfQVRUakZFUVFwZEhfR0pIcWtpMlhHUWQ3amxVZkROb3Fub0hhbEpLSDZvM0U2MlZVZWNXdG95N2lKNjZSLWtIa01kdnNnbGpYV0plU0JxQWxFQ0NXVXBrM1JyTEVqbmZXOFJLTU9DM1Z1WTNYU2otS3pZVVZiNmhseFF5?oc=5",
-      "published": "2026-10-19T09:21:05+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | The Republican Party Is a Mess. It Will Emerge Stronger for It.",
-      "summary": "Opinion | The Republican Party Is a Mess. It Will Emerge Stronger for It. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUN1WExvNkkzby1adTJqNUtEc3BlZWZraUdaUEdUVlBVS0FkYnZuc1RGZ2FXRDhKbTZ2ektPS0lkS29fNE5oeGxjME5tR2FUUFBQeTVjeTdqSDlTcEhrcHMtWkotbmxuS3ctN1pfQkhlZkpFcms5Z1JVWm5hS1lsTHdUYw?oc=5",
-      "published": "2026-10-19T09:01:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -222,6 +246,42 @@
       "published": "2026-10-19T09:00:16+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+      "summary": "Elon Musk says he'll give a SpaceX share to every child in America next year CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zZ2J5LXU2VUdyQVQxQkVTdFIzYmM0N0tuUmZkdGJpZjlibDZKLUlpWjFOam1FQk5vd2FPSmpqaFJfTnhoVVByUFM2RThiYkJDejJyMW1Ba0VtazdaWlVtN1p1T1o2dWFHdTVrSEN3TEp2OS1KU0VYQ0ZfVXB1U2c?oc=5",
+      "published": "2026-10-19T08:39:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "New immigrant student enrollment has taken a nosedive in California schools",
+      "summary": "New immigrant student enrollment has taken a nosedive in California schools EdSource",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmR2dnRqcmVTeVVQd1FIQXdRVDQ3YVRwcFpHR2RJcGNOLWFDRThmTU8zTk01aDlMdU9RVzZpUTBYZU5xeGhWc3dJTjczVjdCX3lGbnp4b3B1NWljMms2bUN0Q3JHRTFnNWhkbHFkWFJPcEViektWWEpRQW5qOGQxSW5xaTdFZGd3VERaYmp5VHZTZ1V2VGpTZ1BFd0NMc2FkZFdLUExVNA?oc=5",
+      "published": "2026-10-19T07:14:32+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "How many University of California students fail introductory math classes?",
+      "summary": "How many University of California students fail introductory math classes? EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVV9KY1kwbS1QaXdCeUtoSGJhUGRkWGxJQWplUl9ObmpMOWFZMlRoLUppV3BCOUR4SjVIWnNNNUV3OEx4WW8xMHFpdFluMXZDRkpiQnBqS2hZeDNOZXVkV194dWxJWXVGNU9FZmlVR1VONXVueUdxbF9VeUdHNnVRQzZPSmlybXpPb25WYlNLaWJIbVhUR0FhQTJrSlFsVF9CQjNYbko1WWMwQQ?oc=5",
+      "published": "2026-10-19T07:09:31+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -237,27 +297,51 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Smashing Debut",
-      "summary": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Smashing Debut The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVlFU1l2eFJ2d3AtaHkxVXMxaEgtRjFQNlVPUkE4MDFxQmR0a0VWRXUzRnU5d3ZXdDZlZ1RVUmhYMExBM09UNzB2YlhsVVpDRWVES2Q2WFNKaU5ySWQ5VndaOHlpSC1uRkhVVElSeVptQm9BdHoxTUFXM2NDbXFVMXFCUV9EY1FRaWxKUWZLNzZ5aEc0R0R0SlV3?oc=5",
-      "published": "2026-10-19T03:59:05+00:00",
+      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+      "summary": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVpZVzltNzlrTDFQVFFWT0FPODVNT0NQVjB4YzNSTDZsSWt6UnBpSXM0RnNKWjVsVGltVTY4RHNRaUpPTWVuTjliNWhTWEJjQmdmV1NrOWdIaEM0OUhfdDJwXzI5d3FSOGcxTDlkSF8zX1g0djFmbWlZaURUZm9hLTdZVHRtb2JRVUJhZWFHX1k2VjZZOURFak8wN25XRDVZc1hmQlhmUkc3T1BJOEptUHFkX19kYUZSclkzbDMtONIBxAFBVV95cUxPNGU3TUZOZ0d0RVRpNVFTczdWQm5QWXM4T21Kekd0Mld4QnFrNlRrbHMxczNYMkhQcnc4NWF6V1lUQUliV3l3VGJySlc3NGdURzJWNXZBNEZzbklGOHpwNkJYX2NwTkE3b0UtN0RrM2s0eHNDYUFLR2NsQmlWaHphR0Y1THIxZ0pZR3dBb2NfUUFsdFlnWVNyUGpiOHdPd1d2bmJQUUYyMS1Sb2hIVTA2alRHdXY3UV9IeEhtZ0drbFJQLTVj?oc=5",
+      "published": "2026-10-19T02:05:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "summary": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YejV2dXEyYXpFUWJkMzZlMmVTczlHREhYdW5yT2dhbEplTFpBRnlvamlEaEFqWVJzdXhMOEdsVWx3OHhVU0d5dVVLckVtRl9FOHBzSzhKOE1oeGc4bVlsaDYzVzE1UUFHYlI2SHNEYzVXWUllSjV1MtIBfkFVX3lxTE5YWlRXWDhCbm01QjlQVHZKb21HV1FlZGNyQzlRVVV5MUFEal9jLXlwbFVJYU5CajJVcGwzQ0NxeWVXMl8yX0pqbENNQ3RmbU92VWpSTl9KeDFKNHdTa3VaX3BEVl92WTdiczlURW9WWmZZbm81ZDFlWnRoZXdoQQ?oc=5",
+      "published": "2026-10-18T22:55:48+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Oct. 18, 2026",
-      "summary": "Full transcript of \"Face the Nation with Margaret Brennan,\" Oct. 18, 2026 CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lc1BwS2pmVkVxMkpFR3dVejRVcTNrckl0Q0lSMjNzSnJ6aE5QdjZ2RGN1OWtERF9TRFRBVzZBZWZocGNIVWFucnBQNG8wY3J1UkNCejBRZWxnSDA5aF9GODltOTFKNVdwN01MYTM3eXJlVEx3UFJ5alBELUw?oc=5",
-      "published": "2026-10-18T18:13:32+00:00",
+      "title": "Conditions aligning for Bay Area to expect highest King Tides in 18 years",
+      "summary": "Conditions aligning for Bay Area to expect highest King Tides in 18 years CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVXBLbGMxUnFCQnhQQ3RTOGN2UXdqVVRndTdabElCZER1Y2kwTDA0ZGpHSUdLUHItaVFMcjNuMzh0QUo2by1ReFlPbjA3MmFCOHRfNUZBOXdLY003ZFhnNDh5MjZGMU1EaU9rVkYyZDlFaUxlVlhfYUVRc29QaTV2cE9kMFJOQ2c?oc=5",
+      "published": "2026-10-18T20:21:26+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Residents outraged after town paints over rainbow crosswalks for \"routine maintenance\"",
+      "summary": "Residents outraged after town paints over rainbow crosswalks for \"routine maintenance\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTHBORE5EU1czXzM0OGo5QWFXd2lUalZ3WHRSOGJzNEhVUTIyWi0wc0pZdUNtM0g5eWdnSlQ1ME9NeVhMZEFmMEltaW1DZHBHSkViX1E0THduUklrRkY4dnhWbmlVaEMtRmJ4NVdoU3hvT2JNV2ZVckQ5cFJRRlNPV2MzMEVlaTNFdFNRa3FIQVo3UThVcUtINzdzODkwTlJrQ2VuYTdqZGxDNUI3OW81WHNOWF90Ym9ZbEh4bDBR?oc=5",
+      "published": "2026-10-18T19:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -294,91 +378,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2lFaklUbFVJRVdhNHdndFZRUUdTQ1ZCamNRXzNQc1pxOUwwcFVZZzZtbnVrQzJHM0ZjWGhCR05leVhoMjRhLTkzRWgycl9FNkpJNjExOFE4THJHckxNbUJIZGJaOFM5UWFWckNtYjFKMlctZTdSNkRFMXFlNjJlSlZsME5nYmtOTE9lUUlPa3FCaDhNOXJoLVd2cUhuY3ctLVQ4alZlbGdDa0VxV1g1WA?oc=5",
       "published": "2026-10-18T17:00:00+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Trump doubles down after waiving new Russia sanctions, calling it a ‘very good decision’",
-      "summary": "Trump doubles down after waiving new Russia sanctions, calling it a ‘very good decision’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
-      "published": "2026-10-17T18:54:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Corey O’Brien’s back, Chris Appleton’s pump, & PJ McKay’s vacay",
-      "summary": "Corey O’Brien’s back, Chris Appleton’s pump, & PJ McKay’s vacay Queerty",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDZIY2ZOUlFFc0lqWGpLakZhNzlNMkl5OGZPVlU5NTBmUFUxLURsVnhDU1FLbjItQkw0UHgteWRfTUZvYW11bHE2SEUtM3B0WEI2ekxscXRZNWVXbUZhNm5vdkoydE1JVktGd1JOaEg3eGNqQ2kzQkRybXJyYU9PT3pqbzJuNmZVbjhTSk1MM0VzajA?oc=5",
-      "published": "2026-10-17T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Texas Democratic chair unloads on Ken Paxton: ‘If brains were dynamite, he couldn’t blow his nose’",
-      "summary": "Texas Democratic chair unloads on Ken Paxton: ‘If brains were dynamite, he couldn’t blow his nose’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZU9Bc0g0QkdaaFNGblZJcElrVjBQdXhpYVlCdGdHcHJGRVZLME9naXp1Q1lWN1ZUdFM0TmNhamEycjNGV1NhVGpvYXVXanlYdmdBN09fNk9PRnVNaDZYd3hMaTJ0WVRBanBJV3RqczRKeGhPc2oyVDlFNGVwR1IzdjZKcEllQUQzSWR0Mg?oc=5",
-      "published": "2026-10-17T16:55:14+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Why new limits on bachelor’s degrees worry some California community colleges",
-      "summary": "Why new limits on bachelor’s degrees worry some California community colleges EdSource",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjM3Iyb3QxZjEtSGRnSldUY1g2bjdERmNHcThuMUptT1l1MllnSW9lS1FEMkpLdXlQeldDQmlmLXp2ZlRWRS1yZTdRUE5CNUZ6emVFeXVVY0tqN0FnZzNCMW9adXhJY1VYcDBMTERqMFFmSzjSAXtBVV95cUxQYUhoQzVnc1Z6UGFUSnhRRlpJQ2NPNk8yMjFlZEhpU0ctQXBxdmUzVzNLNUdGMDZpMVJmSDBjbC1uTG5YZ3l2MkgzUW8tZEtEQ0RNM29halRuSWJaN29RMnFPUGVEaXpkLVphbzMyM1FJd1IyNmltNmRHaWs?oc=5",
-      "published": "2026-10-17T12:06:54+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Friends, family and allies march in Baltimore to honor slain transgender woman Sophie Lee",
-      "summary": "Friends, family and allies march in Baltimore to honor slain transgender woman Sophie Lee CBS News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnl5Q1p3THZMa1NEcmtWeGh2TmhraThlRnc1QlVEd3hFRFozcnNwWURkNjdYR0psQU1fLURVbkgwYU9DNGZidUpnekhQV05TSThnazJvS191YzNnMThTdHJiQW1DRHFxYW5mU2IwbUtLZ0dhQ2c1aldDeFRXVkFFWWt2QlVPZkhSZ0V1ZUR6bEV0ZE45MTd2Zm9UU3h1ZXRK?oc=5",
-      "published": "2026-10-17T03:06:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Exclusive: How much have California schools spent in Prop. 28 arts funds? We now have an answer",
-      "summary": "Exclusive: How much have California schools spent in Prop. 28 arts funds? We now have an answer EdSource",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RcmhkZHQ1SkRSa2I5cWk5RGlpT0tiRlNkVFpyNVE2eEp2Y0g1cjlneUJ0d2hwSG1IdV83STR6c1FUSGFkMHN4VmFsOUpuR19SMmY3SkM0aGgyNjFNMzVEenE2cU92c2FDMzJiZnZfTzVDek9Jd0I00gF_QVVfeXFMTmFNcmQ5dzVZN05pSUVkSHE0T1RfZHlUbzhnWTExWmloUzZRX3JveEJSV2JVb2ZLVXBhcC1QMzBGUm14QmxVTl9lM1RJV3J6SVdNc19DcV9XUjdBSUlDZVBxWk43YW9PdG56UE5ILVZlRGRqcEZYQ18ydmZkNHB4WQ?oc=5",
-      "published": "2026-10-17T01:59:14+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut",
-      "summary": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWElzcDlYUVFxdU1GaFRZc1dSUHVUX2hyclhfcHJONEhPZGoyRHNJV3VnNlIxZ0h3WHk5UHNIS1NWN3pPTlRocElOVHJ0UmZBLW56WWVnb01heVhESko2VGo3UzFneXM0UDVudDkzbXpCaTlrSWdfUENJOFRyaTMzb0tFejU?oc=5",
-      "published": "2026-10-16T23:30:20+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     }
