@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T04:25:18.090238+00:00",
+  "updated_at": "2026-10-19T10:09:25.606021+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,78 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The Coverup: How a Trillion-Dollar Industry Launders Illegal Gold",
+      "summary": "The Coverup: How a Trillion-Dollar Industry Launders Illegal Gold The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXF2NWxyWURic0VIREMtbDRpVW85amxWZ3VRa19FZ0ZMbVlSN0pUTVhPbFk0OVlyMGJmRVBUcFVWWFIwcWNBQWtGMUE5ZGNNSW16UXZDd1Jydl9OcDdCMVJzVjQwMXVRQ1pPV3NhUENJcktYZXBEYWpQWFVNdVBzbWZvcUhKRGQ1MXZxak0xYWFZOENlSUdLZl85bjRPcE9Q?oc=5",
+      "published": "2026-10-19T09:00:39+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+      "summary": "Elon Musk says he'll give a SpaceX share to every child in America next year CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zZ2J5LXU2VUdyQVQxQkVTdFIzYmM0N0tuUmZkdGJpZjlibDZKLUlpWjFOam1FQk5vd2FPSmpqaFJfTnhoVVByUFM2RThiYkJDejJyMW1Ba0VtazdaWlVtN1p1T1o2dWFHdTVrSEN3TEp2OS1KU0VYQ0ZfVXB1U2fSAYQBQVVfeXFMUGQzM0tBelFUcHJIdFMtT2VIZC13d195el9JWGd2NWtHMENjZUNDR1NyOVUwM2QxNzNDQkZHd01XeGtDeTZlbWtlYVZFSFVHY1JyUzdLVlBqWHpBYVI5UzZOUnpjWUJJSF8wUE5SQUZFQkpkaDkwOGdhTERDUG10bEVKMEN5?oc=5",
+      "published": "2026-10-19T08:39:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "France reels from weekend of chaos as violence spreads across Europe",
+      "summary": "France reels from weekend of chaos as violence spreads across Europe CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekdxRVRFM25lNG81bU5XMlhRLXR1OWM4dW56WG96cUx2RzhRUjc4MjhyS2R4LWFnMEp5cmFFaDlNWmxpWWhKcmQwMHhuR0pYenhhU2JtR1c1eTBCaWFoSXJNd3kxd2VTX1pVUzdDMkg2YURHZ0pHcUFaQ3l5M2xZag?oc=5",
+      "published": "2026-10-19T06:35:18+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+      "summary": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlEzbWo0NE1pc3VuQnRxbDZtNHZGVXd6STNFejRBYTE0T191XzF3dTNWcmc4UmwyUG5Rd0dwNWh5T3Zvb2FTd0IyNm1KTXVhMnpKUlJlUXZRY3B3S0IwRExRV3l6UXVPMlctUGRoV1FPS2dOR096d3M5U3huQVRyZ2sySE1PRGtfU0xmei1ZNNIBlAFBVV95cUxQamxHOGJ2QWpKYjhDa08weUJKWFg1MHVhRkdCbGVQY3NHTXZPdzdHS3lZb19EX1NmMnRXRkh1WUtZUFRZTkR0Z1FiUzB6YWFTcm4yQlVwVko3Rm5mX2FWYVJlV3lEZWNqQXRYcDFNMnllNktDbVFzMUdNVnNPcUFudzc0NElpVjNSQ2QtN0h5ekFKMDlX?oc=5",
+      "published": "2026-10-19T06:03:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "summary": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXSHViNl8wZjVuVVN4SDZQYi1nQU1SOFBFY0hNWjJoLWRVcmRyamlJdG5VLUswYkdrVk9nM2FSeTN3cDh4UlViTklWTXJhWUtaejlpcXgzNk1yMWZ2a1Yxa0tJYWFvdTJ6QUhiQ1BjekVidC1sZGc?oc=5",
+      "published": "2026-10-19T05:35:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Expedition to a remote Pacific island fails to find fresh clues in hunt for Amelia Earhart’s plane",
+      "summary": "Expedition to a remote Pacific island fails to find fresh clues in hunt for Amelia Earhart’s plane CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1B4QWM3b2lyQXBKRHREU29UcC1uTktOMTh0YkV4ejFSanl6MmhiUjJ5N1Ytam42b1dkdmJEb3dEN2Q0cGdjWGZUSFI1bHJUM0w0N05PakxuQUF6TWZ1YmhBYTJiZmd1blZid0s5eDFZUU5ybmVaWUF6VjVNWkRDRzdTZUs?oc=5",
+      "published": "2026-10-19T04:32:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -32,49 +104,49 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Huge Riots and Anti-Government Protests in France: What to Know",
-      "summary": "Huge Riots and Anti-Government Protests in France: What to Know The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-      "published": "2026-10-19T03:13:59+00:00",
+      "title": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
+      "summary": "‘The world will be amazed:’ Iran’s commanders prepare for further war CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0eUE3NlZIYURIaERvcmpRV3o0NWZRakxqY0QyYWVZU055SUJJazMybTNUVzlSSEN1TjhOc241WU9ld0NjTS10TWFCV1BNVnVnNDFQaHdPRWVXbS03RTlnOGNBdEtpR2J2OWJGTXpUMFZUNE5pSjVnbWhpSQ?oc=5",
+      "published": "2026-10-19T04:00:45+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "China economy grows thanks to AI export boom but domestic slump remains a drag",
-      "summary": "China economy grows thanks to AI export boom but domestic slump remains a drag CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZUM1RVhqMlhRS3JtZXkySURkQklGNnhTUnV0aFRRc2RnVzJhZVVSY1RGc05CaHNsdlpUS0ZLQTdPeXE0aGVXaHRmYzhKOWZKdi1DV0R1Yk8xSzg3V0hTTjN4bF9FQmlkV2FaeA?oc=5",
-      "published": "2026-10-19T02:10:00+00:00",
+      "title": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Smashing Debut",
+      "summary": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Smashing Debut The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVlFU1l2eFJ2d3AtaHkxVXMxaEgtRjFQNlVPUkE4MDFxQmR0a0VWRXUzRnU5d3ZXdDZlZ1RVUmhYMExBM09UNzB2YlhsVVpDRWVES2Q2WFNKaU5ySWQ5VndaOHlpSC1uRkhVVElSeVptQm9BdHoxTUFXM2NDbXFVMXFCUV9EY1FRaWxKUWZLNzZ5aEc0R0R0SlV3?oc=5",
+      "published": "2026-10-19T03:59:05+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-      "summary": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVpZVzltNzlrTDFQVFFWT0FPODVNT0NQVjB4YzNSTDZsSWt6UnBpSXM0RnNKWjVsVGltVTY4RHNRaUpPTWVuTjliNWhTWEJjQmdmV1NrOWdIaEM0OUhfdDJwXzI5d3FSOGcxTDlkSF8zX1g0djFmbWlZaURUZm9hLTdZVHRtb2JRVUJhZWFHX1k2VjZZOURFak8wN25XRDVZc1hmQlhmUkc3T1BJOEptUHFkX19kYUZSclkzbDMtONIBxAFBVV95cUxPNGU3TUZOZ0d0RVRpNVFTczdWQm5QWXM4T21Kekd0Mld4QnFrNlRrbHMxczNYMkhQcnc4NWF6V1lUQUliV3l3VGJySlc3NGdURzJWNXZBNEZzbklGOHpwNkJYX2NwTkE3b0UtN0RrM2s0eHNDYUFLR2NsQmlWaHphR0Y1THIxZ0pZR3dBb2NfUUFsdFlnWVNyUGpiOHdPd1d2bmJQUUYyMS1Sb2hIVTA2alRHdXY3UV9IeEhtZ0drbFJQLTVj?oc=5",
-      "published": "2026-10-19T02:05:00+00:00",
+      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+      "summary": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04MWdYMlRqal83aGs0eTVmbC1BeVFQNUFGeVZmMzVFOUx3UER2dl9zMHJCRjFjRUNOd0dPYWJOT1BBODR4bDBRa09ma3ZSTkJ1NklBQmwtcS1TZWFjMk9sMkViNlExdDlGR3BzbXdwV3l3bHNNYkFWTDV30gF_QVVfeXFMTlhhSFNXM1ctLWNpWk92THVzaVNMdzhpdHhfeE90azVmQ242eFY0YlFReVNLa1dCdnBEQzk0dWVKeVJEUzVsc1UzWVpPOU1vVTJJSjJWdUtLZWJoemtzVDNaQk1LZldrN0hfcEVYaEpiM1VCbVZTbEI3Y3dERmc3MA?oc=5",
+      "published": "2026-10-19T03:56:00+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-      "summary": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uR3FsNEdkbjdTcHliWmtPemNZZWMxcTJZSGh5ZGJ3dzlkNl9LbkNBVW8wUHljZjJUbHJMQk5YYVprbVhkOUhDU0haek1KcC1WQ0tjXzFITzdpVmwtVnQ0bEw4OVJZSi0zMVF6M1VjUFFta2NVa1BwUtIBfkFVX3lxTE43bzJBQjFsYXdCMExobU55eWw4WTNtQnFpOWhJdXd4R21mZkVjRktWckxqbkF3ajYxV1NXNUJSTmVMS3VJVXd2QnZYSnBWS0I4Sno5dUZWRzRRc3BqQ0p2ZER2N3p3Qk9uMXduVV8zOTJQUllzMlotNlJTN0E5dw?oc=5",
-      "published": "2026-10-19T01:56:00+00:00",
+      "title": "Trump to close and renovate D.C. golf course, despite legal battle.",
+      "summary": "Trump to close and renovate D.C. golf course, despite legal battle. NPR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUhyS21KRlB4S1ZYUGlhaVVxSmJraks1bjVQaTJveXFEN0FXUGRJQzdQQVFzZXdldG1wSjcxMm40UmxVS2RCMDFTcWw2WnNKUHFheTdCclkzT05sRUJ1aWNYS0Jqcnl4S3NsRlZnX0FkQWxKUjZlQ3FRODd6MTRQWDRocXAtLUJRMWRQaXowVUg5SWFuQzVRTS1FeGR4aUZhOVZCdFAtTEZiRUhuVWc?oc=5",
+      "published": "2026-10-19T02:09:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,74 +164,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
-      "summary": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdm92TFpJY3U4UlZBNVdBRXBGX1BGSUNoYWNLUzJEaWEtODB6eXl4a3JrWE5TNkxmQ1ZUZTdlWEFkN3AtV2xoMjFpc3lrNGdzRE9vWjVuOGpmd2V0dHZyQzhvdFFYbHl1NEZLT0tqZXhNMWx3ZXZ5bllqdjJfWlJpeDBmVlF4azdzZmtiUdIBkgFBVV95cUxOUW10bUZpY3hKOVNIbWtmWjRRcGRZdGZaWERlM2tGZkplZEhsQlJOVzk5Q2tFY1hBWGYzWVZFYWl4V1FQSVJTeFhjNTMySWJ1U0t1VUp5aXo3N1QyeTJZRGtYcWFXVFF1MW1uVUZUZGN6LXRRQ3V0WkVRWS1mZUcwemdLbW5Ld1NONWdOYTZZX2hDUQ?oc=5",
-      "published": "2026-10-19T01:16:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘I will not comment on his anatomy’: Ohio Republicans buzz about Trump’s analysis of a senator’s body",
-      "summary": "‘I will not comment on his anatomy’: Ohio Republicans buzz about Trump’s analysis of a senator’s body CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU5Wc1hMMUhia3B5NzU5MlFhZUVQeFNzaldYS1pDRlBpWml6d2NTWW9GbmtwTHdNRHRENjRkakF3UWxxeDN5R3p2UVZXaVFTWDNyb2ZuT2QwMU1QUGRob0ZqMkg3YWxYRExfdVRFMHFJdVd1NmVRLVpuYzV3MEhMQg?oc=5",
-      "published": "2026-10-19T00:27:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Democrats lead across polls as Trump’s approval rating dips",
-      "summary": "Democrats lead across polls as Trump’s approval rating dips CNN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmdqVUFJQWNxelRXSmJaSnl2ZWZBelRFZjlPYjNtMjJXdFBFQjRMN1hZSjVFQnNITWs0N0xFT0pOU1JoeHhqMVUzaThPTWNJc0YwMjhhdVZ4SFN2TGRtSnNkMWxIcUdoZzZpWTFxNzE0SENwUFp0Q0I0Q3JJY2hYTG9MdWtJak9mdlJIQVRQeWM4VnhoTGxRNmtmZGRFYmJkNmhFY2Q5TWZ6S1lWWnFFeQ?oc=5",
-      "published": "2026-10-19T00:14:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "60 Minutes Transcript: Helium in short supply as Iran war continues, with spot prices tripling",
-      "summary": "60 Minutes Transcript: Helium in short supply as Iran war continues, with spot prices tripling CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDJUVTF1aUgxX3A1NFRZaFpfYURPazBpRldGNERsdUcteWZ1amdxcnRjTVVpMTFxaFhuWHVHUU5jcFU4ekdqN1JyV3hvdFJvM3BnR2RqU2w4NUUzSmhaalBTWldqeHZoM2dhRVcwb1hjX2lpMEJEMEwtNVFEOF9Nalc2dklfVzZJRzZXLXd4a1dSaGJIMFFNWTBWSnk?oc=5",
-      "published": "2026-10-18T23:39:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Congress reacts to executive order exempting Russia from economic sanctions",
-      "summary": "Congress reacts to executive order exempting Russia from economic sanctions NPR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnNZNngtODVjWnJxTVQwenhpRzBON2FWVHo1RzRVSk5fNk90dkNmRmFGdEhMc2J5SDdLTEtrckUzQkZQc1M1VVBZUFRTLTdoeE9VSFkxcWpjUFdPRHFnRy00d3BXc3NmNTNMTUFscndTQkVwVGJZeXNFRUdZTTlBUnZabDVObWROSWRFbUxwZTMxMUFBR0Z3X1BMR1I3bEI5Rnh2cElJdU1pMG5LbjA1QXYxZlZBMmF4LUFTUg?oc=5",
-      "published": "2026-10-18T21:00:11+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
-      "summary": "Ukraine and the U.S. are at odds over Starshield. Here's what to know NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIaFdYWUQ2TldwS3dEdHpfQWZNRTF4cng2dGROLUJZNkg0Q0hTU3dxcGw4V3dqY1c2OVBNbDlTYWtDNEd0Tk9XTW1ZZU5peHZMTUdQTGNoWk9ERXMwRUtTNm9vbE5NNXNQRW5taE5hYm9fd0x0aVFkYzgyZWNybVhwSC1iVmtRUkNCeUl5cDJkMThibWo0ejBR?oc=5",
-      "published": "2026-10-18T18:38:49+00:00",
+      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+      "summary": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDl0aUQzYnZTSy1WSWJVWmhjWHViby1VRnFxSjFwWWZGQk1CUjhCNlpPM3IxdXUzUnZIWlF5X1NBZ0traG1FZ2dfOVQ3SjhOU3pqcFpDME9zUzlhMjFReVhSaVZOUExTWVNSckNoVmpIUmZvVnUzdVVpSEJFQmdQUzJuRU1kZU0?oc=5",
+      "published": "2026-10-18T22:50:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -201,28 +212,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "summary": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDl0aUQzYnZTSy1WSWJVWmhjWHViby1VRnFxSjFwWWZGQk1CUjhCNlpPM3IxdXUzUnZIWlF5X1NBZ0traG1FZ2dfOVQ3SjhOU3pqcFpDME9zUzlhMjFReVhSaVZOUExTWVNSckNoVmpIUmZvVnUzdVVpSEJFQmdQUzJuRU1kZU0?oc=5",
-      "published": "2026-10-18T08:44:26+00:00",
+      "title": "4 dead, dozens wounded after large fire breaks out at Canadian military base, officials say",
+      "summary": "4 dead, dozens wounded after large fire breaks out at Canadian military base, officials say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHVyQWVXZnB0YTllV3p0aElfOWY2eWlNS3lOM05aMVBMaGVBUURtc0ZUU00xR3pGcGV6MVRQcnVuLXotOEpCOG8wTE1KUHhPcW9LRDhVb2FNOTU3TTlKY3NFY0FVZjBkZFk2c1FtOXNfWFpCU2cyekd1MzNBMzRsNGtvbHFhUHhZbjBYRlRHWWtPdGtMSE1ETU9R?oc=5",
+      "published": "2026-10-18T02:35:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | I Teach at a Business School. It’s Time to Shut Them Down.",
-      "summary": "Opinion | I Teach at a Business School. It’s Time to Shut Them Down. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHZ6eFBKSXJ2cUhwamdJZWFaM2pYTmlmTmRwNmtTb1FSdzNRTDl6UzA3U0syOGk3WXB0clM0b3V5Zk82aVZBclBxbkpzaURPQWVxZWRHVThCV3dNY09PcXp1X20xaVRLUWJJMlFWeVFYaDQ5RkpiOTQyZnlCWE8tcXYzdm5sdU9DblEtbVFzODhnbE11VUJSUw?oc=5",
-      "published": "2026-10-18T05:00:06+00:00",
-      "beats": [
-        "Business",
-        "Schools"
       ]
     },
     {
@@ -298,19 +296,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut",
-      "summary": "Donald Trump tells White House Press Secretary Katie Zacharia to ‘reconsider’ the job after disastrous debut Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWElzcDlYUVFxdU1GaFRZc1dSUHVUX2hyclhfcHJONEhPZGoyRHNJV3VnNlIxZ0h3WHk5UHNIS1NWN3pPTlRocElOVHJ0UmZBLW56WWVnb01heVhESko2VGo3UzFneXM0UDVudDkzbXpCaTlrSWdfUENJOFRyaTMzb0tFejU?oc=5",
-      "published": "2026-10-16T23:30:20+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -381,6 +366,18 @@
       "published": "2026-10-16T19:30:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Katie Zacharia is out as White House press secretary after just 5 days on the job",
+      "summary": "Katie Zacharia is out as White House press secretary after just 5 days on the job NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmxXWGtEcC0zbTRZcm9MeHBnV0JSbjVLSnFNelgyYTRjUWY1QmR6eFlsQmNWOHJqeUZwQkxrV3U2bl9OQklKOUVtRUl3b2NWS2lOWUlldl9udmNMcDlGZXJaSVc0OVRvVk44NUhLdWQ0VWdmelp3dFdJaXNxQW4xR2taQXRIb2RzcjVuUUJQVEdJNmdLTXdOTGtDY3JyUzBDSnZFbW1tbkRPZXE3MW9xREk1OTlFdw?oc=5",
+      "published": "2026-10-16T18:56:11+00:00",
+      "beats": [
+        "Politics"
       ]
     }
   ]
