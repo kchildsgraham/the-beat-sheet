@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:04:36.949724+00:00",
+  "updated_at": "2026-10-20T15:45:28.400022+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,102 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "September data shows housing market in a deep freeze",
+      "summary": "September data shows housing market in a deep freeze CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMndDZk5ITDRIMnpsWjNaajJNQ0JkSmZVdUpQSHIzLW4xRmNPaGJFV3BKNmQ0MmppUFZFdi1QbTNsWmk0ZExIZG9TTkRKTDdleWQ5YXdVNkpXUFFCeUd0N0VMX0w3S1FBSnFtRUM5bUhnVlJldlNwcWM0ZFktVGNBQS01MXl5bVRqWi1jdEZRTy12NEXSAZgBQVVfeXFMTjZ0NXF0emlBclJsSE13clZhenVLazZzLVlNSVFzb2tWWmpETzFIcUVmdnlPYjJPTnpJTkJhRnZ3cVJ1cm9mb2VrNEx4UlZVUHhMQWNKXzRvblJXVjNFRlJCRzBJaDFkV3dwNTVDR0ViWGUwalFINnFvd0NUdWFmc1VDVTJ5eEdObjY4Q1J6cHhkS3gtcl9yS0U?oc=5",
+      "published": "2026-10-20T14:00:03+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+      "summary": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50% CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pZ01RcjBwTEVaSGJSWEJBRnQ4Y05WZnBuOHEtNlMyUWljdmVlUjFyNmpTNEVRdXVKajk3YUYyNHdVMHhxNHNfNkJCeUJJVkVCbS1CZjE4eWhZMGRWRC1yQUFJMHVoXzdFWFN5WGJBcE1FdzdLdUdXY19B0gF_QVVfeXFMUG02ZWQxek5oajI4THN2V1Rpejc3T2VfM0lJZElPMTVuSWhjTC1xMWNaYzczd1ptYmtWRHdQQXdlbVpvbzFOMUZhNkpKRkZRMmpFcjVqd2F5WmVHai03eEwtRGNka215a0JRaXNtalVkWmZjQllzV1JZTENVblplZw?oc=5",
+      "published": "2026-10-20T13:34:57+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CNN warns Trump White House: Restore Air Force One access or face further legal action",
+      "summary": "CNN warns Trump White House: Restore Air Force One access or face further legal action CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb080dXBVMnAtZ1hoaktoSzZXNHh6YzU4Sm53OS1JUzBlbVVIc2JZaWNRb0k0emZ1QVNQSnNwQ08zc05yUVUwdy1XMUNXeVFwM0tfR3VjamlwWkc0QVQ5ZGJnYkRvakpDSmZlNFBwY2oyaDZVYlgtR1BlcWU5Y1JEVVgwQmdLSWdrbGc?oc=5",
+      "published": "2026-10-20T13:28:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Diesel price surge triggers budget workarounds, changes to bus routes",
+      "summary": "Diesel price surge triggers budget workarounds, changes to bus routes K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDlsUEhmVzRqazA3eTY4UmcyQVU3VzNMZzZQTWRuRVdpY1pNQ1dtSU93N0dlY2V6WUxCZzJuV0RCbzNweDNsMk9vdmRaNG5LYlBuQm5GUnp4N29OeTdiVGRVYVNvcVVSc2V4YXJrSWV1SUdIMWhXX3E3ZWlYaTQ1YVpBYjVDRHdIR1Z2Q2VRVGxoV3Y3WTQ1LTBtc0tQTXpsZEhEQ1FNd0o?oc=5",
+      "published": "2026-10-20T13:12:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+      "summary": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2N6RnNWNDJZcjRxRFBHRFlITXVQSi11LXB3cjlZUURzeDhvMWF4czYwMno5UUdaSG5tLXVmNU0wUUFicDB4eHFfQi1JYm5QSEt3Umh5UmZ3SkJ4dnNPVUNob2UtSVBlcWowQXJWX1F1NzYwMXJPbVMxUDdFMmpjNHZzZEQya1p5b3NKaXlQajRIaUUtTmc1a2ttTFdEOEhxUWlwZDJSYjlfV29ZYWfSAbMBQVVfeXFMUEF5akpwN3FvZmh2OThfczI5THlMVUJhRXZMTFZ5eEdlWkRvQU84OVA0bkZYdUFoTi01SlB2cFk5Z2pzRk9mc0tXVDhIVGs5Z1gzY3NjMEJVVi1mNHhMU0tsSnBmZ1g1N1lZTmZyVG53bHN1QUVhcDQ2a3NjQmRZZnJSUl9udENoR05fYWRNYnJnOXptZlZob0FZbzBYVWtxNmU3aTF0SjN4MmI5Uk95VTlyYjg?oc=5",
+      "published": "2026-10-20T13:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump administration announces $8 billion farm relief plan as fuel, fertilizer costs bite",
+      "summary": "Trump administration announces $8 billion farm relief plan as fuel, fertilizer costs bite CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HV0lOTW0wRUlkTDJpWHlFMVp3V1paMjVwSldRTWh3MEZfejRLTWd1Nm00cTJfOWh2SEtUVWxRSHphcHdoNTVfa3gwTTAzMjJYcWJzQU9uVElWcERCdF9JaHJjVjFNQ2JZV2R2N2VwNVl3TWFjZzdn?oc=5",
+      "published": "2026-10-20T12:41:43+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "How a calf injury could have led to blood clots in Jalen Hurts’ lungs",
+      "summary": "How a calf injury could have led to blood clots in Jalen Hurts’ lungs CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfX25McFl6X3JQcXBkWHVqNWNPNmpqaFZXX0xIY1N3ZHIweHBlckdGQlo3bkZSMFhsNlNIcU5keW1XWFNpblhnNjJVeGdrdERUYkdmNHhtVXZKR3diOWEtRVpmQ3JpaGNFcF91b1l3?oc=5",
+      "published": "2026-10-20T11:30:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "summary": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns NPR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVy1TWHlscmVKbTJDbTVsWVRBeWlud2N3T0xmR3hIMk5EUGtreDhuVUxXY3YzOGtHQXRiRmtmd3dBUUtKYkZaQjl6aUZCV082UTI2T0JwWWxHVzdMVTRUMnNleXY5YVVFMmdVVHBhUmZMS2g2VkNWT19DeGFVSGxSWnJMdUhpdkFxMFp3amExdnRhMGR0M3RqdkJGc003MWduNE9tdVhzQVpiZmNHQ3c?oc=5",
+      "published": "2026-10-20T11:04:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -32,99 +128,27 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "France’s crisis sounds familiar. Is America next?",
-      "summary": "France’s crisis sounds familiar. Is America next? CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LSm5Pb3RBTmg3OEo2WDByZnhzT0tzalV6RjdsOXBLbjhGbEVBUU4wN2lPOGpGbzl5aThOSktGaEw5Z3dTRVpEWWhXMExHY2poMW84MzBsWHJvWFdZZWtfOGVTTnF2R2daeHJhZ0NRUXdfRjNyb0QyNg?oc=5",
-      "published": "2026-10-20T09:00:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "COMIC: Backpacking teaches artist lessons in patience, trust and friendship",
-      "summary": "COMIC: Backpacking teaches artist lessons in patience, trust and friendship NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTFMZGEtRThnTkdSR0JRVXpwQUkxTktGbDB2Z0FqZlRFVHQzSVlKQTlMdm5xbk15aG5FVEFnS01KTUhKdjdtUVhDWGpHRzczLURhbjc0YlFsY1dHODVEY0dUaUpuSnpCcnBTeFdVWUpNeWxUbU9NUGhFa1VmTkFTOURYU0ZVVkpuVVpfc3ducTlxdUFhYktoalREX1poZGow?oc=5",
+      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+      "summary": "Why these 5 everyday items fluctuate in price at the grocery store NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXlqSUYzQ3NuT2VTc3Q5bnFLYkFFNjZQLW9DYTAySFJ4T0NrV1hCNVVKc3FRelY5cjN4N0ZEWXFUblE2LXVWQzJlOEdvOUNVOFp6Ti1Va1JkS25TSmJHdmhkS25JLUlQZHdEX2xOTmJaZlZ1MG1mcUtvRFVqVy1YQVJwVFg4Ymtu?oc=5",
       "published": "2026-10-20T09:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Anything short of a blue wave could seem like a loss to Democrats | CNN Politics",
-      "summary": "Anything short of a blue wave could seem like a loss to Democrats | CNN Politics CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSU84U2hYOWhLY0VmWVV6M05aSHJoQmRZMmxKazdPa2NtbnN5ajlDenVJNnN3aUtMZV9sWFVDY2tCVWRVdVZ2VlJQZ3AtQnk1NDYxQjRUNEdqdzVkdkxybHc1S05ZQUpuOEVmMy1TRFQxTHZxWEVMZUlad25xWFhmTEoybENVWXM?oc=5",
-      "published": "2026-10-20T08:00:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
-      "summary": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHUmhUSEpxeElIeXhVUHYtUVc0cDNvXzNOazdUZU90Q0l5YUpWQ0loczBheGtyem1YVjVVUHlwVDJhamtsSEdGOXNqNS04dy11blRWQ19tYm14OFMzVEZCeGlCWmhvYmlqMUxtb2ZLYnhtdzBzX3fSAXtBVV95cUxPRi1hRUdfQ3ZSMFZhTWF5MjZSamN5Nk9JTkctakprek9sQUtLbHVUWHk2Q2k3MEY4d2JVa09CRHZOSFZjMmNPMC0tUmxFQVM3N3VfTVZkZ3VBUWlILThsR1Bza3h4aEJWSzRPMGxid2ZHaFBuRzdLNHdsZEU?oc=5",
-      "published": "2026-10-20T07:14:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-      "summary": "U.S. bans DeepSeek from government agency systems amid AI rift with China CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMm5ISmplcUtod2txVlV0ajlNUHFPanpRa09GWnBMdjdOaUFCSTZOUXk2SnVNclplakZrckJWZDZTYU96Z3pKTVZieUZiVXkwM3Fza0FibjVLaGhBR2dNMUVwNW1yTllMZlI5R1N6ek1MZXI5OXfSAXtBVV95cUxOMTd2ZFNDSGNCclhSb3lSYl9MdnVtZ3BiYlp6VFQyZUpNR25oNFlsYnRnMThxWmJTZ2tWd3BGWV9PWGFSdHMzMFotTmNpbUFuQzZLaVdkOTJtSmxHeEpLdFcyU013c1dUMktXNWt4blRDZFYzeEk2VkF6WVU?oc=5",
-      "published": "2026-10-20T06:25:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "summary": "Alberta voters reject a move toward independence in referendum backing Canadian unity NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5S3loSlFUb1hMdlRNTEN1WFRxOXRVYWtCY0s1a0tRbHZwRDFZZGRjLTgwOGI4V3pMZER4eWhjSU5Na2FsaWhrQVZpZ3I0Y3h4dTZ6R0V3VzM3RkZzdTJPZDVCdGR0UkFwcmprdGF5enVsaTZObkpLMDlR?oc=5",
-      "published": "2026-10-20T06:02:40+00:00",
+      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+      "summary": "TikTok staff raised child safety alarms. Court records show executives failed to act NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXYtZWs1WGJkTVZ5VkZ4TUt0bHFMX3BUZkN0QXZWazR5QUctS3g2ZU1kU2VzaHpGZVdsaXVCc1NqZVkzSGNuMkp1bVVIMmphbnQ2REFFWmtLd1p6bFNnZ1pLQmRFbVk0bmZvREVuZzhMVk5oSU1xT1JWeFZwUUlJUTJzSXJ4aXRn?oc=5",
+      "published": "2026-10-20T09:00:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-      "summary": "Copper is outshining gold this year. Investors say the rally can survive an AI correction CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qMHk1cnd4WHlQN0s2bmNpaDZrdGdEUlNyRGN5TTRZd0tVTlhBWEdfODFvY3BzLVJtU1FaSmpVQ1IxNDV2Qk5TTmJ2YlBGdlI0QlNvSV83YjNiMVAxbDUxUnVLQWxpZ05wZ1hmdkFYZjNCdmhOLWI2TNIBfkFVX3lxTE9PVXFMb1ZNMFdwS1lld0txN0gxTWlfUEladVlnYXFhb2pQVVdVbEktNm5IakxqOHkwMFdzM29vZkcwN3BsaXpaMmxEdXBkdDR6Rnk3SllpbUg1ekt4a0dzalhPLXpWUUo5TC1ZdDdla3g5ZzJsdzdWS0c3bXZEQQ?oc=5",
-      "published": "2026-10-20T05:57:34+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Beyond the Classroom: Extending High-Quality Instruction Into the Home",
-      "summary": "Beyond the Classroom: Extending High-Quality Instruction Into the Home Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGVpWkg4OFotWk0xMWhfRTRJWmxXY2NvbmhqSDFtMW9jR0NLak5BaHkzVDEzVWkxdE51RUFpOTZCYzc1WnJTbWFKekQzV29yVVpfX2xMaGtxLW1rMnZXeVZaalVfbGxVV3B4LWxTVURSei1BNHI1eERITG5LNy1ZZGZFRFFRSHhvWHRBb1hfUXhjN2lCd3FyT2o4d3VwdmY3ZUh1cVJPMlBfejQ?oc=5",
-      "published": "2026-10-20T05:03:25+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -140,18 +164,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump uses antisemitic term ‘Shylock’ while defending Sen. Marshall’s lawsuits against his patients over medical bills",
-      "summary": "Trump uses antisemitic term ‘Shylock’ while defending Sen. Marshall’s lawsuits against his patients over medical bills CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1ZyelpVdGlaaDNuMFlQTGI3MXpiMU5jSUhFWUNBZ1U3SU5raURvMGt6Yk9kMHBudkFIUGdiLWwydmdCQ1ZmVUdkQ0R3M2VWMkpfb0ZOLUZqbGJqRW42bWtFOTVSeGNtZXAyci02UEw1anliRDNPMUVJYjhsOHFUay0yQm9rb0V5QUhPRjUzczQ?oc=5",
-      "published": "2026-10-20T04:19:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -161,6 +173,18 @@
       "published": "2026-10-19T23:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How an Indiana district saved $20M — and gave teachers a one-time raise",
+      "summary": "How an Indiana district saved $20M — and gave teachers a one-time raise K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTZqNUZYVG1sTXpZd1J2OGwteVd1dVNUSC0wSm5JYWZ1alRaakdhdUdPb1FEbzJ1WENBVFhSWHg3c09zZ0hPZmdIUVI2Z0pIQlZuWG55TUt1ZWFmRVNJazRJNktIdnJZS2Z4anZ1aEpRTWRmQ0ozcG4yS3pfbEVSd1NhcnZnaWNBZk45cmxxVC1LU3hVTjE2SURUcjJQU2I3ZkJWU0VQVGk?oc=5",
+      "published": "2026-10-19T22:09:02+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -286,30 +310,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: New York signals choice program opt-in, and ACT releases new data",
-      "summary": "Week In Review: New York signals choice program opt-in, and ACT releases new data K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CdHlYQ3doOGhyb2UzdklDaUNzLXJlWEwyUU51M3lJZHR6RFRkVXNXZElvSFFxRzMycU01SGN5WFNYQ0ZHWm5zVjJqVGR2UndHdWFyb2hVTmdFVVgxdzlHb0Rydk9XeGsyckhVak1JZlNqN2ZHYUE?oc=5",
-      "published": "2026-10-19T14:59:46+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "The Cover-Up: How a Trillion-Dollar Industry Launders Illegal Gold",
-      "summary": "The Cover-Up: How a Trillion-Dollar Industry Launders Illegal Gold The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXF2NWxyWURic0VIREMtbDRpVW85amxWZ3VRa19FZ0ZMbVlSN0pUTVhPbFk0OVlyMGJmRVBUcFVWWFIwcWNBQWtGMUE5ZGNNSW16UXZDd1Jydl9OcDdCMVJzVjQwMXVRQ1pPV3NhUENJcktYZXBEYWpQWFVNdVBzbWZvcUhKRGQ1MXZxak0xYWFZOENlSUdLZl85bjRPcE9Q?oc=5",
-      "published": "2026-10-19T13:33:10+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -346,6 +346,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "The Cover-Up: How a Trillion-Dollar Industry Launders Illegal Gold",
+      "summary": "The Cover-Up: How a Trillion-Dollar Industry Launders Illegal Gold The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXF2NWxyWURic0VIREMtbDRpVW85amxWZ3VRa19FZ0ZMbVlSN0pUTVhPbFk0OVlyMGJmRVBUcFVWWFIwcWNBQWtGMUE5ZGNNSW16UXZDd1Jydl9OcDdCMVJzVjQwMXVRQ1pPV3NhUENJcktYZXBEYWpQWFVNdVBzbWZvcUhKRGQ1MXZxak0xYWFZOENlSUdLZl85bjRPcE9Q?oc=5",
+      "published": "2026-10-19T09:00:39+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -353,18 +365,6 @@
       "summary": "Trump dangles rural health dollars to push states to change hospital laws CBS News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByNEt3UEtEaWZweG5NRHJNOWc2TTBiSFYyWE92eVVrNWtSNDk5S2pCeDBxSWs2ME16WUhXb1lUMEQ4VXZ0SW0wMDdRMUdGSXRSNDlXbnVVQXpVLUxPSldfY011LTk2cFBxTzhUQm14ZUFtSkNlaFNiMlFB?oc=5",
       "published": "2026-10-19T09:00:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Democrats — and Elon Musk — continue to dominate midterm campaign fundraising",
-      "summary": "Democrats — and Elon Musk — continue to dominate midterm campaign fundraising NPR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUW5oNm16UmdRZFFKd3AyTm8yczJZcjc1YUJZZmxLNVNvSUFyRU9QclRvc2QwMENMc1lMelFzQmRaTWF1eDFTZWdNdXh2aXlVeEJ4NU1WQjBVTG1XNnBjMEs3eDJjam5xUGc5ZF80N1BKUF8xdUpoQ21hbG9ET3BTazhBTE1FMENPWi1lMVhLMVB0X09mNm11ZnRoVHBUbjlzcXBjUzVyODlPcnNH?oc=5",
-      "published": "2026-10-19T08:45:40+00:00",
       "beats": [
         "Politics"
       ]
