@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T05:13:04.625460+00:00",
+  "updated_at": "2026-10-22T10:27:33.670629+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,75 @@
   "errors": [],
   "stories": [
     {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "This Las Vegas-area superintendent wants all students to graduate with ‘marketable assets’",
+      "summary": "This Las Vegas-area superintendent wants all students to graduate with ‘marketable assets’ K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjF1c2hyWjJJQmJLdjFDd1lRVDd1a3pjTEcyTzhuNlpHT3ExRjlRd0dJLVFseE9aN19XX0tnWGlqZHljX3Y0bVk0ZWpOMWFKVjF1RG1GUGczdlR0UUFzUU9rY1ZQcm5pWU5ENERIZmNvWkx2clBjVGpWQi1FcmhfRmVZSTNNeVNuZ3BsdEZvbFNLaVlFTVVTS2pkQndxT0taQzNXQmM2SEF5TG50WlFSNw?oc=5",
+      "published": "2026-10-22T09:55:19+00:00",
+      "beats": [
+        "Business",
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Inside Amy Acton’s response to the incendiary attack ad featuring her estranged mother",
+      "summary": "Inside Amy Acton’s response to the incendiary attack ad featuring her estranged mother CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWW04aVphZzZFWDZXTzhGRGFDOG01U2NJNHprOG8za2pOaVFsUVB6Rm5yQ01SWEtLWnd3QWhjMnk0NnQyZExtUDFWOWx1THdKSE53T3hpM2x0RFZCeXZQOWhXd2g3aWxDaEFKQUhDQmlXM2VEelVYdFBkOXJ1QVJ5UGdCT19sOThpLWxQWg?oc=5",
+      "published": "2026-10-22T09:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump merchandise stores are closing: 'He has peaked'",
+      "summary": "Trump merchandise stores are closing: 'He has peaked' NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHFIZG5hOU5rSHJCV3FncUdoUm1jSk0tcnFiYm54VkJtZWZEby00cEI1dkE0a3JlSXh3MVRxR3pkOGhta1ZFcTlrM3pCZngxT3lTQlRTaGx4UVB6NzdmSVdyYk9yNHFNUzR4NWV6eWpNc0k4elZiQXNjendvOWlyM1duS2ZLNGJzMlo3YnVDRmRTQjBzQUE?oc=5",
+      "published": "2026-10-22T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+      "summary": "Trump's redistricting gave Republicans a head start, now it goes to the voters NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3Z4UWpwTzRQdFhpQmlSLUNUdDFWYTVqTDBJWUxqRS0yMlBncDBXb3pJZW02b1Z4aDRPVzBhWFM0R0R0NnFvUkpYbnp5eDdPZGYtczdkckNld29NUlhacnJZaTBPLXVoREN5SC0tQVNLT3VfV3hpNUlEZ09FWEJOaHdLQmIzTjRaU2tv?oc=5",
+      "published": "2026-10-22T09:00:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+      "summary": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win? NPR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONF9XX2NKTG4xNFpSeURFQUc2YWRRRFZLaXRkeFpPZ1Rua0tQNXhpeFh0S1h2WWcxV3M2Z25fZ1BKRmNlUXBSc3Y0NGdjcnE0ajlDTTd0d1hZZk5FbndkRmlRVjNnUURxb19RaTBLWDVlSVhIc0U1Qk41dWpWQWFkOVlsb3dUcjBvY1cycnUtdkgxWmZiS3c5b2VGdnhNMHl1MU1DbEp3YWhLVGJhQ2NHZm93?oc=5",
+      "published": "2026-10-22T09:00:00+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-      "summary": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0a0dDNHVBZ3htWXJxMWhXS19sRkdkMUNBcXF0MzZWejJBMEpLU2p2WEx3Xy1XaHNuamhaUVBmbHU3OG12Y1ZBaVdHRjJ5ck9jV0U2ZGtyRE5KVEdIUTlOa0NjZlJqeU1YRXfSAW9BVV95cUxQbERlN19LekgzYkNqdXFjd3FJb0lYM2JOaGdhWU1oSFdaSVFFTExkeGM5Y19peUFfR1RxZkczR2VwY2tGTGF4ek11SGcyUVZJeURTLVNyVmw0ZEtUdU5WeGVHT0Y0NV9fSkhDd0hRQzg?oc=5",
-      "published": "2026-10-22T04:26:42+00:00",
+      "title": "CNBC Daily Open: Ukraine's Starlink whodunit",
+      "summary": "CNBC Daily Open: Ukraine's Starlink whodunit CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdqNXgxS0ZrQXVwQjlTN19pSklyY241WFR0WC1qUl85R0dzWGViVVdpWWltM2U4bFpMZzMtWGdZVW9hbHg1NWJ6eTkwcDJYRHYxNG9XZHJ0VUliTFN0MlJHeFlHR1cxU1d3RFgtandzY1F4SkhOb2VVTnlVcC1qMzMxTk7SAYoBQVVfeXFMT1VldlFiNDhfTVh5eGQwdWU0WjM5UVpEeXpOYUVwVWtTMFF0eTljbXJNT3FLOUxMVkJhbmpRUmhONmhzc25wQ0RlS3IxVXl2eUpTQkl0eHNOX0Q1WEQ4OW41eTFlbjEwSHdrMGpFZUJUbmI2eUpyajhERWhBNERSRTMyUGk3Vnp6cUpB?oc=5",
+      "published": "2026-10-22T08:36:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +97,34 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-      "summary": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
-      "published": "2026-10-22T03:30:00+00:00",
+      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+      "summary": "World's largest wealth fund posts $30 billion loss after bond market turbulence CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFByUWd0Wnl6bkEtNGgxTXZxSzJmcTNVRTVOcHQtSEszVjlOU0tJbldSODR5dl9MUzN3d0NlNm4xTGY1eFpaZlBBRG9RbFJwVTNORWhvMWdUX2RnVURhcFB2Q0llMjFMR05iQVFRa0NYMkhWNHZPb1kxMldhTU1MamZ30gGHAUFVX3lxTE1MaURpUTRVUDRuYzRLYTgtUEVOQUxpazNrQ3d3RU5jY0Nwc01JemJoVERPUldseFByTXVxUWdVUk5WS0F6X2M5QzJZMHhpb21RTHpWNGI2ZXd1M2ZDNnJCdF91VGd4Zm9uWjh1SHJ5QXRpR25xTW1IVmx5ZmktUkVkamo2WkVlcw?oc=5",
+      "published": "2026-10-22T08:09:53+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "On Main Street, Goldman Sachs makes a big bet on AI",
+      "summary": "On Main Street, Goldman Sachs makes a big bet on AI NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOERqdTZkVDBjdlRfQ0JFV3NpLURsZmtoUGhLMnJtck9PNTgteG9CclotdTMtYm9tYnJORU9HR01uWmFIU3EzS2xEZmJTcDRwQ3Z0RjVXUGlVS1hoZzBsY3R5TFdteGliUF9leFA2d0I5NElnNlQzNkdOekdzcll1cnhGM0JBMC1JZklkN2lqazBROG1lcm40aGtPX0otcmIzTnc?oc=5",
+      "published": "2026-10-22T08:00:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Barclays to slash 5,000 jobs in AI efficiency push",
+      "summary": "Barclays to slash 5,000 jobs in AI efficiency push CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeFJoaDB1WXR3dVFlM1RZQ0lsWHBhZ2tyYnJ5ZDhCblJOejVmLXM4RUd6Snh3S3VaOGE1ZlhCbWlJNXExUXFxcVBIakZkQmdHcG5SYlM3eXJTXzU1cUhBSkRudHVnRHoxN2fSAW9BVV95cUxOMjlQWXVtTHBnNnBUWFpqWXhwWklxR2IydkF5VmdYTlpoUUVCRHQyaXZqaUlZbEdWbjQ2akI0cUoyNVdfZHJOZkdTUmRzbEduZ1k3M2JBWm5fcFh6SW1yR05VSFZvYndIazhDRXFmWTQ?oc=5",
+      "published": "2026-10-22T07:41:09+00:00",
       "beats": [
         "Business"
       ]
@@ -47,12 +133,12 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Teacher who survived Oregon school shooting says she had no chance to protect children",
-      "summary": "Teacher who survived Oregon school shooting says she had no chance to protect children CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDFvWHZ4Y19hT3BQanYwQlQwZ2M4OFlla3JyNERuZURkZGFCclVZck9TUDlyT0I4NkZEQnhCVmJqNk1ob0djcWthZWVOSERLUU9BdlY0bFZKVTlWdk9xaE00QS1FZEw3MnJmNHlDYlRja2FSWWs3Q05SY0ZtY0htalpn?oc=5",
-      "published": "2026-10-22T02:29:00+00:00",
+      "title": "Construction on Trump’s 250-foot triumphal arch in DC could begin in just two weeks",
+      "summary": "Construction on Trump’s 250-foot triumphal arch in DC could begin in just two weeks CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0ZGcGlZZXJtVGNQTlhZbXdncHFQTkN3NGZpenZCLTlJWVFKa0dNSUp4d1lCeUROcWJzenV2b28zZkdyTDZ4blFpMk41THkwc3lTMmhyeF9McGQxTkprVGtsQm5TRmlXMC1tTzdZcm9JU0pQbERwUGo1NGVVQk5nX2lVRHV4SEpJa2ZOQURmNi1MNU5ITVVJSjVlRQ?oc=5",
+      "published": "2026-10-22T03:54:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -63,54 +149,6 @@
       "summary": "Judge curbs Trump administration’s hunt for noncitizen voters in some states, citing flawed data CNN",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmc4bDdDV09aWUF4dXp3ZDdCVGJBUkpXdTdwbHBPbjIzYTFFOENxNGxZNi1hbFUwMnYtcmZPV2xySUNEdFJkdlBQNDFMQWFyUkxFMGhEeFVkRG9LOTU5YU8xVEdSNzI4VHp0QThlS3NuZnBzZ190TkdJdmhrOEdaNG5ldmVLS29QM2hGV0dxUlVsWWR5V0tz?oc=5",
       "published": "2026-10-22T01:59:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC Daily Open: War worries meet AI anxiety",
-      "summary": "CNBC Daily Open: War worries meet AI anxiety CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1semNjaklDVl9YU0QzWk9Ia0F5MHhZYk0wQTV3Y1NlVWJQcUc3MkpZRWttUTQxSk1HNEVVV05xc29SSnk3b0ZqTTFNdk1vbG9NN0k3aU10UXNkQkhTQXpNWUhUR2hGT0RJaXlaUVU1SnlETlFNRGk4ZUpVR1QwZ9IBgwFBVV95cUxPeU1hMUV2aWlmVGJsUHREc3kzUlNSdFBMampEMmd6MVFFOE5YS19fZ2hLZXlFdVBqbHluV2MzbGJ3OGlkRjU3UzZoT2FmeHBlcW1ZMWwxODRzZENySGR0aHd5ZHQ1bU16dHVrT3R6WFhFeW14aWhyNkhsak5OVS1zYm1PNA?oc=5",
-      "published": "2026-10-22T01:49:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Fights over loyalty to America, party and Trump dominate Michigan and Kansas Senate debates",
-      "summary": "Fights over loyalty to America, party and Trump dominate Michigan and Kansas Senate debates CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vS01lRXFFby1RUThNbmQwZy1CV3FDMk42VGVOQTgtRjZtOGMyZkE5LVdERFFQbklUdkZIdlVDa3EzVlN5YmkxSXVIUEM4THQ1eWdxSlI2M1p5OUpuMnF6TmJkR1YyX2pycDk2eWVCLXRTa254Xy0xU0Nn?oc=5",
-      "published": "2026-10-22T00:49:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "AIPAC halts endorsements and direct contributions to candidates",
-      "summary": "AIPAC halts endorsements and direct contributions to candidates NPR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDRmSlpBeUJ5SVFocHNJRC1QUVpHTm9fQlVEckNzbFA3VXg5R3dTaUhlbXVOQTdablBMUDdzTjd5cFFqTnNWNERLbmQ5cldqLVNWQUtfemJhX3dHaER2ZE9ZUWIyZWpkeVh0WnZqbEtTWVdkTkxHbmJxOWNfQk1SdkFiLUdYNGpabVNYSzdvb1VaTEFZ?oc=5",
-      "published": "2026-10-22T00:22:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The Justice Department begins notifying counties where it wants to monitor elections",
-      "summary": "The Justice Department begins notifying counties where it wants to monitor elections NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16OE9yR3JXUFFRZElsbTdtQjVKZFlDQjZtQk1hSnpxeURxMEx1dEV2TTZ3dDlqLUdhdFZBb2FPREtId1E2MGxYT1NxUmkyV2t0TzJpVG13TFY5TEg3dkJmQndSQVlNUWtWMkJQY0ZXcjluU1VRbnFkQ2gzM2M?oc=5",
-      "published": "2026-10-22T00:18:47+00:00",
       "beats": [
         "Politics"
       ]
@@ -152,30 +190,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-      "summary": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3d4R0g4d1EzWmlaWnNUWHUxVDgtT0hCY2dxX2JjMFQzcUVEOTlIc0FrVF9PZXA1Q0YtY09xZDZwMl9TeWlPdmtOZXB4ZTh4NTd4UGZCbDNLX2JmM0szZjgzay1UT0dfQ1Z6UVlZNjJUcmFzRjREYzB4QnJTMFliVHFBVFJzN2FiU0x0SGcyUzhfM1YzSWtZdWpCUHNCb0x4cXBYaUpWNmo?oc=5",
-      "published": "2026-10-21T19:47:18+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Kyle Kennedy, granddaughter of Robert F. Kennedy, dies at 42",
-      "summary": "Kyle Kennedy, granddaughter of Robert F. Kennedy, dies at 42 NBC News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3JFUllDRlVsbjM1XzVzbzQ2eHViM0lveExESXF6enZtQmJiS1g0cDFWX19NRXRtV29nOUdTcS1jaUdrOUY2NnFYbTJtalotQnhBSlB3WXNvblFLQzQwMkdvNEo3N0N2U0pKakVibWRGeEdRSXpTU0d6WVZ4U1hHSEM5SjRqSURoeWdfbC1qWkFPSkY2TGRZSkwyQ0hueS13?oc=5",
-      "published": "2026-10-21T18:50:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -212,18 +226,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Inside an NFL headset: The technology, chaos and split-second conversations behind every play",
-      "summary": "Inside an NFL headset: The technology, chaos and split-second conversations behind every play The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2pPVjdkdWVwMkpMUmJEOWczQmo0dmhCdHhCTkNxb0lqSjJEbThRRW54bV93S1VoNG1Ya0ppOWRBQjhMSnFIbVdsLWM2R0hYcWxqWDlyU09hOV9JYlVpeXItQVhiU1B4UWRVVkwzSW13LVNJdU9RbHNZUmtpNnpyNXZKd0F6LXlMeWZtQjRCMTRwV2NHTVdyMDJ5VXZ0d2ZYTjZGWXRtXzhzQQ?oc=5",
-      "published": "2026-10-21T15:55:46+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -234,18 +236,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Inside the science of reading approach to literacy instruction",
-      "summary": "Inside the science of reading approach to literacy instruction K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcEx6MGN4QVYyUmFkMEFNNjVJbE42Ti1US2gxcWIxdWQ2RnFBbTZXZ0dST3oyYkxEdDFSeFhrcV84UlVaWm52bllUc0UtaDlMd0JOM3gzc1BDZVFJWnh0VkxZNk5WWEhZbVlRNFlxNFZxd3F5TTV3V1loN2ZndGU0STlzTnRYcldhcTRDMThNOGw?oc=5",
-      "published": "2026-10-21T15:07:35+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -267,7 +257,7 @@
       "title": "Pete Buttigieg skewers GOP's habit of taking credit for Democrats' projects in one powerful sentence",
       "summary": "Pete Buttigieg skewers GOP's habit of taking credit for Democrats' projects in one powerful sentence LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUUwR0ljQ1JjcTV4NEN1UGsyTWV2MlNfQ0QwekFSWVdqQ2ZqTzdYLWtSNU9vOWZFZUdWNmo2aFk5eW9qQ2NNNXQxT2tHRENRd2NEb3RWR3N0aWsweS0yOENyYnBKc2V6TXRUUmZFRkRDZDNmSTNBU3cwSlF4S0hCWFhtX1BOUU1vWDEwb2lRLVUzdWRHcHdkcnd3UlBrUFhPOHJka3BYMEwtZldhaVJlMjFjaE5sY0tURkhCUmplWXRXelVCNGJram84clhMWEVE?oc=5",
-      "published": "2026-10-21T14:33:30+00:00",
+      "published": "2026-10-21T14:33:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -295,6 +285,42 @@
       "beats": [
         "Politics",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Federal agents knock on doors to track down possible noncitizen voters ahead of midterms",
+      "summary": "Federal agents knock on doors to track down possible noncitizen voters ahead of midterms CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TNlJmMHdySWlKeDlTNG92VGdYTE5lUmZtcGstY0RveGQ3c01vXzlTa3h0RHJyVXRfZGQ1eU9CQUVBN2UtaG12VjhXQlFZeGdWaHZXamJKWFV4TVFqSVE1LUh0MjlCWGhUelZUQTh2ejVpdlVvOVE?oc=5",
+      "published": "2026-10-21T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Retired American teacher imprisoned by Russia returns to U.S.",
+      "summary": "Retired American teacher imprisoned by Russia returns to U.S. NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E?oc=5",
+      "published": "2026-10-21T09:25:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Sleepy Hollow, N.Y.: Hardly Sleepy",
+      "summary": "Sleepy Hollow, N.Y.: Hardly Sleepy The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT09ZMmlIRnF3UTloYkFDQUt6QmhvNVBOZmV2bG5mdFFOSHcyakg1WXppNU4zWlFWbkUzWElsR0FkSjRISlN0alNsMHh2cVFfd2Q3djJMRk9fNWVwN1FHLVVYeEl4clAtZlpUVW5WWHlYWk1ZYWxzbnZuR0R5dndPM2pGS3lCMjJP?oc=5",
+      "published": "2026-10-21T09:00:20+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -334,27 +360,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Elon Musk says SpaceX and Tesla have formed special committees to discuss merger idea",
-      "summary": "Elon Musk says SpaceX and Tesla have formed special committees to discuss merger idea NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGZMQmlxNUNpdlJIaUxRR01QUUhfS1VmTVhWSW90YVdkN0Y4MEZrNGRSdWlHREF3YkZVc2NuT3N1SUZnTVlMaHh4Sm9HSXc0YlhJZjRwWHFGb0otZFEwVUx3X3BIRWh1cjcycEpLZWs5eTU1ZGdZZGptTElhMFdOc1dqNXB2UmRzOHJrTFJBRlc?oc=5",
-      "published": "2026-10-20T22:57:53+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "The truth behind the strange shower scene in You Can See Everything that has everyone talking...",
+      "summary": "The truth behind the strange shower scene in You Can See Everything that has everyone talking... Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWJNU2Y0MS0zeHlPZ3RhNlRiOUNoendMQ29VR0VPU09Wc1ZqZEJvNkZXNGFyelUyc1BLZjJ2MF8yUWRWcHBVLWZreHZyc24tb2hsWFJxY2xoWnZibFcydlJ3Zy1vVXhjYXc1YnVDOHN0Y1MxQUtwdWhFcUNBUXVFOEN4cmJ2aFpkSkZaSXNYeXpaaTJKUU9oOV9aMlZXQ2RFUmVpdWU4Y25CeE1abnZmeTFld2QtTXJudkM0TmdTSFdEeDU3S1E?oc=5",
+      "published": "2026-10-20T22:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "How Tech Can Help or Harm Instruction for English Learners With Disabilities",
-      "summary": "How Tech Can Help or Harm Instruction for English Learners With Disabilities Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTZra09sZXR0SFZZSEg2cUw2QlpoaVpWZTRtQXBXZ2RoX01BOGxSRk9NRlU3MUxsMFhZWFpEdHpybmlQaVp2UzZoZkYtYlQ2UEEzLVMyMGU5UUNYS3hhR0JIWWNIbi1EVG0wM0R3X3NvTlRxTmZMSVBVclF6dExIcHVLNGFubXJqN0YwT3I0UkppR1ZkT2RZcWxCbHhNLVBsQk9xdGZFMnFTQmVzQ2VUbVd4Yi0xLVVUWFl6ZGNvRkZDdEU?oc=5",
-      "published": "2026-10-20T22:00:42+00:00",
-      "beats": [
-        "Schools"
+        "LGBTQ+"
       ]
     },
     {
@@ -365,19 +379,6 @@
       "summary": "Supreme Court takes case on K-12 admissions policies K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnF4TG5rZUZsTkxKXy13YkFpYV9GYUtVNzRUWFUtZHY0eGdGY1BNdkthRHdvV2Rmc2pwMmxGSk4yVllJeXJXME1RaVRjSGtIb0RVRGxIcXVxS0pIWkpORUZJMjhCR1RfTWhMUmdSMFI4RldwUlZGWVdudnpGV1gzSGxheloxMHhWNjNaWVZJa2I4ZmM?oc=5",
       "published": "2026-10-20T21:31:32+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "California’s next governor should prioritize these education issues, 6 leaders say",
-      "summary": "California’s next governor should prioritize these education issues, 6 leaders say EdSource",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vZFpkaTlCbmFuMnVfN3FQQlBRNjV4NWQ3ZUI0MW5jUjV0aXBzNjhSUHZpV013bUtDWGxIZWhZRXNqQUhVaGZ0R0lHQ00tUHQ2SVhTNHVyaThfWHM4eXFYeWlZZWpwT2RLZkFFU09rRU9Rb1phUVNQT3ZRdjdRUdIBhgFBVV95cUxORFdPaVdFWldxWGZkSUZEM2VpcTRSSmU2OXo0bThGUWNvOUo2dVNTR0dIZ2JYNEVHckMyX3dxandTVEJKME5WUTloRU5JejhUY0JpZFpES21CMDFJY0xXM2p5bXFfdmZTWVduM3Z0MWVsMHdiNHlOSnVBOEppN2N3cl94UXctZw?oc=5",
-      "published": "2026-10-20T20:37:30+00:00",
       "beats": [
         "Politics",
         "Schools"
