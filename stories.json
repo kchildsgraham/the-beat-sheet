@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:31:34.317774+00:00",
+  "updated_at": "2026-10-22T19:48:14.253648+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,85 +20,146 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+      "summary": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xRi10OUg0WFlvdDZoOEtWVThrSjhCaTBfWnZpVUEtVy1IWkpwRElwbXduR21icDJHZzRMQlR1T0k2YjBPbWxMUlpGWmtVTmFZUUFIdEtfcHlWLWdrT2NmMWJRdjQyNThTSk8tTzhOMGpxc3hyYkM1NWhRONIBgAFBVV95cUxPY0FBM191eGRneVpUTGdodk1Bb3dEWTFURmU1Y1R4MW5sYmdYa1JRcVNFOExXQkhfWURHb1RIN3F4Ul9zbl9DM3VuTW9nekk0THFrZkRJcENER2RYZTVaRGVRNUxQU2lBWElpTVh4YmNHMTlkNWVyZTRVSTFwVXIxMw?oc=5",
+      "published": "2026-10-22T18:51:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Justice Department investigating Republican operative Corey Lewandowski over alleged contract misconduct at DHS",
+      "summary": "Justice Department investigating Republican operative Corey Lewandowski over alleged contract misconduct at DHS CNN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEFNR1N4WklrZ0NJRkJFWWRvbHFKdklwZFE0S2k5b0hzV24wOVQzdUJrV1dPbnZfOXU5Nk5QUHItZWVGdmp5Y3B6aG1MOGxrRmlWbjN6MG1wdVlNTVlDNU5FUDZYd2ZHRnVzQlJFNXpkSFBPQTdrMHItcHpfdnJFUWxpbV9HMGJzaXlMRU1QQ0xJa2ZBVkV6TnlucXZBX3NVRE9B?oc=5",
+      "published": "2026-10-22T18:38:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+      "summary": "Moderna shares plunge after leak of cancer vaccine data despite positive results CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUhHRGF0N2pkdnNvcWJtSGM4dy1UbnhRc0JJM3hiUU9lcFpRaTgyNHRmRC1pamdvb2JvR2hiT2tHZUlmNnFleksydzFHR0ppYVdvN3R1NG83Y0lmZEpNRm1wc2FEOUgyRExSQlVCOTREa2tNNDV1cFo0YlBVaDYtRtIBhgFBVV95cUxNY25jQmtVOFdQT19BZHp1WWFrSHlMRUtUdXFOOXBRZDFlaUN4eVY1TC1BNUg2UmM2N2o2SHBkMUM5MEtXQzBnejIySFlrdFNHeTVaZnhwTlExazFOTzU4aUhrSTdmc0U0VFdYV1M5TjRYTG12dGs1YnJ2UXV5QWtRNEtTYlI3dw?oc=5",
+      "published": "2026-10-22T18:28:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Lindsey Graham opposed LGBTQ+ rights. Three men say he paid them for sex",
+      "summary": "Lindsey Graham opposed LGBTQ+ rights. Three men say he paid them for sex Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUZSNHFINUpCa2FVVDNrb0hadU1Qa1JnYi1Ncmt2dU1zZWRVMExNYXVPWnlkeExlVE93clBEdE9VMmVZVVlCUzg3V2lwSWtMOW8yN3B4d2hPWU5RWG9VcnJSNkVSV0Q4UmhHTUxwX1lPdlFDX3ozdGNEQlZkLWRRNHVzVUxRZ3p5NEE?oc=5",
+      "published": "2026-10-22T17:49:11+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Blanche won’t rule out DOJ post-election action in a ‘doomsday’ scenario",
+      "summary": "Blanche won’t rule out DOJ post-election action in a ‘doomsday’ scenario NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd2g3dy1lZEtiTUt3Vk1IZGJVRUU3VGxUcERpSjdCX3lUSVpmN2VpQjR1cFVSaHFGZHhYQjdVak1pTE9zTkNMaDh2STRhNnZ4ZDdmS093UlRHOUlzWC14Vi1Rb19XRWNvTU8tRkZkX3NnR04wUjVyVmdjZ1pyNG1ONTNLemJ6bWUyUTRESkFLQ0JMUkNGTzVRTWtCZzl0bmd3b0hrQWd0RzBKRWdUb3VNdUtfN0ZLSk43aVMwZ1N6aGk?oc=5",
+      "published": "2026-10-22T17:38:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "What early voting data is showing ahead of midterms",
+      "summary": "What early voting data is showing ahead of midterms CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmdOWnZ5eE1DTi1lWEpRMXdwRjNaMEZIRXFqR0VEN0lNZ1FPQzVyQUZVMkxYQXlJVFRDLVZhUGIwT21QRi16Y0JvZkR3WkppMHFxa0xQcV90M0REUk1Bell6Mk51OVhGM0NqZGZtMHlaSlpPRU1QcGhVSVhjdXI5WjZTNElVUnJuRHUxaw?oc=5",
+      "published": "2026-10-22T17:08:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Judge insists Trump must be deposed in his $10B lawsuit against the BBC, warns it could be tossed in fight over records",
+      "summary": "Judge insists Trump must be deposed in his $10B lawsuit against the BBC, warns it could be tossed in fight over records CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUk2d09Bbk1ucnUzOGJqYl90WFZrbjFjaGVBSmpzelhhTzY1LVlxV3piNGw0MkhHUkU1YkxKS3hzY1ZiYjVRRVdrVnhPYzZPeE9vc21oN2xlbDliVXpRb2lYMGxCSFFEZUFLT211YXBHZ3BRMmFpelZzWHZqaVpMX0xGdW90UQ?oc=5",
+      "published": "2026-10-22T17:08:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+      "summary": "A.I. and Its Dangers Are Embedded In the Midterm Elections The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dkcFhzRDJhakxUNEd2MFg3amZxc3p2Wjd2VnRRRllFSGdDQWpjY21LQVpyZFhLdC0yOVVxVmFvMnZjNlNBTE1ZdDVvUUptNXI5bzh4M2Y1djVjNzdRNUd5WnNXVkdLc0VzZ2ZPbjdqdUU3YnMzUllqMm9jYUJxc1ptcVdhUTZwOGtyWg?oc=5",
+      "published": "2026-10-22T17:07:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Elon Musk invests about $1 billion in Skydance",
+      "summary": "Elon Musk invests about $1 billion in Skydance CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qSmtrLTBlZ2pzc1ZOVEwwQ0hjem0tS2tOdXdXZUhYVldEVjF4MFM1bkhWcTRfNmMwbDE3ZElLRWZxVUpzWlpnOG9YaE9SNnNsaVBqbERhX3lFWXFqcGZPUFRQS214eDBjcUE0SmZfSUpXM0N00gF6QVVfeXFMT1VGY2lwOEhsUjRFUjlTbTEyUGhBamVNNnc4Q2gzYVFRV3d4UkNxMzlROXEzRjl1Vk9teUlIOWpwSnNZb0l4a0pvYmtQUzVBTUg1MlZtZzJoaHJGRmtEMFhsVjJSczZMaG1Vb0ZrUk41MVk4bV90N1ZKcnc?oc=5",
+      "published": "2026-10-22T17:02:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Elizabeth Holmes Quote Drama",
+      "summary": "Elizabeth Holmes Quote Drama The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wakJxMzkxbHhzMlVSNEE4ZnItZ0pkcU9rY3pFRnk4VnJ1R0VIcVNGd044UUc2eUtGQzNUS0xoNFRWRFFoLThvQklFQlV5NTVSbDdaZ2JpS1V5Q3Y0VWRxbVp3U1otSnprRWFKZFA5eTRlUW1oTUNGa2tvbFlWNE0?oc=5",
+      "published": "2026-10-22T15:44:40+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Bombshell documentary features 3 male sex workers who claim they were hired by Lindsey Graham",
+      "summary": "Bombshell documentary features 3 male sex workers who claim they were hired by Lindsey Graham LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0RibUJrYWthQ1k3dHZjc0tRTE5HR0FmYmxlU0cyNnlmZ2RhYTl1YkdOb0dET2E4R1pfUWw1SllKemZpRFBNRGJJTWRBSjZuRkR3QW9tOWNzWmlyb2wtZHhCSEVoZXRUSWR4M3pZMTFzYVBoV2otOXQ2MjNveS1UbXdJcjlubjh6dmpwOXBLZkFtQ3VRcTZ4WklzYi13bVZkTVRoU3hLNmVtdWhhSVAxb1dzeE5HeTMtWHNBNFo4eHVCOGdz?oc=5",
+      "published": "2026-10-22T15:13:02+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
       "title": "Feds charge L. Louise Lucas, powerful Virginia Democrat, in alleged drug scheme",
       "summary": "Feds charge L. Louise Lucas, powerful Virginia Democrat, in alleged drug scheme CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQks1MWl5dWt4Q2lYUGI4aUNOWS0tRFpyZDVIcC01Q1UtTVdBb3o4ZUZybkszbXFXblBYOF9JVDdfQ2lwZi1fMXNtYmRXM3piSXgzSXdCY3JXUzFnR0FrUWVQczgtdExWdGZVT1NpQWV1NWQ0c2VUaExhZmczS0tScFNzdTJWb2Nl?oc=5",
-      "published": "2026-10-22T15:18:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-      "summary": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
-      "published": "2026-10-22T15:00:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Nothing personal between me and Trump, Zelensky tells CNN",
-      "summary": "Nothing personal between me and Trump, Zelensky tells CNN CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjkwY24xMmRwd0k4UXFyNmtmN3BQTlhITUxmRDFuUjk3RzB6SUxWZzk4emlDQUxCUHRlMi1Dd1dvSzVmWnNRQWdwSVF3N2dWSWVJSDR1VG5yUHp1aDRsekEzeFZqTVhEVGJGallyeHc4SXJOcU53ZnE0T0tYTlJvYjJjd3pCMWxlRkR4c0NjLV9OQQ?oc=5",
-      "published": "2026-10-22T14:31:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges",
-      "summary": "Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80QWVMc1dFUVpBVm1SandJbHNHVGwzQzJWUmZIRTMwTWhJbWM2MHR0NGk2RHpzeG83ZVllTDYyT0hGS09uV3V3QTJkd2tIWnBUb1ItVkdURnJwTThfX240SmRibXRIYllfU3NmOEE2Z3ZIRXR0a2ppcHFGTGJOMTQ?oc=5",
-      "published": "2026-10-22T13:51:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "summary": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates NPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkpvY1FJdFpOZ3BvYTJseFc4bGVDaEMzWndmR2RVSlk0bVRYaWxFU1Byb3M3RHgzTXg1akNPS1Y2cUpISGVqdmhHbkZkdlBSU0ROdUp1d3NJX0hEUjJuNTJ3TzhDRWZuZVpDTzZCTUFGcXZrTjVxZWN3UHdMQXprNmRqT3RwRmxwdXRFZ2otbDdPQVJHQm1MUElBak9Odw?oc=5",
-      "published": "2026-10-22T13:50:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Emerging credit risk: What could take out the AI trade",
-      "summary": "Emerging credit risk: What could take out the AI trade CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tUThFNHloU1hCcHJsZGw0U0Y3allKcXNnOWNWNEdITDE5Xzh5bjMwMTI4M0xycUI1TXFKbXlUU2FFWHNGVFktVXUxRTJGWHRaNjlEaUM4OHFYUmlIRF9xdXk0YmlpeE0?oc=5",
-      "published": "2026-10-22T13:49:21+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
-      "summary": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2F6ekhMbjE1SFdLRUhlWE5xVnlBVE80VmVCaldMMXhhQzB3dGxuTDdGbXNhakQ3cUhCWFpidWdkdUFxcDE2WDlwVlFlWFpOOUY1Vk5OMDdFRGdNbTM4NkhSRm93bE9rQW1RVEQzSXB6LVRMM0QtdmJxWDhxVFVqV0Zkay1EMFXSAYwBQVVfeXFMT2ZPbWM0aDdnNUxPTFRhSGxBTkFCQlI1c3R2MGtlQWdCdWRvTEZ4amw3MW40NTVIQU5JRVRGSDlsbTRTaW1wc1dZQWgwLUl4MVd4THZxTVk5Z1Zzd1lhbFFtSjYzbXF6RzEyTkxVRV9mTzQ4LUlsbDJnQ0E5dFJHMW1mNVZWc1VMeWJTT1Y?oc=5",
-      "published": "2026-10-22T13:12:38+00:00",
+      "published": "2026-10-22T13:53:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -122,33 +183,9 @@
       "title": "This Las Vegas-area superintendent wants all students to graduate with ‘marketable assets’",
       "summary": "This Las Vegas-area superintendent wants all students to graduate with ‘marketable assets’ K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjF1c2hyWjJJQmJLdjFDd1lRVDd1a3pjTEcyTzhuNlpHT3ExRjlRd0dJLVFseE9aN19XX0tnWGlqZHljX3Y0bVk0ZWpOMWFKVjF1RG1GUGczdlR0UUFzUU9rY1ZQcm5pWU5ENERIZmNvWkx2clBjVGpWQi1FcmhfRmVZSTNNeVNuZ3BsdEZvbFNLaVlFTVVTS2pkQndxT0taQzNXQmM2SEF5TG50WlFSNw?oc=5",
-      "published": "2026-10-22T12:22:30+00:00",
+      "published": "2026-10-22T12:26:36+00:00",
       "beats": [
         "Business",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge",
-      "summary": "‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CUHBZTFpvZGlJZHlkTTQwSHhEZnVlMGktRzJ6b2pBanFMaGFmYWY3Mm9IU2ZkSkN2OWhGb0pIelZJZmJVeW1BRjZHcVh5RVpDRXVsZlpkQXFCc2JkODJvV1o4VTZaLVR4TS0wUXJOMk1lUUREVUJ3?oc=5",
-      "published": "2026-10-22T12:21:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Why This Under-the-Radar Piece of Literacy Reform Is One of the Most Important",
-      "summary": "Why This Under-the-Radar Piece of Literacy Reform Is One of the Most Important Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1dnQ0NKYzA3bS1DSTdnX2RJdl9XbVJFT1AtRTBhOWZlT184WTBVRnJINWRCRjFqZWZYdTdlUVctdnFFbndSWm53am1nQjVseXBmZ2VLbElGbnp5SEs2cmljdmxVbTBkS2R4V2tGSVNIVjk4RmtVRlBPUk44MTVnQnZ0SzJBTEd3d2p1Ym5nS1h3MFlNQUU1UjV2Q2F0NmZWdEZNbVVYWHJ2SkU1SHdlRnV2bllZS3pDbUlxbWlwbHVjbnk3OVE?oc=5",
-      "published": "2026-10-22T12:05:41+00:00",
-      "beats": [
         "Schools"
       ]
     },
@@ -160,6 +197,18 @@
       "summary": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging NPR",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFUtRVU0Y3Q3c2pNMzhuRUIySUxqM1kyMHhoUVc5YlNqeVE2WEViWUZ3UDBabzhSVS13THpZalg3b3l3bmQ0NkZVMEl1cV9hTWtuUGFBTkJLZXh4U0hXVnFtcEtTOWZqaldOVUdCaVN2bUdORWNVV2dIY2o1R0hrLUhPdmxCWml4aHduUmhKU1pWNFA4LUZFM0hERHFyd0lOTmIzZVhTQ2dMYVN4d3NtenpHZlk?oc=5",
       "published": "2026-10-22T11:28:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Meet the Woman Who Made Conan O’Brien Cackle on ‘Subway Takes’",
+      "summary": "Meet the Woman Who Made Conan O’Brien Cackle on ‘Subway Takes’ The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjhlVmhnWEFGck5LYTFZWG1ueGNuTnlxbFJXdnEwU19hMUV2MldrOHh0UkxrSUFsN0tkVjdGbWhLQUhUV3NmREhsX2t1dlhNeDNkQ1BfTm9uZ01KMy1VM3hxSnVQQmd1MjdJRHFLXzJwYnhRN0c2RS1JZU85VDhlTl80NFA4MGVYQVZyY213?oc=5",
+      "published": "2026-10-22T09:04:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -177,13 +226,13 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Opinion | Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
-      "summary": "Opinion | Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUM5RTVWVk16QTRSTjIwbnloY1VtcUxmR01OODJwUXZia2NDS2VvRngtdEhJcHVBSFFkeEY4bzVTbVpoaDdTMk1raGdkenA4NklvOFVRLVYwdW1fU2NOWXhIMDduY2VsNW8tOGRBWkJjS284dGFrRnZxRDhuQjFkWVdibzQ?oc=5",
-      "published": "2026-10-22T05:00:05+00:00",
+      "title": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
+      "summary": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy' NPR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2ljOFg5MlF3N3JIcURMNmNfQ2pwOXkxdE5YdzhCMmR2R0M5UkNWbmkwVzBLdW1ETFNiZE1zeFIwVE1ZU1ljeVY0cGJZeVVRSHdhcWI1d1cyTjQ5Um94bDQydXpfTzF2YzVvR2w2eHZDUGxBWVpZZEIzb0lXR01FQ2hpeTJHMHlXTHdMZ3ZlbE1WcEdEb3BiOWxGUHdYa3ZZeFE?oc=5",
+      "published": "2026-10-22T08:56:33+00:00",
       "beats": [
         "Politics"
       ]
@@ -201,39 +250,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Top Mamdani Aide Fired Amid City Hall Shake-Up",
-      "summary": "Top Mamdani Aide Fired Amid City Hall Shake-Up The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3dWVYQndzVTFreHozSEIwMWU2RjIyVFYzekdCaU11OEZyVFJzUTRwX1ktZnJYV0o2Yzg3NnpSYVM4NEFDeVQ4YVo3bjd3NnFSMThwanp4czVhUHgwZkp0MjVDZFFOV1Q3R1ZnNEZHTEdaRkc4cFFlUFdR?oc=5",
-      "published": "2026-10-21T20:44:22+00:00",
+      "title": "Meta ordered to pay $25 billion to New Mexico for misleading consumers about data privacy",
+      "summary": "Meta ordered to pay $25 billion to New Mexico for misleading consumers about data privacy CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RT3pfdkxfcHJweFpHRkVtT2s1cXI1NUsyT2MxRXA3RkVEUDM1N1U1Vi1rVHN1UG9MQXdwaTFLdXB2Y1Z5cVAtUW9INUEtVEhUNjVUNjd4cG9xZnFRaHMwMjdvRGZkNmZfdE5iM0JycWtqTDUtX3phcDRyZw?oc=5",
+      "published": "2026-10-21T18:24:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Kyle Kennedy, granddaughter of Robert F. Kennedy, dies at 42",
-      "summary": "Kyle Kennedy, granddaughter of Robert F. Kennedy, dies at 42 NBC News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3JFUllDRlVsbjM1XzVzbzQ2eHViM0lveExESXF6enZtQmJiS1g0cDFWX19NRXRtV29nOUdTcS1jaUdrOUY2NnFYbTJtalotQnhBSlB3WXNvblFLQzQwMkdvNEo3N0N2U0pKakVibWRGeEdRSXpTU0d6WVZ4U1hHSEM5SjRqSURoeWdfbC1qWkFPSkY2TGRZSkwyQ0hueS13?oc=5",
-      "published": "2026-10-21T18:50:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "He started a “woke-free beer” for MAGA transphobes. His customers say he’s a thief.",
-      "summary": "He started a “woke-free beer” for MAGA transphobes. His customers say he’s a thief. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUNvdGl5NkwyRkczU0FQdFBlZkpiaGxScmxuN1V2RFkyRG1hLTcxdWZEcl9wbi1kQXdjaTFrdlZrZ0xmVXRrWHc2Ykp5dXYwYTZsOXdkRnJydFpLSHFnVU5VTTVtU0NEM0xRWE9nRnFoc0VJREFzMjdfUElEQnZMS1BrZDdObkFoOTBRSkpvd0tRWUtTR252VUd3UDdMVHg2YzV3TzkwSldrUEdDUzc4?oc=5",
-      "published": "2026-10-21T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -250,18 +275,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Inside the science of reading approach to literacy instruction",
-      "summary": "Inside the science of reading approach to literacy instruction K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcEx6MGN4QVYyUmFkMEFNNjVJbE42Ti1US2gxcWIxdWQ2RnFBbTZXZ0dST3oyYkxEdDFSeFhrcV84UlVaWm52bllUc0UtaDlMd0JOM3gzc1BDZVFJWnh0VkxZNk5WWEhZbVlRNFlxNFZxd3F5TTV3V1loN2ZndGU0STlzTnRYcldhcTRDMThNOGw?oc=5",
-      "published": "2026-10-21T15:07:35+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -269,30 +282,6 @@
       "summary": "Texas Republicans shocked by \"disgusting and evil\" trans pamphlets... that they sent out themselves Queerty",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQkd4Q2J6X0hBUXB0bUlqU2dIdW91LXlKTlhVR3VzaFdxYzU1aHFEMmhXVnJlblVnVU5GaHZPRkxzdzgzSkN2RjQwN0t4OTlQSFk4aEhaX244VFoxVXZXelp3dXpLLVlXVHFyM1VqTUFweFZrWVFWV2RQQTBHcFFpMkVmNFJaNG5ZSTJSODhhcVQxVWtENjlUSUsxYjdJdXhuTzVZOS0wdkJKdEh2NjI1S19xaDllYjFfZ0l2cmdSaldxLTk4Z0JR?oc=5",
       "published": "2026-10-21T15:04:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Witkoff faces backlash for calling Putin a \"humanitarian\": \"Embarrassing and outrageous\"",
-      "summary": "Witkoff faces backlash for calling Putin a \"humanitarian\": \"Embarrassing and outrageous\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tdkZ4anlISFczR2tySTVZMkw5Y250YXBrMkU5OXZSUnZFNVBoZzdhc1VtempKMkN4Uzc5LVZYQ2tub1FCMzZETmp6YVlLTmdjQmhzTGhnSHZWcDA4SXVEcWhyRVdaQ3NNT3pJMlhIc1ZRdkxlUHhJajBQbw?oc=5",
-      "published": "2026-10-21T14:55:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Pete Buttigieg skewers GOP's habit of taking credit for Democrats' projects in one powerful sentence",
-      "summary": "Pete Buttigieg skewers GOP's habit of taking credit for Democrats' projects in one powerful sentence LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUUwR0ljQ1JjcTV4NEN1UGsyTWV2MlNfQ0QwekFSWVdqQ2ZqTzdYLWtSNU9vOWZFZUdWNmo2aFk5eW9qQ2NNNXQxT2tHRENRd2NEb3RWR3N0aWsweS0yOENyYnBKc2V6TXRUUmZFRkRDZDNmSTNBU3cwSlF4S0hCWFhtX1BOUU1vWDEwb2lRLVUzdWRHcHdkcnd3UlBrUFhPOHJka3BYMEwtZldhaVJlMjFjaE5sY0tURkhCUmplWXRXelVCNGJram84clhMWEVE?oc=5",
-      "published": "2026-10-21T14:33:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -320,18 +309,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "America’s Utility Bill Crisis, and Trump’s Approval Rating Hits a New Low",
-      "summary": "America’s Utility Bill Crisis, and Trump’s Approval Rating Hits a New Low The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHFBbGk2RUJlMzBvaVJQNDM0cEFFeXBUc1E3OVU4SWNxWm5BSUQ3YmZmblBUQmJIQmktUnEyVF84QnJRZjFxbi1SUkRDNlJPdmI1Z1ZiSVFEQ2M4TUNLUzRzdGJ6TFRJZWlzYWQxYkREdGlmQWpTTjNfNmM1QURMdTVjYnBaalhOTHBCX21rd25idGxtVWtPd1BVY3hKcWRUYnBTN3N3?oc=5",
-      "published": "2026-10-21T10:00:09+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -378,6 +355,30 @@
       "summary": "Family remembers motorcyclist killed by 12-year-old driving stolen car in Baltimore CBS News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc1k1eGp6d2hNTjVvZHFTMXVXV2E1eml1d3Bhc2RGaEJzTkNhbngxTlNVMVg0SGtsRW02dUJYYXdCdmpic055RVp2cnE1YUZHV2RSYnZHUzBrZDRaUlBFQ3hRQmdTRnVIcHkwdnAyekNaNFE1WlRtdWkzMTVFTUdSMlR2ajhWeGJTQkVaTHg1cmVTQmpLeFc4YnUtd0hOVm5PSmFKUmZOa0pveHJKUHNsWnFyVQ?oc=5",
       "published": "2026-10-21T01:37:49+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How Tech Can Help or Harm Instruction for English Learners With Disabilities",
+      "summary": "How Tech Can Help or Harm Instruction for English Learners With Disabilities Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTZra09sZXR0SFZZSEg2cUw2QlpoaVpWZTRtQXBXZ2RoX01BOGxSRk9NRlU3MUxsMFhZWFpEdHpybmlQaVp2UzZoZkYtYlQ2UEEzLVMyMGU5UUNYS3hhR0JIWWNIbi1EVG0wM0R3X3NvTlRxTmZMSVBVclF6dExIcHVLNGFubXJqN0YwT3I0UkppR1ZkT2RZcWxCbHhNLVBsQk9xdGZFMnFTQmVzQ2VUbVd4Yi0xLVVUWFl6ZGNvRkZDdEU?oc=5",
+      "published": "2026-10-20T22:00:42+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "The truth behind the strange shower scene in You Can See Everything that has everyone talking...",
+      "summary": "The truth behind the strange shower scene in You Can See Everything that has everyone talking... Queerty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWJNU2Y0MS0zeHlPZ3RhNlRiOUNoendMQ29VR0VPU09Wc1ZqZEJvNkZXNGFyelUyc1BLZjJ2MF8yUWRWcHBVLWZreHZyc24tb2hsWFJxY2xoWnZibFcydlJ3Zy1vVXhjYXc1YnVDOHN0Y1MxQUtwdWhFcUNBUXVFOEN4cmJ2aFpkSkZaSXNYeXpaaTJKUU9oOV9aMlZXQ2RFUmVpdWU4Y25CeE1abnZmeTFld2QtTXJudkM0TmdTSFdEeDU3S1E?oc=5",
+      "published": "2026-10-20T22:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
