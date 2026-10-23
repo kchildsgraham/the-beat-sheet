@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T01:45:20.709053+00:00",
+  "updated_at": "2026-10-23T07:06:43.616884+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Top Trump political advisers donate fee for work on behalf of pro-Russian government after he floated firing them",
+      "summary": "Top Trump political advisers donate fee for work on behalf of pro-Russian government after he floated firing them CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVdQWnNGSzRXdVRuVWdVSW5mMjdvbVpXOHNlbzY3T2FtVUJXRl9iZkUxWEdpb1RqV3V0VThhQUhoNE8wYXBVeERlXzFLRV9CMmFkSU1PYTBwVWd4T3dvdGpWalFsaGx3UEtvQkNaZmp0dUE2UWVUYVhWQnFPNGNSYURFaHBsVmtGYUUzOFRXTXREejJP?oc=5",
+      "published": "2026-10-23T03:39:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Who is behind the transgender mailers flooding Texas mailboxes?",
       "summary": "Who is behind the transgender mailers flooding Texas mailboxes? CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3VZY1oxZ1g2dmxjelVfOWJ5cGo1akhCVlMyTkhscDNJUUszWE9nUFU0YmliWW8wSnF2NkhYYlZ6VlJUcUZtRHMyUTUxeEpMbmV1b0lFOEtMZ3M4cFBYaDNNVVZia1R4X3FGWmtkQkx1aS1YekNwWEc1Vlg5M01sbUp6RkFBb3Yy?oc=5",
-      "published": "2026-10-23T01:13:01+00:00",
+      "published": "2026-10-23T03:00:05+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -35,8 +47,44 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-      "summary": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans CNBC",
+      "title": "CNBC Daily Open: AI spending fears haunt markets before Halloween",
+      "summary": "CNBC Daily Open: AI spending fears haunt markets before Halloween CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOU5nOV8zclhVRzgtNUd4RF80R2MycXplT3U3SVZpVndUek5xZ25PdVRsS3Yyb2JfREJDZUtMY1U2eTFLRjhDQlU3S3hSRWVLOXdCcWZseWJSak82TWgzYmFGeUJUYWJvZHBfcE4tRXRKX2gtMkgtWS15a3hqdW5WMVdVZ3FIeGs0cnNyZThjaUtfdFhld2J4SHpEM1U0bklY0gGmAUFVX3lxTE02Nmh0T2xBZUxZSUI4dmdGeHN1eFBKZzl4elhVa1FUci1oNXR5T0RsZVlIMjR4TllMZFFxZG9BNlNyc3RGa1A0b1pIaU10VnA0NktOT2xGRG1TM2o3VVluNDRMMGxVeEZYVUdlOGVvclYtZU1RLVlteExmN3hRQy1UU05sUzFMSFllaG1iZm9uS1NkMTBTN2ZWWTQzQTNqZ1VxSmFtNWc?oc=5",
+      "published": "2026-10-23T01:42:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Scott Jennings: Trump's decision to defend Ramaswamy's ad \"will likely blow up\"",
+      "summary": "Scott Jennings: Trump's decision to defend Ramaswamy's ad \"will likely blow up\" CNN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHo4RW11MzdqOU5GVExwMlBVUGlSMFBxSHFiZTlkaUFsbm9DVmpRQ21Pc0RHS1FQMlpraS01R0FVRFduVWFOWE9oNkNzcmFNSHVwWVZzM3NWbkhYVEU3dHdPT2laSGpxYVBuUWZNQ3R5QWVmTzBUSThlallKUy0ta2ViMjVTM2RsT2F1UlV0bTZXSTUtSTBHc2ctWHdRLWU4bU5iQ3FEdVltMk5tWURKRFdtZ20weU95SzJCQ09jXzVDdw?oc=5",
+      "published": "2026-10-23T01:40:10+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+      "summary": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3psOEh2RkkyWkNoLWRYZjA1TmRrbmRXU1ZCZFhGb2hxazVhaEtQcmh5YTNXSzZtdzhsZ1Q0Smp4YXo4Z25YYWlaWUppQXU5R1QyVU1wQ1dBOG5iSkJCa2FLb0N5YWlFclYzaFNqaE1jdGpzT1VCRExUVV81OTFfNzZnbEk2QzViMnJTY3M4VTEwOTDSAZgBQVVfeXFMUEY2SXk4aGVnTG01bmlTeWM2Q2JsMlg0NWNqLUltOURoTzdMX2h0UFRVYl9yOXRhUlhUWVRKSWFEcHQ3ZkJoNW5VMnk3NFZYRVl0c1FjWTBvLUxHNVRnRXlPb053UktLbEJKSzFCU3JHVWZTVTYtWUtIMzVGc1J6ZXdqdEpHb0M1b1V6bnhMQkw3eHVtRnJ3cms?oc=5",
+      "published": "2026-10-23T01:23:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
+      "summary": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans CNBC",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KdzNWdWhnSURIVm1od1FoWG5sa05neWxtbHp3T1Myd19NNS13R0ZxdFJ4SWhFYkdWa0hJN0QxSnhKd05NUmlNYVB1bUtrUlVlT1BYeXYtd0cwRVl3MmpIVUo5aFpXVVhqUVdJ0gFwQVVfeXFMTnpSVllodEFiTU9IZThoRkY0ODVOYWo2Z3B6Y3gzaFJtdmJjR2E1anUyWnZMNFprOVBLYUI1U0R3T1oyVExleGliU09VVzZlT2huRTVSZWwzRU4tQmhNTjJRVzQ2OF9MUVBaUmRBdDFSdQ?oc=5",
       "published": "2026-10-23T00:53:00+00:00",
       "beats": [
@@ -44,77 +92,39 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-      "summary": "Japan core inflation in September surges to its highest this year at 2.1% CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFNlTGc0TGJVaWQxSVFaSzhDazF4WHFhWHBLZ0hrX2NnWGpiYU1MYjZ0ZjJsYUU0SV9fRzVXWHJDby1VZy1vMFU2cUoyb1l3VkI1MVlaZXZCd0tzSFhGLU55cmt0ZnNPSnhka0RpS1UybU5PY3VWdGtmbi0wdUlqbHJLdU7SAYoBQVVfeXFMTW1kam8yWHpZU0lZYkNfYnI5QWwyd2k1a1RXV0RaaXNEemZhckM2T3FCYXlPaXRhS1J1LVJwSzhjT2lvMGxheVdtdVk1aWN4WDhOMjN0VFd2dllpVHJpMmpJU05iUkNBdlpzVER3N0Nob2JzUHhHZlpHWGVLTmswVllYNkF0Zkw5clJR?oc=5",
-      "published": "2026-10-22T23:37:13+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Troye Sivan gets candid about his \"complicated relationship with men\"",
+      "summary": "Troye Sivan gets candid about his \"complicated relationship with men\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFkwa1dvWnNJYmFYZm9OMGpJOUtWZ0ZJeGE3Qm9KQ0l0c3Nrc0VsbHhKTUUtOWI3bS1wbFBoMnloYU1teFh4ZFB0NzFDMmJnT2gwQnVPUzl0RTlIU2pEVEpyY2s5R2ZGSlJEbk0wRlozNWJXNXVUSEQxNUk0XzBfMEctRVdsTkhQSUI1b2RqRXp5QmRDYjNzSHlnaW5tSXgzcUhr?oc=5",
+      "published": "2026-10-23T00:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities",
-      "summary": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wQkxxRlBsMnNUaUt1VjhOOG1Dd0JtcUt6MGswNmFaNVBiYm5BVElyd3JmdXA2a0dPVXd4VXlER21JMVRETWY1eTdLYnlON19BWmllSEhrbXZILTh2T2ZTQWFEWWRyWERFVm1fek50XzhIOGZ1ZU9N?oc=5",
-      "published": "2026-10-22T23:01:15+00:00",
+      "title": "El Salvador sends troops to Haiti to rescue four service members",
+      "summary": "El Salvador sends troops to Haiti to rescue four service members CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmZUWkw0Tk9Bd3RqLXVybXF6aXRCWFNDVGtqNnk0Z2hkb3lKa1FySTVaNU5oZHpGWjNZUVNnRnpVcmdPWmdwdmJNN2JNTExJUDlRV2F2czZGTlFWZ1ZiS2NKc0VzOVlzMXJVMDVCbEpzSXdTbFgxWjZDQ19OWW1MMw?oc=5",
+      "published": "2026-10-22T23:40:43+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Jeffries warns of GOP 'diabolical scheme' but says he's bullish on Dems chances to flip the House",
-      "summary": "Jeffries warns of GOP 'diabolical scheme' but says he's bullish on Dems chances to flip the House CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fajRFSlM3TzRQel94SHdHYjc5Wm1MSE9JaFNSVWRyNGF2bmJ0QldDcGRRVHVES0lJX0NtVmFoS1lETnBjUHk0Vzd2RnppQ3gtV3diNHZFeG5KVWJpb21tTnhCZXUxelBoY2VGdk1kUXFxUG05M2dMLWpPWQ?oc=5",
-      "published": "2026-10-22T22:34:20+00:00",
+      "title": "New clues emerge for the source of mystery Texas mass mailers on transgender issues",
+      "summary": "New clues emerge for the source of mystery Texas mass mailers on transgender issues CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlctMWNjM1NWQXVvTnFYM05sM3c0ZUVxNmdtQS1jRU12YWJ5TVh5eEQ0TmdiTm1MTWRPcmxjZTlHQXFySjRmby1SVFY3dm1qd0x5aExYQTZyTnZFUWU5NXBiVWlXMDJ5a1ZIdzdhcEtHTFJJenVESFBLV2JFOEVLMzNOS19CUWFUZnpuUWxtWUJqcmcyNTRlakJFMldCSFR5cjBMYzRHdDZVNXMzQnJuLWdfYkVUa3hWS2xn?oc=5",
+      "published": "2026-10-22T21:47:48+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Supreme Court says New Hampshire can limit use of student IDs for voting",
-      "summary": "Supreme Court says New Hampshire can limit use of student IDs for voting CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNndEZUdHTm9Nb1ZUMDJ5MnhWZVd0STNIa0RDOTE4cUJUZlRyWG1GUjJrOFNsUWhrOURoQjM0U1dKZmZxaEhsOXQ2OGFXck1yTnpnNmItOVhEVXJZODNMa01nTHF1elB1Rm1mSkVzT3RKRGQ2ZS1VYXI5MnR2XzRXWUZJR1ZjdTJTNDcwa1VqYzVucmZCc3c?oc=5",
-      "published": "2026-10-22T22:16:11+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Supreme Court says New Hampshire student IDs can’t be used to vote in November",
-      "summary": "Supreme Court says New Hampshire student IDs can’t be used to vote in November NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYTQzWEp3dGV0T1ZtNHdaam5JYy1hQlpoQmtzMEVvaFc3cjNMTjQ0dEd3R2xjdUZzQjA0RnJ6NU1PMUI0SFhiU1I4NTZlM3RvZ080RDJjaUtBUDV3UHBMNHNxdWJIQkdTUUYwaW8td2J4c1V1bHdZdU01Ymk2a2pIM1BPa3hfQTA0amRFWFc0OEkzcXZ3WUVHTW1YN0duRWs2Z1VOa3VtUU5tS1lsZy1TYU9UbGozeFkzZzByS1hFbEtncTVHM3c?oc=5",
-      "published": "2026-10-22T22:05:38+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump invokes Cold War era Defense Production Act for oil production, refining",
-      "summary": "Trump invokes Cold War era Defense Production Act for oil production, refining CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRWszSkFOZEpkbWJ0ekJkVEFNaWlEWkN4Vm1oa3ZJLVl2V3R0elRNMGR3dmF5VEI0TDc4a2pGWFhMOEMyT01fRTJTVENBa0ZHSUc5OVEybmhURzNCYnRGeTJsNGlFRFR0QVpVb0JhTmhKX2vSAXhBVV95cUxQQmZpdVFYR1BvQVNmZWpOdV9tek91QTAyYkxCRFcxclJ4SlF5SGtyM0Q1VWsyWEpTZF80WTNzNk4tWHhQWXRfZG5tMmM1Tjc5czEtbGRwemdyX3o1TG9lQjFmMGtsYVN6UENpMWNkRTlqbXZrSGZCVkM?oc=5",
-      "published": "2026-10-22T21:37:31+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -142,6 +152,30 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
+      "summary": "Should 'bird brain' be a compliment? Here's how crows think fast NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzNuU1RjUWpfTmxnZXlRTlVJaTJ0eEp5NHNJc3cxSGhhU1pjOVVYNHA5N05ZdjJyd2hTcGNsdG1RaW5mY3VzbTd6MVJET0RKeEUtVFN0UE14c0ZDeXJfU0pRTTVRUXRRZTMzZEVkTERsc244ekt2dUY5R3BEZUhHZ1pwdjBaZV9INjRWMXFyNlFYdTJ4UUZmSjFla0dhY0VqZS16Z25nd1I?oc=5",
+      "published": "2026-10-22T20:47:25+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+      "summary": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died NPR",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueDAzbEFJZUhuRDE0RjcxVEtOY3Q1Y3NmbzVtVTd0Rk8tU0ZRUnR1b1ppdUl0ZlN4cjNpSTRDZXV5TllpZW1CN2gyQ1g1U0dXMmJpZXk4NksxM3dlYlJqOFBfa0JHMWpXSlE?oc=5",
+      "published": "2026-10-22T20:12:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -154,25 +188,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
-      "summary": "Federal judge restricts DHS field operations looking for noncitizen voters NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXN0am5OcXFwRmh4Qkh5NUs4Rlc2TVNzeDJXXzZ2a0JVcDRaeEpBM1ZqNG1iaGV5OFJzcFFFMWpCUzZ6X1h3YXRpMndyeHFGR0J0a1RkWmhBUW1GejF4Y3FoVzhueUJqMW1GX1JLZVVrc1VHVkxhb3hfQkxfV0gxWnptV3RZMDl3WHJ3?oc=5",
-      "published": "2026-10-22T19:16:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "His husband was a Log Cabin Republican. What happened next is... not-so-surprising actually",
-      "summary": "His husband was a Log Cabin Republican. What happened next is... not-so-surprising actually Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWtZb0Iyd0x2QVk5Wkk5SFRzdHllbEtocTlNdWw4eEp4V1Z4Z3F2ekoxNjZ3T3lsSkV6ckNEOE11UC0tOXZTZHptdlRGai03MzVsZC1jUVRyX2wxMzBhY0Z3aFA2QXNQS2NQX3kzVFE4dExrV1lkSzlkdmZMTXUxWkdmM0FGZ3JUUDhzbWNEWEVKQkhXTGUydW1CZmE2VGw0SjNPelZ3TzM1eWFnbTVacTUxTGNRbU5rUzVCb0NHTDY?oc=5",
-      "published": "2026-10-22T18:00:00+00:00",
+      "title": "\"Humiliating\": JD Vance left awkwardly smiling while an entire NFL team ignores him",
+      "summary": "\"Humiliating\": JD Vance left awkwardly smiling while an entire NFL team ignores him LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYzloMUZHdXRvbTV2S3h5dDg3THEyUXJ4am1Ebi1ZbUg0TmVSeHdXYlZycEw5NlVVbWNDb2ZaYmZJbHIzRU9qNHdSbjJsX210N0xIWG9Wb1FNemxHTWdOa0gxWWlPU21GeUZESVljZDFmemFUWno2U0hXLXVmWEU4ZWl4eXZSQ040LTBWcVVMQ1VlZDZYZTJMQnZXZVE0ZkZ0a01Gb21yUTZtblJnZVc0Ml9CMkFiUXJqUnRKaXJ0bGU0ZnFxZnc?oc=5",
+      "published": "2026-10-22T18:30:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -190,25 +212,25 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Airbnb hosts can no longer ask guests to clean dishes or make beds",
+      "summary": "Airbnb hosts can no longer ask guests to clean dishes or make beds NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalE2QXo1bnJNSk5YR1AzOXUtNmIydzNNb1dJYnRyMkRGeXY0Y0FJeHk4UXZVczRydi12QTNBREZTV0U5dFhYeVI1bm9fVURZRlMwQmlCOUVfRXpQV2Y4V29aX3VuemhQYlctWjVSa3JYRjdtNTM0QlA4OFpmc2tubXdKTFo4RnVUa0dYemxCT0YzRXVKWUs0ZElKX3J3S21nVFlmaXlneV9LdjFy?oc=5",
+      "published": "2026-10-22T17:18:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Elizabeth Holmes Quote Drama",
       "summary": "Elizabeth Holmes Quote Drama The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wakJxMzkxbHhzMlVSNEE4ZnItZ0pkcU9rY3pFRnk4VnJ1R0VIcVNGd044UUc2eUtGQzNUS0xoNFRWRFFoLThvQklFQlV5NTVSbDdaZ2JpS1V5Q3Y0VWRxbVp3U1otSnprRWFKZFA5eTRlUW1oTUNGa2tvbFlWNE0?oc=5",
-      "published": "2026-10-22T16:42:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "What the Six Flags Over Georgia death investigation will focus on, according to roller coaster inspection experts",
-      "summary": "What the Six Flags Over Georgia death investigation will focus on, according to roller coaster inspection experts CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0JyRE1rcUxPRDh2LUZueXl0WXJzRXFFSEZESXp6ZW56Zng3WWZhdHhKc2xZTXNEWGJqbWZ4SUZYOEJBaENrWkRGTDI5SHhjS1ZrdjRDZFZReG1UNTBhSEpEeUljUElQWjNBRjZzM0pyRm5RUU1rdmtZei0yYzVYalRtand3d1lGa3c?oc=5",
-      "published": "2026-10-22T15:44:00+00:00",
+      "published": "2026-10-22T15:44:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -256,24 +278,12 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Meet the Woman Who Made Conan O’Brien Cackle on ‘Subway Takes’",
-      "summary": "Meet the Woman Who Made Conan O’Brien Cackle on ‘Subway Takes’ The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjhlVmhnWEFGck5LYTFZWG1ueGNuTnlxbFJXdnEwU19hMUV2MldrOHh0UkxrSUFsN0tkVjdGbWhLQUhUV3NmREhsX2t1dlhNeDNkQ1BfTm9uZ01KMy1VM3hxSnVQQmd1MjdJRHFLXzJwYnhRN0c2RS1JZU85VDhlTl80NFA4MGVYQVZyY213?oc=5",
-      "published": "2026-10-22T09:04:29+00:00",
+      "title": "Google Eyes Large ‘Virtual Power Plant’ for Data Centers",
+      "summary": "Google Eyes Large ‘Virtual Power Plant’ for Data Centers The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjhvYmgxNGFzOXpJUGY5Z0xBQ1hCUFZxM3V2d3lPVzlfOEwxd1czU3phbU81SlpncTdGd0h2Z0FDUU80RThHSG5XY1lKRGZUSW9DWlRMa1p2d2RmUDdsZlBRMVVQOWppdS1kZ2Z0cnYtd2NnelF1T1ROSl9sV0NNQ1RENko5ZWY3?oc=5",
+      "published": "2026-10-22T11:30:06+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
-      "summary": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy' NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2ljOFg5MlF3N3JIcURMNmNfQ2pwOXkxdE5YdzhCMmR2R0M5UkNWbmkwVzBLdW1ETFNiZE1zeFIwVE1ZU1ljeVY0cGJZeVVRSHdhcWI1d1cyTjQ5Um94bDQydXpfTzF2YzVvR2w2eHZDUGxBWVpZZEIzb0lXR01FQ2hpeTJHMHlXTHdMZ3ZlbE1WcEdEb3BiOWxGUHdYa3ZZeFE?oc=5",
-      "published": "2026-10-22T08:56:33+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -290,15 +300,14 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "As Kansas Senate race tightens, Marshall argues opponent is just another Democrat, while Hamilton says he's \"independent-minded\"",
-      "summary": "As Kansas Senate race tightens, Marshall argues opponent is just another Democrat, while Hamilton says he's \"independent-minded\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHBMVlhibGN2cVpCVVltMlpQMWxqd29sU3ZMNVF2RnBRVGY1Wlh5eU8zcTJ0dHk4SG5MV1BZWDliZVRCNW1sOXhnTUtCeTRERklEekZwZXB6elJ5emNxMUZmYkE1dmx6WmRFb2xTdUMzdEZSUkFneGpJNkRYWkxNTE5RTzFnN19kZURsUA?oc=5",
-      "published": "2026-10-22T04:05:18+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "This gay take on Romeo & Juliet is basically Heated Rivalry for theater geeks",
+      "summary": "This gay take on Romeo & Juliet is basically Heated Rivalry for theater geeks Queerty",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVVPZVFpTXItWG13cGJGcjNQcUtiQnlObzl3Qnl6TkJwMUdxbnhvWXZNcXlGR1dGbkZ0VFZ1QUNLY0IzblFDRFpMeE1od3J1cXZDVGhxY05kUWNDYWNyT29UMFB6ZjhVa0pydm1Mcm5UUWtiMElVMVFOdW52QUozUGI4eHdMdV9rY3lkdHgtdGFIQnFwZjJsWlVNSzROVlZiLXBhWW8zSGRBMnlpamc?oc=5",
+      "published": "2026-10-21T23:00:00+00:00",
       "beats": [
-        "Politics",
         "LGBTQ+"
       ]
     },
@@ -340,18 +349,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Texas Republicans shocked by \"disgusting and evil\" trans pamphlets... that they sent out themselves",
-      "summary": "Texas Republicans shocked by \"disgusting and evil\" trans pamphlets... that they sent out themselves Queerty",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQkd4Q2J6X0hBUXB0bUlqU2dIdW91LXlKTlhVR3VzaFdxYzU1aHFEMmhXVnJlblVnVU5GaHZPRkxzdzgzSkN2RjQwN0t4OTlQSFk4aEhaX244VFoxVXZXelp3dXpLLVlXVHFyM1VqTUFweFZrWVFWV2RQQTBHcFFpMkVmNFJaNG5ZSTJSODhhcVQxVWtENjlUSUsxYjdJdXhuTzVZOS0wdkJKdEh2NjI1S19xaDllYjFfZ0l2cmdSaldxLTk4Z0JR?oc=5",
-      "published": "2026-10-21T15:04:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
@@ -364,6 +361,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Retired American teacher imprisoned by Russia returns to U.S.",
+      "summary": "Retired American teacher imprisoned by Russia returns to U.S. NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E?oc=5",
+      "published": "2026-10-21T09:25:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -371,18 +380,6 @@
       "summary": "How Kings Canyon students outpace their peers: A data focus, learning mindset among teachers EdSource",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6eHpKMHdQMkFKNlFVTGZBYU81emtTYThKc2Jndm13NDJYbEc0WmNYZzBuMElUWUctempDUC15VUV6TlV1T3UzRHdwbXBtVEdheElPd3lZeXVjNzVwU0RiaWdCenRaQkR4NlFxaUdZdDVDdU9CSlpvaVBR?oc=5",
       "published": "2026-10-21T07:09:57+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Texas couple charged in shooting death of Missouri high schooler on her way to the zoo",
-      "summary": "Texas couple charged in shooting death of Missouri high schooler on her way to the zoo NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzF2MEI3QnZGei10OGMweU9XOFlkWXQ1OG04Nk9PX05YeERpQkIwQnlYNkZ1RHdmNGUzMjB3OTluV1pnVlJGQ003aGp3SUZ5dGtaR25FQkk1SkRxZFpORzlKbnFoa0MzZ3BkTko3YnFzbTRzSGh4aTJaYm84cjNxVkVEa1FaTUN1VHJBYTFRblV2VTY0YlVvR0lpeWRVanBYYXpPMzJhZk9MQ21WenVUUlF6cFI?oc=5",
-      "published": "2026-10-21T03:43:00+00:00",
       "beats": [
         "Schools"
       ]
