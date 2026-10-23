@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T12:45:29.763766+00:00",
+  "updated_at": "2026-10-23T17:45:20.576117+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,37 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+      "summary": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnNsM0hZcVNsaW9KcExKTS1qQ3g1T1VoRVRqeEJIQnpnYngtYjlaNmJYdXdiRGUyaEZ6bWppeXprUXl5bnVycVJaSFNmRXU1bDNTZlBLUGVEaTR1Z3BVeXlwQUNVYUVGMzhlRWVFV1Z2VXJQMGRFa2trQWtoNFMxN0MzekItd2ZUQVE?oc=5",
+      "published": "2026-10-23T15:51:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "On the ground at Nvidia GTC Berlin: Jensen Huang, robot ducks and neocloud distress",
-      "summary": "On the ground at Nvidia GTC Berlin: Jensen Huang, robot ducks and neocloud distress CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0xnWHB0Qjh6WTIta0JjNXdDZ1VhMmtmNFEwcG4wX3d2a2Rad1J1YThEQmJJbFFndDJRQU5FLVFnamt4cUkyeTV2andYOUZZQ2ZUOHBRMjhLMkZxeXFrRVVVa2FCRXdjeVFPQkZibFNKVmRRN1ZMcFZoLVlXUnFwUjFoclY3ZkVuYlFv0gGQAUFVX3lxTE5RS3U5U1hWcTY5Rm5VcVMwVnVEdkx2bUQ3VDlDQjdBeHVDdEtsUHJiM0FqNmhUYzgtb1dlZy1pSGg1RUd4SW9Fd2oyRGpreUNYMHhvYXVYZGtyblVGdko3NDRGbjhMNmtMUW5VVmY5NUFZcVFkSGRWRldLNVE0elFIWHdGNmZTaUVuQ19RaHp3cg?oc=5",
-      "published": "2026-10-23T11:00:01+00:00",
+      "title": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+      "summary": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53eGlUNjZuN0JnSDZWbWdpdzJuMUhLSmhHejFVdUNNM2NuZUxPd0g5S1UxajIwa1g1bFVNVVZmc2pzOHM5cndwY2hfdU1FekZseG5zZ3lCaG5KRDdSQmI1MUZVSkc3RzJJTVZIbGh2c1DSAXZBVV95cUxOOFZYQXV0OTVvMXZPdUo4TWlRb21kZ0ZXWDZ3a1dyLV82MFc2UHlZaWI3eF9PSU9veURrVzlPZEhodlJ0UFZjM1Y0eFZ5SWhjZW5RT3RkUlEzWXU3ckQzbHJQalM5MEM3aW1LX0tTZVotZm5jbEZB?oc=5",
+      "published": "2026-10-23T15:35:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "summary": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejdFWnhXd0ZaMXNJdVpGeGhweUc4NlhyeVZhMDliRTFXWWFWc21aQ3d6dU4zdThCb2dzZDR2Vzg2NlllZjgxWFlfc01KMW5EY1pLV0RWMElCZHkyNFdrM0I3YXc5UnhZMlBITXRqRjhaendjTTY5VHdRdzNDdkNiVXpKYXM3R1XSAYwBQVVfeXFMTUk2VFVqR3F6VHZxa1NOTzRzTGpzbE40RWQzeVRfQzlKWjdHMTduWHhBYmZfcHZuZ0dBdGRzTHNBU3RLbmtvOU1peENhaEdPbUJ6c0FSWTl5b0dtdUp0UDhja3RyejVzUHc5QUVsSnFRakNrZ2Zob2s1SG5IR1pXLTVSV1p4aTFUdEhNLXE?oc=5",
+      "published": "2026-10-23T15:13:09+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +59,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "One killed, four injured in drive-by shooting near Paris",
-      "summary": "One killed, four injured in drive-by shooting near Paris CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGpmVkdjbUhCMmZ2ZGZaYmd0czRlUUVGbHY4akxxSzV4U3VmUGFra1ZjTVBvR1ZMVC1GZlYtVnVWR0NtS1ViRjJtM2dvTzJUUVhYejc0VlpjOHZiZC1YdmsxSkZScEM3M0dzZU5saDh6bXJlSWR2NXE3MWN2OWkwSGlLVWFYUHE1SV9SMw?oc=5",
-      "published": "2026-10-23T10:08:01+00:00",
+      "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
+      "summary": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjJlWkxVSFJqLVU3U1h1b2pneDU1UnVqYUl5Vk54M2xBdFRVZWtlWGFuM0hUUWY0SXVzbFJtQWhRamIzcm1RNEJReXdmV0JIaXBEV0tic251ZUFzanJEZkFBbmZ2MjFBTkZ5Nk00eEdxVGxzckFNMWFfYWtrSnBlRkJ2NU4?oc=5",
+      "published": "2026-10-23T15:02:58+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,58 +71,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
-      "summary": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWlXekt0OGJmVWlkbmVYRTJxcWlQODQ5YmVrV3ZCc3J5M2JmemQ3dk1fbUpXcnNPRTExUnZZSkJObmtTM3lZUjdpakxEa1hqaHgzYWZqam5yc1d4R2d5XzQ4b0JVUENzUE5Ga21fQVJDSGxhN3JxeFVnQVdmdURHR2pfYnVOS2fSAYwBQVVfeXFMTWlRb3VLbmNoOXBMeHdHOVFaSjVtV0wyaURkUl9KSkpoUlpkZkxnOXZtX3BxYkhGQW5wdkY3eHpJVkRKdl94WEpGWWtiMjVJeVo0dEN4dFNtQnR4NEktMWVHOFdLM0JkUG1OWVZUbjNCWEJQWk9XUnpBREZvQy1oYlZMdWhEdTBnVHVJUkc?oc=5",
-      "published": "2026-10-23T10:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-      "summary": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5a0paLTQ1aUx4emtFakQzQUVSTzd0UlJFazN2LWQ2dnVlZTdhT3ljelE0Uy0wQ25TWEd6QzQ4S0RfLVpMaVM0REdrXzZ3V1lWTTJ5YUVCbEpyUU9LZ0J5VjQ3cTdnd0xFYXVIRC1ZS2VPN21EY3lqd0NyTnU?oc=5",
-      "published": "2026-10-23T09:40:32+00:00",
+      "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+      "summary": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUE9xbEsyZWk0X3M3X2kteEZNVFdvNFZfdHgzN2FjT1RJWWJHY1ZtZnVCaVA1NlFISFJveUJPRHNPaFZseGdEZFJubzFUNjFmeEJKZjNoNUl0NWR1aHVnbVNRNFZMMU1zSV9qTWliVXRtNmNvZ0VBZ0xRMkNUMTgzTVhYbFFFRUVTVWw0TWZVeHFtOTVjTUVKTy10WTJrOXo0aHFlak1QbTJMZFNOZ2lFQ3hkRnZtRVV4TVNmU1dDN1N4dw?oc=5",
+      "published": "2026-10-23T14:52:18+00:00",
       "beats": [
         "Business"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-      "summary": "Hacking attempts rise after flaws found in program affecting 70 percent of websites NPR",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd2RQRXlEb3BjTGVVMWRtd2VFbTZoY3ROangweDNndmR5SGJHd05aX1FkNlNvdklFNlhWbEFJcW5PdjQ3TW5KRGd6Qm1ydUlFdUpxckxFX2hZTHhmZGs3M1V3RDhPSzdTd3Bacg?oc=5",
-      "published": "2026-10-23T09:37:38+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-      "summary": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5",
-      "published": "2026-10-23T09:02:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Gen Z candidates in both parties aim to tackle high housing costs",
-      "summary": "Gen Z candidates in both parties aim to tackle high housing costs NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXNxeExhdVluNHg5bkhnZ1M0MnJBejFfZzE3MWlCSGMxVEUyRFYwMVJGd0lwZWxyZ2NYU2Vnb2VJQXBydHB4Wll3Z200QW5Mdmp0UUZ1OW1RYzktV1BYWkQ4OGNTdXFFU2M5c08tUUxhWGdmZzlmM1BEekZuNEJuQ3RDVEd3QklyOU9ISGwyYTI4b1JDdnpV?oc=5",
-      "published": "2026-10-23T09:00:00+00:00",
+      "title": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation",
+      "summary": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation CNN",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZTlMSDFNQzJ2R0x0eTlyMnd5Qm4tUDFraHFuSHA1akFPa0huUk42TXRJNkNMbi1OckJmSVBWeDB5WmZGemV2dzRMSngtYjF2R2RkWm45QXdxenJjeWsyN21rTEs4ZjJvUnp3UmRaSnlaMjdnbHNiMWZkcUNsNTZBZ1NPUlBuVlNpZ0xBbUhVMWhlQ2hGNGdSYlJVNFNyVWVfMHViTmloLWVtejcyV2EtdHhOSnZpRWN1b1Q5MVBVV296YVgwRGFsVTFUMWo4bDAySnVSX3c5emJ1MldFOXN5YkJB?oc=5",
+      "published": "2026-10-23T14:08:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -107,34 +95,95 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims",
-      "summary": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXd6SDRlbUlCVnkyY2FkRzZuNi1SdWdKS0VFS1hmUktTTVpPZ0FZMDNQV2xOS0NsWGZTRlZQSTg4b3hPZVpZbHVuRjkzd1ZEZGJsNnpxZnA4Q011b0I1YlBsYkhUNXhvbURCbEJFZUVCamRwejVZMEFROW9faV9sNE13WWlDcHhI?oc=5",
-      "published": "2026-10-23T08:39:07+00:00",
+      "title": "Melania Trump says she secured one-city ceasefire between Russia and Ukraine for humanitarian aid",
+      "summary": "Melania Trump says she secured one-city ceasefire between Russia and Ukraine for humanitarian aid CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkhJZ25hOEJTTFUwTlpqdnd3SFdpdHRNWWZUVjhPd0xsUWpSMjJ4R1NUS21BM2RtTDRVQmg4MmZTU05EalMzTUJ0OU5PR1RDLTAxVUFXc2VwQ2VwQm9sTnIxV1FRMTN3ZUFUdW5rMFRJZ2F4dDZiWTl2R1lKeEYzZWNDeUE?oc=5",
+      "published": "2026-10-23T14:05:47+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Netanyahu orders closure of West Bank after five Israelis wounded in shooting attack",
-      "summary": "Netanyahu orders closure of West Bank after five Israelis wounded in shooting attack CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1F5dV95eTN1dnN3bDJQWWs1X1VWRFNfWXVvSUpjUm9wZmxFSHl5T0pEOVlRYkJJdHA2akw1MG8zNjBVdlNxU2hPQ0lNejQ5Mmd0RmMwUW1MU1lDT21wUHk5WUIwUXY0ZEJid1lXUlZyZnhENFdKS1F0b0dPNnpLNA?oc=5",
-      "published": "2026-10-23T08:34:38+00:00",
+      "title": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
+      "summary": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFBuclRKQ1BmWjA3eHRtb0RkbXpMQThzZnVUdDZ6bjlObDFscFRrN3lWTmIteGVPN2tsWGlWYmpmcGpfd1hyRS16YVJWX1V0ZnBPdk0yVk9IdXJQVTRHQ0VlS0FULUxpUUF5UVlMV2JBMHZvUU9PVzlrQkRUcXQyMjVRakQ?oc=5",
+      "published": "2026-10-23T12:55:22+00:00",
       "beats": [
-        "Business"
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+      "summary": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths NPR",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NdlJRNFg2b2pBcFE0cndFanlDR2hLT3dKSmJCVnpraVRIbW9FcWQ1WlVVbjZuODJhWF9uSWJHc0JHbkZDcGpLckswZTRHVUxNQTBobVNCMUNLN1FQbVNoT09DNGxXRzhma0RJd2ljYzl0dw?oc=5",
+      "published": "2026-10-23T12:41:39+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Who is behind the transgender mailers flooding Texas mailboxes?",
-      "summary": "Who is behind the transgender mailers flooding Texas mailboxes? CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3VZY1oxZ1g2dmxjelVfOWJ5cGo1akhCVlMyTkhscDNJUUszWE9nUFU0YmliWW8wSnF2NkhYYlZ6VlJUcUZtRHMyUTUxeEpMbmV1b0lFOEtMZ3M4cFBYaDNNVVZia1R4X3FGWmtkQkx1aS1YekNwWEc1Vlg5M01sbUp6RkFBb3Yy?oc=5",
-      "published": "2026-10-23T03:00:05+00:00",
+      "title": "Divers exploring oldest warship found off Sweden find \"new clues\"",
+      "summary": "Divers exploring oldest warship found off Sweden find \"new clues\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sX3doU3NmcFh1Y2I1R2VNNXFHaEVMOWlwS0wzbUpYSmIyWjl1OWNJeVdFcUlld1lTeUhZLXRnNVAwLXlNem96d0x4cEM5eE1ORXViU2JSd25oM2xkbV9JVUVIZTkyV3FjcXkwejJB?oc=5",
+      "published": "2026-10-23T12:23:32+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Kimi Antonelli can make F1 history in Texas as the youngest-ever champion. Here’s how.",
+      "summary": "Kimi Antonelli can make F1 history in Texas as the youngest-ever champion. Here’s how. NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSF9RYUpTb3hJUTFwbTN5SVZJbHpyNGs5QVpGcVVhckhtdnZaQXNYZjJPZG9KRzl4RDE5M3FHWm1KOFFwVW1TaG5rMW9PZXdpMGduQ21yT2FuZU1sdlU0enY3SnRDLXl3XzAxbU5vRnZjODhhU2NJaVh5S0p1Qm9hLVZGMUw5cUZnLUVfblpVUVlkOFA3Vy1FSGRfVUh5bnZYZ2c?oc=5",
+      "published": "2026-10-23T11:06:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "What's behind the early voting surge? It's more than voter enthusiasm, expert says",
+      "summary": "What's behind the early voting surge? It's more than voter enthusiasm, expert says NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1BDOUhHZS0tTHlYeWd0eER0bzhMX2hWTDkzMmZ4aVdaWlRUMG9ObE5LaThiOWYyU19ocHlGTm1oQ0lqX09sZmNmM0t5cU1nR3NVXzAzNWg4c29PN2hzcUpUbUhuZzhFM3V0THFLQmlVYUxsd0NTYzI4Mkl0ZHFjTnJVMUVEWFE?oc=5",
+      "published": "2026-10-23T08:42:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Trump administration: English learner, other minority protections ‘not enforceable’",
+      "summary": "Trump administration: English learner, other minority protections ‘not enforceable’ K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTY2dVY2ZHc1eVRDczlQYXdRbWxJeFZ6RFNhay1LY1Qya2dJZUd5UV94bmUwN0Yxa1BZQnJSQWV0TGZvLVZtNFZzbml5TlRQcmxNXzZZREFYWmZKTF9ub2hSZ0lsbHVBTko2WXg0aEZjVDhSb2Q4WDhWU1FfSWhQUEZoaDZwN2VRVm1oZEZmMDVtaS1VMVZuMGRoRWhOUlBGTU44aG9xdnktSUxJbVE?oc=5",
+      "published": "2026-10-23T03:06:36+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Troye Sivan gets candid about his \"complicated relationship with men\"",
+      "summary": "Troye Sivan gets candid about his \"complicated relationship with men\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFkwa1dvWnNJYmFYZm9OMGpJOUtWZ0ZJeGE3Qm9KQ0l0c3Nrc0VsbHhKTUUtOWI3bS1wbFBoMnloYU1teFh4ZFB0NzFDMmJnT2gwQnVPUzl0RTlIU2pEVEpyY2s5R2ZGSlJEbk0wRlozNWJXNXVUSEQxNUk0XzBfMEctRVdsTkhQSUI1b2RqRXp5QmRDYjNzSHlnaW5tSXgzcUhr?oc=5",
+      "published": "2026-10-23T00:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -185,6 +234,18 @@
       "published": "2026-10-22T19:39:26+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Billionaire J.K. Rowling claims trans rights activism is “elitist to its core”",
+      "summary": "Billionaire J.K. Rowling claims trans rights activism is “elitist to its core” LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb01lQW5qY0g4Snd6ZS15Y0hpWmMtZWRQcF83T05zajFraDRhZUdRRkRYSTB1aGZUejc3eTZBZl9MVC13M3dQdmlvTGFuUEFENTlOb3BzTnExRkJ1TEpsYmV4LTJ0bFlFX2dKLTZCeVVnbmxuTUtOc2lOWlVlWGlzZTl5a3BJaDl6REtCTHo0cDJVUnpva2dhTTJhQVdxWW5lVC1VcGN5aEx4TklaSjI3UXV3?oc=5",
+      "published": "2026-10-22T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -249,6 +310,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Feds charge L. Louise Lucas, powerful Virginia Democrat, in alleged drug scheme",
+      "summary": "Feds charge L. Louise Lucas, powerful Virginia Democrat, in alleged drug scheme CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQks1MWl5dWt4Q2lYUGI4aUNOWS0tRFpyZDVIcC01Q1UtTVdBb3o4ZUZybkszbXFXblBYOF9JVDdfQ2lwZi1fMXNtYmRXM3piSXgzSXdCY3JXUzFnR0FrUWVQczgtdExWdGZVT1NpQWV1NWQ0c2VUaExhZmczS0tScFNzdTJWb2Nl?oc=5",
+      "published": "2026-10-22T13:53:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -275,18 +348,6 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Why This Under-the-Radar Piece of Literacy Reform Is One of the Most Important",
-      "summary": "Why This Under-the-Radar Piece of Literacy Reform Is One of the Most Important Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1dnQ0NKYzA3bS1DSTdnX2RJdl9XbVJFT1AtRTBhOWZlT184WTBVRnJINWRCRjFqZWZYdTdlUVctdnFFbndSWm53am1nQjVseXBmZ2VLbElGbnp5SEs2cmljdmxVbTBkS2R4V2tGSVNIVjk4RmtVRlBPUk44MTVnQnZ0SzJBTEd3d2p1Ym5nS1h3MFlNQUU1UjV2Q2F0NmZWdEZNbVVYWHJ2SkU1SHdlRnV2bllZS3pDbUlxbWlwbHVjbnk3OVE?oc=5",
-      "published": "2026-10-22T12:07:47+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -294,18 +355,6 @@
       "summary": "Meet the Woman Who Made Conan O’Brien Cackle on ‘Subway Takes’ The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjhlVmhnWEFGck5LYTFZWG1ueGNuTnlxbFJXdnEwU19hMUV2MldrOHh0UkxrSUFsN0tkVjdGbWhLQUhUV3NmREhsX2t1dlhNeDNkQ1BfTm9uZ01KMy1VM3hxSnVQQmd1MjdJRHFLXzJwYnhRN0c2RS1JZU85VDhlTl80NFA4MGVYQVZyY213?oc=5",
       "published": "2026-10-22T09:04:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "‘A Golden Age of Science’ Brought to You by the White House",
-      "summary": "‘A Golden Age of Science’ Brought to You by the White House The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXpWTXRhRHpnMVpjRnJHM1REeTJqM3lzSmQ2MWNBZWRwTXc1THU0NE9CMkkzc0pVS0k5a1JDcHZ1ODBUSjBOUGNGTUI1R0dsLWktSDZkOVZEVU5ycVVGMEFMVDVFZDlFdUo5ZHJPbXZLc2FIVnNlVE0tTWE0M2gwT0w3ZVRmdmxELXF5UVQtU2J3UnZsdFd1TG5R?oc=5",
-      "published": "2026-10-22T09:03:25+00:00",
       "beats": [
         "Politics"
       ]
@@ -324,18 +373,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "This gay take on Romeo & Juliet is basically Heated Rivalry for theater geeks",
-      "summary": "This gay take on Romeo & Juliet is basically Heated Rivalry for theater geeks Queerty",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVVPZVFpTXItWG13cGJGcjNQcUtiQnlObzl3Qnl6TkJwMUdxbnhvWXZNcXlGR1dGbkZ0VFZ1QUNLY0IzblFDRFpMeE1od3J1cXZDVGhxY05kUWNDYWNyT29UMFB6ZjhVa0pydm1Mcm5UUWtiMElVMVFOdW52QUozUGI4eHdMdV9rY3lkdHgtdGFIQnFwZjJsWlVNSzROVlZiLXBhWW8zSGRBMnlpamc?oc=5",
-      "published": "2026-10-21T23:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -345,42 +382,6 @@
       "published": "2026-10-21T21:41:36+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pope Leo won’t require further treatment after lung surgery, doctors say",
-      "summary": "Pope Leo won’t require further treatment after lung surgery, doctors say NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjRtU2tZQnBhOHowNUI4SzVLcXVjQ0tMNC01YjZpLUdpSkkydVdtREk0VDZLQmJGWGRkRkJ4OXd6Y2w3YjA4OGctdW1YQmR2ZktTRnlrWldZR2FjdlJiVEtnbWxzVFdwaTNlWDhtS0NxTUNIQlpJNU0zX19INlRMUV9adXg2NWs?oc=5",
-      "published": "2026-10-21T21:38:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "George Santos wants to replace Trump’s fired press secretary. He has experience with lies",
-      "summary": "George Santos wants to replace Trump’s fired press secretary. He has experience with lies Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbE8wN2N3NnVWVFAwOXItOXdPdThFektOS2xPVGxxU2ZBeXJkUVNFbWFYVF90QVU0eXV5eGlncHN4YkZzUFp2dWpseS1mRjFjUzUxOTExb0wzZnNKU2podmJweWRnVDU3NVFHUW84ZWozaG43UGpTV3AzcVR2blZxcC1LZm0?oc=5",
-      "published": "2026-10-21T20:58:02+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Meta ordered to pay $25 billion to New Mexico for misleading consumers about data privacy",
-      "summary": "Meta ordered to pay $25 billion to New Mexico for misleading consumers about data privacy CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RT3pfdkxfcHJweFpHRkVtT2s1cXI1NUsyT2MxRXA3RkVEUDM1N1U1Vi1rVHN1UG9MQXdwaTFLdXB2Y1Z5cVAtUW9INUEtVEhUNjVUNjd4cG9xZnFRaHMwMjdvRGZkNmZfdE5iM0JycWtqTDUtX3phcDRyZw?oc=5",
-      "published": "2026-10-21T18:24:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
