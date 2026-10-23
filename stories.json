@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:07:15.697197+00:00",
+  "updated_at": "2026-10-23T23:55:12.349394+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Knicks call championship ring phishing test with employees ‘unfortunate mistake’",
+      "summary": "Knicks call championship ring phishing test with employees ‘unfortunate mistake’ The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVDFNVExYUFEwdHQ1REtnNVpQblJ1UkJLLW8yTVVBTll0YnozWUxSRENLOGVMdkFiejAzR0xrWEV3emE4czhXZ0JqZjFhdDRSUGtWY1Q5OVNNdlhvY1BsNEN5dHllSlA4dEtGeC1tQU1mek4xVDhMMTBvY29nSXZkalExYXYzbkdkTGhweFh1ZmZZTXJqaUVrN0ZZNWJoLTh5aEtz?oc=5",
+      "published": "2026-10-23T22:04:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Why Trump’s dubious election lawsuits in Alaska and California should raise eyebrows",
-      "summary": "Why Trump’s dubious election lawsuits in Alaska and California should raise eyebrows CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGhtQUZuTGpodHk3X3dRdUpHRENlN2MzNUlhWXdSSUo0dEFvanBwbEt2dHVhSGw1c1FyUFk4S0R3dGg0b2h6R0FRbGtqZHBQUVJtSlF4WFlxLThfRWxhaWFsT0JVWkNyY1c4TXRPbS1oZGYwRW5ETHVQNXlFLTRnNVFoVGJhTFcx?oc=5",
-      "published": "2026-10-23T19:25:28+00:00",
+      "title": "Jury convicts man of rape, murder 14 years after UNC-Chapel Hill student’s death",
+      "summary": "Jury convicts man of rape, murder 14 years after UNC-Chapel Hill student’s death CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mYTdJSnVMYzBWbUozT0dPcld5U21FTG5OTzhjalAySW5uTGpvTHdRMms5QjBLekdnOWVEREk1NWE3UVBTdW4ydi10d0NQTUo1Z1lhZkhlV0lLbGliOFBLZjZsbDVzNUVjelRCcXlOWWtpV1NfZFlDMkln?oc=5",
+      "published": "2026-10-23T20:59:18+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "The Dallas Cowboys cheerleaders are unionizing",
+      "summary": "The Dallas Cowboys cheerleaders are unionizing NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU41ZUIyLUhoSDFtOWplMFdmNmFhZ2VXZHhDX3JOZVJjc3d4QnljNjNyM3hJaHFWOEFLckFiV2xuVkNWRGlLRGNodWlUN2dSOFIwUHJ6S2dDVFRCVV9fNDQyeHNiT2JSLUFnNE1BQ3lfYUpKQlgtdmNlV3h2WlJIbzFNZGZDUTFZMmU3NW9IU3ZuXzhibFpRTA?oc=5",
+      "published": "2026-10-23T20:50:52+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘The most complicated launch campaign ever’: NASA lays out mad dash to test lunar landers",
+      "summary": "‘The most complicated launch campaign ever’: NASA lays out mad dash to test lunar landers CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkh0X3lBd2RiWGJnNmh3WDhfcUowaU83R0hVcmJOTmhUd012eWFBUXk3QTgwY3NveF8xQXMwTDZEWjBSdHZ6dkRnWElLSlhaS0loZ3VPcmk1a1JYSXhWT2VOVUpmeC1RRXp5OHM3ZENZc3JBeEk5QnM1ekJTQmRsaDhwN08zd25HVTc2VWdyTQ?oc=5",
+      "published": "2026-10-23T20:50:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow",
+      "summary": "US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1g0Q3RqWGVXWGhRZFhNdnp5cUxfdS0xUk5WWVhEZDVJZTQ1OV9QSUxOeVctVTVIa0J1amxjWjlnM3hqa0k2emt4bXlvSVQyNFpNa2xfUVBKRFh2clhpRmlyWTZOUFRxTHdzMXk3R2t6RWxlckZ0bEthdWg2RzZLZnhmOGVkOGV6TjVZYTl3eVo?oc=5",
+      "published": "2026-10-23T20:50:23+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,12 +83,59 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
-      "summary": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race CNBC",
+      "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+      "summary": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5N3B6cWp2Z3NYeFJJS1ltb2RTTnNQOWZZVkplWk9VbXFWbW9EUkpvLXM2NzhBX2ZBN0VVTEw0ZjRrdk5EbDVIODZEazk3OUNwdi1yQnhQV2xzMG1SNEczX05fajQ4Tlo0OG5sQkJMVng5UG430gF6QVVfeXFMTk5ITTFDbHV2dTlJTVI2bERmTUdpRktvZjgzSFIxb0JsZ1NhRy0zN3E4dFlxNXhhZUhGeElWMWZmQVFzcU9jQU54QWJLZlY3RTk5ZWpTZjl2ZV9SM2szLVNfZnVlUFFmSmpzSFdHX3ZIVWUxQUI1NHFSSkE?oc=5",
+      "published": "2026-10-23T20:04:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Feeling squeezed by high prices? Here are tips for managing your finances",
+      "summary": "Feeling squeezed by high prices? Here are tips for managing your finances NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0Q5NlRtbDZUclFMb0lJc3BLV1dGV19MX2pHQUJXOU1DTXd1ZzF5WTgzNHF3QkwzMHN5WS1vRzR1bGNjZ3V4TXBlRjlwQjZoR0pSOEtxT1hJQ2RORXFUSHhxQXlVanpqUlVaWlhjMFdKblhyY1d5dzFEXzZUZ20zS2dOTlhLN2hhdFE2V3ZoYkFLZThmN3JlbXBjcVg1SWRfNk5RNHBpU2lMb0Y2ZUViWEE0T2x0YzQw?oc=5",
+      "published": "2026-10-23T20:02:47+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+      "summary": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xUUdNZDZZNHVyNVhBXzBjWVVCSXdNN0ZmanlPWk0xaXcxclJ1LXl2MnJxSkphb0JtOEpjV3dsTnp3d2pOQTcta1ZmY3ZGZS1vdGk5MnNmT1BoTTZ0bnoxZUxkOFJlLTh2TExRRE5OYWJHSUZaYm9wZF9iZm03d9IBgwFBVV95cUxPcmZpejNUaE5wcTJOamp2UGZZc1R4MEU4TFVURHQyMFNENUNpb0pTTGs1MjRrcVBGMlZqTlhiWW1WMFdiNmdHN0w3T3lTeVlER0RIeWhUdmdabnJ6T2c0aGJMQkt6aXFCM3kyRkZHVzBabTJFR05SWlNkQ1piLW9wODZaVQ?oc=5",
+      "published": "2026-10-23T19:53:13+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+      "summary": "Trump dropping some Canada tariffs but 'replacing' them with other products CNBC",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRldNNFF3MkZkQUhiRlkxWkh2bVRjR2VzR0dZYU1HV1lPNjFNYVU3Qk5ITmR5cWUtNElyY1NMTDVBS3Byd2xhOW5RMGtMUjNkOHpiaWFEMWZKMGxkcUZJWVpUdkNmbVk1cUJxdG9tT2xpVTltLUFmU0R5c9IBgAFBVV95cUxPblFJUHU1ejBUc2tkSldDdEdPOHFld1JPendmRDZwR28zYW9jc0JtemdYZDVqSElTVlNZMUdoUkVzUzlMQWMtcTNWZlFtWkIwWkUwRC1uYjRWUm5tRDNiZzY4cmdRalJUQTUyY1BaQ2FIZWZaOERuUmhIZzdRd3NtOQ?oc=5",
       "published": "2026-10-23T18:18:46+00:00",
       "beats": [
-        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "AI agents are roaming around consumers' bank accounts, and banks aren't happy about it",
+      "summary": "AI agents are roaming around consumers' bank accounts, and banks aren't happy about it CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hOW53UFVJcjU3M1I4SzlwMlNqdHpTZDF1QlpkZ3F5OEZTQzRnR2lfc2R0ZmZRWGtHc0ItamNxemg2V19EWVlMSHQ2STdRcVFpQ0x4QlRSbklfYVMtcEN5dlByMmpRLWRQV29jNHNDSjZRNGFqOXFORWFXRQ?oc=5",
+      "published": "2026-10-23T17:46:36+00:00",
+      "beats": [
         "Business"
       ]
     },
@@ -57,30 +152,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Consumers across party lines are fed up with high gas prices",
-      "summary": "Consumers across party lines are fed up with high gas prices CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpObG9XVHlJUUJsSmVBdUtkTWFxQ1cwcXh3clRlOGFxLS0tbTZwQzg4TW5ib1ZyMHcxRGN4UW5VTkxxa3Izb0FoVmVmZXg3X3Z6cS1zdllVNHk1cnNXUTQzTnltWE0zWk9kbFVkbFhfMnlZYmQ0aVZISzhJbEttZzFNY0VDM3lfSlE?oc=5",
-      "published": "2026-10-23T17:30:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-      "summary": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets CNBC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamRIUmExbTBlR1VjQ3ozejczY0VYOWY3ODBXakFJQ0tlaDJpLTZIZzlmRlIwa1B2aGpnRlZtR0NuRG43Wll4OWdGQ3NpdnNrdDhBVjFNVGVoZDB4MTdEQ1VOVWIxdkhWUmNXb2tPUnFFUjc4UXA1S3ZtYnVwQXNNWERIZDRPUjhvVUhjWWtHSUczV3pzNjA4YUFuamdnUdIBowFBVV95cUxNWDM1VFpwZENtdXF0aGF6ejZ2MWI5Y2w4dmtUUlpIR2NobjZHOHczaWVER1BRbmlVTUkyejc4eUtyMTVvUC1QV05CbklTOGFnZ3gtN2NiSnZwMjlPSF9KNFE2T29zZExxUjdzeGFicGhhLUtmQWJMZzhPY1lGVW1Qb3JMYlVqa2dqa2QtNmU4T21udjBNakhhNVRTbGdBZ2tlUVFr?oc=5",
-      "published": "2026-10-23T17:25:29+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -93,30 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-      "summary": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjB0ajNsNWZfY2NFTjVUZWlxX2R6MkRYdXBPOWppd0FLai1iWEs5QU1VSzJRUnpUZzJfamt1QllWb3YtRVBUUnkwWUZCaTVMSXZ5TFpfTjBQTjI2cG5jb0lqYng5UWpxZm9GS1lsWmVxTE1lenhTQzM3RV9LbDBHVjdsRE1yYXAtQVZtS2piNTZSVG9SSHVIVExDMDFXM1BXbWxkZjRn0gGrAUFVX3lxTFBXclJxa3ZYd2VFcmowXzdJNVZqajM0TXVTM1RtcVZMeEZELTBKZktWTkZRX3NDY2t4R3VyT2NfVG0zTkxNMGdYLTdsNkxsNVY5eEhxdTI4cWwzTUt3eFB2eEtUSmx0X2Uza1kxQURNR2RZRDFtVm5aaG1xaUI1RHE2ZnNvaWdfOHdhUFVJN2VINGlQRlQxUnJjeWlqQzQ0b2VIMjQzSC11Qng2bw?oc=5",
-      "published": "2026-10-23T17:04:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
-      "summary": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWg4WmFqak1vS2oya2YwNE1TNW9SMnUxS0NsQl9ZZVZpeUhKQWpvQ1A2eVJPRWlXeURIQlg5N3ZPUmd1NW5UUlNRR2dIaF9ZQTFkOXR3d2gwWXR5Q1AzZjRmZTlSc3FqcVROZ0hkRC1HYWtNRXlzMDF6eFlQWTNEcGJncEU2UDlPZnEw?oc=5",
-      "published": "2026-10-23T16:37:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -124,30 +171,6 @@
       "summary": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnNsM0hZcVNsaW9KcExKTS1qQ3g1T1VoRVRqeEJIQnpnYngtYjlaNmJYdXdiRGUyaEZ6bWppeXprUXl5bnVycVJaSFNmRXU1bDNTZlBLUGVEaTR1Z3BVeXlwQUNVYUVGMzhlRWVFV1Z2VXJQMGRFa2trQWtoNFMxN0MzekItd2ZUQVE?oc=5",
       "published": "2026-10-23T15:51:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Mass extinction event that wiped out the dinosaurs set the stage for the giant fungus D. rex",
-      "summary": "Mass extinction event that wiped out the dinosaurs set the stage for the giant fungus D. rex CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85ZjFHcHF2YUprZ1otUDBMR2pHNHVvUlFXdkR4U1hLSURRTUh2RFgydHlPX3R5Ump5cEpYTW9fVHFSR2VQbUZrWVJTZ0VHclFFcVhPU2I2MmFDVzN5Nm1zTTRKSHlTc2pfSlhzTUxqcTdVN19rN0E?oc=5",
-      "published": "2026-10-23T15:30:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Ohio father charged with killing sheriff deputy found guilty",
-      "summary": "Ohio father charged with killing sheriff deputy found guilty NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1habTBGaG5UTGNDQm8zOVBacjNMNDRYTzl6NXZGSG41bEpCcDZhU2UtSDlQMERCTDlDWUxsNFAzMGRUYjVUSHpkSmY5ejM1RFR5YzZXXy1yRDM3eDNHWlp1WnRvUU5wSnhzN3NjYWdjZlBrdVJsLTlzNGZjR3J5TG9ld0VYRjJhV3FIelRWOEloWG1FQnlZc3dBUVFxN0YtNXZrVDdR?oc=5",
-      "published": "2026-10-23T15:17:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -178,27 +201,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
-      "summary": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFBuclRKQ1BmWjA3eHRtb0RkbXpMQThzZnVUdDZ6bjlObDFscFRrN3lWTmIteGVPN2tsWGlWYmpmcGpfd1hyRS16YVJWX1V0ZnBPdk0yVk9IdXJQVTRHQ0VlS0FULUxpUUF5UVlMV2JBMHZvUU9PVzlrQkRUcXQyMjVRakQ?oc=5",
-      "published": "2026-10-23T09:01:31+00:00",
+      "title": "States Call for More Time on Math. Schools Struggle to Shift Their Schedules",
+      "summary": "States Call for More Time on Math. Schools Struggle to Shift Their Schedules Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVBOZFgzRFA0YkNKV0NRQklFaUUtS1lnZ2tfdkVvU2l6MUg3cmR3TDBOeVZvZ3JnZVBzSDljU1dkUS1xeDZZaXdQMVY2SmJld3ZYUzRiLXR0ZlYwdmpBM2d5V25ZZmlZNlo3QkF6dVg3eWl2ajFFRFljRDZSclFXWXp3WGRYaV9EX0FkUXQxS1R2Q3otdXV1NlA0TS13dndoQ3FTOFdIb2J5dUdqRE1tQlBOVHlWaXVRZFFvamtjTWc1dw?oc=5",
+      "published": "2026-10-23T07:03:17+00:00",
       "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "What's behind the early voting surge? It's more than voter enthusiasm, expert says",
-      "summary": "What's behind the early voting surge? It's more than voter enthusiasm, expert says NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1BDOUhHZS0tTHlYeWd0eER0bzhMX2hWTDkzMmZ4aVdaWlRUMG9ObE5LaThiOWYyU19ocHlGTm1oQ0lqX09sZmNmM0t5cU1nR3NVXzAzNWg4c29PN2hzcUpUbUhuZzhFM3V0THFLQmlVYUxsd0NTYzI4Mkl0ZHFjTnJVMUVEWFE?oc=5",
-      "published": "2026-10-23T08:42:03+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -252,30 +263,6 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Teaching Feelings at Age 4 Pays Off at 21, 20-Year Study Shows",
-      "summary": "Teaching Feelings at Age 4 Pays Off at 21, 20-Year Study Shows Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWpoNmtkTGV5blNHYXFLcnpDYTdMX2FleXljVEpEZjg5OHNmVDdwUnlmVXloa3BhQkkwN1YzNW5udlZUZU51RjJSWTI4aGhua1lER2dkVG1GaGh5NUYySF8wVFVSOG1xdGFha0txVk9qYk1jVVZSNk00T2szRl8wWHo5Y015WEYzcktqZHM5UG5xRjRobnFJdXRhN0E4MHdhUUJvcmFB?oc=5",
-      "published": "2026-10-22T20:53:40+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "The CTE Program Answering the Question ‘Why Do I Need Math to Be a Firefighter?’",
-      "summary": "The CTE Program Answering the Question ‘Why Do I Need Math to Be a Firefighter?’ Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0JTa2dpTkdOTHVFQUVXMTR6MHJIaWdXWlByMFB0V0duSU5kbHE2OXR0Q2ZrMHJld3A1aEhzSlQ1dEdTREFMbW9kcTVoU1ZUN0QtUHNxVXd2OWJaQ2dxcXI5eWp4TllqT0FGWXNScm1tRjRRX1BNVnZQb2VrSFpRXzFGMVNZWXpPNEFkQWdtaU10Qk94OEtLYVd6MzU4c1U5dGdUTU9uZnZ1bVMwZTNsSVA1UlJON2Q4d0tOaEpiMnFaYU51?oc=5",
-      "published": "2026-10-22T20:43:38+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -285,6 +272,18 @@
       "published": "2026-10-22T19:39:26+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "‘Top-Down Decisions’ Are Out. See What This School District Leader Does",
+      "summary": "‘Top-Down Decisions’ Are Out. See What This School District Leader Does Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZExrN0Z2SllVVVNKS1cweWRlYTlkWFUyUmowUGVmYmk3WHFBejQ1NHNqeUk2WGFFODNod19LWmhSVXJuYWdwRktSZlo3c0liVFdoSnlXUXFaWDN6YWcyUlpELWVHcEdTTlNfNThGZEhVLTg1Wk5qeFFRN1V4NlNrTWd2NTV5XzU1UzdxNjQ0RTN2MkNNLXVEcTU1UGl2cXlpNTNyY1hvem1fdDJTbHBv?oc=5",
+      "published": "2026-10-22T19:38:26+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -336,6 +335,18 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Lindsey Graham opposed LGBTQ+ rights. Three men say he paid them for sex",
+      "summary": "Lindsey Graham opposed LGBTQ+ rights. Three men say he paid them for sex Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUZSNHFINUpCa2FVVDNrb0hadU1Qa1JnYi1Ncmt2dU1zZWRVMExNYXVPWnlkeExlVE93clBEdE9VMmVZVVlCUzg3V2lwSWtMOW8yN3B4d2hPWU5RWG9VcnJSNkVSV0Q4UmhHTUxwX1lPdlFDX3ozdGNEQlZkLWRRNHVzVUxRZ3p5NEE?oc=5",
+      "published": "2026-10-22T17:50:02+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -351,37 +362,24 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
+      "title": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads",
+      "summary": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUpXeTJTNVhRMEFpcTVMZXJXZTZJVXJYRFdUaWtaWkpiMlVFMi1ic0swWEptZDNVOHdLbm9HZ2xpcXQyUkMyMEZ2RlVrOU1QZXJlYWFLN2VjUGY2SlNnNW1LNTZuUWVrbmh5ZE9SemxONEFnWGRaY2phYnk4RUJuMmROdC1vdFJzM3BQQUtYWQ?oc=5",
+      "published": "2026-10-22T16:30:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
       "title": "Elizabeth Holmes Quote Drama",
       "summary": "Elizabeth Holmes Quote Drama The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wakJxMzkxbHhzMlVSNEE4ZnItZ0pkcU9rY3pFRnk4VnJ1R0VIcVNGd044UUc2eUtGQzNUS0xoNFRWRFFoLThvQklFQlV5NTVSbDdaZ2JpS1V5Q3Y0VWRxbVp3U1otSnprRWFKZFA5eTRlUW1oTUNGa2tvbFlWNE0?oc=5",
       "published": "2026-10-22T15:44:40+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "What the Six Flags Over Georgia death investigation will focus on, according to roller coaster inspection experts",
-      "summary": "What the Six Flags Over Georgia death investigation will focus on, according to roller coaster inspection experts CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0JyRE1rcUxPRDh2LUZueXl0WXJzRXFFSEZESXp6ZW56Zng3WWZhdHhKc2xZTXNEWGJqbWZ4SUZYOEJBaENrWkRGTDI5SHhjS1ZrdjRDZFZReG1UNTBhSEpEeUljUElQWjNBRjZzM0pyRm5RUU1rdmtZei0yYzVYalRtand3d1lGa3c?oc=5",
-      "published": "2026-10-22T15:44:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Bombshell documentary features 3 male sex workers who claim they were hired by Lindsey Graham",
-      "summary": "Bombshell documentary features 3 male sex workers who claim they were hired by Lindsey Graham LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0RibUJrYWthQ1k3dHZjc0tRTE5HR0FmYmxlU0cyNnlmZ2RhYTl1YkdOb0dET2E4R1pfUWw1SllKemZpRFBNRGJJTWRBSjZuRkR3QW9tOWNzWmlyb2wtZHhCSEVoZXRUSWR4M3pZMTFzYVBoV2otOXQ2MjNveS1UbXdJcjlubjh6dmpwOXBLZkFtQ3VRcTZ4WklzYi13bVZkTVRoU3hLNmVtdWhhSVAxb1dzeE5HeTMtWHNBNFo4eHVCOGdz?oc=5",
-      "published": "2026-10-22T15:13:02+00:00",
-      "beats": [
-        "Business",
-        "LGBTQ+"
       ]
     }
   ]
