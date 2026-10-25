@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:01:23.675324+00:00",
+  "updated_at": "2026-10-25T14:29:21.545298+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,73 +20,109 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+      "summary": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkM5LWota01aazE1d0xGTDh5ZFNzS3RzSFN4a3dzUU9uTGFoXzdpdXRWNnBEU3pxQUJiOFVzMWd3WlFhbklJWVhBcUMtVXRyQVFrYzI0RElIc3J2ZHhRZ1RrWjJLV2FfejZKWlFZVTdQRTRpaUhuM2ozeTFYT1dWZUpwVHprQkZZSHJsY3k2SW8?oc=5",
+      "published": "2026-10-25T11:24:58+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Why aviation’s strangest four-engine giant passenger plane is vanishing from the skies",
+      "summary": "Why aviation’s strangest four-engine giant passenger plane is vanishing from the skies CNN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHcnM3WkRSc19ib182ZThkNEVLWU82U1h5WWdEVHRIWktHak04amVnUlVNT052UHlWWTRsRUxaRUhsaGQtUTNVNHlDcVluQWpZU1hzVkZlRnRIVUU2bEtiSTk4aDNvZmNia2VuN0xfYw?oc=5",
+      "published": "2026-10-25T11:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "More than 1,000 arrested in France as protesters and police clash in several cities",
+      "summary": "More than 1,000 arrested in France as protesters and police clash in several cities CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVV9YUU0tU0VEVXBhV1QwVlRYQUc5YzZfQk9GaGZDZXJlc1JXRDd5WnozSFpoT1NkTmxGc0lxTGZRUGlSRGRucm5qUmQ3SFFGNXNyTlJzZS15Nl85YXBWTzE2cEZqa2dyd1FreUpDd29aSC16dmlDMTFqcEhIMXdMXw?oc=5",
+      "published": "2026-10-25T10:31:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The educational divide could spell trouble for Republicans",
+      "summary": "The educational divide could spell trouble for Republicans CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSE1YdjBDcjRJMjZMSDE3S1ByTG9wZ2RFVFJSdG9hTEhZWVdTSnBwNFZFUU5GbEk0T3k1Z3NLNnpTUnBvTHBqVU5WZ2oydENpQzgyVk1QVlZHd1puekVyUWhMR2p1ajB3aXROQUZvZXhrWGZ3UU1GLVItM21lNnNTdEJnZGdIcHBIMW00X3U1bw?oc=5",
+      "published": "2026-10-25T10:00:16+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Once high-powered and influential brothers set to be sentenced for sex trafficking",
+      "summary": "Once high-powered and influential brothers set to be sentenced for sex trafficking CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcnJGMnhiR1pQcDBHZ2xOR19UbXp2RDN5U3BuNFJnY1VrcEtWUEVKd1Qydnk5Rzg4WWdyRDcyWlRQVS0wY0gtcnFsZDYyX1N1VmVtdmxSUjBBVE9GN1JjWS1TZEVweThlbzVTTEMyVHdlMC1ILWh3c20tV0N5bW5FZzdXRllRdw?oc=5",
+      "published": "2026-10-25T10:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
+      "summary": "Independent candidates sense a moment. Some Democrats hope they're right. NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjMzZnNUYXNTMzNaUmRlcWJrVnA1OGgyaWxfT2RDT19DN3k5dTk2Yk5xcFc5Mk1saWgtTG9zQ09YQ2I3Y2thSWhNYTRCZDk3dDFKWDVpa2taVHBid2VlY0RqaDFaQmFrRU1VVml2WENDQWtfZ2FpckJMWk45OUVKQkNXM3FfWFFtWEtMd1l5YmpzYzROd19xYQ?oc=5",
+      "published": "2026-10-25T09:00:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+      "summary": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map NPR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRUY0FiY3JmTDM0cWNQQ3BLSU90djF3aElLdHl6YWt3czRPc3dwcEQ3YldYV2JtaUNFZWVHM3hlMzdCVFFWdUFjcmh2NDFPdWRWLVk2aDd2R2NfOUtBLWpQS29TbWpJZ1dIWWVVMFZFcGNjdFgySkhUU2xIakpoeFFWblB3RzdBYXBhcU11X0VJbFJRbm5jb25JV2YzLTZDWERUVld4Mm5vSTRZdVlUTm5n?oc=5",
+      "published": "2026-10-25T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff",
+      "summary": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0RJZElXcWtlVFZyaXZjLURDYmxab1JVNHpBRnpFVnB0WDJ3RTVPcU5xT1k3dXg5Z1BYVmZFYTJUZ0RKdGEzakpJOUc3b1Rzbk41M3ZJaHdSN0hVa1M3RUV5NFJKQkRsQy1pbTlhWlN2NGVkTG43cVpPOGlRVk9sZmFFLVl3amMwV3Rua2hBYlY3T2pJcTdQalM0TGxta2lfSkVzadIBqgFBVV95cUxOUHhIWmNJY25Qc3VId2F3OGVSaWFyRFRhVG01LVpNckVQakJldkVCRmV2WFRESzktVmlrVmtQNFZwMVRhaGZqOHdObWhqQ211UGl5Tnd6VjByV2cwd0x6cnExMWVZZFBhQ09MV0UtRHNWU0xaR01sWVZqb0JUVGdtdi1lbHdQNlFDamxUTHdXeTc4aDdpZUJhWXMwQmR3RUZLTWdxcWV4S1NZUQ?oc=5",
+      "published": "2026-10-25T08:48:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail",
       "summary": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
-      "published": "2026-10-25T09:53:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "11 people shot near Florida university stadium in Tallahassee",
-      "summary": "11 people shot near Florida university stadium in Tallahassee CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ncjRfWHlVVlZRMTVsN3MzenBBX3ZUZmVBdWxKQVJidVhpM0t4MWxSUlRLMjZhRGdVM3RoanktM2JUaU9yZzh3QW95WFdWd0FTQzFfSzFybzJPNnNfMHY3R1M4T1ZScFkyWHJsc1lzVjZFdHpOS2lYcy1aQWY0Wk0?oc=5",
-      "published": "2026-10-25T04:51:10+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
-      "summary": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers NPR",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkhybHlTUkdGWDVjSlJXbW4wblEtTUgtNl9HNHhiLVpEZVIyTVRfamVSc0ZoWk9ySHhROUJiUmFRU0VGdXZVb3V4bVRfcmszdzZzUE5fdTdHYWNlOXNBU1VfcjVSRktYdkNfOVg2NVhOS3hGRmdMOXJYUXlFaVk3Vmo3QTJoOFdWeFh4QTdUT1dfYlY3UF9QUHl1Wkd2cEZ4QkExcUNDZGZ4NnlKVjYtZ2VxVTlOZw?oc=5",
-      "published": "2026-10-25T04:01:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Economic woes transform the Midwest into a massive midterms battleground",
-      "summary": "Economic woes transform the Midwest into a massive midterms battleground CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUs4c1NWTFMwSHJQX2tDM3pCdTV5Y3hjQmpRRkpzOHh3cWEteUlZd2ZUemNjMWF2WEl5OGdObFpOZUF3QjdyR0l0UVBUOGZIR0ZXdDhQQWZpcmozOVUyS0RRc281Ym90aUhFQ1ViaXUzaHh4RVQ4bW9FSVMtNkx5U1NBMEhhU2Q3ck44Vg?oc=5",
-      "published": "2026-10-25T04:00:15+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
-      "summary": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRERzY2I1ckluNjVKR2FvZ3Zoa3VNSU5RenBBcHpOQXZaeG5Semc2aFkxVVNRVXNRLXBnMGp2NE5xT3M1V2dMV1JYUVE1ejlGem1DWkt5Tmh4dGZZam8yWG5vM2tzM2NTRmxDaXBoSmVNbTVlSGp6M3AyUmM2UlhzYXpyZm1keXlG?oc=5",
-      "published": "2026-10-25T04:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-      "summary": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3A1TUVFSUw5bTVidkZhZ2xpVmYyVlBrMDY2dVM4bDVWM0lPdHA1cG15U3Q1X0hLeThCY0FIejcxVDA4ZWZEZFhkLTdsRVhMM2d5bWZqT2p3cVBKdnNUdjd6WUJUNk9Td2kxeE5mM09LN2JiNWZOb3NxMWhYb1V6SExwMkpKM0duQlN3Sm03OA?oc=5",
-      "published": "2026-10-24T22:47:58+00:00",
+      "published": "2026-10-25T00:55:05+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,42 +140,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
-      "summary": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB?oc=5",
-      "published": "2026-10-24T22:21:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump casts his midterm election ballot early in Florida",
-      "summary": "Trump casts his midterm election ballot early in Florida CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWV3cGhDNDVJdlU1MjNqV2U3X1ZGand4Z3BZWGNSZ1I3Nkc1dld3Y21aeDdNVkpRNlNxWmoxMGpfalJZQmdaWW5LOWVMaGRsT1Vma0pvQVNjakZjWjA0ZF9QTFUxM3JvWWZTWE1sNEZ3aEZ6Ti03SmNtZzJtc2JROGR3QWvSAYoBQVVfeXFMT3hmRElWSHNwWGZRWVZ0Nko3MFYwaktITzJmLWF2cTRhS19vUURHZFdkdVlzSUltZnVXR1JQSEMzNTQ1VHJFYmdRNDJXQWxFVDRTLXhLTTVEbzRRQmxiekxxTjA5Z1lieUZZakkxZXI3U19kQklORl9mdEV2R0h1bTRkamFTaTU2d0xB?oc=5",
-      "published": "2026-10-24T21:28:44+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Trade tariffs cause whiplash at Port Milwaukee",
-      "summary": "Trade tariffs cause whiplash at Port Milwaukee NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmRTb0psYTNxMHVOMEMxQlh4OTRMMTg5WEl2VDN3NnlvLTg5ejN0NlB3WVM3d1UxRWM5a3JDT1dacEJDXzRRX28xWVUyR0pPOHZPRUU1c1o2bjd4ZWt6Z05wUklSaERiRUJDWndqbDMwUFJ2UmFIMWh6bjQzREQ1dWluVkIwY0E3elpJT05idktwdlBHTlE?oc=5",
-      "published": "2026-10-24T21:20:55+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -147,6 +147,18 @@
       "summary": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification CNBC",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZktSc2RSY2JDQVNhQkI5WEhvUG15SHlWdEhGbk42WFc5THhVcWIxS3htNk9QUE42dUlUbnpFWURac3d4eTl1MVl4SHN2SlhtSUVZS3RtTjJTSHZTOEw4TXZrMmdMQTN0MERVLUdlNFo0alh4SFZQdmN4TEdHcndkellR0gGHAUFVX3lxTFBXRGhHS2Y3YUEtVHNISUV5NENROVFzN1lRNm84aDREUnBsbHhoTUstVGpTdS1QcnJZamdTczJtT0taUVc0Q1ZwSVRnWFRUcElraE1oTW9nSjhmQVNBeEtLRWhfY3BWcjlvb0daemRSS09qem1RMTk5MkRCTGxFcnpIWmxucHZwOA?oc=5",
       "published": "2026-10-24T19:57:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+      "summary": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWpKM24wMFppRmlxekFEd0lVTXFXMlp0N2xnN29USnpaeENOWklXX2pyTVY2bC1TRW00YjNSelZIT3Q0cGZxWHhpWEFONkhLaWgxUUsxUUlJdlpjazF0TVFNYVR4QjVWcW9oN3RFb01pSHBCRXpoTk5WMzd3WDR6R0dqOFdhaTZVUUxuQldXMllLeFF3bGxudHJTX0hEcEN5ZGRlZl9Ucm5ZNzB4WVRPb3lJc0VkUVRWYTNWdFpuVjd1Zw?oc=5",
+      "published": "2026-10-24T18:24:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -191,18 +203,6 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "More than 1,000 arrested in France as protesters and police clash in several cities",
-      "summary": "More than 1,000 arrested in France as protesters and police clash in several cities CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVV9YUU0tU0VEVXBhV1QwVlRYQUc5YzZfQk9GaGZDZXJlc1JXRDd5WnozSFpoT1NkTmxGc0lxTGZRUGlSRGRucm5qUmQ3SFFGNXNyTlJzZS15Nl85YXBWTzE2cEZqa2dyd1FreUpDd29aSC16dmlDMTFqcEhIMXdMXw?oc=5",
-      "published": "2026-10-24T07:33:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
       "title": "Fight over transgender mystery mailers heads to court",
       "summary": "Fight over transgender mystery mailers heads to court CBS News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHo3bjFCSjlBUFdhbXBpVW5rWHlZOHl4aGtTT0xQcE5hU2ExZ2ltVHlQQWpDMTJmaG1UVjByV0lFbVdJWUR2Z3lwSWlmeldzNEV0S0NnTDlOamhMMTF5Qzd1V0dsR01PVlJPUko2aDl0UVJuNk4tQlFiMVVoX3pVS1lJc01pOWJYTlEtZkpGR1dpQ3RuZDlCRWFFUnpNcnZyb2FwM21B?oc=5",
@@ -228,12 +228,24 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Toilet seats, sharing clothes & other gay marriage things the straights will never understand",
-      "summary": "Toilet seats, sharing clothes & other gay marriage things the straights will never understand Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkxjNmdqWTBhS24zQlFGa3ZFWC10djh5VzFSTnRMbDcxZUZTLUg1VkFmd0YxSV9zR2RzNFgyVHhtWUswZmRIelJpenhlVy1yeFItcG5XeEVXZmpTeG9OcmdnTERscUVEQ2tXMHlBTUFQOEVJTVlKUUFrVXRfOGxlRjZBWlREMlF1MF9pcE50a1NLanNHOE9JempGcmNUTVVwdkJfbk84VXBOUDJNel9hRFQ3RmlnbFdHU3BpOHJSVTJJQQ?oc=5",
-      "published": "2026-10-23T23:00:00+00:00",
+      "title": "Luke Evans dark new series The Party dives headfirst into the masophere to tackle the masculinity crisis",
+      "summary": "Luke Evans dark new series The Party dives headfirst into the masophere to tackle the masculinity crisis Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUlkTGxGVHdGQjlDdENXa1FuRE9FMFhXT1JuVkhaUkpnbFJtNlZUT1BUY2JSRzU0TWF4ekhfN0VLVWJoWHhoM3o4cGVQVTFxd1c1ZTRjZmtsQlJLRVNobnQ5VG82d2pPSEdIWV9WWWpJY0dvbWg1Rk9jQ1Zlc0ZPTWV0UTRlMmJhRFdVeDQ3QlVvRXJaZWVBYllaMVd5ZmZBWnVUSGdBa0p0eS1XTnVxcWFlMk9XSElBeUpDVkE1aDN6YU1sZ3poMG4zODcxb0lBdDF0Ug?oc=5",
+      "published": "2026-10-24T01:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Teachers spend about 8 hours per week on student well-being",
+      "summary": "Teachers spend about 8 hours per week on student well-being K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUFwdkJsal9vSWxMLVZpT0p4RDJBOE5LcWNoZzV4T29WUnNZNUVRSGxSREpQVi1DcUhOd2IwdVozRENkUXVCcXNPQnJtc3NKSU0xd2E2eTNLaTdXaUEyT3JXVElhb0s2V0VRUXdwc29ndmpnVGs5Wm5vZFZYV0lCa09HOGR0MENVbUpIbWpoU0xyaGdKRW5RZ2Y1T3c?oc=5",
+      "published": "2026-10-23T22:11:39+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -371,18 +383,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Who is behind the transgender mailers flooding Texas mailboxes?",
-      "summary": "Who is behind the transgender mailers flooding Texas mailboxes? CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3VZY1oxZ1g2dmxjelVfOWJ5cGo1akhCVlMyTkhscDNJUUszWE9nUFU0YmliWW8wSnF2NkhYYlZ6VlJUcUZtRHMyUTUxeEpMbmV1b0lFOEtMZ3M4cFBYaDNNVVZia1R4X3FGWmtkQkx1aS1YekNwWEc1Vlg5M01sbUp6RkFBb3Yy?oc=5",
-      "published": "2026-10-23T03:00:05+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
