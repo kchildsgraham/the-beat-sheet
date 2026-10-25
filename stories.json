@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:47:36.904235+00:00",
+  "updated_at": "2026-10-25T20:30:46.626446+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,49 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-      "summary": "Israeli election to test Benjamin Netanyahu's ability to hold power CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA?oc=5",
-      "published": "2026-10-25T16:38:24+00:00",
+      "title": "Possible ammonia contamination prompts evacuations after Oregon seafood plant fire, officials say",
+      "summary": "Possible ammonia contamination prompts evacuations after Oregon seafood plant fire, officials say CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aWFVDTGFlX2RTWXFVSzBPVHBETkl5TDltdlVNbGxzcWxNS3lMYkhGcEVwUXVqUEFjTzFpVEFVbHZtd3ZqMzA3QzBhY2JfTlU3SEFFa2RtWHZhYVZ3TGJQelRWNmdiMU8tcGZ4QUhORUI4bndyZjdHXzFzaVlhQQ?oc=5",
+      "published": "2026-10-25T19:07:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
+      "summary": "Brazil votes in tight runoff between Lula and Bolsonaro CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblppbXNfTFdFVzlNSnNvZGVmQllGeUt6VU1xQmRTNjNTVGh5Q2F6VFE4MFh6ZEEtSllPR0l3N2NiOWZ5dU9qVGU4dnJJUF9Idl9NZEFDZ0ZCdngwUkJ1UjJZVENuUUxYRV9MaWc3ZEFSU2dtbXdKZ2paT3VZQjVoWlhDb1lyNEFJTW9PSUM4MkjSAZYBQVVfeXFMUE0taWU0SVhyQnR1Y2xGSVRyZzA1LXJIZk5aZ2ZrNUZSTklvUm9xQkZDYlMyTzBCLWdnMUVCOVB6V2JYa3ZrX2NLLUw2c3RHTmNiZ2dUeWc1VDFYY0hQbm9FWUtRRU9OZXUwTmNPZmY0TzBlSm9tbFBDZlhMVDViOHg0ektjTkdJdjhGTzR0SmNoTWFPUklB?oc=5",
+      "published": "2026-10-25T18:41:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "summary": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zZEVnZGFIdVlkM2pfTFJET2U3V3lmOFRXN056cEtoTlEtMjNuYmlSSXdnNGM0dkJZQWx6c3Q2bFVRS2FFTzFZWHZDd0ZaY3BvVUhnNUNmSVlfZG1LdWxpM3lSR1R6anpqVmVYWmNqYmNoVGFkNjZMb19IeV_SAYIBQVVfeXFMT1NhaEV1bVRTRUp2LWRJTFRrQk9ZR2ViTkFaRnBaNTdLSXVLUnRBbTdmWHFOTm5vQU5obUFITGktQTJUMmxvbXdrVm0zQTlsQ3B3YVU4VXdKZmNkNjI2SC1rNjdWYy02YTZ4eUs3bW5Xdm8xXzktXzJ4cXRrajFNTFhpUQ?oc=5",
+      "published": "2026-10-25T18:18:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+      "summary": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTFtSVNpVEV6RTJSb3VhQ1I1WEsyYXBaaWxXV0hBZkZ0R0RkN2Nrdm9lRnM2WWhVd19xTWVMVzcyLUM2SExta29EWVI5Q2JJaWJKSmxSNmhHYmwtVUtPUngxUGhfWld0eW9BaTlQRFZjWHptbE9ocWdjQVBUdTl2Nm5wYTVDdnN4Q21DY254dGFxZ2lGQXNfY21PVG4wVjJwZi1rLWszQkFuMEpnN1A4NnZ0RVYtcTlvWlpHeFVlSXg?oc=5",
+      "published": "2026-10-25T17:50:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,13 +80,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-      "summary": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0RnaWg5aW9hQ3JqWm96V3B4V2JmTEdtTEZDRkU0QzIwLXJyUFRzVklRSWFDemxUMjN6Z3dyM2hhTmtGaXdGMldhdDFNb1VvSzVaNmpaY3E5UmhLQmVSOERtOFI5TmdXVXR2WUFFU1VVSGtyNERTYTZ3V0FZWTU4VWEwWWhuTldSV2dfZTROSUdTbTlrbVQyQW1FTlM2N2FFVUxNMTN2T1ZkZ9IBrwFBVV95cUxQS0tyYmFXV1ZMWXhhTTVyYVNqN2RYS05JcVVCZzJteEF6Z1BMc053LTZYRllQV3VIYi1ZSnJUUU9pdWxMZEFHOVl2S205M0p6UjJtdW44OWdDaXBCamR5ZlpTdFNtOUJySWJGN0JaWVRZMmtYci1JMWxBLXBZcGQ5VEJGOFZoZzEtcmNCd0hKVWpPWmVROEJLR05UbkFWalJYUFV2cVMzRV9mNkJRcHhZ?oc=5",
-      "published": "2026-10-25T16:19:03+00:00",
+      "title": "An Iowa Republican’s Unusual Connection to the Kochs (and Kansas)",
+      "summary": "An Iowa Republican’s Unusual Connection to the Kochs (and Kansas) The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0tQTWtlVVFrS0diTUtFNlk3Y3EtZ0xOOUpQYlBOWDUzdnNXd0dQWFE3QXIxS3U3V3M1Wl95QS10R2I1RC0xMEtVS240WXZPRklPVFJJR1duRC1Uc1dkSDVoWGppTjFvRU5DWW01RWNuZU95YlB4THZYT09JZk1BUFVUa1FPY0VyYTcybW0wOURUUQ?oc=5",
+      "published": "2026-10-25T16:26:44+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,13 +104,25 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "summary": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXRhRGhmQ1RVT1kteDNMTTY1SWpNV0tsY0plSkRZWkNmYjJOYzkwaEtldU5YN1dnUDhWel9JM09COTlOMlFpSHo1bTVKRTFZX2lmUS0tbnJKZm4xOGdWcTBCUlZmS0UwRG01bVk0YVZhaDlTMzB4bksyODBpVGZJYXBkZ9IBiAFBVV95cUxPT3JnTTR0VW9PX0RiY2NIc2ZoZFI5N0s5bTBrdDhqcFhpNXcxY3lsREszU2d2Z3VjeTZsQU5BOFE4LWRsSzB4N0tlRVNxaGdQY3V2SUxaZzZuMnB5d1BtU2tKUFFmaFRSWnotZzl5YWlDb3dfekg5dDRqbjdheG8wZFVGRl9ORFJj?oc=5",
+      "published": "2026-10-25T16:02:56+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "How the conservative Supreme Court has rewritten the rules for the midterms",
-      "summary": "How the conservative Supreme Court has rewritten the rules for the midterms CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBU20xVDBfVEF4QmppYWxoS19XUVNfMnlJRXA5Y0JjSnNyaHQ3YzdCbjUwWklSb196YXJQZ1N4ZnoyczJhR1BoVjdpYi1wZDR1QUVBVlRfcFU1cE1mY0lOWjcyV1VZWEN4Zy1vZm1hUnFOV09kZHc?oc=5",
-      "published": "2026-10-25T16:00:15+00:00",
+      "title": "Israel is holding its most important election in years. Here’s what’s at stake",
+      "summary": "Israel is holding its most important election in years. Here’s what’s at stake CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemdjVnNhbUVUSWFHUXhibDlmME1hWDhKbUxjWDVraFdMYWw5bm5nRmJuTGJMcng0dGpsQzhrckN1R19kR0tqdENYOGRTLXlMaVJ5NzZ4RnpMcmJlYkhwcUUySldCQmxTdVVBQ2o2U2EyUlJxR0hVWjdWS1pTVzJfdkpfa2Z2dzJkZGc?oc=5",
+      "published": "2026-10-25T16:01:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,49 +140,13 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail",
-      "summary": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
-      "published": "2026-10-25T14:47:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-      "summary": "In pictures: Initially peaceful protests across France over inequality again descend into violence CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JVbTVIUDc2bno4ZDI1cTdTaGFwTGpMSlJ2Ynp4bEtxSjl6Y0RuZUxOUmNHQWRPTnlfOEd1cURTYUYxNHRqR1RqOXdSMzFlR1FWZkRsQ1A0VW1TbXBTRi03SDd5MFZqZWI2Z3R5Q19FR1hqa3dpU2tXOUJ5TkktcjFzTjFYZGZnVUlaatIBkgFBVV95cUxNcFpNTmNabWg2OVdLWHZabzc0c3hYVjdBNGdtdEVIM1RfNGQ2WnVtUTNyQzIxSmVqTjJKQzBxWkxIZ1NBWEVqcUxFRjBaSEVGOUJLb2gtOVpJVV9nZzNoZktfUFpjOGRrZTJSdE9haTFaenBtOUItVnFTYldmOGxmdmxNaHRXemhubkhUa3RiTENJdw?oc=5",
-      "published": "2026-10-25T14:14:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "‘What’s the crime?’: Bash presses Blanche over Alaska election lawsuit",
-      "summary": "‘What’s the crime?’: Bash presses Blanche over Alaska election lawsuit CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wM0o3cXVoeFlHUnktcTFhMlpybTNYZjY1ZWlVeURtOVl3VHFnbV9kcUw2QTNlNEJMbDdSWE91MWt6RUZiRDdwbVk5a0o4TXRnRHBoN095THY4cEVFMUhiMjNkeVhoRUZNVHBjcmFuRmRBWWtRbmc?oc=5",
-      "published": "2026-10-25T14:05:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-      "summary": "What Democrats and Republicans fear most about each other: CNBC survey has the answers CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3UyOUIzOTlZRnZMcU55UnBablU1UzJyNDg4VDFXWkwxTkdTQlI4UHVRZldvVjM3ZUN0ajJ1VXpBYU9YRTdoa29WSXJCc3Y2UUhPeHBMQmNnR2ljWkJoX0Y4ckwwMnBsa3VJOE51cHVMSVVGWUp6YnViRXFNOW5YZkJ3TdIBiAFBVV95cUxOb1lMNE5JanoycnZaUmt5U0dLUTJrZWhFSlh4ZEdLS0YtVXVvbGQtbnNiSTVpWl84UzRVTUY2cFpaTC1ZdW1DYTFhRHd5bm9kdzRhV1RnSmJEWjFUejZjN3A0NmkyOUNYVWhFUWg5eFVoOGN4QUNEYUhMczdhMk85eXRkSU9RQnNG?oc=5",
-      "published": "2026-10-25T12:00:01+00:00",
+      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
+      "summary": "Israeli election to test Benjamin Netanyahu's ability to hold power CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA?oc=5",
+      "published": "2026-10-25T13:27:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -152,39 +164,16 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-      "summary": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map NPR",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRUY0FiY3JmTDM0cWNQQ3BLSU90djF3aElLdHl6YWt3czRPc3dwcEQ3YldYV2JtaUNFZWVHM3hlMzdCVFFWdUFjcmh2NDFPdWRWLVk2aDd2R2NfOUtBLWpQS29TbWpJZ1dIWWVVMFZFcGNjdFgySkhUU2xIakpoeFFWblB3RzdBYXBhcU11X0VJbFJRbm5jb25JV2YzLTZDWERUVld4Mm5vSTRZdVlUTm5n?oc=5",
-      "published": "2026-10-25T09:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
-      "summary": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB?oc=5",
-      "published": "2026-10-24T22:21:53+00:00",
+      "title": "How Americans Voted in the 2024 Election by Race, Gender, Age and Education",
+      "summary": "How Americans Voted in the 2024 Election by Race, Gender, Age and Education The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOG40TDFaRElrckFlZ29rbUF1dTY0UWx3RWNpMGFHd0FfbFR1TDc4WVBhU21wV3NEalFBVVZZT0s2blotZXZLZUVrcXpZOTJtNnE3LUdPOWE5bmZQTXZLLUVHMW1FQkFoTmtQejBNRFd6THVyU3FRVVZsUUQ1cllaWktEYw?oc=5",
+      "published": "2026-10-24T21:12:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-      "summary": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWpKM24wMFppRmlxekFEd0lVTXFXMlp0N2xnN29USnpaeENOWklXX2pyTVY2bC1TRW00YjNSelZIT3Q0cGZxWHhpWEFONkhLaWgxUUsxUUlJdlpjazF0TVFNYVR4QjVWcW9oN3RFb01pSHBCRXpoTk5WMzd3WDR6R0dqOFdhaTZVUUxuQldXMllLeFF3bGxudHJTX0hEcEN5ZGRlZl9Ucm5ZNzB4WVRPb3lJc0VkUVRWYTNWdFpuVjd1Zw?oc=5",
-      "published": "2026-10-24T18:24:00+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -197,6 +186,30 @@
       "published": "2026-10-24T18:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Donald Trump’s ransacking of public land shows just how little he cares about Americans",
+      "summary": "Donald Trump’s ransacking of public land shows just how little he cares about Americans LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFhKYzl0dUROaVhjUzh4R3dHUnNXOW1NbHN0SE1Gd0Z5bE5iVkxJVUJMaEZPcHRNYmxoWHZPal9HRGZaakhKRk5qQnFWTmEtWFAwRmswWm5haVc5WlhZUzY2TjN5WHh3WVpDNGdpMXRQOGdfVUtZMU1uRDJlQjJyTG4tVmVMRUNLWExseU5Vemt3RHdYQjY5RjhDekN2WW56ZTRYRS04bkw3WENSXzNHX0VGUFlZcHdhSWxyS1hMSjU?oc=5",
+      "published": "2026-10-24T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | The Eyes of Elizabeth Holmes",
+      "summary": "Opinion | The Eyes of Elizabeth Holmes The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1JJbDVZbi1LUXhXSDRjSmRZZjBBdktwQlZoeF9CWHR3TDRhNk9WOE9HSDZsS2I2ZUlneXN0VFJhLXpVYllDU0s1UzNDZWh5WVVPZng3NEhCNmU0SXNPNGxZSk5fdUZRQUkyV3dRMHU5MWZBbHA1eGp1cnBBZ3BGU2tVSWRSYVJySTNpVjVLYWk?oc=5",
+      "published": "2026-10-24T11:00:17+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -240,12 +253,25 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Luke Evans dark new series The Party dives headfirst into the masophere to tackle the masculinity crisis",
-      "summary": "Luke Evans dark new series The Party dives headfirst into the masophere to tackle the masculinity crisis Queerty",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUlkTGxGVHdGQjlDdENXa1FuRE9FMFhXT1JuVkhaUkpnbFJtNlZUT1BUY2JSRzU0TWF4ekhfN0VLVWJoWHhoM3o4cGVQVTFxd1c1ZTRjZmtsQlJLRVNobnQ5VG82d2pPSEdIWV9WWWpJY0dvbWg1Rk9jQ1Zlc0ZPTWV0UTRlMmJhRFdVeDQ3QlVvRXJaZWVBYllaMVd5ZmZBWnVUSGdBa0p0eS1XTnVxcWFlMk9XSElBeUpDVkE1aDN6YU1sZ3poMG4zODcxb0lBdDF0Ug?oc=5",
-      "published": "2026-10-24T01:00:00+00:00",
+      "title": "Toilet seats, sharing clothes & other gay marriage things the straights will never understand",
+      "summary": "Toilet seats, sharing clothes & other gay marriage things the straights will never understand Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkxjNmdqWTBhS24zQlFGa3ZFWC10djh5VzFSTnRMbDcxZUZTLUg1VkFmd0YxSV9zR2RzNFgyVHhtWUswZmRIelJpenhlVy1yeFItcG5XeEVXZmpTeG9OcmdnTERscUVEQ2tXMHlBTUFQOEVJTVlKUUFrVXRfOGxlRjZBWlREMlF1MF9pcE50a1NLanNHOE9JempGcmNUTVVwdkJfbk84VXBOUDJNel9hRFQ3RmlnbFdHU3BpOHJSVTJJQQ?oc=5",
+      "published": "2026-10-23T23:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Trump administration drops legal fight over student loan forgiveness rule",
+      "summary": "UPDATE: Trump administration drops legal fight over student loan forgiveness rule EdSource",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDFOVU56VGVfank4aGxyUGJXaU1RSllfdm9DaW1tOXRvbXk5cnl2cXZrTnRJbmNkNUIxNVJuUkF2Mi1aRlh6ZWRURW9fVW9xUEw4ZzlCOGQwYVNHZ1NndWxPVnRLbjkyZzFnUERBTmRZT05JdGlOMU9EemlyMm04b2RiUm9Yc2ozSGFZMmZSS1lCd3FiTFpFVUJLWnlIOWJzX1FKdA?oc=5",
+      "published": "2026-10-23T22:45:49+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -264,12 +290,11 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Washington doctors warn against ballot measure’s invasive sex checks for girls who want to play school sports",
-      "summary": "Washington doctors warn against ballot measure’s invasive sex checks for girls who want to play school sports Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0NwYWR5MVhsOHVBT2Y4R3kzaWFJcDlXRk9ZY1dDN2RiNHpjX1VwTFBPY3ViSERvX0JzdVFoY3V1UGFiQ2lvbzNTMkJRMlA0bkJKVVhiUXNtY3EzYW5veFo4c0dSUEk0UEt5QkFiSjJkTS14NU1EZWx4RGpieEpZWmpEUkhjSmJWLXZTY0dB?oc=5",
+      "title": "German police raid trans health center over suspected prescription drug trafficking: A ‘violent intrusion’",
+      "summary": "German police raid trans health center over suspected prescription drug trafficking: A ‘violent intrusion’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mMDNzV2JkczhVWEY2QndVMk9xdjk3MEh1elhYaloyRjBjLWpGYXVnMVdWY0lFWlJPX29kNUhMTnFoQURDSnJQVGdYa2RkX2d1aFdqSWlxZ3Z6SHk3SFhlb0lGXzhmWkdJOTRfdk9B?oc=5",
       "published": "2026-10-23T21:20:50+00:00",
       "beats": [
-        "Schools",
         "LGBTQ+"
       ]
     },
@@ -347,42 +372,15 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "School business officials share tips for navigating budget challenges",
-      "summary": "School business officials share tips for navigating budget challenges K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhnOFBCN2pFbU5XbDhsWUx2QzlaMWVQRjdreUwxNEppUmR1cUgwRXJwWTZzRzg2dTNOV1lIVjQxbk02cTlYWXk4eXdZSWRxMmg4QXdoQlJFcmJkVUJmWVFTTmxsSkdOc0ZaaDRkQTc1dU1kUDRpbDZ4QV9remp3ZVM0czRlTjd1ckhQRlJGNTV4N3d1ZllUcDZlMVpCOTlHUlpEYi1MU0wtUQ?oc=5",
-      "published": "2026-10-23T15:08:35+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "AOC has two words for Democrats who think defending trans rights is a losing issue",
+      "summary": "AOC has two words for Democrats who think defending trans rights is a losing issue LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOck01eFAzR1ljdGl3N0J1REtocm1FX2dlX3BLZGw0cXZ2RU5ET3hkS3BlOGZ1YXBEeGMyX3cwV2V2S1Q3X0pRVFdWeFJnNzM2YnBtcWxiVnBWbWdTdzJfTlplckVWYXU3eWl2Y3lRRjI0ZWNJNHoxMnR1aHF0bUtvckhGcUo5Q1dyZDB5NkJBRmpMRk9hOVVlcU1EMDhJZENvTFNvWTVUM0s4bkYyMnNka2hsdHhQZV81dEVudw?oc=5",
+      "published": "2026-10-23T15:36:30+00:00",
       "beats": [
-        "Business",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "President Trump, first lady vote early in person in Florida",
-      "summary": "President Trump, first lady vote early in person in Florida CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzJrQ0hmOUVsQS1zZ1RwdkQ4UHVJc2xrRFFPRG5VSU5UZGVxenBqZW5BeVBjSi1uNEg4WmZOc2lOWUZOZDNpQ3RRU0VFZkZadTBlUHFVdmtNUXV4eU5lOEl2dGJ0OHVvSm1xWHJSWC1iWHNFbWNPZmc3Q1VUeXgzVmx3UDdGSzhE?oc=5",
-      "published": "2026-10-23T14:54:00+00:00",
-      "beats": [
-        "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Trump administration: English learner, other minority protections ‘not enforceable’",
-      "summary": "Trump administration: English learner, other minority protections ‘not enforceable’ K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTY2dVY2ZHc1eVRDczlQYXdRbWxJeFZ6RFNhay1LY1Qya2dJZUd5UV94bmUwN0Yxa1BZQnJSQWV0TGZvLVZtNFZzbml5TlRQcmxNXzZZREFYWmZKTF9ub2hSZ0lsbHVBTko2WXg0aEZjVDhSb2Q4WDhWU1FfSWhQUEZoaDZwN2VRVm1oZEZmMDVtaS1VMVZuMGRoRWhOUlBGTU44aG9xdnktSUxJbVE?oc=5",
-      "published": "2026-10-23T03:06:36+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
       ]
     }
   ]
