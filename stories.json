@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T14:29:21.545298+00:00",
+  "updated_at": "2026-10-25T17:47:36.904235+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,121 @@
   "errors": [],
   "stories": [
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
+      "summary": "Israeli election to test Benjamin Netanyahu's ability to hold power CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA?oc=5",
+      "published": "2026-10-25T16:38:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
-      "summary": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkM5LWota01aazE1d0xGTDh5ZFNzS3RzSFN4a3dzUU9uTGFoXzdpdXRWNnBEU3pxQUJiOFVzMWd3WlFhbklJWVhBcUMtVXRyQVFrYzI0RElIc3J2ZHhRZ1RrWjJLV2FfejZKWlFZVTdQRTRpaUhuM2ozeTFYT1dWZUpwVHprQkZZSHJsY3k2SW8?oc=5",
-      "published": "2026-10-25T11:24:58+00:00",
+      "title": "Sunday Puzzle: BRB",
+      "summary": "Sunday Puzzle: BRB NPR",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fdXI3cHI3NVMwX0tlSnlYcWh5NkRrbk0tU3B1Mkg3WFFiY0pGcjNwa3dPTVl6VTJCVE1vRTRiZk00aGNjVm5za0dpSWQ5bmNzZnZ5TEVOdVFISEFOcGd2dy1oWmJ6eDlLTHIwMA?oc=5",
+      "published": "2026-10-25T16:30:00+00:00",
       "beats": [
-        "Schools"
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+      "summary": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0RnaWg5aW9hQ3JqWm96V3B4V2JmTEdtTEZDRkU0QzIwLXJyUFRzVklRSWFDemxUMjN6Z3dyM2hhTmtGaXdGMldhdDFNb1VvSzVaNmpaY3E5UmhLQmVSOERtOFI5TmdXVXR2WUFFU1VVSGtyNERTYTZ3V0FZWTU4VWEwWWhuTldSV2dfZTROSUdTbTlrbVQyQW1FTlM2N2FFVUxNMTN2T1ZkZ9IBrwFBVV95cUxQS0tyYmFXV1ZMWXhhTTVyYVNqN2RYS05JcVVCZzJteEF6Z1BMc053LTZYRllQV3VIYi1ZSnJUUU9pdWxMZEFHOVl2S205M0p6UjJtdW44OWdDaXBCamR5ZlpTdFNtOUJySWJGN0JaWVRZMmtYci1JMWxBLXBZcGQ5VEJGOFZoZzEtcmNCd0hKVWpPWmVROEJLR05UbkFWalJYUFV2cVMzRV9mNkJRcHhZ?oc=5",
+      "published": "2026-10-25T16:19:03+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+      "summary": "Venezuela's opposition leader María Corina Machado returns after months in exile NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnVLTnFGZWpkMjJFQjVDRzdUbU96T2U4THpTNlJoVVlKejJRSklSOGwzTDRJV2pDOVpsS05MYnZsRjdIbXBVZEF3T2hOOUZHMXJPWktHdkJwUUJ3V2R3WndWTTlzYlZQcW8ySUVFYjdNam50NW1WRVR1OTF6NzFWWkJsb0tNSktmeFktTjlIQm1SaWlETXlfclZnMlQ?oc=5",
+      "published": "2026-10-25T16:18:41+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Why aviation’s strangest four-engine giant passenger plane is vanishing from the skies",
-      "summary": "Why aviation’s strangest four-engine giant passenger plane is vanishing from the skies CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHcnM3WkRSc19ib182ZThkNEVLWU82U1h5WWdEVHRIWktHak04amVnUlVNT052UHlWWTRsRUxaRUhsaGQtUTNVNHlDcVluQWpZU1hzVkZlRnRIVUU2bEtiSTk4aDNvZmNia2VuN0xfYw?oc=5",
-      "published": "2026-10-25T11:00:15+00:00",
+      "title": "How the conservative Supreme Court has rewritten the rules for the midterms",
+      "summary": "How the conservative Supreme Court has rewritten the rules for the midterms CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBU20xVDBfVEF4QmppYWxoS19XUVNfMnlJRXA5Y0JjSnNyaHQ3YzdCbjUwWklSb196YXJQZ1N4ZnoyczJhR1BoVjdpYi1wZDR1QUVBVlRfcFU1cE1mY0lOWjcyV1VZWEN4Zy1vZm1hUnFOV09kZHc?oc=5",
+      "published": "2026-10-25T16:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Opposition leader María Corina Machado returns to Venezuela from exile",
+      "summary": "Opposition leader María Corina Machado returns to Venezuela from exile CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkxuSW1HUDBwX2Q2d3dJVXNQX1dPcUhZSWdQeFliUzlTYzN5VkYwVjJwVVJ0enU3WHFOdWVwaVphQjJSekFGQnJqWHhsMVVHTlJwWmM1dVc4bFF0M2EzZlN4d05DUWRNa29YdTNqTTBrOU5nYnh5TmpfQ3Y4ODhfb293?oc=5",
+      "published": "2026-10-25T15:50:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail",
+      "summary": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
+      "published": "2026-10-25T14:47:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+      "summary": "In pictures: Initially peaceful protests across France over inequality again descend into violence CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JVbTVIUDc2bno4ZDI1cTdTaGFwTGpMSlJ2Ynp4bEtxSjl6Y0RuZUxOUmNHQWRPTnlfOEd1cURTYUYxNHRqR1RqOXdSMzFlR1FWZkRsQ1A0VW1TbXBTRi03SDd5MFZqZWI2Z3R5Q19FR1hqa3dpU2tXOUJ5TkktcjFzTjFYZGZnVUlaatIBkgFBVV95cUxNcFpNTmNabWg2OVdLWHZabzc0c3hYVjdBNGdtdEVIM1RfNGQ2WnVtUTNyQzIxSmVqTjJKQzBxWkxIZ1NBWEVqcUxFRjBaSEVGOUJLb2gtOVpJVV9nZzNoZktfUFpjOGRrZTJSdE9haTFaenBtOUItVnFTYldmOGxmdmxNaHRXemhubkhUa3RiTENJdw?oc=5",
+      "published": "2026-10-25T14:14:23+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘What’s the crime?’: Bash presses Blanche over Alaska election lawsuit",
+      "summary": "‘What’s the crime?’: Bash presses Blanche over Alaska election lawsuit CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wM0o3cXVoeFlHUnktcTFhMlpybTNYZjY1ZWlVeURtOVl3VHFnbV9kcUw2QTNlNEJMbDdSWE91MWt6RUZiRDdwbVk5a0o4TXRnRHBoN095THY4cEVFMUhiMjNkeVhoRUZNVHBjcmFuRmRBWWtRbmc?oc=5",
+      "published": "2026-10-25T14:05:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+      "summary": "What Democrats and Republicans fear most about each other: CNBC survey has the answers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3UyOUIzOTlZRnZMcU55UnBablU1UzJyNDg4VDFXWkwxTkdTQlI4UHVRZldvVjM3ZUN0ajJ1VXpBYU9YRTdoa29WSXJCc3Y2UUhPeHBMQmNnR2ljWkJoX0Y4ckwwMnBsa3VJOE51cHVMSVVGWUp6YnViRXFNOW5YZkJ3TdIBiAFBVV95cUxOb1lMNE5JanoycnZaUmt5U0dLUTJrZWhFSlh4ZEdLS0YtVXVvbGQtbnNiSTVpWl84UzRVTUY2cFpaTC1ZdW1DYTFhRHd5bm9kdzRhV1RnSmJEWjFUejZjN3A0NmkyOUNYVWhFUWg5eFVoOGN4QUNEYUhMczdhMk85eXRkSU9RQnNG?oc=5",
+      "published": "2026-10-25T12:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,42 +152,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "The educational divide could spell trouble for Republicans",
-      "summary": "The educational divide could spell trouble for Republicans CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSE1YdjBDcjRJMjZMSDE3S1ByTG9wZ2RFVFJSdG9hTEhZWVdTSnBwNFZFUU5GbEk0T3k1Z3NLNnpTUnBvTHBqVU5WZ2oydENpQzgyVk1QVlZHd1puekVyUWhMR2p1ajB3aXROQUZvZXhrWGZ3UU1GLVItM21lNnNTdEJnZGdIcHBIMW00X3U1bw?oc=5",
-      "published": "2026-10-25T10:00:16+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Once high-powered and influential brothers set to be sentenced for sex trafficking",
-      "summary": "Once high-powered and influential brothers set to be sentenced for sex trafficking CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcnJGMnhiR1pQcDBHZ2xOR19UbXp2RDN5U3BuNFJnY1VrcEtWUEVKd1Qydnk5Rzg4WWdyRDcyWlRQVS0wY0gtcnFsZDYyX1N1VmVtdmxSUjBBVE9GN1JjWS1TZEVweThlbzVTTEMyVHdlMC1ILWh3c20tV0N5bW5FZzdXRllRdw?oc=5",
-      "published": "2026-10-25T10:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
-      "summary": "Independent candidates sense a moment. Some Democrats hope they're right. NPR",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjMzZnNUYXNTMzNaUmRlcWJrVnA1OGgyaWxfT2RDT19DN3k5dTk2Yk5xcFc5Mk1saWgtTG9zQ09YQ2I3Y2thSWhNYTRCZDk3dDFKWDVpa2taVHBid2VlY0RqaDFaQmFrRU1VVml2WENDQWtfZ2FpckJMWk45OUVKQkNXM3FfWFFtWEtMd1l5YmpzYzROd19xYQ?oc=5",
-      "published": "2026-10-25T09:00:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -104,49 +164,13 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff",
-      "summary": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0RJZElXcWtlVFZyaXZjLURDYmxab1JVNHpBRnpFVnB0WDJ3RTVPcU5xT1k3dXg5Z1BYVmZFYTJUZ0RKdGEzakpJOUc3b1Rzbk41M3ZJaHdSN0hVa1M3RUV5NFJKQkRsQy1pbTlhWlN2NGVkTG43cVpPOGlRVk9sZmFFLVl3amMwV3Rua2hBYlY3T2pJcTdQalM0TGxta2lfSkVzadIBqgFBVV95cUxOUHhIWmNJY25Qc3VId2F3OGVSaWFyRFRhVG01LVpNckVQakJldkVCRmV2WFRESzktVmlrVmtQNFZwMVRhaGZqOHdObWhqQ211UGl5Tnd6VjByV2cwd0x6cnExMWVZZFBhQ09MV0UtRHNWU0xaR01sWVZqb0JUVGdtdi1lbHdQNlFDamxUTHdXeTc4aDdpZUJhWXMwQmR3RUZLTWdxcWV4S1NZUQ?oc=5",
-      "published": "2026-10-25T08:48:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail",
-      "summary": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
-      "published": "2026-10-25T00:55:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
-      "summary": "Trump announces Audi will build $4 billion U.S. factory in Georgia CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yMjVNYUd1c2U4ZkhFcV96ZUJEejIzc0w5T1pfVjhfVHRHN0hLTEx2U09wV1ZJLWtnZ1h4bnJVc0FoY1A4Nk1fMFhvUF9sX0o2V19IMk9kYjlTRjBaaTdFa09hS0JEeDZVc2FZX3RNenPSAXZBVV95cUxQZ1JjVjZMRUxGdzhjTlNnQVNGT2dLTHNVSXV4UXRmUGhjZFFNbEVQckZQaVBkVHNZbzVyaEtEYVBvREdBSTZFakdFYXNtaXB4Wmg4Vzd6WFlYYVNkeEp4OV8yTlRpTS1wSVZlUlFNWERyTVVNeEVR?oc=5",
-      "published": "2026-10-24T22:36:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
-      "summary": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZktSc2RSY2JDQVNhQkI5WEhvUG15SHlWdEhGbk42WFc5THhVcWIxS3htNk9QUE42dUlUbnpFWURac3d4eTl1MVl4SHN2SlhtSUVZS3RtTjJTSHZTOEw4TXZrMmdMQTN0MERVLUdlNFo0alh4SFZQdmN4TEdHcndkellR0gGHAUFVX3lxTFBXRGhHS2Y3YUEtVHNISUV5NENROVFzN1lRNm84aDREUnBsbHhoTUstVGpTdS1QcnJZamdTczJtT0taUVc0Q1ZwSVRnWFRUcElraE1oTW9nSjhmQVNBeEtLRWhfY3BWcjlvb0daemRSS09qem1RMTk5MkRCTGxFcnpIWmxucHZwOA?oc=5",
-      "published": "2026-10-24T19:57:24+00:00",
+      "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
+      "summary": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB?oc=5",
+      "published": "2026-10-24T22:21:53+00:00",
       "beats": [
         "Politics"
       ]
@@ -176,18 +200,6 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Donald Trump’s ransacking of public land shows just how little he cares about Americans",
-      "summary": "Donald Trump’s ransacking of public land shows just how little he cares about Americans LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFhKYzl0dUROaVhjUzh4R3dHUnNXOW1NbHN0SE1Gd0Z5bE5iVkxJVUJMaEZPcHRNYmxoWHZPal9HRGZaakhKRk5qQnFWTmEtWFAwRmswWm5haVc5WlhZUzY2TjN5WHh3WVpDNGdpMXRQOGdfVUtZMU1uRDJlQjJyTG4tVmVMRUNLWExseU5Vemt3RHdYQjY5RjhDekN2WW56ZTRYRS04bkw3WENSXzNHX0VGUFlZcHdhSWxyS1hMSjU?oc=5",
-      "published": "2026-10-24T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -201,7 +213,7 @@
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
       "title": "Fight over transgender mystery mailers heads to court",
       "summary": "Fight over transgender mystery mailers heads to court CBS News",
@@ -358,18 +370,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-      "summary": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWJJbVpnLUE0ZGdWcnVMOWFaM2VPbVJ0YjVfUkFrZGV4MWVIamo1V0FfX2tQUFNYbllYWk5mczhYTUUzWnY3cVlfMEpibm55Q1pQb05xUElNbWhSaWtGLTRSRWp4aFZGTHoxXzFxMUdUTWVkUE9XU0pqNUJIcG9PRzZ3?oc=5",
-      "published": "2026-10-23T09:07:27+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
