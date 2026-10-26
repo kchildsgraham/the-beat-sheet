@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T01:29:58.763439+00:00",
+  "updated_at": "2026-10-26T06:52:30.676073+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,102 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Lula Wins Re-election as Bolsonaro Rejects Result",
+      "summary": "Lula Wins Re-election as Bolsonaro Rejects Result The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XVUlZNlR3TEVyVmdiVldhZmVzY2xpQ3Yya1hEQkFlbE5VUU5lWGdLZTZMbEpCY0FEQ0l1VXF4dkE5eUM5Tzl2V3BPOVByWllIa3lXZGpudVVFbUQ2Ym80WlRkMFZUX0JfS1lpbGVn?oc=5",
+      "published": "2026-10-26T06:50:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
+      "summary": "Defense tech investment boom sparks bubble warning as private equity pours in CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQXI0djdldVhJbzhZV0xrTW1QN3RfZEJ1enBPRm9iSWN1UkFkSTBCYUhGTFY1NFFEeUlHalk5VTJIUzBsY3hIcVdFTnpnRzNhYWp2U2s2dGxhT0FsajFYVTJVdl8ybHJaRE02SElyckdnZjh4bVNzc1JQME1GSVctN9IBhgFBVV95cUxOR0lEOV9lTGJKeEo2Y0dsVVB2ZnZ2S1gza0Rod3pvNU1zSnVVNHZyNXJselhjUXJJYnlEU3FVUUtSZUtsVFlIYmFSbkVsZnlWQ09uc1ZvSmJwbEEtS3pKMWZNTjJsOUxGU3RiT3ZpWWVJOC1UdWRxZW5WMkN3dzJPUnNWcVdwQQ?oc=5",
+      "published": "2026-10-26T06:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+      "summary": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlb3RFQnktc2pYOXZaNjR1cFFxcDVpV2poRDN6X0tJNGhGX2NCX05kSlVtaGNialZPc1E3R3g2LXZuWmpidDRobThNdzROYUFWQkFFUVBnUW9SajI4WEs0UmtiZjhPdWVvUzRlQWtWRmvSAXZBVV95cUxOY0FTdGxTWkFDWFllVFg2SDZiQVVTRWxYY1NXTW5uSmJWVEh5OGEtSjRBajhfLWtlUzRUclBnSUFPTWFPcmI0Yl9NZ3dUY1gzWk90RTY0SDQydDlfbXVGU21UVVU1dmxFb3FyQzR0d2xJUkd1NUhR?oc=5",
+      "published": "2026-10-26T05:18:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘He can barely walk’: Russians tell how vulnerable men are being targeted and coerced into signing up",
+      "summary": "‘He can barely walk’: Russians tell how vulnerable men are being targeted and coerced into signing up CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalNNZ2dyQlE0OHJCazg3OHVjT0JpaXgwSVRLUFY0NGVHNjVDRERwWDBNX19hMnI3dmowNVphY0VDelBtcHJEQ24yQWhQMUtsaDVOQ1FJZlhWYmtKVG9XMzVDX0pkNjlGdTRjSGg5Rk9NUzV1Qk5GYzRUMmlaUHIyZDQzNlJuRS15a1E?oc=5",
+      "published": "2026-10-26T05:01:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "summary": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0hIc09wcC1xcjlvazNhRnBtTUdRS1BzaHhmMlFjcXcwejdZOF81T1ktekRjSXoxaUFvbVM2a1Q3dXc1UkNPSnZiOUVRY3pGZ0JCQU1BTW1jWWVRV2pvZmRrazlDNmhfcW1SMTFqYkxTNExjazV5NTloOUZHMkZsazJkQUdQMUnSAYwBQVVfeXFMUENBS2U3QWF2ankzUFZPc2o5NnN4YVdZcURROVdRdFhtR0FoczM5N09sdlpNcEZDTW10c1JneXNDam15MldDc0pPcm9IRFA4OGhjRzdKbUFtSUlwcnQxc0N5QTEwZDZxQTFjQmFCU2pNcC12ZVBUQzRpX29BOEdkU1oySTEyb3hTbERzUHk?oc=5",
+      "published": "2026-10-26T04:56:16+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump rails against Bill Maher in his longest Truth Social post ever",
+      "summary": "Trump rails against Bill Maher in his longest Truth Social post ever CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRFNkWXFZdGgtVFkwak1ITUF3R2I5d2tISVZyR2xJbEFLVmUtdE4wN2d4NlVOTE1qR2c2YmNGdE9uRkFYd21FWjk1ZkxtSGlDWGhNMDgxVU1Tc3dtRUZGeG44TVF3b1hyWlNtOXUxd3lLTUg4b0RnYzdfRVdmcVR6b0dBSHhwQ3YtSjFYcA?oc=5",
+      "published": "2026-10-26T04:16:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US has plans for major Iran strikes if Trump chooses",
+      "summary": "US has plans for major Iran strikes if Trump chooses CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMkYxX0xCdEJNR19IcUM5QTlEN09sZS1zODJGam1TWTNMZGxUN0dRVTJNR0hhRENuYWo1SURGd2pQbTJYNGdiNmVMdlBCRmE4QUZDLXFXMjVnLWRSNXZfb3JERnBYa1U2a0d1ZnVPQnpEZm1w?oc=5",
+      "published": "2026-10-26T04:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "More than 1,000 arrested in France as protesters and police clash in several cities",
+      "summary": "More than 1,000 arrested in France as protesters and police clash in several cities CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVV9YUU0tU0VEVXBhV1QwVlRYQUc5YzZfQk9GaGZDZXJlc1JXRDd5WnozSFpoT1NkTmxGc0lxTGZRUGlSRGRucm5qUmQ3SFFGNXNyTlJzZS15Nl85YXBWTzE2cEZqa2dyd1FreUpDd29aSC16dmlDMTFqcEhIMXdMXw?oc=5",
+      "published": "2026-10-26T00:53:51+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -32,74 +128,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Brazil's Lula wins presidential election in runoff vote",
-      "summary": "Brazil's Lula wins presidential election in runoff vote CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkJLQkVOeGJRZkVMVFFGclRQV0MxU3ZETkxma1BFQms0U0JtQnFYYXkyUmZaUldoNS16aFU3dGcydFdEbkVtVmRnTGZGRk5YRWtJN05UNGZtNVE3TlNPa3IzNHN6SlhyVEtqaGJERkh4andXTEV4Z2t0NnI0Zzc0b3dIeVlNa2pzN0JlNlVNNNIBlAFBVV95cUxPM2ZLV0dabC1IQU9GOVd1Y1NpYmYwTW5JMUpaWmxRdXR2cTg0QlJWN29ia3F6TDFPUFRlLXZjLVo5MGJXem9fSmgzRzUteFZRd3VhaXg2SmNiTy1UMUlvdk1KU2hOMTJGRS1ONEwxYWx2QlYzcFBLRzJ5RTZlUGt2ZkYyeEZQNF91S3lnQnAycVBIeW5f?oc=5",
-      "published": "2026-10-26T00:21:00+00:00",
+      "title": "Machete attack in San Jose leads to police standoff",
+      "summary": "Machete attack in San Jose leads to police standoff CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHhkaURTVFJiRFR0Mi1UT1M1T3FwVjZ1M2t3Q1Zta1dQbzhXVUtVSC1HTmc4ZHdQWkNuTzJ0Rm0wcVV5S3o2eEl2cHlPUjFHeGN6bUJ4YnBGUjJzZUdXV2UzVFdsOU9xakxuT250R1dxTFNFN3VVYzc2MEpvRWtMUUJadzJHSEFNQVRaLUFrV0NuaS1rVGhTZTFSMA?oc=5",
+      "published": "2026-10-25T21:27:03+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump comments on Nicki Minaj’s appearance at Michigan rally",
-      "summary": "Trump comments on Nicki Minaj’s appearance at Michigan rally CNN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmxLRk9fVjh4X2s5TkxEWGdiNksyeDBGQ0I1M2gzV01ZdWEtenBnU0ZjbWVKaU1LM2lZMXFnZGtVSmVoam42THlaaTRBak5veFNVV2x1VE9rQlU5SldONXRYdDhiT19qYlR6Y01HVkUzOVd5dVpqdzRGLTVicFZjX2NYZFc3MGNXVnNyaHMxTlhOSXNRTFA0?oc=5",
-      "published": "2026-10-25T22:47:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Serbia’s leader concedes defeat to student-led movement in seismic political shift",
-      "summary": "Serbia’s leader concedes defeat to student-led movement in seismic political shift CNN",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2ZSODRpRWZhUEVGWElHWXdEakFfU3hFMnZSTzNlQjV3ZEhSRFFSWlJ3ZzJhM0E0UnBoOGxZeEdFOTBfNDBuSGljdTBfOGJuamllZmhJVWZVZnhaVTRHOG95N0tOSW8zTUJNR09zTEp6TE10bHdrdU5rT2FueDJqS0xxdkpfN3VJcEthd0hUbUFFWjI0bXRwM0xSVWVBQU1yT2U2UVNURTZWb1N0VUJFdlpR?oc=5",
-      "published": "2026-10-25T21:50:27+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
-      "summary": "More pain may be coming for the AI trade. Why I’m not giving up on it CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb0djWEJIbkxUamlqeWtpMWpvVUp3dTZCblRoLWF5UWRxcGVRaFkxTFR0TVpCYWV4TXBQZTg4SVV1eXdDbWtKZEFhOEVYdFZaVENMMHpDSDA0c2VJNnU1WjVsck5zYXlQY0RYTWx2YWY4WXpnZTh1RDQyTjVPUXh5OFpfMTBZVWNQYnZrdndMTjE?oc=5",
-      "published": "2026-10-25T21:13:50+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-      "summary": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3VlUXJFWEs2dFFZRnB4amMtUl9uX1RIamFXVmNoNUljbnBzS3JKdHpUUm9kTkR5UUdheVNZemdTTVdMZVlwejlxbEkyRWhQRWFRWjVPcU9GWFk4dHJVMEppUlFqUl8xSGJncjJ6cGhILWRGbkh6U2tRbklVVUQ5eUZvenNRdTZ6aldzaNIBkgFBVV95cUxNVUwtR0lJSGdGTnFaN0oxQkVxWmpIQVpjRHlMeWVHYllTNDVoTE5XUjRVN3o3TlpoVEdTVVJVRDdzX3V6SVNPWl85dWctNVBqSXd2b2FGak9DV3BzaFp0Y0lvblV4V0RlcEg0LUk2R19HbUZkUkt2TXd5QzRTT1lhUUZWZXRqRHFDRFFDLXloaG9QQQ?oc=5",
-      "published": "2026-10-25T20:28:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Ammonia threat contained at burning Oregon seafood plant, officials say",
-      "summary": "Ammonia threat contained at burning Oregon seafood plant, officials say CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aWFVDTGFlX2RTWXFVSzBPVHBETkl5TDltdlVNbGxzcWxNS3lMYkhGcEVwUXVqUEFjTzFpVEFVbHZtd3ZqMzA3QzBhY2JfTlU3SEFFa2RtWHZhYVZ3TGJQelRWNmdiMU8tcGZ4QUhORUI4bndyZjdHXzFzaVlhQQ?oc=5",
-      "published": "2026-10-25T19:07:19+00:00",
+      "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+      "summary": "U.S. measles cases more than double what they were last year as outbreak spreads NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ?oc=5",
+      "published": "2026-10-25T20:35:35+00:00",
       "beats": [
         "Politics"
       ]
@@ -112,18 +159,6 @@
       "summary": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses NPR",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTFtSVNpVEV6RTJSb3VhQ1I1WEsyYXBaaWxXV0hBZkZ0R0RkN2Nrdm9lRnM2WWhVd19xTWVMVzcyLUM2SExta29EWVI5Q2JJaWJKSmxSNmhHYmwtVUtPUngxUGhfWld0eW9BaTlQRFZjWHptbE9ocWdjQVBUdTl2Nm5wYTVDdnN4Q21DY254dGFxZ2lGQXNfY21PVG4wVjJwZi1rLWszQkFuMEpnN1A4NnZ0RVYtcTlvWlpHeFVlSXg?oc=5",
       "published": "2026-10-25T17:50:35+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "summary": "Venezuela's opposition leader María Corina Machado returns after months in exile NPR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnVLTnFGZWpkMjJFQjVDRzdUbU96T2U4THpTNlJoVVlKejJRSklSOGwzTDRJV2pDOVpsS05MYnZsRjdIbXBVZEF3T2hOOUZHMXJPWktHdkJwUUJ3V2R3WndWTTlzYlZQcW8ySUVFYjdNam50NW1WRVR1OTF6NzFWWkJsb0tNSktmeFktTjlIQm1SaWlETXlfclZnMlQ?oc=5",
-      "published": "2026-10-25T16:18:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -156,22 +191,10 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-      "summary": "Israeli election to test Benjamin Netanyahu's ability to hold power CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA?oc=5",
-      "published": "2026-10-25T13:27:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Thomas L. Friedman: We Just Set Off the Second Big Bang",
-      "summary": "Opinion | Thomas L. Friedman: We Just Set Off the Second Big Bang The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yLUFQRHU1LVFjbFFReThhbmk0WHRhbURqdnl6cVQ3Q1JPSjZlUWUwaUlpWGNOZjU3N2VCcTF1QlBEWTd5Q2pZVDc4YWhQN1BHVzEzMXdsSUV2S3R4dS1QQzFEbEtSN2V0RzUzeG1tZm9qMGlf?oc=5",
-      "published": "2026-10-25T11:00:04+00:00",
+      "title": "Parker Posey: \"I have felt in the right place at the right time\"",
+      "summary": "Parker Posey: \"I have felt in the right place at the right time\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1adFZiNFcwLUdROXk1ZTZscEMzUmpFQnFxZkVUYjZjNUl6MEotY0g2eC01OEkxTzN5VVZILVdPNTN2Y21hTEFEYUNQb2l3Nk10MDBlbGhIeGZzMXJIdEc1ZFBKYVZaUjdCd2JOT1E0ZmNpTHZl?oc=5",
+      "published": "2026-10-25T13:45:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -180,10 +203,10 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "More than 1,000 arrested in France as protesters and police clash in several cities",
-      "summary": "More than 1,000 arrested in France as protesters and police clash in several cities CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVV9YUU0tU0VEVXBhV1QwVlRYQUc5YzZfQk9GaGZDZXJlc1JXRDd5WnozSFpoT1NkTmxGc0lxTGZRUGlSRGRucm5qUmQ3SFFGNXNyTlJzZS15Nl85YXBWTzE2cEZqa2dyd1FreUpDd29aSC16dmlDMTFqcEhIMXdMXw?oc=5",
-      "published": "2026-10-25T10:31:54+00:00",
+      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
+      "summary": "Israeli election to test Benjamin Netanyahu's ability to hold power CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA?oc=5",
+      "published": "2026-10-25T13:27:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -250,18 +273,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Election 2026: How Democrats could win the House, how Republicans could hold on",
-      "summary": "Election 2026: How Democrats could win the House, how Republicans could hold on NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXc0cHY0LWFXVjdaalpUUHlZUmlzYUdGbzZvSm1VUG15T2l5Q3VxOUlZUC13eEtnQTVXcy16RHRhNWQ3U3FMV2luc1dqbE5uVUZ0eW9xb0NlTXhDSnVwUjZpakNXTEQ5cUt4VU5TRTRyS1NhbmhMSUl1dF9JQnpGWk54MUJMTHVMam9BeV9TRzRDbjZxakVKaDNoSWt0U1F3RW1zeUdYNUpsTzItX1FqSDVRNA?oc=5",
-      "published": "2026-10-24T09:00:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -272,18 +283,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Iran has \"increased efforts to target U.S. personnel,\" intel chief warns",
-      "summary": "Iran has \"increased efforts to target U.S. personnel,\" intel chief warns CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53aDBya04yRmR1S25UT21vekZkQW01TkI3LWc1S3JkblN0NTBMWmdaLWJBaTFPSmpBUzJPWmVXZEJGMVVBSEFoZTlPeGk0cGZRV2tNWDJFelU5NnVFLXNaa3hrUmlydw?oc=5",
-      "published": "2026-10-24T03:13:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -348,6 +347,18 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Rank-and-file military members are rejecting trans expulsion orders: \"Not going to play that game\"",
+      "summary": "Rank-and-file military members are rejecting trans expulsion orders: \"Not going to play that game\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcS1JNUlEVUhBcnRZQmRSY3lacDI2SlhScFRWQ1FPNGZvSWhUMlBPS0cyOF91NXdMWWZPaUVzcHJ3Y2ROMnhzZ2FmTkZtMG1XSDFickdoaDdobTljbmNvRmFmS3BXWThnZnhrbjNoNUUxR2Q4ejVILXZ0R1BEZDdBc0RTaEVxeXgwU24tU0tCYzhQM0N6RjZlVDl1dVJVNV84MzRDcWZjUHlGWFVORHpVeUV0cWJGR1F0Yi0xNThvV3p5Z2VUNEJ6aE1yLUxteDVyX3F6X2hR?oc=5",
+      "published": "2026-10-23T21:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -369,18 +380,6 @@
       "published": "2026-10-23T20:00:00+00:00",
       "beats": [
         "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Republican Byron Donalds repeatedly misgenders Florida transgender woman who challenges him",
-      "summary": "Republican Byron Donalds repeatedly misgenders Florida transgender woman who challenges him Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0dwRlNzNHVOUzU4Zm9kTGxVOEFEeVZhMzcyZmNaTm1UUWUzQ0NISkFnV2hBLV9jdnBIQTJpNzEyR2hLdnZUTlI5cW1OcXo3dVlnSGdNTFhQbDktendoYzEzeV9PQmpsbW5mNEhFQUJkMDFhQnJvNG9FSE1SaVJLMEdxX3JMYzdzWGZpQVBBOGxucm8?oc=5",
-      "published": "2026-10-23T17:08:25+00:00",
-      "beats": [
         "LGBTQ+"
       ]
     }
