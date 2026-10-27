@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:49:42.710150+00:00",
+  "updated_at": "2026-10-27T20:28:58.639993+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
-      "summary": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWdTN3lwZ2xGRHZRRF9GTk1uS204ZnZDTUswZmpfZFJPbVU5Vlgtc001bmRsWE82YUd6UjhnRnJCbS15NXVQSHcxWFFTa2E2V2Q5UllZdkEwbkhyeW5iOFF3TGZuMlctX0NMSjh3SnprcGVTVnp2MlJWeTV6UTFldmpXem43XzE1NGpJOVhvclhQQQ?oc=5",
-      "published": "2026-10-27T14:41:17+00:00",
+      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "summary": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WmtrREFiT2I0QkhBd2lscUk0YzhjYU5RX0xUTFN4Q0lhemNRQW8xN0VGOTZ3cFpyYm9xa0xSaUQ1SDAwZXN3UUdNbGFzMHZWT3FtVGEzTlNWYUxpQUJPb3E5bUk0ckxjenFLVUItYk1zYUNl0gF6QVVfeXFMUEcxZUliMkFyZC1vOUFTcGkxQ3oxd0Mta05IaV8tM05uQ1gyRndyYWxTbl9GUUdob21fTGt5aEFGUTV0aEpaYWtzQ1F6UE1ITzFDY1pnc2hOTDFXbHlnQlVKWGhyODllVVdOanExTjN5OU1CNGZUM3VLV2c?oc=5",
+      "published": "2026-10-27T18:41:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +35,46 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "FBI searches Beverly Hills mansion tied to former Rep. Eric Swalwell",
-      "summary": "FBI searches Beverly Hills mansion tied to former Rep. Eric Swalwell CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLW9jTEw4NUdlR2xBYm1wMGd5T1hYWWdfUVdJbGJhc1hQYWFPQ25kNkVjODFrazhEejc1NlNfbVI2MnRLVkV5Tkk2T290TmlvcWVzWndiSG5nVWNQaTZBc0NtQmlJcHBtbzJqY3BNQXh6aE9TeTl5UVVld3dlTVBWSmQ1cEtOUlFsMVB2bFZXOE9iblZkQ2FCU290UkVGajdFR1BhVzBvRWU3QW8?oc=5",
-      "published": "2026-10-27T14:32:03+00:00",
+      "title": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through DNA testing",
+      "summary": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through DNA testing CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUU1F3MUFMZVdQVTVrcHVIWVdIaTZuU0NqTzVXZlBWR19ENlhpVnNsOHBIa3ZEWUt5RzJnWG1SSnZlVkMyR0pqaFpaWHhPY2U0NU92aFh1OU55ZVBRSGR4ZDFJRXpkbFU5LTZN?oc=5",
+      "published": "2026-10-27T18:28:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "How Much Time Do Students Spend in School? It Depends on the State",
+      "summary": "How Much Time Do Students Spend in School? It Depends on the State Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHotY3dGal9KckdaeFZQR2huWTVwNTZZR1VyMmlfY2xYNkJwMUk2OGhPYWM3RVVHbUdlR0U5eWhqNXRYSHN2UnhYTlB3MkRVelJRRkktMG5YdTgyTXU0VWUxX3NDTGlLVWo2OVZibGN0aTlTZXpyNXBSajZmV1d4TlliUVlLaWRPb3ZWTDF2NjNzelRWbEo4YTc5ai1nTmRaZkc0bjBHcEMxbHdXUDN5d3FB?oc=5",
+      "published": "2026-10-27T18:21:31+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever",
+      "summary": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TM0pweWxDVzl2d2NXWXRtN0Y5SU95cDR5VXVqeG1XNnB2eVFvRzdDcnNqVVVIR1gzcFJkMnV6d0RGRm9JZGdLVGFKb2dFNThSR0l5MDQtRWNDaHV0cWNZc2UxRE1BaTlDc0FrbnRn?oc=5",
+      "published": "2026-10-27T17:24:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Defeated candidate Flávio Bolsonaro defies Brazil travel ban with flight to US, sources say",
+      "summary": "Defeated candidate Flávio Bolsonaro defies Brazil travel ban with flight to US, sources say CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzBQcGFLclZ1aFRtd0h5Y3Y4RGhYdmlXUXBNUnFOd0lUcXhQYXRtVFhISXktRDFHWmQxZzRRS3hsb2lYdjBaelpzQnUyblpFLThqVjMtZV9jUGpfaGM5cEQ2Qm1FUDZ6MTdXT0ZGWmtYNTRxa0VBekdTVDJSWk1KWkhHdjQ4OFFZOS1ROA?oc=5",
+      "published": "2026-10-27T17:22:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +83,71 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-      "summary": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0ZDakdSamZtRjJ1c2hpZnR5dENMUnQ5djBFeFE5Wl91aWpzanpxV3VNX3dnb3pSY0lNYlBDRDNVTHVoQk5wdVBzM3RRMTB5WDVhTk9pY2ZtOVVEcVpXU2RPZmVDaUwxcllrRkJLNzctYjZycU5DNmE2Ni1JYzUzTmFhbnBXNGpq?oc=5",
-      "published": "2026-10-27T14:15:21+00:00",
+      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+      "summary": "A judge halted D.C. golf course renovations. Trump says they'll still start next month NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakM0YWhNTC1ZOWl6Z2ZqQzBuUWttYVByUndCNmlTdVMzNFdqcjdwS1ZMYW1Sb3ZsNkI4akdWdTlPOWg3cUpIdzVnT2xhNFAzZFdlM0NWS0NJQWg0c1NxT3B1Y3VrTFdoc29kZGhzZ3RmZXFyTzdVQS1XY1VqMUlmUTRud1Y0anYyWkVWeTNUbXgxUmxITWtpTnMwRWE?oc=5",
+      "published": "2026-10-27T17:01:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Pay raises fail to attract more candidates to run for California school board seats",
+      "summary": "Pay raises fail to attract more candidates to run for California school board seats EdSource",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZkV5VW1yNWwxenZPTmZPN05zNUNlYTdEZDVBNEN1aHA4M3F3YXk4UldqMlBSVmhTVzhCYU1vT1UwTWp0Rk4xYk02SF91bDRwaVBSUXRIVFhqSEFIOW1tVTNXWjJWUHhXdEVQLXFocFZCcTJaZEFLcTBOaWJQVThFVA?oc=5",
+      "published": "2026-10-27T16:53:37+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
+      "summary": "One week out, prediction markets see Democrats as favored to sweep Congress CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzNfdDZHcVRSdmFTUFJCMEg0TVJ4dnZUQk5tMXBHbW9tc0pPU01rNDRTMjJULThmSXZvM3JnaVVsdGJCWFFiNVdPVThmWWxBUWQzdER6UHUyb0M4cE1CVDN6N3NWQlJUME1tUW42bTNOSGc1TTJBMFNVMW1PRmVjMWRVVmNXUDZUTXBjRlp3TzEtd9IBlwFBVV95cUxNR21RSFZYb0hycl9qcmt2TWY0bUJHdU1WWm85QkRLQXB3SEV1UWxZZzlBMWx0Ni1xbExEd0hpOENFVUlpNzhfM2s1MG9KQ3FzMEFuSUNycjg5NFdZNWhOZFVnNEkxM012djl0ZUZvTTVlR2pjSzlPemVkZkFmV0tUX0d5WE1LYzUzaEhmVEpWZFpmVGtBSDBJ?oc=5",
+      "published": "2026-10-27T16:15:21+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "summary": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXNOakpZUWg2elFlZ2k0VXcxVHlybzUtYTJxWmZIUEw1QmM4a0xiRmdrdjZFZGloUU5HZG1DTFp0Ry1FcC1PMFVrY2gxYmlrb0E2dUFaaHF6Z2NGSV9mRW5wVkh2TTI4Yy1ZeU42X003YjdrZjhaem1XOEh4eXk5MTVn0gGHAUFVX3lxTE1aMnIwbG5ZZUoxd1NqT0hCeS1hdFdCbnVzWVdBUkUyb1lzZzVQRXU5WHNJTEhUOXd1eG11RGVZajFHazZnaWZ1MS03eHNCVUlPaTl1dXN0WW50Q0w4ZERuR3hOd25TRmV0VEYtckN3TmlIZ2dFdkhueFN6dy1lWVlDd2FQTmMxRQ?oc=5",
+      "published": "2026-10-27T16:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Differentiation That Delivers: Proven Practices From High-Growth Districts",
+      "summary": "Differentiation That Delivers: Proven Practices From High-Growth Districts Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnlQVlVENEZsZ1lBaG8zdm5pQkd4cWdDMnZVRXVxZjJkR2FyS0RGVUtacWRLTWFMeHVyNXltVjNrUHJ5TW5kOFdFaEd2cnE5cFRsckJJRGJ2Y2F4YmZFVi1OOXJYTzdBekJWU25IQXVSY0M4QzFMRTBCWlRKeEVlVmFLaTBWWHlkemhZdUdDOFFjM2tnYVd3ZE9Nbnd2V2hhZGNpOEJrYklOd1EtMUZVNg?oc=5",
+      "published": "2026-10-27T15:56:20+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "summary": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede NPR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWdTN3lwZ2xGRHZRRF9GTk1uS204ZnZDTUswZmpfZFJPbVU5Vlgtc001bmRsWE82YUd6UjhnRnJCbS15NXVQSHcxWFFTa2E2V2Q5UllZdkEwbkhyeW5iOFF3TGZuMlctX0NMSjh3SnprcGVTVnp2MlJWeTV6UTFldmpXem43XzE1NGpJOVhvclhQQQ?oc=5",
+      "published": "2026-10-27T14:41:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -68,99 +165,27 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Ripple strikes deal with Robinhood to expand its RLSUD digital dollar",
-      "summary": "Ripple strikes deal with Robinhood to expand its RLSUD digital dollar CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3dySnJ1ek9rRnU5LVR1NXd2bTQ3cDdHekdlYThtZDYyYk9MSkw4SXRlRXBybFZQYTZmQlBSWm9BUGVWYzF3eWVuOFBBYmJ5d1RxcXpnNTZVN3d1dTFwQS1Pamtfd29QdW1oVV9TcGxFblkweXp4emhlQVhOc3NWUnlSZi1OU0liM3ZJY256LXpfYlNIMDB0ekgwX2VjMW1yT3pqWTRkTGlqUdIBrwFBVV95cUxNd2FGQXBCc3h5SDhXUXF0SlFqaFpVUWYzRzRYcE8zNXRGbWZSOE9CVVp6MzNnVVVqeUdwOWNDUC04ZkRraTc5Tm0wY0FlaURxNDdaZW5pSkhtYjdIaFhsRjNOLTZaZjQ0d1FoZjZ0SjExRkVTOW1RMkFSN3pIQk41S0JDQ3FvT3dNQmNSSHZ5bnZSNUNhM0pXOC1rWV9lWW5LZ0JVS0diekdpcUsxVUhR?oc=5",
-      "published": "2026-10-27T13:15:03+00:00",
+      "title": "Opinion | Four Thoughts About Israel’s Election",
+      "summary": "Opinion | Four Thoughts About Israel’s Election The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHNCcWFTWlRVZWRtV05nNHlGRXNPYlhBR1Jlc3N4OGt0TGlQRl9pVmo5enZxZnl0SzUyYnlkM2JUYWU1Y0ZaU0trOVN5dFp0b2lnUTdneU5ncWRpcWZLM0g5Z3BXaUpqWTBudjVOd3gtT1pVV3p4TG50NUJTMXFVeA?oc=5",
+      "published": "2026-10-27T09:04:24+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Wall Street sees this chip stock as the big winner from the Anthropic IPO",
-      "summary": "Wall Street sees this chip stock as the big winner from the Anthropic IPO CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVjV4Nzg4VW91WldSdHJmc0ZHclRDdjd3bWlOTTMwV0EwR0x1VXdPNENxMmZ2UG1TdkdfZWNVNndoSEthTUFLQmh0aFVNVWJYLXNvWTZGS054TndvOEM1ellxUXJnNlBxaXIza05YYTR1Wm51?oc=5",
-      "published": "2026-10-27T12:51:16+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it",
-      "summary": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaG9DZnI1YTdSSWYwc0F2TmdfY1VpbGhKMF9BWGxxbWVfdVVNRUpIVm5va2hFSFJCXzJmd3pTSVdpNmt4MWNsZHlmcjBOY0ZwcE13eE5wMjRFZWI5dUs2YXNaMWhxTF9xWXl6WUV2Qzh3UmcyNVFLeXMtcGp1WkVTZjZ4YnZUR0xWdENmT1Nqc9IBlAFBVV95cUxNaHk2LUw1d0hIVFh4OWJYUzUxLUlIM3poN2hIeGhBX1V3SmN2aFlkbERYUFYzTzVDQzk3eDZiSjhYQWg4N2pCdDRBN1hiOXBFQXlQYjhZWmZoSzdEbGtlUFNSRTFWeDBPN3RPamJzQ0NlN3N4MVFpVmJrYkd6NGVhM1dIQUIxQUxkeV85VjVwMzh5bEQ4?oc=5",
-      "published": "2026-10-27T12:15:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Soccer star Kylian Mbappé apologizes for remark about ‘Chinese dictator’",
-      "summary": "Soccer star Kylian Mbappé apologizes for remark about ‘Chinese dictator’ CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd05fZVdUTEZ6aTFSYlRGX21sRGZQX0xVRzR4ckNNV1E4OVJFUFhwM0FvVEs1NUx4ai1OcF9BNXFQSWtJZl9OQTNzbUFadmZ5cEt3TEZZWDY0WDhWaFY3UDZOOUhTMVgtVVJSOGp2RDd1RTJqUlZaTk5aQWlGeTN6RGxwQ2g4Z0Ewb0I1NUFn?oc=5",
-      "published": "2026-10-27T12:14:45+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "How one case is ‘testing the limits’ of denaturalization",
-      "summary": "How one case is ‘testing the limits’ of denaturalization CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHAxYmJSMGFrWkZldThPTGFadHFNX3piZDJ3M2FtdDJ4eWVVNGZXV01ILU4tRVVMQ3p3T0pJSHc1VTNvY0REbWlHbEhfM3BveEIyUjBzX01YN3JSTTBmTGxRRXNxakxEbWZHN0h4T1N1ZGluMUx4ekZqSEJNWGdWenBmeDU?oc=5",
-      "published": "2026-10-27T10:00:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Beyond the Classroom: Extending High-Quality Instruction Into the Home",
-      "summary": "Beyond the Classroom: Extending High-Quality Instruction Into the Home Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGVpWkg4OFotWk0xMWhfRTRJWmxXY2NvbmhqSDFtMW9jR0NLak5BaHkzVDEzVWkxdE51RUFpOTZCYzc1WnJTbWFKekQzV29yVVpfX2xMaGtxLW1rMnZXeVZaalVfbGxVV3B4LWxTVURSei1BNHI1eERITG5LNy1ZZGZFRFFRSHhvWHRBb1hfUXhjN2lCd3FyT2o4d3VwdmY3ZUh1cVJPMlBfejQ?oc=5",
-      "published": "2026-10-27T09:08:58+00:00",
+      "title": "Database: Here’s how much your California school district spent in Prop. 28 arts funds",
+      "summary": "Database: Here’s how much your California school district spent in Prop. 28 arts funds EdSource",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmliVjJiWk8waG5nMnBmaFZ4b19peURMUklpTnF5cWY3Wlk0RkNhXzdMNVh3aFFuM0NrdUNiRC15VjlMdmFVdEEwaXNidGk0WTd1TWNjejVSd3l1MnNVX0NvMjY0V3FpUW1Nc3kyMUpJcTNKZ1dmSmc0ai1Ua3d2RHhWYU9GVkdycXZWV3Vmek9WNHR3NU9HMkNQUFJDcDVHLVpiZUprQWgwM250dWpDMk1oamN6VFE?oc=5",
+      "published": "2026-10-27T07:03:36+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "My Co-Worker Is Losing It Over My Religion",
-      "summary": "My Co-Worker Is Losing It Over My Religion The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5N0FBQzJ2M2JKSVctNnhvYVhXMVpLR2RPX0FHSnhPM1Fuc0NuRS1OdUZsZmRSR2g4amVNaXF3WDY3bVd3VEt1X2JQTnFQSE0tTkdGakJRaGxxRThGNzgtU0pGVXhiRlBHUEtzWkNscWZhczREWFExMEZRYnplUQ?oc=5",
-      "published": "2026-10-27T09:07:19+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | What It Will Take to Defeat the Houthis",
-      "summary": "Opinion | What It Will Take to Defeat the Houthis The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGLU9IcTdIb3FzeEZTWDBLUEhKZktsRG9sQ25zb0xrQWc1YzhXSG9Pb29MZHRiQjljRHMzc0c4T1U1V2RUTGhWd0ZkVlE5SjdFUk83NlFPVmN1REE4YldfNm95NTNGZHJ2Nl9hSmF1cDQ0clB6cC1PNUVoZHo4Yms?oc=5",
-      "published": "2026-10-27T05:00:06+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -213,6 +238,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority",
+      "summary": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlZrMkVqaHV3dEJHTS1paUhZOWxzSV8zeGg0MTlOU3JSVTFEQ01RX214cXNCMFBuX2R2S0ZwYW1hV2VtSWNzZnZGOURpQlkya0VLZWRwb2lBSUo5YUg4VTVGb2dia19MR3ltaXFGa2diRVJ0VnV2WlJJYmdCYWNlekVfNjNpdUltZWNiYkI5NlVIT1RzUmdYdXQydTRkZUlSN0xZMGo0NW82bXlWZUNPbDlnakdxRVU?oc=5",
+      "published": "2026-10-26T20:38:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -262,15 +299,16 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-      "summary": "Microsoft offers buyouts to around 60,000 employees to contain costs NBC News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckwxZmNkczVHakdfVTRLMWlCMlNzV1ViVXZOZ0FLc2EzLXgzeFBrU1ZfdFJjNjZneUp1LVVmakxmRmRMQ1Y2b1FhSzFtUGVMQXh5aUJLUGZla3FSM1BmT0tKU1lLTDVra195V3RtT3duWUF5MHBha1YwWU5NSGtEX2dXd0c0cExBSWFmRVBaSjRmcWdRenhYYmR0Qkdwdw?oc=5",
-      "published": "2026-10-26T18:06:20+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Democratic Senate candidate releases last minute attack on trans rights: \"As a Paralympian...\"",
+      "summary": "Democratic Senate candidate releases last minute attack on trans rights: \"As a Paralympian...\" LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGNwQk5aYzJaSldGa1IzMHdOaERRbVNPZ1JHV0hQbGUxbzZnNUpOLTc3YVlmd09XakNZTEdMZzdyaUFnbFZsRjlaSldxYmtRdkxYREVWdHk0eTRpanhOTnFjanBjSkFHUC01amlpX2Q0TWFxcmh0MThuR0RGQ25VeGQ2bWgwSTBjNUpxVFRmbU44VzZOZ0hpNm5QcURFUk1NdkN6TjUyQ0gxWHZhT3NRRw?oc=5",
+      "published": "2026-10-26T18:00:00+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -287,6 +325,30 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died",
+      "summary": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXpMZlE5SVlXVjhxOUZkWWdvX0oxcktwS1VaSWdOVXk4Z0RIVXpaY09nZ2Z3aFFFLWp0d1pQdlU3aGdKQ0JtMDNWWmtqWkZQTmNHRXl2bXREQTNtTmdoQkZUZ2ZjblNJRFB1bW8zUEMtdVRwQzhJcTRnMVZLY0oxQzFIaXBZLUNGNmFxOG52a3FvakRkUEE?oc=5",
+      "published": "2026-10-26T17:37:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Alcatraz Island closed for 3 weeks, tours canceled as crews repair ferry dock",
+      "summary": "Alcatraz Island closed for 3 weeks, tours canceled as crews repair ferry dock CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGIyTXkyRFhPVlBXRl9Tdzh6bGU0aTQycGxqX3EyMVpBLUVzZ0Q5bnNNSTZ1UDFjNllseXRuVVZLZFNMVmxvdUJ6WnBISmZoWW0xRU54dzFibVdpUEFSZFE1cjJFOV9XRUFDT3huSXJPczg4RVZ0M29MSHFsS2FELXpIMDdId3JvT2ljbUctRUVhU0haTWNvaFRWWXBCdTR1aTg1c0IwZHo?oc=5",
+      "published": "2026-10-26T17:00:19+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -296,31 +358,6 @@
       "published": "2026-10-26T17:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Richard Barrera is a powerful school leader with ties to labor. How will that help California students?",
-      "summary": "Richard Barrera is a powerful school leader with ties to labor. How will that help California students? EdSource",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFQtdVY1SGxtX01leFpyNkZtWllPdUVKanRsMDMyTUYzQU04aTVhQnNiTkROXy02U1ZVTmpiOTFPV0hVVVBxeDlGVXRuTFhqNFM5ZFBmSnIyYXNtZ1hMazZOczE3XzFwTWliUngwNUNDWDI0aDNmTThMLWpJcFdTNmNOOS1od9IBjgFBVV95cUxQU1NxQ0RsZ3JOU095Y3FVOUtwakxGTHN6TlFDRVh1Q1hhcVBkWmMwdHVkeEhES3pLenpDRFd6RVRyU01YRnVtMGZyRnljOXhMUjlEODlMai12cDE4NEZYaDZlZDZEd2RvWnlsb3RKRXhqN0Z5ckFpNXE5Qk9KOThOQ3I2WDRyQzhaNm4wYWpR?oc=5",
-      "published": "2026-10-26T16:10:16+00:00",
-      "beats": [
-        "Business",
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Only 1 in 5 California districts had a majority of students meeting math standards",
-      "summary": "Only 1 in 5 California districts had a majority of students meeting math standards EdSource",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90ZDRQRXJoQk0yRkwzUkhZTEpPZHVSZlVRamdZUnVwSktxYkRHNjhyV0swT2VMeHQ4aVpidzJlWFJta0RtMWtNNWZZWElMdUlUU1FSQkc0dUJ3STYyZVVYRkNGS0kzMEZpa1lqazlaT2F1QmU3VV84c3V1bHJaUQ?oc=5",
-      "published": "2026-10-26T15:53:48+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -346,43 +383,6 @@
       "published": "2026-10-26T14:08:49+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "12 injured, including 6 children, in shooting near Florida A&M University; 15-year-old arrested",
-      "summary": "12 injured, including 6 children, in shooting near Florida A&M University; 15-year-old arrested CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tdjJhVVZXc0dDbFgyVEc5NEpKTjlnLVNFVVBaT3JrbmpDV3FrU3o1QnV0V3lSbjdFYVpmQ3U4cjJORUlmZHM4c25SZ0hoRXJGOXoxODAxNVhGcXFzakFtcjFQSVBJWUZneDF4anRaUk4xRjlsTlhEUjhkZ1lTZw?oc=5",
-      "published": "2026-10-26T13:44:06+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: Supreme Court eyes K-12 admissions policies",
-      "summary": "Week In Review: Supreme Court eyes K-12 admissions policies K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tai1sTzJUbnRJMGZ0aVAyOEFGODVXWEZxMUdBLUVyU2p4cGViVklrSE5UTmZjSU5UejR3cTdMT1RTTUl5YkJTNzVCa2pmY1V2N3UwcVg5QnRyMzRHS1lLRjRvZk93WW9OOHZLZlctLXRQY3A4YVE?oc=5",
-      "published": "2026-10-26T12:48:49+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Grammy-winning singer Chris Brown avoids prison time for brawling at a London nightclub",
-      "summary": "Grammy-winning singer Chris Brown avoids prison time for brawling at a London nightclub NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM25GLUREWUlJN1MyMFlLenVtdWt2eTVKT3J1aE5iQjEteS1oelJMUWZaaHdtOUJkbnFROGxScmE3QnhVSUZJUkxRX0F3NV9zMUNLNVlqRVh0d0NzQ3RDVGFtRTI2QS1mMDYzVHZsdFV1bzg5cXNac21WNm1jV2FJd0F0bG92cmtNUHJyWEtrdVMtRDdHYTFaeFlQaEFlQkxNWWpjSk1pSWZCdGh5bEs2U0NGNEVfT0E2cHprQy1nT2g?oc=5",
-      "published": "2026-10-26T12:44:19+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
