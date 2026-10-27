@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T20:28:58.639993+00:00",
+  "updated_at": "2026-10-27T23:56:35.382915+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,49 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-      "summary": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WmtrREFiT2I0QkhBd2lscUk0YzhjYU5RX0xUTFN4Q0lhemNRQW8xN0VGOTZ3cFpyYm9xa0xSaUQ1SDAwZXN3UUdNbGFzMHZWT3FtVGEzTlNWYUxpQUJPb3E5bUk0ckxjenFLVUItYk1zYUNl0gF6QVVfeXFMUEcxZUliMkFyZC1vOUFTcGkxQ3oxd0Mta05IaV8tM05uQ1gyRndyYWxTbl9GUUdob21fTGt5aEFGUTV0aEpaYWtzQ1F6UE1ITzFDY1pnc2hOTDFXbHlnQlVKWGhyODllVVdOanExTjN5OU1CNGZUM3VLV2c?oc=5",
-      "published": "2026-10-27T18:41:02+00:00",
+      "title": "Differentiation That Delivers: Proven Practices From High-Growth Districts",
+      "summary": "Differentiation That Delivers: Proven Practices From High-Growth Districts Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnlQVlVENEZsZ1lBaG8zdm5pQkd4cWdDMnZVRXVxZjJkR2FyS0RGVUtacWRLTWFMeHVyNXltVjNrUHJ5TW5kOFdFaEd2cnE5cFRsckJJRGJ2Y2F4YmZFVi1OOXJYTzdBekJWU25IQXVSY0M4QzFMRTBCWlRKeEVlVmFLaTBWWHlkemhZdUdDOFFjM2tnYVd3ZE9Nbnd2V2hhZGNpOEJrYklOd1EtMUZVNg?oc=5",
+      "published": "2026-10-27T21:56:20+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Justice Department fails to indict former White House aide over her testimony about Trump and Jan. 6, sources say",
+      "summary": "Justice Department fails to indict former White House aide over her testimony about Trump and Jan. 6, sources say CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zNDQzQjBOUUJHUkhEVFFZZXkyMFgzMENyTVY3d1Fsbk13ZkJpRWc4bE0zOGNJRUJqSGNUQUFfYW5SanYwWVpqM1JvdU82X3phNXVydWlzRUVwT1dPMVZ3N25NaHpBdEQ5d2xLOWpWUGE3Z2NDa0hSQkxCYXZlOGM?oc=5",
+      "published": "2026-10-27T21:41:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+      "summary": "Southwest flood damage estimates are hundreds of millions for New Mexico alone NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVlyQ245UGdfMEhnOEYzcVJfZVFhZDdtTHgzbkJlenNDVHF6QXgyQ185RXRmeFlRN2FqUUNaOTBuRXlIWURpalNLWnBJNW1TbHE2Q2lxWkNjc2Yxbk9rd21oZHRfMVRtNU1ieVRlOVpBTU45QkZ2eXpQUDY4d1pneDQ2SnQ0bEJLU21PTjBIbmltaFNNdF9BNnZOV3dTd2FUWEhpUmFKaHp6bVhOdWdyMnBzM0Q0cmZ2Rkk3UWdNVW0?oc=5",
+      "published": "2026-10-27T21:17:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu",
+      "summary": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TaTk2cno4VTM1Ql9DVVVmdnRqQkhkVGVhVFI2dHh3MVBSZGgtMVQtenNPX1ZpQk9XWXV0amhwVFJTR1hzcTVJUGtxVWFwdy1ETmszZXFYZlNRZnVqWGZRenNaY3FHeEhYYnNyX0lR?oc=5",
+      "published": "2026-10-27T20:45:39+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,12 +71,49 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through DNA testing",
-      "summary": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through DNA testing CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUU1F3MUFMZVdQVTVrcHVIWVdIaTZuU0NqTzVXZlBWR19ENlhpVnNsOHBIa3ZEWUt5RzJnWG1SSnZlVkMyR0pqaFpaWHhPY2U0NU92aFh1OU55ZVBRSGR4ZDFJRXpkbFU5LTZN?oc=5",
-      "published": "2026-10-27T18:28:42+00:00",
+      "title": "Alexander brothers each sentenced to 30 years in federal prison for sex trafficking",
+      "summary": "Alexander brothers each sentenced to 30 years in federal prison for sex trafficking CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm1LSnR4djctYnkyMk4xU3dBZjQwYXFxd21YOGlPV1lBTkpDWVF2WWxBWjI5TEptZ01MaWxGZDZyclp5ajJTamdCRWtKS2hqQjNpQ2gwRUxFcnRGOGY0b1p0bEFxUnBPbTlXb0tfRUk2cUplcjFjTzBsbHQ5TXNFT015RU0xQQ?oc=5",
+      "published": "2026-10-27T20:34:43+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "No clear winner as Netanyahu and Eisenkot appear short of outright victory, exit polls suggest",
+      "summary": "No clear winner as Netanyahu and Eisenkot appear short of outright victory, exit polls suggest CNN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlJqSF9mNnBGM3VTTXJGT3VvSlRVQzg4bE9YVkZwekQzQ1RUZWk3amg2dzI2a2xQN2FZcTZyRzlhRFM5bS1ucFhvX3docFUtVDl0WmVnS3o5YkpkT2pfZVBYRmlPdFVLLXJISE16Q0N0QllmWDRxN2t1RWJQSmdhSFppSmpPcFNPZTB6M1ZIRFVtaHdVRi1MeU9ZcUVoVmYxUmtEdGdlQWk4NXAxMEdfcG1DTFhFLVpLeXc?oc=5",
+      "published": "2026-10-27T20:16:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "EXCLUSIVE: An open marriage opens the door for queer awakening in romantic drama Prime",
+      "summary": "EXCLUSIVE: An open marriage opens the door for queer awakening in romantic drama Prime Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUlJSXpLTm04UWtxejJ6c1lCdW5keWpfQ0hiNkVubkllOU1QaDBNQ2RfSWU1UWdMRW11SjBPbzMzSGdLTUc4Q1ZQQ181bU1KM2paX0UyNXV1N2NQQnlucjFTTjZORkozUl8xc2syM2FlSXI5WG4yZ2pwb2M3cmdXVTZlazdBWU1RcVhzYjlmQzg4bDgyb0NCb3dXZVdVQ0VqdzFpdmxubmJKUDd0RG5NU3JKRDByUFpvWElF?oc=5",
+      "published": "2026-10-27T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Kansas megachurch pastor running for U.S. Senate has a message for Republicans: Stop bullying trans people",
+      "summary": "Kansas megachurch pastor running for U.S. Senate has a message for Republicans: Stop bullying trans people Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93UDlYdkJGSExGRFZ3amZjVlgtZjFudnN4eDVsMDNmOUVWV3lhRFRuWHJrTlZrN1hqTmd2Z2I0MWJIVl81TkZYSEo2WUNNVTRfaXR0RlRLZk94cWEyTEdrZllqc1ZJSFlWN0tLN3d3ZHRxQ0pNY1U3T1g2QkViUQ?oc=5",
+      "published": "2026-10-27T19:33:57+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -56,42 +129,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever",
-      "summary": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TM0pweWxDVzl2d2NXWXRtN0Y5SU95cDR5VXVqeG1XNnB2eVFvRzdDcnNqVVVIR1gzcFJkMnV6d0RGRm9JZGdLVGFKb2dFNThSR0l5MDQtRWNDaHV0cWNZc2UxRE1BaTlDc0FrbnRn?oc=5",
-      "published": "2026-10-27T17:24:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Defeated candidate Flávio Bolsonaro defies Brazil travel ban with flight to US, sources say",
-      "summary": "Defeated candidate Flávio Bolsonaro defies Brazil travel ban with flight to US, sources say CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzBQcGFLclZ1aFRtd0h5Y3Y4RGhYdmlXUXBNUnFOd0lUcXhQYXRtVFhISXktRDFHWmQxZzRRS3hsb2lYdjBaelpzQnUyblpFLThqVjMtZV9jUGpfaGM5cEQ2Qm1FUDZ6MTdXT0ZGWmtYNTRxa0VBekdTVDJSWk1KWkhHdjQ4OFFZOS1ROA?oc=5",
-      "published": "2026-10-27T17:22:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-      "summary": "A judge halted D.C. golf course renovations. Trump says they'll still start next month NPR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakM0YWhNTC1ZOWl6Z2ZqQzBuUWttYVByUndCNmlTdVMzNFdqcjdwS1ZMYW1Sb3ZsNkI4akdWdTlPOWg3cUpIdzVnT2xhNFAzZFdlM0NWS0NJQWg0c1NxT3B1Y3VrTFdoc29kZGhzZ3RmZXFyTzdVQS1XY1VqMUlmUTRud1Y0anYyWkVWeTNUbXgxUmxITWtpTnMwRWE?oc=5",
-      "published": "2026-10-27T17:01:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -104,16 +141,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
-      "summary": "One week out, prediction markets see Democrats as favored to sweep Congress CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzNfdDZHcVRSdmFTUFJCMEg0TVJ4dnZUQk5tMXBHbW9tc0pPU01rNDRTMjJULThmSXZvM3JnaVVsdGJCWFFiNVdPVThmWWxBUWQzdER6UHUyb0M4cE1CVDN6N3NWQlJUME1tUW42bTNOSGc1TTJBMFNVMW1PRmVjMWRVVmNXUDZUTXBjRlp3TzEtd9IBlwFBVV95cUxNR21RSFZYb0hycl9qcmt2TWY0bUJHdU1WWm85QkRLQXB3SEV1UWxZZzlBMWx0Ni1xbExEd0hpOENFVUlpNzhfM2s1MG9KQ3FzMEFuSUNycjg5NFdZNWhOZFVnNEkxM012djl0ZUZvTTVlR2pjSzlPemVkZkFmV0tUX0d5WE1LYzUzaEhmVEpWZFpmVGtBSDBJ?oc=5",
-      "published": "2026-10-27T16:15:21+00:00",
+      "title": "Prominent Texas Congregation Votes to Leave United Methodist Church",
+      "summary": "Prominent Texas Congregation Votes to Leave United Methodist Church The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHhwZ0ljNUUyYXZxeUtPUE9oVS0ydzRwR3Z1NThTMlUzYVpnNE9USFVWTDV5YmJZUjdRbXR5T1FUbktPS1ZJd3JsWms3VTZ5ZC1IX1V0YV96eG9oZmRhWnV6TlJVVVFhQ1c4eXZqVFZ4WUNaTGJQUlFaVi1GdWI4T2pOZnpsYXV0V1QtOXdROUNfOFpKUV9ZRQ?oc=5",
+      "published": "2026-10-27T16:28:09+00:00",
       "beats": [
-        "Politics",
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -129,37 +165,25 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Differentiation That Delivers: Proven Practices From High-Growth Districts",
-      "summary": "Differentiation That Delivers: Proven Practices From High-Growth Districts Education Week",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnlQVlVENEZsZ1lBaG8zdm5pQkd4cWdDMnZVRXVxZjJkR2FyS0RGVUtacWRLTWFMeHVyNXltVjNrUHJ5TW5kOFdFaEd2cnE5cFRsckJJRGJ2Y2F4YmZFVi1OOXJYTzdBekJWU25IQXVSY0M4QzFMRTBCWlRKeEVlVmFLaTBWWHlkemhZdUdDOFFjM2tnYVd3ZE9Nbnd2V2hhZGNpOEJrYklOd1EtMUZVNg?oc=5",
-      "published": "2026-10-27T15:56:20+00:00",
+      "title": "In Trump's pardon economy, crime victims lost out on at least $119 million in restitution",
+      "summary": "In Trump's pardon economy, crime victims lost out on at least $119 million in restitution CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3NDBiU0F6UFN4YjJObjlpVE1vZzdsekQwQ21URWZvN2JPMWVmeFRYcmI1X2U2UjkweEpib05yNkJyU2M1ZTk0aWE0bGR1VEw5YTF2Z3EzYzBneDZPVXR1c29ZeFV4SVlKcWVWUGpnNkVCM29YUVZSWDFNUTFhQQ?oc=5",
+      "published": "2026-10-27T10:00:00+00:00",
       "beats": [
-        "Schools"
+        "Business"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-      "summary": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWdTN3lwZ2xGRHZRRF9GTk1uS204ZnZDTUswZmpfZFJPbVU5Vlgtc001bmRsWE82YUd6UjhnRnJCbS15NXVQSHcxWFFTa2E2V2Q5UllZdkEwbkhyeW5iOFF3TGZuMlctX0NMSjh3SnprcGVTVnp2MlJWeTV6UTFldmpXem43XzE1NGpJOVhvclhQQQ?oc=5",
-      "published": "2026-10-27T14:41:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "A 'Green Army' is out to thwart El Niño flooding",
-      "summary": "A 'Green Army' is out to thwart El Niño flooding NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0NRYkNLeHFqLWlhckJkaHBSRVhZaTljbG50bEZBa20zX2dUcktGcUkwWmdzR0NGc2R0R2FOVlVtNXVGQ24tX1BpN3VlUlkxVTJkZTAteTFiVllaQlE2ZHZnRUI3TU1wSHRuczU4MzU2R3dfdmd1bXFfM2Z3WWgwY1JTQzQ?oc=5",
-      "published": "2026-10-27T14:12:35+00:00",
+      "title": "Opinion | Nate Silver on What the Polls Say — and What His Gut’s Telling Him",
+      "summary": "Opinion | Nate Silver on What the Polls Say — and What His Gut’s Telling Him The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVE0UkU5c1FHWWRjZVVLZzlQUnN2Y3hZNndId3FaanloRi01dzFjUlRwS0NnVTBtZFFBbkU0cHdIajhmUlZKT2ZXTXdrZjZmczFrWHhLREFvV1hrRm9IbHA4LThFbXJVc29tTThoQ2kzYkltMjA1SDZqNkp1WnN3clVhTEc?oc=5",
+      "published": "2026-10-27T09:06:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -172,6 +196,18 @@
       "summary": "Opinion | Four Thoughts About Israel’s Election The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHNCcWFTWlRVZWRtV05nNHlGRXNPYlhBR1Jlc3N4OGt0TGlQRl9pVmo5enZxZnl0SzUyYnlkM2JUYWU1Y0ZaU0trOVN5dFp0b2lnUTdneU5ncWRpcWZLM0g5Z3BXaUpqWTBudjVOd3gtT1pVV3p4TG50NUJTMXFVeA?oc=5",
       "published": "2026-10-27T09:04:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "As campaign rhetoric escalates, Michigan voters say they're burned out",
+      "summary": "As campaign rhetoric escalates, Michigan voters say they're burned out NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDBSSXlFcl9NaFpQYkIyM19HMl83QmU4SEk5aEp4Qkg5bUNGMlkweWFsNkdrQ2tWUzN4SngtRGowZUd1cXdJX0JZdzFNeFNBVy1PZjI5aGU3SmtFeW5RZ3FqNFliSDdwdldtX21XaTZiS0JvYmRLcXp0cWd0Qnp4czNzWlBVems5aWVRRTBGRGttWThlY2lmMVZCTQ?oc=5",
+      "published": "2026-10-27T08:45:44+00:00",
       "beats": [
         "Politics"
       ]
@@ -199,6 +235,18 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Who sent fake trans advocacy mailers to inflame Texas Republicans? A trail leads to an Illinois printer",
+      "summary": "Who sent fake trans advocacy mailers to inflame Texas Republicans? A trail leads to an Illinois printer Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ05JaERSb3FfNXYtMlEyR2FiMkNlTzJ0dDRKWkpXVVZSU3gxZnh4dzJnMHZvaWw4Y0FDMUJVWWtzLW14SndEaVJRMC1hcTcxY3VpdjE1T05adWwxTmFkZmphcG1PWEt3bjEtNGlJNUg2RUlRM1RvQ1Y2WDVtNlBhUEhzY21iVHRCcjRxR0Vn?oc=5",
+      "published": "2026-10-26T22:19:54+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -241,24 +289,25 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
+      "title": "Data center group jumps into the Kansas governor’s race to boost Republicans",
+      "summary": "Data center group jumps into the Kansas governor’s race to boost Republicans NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkFlNFBHWFlzT21WQ2p3Nm1FZHVmZUMyRmJ2eklVR0YzMFI3S19GbWt4YjNVQjFyQjFBZ3lRcEIxemhsdzhoTEExblNKNU5xZEJKZDR5eTY1Rm5kOGNXdTdlVW1ZRkM0TnRtSU00cXBlSGlraUdQaDBvZzBKUkQ3LXBRcEpScjNOck15QmNQRWF4empscUVBNlBSaFlpbU8tRWdMS0g2aXhSSHFuSHJSd3BzWlQ?oc=5",
+      "published": "2026-10-26T20:52:08+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
       "title": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority",
       "summary": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority NBC News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlZrMkVqaHV3dEJHTS1paUhZOWxzSV8zeGg0MTlOU3JSVTFEQ01RX214cXNCMFBuX2R2S0ZwYW1hV2VtSWNzZnZGOURpQlkya0VLZWRwb2lBSUo5YUg4VTVGb2dia19MR3ltaXFGa2diRVJ0VnV2WlJJYmdCYWNlekVfNjNpdUltZWNiYkI5NlVIT1RzUmdYdXQydTRkZUlSN0xZMGo0NW82bXlWZUNPbDlnakdxRVU?oc=5",
       "published": "2026-10-26T20:38:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: Cost of University of California education surpasses $50K for Californians",
-      "summary": "UPDATE: Cost of University of California education surpasses $50K for Californians EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVROOVg3WnFnMmNDal9GQ2pSME1SNDc0T3JUaE9xVlFyMjFwV2E1ZjNJXzRWRUhyZGlVU0ltUXptQThabDhBbVdsaE1IeXlWTGtDdFZFMnlSZGlUR1JCQ2Z5WlE4dG5wNEtkbGVrWWlFNkRUam90N2ItYnZZUlR1TWo4T2llLU9ZQW9fVlVNRl9VeFdWU0V1QXFGVFJFbnd0UDIwLXJ2cm1vMElXMFNSbkNlOTRveW5fSlE?oc=5",
-      "published": "2026-10-26T20:10:59+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -283,19 +332,6 @@
       "published": "2026-10-26T19:24:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Gay Army Black Hawk pilot Chris Gallant won’t let old fetish photos define his run for Congress",
-      "summary": "Gay Army Black Hawk pilot Chris Gallant won’t let old fetish photos define his run for Congress Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FNUJqQWlPY1pkaVc2MW9NdWZxemVTNmtxd25ObkhXaWltNW1oOWRYOXBlTnJjSkJYSVdmdktWaVd4MkxCNG1XX1JTOWlsblZucFFrWE9UTGRYZHd3V0pKdFFVM0pCbi1vY3k4QkkyeFY4V0dReFlBOE16Q29raEU?oc=5",
-      "published": "2026-10-26T18:55:37+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     },
     {
@@ -325,15 +361,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "EdSource",
+      "source_feed": "EdSource",
       "lane": "General",
-      "title": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died",
-      "summary": "Walter Koenig, Chekov From ‘Star Trek,’ Has Died The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXpMZlE5SVlXVjhxOUZkWWdvX0oxcktwS1VaSWdOVXk4Z0RIVXpaY09nZ2Z3aFFFLWp0d1pQdlU3aGdKQ0JtMDNWWmtqWkZQTmNHRXl2bXREQTNtTmdoQkZUZ2ZjblNJRFB1bW8zUEMtdVRwQzhJcTRnMVZLY0oxQzFIaXBZLUNGNmFxOG52a3FvakRkUEE?oc=5",
-      "published": "2026-10-26T17:37:09+00:00",
+      "title": "UPDATE: Here’s which California state superintendent candidate has raised the most money",
+      "summary": "UPDATE: Here’s which California state superintendent candidate has raised the most money EdSource",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGxRaG03Q016Y1QyVm5JUEYwdmhHS1Q0Q1FPenlVcGFDcnBJRW9KdmFuUV81STZYbUkxYWpTM0g5aHNHN3Z1ZUNSS3d6VG5QMlB0dlNfMERnRlFTTG8yTUF0MXF5aWNQRnZUX0xXTjFzU3Y2cW9IQWR4MWJ0R2JzMVFiLU1oMGxLMlV4OTFxU3IwZjk5QVZ6bS1LN0ZYeF93UWpFTndIakhZdEVkRjcwMUNCOVdtcThJN1RFVGxaZw?oc=5",
+      "published": "2026-10-26T17:13:49+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -346,43 +382,6 @@
       "published": "2026-10-26T17:00:19+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "This new scientific discovery just disproved centuries of anti-gay rhetoric",
-      "summary": "This new scientific discovery just disproved centuries of anti-gay rhetoric Queerty",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazZuSDlQZHVjMV9jTjM4VWc5a0FJajVZZmtEbUFseWwycEJ0U3lYVGFDYnI5ZDRmaV9waFdOdW1xUUtGUnZPaUQ3ZE13S1JnRnBQcV9XX1FVaUlWN3I4MEZ5RGRkR2NVSEs0QTVQWFlYZXJvZU1Rc0h5R2huQ2J1cXpfamNuaDczVFNSSE1nVjVLdUE3WExzVEdqN2tjUl94MU5wN2lqMEQxVC1xcnc?oc=5",
-      "published": "2026-10-26T17:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Op-ed: The 'only two sexes' argument is a political myth, not a scientific reality",
-      "summary": "Op-ed: The 'only two sexes' argument is a political myth, not a scientific reality Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PNHRFRjJVXzNfN0lnUFd4M2tqZFExREpFYldOQmFtekt4elkwWFVCR2NSZXR2U2dIakFHYzc2dVI0dUdfeXp3enZvSUNiVHl1T1hxM1ZDenRXMy1GLUhqU0ZmUlQxNHlURkFxTy1iQnFkWnZKZ1IyWUJn?oc=5",
-      "published": "2026-10-26T14:15:41+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "How educators are breaking down attendance barriers",
-      "summary": "How educators are breaking down attendance barriers K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzhFRTgxRlZ1bE1WN2ItLVhfazBJR0EwZVhNZ2g2RFVPdFc0SDNVR3dnenJ1MVdxTU5iSUIwdmJVNnFqU3pTSXZoa0lsczdQdWtuSDBaUUQzd21tRFVJX2lWb01TVDJBdWgzVXEyY1QzZUJMcFpNTVVuTHE2d2lFTDBXVzZfMWlsVWt3V2NqYU9sQQ?oc=5",
-      "published": "2026-10-26T14:08:49+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
