@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T23:37:13.599813+00:00",
+  "updated_at": "2026-10-27T04:07:54.675334+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,66 @@
   "errors": [],
   "stories": [
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Lula Wins Re-election as Bolsonaro Rejects Result",
+      "summary": "Lula Wins Re-election as Bolsonaro Rejects Result The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XVUlZNlR3TEVyVmdiVldhZmVzY2xpQ3Yya1hEQkFlbE5VUU5lWGdLZTZMbEpCY0FEQ0l1VXF4dkE5eUM5Tzl2V3BPOVByWllIa3lXZGpudVVFbUQ2Ym80WlRkMFZUX0JfS1lpbGVn?oc=5",
+      "published": "2026-10-27T03:37:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Judge puts new limits on Trump’s golf course renovation, blocks removal of more trees",
+      "summary": "Judge puts new limits on Trump’s golf course renovation, blocks removal of more trees CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnE5Ym53Rm91c3MzV0ZDTmRIdENTb0NKZ2NGbHFaUlo0blBTaVhNcmJDTG5JQmIwc3BHZm5TSUpDWFk5SFJPZWkyVlIzLU5BTkZWYmZUcTVJb1BoczhVNnJIM284alNBSEJlUHhyczJOTkF5YXZCeWU1LUJxTXNDMmV3eXBta2doc2U3TUk1dC1jMWs?oc=5",
+      "published": "2026-10-27T02:13:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+      "summary": "China industrial profits post strongest growth in three months, rising 14.4% CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenNqZ2NzUE9INmtUZnp3X1ZXdEExTmFYdmNPdktRZGdCcGlYcmRxMVNXTlFQbElSejk0WjBxcmEzdHhvNjFFQkNJQlRWRHFGMElWcUROUkN3YlhwNXMyLWQybWhyai1DSDV6X1pUYV9tZHg3bERWRlUxWVFZNVJHUndEVnZCQ2NjUkgyTkxNa282UdIBlwFBVV95cUxOV0ZqMTFzbjJKRzBKWGd2bmNiY1NwZkEyak5GX21iNExTTkxUdUJCSklxekFLZmxPaUxLQ2JuUnhEa1BIMncwZ3RoSTFxemNSTEFyZGpBMW0zMGVzUkpFNlJBNEl6Yk9zZmFadnV6cFhCTXVvQzB6QWZCTmItSVJrZ0VyeXB5X0paSHlOVjlYejBhNnNqcUx3?oc=5",
+      "published": "2026-10-27T01:38:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+      "summary": "Trump administration attempting to prosecute former FBI Director James Comey again NPR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORjBnblBudUJmZzZnem9DbFNuNHN1bVFvU1FKSTVUTVBFQks4blJabk9XMWFuQUlZX3ZBR0toNGctZHFJWmJHbUFIaldFWGJja1hxNmxmLTdUVnlGZHdoU0pzN1IzeFQ4LWtYaDhnSld5RjJkbWRKY2QtUnNrME9waDUxNzZMVHJid0tzcFpUQXl5WUh2M09GZzhiM29iRzc3N3JFbzRfNHY1RllreEpRTU1uc1pxeHdxUnYzVkZwRkpZRjlzY2c?oc=5",
+      "published": "2026-10-27T00:31:45+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+      "summary": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUUdYT3Q2d2tjanR2Y3I3d3VsWDFmVzItU3IxVUhiR196a1hxVmhqQXBqYjB0WU92eEw4Nk9TN0hITXdZbERSUlZIb1lReXprTHhob2ZLMlQzTGp5NTZfQUFlclZhRjI4eGpDbDZkSU5TX202R3E2Sm53MFdad9IBgwFBVV95cUxQQ3NXMS1aeTdJQ01XbEZzNFRLcktKaDhuUDZQRVR4SXk3MUFZNGhWeE8zaVluT29Ua1NGa1VjbkxaWXhFU2prLXpkUjNqT0FKVEVXUExPcVJ1ajdKQ2o0RF9adEpkTFUtRjUtNi1RSWUtZ1NKb2JydFhiVFJVRlBkbHZPOA?oc=5",
+      "published": "2026-10-26T23:51:07+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -30,6 +90,18 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "summary": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5",
+      "published": "2026-10-26T22:50:07+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -45,15 +117,27 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-      "summary": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRGg4Y0Q2OTUtdG9xNzJXTTUwNk9NRTRBaXVJYndwQndYUUZtZlZwNDlGM2Q3U3ZpOXp0OXlXV0dvUENCWkhYZHQzUm5HamhCdjg4aDltcWVjVVVUcVY2ZEJaZFJQdkNEQno3LUliNFE1ai1pSlRhbndkVm1xd0Z1OGFn0gGHAUFVX3lxTE52NngxNVhxWFFFWnNnRzY0UmpLRVBQQWNqUTIxUzE5a2VEUGVsajY4ZnZLMjhtZzBRaUtmRFNCcjMxdVRnenpEQnE1aExLSW9JNndoaldhd2F3c21qSWR1MUN2eGo5Yml3Z0pYTmZfdHF3c3FlT19SRlBWVVlLRG9SSmxLR1hMdw?oc=5",
-      "published": "2026-10-26T21:38:17+00:00",
+      "title": "Want to Improve Attendance? Start With Relationships",
+      "summary": "Want to Improve Attendance? Start With Relationships Education Week",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUoxenV3anhrODJOTlZqQlJRMTd3VlVZOTJ3cjl5UnRMdTdvVW1FSXB1OHVRb3FXakdMVzE4OEZDOHpYN1h4NFJMSlpxMmtLdWtERUVPSFR0N3JqTlRkV2lza1pCck9UOXlWVkJpR1hnTUJKNDBiaEx0b2xRaFJqaHR0ZGZ0TXB5NEVlNUlCZjI3Vy1uTUJ0Sg?oc=5",
+      "published": "2026-10-26T22:09:23+00:00",
       "beats": [
-        "Politics"
+        "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Anderson Cooper hilariously drags Tr*mp with one very gay observation: “It’s no Heated Rivalry",
+      "summary": "Anderson Cooper hilariously drags Tr*mp with one very gay observation: “It’s no Heated Rivalry Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFAxVW9HeTFDR2d2N2M2dWQ4NW5iQzNXd1JFSGozMEE1WldkcUxSYlJVX1FBUVJOU3MyVmtZaU9XVmdkTVVrZ3YwWnQzYWZ5SHlfN3FNSy1tczU2NmdCMlNrclE5WjlBRllrSHF3SGhLRUNEQ2wzV0FseGVtVkQycHcxazFTQmhicnRzejVHSEpXbkxCSlo0OTZOcU1HSXpkR2g4bVBWNGpVcC1yOURqU0xSQWcwTU03ZUVPTmdRVHRyUQ?oc=5",
+      "published": "2026-10-26T22:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -69,49 +153,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "DOJ charges ex-FBI Director James Comey in new case",
-      "summary": "DOJ charges ex-FBI Director James Comey in new case CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXRNU3RJXzdWaWRXaVhlekNYVzBfckVCbVVQblBGWHpoekVrLWRSS0h0NXpNdWl0dFlyUE1fcjhMQ2pCWjVNM2xCRkxKZVJUaWt0eG81MzA3Z3dZLWhSdWV6MUhMb3BueUZ3aVp5dF8yQUFJLXUySzJkR1d4cU9lMmZiTkxfWjc5c2ZkZjNucw?oc=5",
-      "published": "2026-10-26T21:18:55+00:00",
+      "title": "Jordan attacks militants in Syria tied to last week’s church attack, state media says",
+      "summary": "Jordan attacks militants in Syria tied to last week’s church attack, state media says NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZWU3SWN1d0tkc2hWS2UtN0lXdkUyS2dIdEpUd29jTTlBTXB6ZDJHaklJSTE2RXRBb2NXZnpVaXVxam54RHd6OWtoU3RrZ08xUTFodldnMjZ6RVlYSWZTYmxGYTMxSzVrM2N0MkdVRUxSR2JuSEJnUk5WM2ZQM3I1cXpaZmo2TGdRS1piMmNISGcwVVJnbWFZTmtORmRsYk9qY1dRWEJCZnFKaWJ4LVkxQ2p5QXA1SGM5Qy1GajI4TjQ?oc=5",
+      "published": "2026-10-26T21:03:57+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Want to Improve Attendance? Start With Relationships",
-      "summary": "Want to Improve Attendance? Start With Relationships Education Week",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUoxenV3anhrODJOTlZqQlJRMTd3VlVZOTJ3cjl5UnRMdTdvVW1FSXB1OHVRb3FXakdMVzE4OEZDOHpYN1h4NFJMSlpxMmtLdWtERUVPSFR0N3JqTlRkV2lza1pCck9UOXlWVkJpR1hnTUJKNDBiaEx0b2xRaFJqaHR0ZGZ0TXB5NEVlNUlCZjI3Vy1uTUJ0Sg?oc=5",
-      "published": "2026-10-26T21:07:06+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Stocks making the biggest moves after hours: Whirlpool, JetBlue, Celestica & more",
-      "summary": "Stocks making the biggest moves after hours: Whirlpool, JetBlue, Celestica & more CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3ZybzB1MDRxb3FCWU1KS1VtZDlSOWRQbU1aNkppUTgxUlFRVDhRcVNrYUxnLVBWclJYam55azZ2elBqQWh4by1adXk5aG9GSU42Qmppd2hhNFRaMlhIa1JaY0I2OWF5VHNhbHNnVG9NX1RYU1FEcmN3Nml4dlZPcmJxU1p0amJSU1p4am9FOWxFQnNfbFBnaA?oc=5",
-      "published": "2026-10-26T20:51:16+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "I asked Claude to explain Anthropic’s IPO",
-      "summary": "I asked Claude to explain Anthropic’s IPO CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBza2QxNFoyWmFrS01XUFNGR2E0NVVYOGhTSTdzYkxVaXM0cUdWc1BCaEVjWFdLNUw0eDJENzRwVnBmUkMxUEh3Y0ZkQktzeEJrWUs4QUVXTmhFRWp0a1ktTExrZXZrNGZlQmZCTWR1M2hOSGZBT0JN?oc=5",
-      "published": "2026-10-26T20:46:09+00:00",
+      "title": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority",
+      "summary": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlZrMkVqaHV3dEJHTS1paUhZOWxzSV8zeGg0MTlOU3JSVTFEQ01RX214cXNCMFBuX2R2S0ZwYW1hV2VtSWNzZnZGOURpQlkya0VLZWRwb2lBSUo5YUg4VTVGb2dia19MR3ltaXFGa2diRVJ0VnV2WlJJYmdCYWNlekVfNjNpdUltZWNiYkI5NlVIT1RzUmdYdXQydTRkZUlSN0xZMGo0NW82bXlWZUNPbDlnakdxRVU?oc=5",
+      "published": "2026-10-26T20:38:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -126,6 +186,30 @@
       "published": "2026-10-26T20:10:59+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
+      "summary": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem' NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWRyR0k2MkVQRWl5cmdremctZVpHVWhaVXhwWnZ6N29KdlZCOG9kX3pYeUFQZTFGbFBRaXB0UE5xQlBraGNvU3VoaVl1NlVWUk94UVBSbHJnWjRDWHQtWmhkVHlPQTRndWlPazZzb1E2UUhBU0lvY2M0QnBIRnlTZzVFZw?oc=5",
+      "published": "2026-10-26T20:09:15+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Dollar General overcharged millions at checkout for years, FTC and 20 states allege",
+      "summary": "Dollar General overcharged millions at checkout for years, FTC and 20 states allege CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BbW5qempFcFRFZDRWUmxCRmRRYnZ6c0YwYUpwMDZ5aVNzc3RfYWRneU9HS2dYQUttX0c3Z0hJRm11MHo4VVl5MUVWb3d1TlB2LTBkaHVhV2hUU0stQTdONWJkTm1DM3lqb2VXWVFhYS1oNy14Tm8xQjZ2dUh0dw?oc=5",
+      "published": "2026-10-26T19:24:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -145,18 +229,6 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
-      "summary": "Trump administration pushes for food assistance card upgrade to fight fraud NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkZFamxaSUxqQ2N6S0RNRWFfc20tTUtGaTNsb2oxQUdsNzdPNy05OE9LYm9pMlBLUWlVOGlvcFBDdl8yem9QSWNQaEVUZk9mNGJQcy10cER1OTlZWEUyZ3M5dHB4TC1xN2h5OFhsTGIzRjFfaGxxSDVMUjJWSnQyaGd3ODZZRzctTEE?oc=5",
-      "published": "2026-10-26T18:41:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
       "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
       "summary": "Judge says DOJ illegally fired the daughter of former FBI director Comey NPR",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjRoMzctbTZaSWU1NlhlcHB3T2xxY2otclc3MHpZSUlRcHFnSGRyNi0tekR1WTdtT2dwOVI1Z0NiWi1oY1NFRG5lQVY1LWhoUDd0X21rc1ZXU25ObmFKZmJxb0drQXhYbmtQOFhoUzl4ZUI2TnlTRTJ1Vm43N1ZUTjJDbHJRSXc?oc=5",
@@ -166,26 +238,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-      "summary": "Microsoft offers buyouts to around 60,000 employees to contain costs NBC News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckwxZmNkczVHakdfVTRLMWlCMlNzV1ViVXZOZ0FLc2EzLXgzeFBrU1ZfdFJjNjZneUp1LVVmakxmRmRMQ1Y2b1FhSzFtUGVMQXh5aUJLUGZla3FSM1BmT0tKU1lLTDVra195V3RtT3duWUF5MHBha1YwWU5NSGtEX2dXd0c0cExBSWFmRVBaSjRmcWdRenhYYmR0Qkdwdw?oc=5",
-      "published": "2026-10-26T18:06:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "This new scientific discovery just disproved centuries of anti-gay rhetoric",
-      "summary": "This new scientific discovery just disproved centuries of anti-gay rhetoric Queerty",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazZuSDlQZHVjMV9jTjM4VWc5a0FJajVZZmtEbUFseWwycEJ0U3lYVGFDYnI5ZDRmaV9waFdOdW1xUUtGUnZPaUQ3ZE13S1JnRnBQcV9XX1FVaUlWN3I4MEZ5RGRkR2NVSEs0QTVQWFlYZXJvZU1Rc0h5R2huQ2J1cXpfamNuaDczVFNSSE1nVjVLdUE3WExzVEdqN2tjUl94MU5wN2lqMEQxVC1xcnc?oc=5",
-      "published": "2026-10-26T17:00:00+00:00",
+      "title": "Chris Gallant on \"wholly unqualified\" Pete Hegseth & why he's going to flip a red district... regardless of those photos",
+      "summary": "Chris Gallant on \"wholly unqualified\" Pete Hegseth & why he's going to flip a red district... regardless of those photos Queerty",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmx0b0RBZ1ZrTWpybVNsejJjTGJuSS1qZXIzR0NpcE80clVwUnB3dDJfUTNCNWl3Um5jT01JY0dpTnZsdDdqSVhudnBOdy1PNnZaTVZhWmJnQ1JaZktFazEtNFhxbEw1dXMzTi1RNTNqbENmbU80UG5XUHlkM0NfenRoMy1ObXdDel82S1F4RnZabmNRUFUzRFZIeDBEajFzaVhJQUFqSG1Lbi1Yd3ZnMkFlSmFrTDJHM0o3TC11c3hhdl8xUDJRMndwUjcxN1k5ZElDUXA1eGZBTldIdC1J?oc=5",
+      "published": "2026-10-26T18:00:00+00:00",
       "beats": [
+        "Schools",
         "LGBTQ+"
       ]
     },
@@ -208,7 +269,7 @@
       "lane": "General",
       "title": "I’m a Cal State commuter student. My version of college involvement looks different",
       "summary": "I’m a Cal State commuter student. My version of college involvement looks different EdSource",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pbnF0OXR4TklvSzZmMVBZTnc3eVktSmRObzFSSVFDS1A3cGk1ajl0WW9VdTBHbnFYeFBhWjhQeU5lbkxoS0xhTnU2NmFWamU5SThuUllXcWhYUmJkS0Nkd0pOTERGYnlQeDZ1R0QxaDZmeVnSAXtBVV95cUxQNlVDdmU2QkFLRlRJREs4VXVqeV9IUlpYc01hWHVyQkIyOUdaZGdkaFZpcEgtbjIzTUo0Vm1lb2dPVFhSLTU5dXNQZy05aVNpQTVfM1JTRGZzUXJKMzE2d1ZZUDd0cnRWU2NQREtSTEVwQUhFZjdKSURUeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pbnF0OXR4TklvSzZmMVBZTnc3eVktSmRObzFSSVFDS1A3cGk1ajl0WW9VdTBHbnFYeFBhWjhQeU5lbkxoS0xhTnU2NmFWamU5SThuUllXcWhYUmJkS0Nkd0pOTERGYnlQeDZ1R0QxaDZmeVnSAbgDQVVfeXFMTm9iTUQyNWNKdWxMX2dxRjQzSDQ4VGRrNGdUX19zdEgtVk9xMEVIVDNMYmI2eUJtSnNjbGdMcWwxdGE5M2JUTERXQm1jMzQyZFZodG5FM0oxYVYzc3cwUzU4RGdMTlJOOEVvc21mSHRuYmdQR1c3Sk5RdDltSll0Zl9lYktBblMwc0wzUWswQTNaQVdVckxPX1FHSktKOVBLQWFBZ0g2VTBEU0ljTlo0cHZnVk04QVotMXJMZ3BHaWF4QU14aDUtcEY2NERUUGVRY3BveGpMSzFZWXAyeHBnZ0tyTTh5RUw4dlEyb21QNVZSdzZWc3R1NXhhS3ZMdk1wYmZwdTBXRW9HbXY5ekhBMkZMVlJBTHdHdFdlaXJIZ2h5R0NEeXVyUTUxNVRXZnhBZlBTVjZQOWhVSV9pT29lQzFpZV9fYUVXQXltdDR5LVJmZUJGZTRNeWtBLUNETVY2QjM5cm5lTmxid2pRb0ltdmVWNzMzeG5ERGlBcUE2SThjUTJhWmhHZzJucUc0MHduM05RWHVlWk1ob213dXg0VVQzY2MyRXkwSkxSWFIwaTJTQjZxeEpyT2c?oc=5",
       "published": "2026-10-26T15:55:16+00:00",
       "beats": [
         "Schools"
@@ -252,18 +313,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Queerty Crossword: Oct. 26, 2026",
-      "summary": "Queerty Crossword: Oct. 26, 2026 Queerty",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wd29WaXZfT0x6RkV5SnZ4aWhDWVI5MUJNSUE1X1BsSmZuQTEtdTFvSDhLaG92OUZEb1dHdkttSFNsZm1zUFRxQy1MZ2xWNDROMkhCdkxpM1hvOWR1R0F1QWdvRHlaaUN0elpRMmhkTUg?oc=5",
-      "published": "2026-10-26T14:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -301,18 +350,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Obama urges Maryland to back a ballot measure to open the door for Democratic gerrymandering",
-      "summary": "Obama urges Maryland to back a ballot measure to open the door for Democratic gerrymandering NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEFGcXZKbzR4dE0tQmFSWk80YUxVT1VCV01YeHFWRWRrajRyMXFMNURqVHMzWjVEcGt6Tkd4N2ZLQjVBQkxiQ2FnTWlzWm9SVVM1eUZEdHpQVHJqNXdjdDF3M0hfb3pwWVhVdTdRR1kza2pueHBkWUswcV9icThVVzJFZDRxckJwVTkwTFNoU1FIell4QXdXdE53U0dPaGhSWXh2b3hlRmtUdnA5dTYwN2UzUVR2aXNjdUJKU09ycGFudmJCX0JJ?oc=5",
-      "published": "2026-10-26T10:00:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -325,16 +362,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "'The smell of freedom': Serbia's student movement celebrates election triumph",
-      "summary": "'The smell of freedom': Serbia's student movement celebrates election triumph NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkNmcEdDMmREVlVmLWxjT05YTlZYbDF5RjQ3eW9JdE5CVWVTaG5GaWZnaHJsTE4tMm9nNWpyOTdSLVpvTDBQZ0RXc1lrUkZlRkNGZFQ3VWhOSFhlZ2hLMll4YklTeFkxR1NXU0RUeTFkLXRfdzFyVE55b0RvTS1hSmR3YVh3QQ?oc=5",
-      "published": "2026-10-26T08:41:34+00:00",
+      "title": "Opinion | How Trump Unwittingly Boosted Green Energy",
+      "summary": "Opinion | How Trump Unwittingly Boosted Green Energy The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDFFZkhXUjZHczNqSE5jNHZvOWZ6LU1ReG5ORDU5Y3hRYndfRk15RTNoeEtTeWY5TmRxRm13c0V6bTBZTXozQ3pXS2dCNnpGSG9qM2REZ1Y5VktLV2NaemNWWVFyVnRHdmt1V0Zlclo1S3Z4cFZEcjRPS0R3VnllMzhlX2tlZzY4WTFBNWluTXBBVFBr?oc=5",
+      "published": "2026-10-26T09:02:02+00:00",
       "beats": [
-        "Politics",
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -345,42 +381,6 @@
       "summary": "Halloween decorations worth roughly $700 stolen from San Leandro home CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjVkSktNMHFtUWpNR2NWTUo3Y216RGctZ0JsdUwtUTQ0bWp6c2RtdG1VUXp0bEd5ZWJ1am1YSVFuT3RWRmN0aFcxTjhxVFR0OHFiNlN3VndOSThueXFoaTE0UmpqNDVPS0xXbk01N3h1QkdQREo0TEpMVlFCQTl3WUM0Yi10OFdpM0Fv?oc=5",
       "published": "2026-10-26T06:20:50+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Machete attack in San Jose leads to police standoff",
-      "summary": "Machete attack in San Jose leads to police standoff CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHhkaURTVFJiRFR0Mi1UT1M1T3FwVjZ1M2t3Q1Zta1dQbzhXVUtVSC1HTmc4ZHdQWkNuTzJ0Rm0wcVV5S3o2eEl2cHlPUjFHeGN6bUJ4YnBGUjJzZUdXV2UzVFdsOU9xakxuT250R1dxTFNFN3VVYzc2MEpvRWtMUUJadzJHSEFNQVRaLUFrV0NuaS1rVGhTZTFSMA?oc=5",
-      "published": "2026-10-25T21:27:03+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Open letter to J.K. Rowling: My humanity is not elitism",
-      "summary": "Open letter to J.K. Rowling: My humanity is not elitism LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDRtRVJBWEZsRk5tYUg2dUs4Nkt0RkpEajRXUmZuU2g2Si1oTjBYZXF6anQwSHdDaFlhQlZydHg5cFd1YWNPeHBYeUtuOWRNY1Z6MGNCWTFzTmJGdTVpRzYtYnVERExIa0xxTzhaUDI0MkpQcVV6YVRJWUd5NWpUaWtwZFIwS0tDWUliM250SUFSNzJ5?oc=5",
-      "published": "2026-10-25T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "François Arnaud on whether Heated Rivalry has changed him: \"I may be protecting myself a little more\"",
-      "summary": "François Arnaud on whether Heated Rivalry has changed him: \"I may be protecting myself a little more\" Queerty",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkZEX3FteC1Za0Zic0NLal9Ec2x0U09PWmV0TFJRODJ6M2ZPeDdtYlAzdEc2UXA5ZWFJSkM0eUJFNVVCc2RseUtQeFNhY19VQ2JlZlQ1QVgyYjlfNGxXcHlJZmtCaGg3UkhUbnhmQjZPVVlrRTVtSDhDRnlINUZ3aDU1RWNaT1hsNEJmQUNmRHlULWs3ZXpYWTVrMm4yMk1UUUxEa1JZcS0wemdkNnVqUU9BcVpkem5fTUUydEVycy13cVZ4TUdwbG1WSFU?oc=5",
-      "published": "2026-10-25T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
