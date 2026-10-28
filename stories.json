@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T05:02:53.303162+00:00",
+  "updated_at": "2026-10-28T11:30:07.101789+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,49 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Texas nonprofit says it was impersonated in LGBTQ+ mailers. A judge cleared the way to find the sender",
-      "summary": "Texas nonprofit says it was impersonated in LGBTQ+ mailers. A judge cleared the way to find the sender CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91OXg0eTZfNlJ0OXY4SV9DeEM1SDVGemZ2YTh3Q0tIRGljTHRIZHhCVnZXckhRWFBaM1F3UGYxOXhRRVh3dnZ5am4yYWM0WXlfMHRwYUFTaHRDV2tldWNuQTg0dFk5YjQ1clo1YUtsUTc?oc=5",
-      "published": "2026-10-28T02:50:00+00:00",
+      "title": "At least 10 dead in crash between 2 trains in Spain",
+      "summary": "At least 10 dead in crash between 2 trains in Spain NPR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXb1dwdkJHOFd4aGdFNHY2VWFWblRWdFNMam9sRjRrYy1rTkFzTUVaV0w1T2dTWHJmbF9ienA5ZUk5dWpma3psazVFNzktT25BTmstMWxHalZ1MWpTN3gzZzVlMXJUMFlESWh2a09SMTRlTDg?oc=5",
+      "published": "2026-10-28T10:09:46+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
-      "summary": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnpKbWVxcXNhUEVGellaNmF1MEJGZVBBZWRqc1dpQktWeEs5aVlERTg5OWMyWnZYYWYzMTFTS2JwS1pwbWxfS0FNaWtqY0FaajhvWHc4NlJkQjJvVTZzLXNyLUNDSV96dHF6ZTNYYTAyYlJBdkhOajdWMUVpajR3LdIBhgFBVV95cUxONy0ycFpHalJCVFRDNlZ3c1BFc2g4aDl2QWJaYUNCYTh4ZGJ2WFNTODUtTTF6S1ktVUVXcjdhVGpQU2FRU0pVSlhFc2pDOVNoc2FSZlF0UVBlZEhwVkxjZUFlQjZJWmR1QU9WNUxuRmFpOE9aYTBnc3R4NFFYeVRwTkJsaWMxdw?oc=5",
-      "published": "2026-10-28T02:45:00+00:00",
+      "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+      "summary": "Ten people confirmed dead in high-speed Spain train crash, local media report CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfRFl6WmZqOFVDQjg1NU5IbGJOZlA0Nm1UeTJfWUpiR2Frcjd1ZU9CeUZBVHZQN2hpSWFTQWNqaUJXZVdnQWxmMVNZcXNMa0NLNW5vcU1iZzZVUXNrWFAtcVg2YldaWFg4UEc2dFhpSU1NbmvSAXhBVV95cUxQV1FtLXNuMEUwdV9KRVVhU054RHlNTmh3VTRiS3ZVdlUtdjlEQjVzOFlzR3ZoNV9RbFVWNFNkSHpLN1RtN19GTWY5bmRGV0Jzanh1N3g1STFHZGk4ODZzX09PUWI2QUx2VnU5N3RNT1EzN1pDakVQVms?oc=5",
+      "published": "2026-10-28T09:35:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
+      "summary": "Treasury yields tick higher ahead of Federal Reserve interest rate decision CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
+      "published": "2026-10-28T09:22:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Inside the Trump administration’s controversial lists of alleged noncitizen voters",
+      "summary": "Inside the Trump administration’s controversial lists of alleged noncitizen voters CNN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXBncXYyejdoSmd0a1NURG9SVS1wRzFYYzM1b25hUVZwZEhOQkRSY2JyLXd0TFp4WWt3V1gzUzhpU0s1YzYtbUxGUzNNazd4eVJtZER4dWtlLUd2TGpoaHNOYjM5Y1FxTjNrenZzNUMxYTNRNURPTW8yeXpoVGM1NWF6VU1IR2FycjVocldXd3dFb3RlWUJHa213?oc=5",
+      "published": "2026-10-28T09:00:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +71,46 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-      "summary": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear NPR",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVliLTlTTXN4QktXOTN5M1FlRVJsMDRNTVJ2SUVOaWxyVEhiMDBSVmVHeFlRNG1Cb3R4VzJ6WEpGclNqRVBWaGZEbENObkpUZE53blNXUXlGM1hLbUdUZE96RmV4V2daNDA5bkZYYV9JaEdCSkxyX1NqWE9kN3JPZnR0NU1OMUp1MFN6TFc4TFI0Y0tMdGRfamtHbDdkVHJycWItRTBHV3dtU0ZtbE9nbUU5bFZvbXJF?oc=5",
-      "published": "2026-10-28T01:58:08+00:00",
+      "title": "Why many student voters have a right to choose where to register to vote",
+      "summary": "Why many student voters have a right to choose where to register to vote NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GcVA2NTNiSnl0VkY1ZEI1VUVkYU56RVkzc0VPSTgzYnhBa0VqdjZFTGdTVWlIZENURmVVWGo0aVNJVUkzMFBDSUdsdVktanpwYzBxUzFaU3Iwa0pfUmdnY0dySGVyZ1pHZkdIdG9uUkZEbG40ZWc?oc=5",
+      "published": "2026-10-28T09:00:00+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Two high-speed trains collide in Spain forcing suspension of line",
+      "summary": "Two high-speed trains collide in Spain forcing suspension of line CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMlZGWkszUHlBT0x1U2VuWWw1T0l5WEppaUhORDJ0VHRQeFNDUjVYTXY4LTBkSi1uc2N5NlBqRmhGQUt6VEtCdzZXYXF4cXppNnh6NWhjQjdhdjJOVjg5MF9RS2dwdHg0NWoyMTl4QXpqbDJ2VGhiamRJTVhGaVU?oc=5",
+      "published": "2026-10-28T08:58:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Israeli election results show no clear winner between Netanyahu, opposition",
+      "summary": "Israeli election results show no clear winner between Netanyahu, opposition NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1FGdHlWd2gzS25zVDRrUkpOMXRaUk53dThuYlhlRk9lNm5tbzZWU0V0M0M0ZFNhQWtrazE3WFhrUGd5b25ydE9fTTRySzNGS0wyV0JpRE93Qk9qc3cxNEhkV1REdEFIYlVQdGlwNjVvUkRWOHpwazFBU2tDNGxzSG1JOTlsYjJMdjhlc0t2TF9PYjVnTW5oUC1YanI5RjZMclBhcEQxMnJ1U3N6NjZjTGkwN0x1a0RtZVln?oc=5",
+      "published": "2026-10-28T08:46:47+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Flavio Bolsonaro and family to receive U.S. visas after fleeing Brazil following election loss",
+      "summary": "Flavio Bolsonaro and family to receive U.S. visas after fleeing Brazil following election loss NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOW92VmNyaERGMkQxUmN1bWNRVlVUS1hsLWFhRXdNTzBhYWVaVTVtb2NEajJnS2d6aWtDOUFRZl9uLXZsZklwdkVobW1QRjBCYzVpQVoydG02bUdjVG5uLTYtNjRUbl8taGlSMGdpUDZITi1EWFFXVU5BWXQ2UVN0aXV0YUF1dktxTndVazgtN0k4YXI1ajNEOVF2WVFTWXdVTWdZaTFnZWxVaWJW?oc=5",
+      "published": "2026-10-28T07:58:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,10 +119,34 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Democrats see an opening in deep-red Mississippi Senate race",
-      "summary": "Democrats see an opening in deep-red Mississippi Senate race CNN",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2dfT3FEVW5WSWpjS0t1QnJyR1J0WFpSVk5JTHNDU3BLdU9TOEZ6SVdRLTlVQ0pYdUVFdGJhYk5qV1Z2NWZidUxtUzl0Wm5xQmdmWG1aeFBTbUx4WlRTSTNuZ25DdV9mak5VRHpDcEtORk9pa0R0dVQ4RTdYRkxBOWZwa09jRnBLcUx6MGRLMWRRUS1Cc0dqeUgwamxISDY1ZFhuMEFHX1paU0dCMF9LdUJR?oc=5",
-      "published": "2026-10-28T01:08:48+00:00",
+      "title": "Continuous round-the-world cruise comes to an end as Iran war spikes fuel costs",
+      "summary": "Continuous round-the-world cruise comes to an end as Iran war spikes fuel costs CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZExfT2RNakpJU2Uzb3hUaE4wZmZkTjZhbmdaRVREUGRNYnVXR0EzaXdfUS15YWx3XzJfUFZKQUVkU0cwU2FJUEN2bXZpN3RaTjVETnZqY244M3AtcFJ6UjlPMmx6blFsMjZVWnJqaS1jaXZuYWlVUkk0bEZmeDhrQmtPZE1pcWt3Y3h2S3VWMm91b3FacHlr?oc=5",
+      "published": "2026-10-28T07:28:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Differentiation That Delivers: Proven Practices From High-Growth Districts",
+      "summary": "Differentiation That Delivers: Proven Practices From High-Growth Districts Education Week",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnlQVlVENEZsZ1lBaG8zdm5pQkd4cWdDMnZVRXVxZjJkR2FyS0RGVUtacWRLTWFMeHVyNXltVjNrUHJ5TW5kOFdFaEd2cnE5cFRsckJJRGJ2Y2F4YmZFVi1OOXJYTzdBekJWU25IQXVSY0M4QzFMRTBCWlRKeEVlVmFLaTBWWHlkemhZdUdDOFFjM2tnYVd3ZE9Nbnd2V2hhZGNpOEJrYklOd1EtMUZVNg?oc=5",
+      "published": "2026-10-28T07:13:08+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+      "summary": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92cnY0Z1F4dHJHcjFKWHNwT29XYkZuRXAtMTZXaUx3LWtPRi03RXRKeFpma0hDOW5VVUNWNERCeGN6bmk5YnplOEh0Q19fbVNMd2FJa09OdElMcjNKTDRSOWRKVm82VlVST2JEVjR4d1nSAXZBVV95cUxORV9vdWowcHBXMkR0Tkh3YXRxQjlHVWJvSzRNTm15Y3FlWldtTm41LW56eS1tOEwyWDZxd1NMUkIyUGtmck40VTZtVk1Vanl4RkV0MXoxNmlrVHRTMUxWdVhCYWc2RGVNd0JRN0Q0a3VrdnNWaGFn?oc=5",
+      "published": "2026-10-28T05:45:23+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,75 +164,16 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Dem candidate Amy Acton targeted in Ramaswamy ad speaks to OutFront",
-      "summary": "Dem candidate Amy Acton targeted in Ramaswamy ad speaks to OutFront CNN",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUW9tUThNYVh4b1RDRDdIS2Z6YjRRZW9YcHgtUUwtYVl2elBuZVItWUhtYUtBVlpQc1VTQW1iYmEwY3JPa3N4ZVVITlJ2Rk92bjVKX1NmODBpa0ZxcnJRcEpqLWJWdU9UdVoyeGtiODg4SEdha0ZxSURyUGk3d0NGRG53WVlfNHBEODFFa1FpUWNOZ0ZuY0pDcnNsNEN0ay1qaTJSYlBmTTVSaVVyeHFsQlAzOWtrM0poUVlpMkxnNWpXR2d3UDZn?oc=5",
-      "published": "2026-10-28T00:02:09+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trans rights group heads to court over fake election mailers addressed to Texas children",
+      "summary": "Trans rights group heads to court over fake election mailers addressed to Texas children Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2lWWnJmTVRyXzZDQ3V5Q3dCaDdNRFp1ZWlDZXJKUVFFX0NPSWxCcnBRaGlIQlRuaGJXU21lY0tqRVkzdjhPRTh3amdVdHdhT193V1FPbHowY2dFTlpTdHJTdVhQU2hHcjcyYWVaRHhZODdXNXNwNnRPZTNISXpxRER1d3Q3QQ?oc=5",
+      "published": "2026-10-27T20:31:54+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-      "summary": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSGlVV0ltbDV1RHZFQld6QTVzelBPSFJ2YWl0ZG9kcVJtZ2xzVzl3Vlh4SmRfWUdmMkJSYmY1U21rS2tXdkZmOFNnYkRLWDViX0cyNEhVMnFzVHhGeklNbkhhQUNrbDVYNnNWWDBoUnFLVFQ10gF6QVVfeXFMTmhMRnVyVFhXRjdRbGtZT1dkVzZJVzVMNzN0VjNMNzVEZy1YYXZuQi1SOWVhLUx4OG5iS3UyLVM5OXZHZnRqcDluWGRoTkZvVl82WTk5VzVFZ2V1RXAySGZGdmhGUXo2Z1hYVklPUDBNbDV0VzBPQWlZZXc?oc=5",
-      "published": "2026-10-27T23:34:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Differentiation That Delivers: Proven Practices From High-Growth Districts",
-      "summary": "Differentiation That Delivers: Proven Practices From High-Growth Districts Education Week",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnlQVlVENEZsZ1lBaG8zdm5pQkd4cWdDMnZVRXVxZjJkR2FyS0RGVUtacWRLTWFMeHVyNXltVjNrUHJ5TW5kOFdFaEd2cnE5cFRsckJJRGJ2Y2F4YmZFVi1OOXJYTzdBekJWU25IQXVSY0M4QzFMRTBCWlRKeEVlVmFLaTBWWHlkemhZdUdDOFFjM2tnYVd3ZE9Nbnd2V2hhZGNpOEJrYklOd1EtMUZVNg?oc=5",
-      "published": "2026-10-27T21:56:20+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-      "summary": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWpYb193alRCMklneWlCX0x4dW1TaXFJVVNMcERxaHE4TERPVDRqaHBOVU1SdmtsdUNaNFU2NUhHQy1lUWpEQlFBZHkwZEtXdmxOa3FiZjJKRDF2akhRUWhTcUxaS1FtTUp4ZE9Ld1dsemUybTlNa25hOGNhQUl6azdn0gGHAUFVX3lxTE9DQnRkSkxYRnd0Vzhva1dOTUxtSXFOTnBUZFlVR1VFd3ZiMjJFWmoyOFdZdG1uQzZmYUE1bTRXaGlRM1ZRVW5UUlRpNW5XSWhFYzhhMXhQdjBYOEhidjRVZ3d0NFlQc1E0YmFaYTRmSDI5enB0WEp3TlRZMmJNQ0JTRGhyanBEOA?oc=5",
-      "published": "2026-10-27T21:39:18+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
-      "summary": "Israel's voter turnout soars as Netanyahu faces a tight election NPR",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TaTk2cno4VTM1Ql9DVVVmdnRqQkhkVGVhVFI2dHh3MVBSZGgtMVQtenNPX1ZpQk9XWXV0amhwVFJTR1hzcTVJUGtxVWFwdy1ETmszZXFYZlNRZnVqWGZRenNaY3FHeEhYYnNyX0lR?oc=5",
-      "published": "2026-10-27T20:45:39+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Romantasy fans turn out for 'Midnight Maas' release event",
-      "summary": "Romantasy fans turn out for 'Midnight Maas' release event NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkJ3VmlJZDhfdzlvWjN2RERpdWFUQXVNVFJxUU5rUm9nNkx5Y1dpVzh3NTBSOTljVmhOMVBNTldlVGoxZk5jVDdOM0hTVWlXOXBJWU1zaWZHQnRVTG9kVUpWRkdaUmlVN3dvV2NfZ3BLTWdqVHB5N3pqZC1ETDFLaWM0SkNYdng1T2F1eHVEMWVjQ0lkR1BMRTBR?oc=5",
-      "published": "2026-10-27T20:15:39+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -161,18 +186,6 @@
       "published": "2026-10-27T20:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
-      "summary": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0NqMW1MSnJGeVB2WHVWdWR4V0wySkRhVUpXTG1hQk1iZU1CY3pNeGRwUkVIcU83V01mckM5Z01qTmw0T2tRUVZmM1luNE55bDluMEQzUzB5THBzZWJYZ1ZTRFA3a0otUVZDRWRVdDdmTm9WY2VoazJUR19nNGlGNU9WNHVxWGZV?oc=5",
-      "published": "2026-10-27T19:38:47+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -212,6 +225,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+      "summary": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0NqMW1MSnJGeVB2WHVWdWR4V0wySkRhVUpXTG1hQk1iZU1CY3pNeGRwUkVIcU83V01mckM5Z01qTmw0T2tRUVZmM1luNE55bDluMEQzUzB5THBzZWJYZ1ZTRFA3a0otUVZDRWRVdDdmTm9WY2VoazJUR19nNGlGNU9WNHVxWGZV?oc=5",
+      "published": "2026-10-27T16:00:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -239,6 +264,18 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
+      "title": "Opinion | Nate Silver on What the Polls Say — and What His Gut’s Telling Him",
+      "summary": "Opinion | Nate Silver on What the Polls Say — and What His Gut’s Telling Him The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVE0UkU5c1FHWWRjZVVLZzlQUnN2Y3hZNndId3FaanloRi01dzFjUlRwS0NnVTBtZFFBbkU0cHdIajhmUlZKT2ZXTXdrZjZmczFrWHhLREFvV1hrRm9IbHA4LThFbXJVc29tTThoQ2kzYkltMjA1SDZqNkp1WnN3clVhTEc?oc=5",
+      "published": "2026-10-27T09:06:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
       "title": "Opinion | Four Thoughts About Israel’s Election",
       "summary": "Opinion | Four Thoughts About Israel’s Election The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHNCcWFTWlRVZWRtV05nNHlGRXNPYlhBR1Jlc3N4OGt0TGlQRl9pVmo5enZxZnl0SzUyYnlkM2JUYWU1Y0ZaU0trOVN5dFp0b2lnUTdneU5ncWRpcWZLM0g5Z3BXaUpqWTBudjVOd3gtT1pVV3p4TG50NUJTMXFVeA?oc=5",
@@ -257,18 +294,6 @@
       "published": "2026-10-27T07:03:36+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | What It Will Take to Defeat the Houthis",
-      "summary": "Opinion | What It Will Take to Defeat the Houthis The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGLU9IcTdIb3FzeEZTWDBLUEhKZktsRG9sQ25zb0xrQWc1YzhXSG9Pb29MZHRiQjljRHMzc0c4T1U1V2RUTGhWd0ZkVlE5SjdFUk83NlFPVmN1REE4YldfNm95NTNGZHJ2Nl9hSmF1cDQ0clB6cC1PNUVoZHo4Yms?oc=5",
-      "published": "2026-10-27T05:00:06+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -309,13 +334,13 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Anderson Cooper hilariously drags Tr*mp with one very gay observation: “It’s no Heated Rivalry",
-      "summary": "Anderson Cooper hilariously drags Tr*mp with one very gay observation: “It’s no Heated Rivalry Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFAxVW9HeTFDR2d2N2M2dWQ4NW5iQzNXd1JFSGozMEE1WldkcUxSYlJVX1FBUVJOU3MyVmtZaU9XVmdkTVVrZ3YwWnQzYWZ5SHlfN3FNSy1tczU2NmdCMlNrclE5WjlBRllrSHF3SGhLRUNEQ2wzV0FseGVtVkQycHcxazFTQmhicnRzejVHSEpXbkxCSlo0OTZOcU1HSXpkR2g4bVBWNGpVcC1yOURqU0xSQWcwTU03ZUVPTmdRVHRyUQ?oc=5",
-      "published": "2026-10-26T22:00:00+00:00",
+      "title": "Gays for Trump founder defends letting GOP operatives vote using his Pennsylvania home address",
+      "summary": "Gays for Trump founder defends letting GOP operatives vote using his Pennsylvania home address Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0pvQmVmZ2Rpai0ybkcweENWNHBaYzQ4SDduZmtVSGpHVC1JMEU2XzBaUmZXSl9ycnpTcmVjX253WWEtZjM0UGxlZHpXM1BuQWdxUlg4dEEyUlExcU1sVG4zVUluVmc0LWtnTjRlY2R6b1VUaVlTcjFGOEpzUUVlTHo5eXctNS1X?oc=5",
+      "published": "2026-10-26T21:35:52+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -331,18 +356,6 @@
       "beats": [
         "Politics",
         "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority",
-      "summary": "Valkyries could clinch WNBA title before clock strikes noon at home because an NBA game took priority NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlZrMkVqaHV3dEJHTS1paUhZOWxzSV8zeGg0MTlOU3JSVTFEQ01RX214cXNCMFBuX2R2S0ZwYW1hV2VtSWNzZnZGOURpQlkya0VLZWRwb2lBSUo5YUg4VTVGb2dia19MR3ltaXFGa2diRVJ0VnV2WlJJYmdCYWNlekVfNjNpdUltZWNiYkI5NlVIT1RzUmdYdXQydTRkZUlSN0xZMGo0NW82bXlWZUNPbDlnakdxRVU?oc=5",
-      "published": "2026-10-26T20:38:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -367,19 +380,6 @@
       "published": "2026-10-26T19:24:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Gay Army Black Hawk pilot Chris Gallant won’t let old fetish photos define his run for Congress",
-      "summary": "Gay Army Black Hawk pilot Chris Gallant won’t let old fetish photos define his run for Congress Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FNUJqQWlPY1pkaVc2MW9NdWZxemVTNmtxd25ObkhXaWltNW1oOWRYOXBlTnJjSkJYSVdmdktWaVd4MkxCNG1XX1JTOWlsblZucFFrWE9UTGRYZHd3V0pKdFFVM0pCbi1vY3k4QkkyeFY4V0dReFlBOE16Q29raEU?oc=5",
-      "published": "2026-10-26T18:55:37+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     }
   ]
