@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:26:28.622125+00:00",
+  "updated_at": "2026-10-29T20:28:34.797467+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,73 +20,169 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Patrick Stewart, “Star Trek” and “X-Men” actor, dies aged 86",
+      "summary": "Patrick Stewart, “Star Trek” and “X-Men” actor, dies aged 86 CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WemNmX2czM3JYallnMHhxeldGNVBTajhGRnZkY2c1eUktX3BXMmZoWnd0XzhSQ1JUU2hacXJBajJVUGo2ZWdsR2F0bUxSZEcwQ1ZhYkpmLTg0VGVLZklPcUZFMXk4QVRnYWx2bkQzWlZTOEJt?oc=5",
+      "published": "2026-10-29T19:57:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Home prices fall and rents rise, both for the first time in three years",
-      "summary": "Home prices fall and rents rise, both for the first time in three years CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnBtX3Y2ckNNZWdEWXJPR191MXUxeEsxVHZZU3NBUi1ZSWZZRmRMU1NzVTZBM3doQjU2LTV1X1BsSnU2d0xBdzdPdVZMT1ZxY2lwZ2VXaEtZM01JcG81V2RpMUlBeXByN2dadlNqeHNwUzEwOUxZRXFPeFBEWDE5MlQ4emRLNEcwQ19lX3MtZjFkRzZLTURFaGJ4bGNOcmhNLWJpVlhB0gGrAUFVX3lxTE55ZjVKbTdjREM3RVdxOFJDQndkN240bTRqLXlvQVNSUG5QdWl6Q0lKV19QV2ZfZXl4R2M1UXFLM09jdmd5aGhsOFpka0hPMjhxSnRpRkg3d3hRMmF1MXhUdXhHQ2RqZXIwVVhuR0I4WHJmY2ptZTAtMHlYb2dCSURJOE9xazZIYnNEeDFxaVlhSGRUdTdyT3ZZYV96aktBQWlTVGVqUWFZbDQ4OA?oc=5",
-      "published": "2026-10-29T14:15:46+00:00",
+      "title": "Starbucks international business disappoints but U.S. stores outperform",
+      "summary": "Starbucks international business disappoints but U.S. stores outperform CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UemZ3WjVGcnQtWmo2Rm1JWWdKSncwUUlRMEhvNUt3dG91dmpjckRUU2RvWjVxaDZVQ2IzSHptVHhuWHRvVHI1VjYzT0Q2UHhXanlON29vNi1NV3o3WlU2TF9mWkpJRl9FVzEyOVluRzZiTnB4cERF0gF8QVVfeXFMT055Mjc3YTYxdWJlTUNMaHZDRFA0Umw3YXVCUWVzYVNONEo4SnNvYUpjaF85TmJua3BTZ3FNamc3WHdibEdEcFl6elhoXzdMTVJjTVNYcGNuT0x2YTc3aWVqdzJxQUJGQlYwVGhMYXV3SjEzdHQ2dXRPWFl4Wg?oc=5",
+      "published": "2026-10-29T19:30:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+      "summary": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+      "published": "2026-10-29T19:27:01+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Linde delivers a good quarter and puts in a fix for an overhang on the stock",
+      "summary": "Linde delivers a good quarter and puts in a fix for an overhang on the stock CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjdtaFBhNHRyTkdwckpYV2ZhU3R1R09FdzAwdGNwSXRRYlhReFp3RDNRZUIxNS1RSkFCNzlPZ1VuTzBvOHdNZ1Vqa2JWdy1xdjFDdUdlTkMzbnh6Z2F4OHBTMUpLVXdldmhQVXRWZE9wdFowRXcyR2d4QTNLckQwRTNUQjZTQUFVbjhfR0xCQzNaYnljN0x3bUJQYzI2dVJocWZjekdWZG5lYUVrTVEtU25WaW9BMXhhVUtnV3ZzZUFBRHF4WHc?oc=5",
+      "published": "2026-10-29T19:02:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
+      "summary": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3ZUM3JWYktWXzdNV1VITXQ4ajV1YURVZlVpZmgwTzVxY0x6NDJDWVNJVWhPc2ZkVFkyZWFoYU9vQ3FtZ3diR0lUUFV6QnJnM25CREczZFZvVHJBbV95LTAxaUNmSDltMmZIWUY4dm1mLVpYT05TT1ppNGlRV21mbVVSYjRDdDk1SF8xQ2JXdVBZZTlJanhFdlBIYUJ1ZHAycTZ2QtIBqgFBVV95cUxOX2libklWTlJGY2NIYU9SWHIxUHBaSTdTSmp5d25jOEp2ajd6QllTN1hIOVdZcEJNQjhoMjl2MlRUSUwzNG1mLVlaekNtdE9GWWJUWjg3RENQdlVQalJ4N1YyTXVtQVdiUTJIU3VCRWN5LWMxbW9TazE3eE5rZF9peS1yQlZRQWNLR2FGMXpvR3o1UTFCM05xRGdobzd4elItSnkwNGJjcGI3UQ?oc=5",
+      "published": "2026-10-29T18:55:01+00:00",
+      "beats": [
+        "Business"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Is Fox News pivoting to its post-Trump era? The answer lies in what it is — and isn’t — showing",
-      "summary": "Is Fox News pivoting to its post-Trump era? The answer lies in what it is — and isn’t — showing CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVkF3akFhU05qbUZRWHcxUk0wVm9WQnZjQzZtakVrdlphSEhyTVI4WGlrNFJVMWNMSno3MEVZbEtGWE1GY2o4VG5YYW16cGFRNXM2eTVDbTZMNE1yQmZ1SXBtSGlUbk1hMEcxQllnLU5kZ3VoaGJXYWtncktLLVczWFpxZw?oc=5",
-      "published": "2026-10-29T14:12:47+00:00",
+      "title": "Justice Department’s Dan Sullivan criminal probe accelerates after Alaska campaign revelations",
+      "summary": "Justice Department’s Dan Sullivan criminal probe accelerates after Alaska campaign revelations CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDAxam1KZXFFcGZnTE5IVEZYVGd4dVRxYW9DZWVkcGdfNXNfQ2dCZ3FIajdCZHMzRG41eEpIaEZHZzJkaTZOSmtaZ0ktQzByX3RudFAxM2RiT1MxMFBfSzFuelNDWkkyZjdCOXV1WVFRcnYtRGNlLTdMYXMyekxvSHNqUm5CWTJMSE5aZ0p5MUtzbnVqbXFjbHR3RlFUSkxHQko5Xw?oc=5",
+      "published": "2026-10-29T18:53:31+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
-      "summary": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVi12OGhZRVlEU1JJanR2NFpFVXV1aHZTSVotQ1BwekhveTUwYmI4LVdKYkNUU2ZNQVd2a05fRTBmR0FVN1FDdG5wQ3VnS1hPb3hPR2ozQy00N1NxdlNONmRveDdDTXZuRUNPRmdvbVlrenhNY2xna3pMLXZEeTkyUmUzR245UElmcXczbFFjakJ2dW9mV2RDNGQ3ZUZyQ04xa1hJdTVGMVRFbl9UY0hsbHlfa212ZDQxQnNN0gHAAUFVX3lxTE1VbHRNanducndlbEVyY292ZnJnd004ODZOTXBaME5MSkxOamRtR0JQckQ0a0JtMUh0cndBTXRvS1RQOGg0dkVZd005dDlmYUNGdGNJZ29SbG1NNDZXNXN0TFllOTlTdXREU0IxNmFlZlJCdkg3WWE5dFk1bWxjemNwbnVQb1dobFZtaDZBWkoyODlGWUw0cEpHczNmaDdxa052dU91TzhhLTdQaUhEUUFxV2ZUR1VEWEtjdm1sYktRSg?oc=5",
-      "published": "2026-10-29T14:06:20+00:00",
+      "title": "Cruise company had troubled history before abandoning passengers in Cambodia",
+      "summary": "Cruise company had troubled history before abandoning passengers in Cambodia NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXB1RGF2WmVaTVR5XzNjemRETXVUN25VTXBwOVduQ3k0cHBYN3hsbXNfOUNZRmNIUGNXWXpXOXdBVFEyOXVWZXhwbnJJUWlTMlNPa05BXzhRbUZpQjdiTU1lQnJfRmFiYUtkM29WektjYlR4YU5fcUNTMU5hSGdIckV0VWlSdUs3N1VOazhwbVIxNHpidmlMVldsMXZpOUd6VGhLWnZXa1dEUGVIZzhR?oc=5",
+      "published": "2026-10-29T18:36:10+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Machado pushes for new elections in first news conference since returning to Venezuela",
+      "summary": "Machado pushes for new elections in first news conference since returning to Venezuela CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzJwTHNtZlp0VjBhVUhwV0FUdlMtWlJ6X2N2NVBxbU1UR3drZWxlcktQeVpWRm1rdWhEenBHbWs3WXBtUF9UcEh6Q3ByUVBRRXU0T3ZoWUlTa3g2NUUxdDZKYnBkclkyZ0hPa0p6Nm56QzdKRGV5Yk93OVU1eGVJN2N3?oc=5",
+      "published": "2026-10-29T18:10:43+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-      "summary": "With days to go before the midterms, data shows the U.S. economy is doing well NPR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSk5XWmMwNldUMEtRNW1lZWdQTldaM0Q0SWFucUVXSmc3S3A0THRxREpTN19oVDBpR1dIaUx5M3FIdTJLYVVaRS1FWmMwZ0pvQW5ZT1JQRVZFRUhNSlluRFZYSjNnM1VmeGxDOE9zU2NFTUxtaTlTVzM2ZTItZ1liRk5GLXJjMEF2RkFHUUdpYldnalF2LU1lSThjOUM?oc=5",
-      "published": "2026-10-29T13:05:03+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "DoorDash is buying Instacart for $17 billion",
-      "summary": "DoorDash is buying Instacart for $17 billion CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVF9iUkMzQU5mMnU0MkVLTFNHdFZxQ2k2ZUhMWmozVXEyT2FCNmV5U29YU1B6clJodlc1V09WSXRXTmhWU2lCVVdQZXVwNHJsM255WEN6dkRINU9NVkZ1c09uYS1nVTRrcEFZMTNkdVVzaEJ6emVqNFZR?oc=5",
-      "published": "2026-10-29T12:37:36+00:00",
+      "title": "Even birds get jet lagged, study shows",
+      "summary": "Even birds get jet lagged, study shows NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yY08zVzNCZGtVU3RNaXQwWGFDZ0hseTlTdF8zUEFrTXRJQVo5RXV0dDVGS3RSQ3p3ZGRSekhIeFByNVUwMXAzRU85R1FVVmtzSDBiZndDY1ZiaFRLZ0g1SGp3MWRwdlZXTVNseEZxUGdQdmVSMVphN0dURnBtUkk?oc=5",
+      "published": "2026-10-29T18:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "A ridiculously cute photo booth proposal goes viral",
+      "summary": "A ridiculously cute photo booth proposal goes viral Queerty",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzF2Zm1ILUJ0MzlFdW1JNms0aHFOaUszM3VlTGNIV0FKTExGcnVmYzMyWHJ1NjNLaDVDZ3hxUlZMeml3U2w0V3RidlhlaU9TWURRTE1DeHVyaktqMmNHRHY4TjBwdDNuczVHcG1NWWZ4eW4tMkRBR2hibndsbXJxQlBIUndvRW5GeERwcUt3?oc=5",
+      "published": "2026-10-29T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-      "summary": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tOHQ3dWJWb2pyV0NpTXJad09nT09UdEVBeVM5ZktFNWRmNzFCSU4yR1M0ZElteXY4Q1hpTWhlTk80c3NSVkhJU3FoUnpRSy1nam51empjM0x3aXVnR0VxNEJtTUszdklkYWNlVkp4OEFMZ1VXeFZpNUZsUFp4d9IBgwFBVV95cUxQQkR2M3pFZE5nUVhVczFhYy1rcWRLS2VZcGRxOEJiQURlc2F4c0p3UEtmQnFaS0VsWkVhRWNYbUdsdUtfVzZxZGpqajF2WXFmc1lRWVdGY1RHODk0dWg5LW1seTdLeWVlMTk3V2tEdDh5YWR4cUI5bnZ4bk5tbHhHYmVlMA?oc=5",
-      "published": "2026-10-29T12:32:52+00:00",
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "summary": "US and Japan agree to establish a Japanese facility for joint missile production NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3A3cTVGcWdwR1Y0S1FmOUVoRkJNZ1RPUzFfdWVHem44SFJpcVE2eU9BWXljUW44Z3YyYmZjOTM1dHVtY3IyNFlJTDRpcGpWaGZ0cHVFZ3lMR1IyWU9yaGtSVEo5M2xXWHdaelVSa0s5cm5BRi1GM1ZIT1F5dXNBdXhlVTQzbVZkbGRubkp5OC04OTFQeWxJbWdSdDJ2YTJ1OUxrVlFZaGxNNW1uMHJycnE0Sk1yaTRFc3JBZ1FVNEk?oc=5",
+      "published": "2026-10-29T15:58:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Inside California’s decadelong higher education expansion in prisons",
+      "summary": "Inside California’s decadelong higher education expansion in prisons EdSource",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNam5SRjN2a1Fid05qVUdCRENqbzR5NnNuc1RRaTNCU0VKSW1lZlZ5TEVSUmFRWHlGZzZxQllxcTByWlhTRzlGbVdyZ2M1OUhUd0w1RWxhUUk0d0ozeE5FZms2NUkwRGROdHJKSkZnSWktYm9KemQ1SzNKNFllaW4zdVZxWnpoQQ?oc=5",
+      "published": "2026-10-29T15:54:56+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show",
+      "summary": "Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVkyZWR3cmdQaGE1M1VoaThrZ0ozYnVlMkoyampQanVpTmpDSFNfb29QbVh2REF2YTRmU1dGeG9raGdCN09MQjVEd2RVS05sV0d0czFZaXFzWFU0Wm01Q0FWdzd6NFFYT1VvaVJzVk1Ya0ljczRGUjR5OVhOdjU5OWlfZGF1bXJhand4aEdYanJYakxTaGtrQzN3cEhlaEYzZ0YxY3c0bUlxaThlYjR4MzJn?oc=5",
+      "published": "2026-10-29T15:51:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
+      "summary": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVVDBrNmp1dGlqM3Juc0tOaGU2M1gyaEprZWp4WkxNUVhiMG9MTFFmUDQ5WFpNS3FzMWo2dmhZYlI2RFlObFRETlItY19FSkF2dE5STGZZSEtXTkpoSmkyQUJCYm1FcVZ0U2FPMURJSmFycnJwaFRnZVE1NA?oc=5",
+      "published": "2026-10-29T14:52:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -95,46 +191,10 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "DEA whistleblower says agency allowed millions of fentanyl pills on the streets",
-      "summary": "DEA whistleblower says agency allowed millions of fentanyl pills on the streets CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03T1JNR0xCUjVDVlRwWEtyWFVjeDI2TlhLREZPUFJ3Q0p4Rm1JSEpxMmhqdlRpS3E2dC1MWmU1S29Uc2l5d3FGekJ3YlAzVDI4VEdGdVB6d0pIWms3bGtiTm1ZeV82QUlpa09yVGlBSQ?oc=5",
-      "published": "2026-10-29T11:38:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
-      "summary": "GDP report to give insight before Election Day. And, Israel's election is deadlocked NPR",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRnN3WW00RTMyd1JsVE9mVVpHNlY0MkM5ZEptbEZzNDRwdDhlZFl5R2d2N25DMTdxOEh0YmpSbmtIbU9CUVJaWWpMWDdNcDdIR0gzNjVjMFhTa2lLckJ3UWxrUEF2c2MwUm1Edm40V3BFMVYzT0dtcTcxeHFOZXkycWpwZXpmeENaMW55el82SVAyc0Nub1Fxd0hGZHBUMGloUjBZTkpfdTBkY0lmaXpIY1pDYjBITVhxSU5sbk9ndnVubHdBSjloX0JIcS03Zw?oc=5",
-      "published": "2026-10-29T11:34:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Alaska’s governor orders criminal investigation into Mary Peltola’s Senate campaign",
-      "summary": "Alaska’s governor orders criminal investigation into Mary Peltola’s Senate campaign CNN",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2JWSmJCbkFjc2lCM3FueHRDSksxRC1WQ3p6X1dYN3U3bHFpTmFwdGhVSUVIcDd6WDY3NG5XdGxpNXl1a09ZMUpsYXh2aDZKZXNmMWFOR1dCcmlNb053SVlfSzFFM1ZLMllPcWQ5TXZBaEZhcUx2Mjd2cWVWdi1VeTNubzFPamd0cEdhSjJIOTN5c3ZobzhPYw?oc=5",
-      "published": "2026-10-29T10:53:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Nvidia Chief Seen as Target of Chinese Spy Plot",
-      "summary": "Nvidia Chief Seen as Target of Chinese Spy Plot The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "published": "2026-10-29T09:01:52+00:00",
+      "title": "Abdul El-Sayed's faith and family have come under intense scrutiny in Michigan race. Here's what we know.",
+      "summary": "Abdul El-Sayed's faith and family have come under intense scrutiny in Michigan race. Here's what we know. CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWJoY0VlYnlYX2pkc0VqbVNHY0VsR0RfejRKZHBUcTVMUFVYNk51WXFJU3FxQk50d193aUZRWTlpYWhaSFIwa3g3MXV0cTF1Mk1UdHlubTdWZFpqcFNOcUc4MDg4MUo0WGluMGRYRVRRcFAxSFMwY2FpTV9sVkZveHlEc19oODZBVUE?oc=5",
+      "published": "2026-10-29T14:42:48+00:00",
       "beats": [
         "Politics"
       ]
@@ -146,19 +206,19 @@
       "title": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage",
       "summary": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlotb0paVDY2eWpBdHJpV2RzMDlrLXJkT3Q1cHZxSnJKWEJFMXVYdFlMRlRZaXNtX0F5VnF4RlBiMEptTGNoOUJUbHJ5akRzeDNJMnhsczlzeno2V0VtNmZuR0tjZEF1ZFYtVkUzV3gyZnZNTW1hM3ZMZ1RISGZ5ZDIxTy0?oc=5",
-      "published": "2026-10-29T09:01:33+00:00",
+      "published": "2026-10-29T12:30:09+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
-      "summary": "These are the House races to watch in the 2026 midterm election on Nov. 3 NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHhuUTlfWTZEWmR2REVvZnJQcEJFX2dpLWFqV0t1WnJUVjZIN1BXUGJNMW5zbGVxQXhUaXY3MWlya1lCNlhkYTFEY2Y3bGxTVVBoOXRERmh0WlAtcWZvTWtQcWNlV1VKVFo2SGt4aXhtTjN2SlZhWnVJT0VmRmpjSzZITGZaSTNtUlNzc1lUaThNRlVSckhRREo3UHdVUkpGcnc?oc=5",
-      "published": "2026-10-29T09:00:00+00:00",
+      "title": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else",
+      "summary": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3lRMlgzb3dDb0hGVmd6Y2k4c0R2aGIwSFlTTzJKT3ZzUGVWaDRtMHBQV2FZU2ZGbFRpS0p2V3BWQ3BEeHpQTjJqRzV5TEVOSGFCX1FBT05NYl9YZGJNOFdOcXV1SGRsUmViR1RpRUpXSndHLUdiRGUzaEdEVjJ5THBrYXBJVjNrMmx5aEhERQ?oc=5",
+      "published": "2026-10-29T09:54:57+00:00",
       "beats": [
         "Politics"
       ]
@@ -248,15 +308,15 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
-      "summary": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZoZnd5TWlac1BNQkoyZGw1UHR6RkphN3J4S3E2bkZXbFN4SFhKcWdGQkhyNXJfblNQWTJkbXBxeHZZSTBoa0RLc18xSnpxX3dJR1FiYm5hdTdER0FWVEJRRGg3T0Nwek41ZmJFX3ZFdUtjeV83T0YzUDVvN3BhZEU3d2hocWx5ZUZQdGx0SEx4Y1hu?oc=5",
-      "published": "2026-10-28T14:37:47+00:00",
+      "title": "School Funding Is on the Ballot Across the Country. Here’s How",
+      "summary": "School Funding Is on the Ballot Across the Country. Here’s How Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSG1xMGJSQ19tbGxrOWFIbG9MMkNUUVRGUkdfTEt3MENNY3VpVU5RMzZaTzZ5WWhiMGR1RkZOYjU0c1JmcHprdlpaYzlhYWJFUDh3NUVCM0o1OURtTEY5SW5xbXZJOWNjWklyZzVuWi02b19lampfSExfZWtzMlVkTTNfc3pCUjU5Nk9QeUJ0a0VWQXQ4dDVZbHA5MElOTXdHbmFKMDFpLUhxQ28?oc=5",
+      "published": "2026-10-28T19:03:49+00:00",
       "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -272,15 +332,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "China takes Mbappé’s apology ‘seriously’ after backlash over his ‘Chinese dictator’ comments",
-      "summary": "China takes Mbappé’s apology ‘seriously’ after backlash over his ‘Chinese dictator’ comments NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzJlQ245S1R2VE5rY0dVa1cyT2FlS3BodUJsa0ZVazhsLU1pNUVncUhhcEtuLW5pMUxGZXhma3RZTFhJWFlqY01JRzRkaV9hMHA0UmJHcE1sNE9CUy1XN3NMeTZoMFpzR20tZ0QzQzdyMDAzeEYzeldYQ0VfSXhKY0ZYUHRRTWpJWVNuWDlYVGZ5bHRWbnkyTHlxVVoyTmxLNDZBaEZIbmhqUlpTdFJNQ0ZXcHdMQ2xK?oc=5",
-      "published": "2026-10-28T10:44:08+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Republicans have spent nearly $200 million on anti-trans ads in the midterms",
+      "summary": "Republicans have spent nearly $200 million on anti-trans ads in the midterms LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHhuLVZSYzE0bUctODZBT2hLYzZRbzViYkNfMnoyYzhFTVpQelBXbXRrZGU0dDdlZjJtdjVGNUZ3WFNUdzZVVkdfVkE1VmxYN1BWZU1HdUMzZjhUM0tUMnk5ckRDR01XMFowTUtyQkVMU3Q0a2NGZ09GdUx6NHp6ekJEUGkxUTVia3J4bzlpcGJtMUNyVEw4YTl1S2l4amJJdWRwOXlNU0VEUFFybmJVQVV3?oc=5",
+      "published": "2026-10-28T13:30:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -318,67 +378,6 @@
       "published": "2026-10-28T00:15:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Justice Department sues Anne Arundel County schools over transgender student policies",
-      "summary": "Justice Department sues Anne Arundel County schools over transgender student policies CBS News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWll0RlhfZ2pUN2VfLVNzcFhIbE1FeXFsNFh4ME5fdUZiQnRYa0NaQ1NHcllwaW10cVdFREt2aTU3a1F1eUtyNG84S0h6NEY5YUVrNG5ydzFUM3pybEYySjFQYUstLXJiazJudUcwSF95dDdDRFNJSHpJVFhXS1l2WW53R3prRGZnMThlOGw3R1JYWllqVnQwcVM3b3Fwam02OFNtdktTMVcxbzYzQjZQR0ZReGVzeDdDZkR6RA?oc=5",
-      "published": "2026-10-27T22:10:00+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Republican who accused Democrat of being \"dangerous\" to kids found guilty of child endangerment",
-      "summary": "Republican who accused Democrat of being \"dangerous\" to kids found guilty of child endangerment LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2haQ01lVXZMOGw5M1lKU3o5b0ROUlpMS1Rvd3BFTFdUZjJRUXkydFFaLVpieVY0NUN0QUpNRjVId01TaWRFZU5TNlo2Ym1Uejh4M1k2b01ZOG1xVWdTVTFSa2RwbnY3OE1iZnpJZE9vN2JPbDBlQ1M1eF93bV80aTI5S01EY3ZSVjJLajZfZkxzV1MyUnNtRDNFbmxyS0FfaEx4djNVenB6VTVuVWRFV2tiRkh1UnJmWXZtUlQ5WmdGZ3BQSFJiR1N3?oc=5",
-      "published": "2026-10-27T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "A Major Teacher-Coaching Program Flopped. What Went Wrong?",
-      "summary": "A Major Teacher-Coaching Program Flopped. What Went Wrong? Education Week",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlZVdlh6enBPMGF6Z0pQWGlYUmVUb3hrcGtRMVBweHExVDRUY2g1bUhWWWFJTUVudlB6c2p6OGlXN0h3VFpEWDc0WUVOWi10Z0w4eUVYdDJWNUNvTERuWjZ2TWtrR1VuSmZiLXY3REhuX0xHT0VlNzdzTmJVUHpxRUFEVkJxOTEzQlI0ZzRvWTJGWExLM0ZLMS0yd2FuQ2s?oc=5",
-      "published": "2026-10-27T20:33:15+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Iowa Democrat Josh Turek’s sharp anti-trans pivot isn’t winning over his Republican opponent",
-      "summary": "Iowa Democrat Josh Turek’s sharp anti-trans pivot isn’t winning over his Republican opponent Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhUURIMnFyNnBsNURfc1p1TzNJM0NUcEhTVTJOdmF4dE44cE9aUXVFM1JRQTdTRHc3ZXMwa3FRV2kyM25oMWhkbWU2YVZvMXdVZnRMc3dlYzFFbUQwZEc4RG9jTjV3bmJFdUZyeUpOc0gzS0lGbG5heUV1SDNVdw?oc=5",
-      "published": "2026-10-27T19:51:57+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Authorities launch manhunt for convicted killer who escaped from Tennessee prison",
-      "summary": "Authorities launch manhunt for convicted killer who escaped from Tennessee prison NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTRZSlNuRU9PcFo2SVJGcUphM0k5ZWM5cW1ZN1RtZE5JZGJpNjZZZVpOUC1KR2tLd3RycFQtTWtkOGlmY2hCWlFlQjdsUlNIWGN0ZHVzS3haMEhiTzk0OGJMRjB5ejdmTkRiMkxCVVFsNDlYTkFHZ1NkMXdiRWZnMjR4YWdFenVlV1E?oc=5",
-      "published": "2026-10-27T19:20:00+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
