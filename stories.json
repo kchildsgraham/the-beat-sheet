@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T20:28:34.797467+00:00",
+  "updated_at": "2026-10-30T00:12:32.610178+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,85 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+      "summary": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate NPR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb05QWkdncktjaVdEelV6di1vOG1HanZFdUdad2JjaHBPdlZtcm1adEs5MTg3VkdsUFdEM3FnTVZuZU1uRGJkNlIzdk1KRlhIbUlqYmRtb0twS0U1alhTZlRHSFZiWGlGc29QT1dnSkhCMEcyaFZIeDlDUDJZMDNvaU1JQ083cjc3N3pmWjdvZWpCeHdjdmZZS2lYSHQ3X05YcURRajAyT3V6NGVJRzZQbVBRRGkyNmdZR0pUQXFwMHN0U0FoZ3c?oc=5",
+      "published": "2026-10-29T22:23:38+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Patrick Stewart, “Star Trek” and “X-Men” actor, dies aged 86",
-      "summary": "Patrick Stewart, “Star Trek” and “X-Men” actor, dies aged 86 CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WemNmX2czM3JYallnMHhxeldGNVBTajhGRnZkY2c1eUktX3BXMmZoWnd0XzhSQ1JUU2hacXJBajJVUGo2ZWdsR2F0bUxSZEcwQ1ZhYkpmLTg0VGVLZklPcUZFMXk4QVRnYWx2bkQzWlZTOEJt?oc=5",
-      "published": "2026-10-29T19:57:41+00:00",
+      "title": "Shares of Google’s parent company just had their worst day ever. Here’s what it means",
+      "summary": "Shares of Google’s parent company just had their worst day ever. Here’s what it means CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbkJ5TjFBalI5U2dYTm9ycjZMNTdCdG1qWVNrem80VzB0eDhWejIxV2M0dndPeER2NjFBUFR3VXBDZmYtQ0Q5eWZUUGg5MFNUTFdZZ0FaWU5NRWRabkZpSWhvX254SlJzMExsR2RDemhXY3c?oc=5",
+      "published": "2026-10-29T22:15:33+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+      "summary": "Circle, Tether freeze funds impacted by potential Binance 'security issue' CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXRxNkdHbzFvRy1hczJULWxvQ0FsOG15R052N0U5eXFqNTBTM0pZeERoRmZTYnR0RzIzYjdYSzBNVlBxSlRMRjVxNG9SM2VhZlY0UUlMcXdyaUdNSDMtNFRYRURCTzNuNU5mY25rZ1FSUkZ1cGo5YWhSSTlBYi1HQm5GX1VRUVdQZFRrVE15S2NFYlNXdHJCbTlxeVpfVG8tdm5qenhCRHF1d3ZO0gGyAUFVX3lxTE9HTkk5N1dEdjR2ZVd1WWVvVlhFeHlRQjk0a2hCQ2JMNnFEV3RobGQyRUZFV290WmVhTlIzNU1tTmZ3OHdzVkZBQ3FoLUI1TzJaOGZOME9uQmozZW1MMmcybFhWRG5JYUJxR1A3dEhXSEhFRWxDdEpvSlUyZERRQ3dhLVl5NDZtcWFBd0FPMlVkeUQ5elJDVzFjRHRFQjVMeEdaem1FNW5fMEZFR0NUVFRveVE?oc=5",
+      "published": "2026-10-29T22:01:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Special education disputes continue to rise",
+      "summary": "Special education disputes continue to rise K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHFsRGhaX21tWXdLRzNhcERRUElicEZMOHpENURXTmZzTTB1ZDQtQjZ3bzBXM3NGN1NOV2s3QWo2dEVtWXE2aTFqU3RESUJNTURLWVlnU3JFYkEyRWtodGJFZXpfTVNvZHEyZlR3V054bzY5eDFkQUJ5NGU3VUhhd0ZUclF6YjA?oc=5",
+      "published": "2026-10-29T21:09:52+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Inside California’s decadelong higher education expansion in prisons",
+      "summary": "Inside California’s decadelong higher education expansion in prisons EdSource",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNam5SRjN2a1Fid05qVUdCRENqbzR5NnNuc1RRaTNCU0VKSW1lZlZ5TEVSUmFRWHlGZzZxQllxcTByWlhTRzlGbVdyZ2M1OUhUd0w1RWxhUUk0d0ozeE5FZms2NUkwRGROdHJKSkZnSWktYm9KemQ1SzNKNFllaW4zdVZxWnpoQQ?oc=5",
+      "published": "2026-10-29T20:55:47+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+      "summary": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50N2k5N3RFRGhmMld1dy1nT0RfdG9pSG1YZkt6cVFOSXVrUzZva0JtRzJTSTVLWnhieThwQXZFdDNSeVVXZGNadXNNOHIwb2dxbnRrcjhrbEhaRk0tclljaGtVdXZvNVJOQzg5bGdWbERHZ9IBd0FVX3lxTFAxVi1Hd1pqYkxrQ0hybWEtQ0FkaHo3SUF0bnRDaE41V2pxSTRDTHh3elRZVTFNZ0VWekFkc2pOMGN5dTdBN1ZuUFhfQWRERERYZkNzUUpsVEdacTVrSDI0emh6bUtFNEpqVDN5SVh2UHZ5bDlGbGg4?oc=5",
+      "published": "2026-10-29T20:35:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+      "summary": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86 NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTllERDA2MVUtNEtGNk5INGI2VGduR0NodWlRRzBCcmhqUEduZTlDSm9sLTFnZzRJRzlpbmctSTk0cHVhZW1UYVhGWGE4bzNWWjZGOUNMblByeHlvMFZ2eFBUWWpkYWczOHBsSUxfRQ?oc=5",
+      "published": "2026-10-29T20:29:13+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,12 +107,60 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Starbucks international business disappoints but U.S. stores outperform",
-      "summary": "Starbucks international business disappoints but U.S. stores outperform CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UemZ3WjVGcnQtWmo2Rm1JWWdKSncwUUlRMEhvNUt3dG91dmpjckRUU2RvWjVxaDZVQ2IzSHptVHhuWHRvVHI1VjYzT0Q2UHhXanlON29vNi1NV3o3WlU2TF9mWkpJRl9FVzEyOVluRzZiTnB4cERF0gF8QVVfeXFMT055Mjc3YTYxdWJlTUNMaHZDRFA0Umw3YXVCUWVzYVNONEo4SnNvYUpjaF85TmJua3BTZ3FNamc3WHdibEdEcFl6elhoXzdMTVJjTVNYcGNuT0x2YTc3aWVqdzJxQUJGQlYwVGhMYXV3SjEzdHQ2dXRPWFl4Wg?oc=5",
-      "published": "2026-10-29T19:30:01+00:00",
+      "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "summary": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55MjZDbEl1WXZ4Uy1udVl0ZjVjeVNjbEhpemZIWGlhUURQNTJCQjRXQWNCb1Q2aWUyNjdpdHRRS3k4X3Y5Q0NJdnl1cFBMOHR3TWxBSnNQT3E3MExMeVJSWTRwZDdsTVnSAWxBVV95cUxNdTF0VVlyemJWVmV0d0M2QU1UUmk3YW91YlRJLXpVU0ozYTBKbDlUczFYVDkta0dib0dDMWc5UkFNY0dZR2h4bFBFN0hFMHBMNXpYOW1jaXdhRHhObkc0NmlRVDdoRkRWQ080MDA?oc=5",
+      "published": "2026-10-29T20:07:59+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "What killed 500-plus penguins? How scientists solved the mystery",
+      "summary": "What killed 500-plus penguins? How scientists solved the mystery NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVJBZW5WeklDemEzUElucjFpSVJCUjJYUElnLTFJMVhWampQeC02LXV4MzNaRXhYdVo2OFhkUDdOQU5xQTNTdndsME9DMUdZc3hOSXgzLS05TFNyVmxhRmRkUDhIcVI2LVRkVTcyd3JpZnRHbXNNLU1LWGg4NkQ4bkNVMVdDSW5mak9mczFVRDZPX2kwVnc?oc=5",
+      "published": "2026-10-29T20:03:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86",
+      "summary": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86 CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WemNmX2czM3JYallnMHhxeldGNVBTajhGRnZkY2c1eUktX3BXMmZoWnd0XzhSQ1JUU2hacXJBajJVUGo2ZWdsR2F0bUxSZEcwQ1ZhYkpmLTg0VGVLZklPcUZFMXk4QVRnYWx2bkQzWlZTOEJt?oc=5",
+      "published": "2026-10-29T19:57:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Trans woman says ICE agents released her after confirming she’d had bottom surgery",
+      "summary": "Trans woman says ICE agents released her after confirming she’d had bottom surgery Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02OHk4ZVRFVjFNUDVwaWRVRnZyUGtrN01IQnZ1emVUSDd1aDNaUzRVVXgwOXdqd0tibzNmT0xaTzVva3lkdXh5cmVxMVZoU0pxd1V6aTN2RWticjE3R3c4R1d2ZUl6RUViRXZnVVJCaElUd3JpblE?oc=5",
+      "published": "2026-10-29T19:46:03+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Patrick Stewart, Master of Shakespeare, ‘Star Trek’ and More, Has Died",
+      "summary": "Patrick Stewart, Master of Shakespeare, ‘Star Trek’ and More, Has Died The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONUI2U3RmNnc1bktnSmZjbmRCSDlYbFp2Rm11bFpWSExvQjE2M1p0OXVyTUFFNG4tRWNxR0IwM0dJS2FWQTJHdkpYcjBvT3hpQ1hveXozazFWLUEzWXV0S3k1NDB1ckg0NkRib2taWmhYeEtvN2ViWktuei1JZVFSYnV3?oc=5",
+      "published": "2026-10-29T19:41:17+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -53,30 +173,6 @@
       "published": "2026-10-29T19:27:01+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Linde delivers a good quarter and puts in a fix for an overhang on the stock",
-      "summary": "Linde delivers a good quarter and puts in a fix for an overhang on the stock CNBC",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjdtaFBhNHRyTkdwckpYV2ZhU3R1R09FdzAwdGNwSXRRYlhReFp3RDNRZUIxNS1RSkFCNzlPZ1VuTzBvOHdNZ1Vqa2JWdy1xdjFDdUdlTkMzbnh6Z2F4OHBTMUpLVXdldmhQVXRWZE9wdFowRXcyR2d4QTNLckQwRTNUQjZTQUFVbjhfR0xCQzNaYnljN0x3bUJQYzI2dVJocWZjekdWZG5lYUVrTVEtU25WaW9BMXhhVUtnV3ZzZUFBRHF4WHc?oc=5",
-      "published": "2026-10-29T19:02:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
-      "summary": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3ZUM3JWYktWXzdNV1VITXQ4ajV1YURVZlVpZmgwTzVxY0x6NDJDWVNJVWhPc2ZkVFkyZWFoYU9vQ3FtZ3diR0lUUFV6QnJnM25CREczZFZvVHJBbV95LTAxaUNmSDltMmZIWUY4dm1mLVpYT05TT1ppNGlRV21mbVVSYjRDdDk1SF8xQ2JXdVBZZTlJanhFdlBIYUJ1ZHAycTZ2QtIBqgFBVV95cUxOX2libklWTlJGY2NIYU9SWHIxUHBaSTdTSmp5d25jOEp2ajd6QllTN1hIOVdZcEJNQjhoMjl2MlRUSUwzNG1mLVlaekNtdE9GWWJUWjg3RENQdlVQalJ4N1YyTXVtQVdiUTJIU3VCRWN5LWMxbW9TazE3eE5rZF9peS1yQlZRQWNLR2FGMXpvR3o1UTFCM05xRGdobzd4elItSnkwNGJjcGI3UQ?oc=5",
-      "published": "2026-10-29T18:55:01+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -104,30 +200,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Machado pushes for new elections in first news conference since returning to Venezuela",
-      "summary": "Machado pushes for new elections in first news conference since returning to Venezuela CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzJwTHNtZlp0VjBhVUhwV0FUdlMtWlJ6X2N2NVBxbU1UR3drZWxlcktQeVpWRm1rdWhEenBHbWs3WXBtUF9UcEh6Q3ByUVBRRXU0T3ZoWUlTa3g2NUUxdDZKYnBkclkyZ0hPa0p6Nm56QzdKRGV5Yk93OVU1eGVJN2N3?oc=5",
-      "published": "2026-10-29T18:10:43+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Even birds get jet lagged, study shows",
-      "summary": "Even birds get jet lagged, study shows NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yY08zVzNCZGtVU3RNaXQwWGFDZ0hseTlTdF8zUEFrTXRJQVo5RXV0dDVGS3RSQ3p3ZGRSekhIeFByNVUwMXAzRU85R1FVVmtzSDBiZndDY1ZiaFRLZ0g1SGp3MWRwdlZXTVNseEZxUGdQdmVSMVphN0dURnBtUkk?oc=5",
-      "published": "2026-10-29T18:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -140,27 +212,27 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "summary": "US and Japan agree to establish a Japanese facility for joint missile production NPR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3A3cTVGcWdwR1Y0S1FmOUVoRkJNZ1RPUzFfdWVHem44SFJpcVE2eU9BWXljUW44Z3YyYmZjOTM1dHVtY3IyNFlJTDRpcGpWaGZ0cHVFZ3lMR1IyWU9yaGtSVEo5M2xXWHdaelVSa0s5cm5BRi1GM1ZIT1F5dXNBdXhlVTQzbVZkbGRubkp5OC04OTFQeWxJbWdSdDJ2YTJ1OUxrVlFZaGxNNW1uMHJycnE0Sk1yaTRFc3JBZ1FVNEk?oc=5",
-      "published": "2026-10-29T15:58:27+00:00",
+      "title": "Ancient cosmetics, coins, mouse skeletons found in Pompeii home shed light on life before deadly eruption",
+      "summary": "Ancient cosmetics, coins, mouse skeletons found in Pompeii home shed light on life before deadly eruption CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDJaTE1SREZNR1drcUVLaXJ5aEhqVHptLXAzdVV0QlYzNEhZVXpnd2ljNmF3bkl1dENkODBuN3lvS1VCOE5sYXRhYkQybFRLUjBnNGNIUlJaRjFlQ1d0SXpjMFU5Tm5NWW8tQWRVbmJNLVFvMzRZeDBLYXpuSXlDa0pB?oc=5",
+      "published": "2026-10-29T16:59:11+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Inside California’s decadelong higher education expansion in prisons",
-      "summary": "Inside California’s decadelong higher education expansion in prisons EdSource",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNam5SRjN2a1Fid05qVUdCRENqbzR5NnNuc1RRaTNCU0VKSW1lZlZ5TEVSUmFRWHlGZzZxQllxcTByWlhTRzlGbVdyZ2M1OUhUd0w1RWxhUUk0d0ozeE5FZms2NUkwRGROdHJKSkZnSWktYm9KemQ1SzNKNFllaW4zdVZxWnpoQQ?oc=5",
-      "published": "2026-10-29T15:54:56+00:00",
+      "title": "King Charles faces renewed calls for slavery apology, reparations on Caribbean tour: \"Pay us what you owe us\"",
+      "summary": "King Charles faces renewed calls for slavery apology, reparations on Caribbean tour: \"Pay us what you owe us\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDJGWlpVUkNXYW1BN3hFV2lYOFFmTGZ3RnA4MGF3aGEyQVB3Z3Q4dEMzYlhpWlRwMEc3TjJsWkdVcDE0bFF1Z0owOEl5UkcyMkhZeTE2eUVfcGxHTWVrQVZZVFhaUU55SndibGc2di1XLUF0RmtsN3pLZ2J0cHRlMGNwU3ZmakFRYlRlSFBSbHFqcHg2?oc=5",
+      "published": "2026-10-29T16:24:10+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -171,18 +243,6 @@
       "summary": "Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show NBC News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVkyZWR3cmdQaGE1M1VoaThrZ0ozYnVlMkoyampQanVpTmpDSFNfb29QbVh2REF2YTRmU1dGeG9raGdCN09MQjVEd2RVS05sV0d0czFZaXFzWFU0Wm01Q0FWdzd6NFFYT1VvaVJzVk1Ya0ljczRGUjR5OVhOdjU5OWlfZGF1bXJhand4aEdYanJYakxTaGtrQzN3cEhlaEYzZ0YxY3c0bUlxaThlYjR4MzJn?oc=5",
       "published": "2026-10-29T15:51:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
-      "summary": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVVDBrNmp1dGlqM3Juc0tOaGU2M1gyaEprZWp4WkxNUVhiMG9MTFFmUDQ5WFpNS3FzMWo2dmhZYlI2RFlObFRETlItY19FSkF2dE5STGZZSEtXTkpoSmkyQUJCYm1FcVZ0U2FPMURJSmFycnJwaFRnZVE1NA?oc=5",
-      "published": "2026-10-29T14:52:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -207,18 +267,6 @@
       "summary": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlotb0paVDY2eWpBdHJpV2RzMDlrLXJkT3Q1cHZxSnJKWEJFMXVYdFlMRlRZaXNtX0F5VnF4RlBiMEptTGNoOUJUbHJ5akRzeDNJMnhsczlzeno2V0VtNmZuR0tjZEF1ZFYtVkUzV3gyZnZNTW1hM3ZMZ1RISGZ5ZDIxTy0?oc=5",
       "published": "2026-10-29T12:30:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else",
-      "summary": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3lRMlgzb3dDb0hGVmd6Y2k4c0R2aGIwSFlTTzJKT3ZzUGVWaDRtMHBQV2FZU2ZGbFRpS0p2V3BWQ3BEeHpQTjJqRzV5TEVOSGFCX1FBT05NYl9YZGJNOFdOcXV1SGRsUmViR1RpRUpXSndHLUdiRGUzaEdEVjJ5THBrYXBJVjNrMmx5aEhERQ?oc=5",
-      "published": "2026-10-29T09:54:57+00:00",
       "beats": [
         "Politics"
       ]
@@ -272,18 +320,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "iPhone Duo owners say Apple's new foldable phone broke within hours of purchase",
-      "summary": "iPhone Duo owners say Apple's new foldable phone broke within hours of purchase CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2F4Z3AxVzhmSDhiVmZKWktLeGlnVmZKdTlDbDQ4a3RqOTdOS1FJUDBZaFpSbW5mNlJPXzhYRHd3Q3hzb2YtczRIR3IzbmJfaENIbFBsc193MkhQaFVmOF9SMFEtYTdVVUVudkl1UlpiQWxXSFJTcjNhYTJxbFhMQ2ZzUFpVdmZxaWdocVln?oc=5",
-      "published": "2026-10-28T19:30:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -293,18 +329,6 @@
       "published": "2026-10-28T19:24:03+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Fed plans to eliminate some rate-setting meetings, chairman says",
-      "summary": "Fed plans to eliminate some rate-setting meetings, chairman says NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWRweGRCU2VUY3RzRjRaeXpXb1BEY0xxM1Y3aVVLYnQ1eUZ1Tl9xMmNaOG85d2hBU0ZVZmZ5RHYzamdldllkOFpPNEdYR2FqZ0tKVThCdHE2M0hxX09GanZCOWNURjkzRF92LUdEWmJOYTlPbEQ1N2lTRWc0ZmxpMzNDS0ZIblBSSFpsNDRETVFpZGZKQmlj?oc=5",
-      "published": "2026-10-28T19:20:11+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -320,6 +344,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Conservative influencer James O’Keefe charged with unlawful voting and identity theft in Minnesota",
+      "summary": "Conservative influencer James O’Keefe charged with unlawful voting and identity theft in Minnesota NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzdEWWNxZC15bHRXSFZEbk9MMnlveldwT2VEU3BjaVdJZkVjLXFfUXViYURfSzgyT1J6aXhqMU9jaUNfQkd1RzVTOWNORnJRcGt4cHZBOXU1Y2txckVpSm9CaXJ6YnRJOXJWMk9wZlRPMXNVT1ZEQmQ0SkMtUXEzcjhLc3M3eWFXTnNNaHNvQXR2TzBpa3RCdUVLMlA1dXFKd3RoTzRHem5WN0VYQWZGaGVVcDRXcWh6Z2pF?oc=5",
+      "published": "2026-10-28T16:48:30+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -332,50 +368,13 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Republicans have spent nearly $200 million on anti-trans ads in the midterms",
-      "summary": "Republicans have spent nearly $200 million on anti-trans ads in the midterms LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHhuLVZSYzE0bUctODZBT2hLYzZRbzViYkNfMnoyYzhFTVpQelBXbXRrZGU0dDdlZjJtdjVGNUZ3WFNUdzZVVkdfVkE1VmxYN1BWZU1HdUMzZjhUM0tUMnk5ckRDR01XMFowTUtyQkVMU3Q0a2NGZ09GdUx6NHp6ekJEUGkxUTVia3J4bzlpcGJtMUNyVEw4YTl1S2l4amJJdWRwOXlNU0VEUFFybmJVQVV3?oc=5",
-      "published": "2026-10-28T13:30:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Parents’ rights, shifting politics: Here are 3 tense California school board races to watch",
-      "summary": "Parents’ rights, shifting politics: Here are 3 tense California school board races to watch EdSource",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU95RXkxR21NcHdoM29aRGlaeFU5M3JUXzdBRDBXUzlUNW02d3FCTmpUT3VRdWhNdTNobmxmZE94S1preWlXdHNNbmotRklnd1luS1JBTlFDblQzVVRrNkxpQ1RsNGxTS3VqQjd1NndDeUl1bGd5bTJkTXRueEVBZlEwSdIBiwFBVV95cUxNRWozT2s0YzctVXFDcGNmUzV4WjVDazhkV2hudU5jT3N6NkZuZzdfcHJkZnp1dW9YMjUtbEJBZlFLaElBVUZKMmhSWEVBLWFFSVRFX3ZINlZQQVRrWlc4akVtb0c2dDJ4TkFrai0zWUFOeF9EMTdoWlgyaTNUQnJYQ1pRSG1ycHZQemxN?oc=5",
-      "published": "2026-10-28T07:13:41+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "The Data on Teacher Absenteeism Can Be Misleading. Here’s What to Know",
-      "summary": "The Data on Teacher Absenteeism Can Be Misleading. Here’s What to Know Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanY4cVZvUi0xU0JUS216Rnlyem1JVFhuaXZHMjVxenUtUHJlbmxULThkUFdmdVdIbDBNdFJKdnA5a3liZGplMUZLTktwZThwWkJNMlVsaEhyV0pjYnF3bGs2TGNERDZTSW1lWG1MSkgwV2U1MktibHJNbE1pdUp5U05aQzkwZDd0bEhpcHY0THJjQTk4bGVKb1hiWDRCUFdKOHR4ZzRNV2Q5b0hVZ1JtVmc2ODNSRVhH?oc=5",
-      "published": "2026-10-28T07:03:48+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers",
-      "summary": "Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0FzeGhFMkxTUjI1WnRfTmNaYm5Ld19Nazc4Y1JMSGtIMmhyLVlaR05KRk1YaWxCNGF0RTlUeWVfazdIdi1vSXRWRk9TczNGWUZRdHNhWU1ERWZiOGtMdFhxMDZUNmpFUzdFRUhtWi1ib0JsSXkwWjRtQ0NIeFVrR2hwd0cwWXV2V1BJaHhBYk93ZFBwREtlNW13UWQyd1dCRlE?oc=5",
-      "published": "2026-10-28T00:15:00+00:00",
+      "title": "Nonbinary Georgia Democrat Bentley Hudgins set to make history: ‘Hope is a discipline’",
+      "summary": "Nonbinary Georgia Democrat Bentley Hudgins set to make history: ‘Hope is a discipline’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkNPWllRSExseGY2SlJWbU9QSnlCUDNRZHNKejg5QVNQSFVJSUNDRGJnNFpDV2FwOTVRZk0tRUxTOFJCVEtpQ2tSMWZJN0dIVUtDejFBTXJ0dEtLeW4zU3lRZi1nU2hkZS1jTWtqWl9SdzNBZjJBWi1yR05idnhwNlE4UE5GM21JTUVV?oc=5",
+      "published": "2026-10-28T14:07:57+00:00",
       "beats": [
         "LGBTQ+"
       ]
