@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T13:21:46.074284+00:00",
+  "updated_at": "2026-10-30T18:45:54.180613+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,49 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Why bitcoin held up better after the record Binance hack",
+      "summary": "Why bitcoin held up better after the record Binance hack CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BVTNTUE5pZ2JEMjNpbGdNLWk2bWtKRmdsOWk0UnIxM19xcTZJOFdpQTRHUUtIY0w0N2lnSk5jclRzbTMzaFF2QlZpZmd5bU0xMmwxVFY1dmNtbXVUQzh4MW5pTFM4dzBOcHlWYkdLUE_SAXZBVV95cUxOd2xaRHdBVkgycHg0eTBYRE9DdGR5Z3I3M3p3SG9pbUR3THRPNEhVRGstaXZlQ3VQX1BRUFRrQWY2WXdkTjdlMENFNTZkVFVKOVlJOGxlRm9vLWZZOHh2c2w1aEZEdWZVRHc2YVFZRVBCWGYyY3d3?oc=5",
+      "published": "2026-10-30T17:54:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "summary": "ICE activity is surging ahead of midterms. So is voter turnout. NPR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HY3U1Sm84SDcwTE5zVHNVdk54aGt5YTMzNzNUT2pnUHZYby0zQ2x0akF6MkFuakE5eDN0aWtIeGktSU5jUmI5andWQTFVNGtLQmNZSHU3bGY3Vl9TZlRGeEdyRnpnc0lnOXFvTE1hbXd0YXUxVF9TMHNWckY?oc=5",
+      "published": "2026-10-30T17:45:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "ICE officer indicted with felony in Texas after allegedly hitting man with vehicle",
+      "summary": "ICE officer indicted with felony in Texas after allegedly hitting man with vehicle CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1BzZW5GbUx4VGhzdmt3SF9tT0d5SW5QQ3h2NXhvMmxSUmxvNXZSSWp1UHZ5NlhucjE2aFdLTG1ZYXN5RXBWNHJGTk5wX2xkam05R0wwcUsyckZzTlhReUxWYWRJazFCVDFFVTNYQk1XaUZmX2JwdURQX09PVDM4bF8xa3NBdw?oc=5",
+      "published": "2026-10-30T17:26:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Trump Cancels Rallies in Kansas and Iowa",
-      "summary": "Trump Cancels Rallies in Kansas and Iowa The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PTDRkQlY2RzdfS3FhcDV5Z3VOSXVTVE9lc3pIWTJBQTZZOW1SdkFUN193Qm1fSUtPMGZFODJnLTJuWmhvV0F0eTJsUFlGeFBieHNGVmlUM2R3ZUEwamlnejdESUJxRTFockRTQVVDM1pzR1lvU2c?oc=5",
-      "published": "2026-10-30T12:19:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
-      "summary": "Wall Street sell-off continues as investors question returns on massive AI spending CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByUnNNYXM0dTNpeXAwcGJGWnBKODNxWEZFaHFVR3ZwZFpqb2ZSX1VDVjdxVnc2aElIYk1MNFRtd2NEUE81dnZGbGZBN25CRUJIWHJUQnpOdEMxVXlyTUd2UDRFUmlhSE5JMmNKeFpibzgtZw?oc=5",
-      "published": "2026-10-30T12:08:03+00:00",
+      "title": "New York Bought an Electric Ferry. The City Can’t Charge It.",
+      "summary": "New York Bought an Electric Ferry. The City Can’t Charge It. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11d2Y1ZDlkTUx1WGpXS25EVnVneHFRQ3RaQkRqbmJZRzljWC12ZlBuS1pCSGpFUGFFTHdqTllTRHN5aDFQQVY3d0trOXpzRUllVkJMVTUtcnFDR1prckpYQWpZamhVTnBKQzNiemNpNnB2akF2cXZFdXRFRDZfaGc?oc=5",
+      "published": "2026-10-30T16:40:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,22 +71,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
-      "summary": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw?oc=5",
-      "published": "2026-10-30T11:30:01+00:00",
+      "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+      "summary": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWpsMTBpSFJISFJGU3JJRTRJUVlSb3hoLUR1S2o3bDJoZklvWEFEeXRYeGU2RmJYbFF6UWdLNXQzLWVqdTQ0LUwyeTJBZlhiaTdHTTBJOUNROE9fN1FKT0Z5ZmNFRjA4ZHNyRU1JZ2EtT3k3ZEJDeTh6dE1YV1U2MjM1RThFb3RqZm43WG5KVkdUd9IBlwFBVV95cUxQY3Z1VGo3RUR6WFZJOEllamxMeFpybk9wREM0Ry1WazlrdmktWDhweV93TWM0bFdtc0I1VnFyZm5RVmtKWXZMLVo4TFJOUXBtMEpwTjBhMDY4RVY1QzlFYU1jVGpST2xSWjloVXdIcGJtT3VMT2ZmRTdQV1RuNElNSmhnNktEeWYzTXRIbVVLNE9FaDE5MVBN?oc=5",
+      "published": "2026-10-30T16:33:03+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
-      "summary": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tb1E2RUlEMEF6bnRIR3pVdldZV2dkcnVPUlJsRzItb0JYYnVCZjZxRE42ZWRsQU5EWVQ2YjE3QnBtbVpDRExhdE9uYTBOcWlrYWJ0aHBGSWVyejhlZzlEUDJhdFBOTHB0SXBMSUZoYUVoWFZRUGc?oc=5",
-      "published": "2026-10-30T11:21:56+00:00",
+      "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+      "summary": "Fed officials are already saying they’ll need to get back to hiking rates CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0hqSXZpT1VZTUNGSkRVSkVaa092QjVSaGt3ZHlpM0F6RENCYlA4U3A4V285MTE0eXp3aFNKNXVjSVVjTEMwbXE1aV95NFJHOFdxMElwWTBsZ05oYjdtWVlmZkFQNzlqMzV2cldpekQxZGVqSTJ6ZXpSc205THRQYdIBhgFBVV95cUxQSU5zQlBqM3NxZWNyWnU3a3NHOEMyNUFZdnh3WW9KOWVDNUh0Q3pIRUdkYzZoZ1lONi00cUF6NmNxM3FGN0ZYYzVoamo1ZHJ1LXBkLUFBVUFBREgtVWVEWFh0NTJnOGQ2T09TUmNpX3dFYjZRS29SSjlFMlk0T25DamNmVWtndw?oc=5",
+      "published": "2026-10-30T16:30:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,34 +95,10 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Internal documents reveal scramble for funds before around-the-world \"forever cruise\" was stranded",
-      "summary": "Internal documents reveal scramble for funds before around-the-world \"forever cruise\" was stranded CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNNHRueENSemhDTnVobEZyUGtrWm91YXZkcHM4QTBnSk9uc3lQOXlteHRzamJtNmlXMHE2QXRiaTlUTFQ3RHFHeHp1MFBKbFRaaHFuOVhZYzBmSzdNd2xfMGFEbnNGUFpjQ3dSRXNZYXZjTS1tWnZVRnBVSDU?oc=5",
-      "published": "2026-10-30T11:03:26+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack",
-      "summary": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tMXZKWmdhTXNiUV9GZGxzcUNVLUtxUVZTdFFleUhzVW5WWDFNanZPYlRFS0poWDBjREp4TEtTRTV1U1h2MThVMDI5ZF9YSmx2dnQxRHVMd05STkdFcDJlalppLTY5dVI5anliVDViZjllRmg3ZzlDUGxpb1pDNVHSAYQBQVVfeXFMUDN2REVrN0hQMWtxcjRNalQ4cFB2V1ByQnNQYVR3M1NtV3lwTGtlRE9VdjRmM3dYZmNpZXg0NkJtaTBJUnhkNkJkXzdQSW5wUXlxTnN4T1ZEbE90TklEa1Q5azZIdjZRcno3RGpGUmFpdEg1LWRiendMNWpOaUhpbDd5eEwz?oc=5",
-      "published": "2026-10-30T10:36:55+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices",
-      "summary": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUtEZDlSYlRxdzlwemJMaWx3SWtJSTZNNDdYak8xQzVtb3NpRGZyMDNidzFrREphRC1wTy1lZEJxaVRfSTg1S0xQMFA5cUZOOEdNYmN2N25Edksza2NLZWNMVENyZ0tHMnNZWTlaQThIYVhsM1ZyMmF1NkJRSmM0QdIBhgFBVV95cUxOdkZubVVpUVpEOUhYd0hmR3h0cWZxbWo2Q2phT1NNQ2drZEEyZ19aZ1lVYzIxV2FselR0TXNBeW4wLWVxYkpKU2t4c0tYeHhrX25NZjVDX21fVUduY0VOTUM1eF9vWGd2clgwci1qVlpIS0VidFhpblhPclV3MXpKS1ZPN1gyUQ?oc=5",
-      "published": "2026-10-30T10:17:44+00:00",
+      "title": "Novaya Gazeta, Russia's last independent newspaper, \"no longer exists,\" as Putin erases the free press",
+      "summary": "Novaya Gazeta, Russia's last independent newspaper, \"no longer exists,\" as Putin erases the free press CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQnBGM09RRDNTTzJlSWdtYUhOTUowZHNxdU1SYXQwN2ZVNmc0MnNPUkFPUVpkT2FUVEVMdk1wS2FQUndDcmRhakgzc1d1MkRuYXBVVWcxdmNYb2I1N3JYYmZFS3NtSF9OVWxnTDJtU1FqOUl5bk5pUkJHemUyNXRjT2hUTElxX0xHeS0ydnl5ajhFanluR2VEWnNR?oc=5",
+      "published": "2026-10-30T16:03:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -107,10 +107,46 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Israel is in a political deadlock. What comes next?",
-      "summary": "Israel is in a political deadlock. What comes next? NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQm1RR0tXZ3BmR3NSekN1T0xaN0hCX1hGQ2thWWZER0pJMHozdVVKSEF4MV9MMTE2cVhTSDZPUVk0ai1kalM0NVdUbXJNRVNQWnhhZ0xSTnV1QnlPZThDdWVSXzJZTWtWbmFlT3VwZFFkV00xcXZEdTJudV9HdFVWM2xZNEtzZUd6Znc?oc=5",
-      "published": "2026-10-30T09:00:00+00:00",
+      "title": "5 takeaways from a year of listening to swing voters",
+      "summary": "5 takeaways from a year of listening to swing voters NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXFoTDdONUtqZGtXR195OHNkcWdrVUNEeEtRZGdYYmxKOGFlYU9haG5qQWJsWlVtOXpGSTJmNHZBNUMtWkgzN1hXU2J1cWc2MnNwczVJY05HSkRvUFRCRlNkZlB4NURGWVMwWEUyNngwV1dpMk9fRTF4ZXBDZldtUVl0WkdYcGRf?oc=5",
+      "published": "2026-10-30T15:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Elon Musk Predicts End of Democracy if Midterm Elections Favor Democrats",
+      "summary": "Elon Musk Predicts End of Democracy if Midterm Elections Favor Democrats The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXBYeTNiVVN1dFBCS0dyNU16S0xQRWZDa01ZaWVYRGQ1dGxCUE5rd2tRU09laGJmSVlDSXh4Y0ZZYnN0TkdiNWsxU3lvT25tcTBscGkwczJmblVJVzlkNVpVRTQ4TEdLZ2hEU1dfaGl3U0RjeGxtT1JQSWFGaUpmRjlQSWE1QQ?oc=5",
+      "published": "2026-10-30T14:44:54+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Christa Pike makes first public comments since botched execution: ‘Healing is not the same as being okay’",
+      "summary": "Christa Pike makes first public comments since botched execution: ‘Healing is not the same as being okay’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fQUVqaGNoeTJDUXhZZDlrY2RuM1V3XzRGT3NOMjVid2w4TDV3QUZyN2xwUm9pd2JRSjNtUXV2U2FQUVZNRFctdHJadmdsOWRMb0VGUkIxdEVlTTgwVjRjYldib2g2M29aR3hnaFlCa1hUVG1WNkE?oc=5",
+      "published": "2026-10-30T13:22:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Pope Leo makes history by voting in US midterms",
+      "summary": "Pope Leo makes history by voting in US midterms CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oNkJnTTQ0TDRsbVlLbE9qV2JBRUlSTzZJbmVIY2hnVENNOUhXYVNGVTRVTjB5WUlIQ1FtbTg4YWdJRUJEWFl1Y3NBMVNjTnotMElYcnlrT2RMUWNBMm9BaVNKZktlVHlVX3ZJX2ZSUDlKRVdlU1l3WnF3?oc=5",
+      "published": "2026-10-30T13:13:56+00:00",
       "beats": [
         "Politics"
       ]
@@ -119,10 +155,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Trump's VA killed a home loan program. Thousands of veterans are paying the price",
-      "summary": "Trump's VA killed a home loan program. Thousands of veterans are paying the price NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDJ2dVNPTF9vUUh2cVlReER4ejByUkd4cWF4YXhMcU1oeWVJOTM5WENIM2x4YVJxRlZwWVhSR2JTVGlVdG0xY3JYMzNBbVRjREZLMXJnSGFQcC12WTFYSTF3LWVHYVcxVUFrSllZLUd6RkN3SkhwQml3cGxKVklCUnBqRmNyOUtvaG9oSVNBWWg?oc=5",
-      "published": "2026-10-30T09:00:00+00:00",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "summary": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance NPR",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWFlVzVpaEVmcTc1dzZKLVlNWURoTndtMGdNV1RtcHd1c0RDNk9XMzByQmpfQjVrWjRXNmhWUml5Z2U3dl9hR1dTZzlGTVZaQXNnRERrczlSYUM4U2RMSVZoWFhfMjdTSy00Q2w5eXZkZ0tMX3FFWEZUaUpad1dUdTNVVU4zTnVSSXdTNWFWdHRZZUtyTVdDX3F5bFRSOHFlcklMUFRSR09ZR1NzVjVBX0dYRQ?oc=5",
+      "published": "2026-10-30T13:01:22+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,46 +167,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "‘We just have to bother the crap out of these people’: How the GOP is confronting its voter enthusiasm deficit",
-      "summary": "‘We just have to bother the crap out of these people’: How the GOP is confronting its voter enthusiasm deficit CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWo3U1NwYnFaWVY0X0xnbnctUmtOOVk3c3ExQkJlVkVzcElmTUtualhlZ0wxNG1RdkpaSHpQTUxBZV9qUUk2OXRUSkRmNnRUVDg3aVpUUDllR0NhSFBEMDd1WjRQemd1MDhIdWZKcWV1N1hYOVBXVWJGYkFYRzhFU0JEdWtJT1VmYVdZSA?oc=5",
-      "published": "2026-10-30T08:00:16+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "If Republicans win the midterms, Elon Musk’s money may be why",
-      "summary": "If Republicans win the midterms, Elon Musk’s money may be why CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGlHajdidFFLSW9YVmg5czA4c25ucEZuMlE2VHVHZm53dHBIVjB5WnB1S1ZpUWdwVlBCOE1pLXdRT01vekU4VEo4RkpKQldwZDB2c09wLVYtdlowZWxKOXY3WnRaTGpNaHlqVzhGd2pRRC1rMFZJMnJiUmRUYUdwRGY3UWs?oc=5",
-      "published": "2026-10-30T08:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Red state Democrat praised for \"excellent\" response to trans rights question: \"God bless this man\"",
-      "summary": "Red state Democrat praised for \"excellent\" response to trans rights question: \"God bless this man\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQUt6UUtOX21DTFh5clJMdnJkdTJTVW1uWGNsbEduUzRaRDYxRFVsQVRwN2cwdUxzSS1pSUdoT2FtaERqejNBU19yQ1VhUVRucWJuZjV0UDd1Q0V6d0ZzajNRdlVEa2p6cTlycnZfck8xVE55M01ybGpBRkk4ZlJjZE5LV2h1OGkyYzBza2MwVmdMaEVwckh0aTdUVTRZUVA3ejJRcnBMZzhSZGNqMFhyREtXNVFBbkRIQ1Y1TUlxUURnTmRvMEVyNEVR?oc=5",
-      "published": "2026-10-30T02:31:55+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Former Chicago attorney sentenced to 7 years for sexual assault",
-      "summary": "Former Chicago attorney sentenced to 7 years for sexual assault CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3pyY2duQlM4a3RWdEZkWjJFRkVSMnUzQlJTVURiLWRrcU9HRmM1cDJyMXZCclRiZ2t1dWF6cldUZFc5RTZsUUhDSW1oQkFoN01tT2hRTjhzVFQ3d1BSd0VyYTBFWmNGaEs4Qk1qMThXN256cC1VY1FIaVoyblJXWFJKcFU3MlA4bWtNUXNnRGY0TmRteXdSd3N3ZU5kNzJuTEdF?oc=5",
-      "published": "2026-10-30T01:07:00+00:00",
+      "title": "‘This can’t keep happening’: How divorced military spouses get trapped in foreign countries",
+      "summary": "‘This can’t keep happening’: How divorced military spouses get trapped in foreign countries CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUFFnZ0huYWx6ZDJaVUJGMGpackdNcW93YTZtRDJXdU1neXRmcnZ4Z01MRFp0dmxvd1N5alB5SjVvNXc3TjlHMDZVQUxDa2ZCWG1QZU5pSXNEN1FsOEZJVzFYbWRwV3pmQnZCeDFYZEZTakl1dVk3YzlKbWJ2SzRHWmY4Zm14aE4yaFdB?oc=5",
+      "published": "2026-10-30T10:00:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,13 +188,25 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
-      "summary": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONUI2U3RmNnc1bktnSmZjbmRCSDlYbFp2Rm11bFpWSExvQjE2M1p0OXVyTUFFNG4tRWNxR0IwM0dJS2FWQTJHdkpYcjBvT3hpQ1hveXozazFWLUEzWXV0S3k1NDB1ckg0NkRib2taWmhYeEtvN2ViWktuei1JZVFSYnV3?oc=5",
-      "published": "2026-10-29T22:20:51+00:00",
+      "title": "Top general fired by Hegseth amid leak investigation",
+      "summary": "Top general fired by Hegseth amid leak investigation NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGVhNEptY3lqZjNfaWl3UnRtaWhvQzRfdHJvRUpJdkZyY0Q5ZE53dHh6QnFOOUU1Vk9Pc1ZsVDRvVjh2YWN5MHVFM0xJV19LVTBaQm5CbHNmLVc0U0ZaQ0sxdkVGZkh3MzI5TXJtMHRFSnRJQVhjQTFNTHJHbzJCc1QyeHhvUTNBTG1GSDZPZWxSc0Fsei13ZnY5VzVHZnNoRUpJZ0NXVDVUZw?oc=5",
+      "published": "2026-10-30T00:08:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "DOJ issues new subpoenas in Alaska Senate probe, asks judge to intervene over \"conspiracy\" involving 2 Dan Sullivans",
+      "summary": "DOJ issues new subpoenas in Alaska Senate probe, asks judge to intervene over \"conspiracy\" involving 2 Dan Sullivans CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMERZZGdLRXRqRW93OUpDMFVfaF9oems5V1llRklZTXN3Mlk3THNPMmhyUVY1NGxFSTZKUFFGUjJaOU1kOC1BMk1pTVVpQUp2bUhCcmcwZnUwYVdJWlNhX0JxS2Z6MHFzRUJFS0Y1S3lRaWc2VC15aFRUQ2VGV19TbnBieFE2dFp3RTRDOWtmcVA?oc=5",
+      "published": "2026-10-29T22:35:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -248,6 +260,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
+      "summary": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONUI2U3RmNnc1bktnSmZjbmRCSDlYbFp2Rm11bFpWSExvQjE2M1p0OXVyTUFFNG4tRWNxR0IwM0dJS2FWQTJHdkpYcjBvT3hpQ1hveXozazFWLUEzWXV0S3k1NDB1ckg0NkRib2taWmhYeEtvN2ViWktuei1JZVFSYnV3?oc=5",
+      "published": "2026-10-29T19:41:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -284,27 +308,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Abdul El-Sayed's faith and family have come under intense scrutiny in Michigan race. Here's what we know.",
-      "summary": "Abdul El-Sayed's faith and family have come under intense scrutiny in Michigan race. Here's what we know. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWJoY0VlYnlYX2pkc0VqbVNHY0VsR0RfejRKZHBUcTVMUFVYNk51WXFJU3FxQk50d193aUZRWTlpYWhaSFIwa3g3MXV0cTF1Mk1UdHlubTdWZFpqcFNOcUc4MDg4MUo0WGluMGRYRVRRcFAxSFMwY2FpTV9sVkZveHlEc19oODZBVUE?oc=5",
-      "published": "2026-10-29T14:42:48+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Dressmaker said her \"religious beliefs\" forced her to discriminate. Now she has to pay the price.",
+      "summary": "Dressmaker said her \"religious beliefs\" forced her to discriminate. Now she has to pay the price. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa215eEcxdkg5eDlxZnBwcDVmcmZWX2hZVVE4Z25mMDZuT3VVaGhueFRUZUFyRXZXRTBBRmVQTHlsXzVwaVRtRDZvOWNBUGhtSkxZUldRZk1mbzNnOVhEa29OeUI4QWV2cmdCWUJBTld6V253dzFLTktLNjA4MS1JMDlESXV6R3R5MDRfVFZER1YyOGlQX1Q4aWZjZm1aeGs4R1pscGhUSlE0amdsb3lveEJVMUxZU0FsSGpGNDZZV3BiNFRGWmk0ejdn?oc=5",
+      "published": "2026-10-29T13:30:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-      "summary": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "published": "2026-10-29T09:01:52+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -316,6 +328,19 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmRKRUoydFd5Tm5GNDRnX1dPcXNaOEdOelVGSzdHVkJVblVFb0FDVjl4aExkNkg4QWRkM2dqZ0hDTlFkV2Fwbmhlb2dVbnJsMkNYYTZsUHZob2tXYXptMXo4a05kNFVDUEd2THNXMkgtdkxQcmgybE1mNUMzUjJDZGxhVmJ0UW92cm1iX1hWOGFoRTRUQWg2WDNPU0pObUdTNjYxTA?oc=5",
       "published": "2026-10-28T22:13:36+00:00",
       "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "A Maryland district changed its pronoun policy. The Justice Department still sued.",
+      "summary": "A Maryland district changed its pronoun policy. The Justice Department still sued. K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjFncXdOZm9uNXVBZ2hraG0xU253SUFpNkRwZjl5UHdRVWowZ003Wk1zcXhGUkNIZWlKYXlSLTFoUzFZQXpNSUpnOWZxTkJkdTZoNzZBUVUyQVJ5SEZiMDQyeDdKcmZFZDY4RXdGZDVzUVB0WTRMOGloa0Y5ZHFmcDMyS0ZGcWV3WVBfRDRWS3pOcXFrRDlycV9rWVI4enZZSF9kajJjT2pwalN2X1J1VA?oc=5",
+      "published": "2026-10-28T21:49:03+00:00",
+      "beats": [
+        "Politics",
         "Schools"
       ]
     },
@@ -353,30 +378,6 @@
       "published": "2026-10-28T19:24:03+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "School Funding Is on the Ballot Across the Country. Here’s How",
-      "summary": "School Funding Is on the Ballot Across the Country. Here’s How Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSG1xMGJSQ19tbGxrOWFIbG9MMkNUUVRGUkdfTEt3MENNY3VpVU5RMzZaTzZ5WWhiMGR1RkZOYjU0c1JmcHprdlpaYzlhYWJFUDh3NUVCM0o1OURtTEY5SW5xbXZJOWNjWklyZzVuWi02b19lampfSExfZWtzMlVkTTNfc3pCUjU5Nk9QeUJ0a0VWQXQ4dDVZbHA5MElOTXdHbmFKMDFpLUhxQ28?oc=5",
-      "published": "2026-10-28T19:03:49+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Conservative influencer James O’Keefe charged with unlawful voting and identity theft in Minnesota",
-      "summary": "Conservative influencer James O’Keefe charged with unlawful voting and identity theft in Minnesota NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzdEWWNxZC15bHRXSFZEbk9MMnlveldwT2VEU3BjaVdJZkVjLXFfUXViYURfSzgyT1J6aXhqMU9jaUNfQkd1RzVTOWNORnJRcGt4cHZBOXU1Y2txckVpSm9CaXJ6YnRJOXJWMk9wZlRPMXNVT1ZEQmQ0SkMtUXEzcjhLc3M3eWFXTnNNaHNvQXR2TzBpa3RCdUVLMlA1dXFKd3RoTzRHem5WN0VYQWZGaGVVcDRXcWh6Z2pF?oc=5",
-      "published": "2026-10-28T16:48:30+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
