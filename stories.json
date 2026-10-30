@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T06:15:49.261144+00:00",
+  "updated_at": "2026-10-30T13:21:46.074284+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "World’s largest crypto exchange hit by world’s largest heist",
-      "summary": "World’s largest crypto exchange hit by world’s largest heist CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyUEVsWWRXQy1KRWYxSEpia0lYb29BQlhjOGZWbVdoXzd6NmpwVzdEVlpBbmZUMDVQRlp3aldhbEZRcHQ2TEM5ZFJPcDRybGNZTUQ1ZTBhNWVRaXl2Y1NpNWlmR1VUS09BMmhyQXQ0cEVUdUU?oc=5",
-      "published": "2026-10-30T04:08:21+00:00",
+      "title": "Trump Cancels Rallies in Kansas and Iowa",
+      "summary": "Trump Cancels Rallies in Kansas and Iowa The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PTDRkQlY2RzdfS3FhcDV5Z3VOSXVTVE9lc3pIWTJBQTZZOW1SdkFUN193Qm1fSUtPMGZFODJnLTJuWmhvV0F0eTJsUFlGeFBieHNGVmlUM2R3ZUEwamlnejdESUJxRTFockRTQVVDM1pzR1lvU2c?oc=5",
+      "published": "2026-10-30T12:19:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +35,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "The deeper question raised by the anti-Muslim attacks in Michigan’s Senate race",
-      "summary": "The deeper question raised by the anti-Muslim attacks in Michigan’s Senate race CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MW1uampBdHZBOVo1MVk0d2g0QkNQb2otbUNjcElwOTQ3dUo2d2xhZTROZ01EMHRfNkRqRVhZelFvSjZSdDVCZnh2a0NZOU1JV0U5RGY5dGJXZVI1RWtDc1pDcFV6TUUyQlJLVHZWN1Q5TlowY1BBQg?oc=5",
-      "published": "2026-10-30T04:01:15+00:00",
+      "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
+      "summary": "Wall Street sell-off continues as investors question returns on massive AI spending CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByUnNNYXM0dTNpeXAwcGJGWnBKODNxWEZFaHFVR3ZwZFpqb2ZSX1VDVjdxVnc2aElIYk1MNFRtd2NEUE81dnZGbGZBN25CRUJIWHJUQnpOdEMxVXlyTUd2UDRFUmlhSE5JMmNKeFpibzgtZw?oc=5",
+      "published": "2026-10-30T12:08:03+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,22 +47,106 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
-      "summary": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcjZLZHRxZkVSV2NDbHE3ai00Q1R6bE52bUJPUXhTSGFkNWJpRnhFeFdMS3ZZZFNod2xvLW14cnBzN1VGYXBkZDliV0MwRm5XcVE3djl6UVpqVEhVWVZGMjdyR0o5U2Jua0k5V2FkTGR1aVptSE9OX0dYQ3ZTREZnWktxamJjdXhheWJkMlpoVl9iZ9IBlwFBVV95cUxOTmJZay1naWtSSEQ5V1JFTnduMnNxMmh1NGFQOVZ1eGplRFRxall0cFd4RExKQzRBZGhCb3YxT2RRSXhqVTRaSTdzQU80NUFCNE91cUpsWnBPNFcxUTd1OEtfcHBKd0Z1Y3JJM2R5Zy1Xc09MSWVhRDBZWGdoN0VuWHhuVU5ha2kzX243NUNja1hWTEdHc093?oc=5",
-      "published": "2026-10-30T03:28:00+00:00",
+      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+      "summary": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw?oc=5",
+      "published": "2026-10-30T11:30:01+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses",
-      "summary": "Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNalhWVEdtSDdxZGJrZXpzTU1ZU3pweTNGQzA0MjVMenhpdDZNWnR5TmFfRWxJSDA1U0NfT1Z4aDdhckM2OEV0UlROTHAtdUxlNjk1VWZzSWtQdjJJVEplYV9QN243dHJTY1VhdkxEaEhEV0laaFV5RW12S3VUZl9KTlMzMUI2eC1xeW5HQ1F0dzBRZDNrMVQzNFNvZzUzeTVZUU1mZm04ODR6SXNvUWtOS0VzcjdPdkZZWjk2RWtZZUtSZkk1aGc?oc=5",
-      "published": "2026-10-30T03:07:37+00:00",
+      "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
+      "summary": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tb1E2RUlEMEF6bnRIR3pVdldZV2dkcnVPUlJsRzItb0JYYnVCZjZxRE42ZWRsQU5EWVQ2YjE3QnBtbVpDRExhdE9uYTBOcWlrYWJ0aHBGSWVyejhlZzlEUDJhdFBOTHB0SXBMSUZoYUVoWFZRUGc?oc=5",
+      "published": "2026-10-30T11:21:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Internal documents reveal scramble for funds before around-the-world \"forever cruise\" was stranded",
+      "summary": "Internal documents reveal scramble for funds before around-the-world \"forever cruise\" was stranded CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNNHRueENSemhDTnVobEZyUGtrWm91YXZkcHM4QTBnSk9uc3lQOXlteHRzamJtNmlXMHE2QXRiaTlUTFQ3RHFHeHp1MFBKbFRaaHFuOVhZYzBmSzdNd2xfMGFEbnNGUFpjQ3dSRXNZYXZjTS1tWnZVRnBVSDU?oc=5",
+      "published": "2026-10-30T11:03:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack",
+      "summary": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tMXZKWmdhTXNiUV9GZGxzcUNVLUtxUVZTdFFleUhzVW5WWDFNanZPYlRFS0poWDBjREp4TEtTRTV1U1h2MThVMDI5ZF9YSmx2dnQxRHVMd05STkdFcDJlalppLTY5dVI5anliVDViZjllRmg3ZzlDUGxpb1pDNVHSAYQBQVVfeXFMUDN2REVrN0hQMWtxcjRNalQ4cFB2V1ByQnNQYVR3M1NtV3lwTGtlRE9VdjRmM3dYZmNpZXg0NkJtaTBJUnhkNkJkXzdQSW5wUXlxTnN4T1ZEbE90TklEa1Q5azZIdjZRcno3RGpGUmFpdEg1LWRiendMNWpOaUhpbDd5eEwz?oc=5",
+      "published": "2026-10-30T10:36:55+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices",
+      "summary": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUtEZDlSYlRxdzlwemJMaWx3SWtJSTZNNDdYak8xQzVtb3NpRGZyMDNidzFrREphRC1wTy1lZEJxaVRfSTg1S0xQMFA5cUZOOEdNYmN2N25Edksza2NLZWNMVENyZ0tHMnNZWTlaQThIYVhsM1ZyMmF1NkJRSmM0QdIBhgFBVV95cUxOdkZubVVpUVpEOUhYd0hmR3h0cWZxbWo2Q2phT1NNQ2drZEEyZ19aZ1lVYzIxV2FselR0TXNBeW4wLWVxYkpKU2t4c0tYeHhrX25NZjVDX21fVUduY0VOTUM1eF9vWGd2clgwci1qVlpIS0VidFhpblhPclV3MXpKS1ZPN1gyUQ?oc=5",
+      "published": "2026-10-30T10:17:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Israel is in a political deadlock. What comes next?",
+      "summary": "Israel is in a political deadlock. What comes next? NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQm1RR0tXZ3BmR3NSekN1T0xaN0hCX1hGQ2thWWZER0pJMHozdVVKSEF4MV9MMTE2cVhTSDZPUVk0ai1kalM0NVdUbXJNRVNQWnhhZ0xSTnV1QnlPZThDdWVSXzJZTWtWbmFlT3VwZFFkV00xcXZEdTJudV9HdFVWM2xZNEtzZUd6Znc?oc=5",
+      "published": "2026-10-30T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump's VA killed a home loan program. Thousands of veterans are paying the price",
+      "summary": "Trump's VA killed a home loan program. Thousands of veterans are paying the price NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDJ2dVNPTF9vUUh2cVlReER4ejByUkd4cWF4YXhMcU1oeWVJOTM5WENIM2x4YVJxRlZwWVhSR2JTVGlVdG0xY3JYMzNBbVRjREZLMXJnSGFQcC12WTFYSTF3LWVHYVcxVUFrSllZLUd6RkN3SkhwQml3cGxKVklCUnBqRmNyOUtvaG9oSVNBWWg?oc=5",
+      "published": "2026-10-30T09:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "‘We just have to bother the crap out of these people’: How the GOP is confronting its voter enthusiasm deficit",
+      "summary": "‘We just have to bother the crap out of these people’: How the GOP is confronting its voter enthusiasm deficit CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWo3U1NwYnFaWVY0X0xnbnctUmtOOVk3c3ExQkJlVkVzcElmTUtualhlZ0wxNG1RdkpaSHpQTUxBZV9qUUk2OXRUSkRmNnRUVDg3aVpUUDllR0NhSFBEMDd1WjRQemd1MDhIdWZKcWV1N1hYOVBXVWJGYkFYRzhFU0JEdWtJT1VmYVdZSA?oc=5",
+      "published": "2026-10-30T08:00:16+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "If Republicans win the midterms, Elon Musk’s money may be why",
+      "summary": "If Republicans win the midterms, Elon Musk’s money may be why CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGlHajdidFFLSW9YVmg5czA4c25ucEZuMlE2VHVHZm53dHBIVjB5WnB1S1ZpUWdwVlBCOE1pLXdRT01vekU4VEo4RkpKQldwZDB2c09wLVYtdlowZWxKOXY3WnRaTGpNaHlqVzhGd2pRRC1rMFZJMnJiUmRUYUdwRGY3UWs?oc=5",
+      "published": "2026-10-30T08:00:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,43 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Binance's $6.3 billion hack: What we know and what comes next",
-      "summary": "Binance's $6.3 billion hack: What we know and what comes next CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi1UZkphVnk0R09lOVpxcVRzSmJobkt0YVBGdDRBMkZ5d2dXdjNxa3k0VHB0bXZ3VkJzSFhHbGVGeFdCeF9vQW5UWkxxTUZzMU9hYU9xQVJZUXFOcEpNR0JjRFlEWmZURWNTSmd6RFRHOGZEcGJKakxCdExkZnhQRldRSzZ4eE52dHFBR09QNVFockE1b0pYaC1ZOGxOQndROVZVa05n0gGrAUFVX3lxTFBwNlVCU19abWpVbER1RGxqTHdyTExNei1IMzI4V0p5UTNoQUtuT21TQ1MtaDdzbWp0cDFTYmk5RlNiejJISlR2UzJIUTVVTGtVaHFVa2NrakNXTjlhMFM0eUtNWF9mN2ZSRzAxVm50VGpBYkdRd2EtQUQ3Z05tUlp4TXhHTW9zWDV0LXQ5WXo2cG1OeWM4Q1RaeDd6VUYycGpfVlRUYjgxUW5Cdw?oc=5",
-      "published": "2026-10-30T01:54:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Justice Department issues subpoenas to California election workers",
-      "summary": "Justice Department issues subpoenas to California election workers NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
-      "published": "2026-10-30T01:35:54+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "What sources say about Trump’s last minute rally cancellations",
-      "summary": "What sources say about Trump’s last minute rally cancellations CNN",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMmRVUzVpby1HWXNEdU4wUlpFc3hTSWppNXQyX1d4VmhkeWItTmVIUDh0NWVsbDhoWVdqYVBROHVwQnFFTk8zRnNoWDBWa012MThZYnlsTmNNZ2FDWmNZS1Azd1lubG1VZzZEU3ZWb1NhV1oxckNKVVpoaTQ0R19lS3lRMTctZzdBTzNiaXl0YkV5Qm0zZGdpWkVwR0hBZEpFRVBoYU9hMDZqcEZibE4yQXkzeURPekpVLW5JUTJ3UlhaMW1EZkE?oc=5",
-      "published": "2026-10-30T01:24:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -129,27 +176,15 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-      "summary": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hSGRFRkVaWUNYZDQ0MC14QVh6c2ZLUjdjbkpNWDV1X0RfZGRFSm1ON3ltUXByMFM0a0tlWkFPY1BDUzhpS1piMFJnR0dUMXBEUlJ5X29hT3dRQWE5UFBrU2tpV2NfY0pqOHJySE80MHBlVnlKbFoxbnRnZ9IBgAFBVV95cUxQUXFfSW5CQVJfdHFVSkpaTVpNUnFuZHcwUkx4MEN2SFE1Q0VjRE10bG83Z0NEeXdJOW5wZ1drdDVOSnlFY3RkbnAzb3AzY0ppYm9qMGtqNFVSU1VjeHY1clB2X3ZKUkJjSG8tX1lHQWVqTGo4al9SeXo3d3NEV1ZQZQ?oc=5",
-      "published": "2026-10-30T00:38:00+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "WATCH: Leo Reich gets dommed by Andrew Scott & life itself in wild queer comedy It Gets Worse",
+      "summary": "WATCH: Leo Reich gets dommed by Andrew Scott & life itself in wild queer comedy It Gets Worse Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3kxc0tGem9tU0dlaFpmMVFzeDFvYk4wU19rNDBEVDY2cHZYV1BWai1rYkxmS21sTzk5NmVSTkhZTGhRUVdsMDgxajVGLTdqY3N1NUdEN2d3ejBGSVNNZjh1Tm5xNzloM0pfazNRc3hxS1ZVamxBYk8yTWFaNE8xZVk0b2YyenBoX1U2SWpORGxjYkR6Qk5JcmJ4bEJTYlhYOUVQUDJ0WnNfMERpb1o4VnRudlJPVDMwSHRramxrLXhyUQ?oc=5",
+      "published": "2026-10-30T01:00:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
-      "summary": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate NPR",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb05QWkdncktjaVdEelV6di1vOG1HanZFdUdad2JjaHBPdlZtcm1adEs5MTg3VkdsUFdEM3FnTVZuZU1uRGJkNlIzdk1KRlhIbUlqYmRtb0twS0U1alhTZlRHSFZiWGlGc29QT1dnSkhCMEcyaFZIeDlDUDJZMDNvaU1JQ083cjc3N3pmWjdvZWpCeHdjdmZZS2lYSHQ3X05YcURRajAyT3V6NGVJRzZQbVBRRGkyNmdZR0pUQXFwMHN0U0FoZ3c?oc=5",
-      "published": "2026-10-29T22:23:38+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -201,18 +236,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-      "summary": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86 NPR",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTllERDA2MVUtNEtGNk5INGI2VGduR0NodWlRRzBCcmhqUEduZTlDSm9sLTFnZzRJRzlpbmctSTk0cHVhZW1UYVhGWGE4bzNWWjZGOUNMblByeHlvMFZ2eFBUWWpkYWczOHBsSUxfRQ?oc=5",
-      "published": "2026-10-29T20:29:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -249,30 +272,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Ancient cosmetics, coins, mouse skeletons found in Pompeii home shed light on life before deadly eruption",
-      "summary": "Ancient cosmetics, coins, mouse skeletons found in Pompeii home shed light on life before deadly eruption CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDJaTE1SREZNR1drcUVLaXJ5aEhqVHptLXAzdVV0QlYzNEhZVXpnd2ljNmF3bkl1dENkODBuN3lvS1VCOE5sYXRhYkQybFRLUjBnNGNIUlJaRjFlQ1d0SXpjMFU5Tm5NWW8tQWRVbmJNLVFvMzRZeDBLYXpuSXlDa0pB?oc=5",
-      "published": "2026-10-29T16:59:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "King Charles faces renewed calls for slavery apology, reparations on Caribbean tour: \"Pay us what you owe us\"",
-      "summary": "King Charles faces renewed calls for slavery apology, reparations on Caribbean tour: \"Pay us what you owe us\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDJGWlpVUkNXYW1BN3hFV2lYOFFmTGZ3RnA4MGF3aGEyQVB3Z3Q4dEMzYlhpWlRwMEc3TjJsWkdVcDE0bFF1Z0owOEl5UkcyMkhZeTE2eUVfcGxHTWVrQVZZVFhaUU55SndibGc2di1XLUF0RmtsN3pLZ2J0cHRlMGNwU3ZmakFRYlRlSFBSbHFqcHg2?oc=5",
-      "published": "2026-10-29T16:24:10+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -280,6 +279,18 @@
       "summary": "Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show NBC News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVkyZWR3cmdQaGE1M1VoaThrZ0ozYnVlMkoyampQanVpTmpDSFNfb29QbVh2REF2YTRmU1dGeG9raGdCN09MQjVEd2RVS05sV0d0czFZaXFzWFU0Wm01Q0FWdzd6NFFYT1VvaVJzVk1Ya0ljczRGUjR5OVhOdjU5OWlfZGF1bXJhand4aEdYanJYakxTaGtrQzN3cEhlaEYzZ0YxY3c0bUlxaThlYjR4MzJn?oc=5",
       "published": "2026-10-29T15:51:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Abdul El-Sayed's faith and family have come under intense scrutiny in Michigan race. Here's what we know.",
+      "summary": "Abdul El-Sayed's faith and family have come under intense scrutiny in Michigan race. Here's what we know. CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWJoY0VlYnlYX2pkc0VqbVNHY0VsR0RfejRKZHBUcTVMUFVYNk51WXFJU3FxQk50d193aUZRWTlpYWhaSFIwa3g3MXV0cTF1Mk1UdHlubTdWZFpqcFNOcUc4MDg4MUo0WGluMGRYRVRRcFAxSFMwY2FpTV9sVkZveHlEc19oODZBVUE?oc=5",
+      "published": "2026-10-29T14:42:48+00:00",
       "beats": [
         "Politics"
       ]
@@ -294,18 +305,6 @@
       "published": "2026-10-29T09:01:52+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Connor Storrie up for villainous role in new Marvel movie opposite Ryan Gosling",
-      "summary": "Connor Storrie up for villainous role in new Marvel movie opposite Ryan Gosling Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGNpX3R2dWlMTjQyY0FPakVJVnFBTnlMMXI0QWE5bFVVLWkyRE5CS1lDZEw5UERMZjRnc2c5alhMamZMay02MUpyTE44eUNMbXQzZ1FrelM1N0xNNWhfYVlpeGVLb0JGdmotZkVNUHJEWHA0OUVkdzlBdUQ4cUZ2SzZNWENLUzZDSUQwWnF5aDBDd2EyZG5DcGtFV0NwMGp5RFE2QVJ2aEt1aG5CQU1LcXEyOA?oc=5",
-      "published": "2026-10-29T00:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
