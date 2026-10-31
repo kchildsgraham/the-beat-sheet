@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T15:09:11.976650+00:00",
+  "updated_at": "2026-10-31T19:28:19.649000+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,90 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+      "summary": "A simple explainer of the massive $6.3 billion crypto heist at Binance NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnR5TTFvMkN1Z0ZLOVdZSGZkRUYyMkhNNldJU19Yb2ZXV2NqT2YxUUFuN2RyNWdjUEwwVzJSbVpxbXFzbC12OGdYdzk5RDVnaE8zTGNaN01PakU2VW5vUzVFblBmRlI1VVlyaWZjcmFwZjdYZW1ScTM2cktHc0FPeXhYSXE1ZTdhOWtfR01ucjJpQVA0Nl9HMQ?oc=5",
+      "published": "2026-10-31T18:11:02+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Americans voting from Mexico share a concern ahead of the midterms: the future of democracy",
+      "summary": "Americans voting from Mexico share a concern ahead of the midterms: the future of democracy CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUVPVDNUMTZRQXktd1dyWlI3dWxTMElTT1gxMjRKa1o5ODZjZzZfTTRCSTh2Vm9NRUNPa1hBMXBaSXlocGJwRFU0aGgwYU5ZdWhnUWxGbzV3MHEwZEY3RlJ0Nl8zMmc1RE5xbjVyMFdrWHFsaDY0SWpNLTVlaEpMaERPRzVIRTJONXc?oc=5",
+      "published": "2026-10-31T17:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+      "summary": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZkRqVjFyVno5Q2JkQy15dl9SMVp5Z2FtS2tvYkdBNmdXSkRFQV9IZHFxZFIzdzhZbXFlZHU2YmNpQXRET0xBaUxBMzBxb2p5VFlQQzNteE03Rm1zQnJrYUtockVzVF9HMWRMSmh5cFdPX05MdFo0RkQzVkxDd9IBgwFBVV95cUxQZjZjMkNQcTBjY1NsNjNsbUMwdzI5ckNESVR0TE9uRVE3aWcwNGE2QkhBSnZHTXl0czFXWTVaaXRTTUJtd2lYSWZCRDNSaV8wM3VsZFFUbDVYMkNBVFU3bW1BVW9MZkwyR09paGthcmphLTFDdlI3WDhmUTVlbjBSYnBvRQ?oc=5",
+      "published": "2026-10-31T16:08:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "summary": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDA1ck9VUktfdWl0NkxvRWlCdjYxLU1CdDdjNmxkbXRObGN4d2phU2xaSWJFRWdtOHlWOFhTSUZfRlJQbjhSZGJBYVFOOTVkTkhqb0I5ZHJZelcwdVFWSmlGRjNyU203cGMxRzMyeFhKQVhxaEFIdHFmdGtMLUp1ZUhR0gGHAUFVX3lxTFBiTEZkazA0N0NudVJaM0ZGb0pQLWJ5QkFzd1N2UkJFZzkwYll3aTdFZC1ZOEIyS0FPOHRONVNMejR3RjRFdFpRVnZ6eTRmQ0FDZEg5TndvN1ZNM3pxNWZQcWo2MlN6MWxGRk10b19UVFgtd3M5dUVKVlBGZFBFNnZaQ2dtVWtaTQ?oc=5",
+      "published": "2026-10-31T16:03:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "MAHA helped power Trump’s 2024 victory — but now RFK Jr. is exposing a GOP midterm vulnerability",
+      "summary": "MAHA helped power Trump’s 2024 victory — but now RFK Jr. is exposing a GOP midterm vulnerability CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MZEtWNXJzZktNdkM0SmFodURGSUNpSVlUNkotU1UxUEl1YnV4OEMtVnhRVGlfRFdmRGhaUUNHZ21ZdmxNOGxKeU5pQ0ItZG9CMjJIelM3cVJfaW5pSWEzaTdKYUVESEtfSkM2alVMTXVTa1Uzbnk4SjUzUUlmQQ?oc=5",
+      "published": "2026-10-31T16:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Governments urge citizens to stockpile food and water. Why now?",
+      "summary": "Governments urge citizens to stockpile food and water. Why now? CNN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFRTVkZVU0Rza2FUdmlJc1NMcWhvdlZPdG1JajhKOHlvN3ZYbV9JWG1LY0ZQUFZ1dU9WQ2RIZFRwQ1pUZmw5bl9TNlFEdDR2WjhsdC1nVDlXalZzWnNJdVBDNkd6b29oLWhfY3hpejZYT3BBLXFHT0RBOHFyUmdOdmRKd0JiVkhWeUlUZUpTMHJvZi1zX2prLWRTUVhrY0RLOVlBeEpCSQ?oc=5",
+      "published": "2026-10-31T15:08:50+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+      "summary": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSkh2Z2oyY0s5ajFKc1dRekZ1NFdPdkdDeG01MTlTeWl5T1RnRDJJUHZUdko0MW1VRlJFSkFoa0VSNXAzNWJCN3FGXzNIeG50al9BQmJIXzdZQndvRTJTS2NqeEtDejN2dzB2d2J5YnNubUMwZjJaMVRjOEpvOXNZdHBVWUN2WU82TVhV?oc=5",
+      "published": "2026-10-31T13:50:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -27,90 +111,6 @@
       "summary": "Binance’s $6.3 billion hack raises questions about crypto wallet safety CNBC",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5",
       "published": "2026-10-31T12:47:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Cost-of-living protests set to spread to Germany on Halloween as France braces for fresh unrest",
-      "summary": "Cost-of-living protests set to spread to Germany on Halloween as France braces for fresh unrest CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFhCM1JCcUdQbW4wWl9QdXZIS3ZQbzdlRGNaenlpQnNuZGpYb3c0ZzdxNi1yd0NCYTlZZjhnUlFUMFZHa3htVy12U0NZTS1ISW5MTm1wNERkSGlnVmpDMlJYMV8xbU5wY2JmbHpUZ193Z3lhdFdaSDVGZW9aYlk0MnFB?oc=5",
-      "published": "2026-10-31T12:21:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Humans are still doing the work behind some AI agents",
-      "summary": "Humans are still doing the work behind some AI agents CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdDRGYVpNUzkzVXNqQ281UkRReUhaM0JVMm9KX0otb25qc0dEX0kyQ21yWHdLU05xNVBNVFFWRHFCZjE3RUVudmdZRHRhNmtIU3ZkbmhCb3JYTHg1Rkt0UWNtLU9NMkdrdXF2Y2pYX0lBdVMxVTV0SW01dEhNTVnSAYQBQVVfeXFMT2tFS2NFLW55Ym5JMDVGS2ZsdE1FYjNLUER0NHBLeVoyaFU2aHJ0Q3lFTE5DMm1CVGlDZlJwYVpzSWpnc2RDVDdvT082WkdXeHQzSjc4eFY1SXA4SjhPalFZNEQ4aUF2VFladTFVUHptTENubWk3dWc3cVYzZGNmWURKWDho?oc=5",
-      "published": "2026-10-31T12:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-      "summary": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VHpWQVNudE80cmxIdHllS2R0MzVjQmd0ekVWREJZYXlIYjNlMG4xU0FoV3J6aC1FZEZIWFpkbWhXUVZVR2JBMU1rVUYwOGU3MFRsQWpJYzJNd3hHeVZzN2FsVFoyT0pMRlM5UGxLRjNHeXVKS29HS0M4WmxPalHSAYQBQVVfeXFMUG84TU5ISlg2amdTb1dVSjR1cjM1TnlFSVFnMlFEdjlGQ1Q0T25YQkcwdTFFM2gtT1RkaHE3c1djcnJJTzhBVDh3WkpMbTJIUi1CUmhXTmhMc2NncElLS014ZmJhZE90akhCd1dtRTdtS2RZMk1iUWlvS1dFX3RnRUdjbm1O?oc=5",
-      "published": "2026-10-31T12:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-      "summary": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory! NPR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUpXWjhvM1owcWpJT2tWQS1WV1JUYkljWXVRbm5yck1DZi1GZl9TWUFVWl9FWnJBYjhQWHNucjRKMDFBSk55RnNTYUItS2h6N2FHQlFrMzlBUjVkYVQxSTZYUEdJb1h1bHNLUm9ZOXQ0YUZFNHJXWTdtSGFKUnNrWkdRVzNWZHdlNkM4cmVQTE5FeGxtQ00za3dRb1NiVWxmS0k2SWd3YXlhcFpUbHhv?oc=5",
-      "published": "2026-10-31T12:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "1 dead, 6 wounded in shooting at California Spirit Halloween store",
-      "summary": "1 dead, 6 wounded in shooting at California Spirit Halloween store CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjVWVWFsQS0zZ0NFdFlzd0tvRTg1MzVQbFVnOWhFQXlSX2R1RzJmRWNtTGNEY1dMU1hSNlp0elpCcmptRXEwYzRtMVNjdUNubFhuZ3liR0pPQ0Z0SEM5V3I0aHN6TFE2TDhkYVBrU2EzYm96NkJTTWlLNUVuYzV2aHdR?oc=5",
-      "published": "2026-10-31T11:43:50+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The art of being imperfect: How Josh Homme rewrote his songwriting rules for 'Perfecth'",
-      "summary": "The art of being imperfect: How Josh Homme rewrote his songwriting rules for 'Perfecth' NPR",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTRvNHViSnRwbmNPYzdBSDFGNFMyTzFtQllrN1pSZm9YOVhyTTFqdEtVRXoyRGw3RHcyUlV4UEwxVlhTNWNZajhTMHVXX3lrdElmRGZEZjFsd3NjZ0NhQ2lwMElYaFRZRVozS0NfVTNFekFNV1RGOHM2ZE44dlFVLUdVOFp0Yk85cEtPRmV1N1I3RUFtd1U4Ty1YOE9jVmNyaURDeXRrU29ZcVluaDRSZGF1MXgzcFMzQk5VejFMZkd5NkdLc0w2SA?oc=5",
-      "published": "2026-10-31T11:42:51+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "A religious reckoning may be looming for White evangelicals who support Trump",
-      "summary": "A religious reckoning may be looming for White evangelicals who support Trump CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jYlZwbVoyVllDN1BTN1ZCNm12dGhxMlQ0UExZdXp4WDFrNExOODBZeWVCeGxWQkt3b1JpVFZQMHlReFlBZWc1SVhjelNlVTZGaUM0d0hTaUZpNnV4WUhaV19TRnRSdm9SSUUtYTN0SDFMa3VLRWY0TThodXY?oc=5",
-      "published": "2026-10-31T11:00:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,34 +131,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed",
-      "summary": "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YQW1ET2dSdloxS1QzV1pKTi1aNXg4VTFXaFFNTFVFTnU4VlF5aVdzaHYwSVZxZVVNS1lBdXJGLTRWOHJSSTJUSlppVGxEemhDNjBBTTZRZ2Z6Y1hpMUZZUTFQWEpxdFBoRUMtOEtmS1AxOVhaQ3l1cjJoWQ?oc=5",
-      "published": "2026-10-31T09:06:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Oil company earnings skyrocket — again",
-      "summary": "Oil company earnings skyrocket — again NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlFhc1hubko5aGY3RGJEN1Z4QnFMell4RUdDOENlak9tUnJYQ1BxSXVURjhHQWdyNi1lMGpjRUtwek9IbkVMTEcxb2lFUlNTeVpTOWl2WlVReVQ4R3pBRUZ1R2RqbFhUdy1EQzJMTHduOUl6MGx1bTJGRmZGYUtidnczV1lyS3hRNGx5MlRpSW4?oc=5",
-      "published": "2026-10-31T09:00:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
       "title": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
       "summary": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80 The New York Times",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSb2ttMW1YS0pjbHgzSU53M0lOQi1tSWFaeHE1MU5DckRQNDRJZjd0Mnlwbkd4Q0ltLVlwWThUbVVuN0tXMzFmTExNcnlYQjcwXzNvd0dOTWFpQ1pITXk2d2hacE8wWWx0RHJ3RHZOOEpsLWI4ZEE?oc=5",
-      "published": "2026-10-31T07:18:22+00:00",
+      "published": "2026-10-31T07:18:23+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,18 +164,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Request for report regarding Colorado Secretary of State Jena Griswold headed back to court",
-      "summary": "Request for report regarding Colorado Secretary of State Jena Griswold headed back to court CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSTJSTEpGeGotUGFWQ1kxd1ZDRnV5cFgxUWZCYTBpOTNXcFFwSTlyVFVPSUVsY1NCekJWenhSSWJDN2tGT3NZSkVtMndvUmhTNkcwYVZ3TFVtY0xxMXJ4Z2hEZ2xZMXE0WWYwbjhUdTBQclZyTDlZZVJNdm9EYzdHQ3dVa0FRLTJDQ2pDNkNhbmNleU9TNGN6Q2twWVRMUGdVaE1NWks2bXFFZw?oc=5",
-      "published": "2026-10-30T23:55:30+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -212,8 +176,44 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Why so many horror movies have Catholic themes",
+      "summary": "Why so many horror movies have Catholic themes NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3hKZFhGNXBiSlBiZUpZSkdoWmo2TjVrYWtYR0txX293SXY2aTZySjJJaHl1LWlGTmdvWlJEZGdXUk9BbWlXYzVIOThoQWNMcF9HYVVsZktHX3RTMzc0SjAzY0Rra2JUZDJzZjNjQ1ZXbVJ6NENjN3hqNHR0ckk2bHlLMEtFOW5UQmk2NDBNSWlEaDRsVGc?oc=5",
+      "published": "2026-10-30T21:34:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Texas student sues district after she’s denied male role in school play",
+      "summary": "Texas student sues district after she’s denied male role in school play K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjFUR0xscThRSUJDNGZzMFdZb01HR0FyX1Exd3BLWHUzd3BuNUQycThRS0N5cE9kLWpsMFQyNl9JbGEzMW0yTHpuQ1FSdmdxU2hRQzJjZ2ZlWkVuMFlJVDNBOGpnc3NRUlFUVEZ6SWZmWTNKR0NJTGxHc3NpU0h3VDMyYUJOR055TVVwa1BpOWN0U0tjX05hd2lXNGpYZG4tQ1BEeVVqS0tETVE?oc=5",
+      "published": "2026-10-30T21:30:24+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "November 1, 2026",
+      "summary": "November 1, 2026 Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxS2hRcnF3WjRYdHQyaGZPTDFBUmRSR0xzSkIxcFdxR0Z0ajdvckVKald6SDB6UVR1YmdORVlaZlc0QW1wam1lY1dQVU04NFJ2?oc=5",
+      "published": "2026-10-30T20:22:01+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
+      "source_feed": "CBS News",
       "lane": "General",
       "title": "Texas Supreme Court steps into trans mailers case, halting deposition",
       "summary": "Texas Supreme Court steps into trans mailers case, halting deposition CBS News",
@@ -234,6 +234,18 @@
       "published": "2026-10-30T18:30:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Democrats, Hopeful All Over the Senate Map, Remain Jittery About Iowa",
+      "summary": "Democrats, Hopeful All Over the Senate Map, Remain Jittery About Iowa The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVk5UR2ZyMTNXNjJqX1VZd0VNcHRkZ0s2WkNSa2toamdCX2JwMGpTRHR0cm1KdFlZdUlsaFNQYV90OFVzcm1YNEhycDZRejZmRl9FZjEwaGpPOWJxMllwaGVNZVZfT1U1OEhjQkxvWTVDNEVwNW8xWWZ5OG1BZzhzQmhUZ0cyUQ?oc=5",
+      "published": "2026-10-30T17:15:43+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -261,6 +273,18 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "What a Democratic midterm sweep will mean for queer and trans Americans",
+      "summary": "What a Democratic midterm sweep will mean for queer and trans Americans Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VzSHFreUI4UWRvTkZlUlpUQVVZNXpGX0dfVjBrbWRNY0NQQWdpR1U5M1FPZXhQVnJjSlRjNzc2MDl4RlNKRjFMRUxnRHV2TUFZUTFacmRVa3pKcVh0WEtCMFBBXzM0bFlmcFh6clk5ZldzRXJYYW8tVk5RLUoyeFlpN3k?oc=5",
+      "published": "2026-10-30T14:08:05+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -282,18 +306,6 @@
       "published": "2026-10-30T13:25:18+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Difficult negotiations lie ahead in Israel after Netanyahu’s bloc lost its parliamentary majority",
-      "summary": "Difficult negotiations lie ahead in Israel after Netanyahu’s bloc lost its parliamentary majority NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVRSZHNhcGt1NEVIUWJpSnFkcG4tczd2T1ZGbFJabmg2cVgxXzh5ZWxGQk1OZ0hNQXllWjdsbDRJU0s1aEFLcGVHTm9JV0N1VUdIbXZWYXJ1SmM3SEUwWWl4cGtPUEVyaTdtNmI2c1A4cGVNM3J5dzNRRnBmbHpTNWN0a2NtUTZXcEx0VW54V3dWcGtkSHM2Z2hLUGk4bGR2TnRtRTJkYnR0N1FTUlFGbXZVTQ?oc=5",
-      "published": "2026-10-30T12:00:47+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -366,18 +378,6 @@
       "published": "2026-10-29T20:55:47+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Beloved Georgia librarian fired for displaying trans-inclusive children’s book sues county, library system",
-      "summary": "Beloved Georgia librarian fired for displaying trans-inclusive children’s book sues county, library system Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY191WlFjOVA4ZGd4WmpnUWtvWVJiVlVMNTdKRGo5RUQ5cTJUaU1ULWw5SjYzNzdmNU9vbHczeG9TdHA2U2hZUlA2d2dKd3FBdlVRcFp6Yjk4MktBT1hlUWNNbTdtWTFwSDN5T2t0SmNfQ3lSenVGel92OVhLeXlGVjM1OXZNdw?oc=5",
-      "published": "2026-10-29T20:40:04+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
