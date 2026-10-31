@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:49:33.088279+00:00",
+  "updated_at": "2026-10-31T02:05:28.300233+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,66 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Tracking the 2026 Early Vote: Midterm Elections",
+      "summary": "Tracking the 2026 Early Vote: Midterm Elections NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5",
+      "published": "2026-10-31T01:36:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials",
+      "summary": "Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb3lBMGJMaXJVTFBCclFIVU5mdzg2QzZxMTZaRUo1ZVExTHFKZEhWS1NrZUhvNVZqcV9zbDduQUhlekI3M1JlSHVfLVZ2RlhSUVB1NlhIQ1A0aVE0azN4ZGw5RXV4SWRVV0JHS19iYlowSGc3WERrUWtfRGNQNnZZZU45ZUxnamNwYlU2azl4NmNKZ3ZGdUtYLUZVV2ZxYklJS2hkeA?oc=5",
+      "published": "2026-10-31T01:32:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "El-Sayed Clashes With Former Primary Rival Who Demanded His Apology",
+      "summary": "El-Sayed Clashes With Former Primary Rival Who Demanded His Apology The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcENmV0FNdmE2Tm5WbDVGcVRmS2NjZDU1S1R5bE1kUkRxOGdpbUpRdDNSUThCYmdfaEtnbk9UQmZrdnlPbXBOX0h3UzFfY2pYNkZmbXNHVjdLczdDVlFYdDBybjNZS2hDLWo4MjRDVzBJOFl1QmFCUENSOU1ZYlF0OUhGZllxemlMOWZxNzhBYVBCOWIx?oc=5",
+      "published": "2026-10-31T00:35:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+      "summary": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5b1lyVFR6dUZaSi1kU1JJNTFKYmJvaC0zTkpkZm1FSzZLMXZvWE9BQVpUOUNhdVQ4T1o5REp1bUd4aG5RZFZLYXlIaWYwN3BZc29XcjdMb3oyVEN1a1pHM2pmWTByS29pczd3ZDFTZFp3RXhFTEgyZklxNNIBgAFBVV95cUxOcmpFQlQ3SVJ0cHpNaXpSNHZaOHZUdGwtTXdjSGk2RWVYaGdSbGhlTE5HUUZQSkE5VVhnMFVydGs2Uk5CNmhMSl93enJXRWowTHQ2RUpyTXVCWTZNQVF4R29BaU15WWFPa2xKTVlOdkVvdFpsY1lnM0VEVzFZbnpaTA?oc=5",
+      "published": "2026-10-30T22:52:04+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Judge asks if Trump’s desire to rush triumphal arch in DC is to ‘bedazzle the city’",
+      "summary": "Judge asks if Trump’s desire to rush triumphal arch in DC is to ‘bedazzle the city’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzhvRV85QnhZYkRNajUzVFd2d0g3eGpkVXdsSzhETmpOR1ZTMWtJS1N6Tk1ZTDFYaXdBbTdFYjJRYnNUYTZ6RFExNUc5c29UUEN1dDJzUnZDQms1TjlDTWZ5OTlmTmpZejM3ek5idUpXLWVWVTNLMFY2dmg1VUcxY253eGI?oc=5",
+      "published": "2026-10-30T22:00:48+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -44,6 +104,18 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
+      "summary": "Trump admin again loses bid to block California from counting alleged noncitizen votes CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkp6UFQweWFOYkQ5X3BqdFBqckMwTWszVEt3OU56Skw2eTFkYV9NQTBiSTB1RF9XbG0wcC0zSmRkV2x2Z0pLV1NfNkdRbWhZWm9tQlAwMjdQczBmSmlMQXE5VGlyUENQWXZYVVMyT05RTlZjXzlZcW81ZmhFc205a2swRk9PRUFfYWh5NGJMZFnSAZYBQVVfeXFMTldJLWlCODMtdExLZXQ4Z3NhMldSaEFNOVBHTm45MXJxT2RMbi1sWjVLQ3JGbERYZlRTcUdub2JseUVLQjdEelpqcDg1S194RFp0WEtVQjAtcFpBdndJaHp5TExrX3ZBNW5OX3R2Zkw0STU0VFpTd3Vrd1p1c0JxdzZEQ1VLRFlBWVBqSURseWtsYnU4bzl3?oc=5",
+      "published": "2026-10-30T20:43:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -51,30 +123,6 @@
       "summary": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine CNN",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeldtQ3QtUnl5ODNVUHVwcUJBSWQwZ1E5UG5xMlpHTUxLZWxCLVJLSG5UUThoeUVEX0RCMmttd2Q5eG9FVE8zdEdqZ25oQ1RuR0N1WkxMeURLODJyaFhqbV9qMmdTSExKU2F0U3JuZVh6bUxOcVhqQU92a1NKS0N3RDU4bUpKOXp2d2VObWtWS0RWWGhW?oc=5",
       "published": "2026-10-30T20:22:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "El-Sayed’s Former Primary Rival Demands Apology Ahead of Joint Midterms Appearance",
-      "summary": "El-Sayed’s Former Primary Rival Demands Apology Ahead of Joint Midterms Appearance The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcENmV0FNdmE2Tm5WbDVGcVRmS2NjZDU1S1R5bE1kUkRxOGdpbUpRdDNSUThCYmdfaEtnbk9UQmZrdnlPbXBOX0h3UzFfY2pYNkZmbXNHVjdLczdDVlFYdDBybjNZS2hDLWo4MjRDVzBJOFl1QmFCUENSOU1ZYlF0OUhGZllxemlMOWZxNzhBYVBCOWIx?oc=5",
-      "published": "2026-10-30T20:13:31+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last",
-      "summary": "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU200dG5RcjhxVG5FTlhQbG5EYnJiWlF0OWthVkhSYk81TkNRTDJubmRBb1ZENVl0OGZlSmFoOVYwX2tiNTJoM0Vod1ZYT0VSNVRNdVpTLXJWenh6NHdGWDlBdUktWl9YNXF4NGVkOXZYWjVUajF5Tw?oc=5",
-      "published": "2026-10-30T20:09:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,27 +140,28 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Meta settles with teen during trial testing claims social media caused depression, eating disorders",
-      "summary": "Meta settles with teen during trial testing claims social media caused depression, eating disorders CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkpndHBmRjBGcERqdWJoeWR3d3NJTHYyU204Q29Idlg4Y3NJdGRXdlRoT213bVRLbmFFVEdDQ1Q0UTViOGRuYkhmdDNZRG5td1BZcDNkUjhycVJZZFJzNVRYQWRYV0wwVmZYNUVKSHlVQmdlTzZWWG9mLUVZTzZGb3R5aVBmQTVyZi1CY2lnb1Ftd3IteWl4VHdNaVNqVWYzSFpHejZOSWJHa3JvUDlTOFRwWHRhbV8tVWpRZVYzaWZYd240cGxGb1U4VGV1SFky0gHWAUFVX3lxTE5TcjBTSGpIV2I1QjlBMkhhQkctNUg1cFMwZWlWejU0VHBkU0czN0Rra1dQZURGMENDNkhnak15ekZKS1NMQmo3c1NMeXRPVmFXM1JUYS14ejBtTEtxOGFWSDgtSnV6WWNacEM3YUF1SzZuSWJLRWlmRUFndkpiaVh2cVpINVQ1YTRKN1o5QzJFRXhvWmVCNXVfX2x5UXNPcmRFQVhJcUU4a01zNTBubURvaVd0MkUtdk1ndXJ6ODRXTGdpdnJhaUctVU5kbmtCMFh6cVR0N1E?oc=5",
-      "published": "2026-10-30T19:13:22+00:00",
+      "title": "Texas Supreme Court steps into trans mailers case, halting deposition",
+      "summary": "Texas Supreme Court steps into trans mailers case, halting deposition CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWNSZzNQbHM4WkhRS3pQc2ItNGNIWlh6a2lFYXA1UHZkd3p6cDN1R3RjeDNPb2pMQmFHTDNrRnNWVVhjVHdqaU42cGlWcWpORVI0TnFCRXhGSUlfeVN2NjN3UjRmRy1lSGVka2N1Vm1ldUZhME9uQjVJR2RvQjhmd0UydmFJbW8?oc=5",
+      "published": "2026-10-30T19:12:00+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Judge tears into senior DOJ official and orders investigation into Trump’s golf course plans",
-      "summary": "Judge tears into senior DOJ official and orders investigation into Trump’s golf course plans CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXphcFB2N1FtaUROSEZOeTQ2TXpUU2l0eDFmMlBQbi1JVHRnelVjcUVIbTFsRWFhQlppclZVYTZ5NkpLcE5OTEdheWtGdXcyNFJBUlZEOXNYVHhpR0dPSWNGMG53enU2QnNCTjY3c2VxMmY4dzNQSWNVcHlDZGRCSXc5VFZUVFQxNE04?oc=5",
-      "published": "2026-10-30T18:38:17+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trump family member worried about his mental decline as he can't stop checking out men's bodies",
+      "summary": "Trump family member worried about his mental decline as he can't stop checking out men's bodies LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUZCYURBWmxDa2xKYVZuN3FRSzcwUU8tVkpBZ0UyWFdmd1g1QXUwaWVraVo4Wm5yeE9lNlFaV2lDT3RHcUdwSXFyd0YtbjhHOHdiRE4zR3BXa2xtZ3M2TGthMFZiY3hDaExLaWtubzRrMS1NREE4d0dfUDZ6aWhVaE1UUmdxQVNoWEgtOFBLLW9aMjdaQWY0dXZEUWFuV1ZOeHh2XzEtVDZvdGhCUUF3cG0xMnV5cEFSUzNGYWlRd1plZw?oc=5",
+      "published": "2026-10-30T19:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -128,13 +177,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "The AI investing story had a rough week. It may be time to take profits while you still can",
-      "summary": "The AI investing story had a rough week. It may be time to take profits while you still can CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVMDB1eXN5V1R1ZjNPZV9XT2c5R3ZjUGJ5RDBHQjlEVndKSHVPM3hndmJ5QTVJbGNWS0wxdEwzdUYxTzZzVmdGYTd1dm5GUmI2NFZDemdnOVJsUzJEMWlXOTlCcWtzWVhfRF9uRUFBVEJZZUpVM19kN3pSUnB6dVXSAYQBQVVfeXFMTzBUcGxqV3FxbkpSOVV5WV9KblBpbF9vd1lGNEdPay1SWXNZN20tRlpVOEFyTzRxSzFfQUdsbmVyeTZoWGg5ZlRCSDZNMTd0amZyQlU2VEpTX3NCMVl3Zi1UZEFEQUloWXRpNlMzSTlRS0ZzY252QzAxQ2pEc1RWbHI0YUF4?oc=5",
-      "published": "2026-10-30T17:17:28+00:00",
+      "title": "Pentagon disclosure about fired general's failed polygraph may have violated privacy laws, attorneys say",
+      "summary": "Pentagon disclosure about fired general's failed polygraph may have violated privacy laws, attorneys say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2N2ZjE5S0xzS0NBYjFLVDNCX0lHUDVYbHJzcXYwUGNpS0lVZWtDMVIyWWtUTVVENDF0dG9uTmRUeENoVjZBREVUSzdueTNsSEVlVExHcWJ5NTlyVWM3Vzd0SFpJbC1wbHdMZGRkdnFzcm9GOFNYM3pFbVh2aUcxdHc0dWkwN1dzSVJ5ZWhwcDE1bkpDZDJnUTZ5N2N1NGFa?oc=5",
+      "published": "2026-10-30T16:49:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Florida woman accused of wiretapping Patrick Clancy's father in Massachusetts and posting it on Instagram",
+      "summary": "Florida woman accused of wiretapping Patrick Clancy's father in Massachusetts and posting it on Instagram CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGZrczZLeG5GSTV5cUdvZkVfcHhmZXNOSWFJTlVSMUNjMGVpTW9PUXdkUkc5ZHJ0a3ZudWprdW54Ukl0Tm95cVZtUWltNDI4WVN5SWx4MW5rVFFuM0hiVU96NGNPZGNfWjItQm1LaVV4X0VRYzBIYk51T2ktd0ZaWE5pTGtGUDhRMnZUVGV3?oc=5",
+      "published": "2026-10-30T15:39:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -152,18 +213,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Christa Pike, in first statement since botched execution, says she's been in pain every moment since waking up",
-      "summary": "Christa Pike, in first statement since botched execution, says she's been in pain every moment since waking up CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DQl9hZDlBNFBxbUlJYWd0dUZwNy1MbURadmxJLVl2bXM1WVpndS1TLTBQanhIYzNwZUxmdXM3aXpzVFBXdFhFZXFlelluNlI2YTJYbHFDRGVOd0J4YkEta1pzdkRUc3lndVFkS2JlamUwYlNGa0h4aTd3?oc=5",
-      "published": "2026-10-30T14:09:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -176,15 +225,27 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Former Chicago attorney sentenced to 7 years for sexual assault",
-      "summary": "Former Chicago attorney sentenced to 7 years for sexual assault CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3pyY2duQlM4a3RWdEZkWjJFRkVSMnUzQlJTVURiLWRrcU9HRmM1cDJyMXZCclRiZ2t1dWF6cldUZFc5RTZsUUhDSW1oQkFoN01tT2hRTjhzVFQ3d1BSd0VyYTBFWmNGaEs4Qk1qMThXN256cC1VY1FIaVoyblJXWFJKcFU3MlA4bWtNUXNnRGY0TmRteXdSd3N3ZU5kNzJuTEdF?oc=5",
-      "published": "2026-10-30T01:07:00+00:00",
+      "title": "Opinion | Elon Musk’s Endgame",
+      "summary": "Opinion | Elon Musk’s Endgame The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVNYTm1UNFRJNXEtZVRHTTBqX0Fid1VsSG5FdWRWQUJWODk3VW5hQnlLenVrQXlzeHZteDhWQVh4S3Z1Vzh1WGVDX2lrajV3X3otcGRPanhnOGNMRHQ1aVczbkJSdm81TllIdHVOTE1kTS1lU19FSTFVb0ZHWkEtRzVSV3BZcjBmQnc?oc=5",
+      "published": "2026-10-30T09:03:28+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "California voters face $12.6B in school bonds. Here’s what districts want to do with the money",
+      "summary": "California voters face $12.6B in school bonds. Here’s what districts want to do with the money EdSource",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUtMRGRldVc3SlU2MndwX2NWUGJoTzRkc0ZLcHhjbW5PQkV2YmFXRTRVS21nOUNIenNDUlJTVHZqSEltUVN3RTdHeldDQkZyOUVtWEU3M0JmcWd1ZTZXN1k0S3ZIZGJpVWNUZEJOY2hvSFdOSXUwVjNHQ09nX005UWNFUQ?oc=5",
+      "published": "2026-10-30T07:15:14+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -284,18 +345,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
-      "summary": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONUI2U3RmNnc1bktnSmZjbmRCSDlYbFp2Rm11bFpWSExvQjE2M1p0OXVyTUFFNG4tRWNxR0IwM0dJS2FWQTJHdkpYcjBvT3hpQ1hveXozazFWLUEzWXV0S3k1NDB1ckg0NkRib2taWmhYeEtvN2ViWktuei1JZVFSYnV3?oc=5",
-      "published": "2026-10-29T19:41:17+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -306,18 +355,6 @@
       "beats": [
         "Politics",
         "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Cruise company had troubled history before abandoning passengers in Cambodia",
-      "summary": "Cruise company had troubled history before abandoning passengers in Cambodia NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXB1RGF2WmVaTVR5XzNjemRETXVUN25VTXBwOVduQ3k0cHBYN3hsbXNfOUNZRmNIUGNXWXpXOXdBVFEyOXVWZXhwbnJJUWlTMlNPa05BXzhRbUZpQjdiTU1lQnJfRmFiYUtkM29WektjYlR4YU5fcUNTMU5hSGdIckV0VWlSdUs3N1VOazhwbVIxNHpidmlMVldsMXZpOUd6VGhLWnZXa1dEUGVIZzhR?oc=5",
-      "published": "2026-10-29T18:36:10+00:00",
-      "beats": [
-        "Business"
       ]
     },
     {
@@ -333,51 +370,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show",
-      "summary": "Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVkyZWR3cmdQaGE1M1VoaThrZ0ozYnVlMkoyampQanVpTmpDSFNfb29QbVh2REF2YTRmU1dGeG9raGdCN09MQjVEd2RVS05sV0d0czFZaXFzWFU0Wm01Q0FWdzd6NFFYT1VvaVJzVk1Ya0ljczRGUjR5OVhOdjU5OWlfZGF1bXJhand4aEdYanJYakxTaGtrQzN3cEhlaEYzZ0YxY3c0bUlxaThlYjR4MzJn?oc=5",
-      "published": "2026-10-29T15:51:57+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Dressmaker said her \"religious beliefs\" forced her to discriminate. Now she has to pay the price.",
-      "summary": "Dressmaker said her \"religious beliefs\" forced her to discriminate. Now she has to pay the price. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa215eEcxdkg5eDlxZnBwcDVmcmZWX2hZVVE4Z25mMDZuT3VVaGhueFRUZUFyRXZXRTBBRmVQTHlsXzVwaVRtRDZvOWNBUGhtSkxZUldRZk1mbzNnOVhEa29OeUI4QWV2cmdCWUJBTld6V253dzFLTktLNjA4MS1JMDlESXV6R3R5MDRfVFZER1YyOGlQX1Q4aWZjZm1aeGs4R1pscGhUSlE0amdsb3lveEJVMUxZU0FsSGpGNDZZV3BiNFRGWmk0ejdn?oc=5",
-      "published": "2026-10-29T13:30:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
-      "title": "UPDATE: Majority of California voters favor Prop. 3 but oppose Prop. 40 wealth tax, poll says",
-      "summary": "UPDATE: Majority of California voters favor Prop. 3 but oppose Prop. 40 wealth tax, poll says EdSource",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmRKRUoydFd5Tm5GNDRnX1dPcXNaOEdOelVGSzdHVkJVblVFb0FDVjl4aExkNkg4QWRkM2dqZ0hDTlFkV2Fwbmhlb2dVbnJsMkNYYTZsUHZob2tXYXptMXo4a05kNFVDUEd2THNXMkgtdkxQcmgybE1mNUMzUjJDZGxhVmJ0UW92cm1iX1hWOGFoRTRUQWg2WDNPU0pObUdTNjYxTA?oc=5",
-      "published": "2026-10-28T22:13:36+00:00",
+      "title": "Everything you need to know about California’s superintendent of public instruction race",
+      "summary": "Everything you need to know about California’s superintendent of public instruction race EdSource",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3NRRUc4TGJ0a2xHZlFaSVo4OVlDN1ExMXYtSW5aOTU4Yi1rSTNDOVdQMjhhdm1QMy02TlVkSDhMTEFQelhMTjZhdWhpVVBFek5PdEtNUG1zMjI5MHpnWDFrVzJsSFBaeEJxanlSOVRrU2NrU1pkOGxjYVdXZHU2NmZicFkxZ1VGWVZSRmV30gGWAUFVX3lxTE9TTDdoRTllZ044Z0NJN3Axc1FudkNvT0pDR0FMU0ZRNHVROVJ6VmVZMFBBem5PTmJ3S2hxOUlxZXF3Vm5LajJKZjNOODFMZ1E2NVltNkdmUG15eGhmY1BkaTF3aWZwM0tISHk5aWFDQ1A1ZEU1QXMyYjR4XzkwMFBMVER3dUVMZXpiVWdMeVdLUTNZWDEzZw?oc=5",
+      "published": "2026-10-29T15:49:57+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "A deported dad’s family said they missed him. ICE responded: ‘Fake & Gay!’",
-      "summary": "A deported dad’s family said they missed him. ICE responded: ‘Fake & Gay!’ Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HOVpHTnVzdkJMV3BuNjVvUHZwUVk3Qk5TVGkyY2hTX01wRExBWGQ4TU5LSTctMm4zRXZaSERlOUZwS2M4VnpWQXp0U25sY3BnWVVCb1RDQVUtNnJaaGViSW5YNWNma2Znd0JETlhZWkZLRVBzV1Jv?oc=5",
-      "published": "2026-10-28T21:35:57+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     }
   ]
