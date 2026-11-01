@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:56:42.231243+00:00",
+  "updated_at": "2026-11-01T08:58:14.042586+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,73 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+      "summary": "Companies promised AI gains— here's how the payoff showed up in earnings CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUzBvaG91ZkJPb2Z3cDhJOHZGVW4tSGxXbXhuS0JTa0JQYVlaOE1kb3FzS1lKdjU4ckY5aWlON3pOWUY2eUcyRlkwSl9ob3E0TnpGQ005TW5kX19SWmJoUmttd3Vqcnp5MXNEckRENzA1eFJFeTh30gF8QVVfeXFMTkkydnZzNHdpR0RrUkVDb2UycEEzeF9ZejZZdnFBUlJfN0VIa2Zub3NCaFBXQzRMczNpbzQyWm1KZXA1UWk5MHBRVXo4WE1VN2tNUjJYUE1hbU1MRS02SUZ3NEk4Vk9VY0V5YjZnU1JVNS1La3g4dVpSOXJzbg?oc=5",
+      "published": "2026-11-01T06:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "El-Sayed asked if Stevens’ comments are hurting his campaign",
-      "summary": "El-Sayed asked if Stevens’ comments are hurting his campaign CNN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGdGcktOTVJmWjR1ZWdnRHhwX3BJTlNXdHNTNFhXQloxQ2VWUnhsNDFXaHBXRS1DMlBqZ3dRQXZQWFd2Z3JHcEZFLTJZRFc4TklvMzV4LWFRV3BpcHZUWVBxMllEemdrazhDSktlMFBPOExRdDgtOWE5aHR2T042UHBKVXJtTkdtbFpDVnNSbHlMSk1XTjU4bjZTYmhCdw?oc=5",
-      "published": "2026-10-31T22:51:00+00:00",
+      "title": "Italian taxpayers are paying millions to keep Russian yachts afloat",
+      "summary": "Italian taxpayers are paying millions to keep Russian yachts afloat CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcW5FdmdpY3VLMjBucUd6cGl0OXpJcTh4X1RPY2IyRUZwQ0FKQ3gwalNvdm9DZjF5VlRkUFFrcjhXVDBFMjV2ZHA2a3ZDYzNMY09maE5sR051czNadDZHdk1jN0ZOZFd2dVJZRUJfRm5iZDNmSExIaFdPWXNGNGFUUDIxRDdVbC1WMzd3dVFhZmcyQQ?oc=5",
+      "published": "2026-11-01T05:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Beyond Bali: Travel pros share their favorite Indonesia destinations",
+      "summary": "Beyond Bali: Travel pros share their favorite Indonesia destinations CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzk2b281blpYYXJaZ3k4VWhKTFJaR2wwaDlYTWppTE1TWXV2TGNDMW9uZF9ORUFYUUVKSFYtWV9COGtWX3ZSVUdqbDZPNFlaSXlTZ3VEMnAxdlRva0ZLdEN5T2lWSzBLWVIzQnlGRE1DVjdOdU1sTVNHMjZhUXN0X3VB?oc=5",
+      "published": "2026-11-01T04:30:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Golden State Valkyries make history with first WNBA title in the team’s second year of existence",
+      "summary": "Golden State Valkyries make history with first WNBA title in the team’s second year of existence CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jYVE1T3A5aDdnXzNOWUhrRXoyZEhiX3dLRXlfTXhoNkFaUkh5c1U4TUw3eTZHY1NCSlhtVno2d0dDNUttSDBvYVY1NUl2LUNBYVRObmt3UVlueHY5TDU3YkI3WUhCQ0x4aHRJMXFLZmFfWmJqWGdZaE56NA?oc=5",
+      "published": "2026-11-01T03:23:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Alaska officials ask judge to deny Trump administration’s ‘impossible’ demand to set aside Senate ballots",
+      "summary": "Alaska officials ask judge to deny Trump administration’s ‘impossible’ demand to set aside Senate ballots NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3o5aVhFT2pLeG9XZUxMUDNqUk84dV85a19teWE4bVJpOURmYmphRWNnMTJ1X011YktNSm44MHhPWUx6U0lVbFVIaFdYdEoyaWw0MnFiUUI5Y2NrWFVwbEJyZjBIb3VGa0Q2Xy16a1pYdkdMTGNZVnVEajludk9lSHBLV192Vk40NkJJbk45ZWJxd2VCRFJzbFVBMXM3TDZUOHZZMWlBcXdpWUFOU2xDOU9XcFlHNkdhVE56NENTZWFmRHY0eUpJ?oc=5",
+      "published": "2026-11-01T02:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "FBI says North Korea was behind the $6.3 billion Binance crypto hack",
+      "summary": "FBI says North Korea was behind the $6.3 billion Binance crypto hack NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDVfaVJ0UnBxT0RldWJZdEdBV1pzaHlJZzlER0k2Zy1sWHZKQ0I2OW5vTWFOajdDbkxhTVlvSVpSd0RmRk16blRTN3h6NUhOQS1mYUxMSDZoVXhWUUVNNnVuaEc3TnVXeVI1MFhBRFpkcVNwak9SZnNZaUFHVGVoQVN5Q0Y4VkNWeWJST1lKQWFESTBaenk3SzEyeVlOQjNKdzY5dUpEajlLTWNrOGY0cDR3?oc=5",
+      "published": "2026-10-31T22:52:08+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,25 +104,25 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
-      "summary": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFc5OUxnTV9RMTJzNkV4cmtLdzJvMzhRckcyYzE3aEhPQmJzQ21rTC1zdjllekg4NHVBQkVXUGFkcUVoajNDVWdMaUhTaU5iQml6WENOZDhVRERid1FvMDZTcjdqNG93RnUtcElhMnBUQkN1ZUUwel83azdjaHZEaUU0cGNfT0ktTVhWWDVsSXNlUWJwYk1IMQ?oc=5",
-      "published": "2026-10-31T22:20:38+00:00",
+      "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+      "summary": "Secretary Rubio has a tough time getting officials at G20 on the same page NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM01zcVhHTUJfa2R1cmVWS3g0ckdnQWNHdVV1RndyNWJGbHN5XzR0T1o3eDkzMFhmbmFsQzY5TVcza3dGQUkxMW9zYVVfNGV4cmRfYngyV0tIa3ktcThFM29LaWhXaEFBbUV2SU9YbnVNV0QtTW1xd1ZfT3hZSTh6RUQ5bFI4TWpzaEVPd2Y5WWQyUUV1VURvc0xTbHF0aUZIODh2YUM5aHJnWmxPbXloeVQxb3JCaXpMdFRJ?oc=5",
+      "published": "2026-10-31T21:14:34+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Olivia Rodrigo gives Amy Acton flowers during Ohio concert",
-      "summary": "Olivia Rodrigo gives Amy Acton flowers during Ohio concert CNN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0hoekp6WWxQVXd1VndpNXBfLXhQSkhxYnRqZW84Rk5aZU9NUkxmNDZ0R3dPZ0pKVmtQVXBCcmtTQlFfT2FYaXZuYTgxNTV4UF9ldzhkY0pGbUEweUp3eF8zLTQ2eWJtLVpYczg4RFlIR1JaR3lsWEhkdUFPV3B3OGF2WWR6aTRZZDg4UDRQQV9GLXZnOEhQNVlmdTdhSWtfS0thLW8xNmpnMFV2?oc=5",
-      "published": "2026-10-31T21:17:00+00:00",
+      "title": "Trump lawsuit against Wall Street Journal over Epstein birthday letter dismissed with prejudice",
+      "summary": "Trump lawsuit against Wall Street Journal over Epstein birthday letter dismissed with prejudice CBS News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3lidDJCYjZway11R29wa3NvYzlJeXNfenVXMldoTHVfOGgwV05uV0tBbHBNWjZiUGdfZkRHbUREb2ExTXdRVGhhVldGb1NVSE1WS09DV2xpZTVGZG5mbHI5eEgzRUNEOGN1TDJGWnpMT25wTTRxZjJGTHNrbUlJeHJVd0NmSml6M25oZ1NuWktxTExYUFB6U0EyeExOZw?oc=5",
+      "published": "2026-10-31T20:59:41+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,18 +152,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-      "summary": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWZobnlmVnlwbk9rMk1yeUVabnE1QUdtdTVEWGR6UUkwYXEzWk9weVpLMWFtRWF2Ykd6SmpNalgtelBCZ0lBdkd6Vm1xcWhNNkNVM0ZKTW43TmZyUUtMb1pYZVY2V2VuaFh5dHdBakhBYllrQjY5bUhrOHpteVNRUWNaZFrSAYoBQVVfeXFMUHFJcmV4YzZNcTZ4dk5RX2YyQm1TWDhpSS1OemxNdFRkUHhFTEFDNHpueE1QejEzMGVQYUFwQXpNV2JaVmJzdlQ2TWFJNlJOYjFkckE3TFpHVHpMSWt4YlBzMkZUX0hSa295M2tHSkx5aUFDbjMwbDkxQlNhdnp1NlhYd21VOER5ZHZn?oc=5",
-      "published": "2026-10-31T18:56:21+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -128,37 +176,49 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-      "summary": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSkh2Z2oyY0s5ajFKc1dRekZ1NFdPdkdDeG01MTlTeWl5T1RnRDJJUHZUdko0MW1VRlJFSkFoa0VSNXAzNWJCN3FGXzNIeG50al9BQmJIXzdZQndvRTJTS2NqeEtDejN2dzB2d2J5YnNubUMwZjJaMVRjOEpvOXNZdHBVWUN2WU82TVhV?oc=5",
-      "published": "2026-10-31T13:50:58+00:00",
+      "title": "Virginia and D.C. sue over Trump's arch, adding to mounting legal challenges",
+      "summary": "Virginia and D.C. sue over Trump's arch, adding to mounting legal challenges CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaMnlWQ3FqVTBlVzdCc3FzbHVTZFprM2VrdU9HVGVLcFo1aGl1NldPTWpQeWxqR0ZBcllMaTZ2VU5palFWWl9PVVdFYnNtOUl6OFlJTnRkekIxUnVYTVJPRjF2bVZKZmdaZG1OSVBKcldEQzBycFhIakRB?oc=5",
+      "published": "2026-10-31T17:42:22+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Pope Leo meets with Villanova and Notre Dame basketball teams at the Vatican",
-      "summary": "Pope Leo meets with Villanova and Notre Dame basketball teams at the Vatican CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX2dPd0dmQlFTbkp3dXdCNzVxdEQwT3Nfd2UtQjAtRHE2MlQ0b1V1dUh1TW12cnI5T01ZTUtqdmpqVkNOTmNnVFF3ZGZhWlpoLTE4eHRtQWIxYjB5Q21Ha3lEa2duUE1tNU1PbS1waXdVemx1aEpLZXFvc1ZJRy1tcnZEdkVuUWlvLUo0Xw?oc=5",
-      "published": "2026-10-31T12:40:00+00:00",
+      "title": "Inside the Times’s Decisions on the Alaska Senate Race Story",
+      "summary": "Inside the Times’s Decisions on the Alaska Senate Race Story The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEtnNEMzeHp0SnlzMkRHbkhBeU9CUThsQm02ZHA0OFVRN2p1eTRMQlVHQ29KQjNpNTZOQkhVWkYwU0ZUWW11RVpjbkNQTFlaU0Y1cF9zdllQTFJLcnNwbFYtdGZCR1haQjBPdkd5UWxscnZvNWJfd21VNi03RFNiOWl0NnQ0ckFfYUpaWVJ6emsyOW9SNlFF?oc=5",
+      "published": "2026-10-31T15:39:27+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Queerty Crossword: Oct. 31, 2026",
+      "summary": "Queerty Crossword: Oct. 31, 2026 Queerty",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WNjJWZERXc01tUS1EMnhNdC0tVGlicWRtUUQ1d2RkUkM0T0lKblR4cWM3OFoxQko0WllOSC1SUVVSSDdidGc1ZFpENVlleXRJNEx2YXc1ZXlPNGtuSHRhbndVLWpIOWgzY000QllaVHQ?oc=5",
+      "published": "2026-10-31T14:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "As Democrats predict a Hispanic wave in Texas, Hinojosa is taking her pitch ringside to Latino men",
-      "summary": "As Democrats predict a Hispanic wave in Texas, Hinojosa is taking her pitch ringside to Latino men CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWNockdUZWpTVHpCdVJ3NTJBaHlFZzE3eGJhZnhjS0RRdFVJeXlJcWlFeTlpM3Ezbk11UDYyZVdmM09XYlZtcjhhMFFBckFvbS1Vb1ZxamJSZS1rcUdpU1R3cDRHdkR2XzhudG5VVUsyeUUteXQ3YkJ3MmdYc284TA?oc=5",
-      "published": "2026-10-31T12:04:00+00:00",
+      "title": "Democratic Discord Intensifies in Michigan Senate Race",
+      "summary": "Democratic Discord Intensifies in Michigan Senate Race The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YR1owcUlLb3d1ajhFeWJacmU2aXAwV1g2Uk9aUjhtNFFNSlRSMXFxR2RCaWlIUWZ5M0w2M2kwODVndGNuSFdUangydkM0b0p5WERGOFY5QjZtSzNnYnhZTFd5NW1yZ2d6amJwMk9sdll6ZXdQeWc?oc=5",
+      "published": "2026-10-31T12:00:55+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,42 +248,6 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Daylight saving time ends Sunday. Here’s what to know as clocks ‘fall back.’",
-      "summary": "Daylight saving time ends Sunday. Here’s what to know as clocks ‘fall back.’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0t4OVJhWHE3S3pGc1AtZms1V3VDUFdjY0FPMTZ4cmlkb3NpckFHNGlqZ1lQZlB0dE16T2dpSUY4RGJ0d2tLc19kZHdqXzEwR0dScGpuUG1tQlBTRW95UG1rZjFmRHQ0MmFlcUJ1dFowZzlmajQ0TzBVaG1taUUtT0IwQ2pFSFpMc0RRZm5GaEVTNWdZTkVsNDZOUl9PUVRiekJxRUJqUQ?oc=5",
-      "published": "2026-10-31T09:00:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
-      "summary": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSb2ttMW1YS0pjbHgzSU53M0lOQi1tSWFaeHE1MU5DckRQNDRJZjd0Mnlwbkd4Q0ltLVlwWThUbVVuN0tXMzFmTExNcnlYQjcwXzNvd0dOTWFpQ1pITXk2d2hacE8wWWx0RHJ3RHZOOEpsLWI4ZEE?oc=5",
-      "published": "2026-10-31T07:18:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Tensions over Poland’s top court ignite as the country’s prime minister and president square off",
-      "summary": "Tensions over Poland’s top court ignite as the country’s prime minister and president square off CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWJWOGNNazR6Y2dTQVZ4T2xqOVhNdG5FWV9vTTVISVROeFpULVlqZHp5Y0xMc1pUcThCNGFjY2lJaHZPTGVzeUJCckxwMnYzazhDc010Wi0yNHFSVmlOZmZXOS1TVDNoVWhpMzhHdV9zSEJ0R01uSlZ3akNBa285elYtNC14VVlzQTl3?oc=5",
-      "published": "2026-10-31T04:23:49+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -231,18 +255,6 @@
       "summary": "What happens when your phone refuses to believe you’re gay? Queerty",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzF2VEZ5Ql9LQ3ZKQ044YTlNSGlMb3EwbjBITlFJRXk4ZEU2MTFSTzhSV1JoLWkwMlp4aVJPTkw4WGJ1bzdyblJOOVBNb3JEeXpNaDNjODNMcklYYTROazFQMVJfbEwxenFjbWNRMmpKWlNYdk1JbjloN3BVejZCWWd5REFCMkdBXy1GM19lNUlubHBFbWc?oc=5",
       "published": "2026-10-31T02:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "“I’d rather be dead than vote red”: Celebs sound off to Queerty about the midterms",
-      "summary": "“I’d rather be dead than vote red”: Celebs sound off to Queerty about the midterms Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWxab05taTVmREFkcC1fOVBWWklReHZrOHJGTk4wZkJMa3I2X2d1Sl94dXhKb1dxRmJFTko4dnZtTkIwT1Rnd1p3T3FMbHBpNnlEQ0JBcGtIZFBXeGFIcXdWT0hGWUhqSE11SV93LU5JbkxaRzQzZV9DZnlNdGMyeUUzYXZacFk0WGZUYlF5a1VvSi1pQzRFSVBYTGRvcGxPcFdUM2pwdElmaWs?oc=5",
-      "published": "2026-10-30T22:00:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -312,10 +324,10 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Florida woman accused of wiretapping Patrick Clancy's father in Massachusetts and posting it on Instagram",
-      "summary": "Florida woman accused of wiretapping Patrick Clancy's father in Massachusetts and posting it on Instagram CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGZrczZLeG5GSTV5cUdvZkVfcHhmZXNOSWFJTlVSMUNjMGVpTW9PUXdkUkc5ZHJ0a3ZudWprdW54Ukl0Tm95cVZtUWltNDI4WVN5SWx4MW5rVFFuM0hiVU96NGNPZGNfWjItQm1LaVV4X0VRYzBIYk51T2ktd0ZaWE5pTGtGUDhRMnZUVGV3?oc=5",
-      "published": "2026-10-30T15:39:00+00:00",
+      "title": "Pentagon disclosure about fired general's failed polygraph may have violated privacy laws, attorneys say",
+      "summary": "Pentagon disclosure about fired general's failed polygraph may have violated privacy laws, attorneys say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2N2ZjE5S0xzS0NBYjFLVDNCX0lHUDVYbHJzcXYwUGNpS0lVZWtDMVIyWWtUTVVENDF0dG9uTmRUeENoVjZBREVUSzdueTNsSEVlVExHcWJ5NTlyVWM3Vzd0SFpJbC1wbHdMZGRkdnFzcm9GOFNYM3pFbVh2aUcxdHc0dWkwN1dzSVJ5ZWhwcDE1bkpDZDJnUTZ5N2N1NGFa?oc=5",
+      "published": "2026-10-30T16:49:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -345,6 +357,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "San Rafael residents brace for severe flooding as expected rainy winter looms",
+      "summary": "San Rafael residents brace for severe flooding as expected rainy winter looms CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGFhVURTTEMwdmZqcWROa0R6RmtxcmlWY1Z3N1RBU3lMaG9FQVFEUkxfaDZCUWVmQXJMQXgyZ2hPdkRieXBDOWF5MjRXUWZpTThZRTJSRzQ2TllDMEFwc3lfRklqNlEwYkFoUWlnc0ZlQ2dxMmlFclF2TWhFQXl0c1NNTFc2bXpxcERpSHlCNlVjZXRVb3c?oc=5",
+      "published": "2026-10-30T06:48:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -352,30 +376,6 @@
       "summary": "The Assessment Trust Crisis: How to Measure Learning in the Age of AI Education Week",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkNjcnRmNUZWOWNtcHFKcnJEMXZDU0RjYTVHbzJJbHFvZElqM0pMVEE4MzZqUnBhUXFaWUJreld3Q0d3bXFKNTg5WWlWMkpEUUxzcnhhU2RWcDk0M3gxNEwxZ0Z0aTEwVVVUTUc2ak1OYkd0UHNrb0ZHbXJQNVNfQS04Z091T1RlbDMzODdQOS1kcjQ5UF9PaTJzREJQa2h5cXB3blNqLWtqdw?oc=5",
       "published": "2026-10-29T23:19:24+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Transgender teenager sues Essentia Health after 5 years of care abruptly ends",
-      "summary": "Transgender teenager sues Essentia Health after 5 years of care abruptly ends CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFI1WlpxdmdGeDE2SHdRVXRreURLSHRCNEZ5VEZnUGNFMlBiOHhoZ3hJdW9FY0xNelptdWhqS0FQeUcyLWt2SE1YblRMTlRwam9GLV9yaS1WRXcxbWhLRDBRSnVjWl9udHpCZWpvRFpmR0VObnNHS2ticjVKLTRvZ1Vrd3c5MGY2clpKVXltZ1dyNkRUYTVpclZYQjBkeElNdW52cA?oc=5",
-      "published": "2026-10-29T21:33:15+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Special education disputes continue to rise",
-      "summary": "Special education disputes continue to rise K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHFsRGhaX21tWXdLRzNhcERRUElicEZMOHpENURXTmZzTTB1ZDQtQjZ3bzBXM3NGN1NOV2s3QWo2dEVtWXE2aTFqU3RESUJNTURLWVlnU3JFYkEyRWtodGJFZXpfTVNvZHEyZlR3V054bzY5eDFkQUJ5NGU3VUhhd0ZUclF6YjA?oc=5",
-      "published": "2026-10-29T21:09:52+00:00",
       "beats": [
         "Schools"
       ]
