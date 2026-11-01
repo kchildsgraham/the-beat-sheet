@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:22:33.037823+00:00",
+  "updated_at": "2026-11-01T23:47:16.802686+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,85 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Video shows moment airplane crashes in Palm Beach County, Florida",
+      "summary": "Video shows moment airplane crashes in Palm Beach County, Florida CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3FTZWdNSEc1cVJGQUxBM1Vtb1JTYVhXSzlRMDl6dVpHNzB0NWpJZndzVmV6cWljMERvZ2x5WjluS0hOWHV2VUZjX0ZRRUdVN0lFOF9KRVVPX0QxanU5a3prUEc4Z1JpLXp4eW1Da3EwZHhKTGM2M0JYR2NmRHBYMjlNcVl5Szc0R09Hcy1fMkRQb1Mtdm5F?oc=5",
+      "published": "2026-11-01T22:31:11+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+      "summary": "Do you know signs of a stroke? BE FAST are the words to remember NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91TE1uS1dlTFRRSjRHQm9MVEZaT2JmdU9lRDFldDN2U2I0OTFKbTJLOVhkMXEzTnFxTThoUjg0UGVERi1NU1Vqc3c5NUdxRi1Uc0tLWGNPWDZ4ZVUwRlo2b1pKMWhYYTc3TXA2RHNQemRJX0dZZHc?oc=5",
+      "published": "2026-11-01T22:22:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "Haley Stevens Abandons El-Sayed, Endorsing Mike Rogers in Michigan",
       "summary": "Haley Stevens Abandons El-Sayed, Endorsing Mike Rogers in Michigan The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzdnNkdDblZHa0piZHNOS2oxa254V1VnQzB0RlIxMmE5OWV0djBxSi1WVUU2Zm9ITEpCU3ZnNnJod3QyOVJaM2xfaG1zSmJjalR3RFAxWV9rVzdQcXc4WjlNVVhZU2NBYjlyQ3RHMkpxRmNSa0wxSGUtTF9qV2xOUXNDRDM0S0RHTWpBekdZcnN4dlVZanY0?oc=5",
-      "published": "2026-11-01T19:51:56+00:00",
+      "published": "2026-11-01T22:18:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Learjet plane crash in Palm Beach County, Florida kills 9",
+      "summary": "Learjet plane crash in Palm Beach County, Florida kills 9 CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTcWQ5OXN3NllJNlVibFNZdm95OURiTUxLVThOdHhwQ2RfdmlSRHRYV1F1QlpXZVFTSjVGaTNaZFFUVlcwd1hWVmVQU2NhcXFLS2ZTd0R4aDJqbVZtRklidXR2X1J3V1FlWDNr?oc=5",
+      "published": "2026-11-01T20:31:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "9 killed after a Learjet crashes and erupts into flames in Palm Beach County, Florida",
+      "summary": "9 killed after a Learjet crashes and erupts into flames in Palm Beach County, Florida CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pM0ZaY1ktVkp6M1VMSXpsY1otczVFeDU5SW9OX0FGR3JHMWxKbVpJMjRyNUM2djJoY0JrZEt2Vlk4bnRWTzBwS3dlU2NkVENNaFFBcGNMblBIekpIbU0yNzZnV2s0UHowa011VDEzVHU?oc=5",
+      "published": "2026-11-01T20:31:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Chris Gallant sounds off on Pete Hegseth: “He’s just wholly unqualified”",
+      "summary": "Chris Gallant sounds off on Pete Hegseth: “He’s just wholly unqualified” Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTh1Rms4UE40d05BUFNEcGRGWmQwWGNYVzhWSlBaNFJLbGFxTWw4cnE3TlJRMnZVdVhMR1FNY1BPcEJWRTVtWVpsVldCaC1UOTlpTEwxWkNLSHdQbVZwVmxUenVEX3RyaGR0UWdrUk91R1BSNGtCNXVMUzFFbGtxQVhvOGZMeXd4aDlvc3FkTERSQjhBQVN3MzVhZ1VhcWhyTkFKeg?oc=5",
+      "published": "2026-11-01T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+      "summary": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlRvdFFRQmdhVWw3TG03M0EzenlWaFdUaHlsRWxHMFIyVzZCZFRISXNyN1hvRi1HajVsb2dBQXdNZUF1WmItZzZCVVVGd1k0dGMtM3MzVzBEbWhfNUtnYXBRWEJ3dWJuelplZVZ6eFZnV2tVQWUwTmdwWExoRkxLVnkwUzNKR25PQlVsU2Y5ZUlJT2c5UUNfUjJGTUxEazFJY3Jpa1pSLVkxdw?oc=5",
+      "published": "2026-11-01T19:49:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,63 +128,15 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "How to think about the midterms — and the political moment the country is in",
-      "summary": "How to think about the midterms — and the political moment the country is in NPR",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFRObmRWYTBBS1hSY1hMV3FNbF9ENzhHRkEzOEZJTjZQVk5PQnZKM3N4emI3dktzTGg1YnhoRmVaakgycjdKMGZYZFRmSVlVNVNEU2xjTzhZMU1oYXR0Y0djUEZweGI1THJINkJNQkZRVDVCYV92TE1vcS0zdHJqajlzTFVtTkNuTUZrZXZVSzgwM1pFMDRheEFwZ050SVdqVnE0c293cGp0RzZMM2lOcG1ldFNURWFl?oc=5",
-      "published": "2026-11-01T18:27:06+00:00",
+      "title": "Here are 3 big things we're watching in the stock market in the week ahead",
+      "summary": "Here are 3 big things we're watching in the stock market in the week ahead CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtyLTlyc2FTRDZxWmptdE1UdjVXRlRqRGVLRlI3cnE1cW9pWGZ6d3lqOVp2N1o1U043YmxRanJSWWlySDM5NDB2dU1pbHltTllvTUE5S25vd3NzRHRfVmxad1RKc1REUWFtTV9IelRTNDk5MzlVcDFnYmJQNmxQOTNPWklfUWdOOGdTVklsRS1UUFRsYzFQTm1mcUh0M1VnWUdFeVRoM09nME0?oc=5",
+      "published": "2026-11-01T18:09:47+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-      "summary": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0tqclpGdHZtME0wZFY2LWpLZHF3TG5BMmk3RUM2SkdvWVI5c0tJa2pOTzJvN19pRFhkQng0ZUloMGVmSUZoQ1V3cE5PWkRWX1ppaHpFV0F4WDVVSVF1eDFPT2N3WnBROEpOdVR3QkYtZVZTcl8wNGpLZ05wSi1fdE5tbU5nNE9UX2VQX0gxbWlhQQ?oc=5",
-      "published": "2026-11-01T18:00:37+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Judge throws out DOJ attempt to delay certification of Alaska Senate race",
-      "summary": "Judge throws out DOJ attempt to delay certification of Alaska Senate race CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1reWNnZUhhVC0tM2Y4dHd5ZjFXNEN3X3RwRUVaMlgweVYweURlekJlUXJZS0hUM3JNa1RHY1EwUUh1UnpZUTJlR3ZQY3lxbXdESm1QUlQwOEJPdmxQbi1ISmd5M3p4a0xmSmpZdEhPQnVKTlFY?oc=5",
-      "published": "2026-11-01T17:57:58+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Sen. Chris Murphy hospitalized with stroke and expected to make full recovery, his team says",
-      "summary": "Sen. Chris Murphy hospitalized with stroke and expected to make full recovery, his team says CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wRDY4V05IWFMxek1DZlFTYXlkUGFHVjktM3BlX0xtLVlIY1IwMTNPcVUzeC04eEtZODQ2Rm9qNWxfZzdaNTY1NUYwU3I3QTMyUTNoSUlZTHhDdUU2SEk1YmE3ZVJMZ19yMFI4?oc=5",
-      "published": "2026-11-01T17:51:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "4 killed, about 15 injured after multiple overnight shootings in Dallas neighborhood, police say",
-      "summary": "4 killed, about 15 injured after multiple overnight shootings in Dallas neighborhood, police say CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbkhLMnBvSm4xdVllX0dBS3JMS2JLMEQzUFNETjFDbk1SUkZfNXB3OWFBRDd5OVBwbUFhcjNkV3ExdkJTS3Q1dmg4NHFfSWdQMnd6UjZZTFlxd0pSNDl3YTdpZjMwS2Q1Q2dWeUdtRmpqQzRt?oc=5",
-      "published": "2026-11-01T17:21:55+00:00",
-      "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -140,18 +164,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "These Senate races may help determine the fate of Social Security",
-      "summary": "These Senate races may help determine the fate of Social Security CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XeDd1SnRiS3FGTVdOdWZHUFFxTjN6U1o3WTBvcVF5bHltcXpSaDU0cTdtWHRzaWhNUDNjYWc0WWk2MGNmV3lWUVVCZ2k0R25LVnNDV3dJSzZXeWlyQlpRSVQ4Y2FWYVpoTVJjWkpUemt1Z2_SAXhBVV95cUxQcVVlYTJkQk5vZ2tEZ2JHbUhyRVltdzRMWDhCLVQ2VjdXYVZXYUJhb0FXa01mMUV1b0ZnUHhqc3hHZzVvb1VmdDN3VF9vSjAxTnVjb1pTbTVadjFmLWJPMkFGalFLZDZSd3ZVNmF5U3daZF9TQkp4ZXc?oc=5",
-      "published": "2026-11-01T14:30:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -164,11 +176,23 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Could A.I. Be Conscious? It’s Definitely Possible.",
+      "summary": "Opinion | Could A.I. Be Conscious? It’s Definitely Possible. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcS1mNVBVVzN5N1RSdElXd0RmMXdsRXQ1bU9BLU5Uam5waWlEUVoxMHlYRW1OeS1uUS1RNXZpVUFXYUtZbHRkSDdFWFA2M0NaRWliUW12UGxQYzhtNVhtTWhxbG12MFVleTMzbzkxWEwyRnc4cDg3aUR4SQ?oc=5",
+      "published": "2026-11-01T11:00:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas Police say",
-      "summary": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas Police say CBS News",
+      "title": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas police say",
+      "summary": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas police say CBS News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTZSbTBfMk9HT01US3ZobUhUUkRQUGNBdWxlNThnNjltcDZFMEQ2RG9saG52NU5sRzdCNDVYMDV4N1RUT2k4SE4xRnBWOVZhYzJULWFVeUdZYUljOER4blZydHRrdmc3YUVSMDFyamozeDM2dzQ5VUdwQzVWeUlMZE1jcERRU0k?oc=5",
       "published": "2026-11-01T10:29:00+00:00",
       "beats": [
@@ -176,13 +200,13 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Alaska officials ask judge to deny Trump administration’s ‘impossible’ demand to set aside Senate ballots",
-      "summary": "Alaska officials ask judge to deny Trump administration’s ‘impossible’ demand to set aside Senate ballots NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3o5aVhFT2pLeG9XZUxMUDNqUk84dV85a19teWE4bVJpOURmYmphRWNnMTJ1X011YktNSm44MHhPWUx6U0lVbFVIaFdYdEoyaWw0MnFiUUI5Y2NrWFVwbEJyZjBIb3VGa0Q2Xy16a1pYdkdMTGNZVnVEajludk9lSHBLV192Vk40NkJJbk45ZWJxd2VCRFJzbFVBMXM3TDZUOHZZMWlBcXdpWUFOU2xDOU9XcFlHNkdhVE56NENTZWFmRHY0eUpJ?oc=5",
-      "published": "2026-11-01T02:00:00+00:00",
+      "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
+      "summary": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80 The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdkZWRERFVRb19QREpIRV80dUcwNHFuemI1NGxtcV9XbGt2YnZSTmZXSkladVRUcUVfVDBzbmNFYkxXcS1TRFZWRXlxQmppczdYUkFKRDAxU09JeEVtaXB4VHdFbUlCa1RTNldWa2Q2bnRRbjdNcU9DQjE2N3hlLVN3TlU?oc=5",
+      "published": "2026-11-01T10:01:59+00:00",
       "beats": [
         "Politics"
       ]
@@ -199,6 +223,18 @@
         "Politics",
         "Schools",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "FBI says North Korea was behind the $6.3 billion Binance crypto hack",
+      "summary": "FBI says North Korea was behind the $6.3 billion Binance crypto hack NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDVfaVJ0UnBxT0RldWJZdEdBV1pzaHlJZzlER0k2Zy1sWHZKQ0I2OW5vTWFOajdDbkxhTVlvSVpSd0RmRk16blRTN3h6NUhOQS1mYUxMSDZoVXhWUUVNNnVuaEc3TnVXeVI1MFhBRFpkcVNwak9SZnNZaUFHVGVoQVN5Q0Y4VkNWeWJST1lKQWFESTBaenk3SzEyeVlOQjNKdzY5dUpEajlLTWNrOGY0cDR3?oc=5",
+      "published": "2026-10-31T22:52:08+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -250,37 +286,61 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Trump’s Arch Faces New Legal Challenge From Virginia and D.C.",
-      "summary": "Trump’s Arch Faces New Legal Challenge From Virginia and D.C. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdTl6Qm16bDk2WXdjXzNmNXBIT1B5Vml1Zy1DaXNOQ1JqUEMxSVYtYXY2eENyNkQ4ODlYT3lON3NoVzUzUUpwU1M3TXJUaWlZQk1vbDVBM3ZybF9DQ1V6OGpfbUZWNGRFZkUwU2l4QkJmcWdPWlAyTVJXU05Eb00?oc=5",
-      "published": "2026-10-31T16:11:54+00:00",
+      "title": "Oakland family seeks justice after beloved dog is killed in attack",
+      "summary": "Oakland family seeks justice after beloved dog is killed in attack CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTllVMERTcjVBMGFuNmNKYmZkV3dtdHdXYzZ4WF9aMWt5eGlRcjFDSllNQkV1eXhicDhzWjdrQnJEYXk4ZV9nSnJYNGVVX2hld2dHNk9Ba0Q2UjlJMXozYVFnZGdieWxYRzFmV3ZjQ29keWVTZ3VPNkgwdkVMZzVWUFNPbnVISjRPOHRyT19kSQ?oc=5",
+      "published": "2026-10-31T04:19:31+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Shooting at Spirit Halloween in California Kills Pregnant Mother of 4",
-      "summary": "Shooting at Spirit Halloween in California Kills Pregnant Mother of 4 The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFFEa0RDQk03ZmctZDc3Wmh3clBJSUxIY2JLa0d0UWFLN1RDZlR2Z2ZmUFo2M1hQV0xCS1k0bFN5N1l2STYwWG5STXhFSWZsa19fM1J3YjIzdHZpSk01aHU0dWg0dUprbWxqQnJrMF8yR0VIS241UTI3bFNwRzBNTnpzZzFMUQ?oc=5",
-      "published": "2026-10-31T15:00:33+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Queerty Crossword: Oct. 31, 2026",
-      "summary": "Queerty Crossword: Oct. 31, 2026 Queerty",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WNjJWZERXc01tUS1EMnhNdC0tVGlicWRtUUQ1d2RkUkM0T0lKblR4cWM3OFoxQko0WllOSC1SUVVSSDdidGc1ZFpENVlleXRJNEx2YXc1ZXlPNGtuSHRhbndVLWpIOWgzY000QllaVHQ?oc=5",
-      "published": "2026-10-31T14:00:00+00:00",
+      "title": "Spanish prosecutors seek prison for police officers accused of torturing gay Arab man",
+      "summary": "Spanish prosecutors seek prison for police officers accused of torturing gay Arab man Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuTl9yZVdESGx3UXZNWXpCRDFxblVJRC1GZjRfQWRabGpmMTcxbS1fRDZkYkpKd21ja3ZSY1ZhNG15ZmZVYUtzX0t0NWdGOWNjU3hzZ2tzMXVaZHJVUXktVHR2VHhzaFd2M0FqTGpWMlpBNEwwMkRN?oc=5",
+      "published": "2026-10-30T21:49:26+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Texas student sues district after she’s denied male role in school play",
+      "summary": "Texas student sues district after she’s denied male role in school play K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjFUR0xscThRSUJDNGZzMFdZb01HR0FyX1Exd3BLWHUzd3BuNUQycThRS0N5cE9kLWpsMFQyNl9JbGEzMW0yTHpuQ1FSdmdxU2hRQzJjZ2ZlWkVuMFlJVDNBOGpnc3NRUlFUVEZ6SWZmWTNKR0NJTGxHc3NpU0h3VDMyYUJOR055TVVwa1BpOWN0U0tjX05hd2lXNGpYZG4tQ1BEeVVqS0tETVE?oc=5",
+      "published": "2026-10-30T21:30:24+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "The Native American Story Isn't Only in the Past. Stop Teaching It That Way (Opinion)",
+      "summary": "The Native American Story Isn't Only in the Past. Stop Teaching It That Way (Opinion) Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSlZoTDdTNGJwTGJmNXAyMTV5SXNPeVdSaFMwakduSDJTVzJMc2NnX0pMU3haeW81dGZxWVpSRmtrTG9icURuVmxJWkJRUEF0ZUxoekNoOE0yZEFKT1hpMnpwUmI3R2pLXzR5RlU5ZkhOX2x4TDlIX05LRXNscy1TdlozWDV6WjMwRkl5SE9rSVNJUzkyeFJuQmR2a0Q5cEJaNmlUNjFYOEotYTJOcmNDRmlCMWlNaUVQVC0wSW9HVGk?oc=5",
+      "published": "2026-10-30T21:23:43+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Emmy winner Mike Manning once feared that coming out would cost him everything. His life tells another story",
+      "summary": "Emmy winner Mike Manning once feared that coming out would cost him everything. His life tells another story Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSUsxV2hPcnZ4MzEzU0N6UEdRaF94OExnLWVhZFMwLTZfLUxNVF9KckZDMVhza1U4cWtqdHp5bmtKVm50XzJteW1OTmFWTjV3OXd1WThyejNOSmhadUNaaHY5eGt5dFFGWVVCVlUxQ2gzQQ?oc=5",
+      "published": "2026-10-30T21:17:25+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -320,67 +380,6 @@
       "published": "2026-10-30T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Republican trying to make Virginia’s marriage ballot question entirely about trans people",
-      "summary": "Republican trying to make Virginia’s marriage ballot question entirely about trans people LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2N4bmE1aTRBSXJtNzZNVXgtS1NwM0JkemZhM0dCZEk0XzdRdlRJcG1PNjMxSjlBUjdDaFBGRTVGZi0wY1l1SFdtV2JleVU0NVBoaTl2anRjZWlHdTMyT3ZZS3h4cVE1LVdVNFE3NFdsRmhkTVhCMmpCeVp1Qm5GaEpFbFJPLU1YbC1ITkhpbUw5T2IwTGJWTW1YWU5kS1NOOXBfaGt3MHE0Mnp6QnlBV0ZrcmxVaHVNejF4TUhPSjBiYUU?oc=5",
-      "published": "2026-10-30T18:30:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "UPDATE: How will California ease workforce shortages? Tap potential college grads, report says",
-      "summary": "UPDATE: How will California ease workforce shortages? Tap potential college grads, report says EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV21QbTdJREg3UlBpQnF0MmlmOUx6QWhOTm1mblZPQVAyNC1qaXNzVFUyaTZYYzNxZHVhT2EzRUZwZWcwRXh3VWpLelcyVVMwVkNtMTFSeWIyR09JQ28xZEw5c1ltTTFtbTNtbFAzMC1zYWdaU2hwdDZ2ZV9aMktGUUlESVVvdE1DNDV5NEhZMEVzelF5WDRNbFRJaUR0NmZkY3NEWGtKdHhqQzBTMDRQQjFUUQ?oc=5",
-      "published": "2026-10-30T17:30:17+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Trans boy sues after healthcare company ends gender-affirming care: \"This has caused much suffering\"",
-      "summary": "Trans boy sues after healthcare company ends gender-affirming care: \"This has caused much suffering\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1RYMVVPS3FMTlplRERCb2xPYXoxSlJOaDAxZ0F3S0R3RDlZdXF0c05iRFVTTnRGSnNnWFZQYW0wN0hkV1pZUVM3ZHV1Y2dxa3F3T28tSl9OeFA3bUlNTGxHQ2RUS1N5UU1ONWR4aVB5aVRxOWltMFFDTmY3Ym1MVWVCaHJCRnVDQU1ZeThmTEY2Y0xwNVZaSG9BWHdlR0YwVjJfdUxBaENVU19mYnRPS3ExTTFtb19GYWs3S1NaUk5TVndNTHowa3ZrRm9vcFE?oc=5",
-      "published": "2026-10-30T17:00:00+00:00",
-      "beats": [
-        "Business",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Districts struggle to staff CTE — but not this Arizona school system",
-      "summary": "Districts struggle to staff CTE — but not this Arizona school system K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkJ2akhWallTMEgyN1ZoVGc3MUZ6dHk4Qk9BNDI3ZUU5VHZXNkJRTWs2QjgzbThYZnd6QUVCaGVpalUxQ0dWY19IbzljTkZLcUxJUWd5X1E4NUt4TGFpV3RQMjdUV2FybVlrNGRLVC1MN3ltdnh3Q0dmYlpueEc4Zkdfa2p5RE9kRVMwc2dYWk1TbkdBX0NKR1pxMDh4aFc2LTZYT0p3?oc=5",
-      "published": "2026-10-30T13:25:18+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Test yourself on the past week’s K-12 news",
-      "summary": "Test yourself on the past week’s K-12 news K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczlQYjl1SEVCdW1BdTJXZlBEd1F5dlZVSGVfWkU2Ym5SYnd0aHlyV21aU0IxNWszdElOYzlwTzhySTk1RjRaUWV6Mjg3RzRnS0puX3hMTlc0eGJzcXAwZlFHdmdKUWtYVFB6a3AxMXl0SzVOMHVBTzJpdWRFWGNqTGFn?oc=5",
-      "published": "2026-10-30T13:25:18+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
