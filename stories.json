@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T11:41:39.414939+00:00",
+  "updated_at": "2026-11-03T19:13:16.059749+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,121 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+      "summary": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMlVlY0MtTHpoVEU4UlM3dk9mTzF4dl9pOUJWLUFuY2tPR3diQ3UzODhyYUN0aWctV3RDUF9Ba2RzR0k3QUw3ZXdLd013NlRSNEpEbl9jSWNMMUhRNEg3UGw1RGpObGxMTEVqenhfUdIBdEFVX3lxTE9jZzllUGdZQ2R0d1pmQ0cwNm9uWU5sZHV1dUx5dW5Oa1Y4TWZPaU9ZT0NQSVhKYWZYN0tJM2otdUh5dEhCMVB4dk9oZGdKUk1MQTVpX3RlZnZNblExaVNRLWpQT2FxX1BhX09NeTRYb0dLOXZk?oc=5",
+      "published": "2026-11-03T18:33:49+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
+      "summary": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Qc24wd2VheDhFLU9KUm5BQXVBVlNFdGhvSjViVnZ0cmV3S0FlRzAwSDBiRHhSYm83b0l3NHhoOXpvV24td3VNOEVFQlc4RXgyMklQYnhzZnhVYl9VcWVRakVBemZ0U3VrbjFublR0ZjlmN05Ba194cA?oc=5",
+      "published": "2026-11-03T18:17:27+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+      "summary": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5wNGg5UzgtQldwVTBiZmNCTUtKR0U2ZHRfamdTdUJFUHFxdmhDM1VQNV9DRXhQdzdjZ3J1NjlaUmFJWmhlWnBLMmF4SzMwQXZHdGxhTHhyWWdydW5NTWtiQUFLa0xoWGRWWW56LTc4OEZqOVdQeFdScHVBSXZZUUxuLWtTbXNmcGpFT3FYMmt4THlROFE?oc=5",
+      "published": "2026-11-03T17:48:04+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "summary": "AI-generated 'slopaganda' in political ads puts internet platforms on alert CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZWVzYlljdkJNX0d5VngtTTRGZ1lfbjNiNnQ3SHlRX0JXZTloWjJJMnNTS0lkV1RhYWxHMl8tNDJnamE3cGJDcC1SdEVyQUlUX182cXgxTVpvSGFibWp4OUJiSHItZEo1YWdGQUROUU8tbEFTVGY5c2RublBLcjJQU3dZcU1QaHp4dmxXSG5iWjNuZE9YVUMwMm1zVXFuMnF2amdz0gGoAUFVX3lxTE81MWctSnNFOUxZbDBPejNCT3E3T2t6SHdhcXpONHFkb1pGMkJUVFFET1hiTDhHUzF4N2dtSTBQM2t5NGhybWswTUZKRkg2d0dLM3hLRXlXczVWQml5dlVxZDc0bTdrcGJwRlc4VnVTa0ZPbHJJRHRRQVlFSUlMWEMydVFldS1JWUJoUG5GdjN1Rm5JVnA5Smo3MlZSZUcxeFZmWjJDNUY4dA?oc=5",
+      "published": "2026-11-03T17:37:31+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "summary": "Google Will Turn Off Search for Schools That Reject A.I. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
+      "published": "2026-11-03T17:21:24+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Video: Mike Rogers speaks after voting in Michigan",
+      "summary": "Video: Mike Rogers speaks after voting in Michigan CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzY4ZHo1SF9ybjFhbWJvVjNFZ05NalQtcjY0cGpJTVBIR2k5NVBLYWJOWFpoTTVoamFaR2dNOEhpeTlyX1FOZ3N1WUZ5V1VNd2FjSnVSSU1oeFNsS0FLZFA1anU4dHVjQmIxWTZLNWtQb3E3Yzl0ZXdnWUdhSFdLbnlvZWRqdUNESmNzZEdEcUd0RnV4UGY0?oc=5",
+      "published": "2026-11-03T16:25:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "New restrictions at Texas Tech are changing what professors can teach",
-      "summary": "New restrictions at Texas Tech are changing what professors can teach NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnhZY05FS1ExejNJLWozaENFeTAtZGlTYXVGWHpNOTFGLWdqT2FKWG9HOFNhbUw3QWxEMmtzTXRNN3c5NlhMU2Y2cVRnUC1iclVfRFNxYkFyZGtCZ0RaTVRtNnZZZkx3OWo1MF8zcjFFeTJIbGNUWklhM2RCMGFXZkYzWQ?oc=5",
-      "published": "2026-11-03T10:01:00+00:00",
+      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+      "summary": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakM4dTFpTjJrZnpBMENfbHNuaVF1Uk9EMXdXREFCRzg2ZXpESGVMM1JVWVFoUmtTUXpmVlVPd2k2X1BzWVJtMm52V3Myb0p4V09EMEV3RDYyN08zcEpkSFpmS2Y0ai1uWkViWmgyMTZwWVVYS25XN3NjSjE0R0tyT0JGSmt5SU9CcnFF?oc=5",
+      "published": "2026-11-03T15:54:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+      "summary": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20% CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWZnFQbWRWdDhkZnZBazBTNDZWOUtQTmk3Q1Z3U3ZkQVhDNEgwVHc0S3NwUXhYQWxFNGl0cXhraWUyYkZfUlIwZGpfLUg2VlFNWm9wUFBSSnB5UlRmaDVYMjY4WlFTN1lEQjk0Z1RR0gFzQVVfeXFMTVdxRXgxeUNxTXJyTThRbEVWUzBOdnZ1YVNIbi1QWXhDMnJpeXZhMFRZQXI0Y0llNFhBMTRESEx2VFBFa1lpR2o0RUdVemRMSC0tZnVhWENJQjNYU0p1TlI0a2pJWGM4VUI4VDQzTVNxamJDaw?oc=5",
+      "published": "2026-11-03T15:38:58+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Low-income elementary math achievers underrepresented, NWEA finds",
+      "summary": "Low-income elementary math achievers underrepresented, NWEA finds K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2QxNGR4VEQ1SEJaUE0zcU12TVEzcUh1dFR6Uk9JU1BKUWVGN0lmcGlFYW1DUHhwX3hqOTE2VEg1cFk2NzU5bW1JVHgzMWFWREpaZ1JlN0NUODVxT3RvcmNEMWJIenhUNEZBTmI4ZjNRVHBMNlpFc3ZiSnhXZlVGVkV3M19lT3V6X0dMM01wM0xFXzdtLXVhbVJwcWV6elFoVHBB?oc=5",
+      "published": "2026-11-03T14:26:15+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "6 books you won't want to miss in November",
+      "summary": "6 books you won't want to miss in November NPR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jd2tpTEYzWmMwNGVuRklqMzNiRTgydGR6VWVWdHJEcGU3ajk5dlVnMFdMUFZwcWdDT3pZYzk4RXhnOEs1YVNoYXh3bW5JS0NXUkNXNTcxWk5NNkxGZlNPQlVibzhtNm1QQm5taWtWMGI?oc=5",
+      "published": "2026-11-03T14:24:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +143,34 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
-      "summary": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMd2pCcnlFS3NybmJwbWRvMXgtWHpTeExYT2Nhdy1KZ1dROEplbXFYX1VPNk5EQUxSOVhIaF85WFMtNk9JOFg5QzFKZ1AydVJJdVljVzVHSmRJNndtMnR4RG1JODBwZlgzWG4xV3BB?oc=5",
-      "published": "2026-11-03T10:00:15+00:00",
+      "title": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
+      "summary": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VUnBVMUZfT29MNHkzbnUyaTY5MHI3UzR4OElKVUV6TFV1NVEybHNLV3ktQ3VWYUljaDJKZFhwVTUwbmRla2tDRzVqOU9HcVVneHhYYjJoLW4wcjN4QmhldVRlS0s5dFF5SEt3?oc=5",
+      "published": "2026-11-03T14:21:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | What a Vote for Abdul El-Sayed Means",
+      "summary": "Opinion | What a Vote for Abdul El-Sayed Means The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN1ctWWtYbXo0QV9yMkdwMUhPb2p3Mm1rNF9yUktNYVp4VXUtMzJSZnpEd1ZnVmV6WFJYcXBObWJSUks0dGxjb1NwNHlwLVN5Z1NpTWdJSGJQbkl6d3NQbkhUWElxQmdCOWJlenhubjFTZEtqZkRmNWlfSjlVZXJHcXNrTk9HQQ?oc=5",
+      "published": "2026-11-03T10:03:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "NBC News Exit Poll: How it works and how we use the results on election night",
+      "summary": "NBC News Exit Poll: How it works and how we use the results on election night NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWN5U0pmbmJuaW1MUTg0a1gzSU5XOTNJTUJsT1hUNXBNbVF1UXUtT1gxVk5LY2RJVjJFbGliZkV2ekhyajFVTW5xd1I3UE5OUjhrcnNDaUVwek9LcGF2YldIMVRrR1FiV3NJbEM4VGc5NEo3WVFJYmJEa25kTU1yQnZLdmRobkNmOTF2OFNGVUY4MGhobU9Ga08wSk9WNVBHYUJuN0N4dVVpc0Y5bmc?oc=5",
+      "published": "2026-11-03T10:00:40+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,82 +179,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
-      "summary": "It's Election Day. Control of Congress is on the line, and what else you need to know NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFMyWVA4MThqMWhrYm1VeVZNTFNJSzJjOGFOZHliaVZSWEdTV1JkTWdNMEdacDRwZ1I3dURLcC02eEJDbXY0RFVOUDFwQVhDUzlFRnZqYmNjV1I4MC1WeDdwRlhSUHE5ZFVyOGthQ3RBNXhvU295aHV3SnRsVUo3aUtXOTVwVG8?oc=5",
-      "published": "2026-11-03T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
-      "summary": "Spanish soccer player Jesús de Miguel dies after on-pitch collision CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3o3eEdEdUthSHpVVlNnY3Z1SFBtNWM3U3J0LUoyV0ZPQW80bXVweVFQdnA0TWI2MVFJZkU2M2dNQ1hhYTRUQUlnTmxwbzh2T01Ia1VjZUt5SUZHWGNudlZOVVBCMG1qVTlidDBxWXR4Mm1kU3ZwU3oxemQ3MUd6WjZTVzYxRnlmYlJTT0Z4OEFOUQ?oc=5",
-      "published": "2026-11-03T09:52:29+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-      "summary": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpclBBc0xwRVNnN2gxTHJDVjIwZHg1OHBfbjlzM1hzV1ZCWEFvSnpyVlh6VkF0aC12clJaN2p2VGJRUDhaSUNNQTJ3OU1PZnRGWHpxaHA2VWtPazh2WFdTMEZrZU1QVTdHOUtydDlYdjd1NkpONmhMRGxud9IBgAFBVV95cUxOd290elNxZWRpZE55aC1wMW5LUE05NU1WWUdCZXFhOWxhT2VpTWsyU3pvRDR2RHBNcEFCNTlkYTlueFYtQkJ0dXppNDh3cUJTMERTM2FTSFBBMS1oVVNHRDY3dy1rOGo4ZG1pU2tjUFYwQTBMREktWE9IaGdQMjVWMg?oc=5",
-      "published": "2026-11-03T09:39:21+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Tracking House races for 2026 midterms",
-      "summary": "Tracking House races for 2026 midterms CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qZWhfUElBN1Y0Xy0tYkFZM1NveWd3bEdNTnJUWHlhR0pGRzkxaUN6blp4VVZyLTJ5RXdDYWdPMXhOR0R2dUVDdVBXUS1ZLU82Zi1zZTZsY0pubS1EVGN0d1QwWFQ1TGRYbExj?oc=5",
-      "published": "2026-11-03T09:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
-      "summary": "Brookfield plans for a $27 billion AI data center at UK power station CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzl3ZVM5cV9NUzBldS1OeUM1RkVtLUdNQ0dJM0g4eGJ2NTEyVURocFcwZkVlUkFWbVd6ZUx5dC1yRTVtSFczTG5qcTBLNW0tUVhXUTRpRGxHVWdJZUNWbFZuaFUydDN3SHNlX2E2M2J4RGFZN3ZWcGs3S053bVA3U0toTdIBiAFBVV95cUxQQzE3TVNBeTY0dkx5b1k1M21hVnZRM241R3hfR2NpejBLRHRPM1ZmQWROMnI3TUtvTDUwT3VJVE1jWm1STjVwcHNlNEdJdzg5b0JPVHc2ZG81Qmw2YXhMdlp6QVRwd3h5LVFTR3JobWkwNTFxaXBpRXpVRkU2a3hUVmhTblZkLXJS?oc=5",
-      "published": "2026-11-03T08:28:11+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Baked by Melissa enters Target with first at-home cupcake mix",
-      "summary": "Baked by Melissa enters Target with first at-home cupcake mix CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55SDVsYjFuMVN5ZU56R0c2blRjcnBmbUNLUE00R0R2QUVJdXczYV9YTWs0clNvNC1tSGlBN1VVSWswdllQZVdrYlRHTUZSQ2hxdUh1bXVGaXNHbGFDclNoMVAwOEROR0VyUjFyZ3E4THlHQWxsN2xmeENET0xDUdIBgwFBVV95cUxQUVhIbUNOeTVMV0lVRjlXcW1COTFSMk1Cd2c0bm5lbGxQZFBIS1F1NWFxQ19lZzZNR1BDblRLamdqZWdXZ1pyQm8yR3QxUmV3bElrQzBHRi1DS1hTZmcxSHBQMVFYLWo2RENuUGRqejV4NmNXbjNWcHVRUVVBeVlxcGtpNA?oc=5",
-      "published": "2026-11-03T05:01:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas police say",
-      "summary": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas police say CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTZSbTBfMk9HT01US3ZobUhUUkRQUGNBdWxlNThnNjltcDZFMEQ2RG9saG52NU5sRzdCNDVYMDV4N1RUT2k4SE4xRnBWOVZhYzJULWFVeUdZYUljOER4blZydHRrdmc3YUVSMDFyamozeDM2dzQ5VUdwQzVWeUlMZE1jcERRU0k?oc=5",
-      "published": "2026-11-02T22:11:26+00:00",
+      "title": "Election expert confident about voting today, more concerned about what happens next",
+      "summary": "Election expert confident about voting today, more concerned about what happens next NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb09yR3pSNHlfN3ZCWTFsWjJoc2d6NDcyckJjazgzNVZsU1BWQ1lvY29DMW4xUVkxeGRlZVVjTmxHYVpMSGRNMi1OR2JDQTQ0OGN2UkdObTd6TjVlWDRDWXZmNEU1UWhqTUFBTmFyaGY4VGpPRUIwTXh5UzZtY01XWDhWOTVBQVpMcGV0OFFUeVFYY01fZ2c?oc=5",
+      "published": "2026-11-03T09:42:11+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,15 +200,16 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Why some Texas Democrats are forecasting a \"Hispanic hurricane\" in midterms",
-      "summary": "Why some Texas Democrats are forecasting a \"Hispanic hurricane\" in midterms CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVVGNUxuRnJ2c1NvUGQwNE9vX1NhUnpKdXg3OXJQUjdzS0J1eEVjMnRuemxRNVdTdldtWmpTQXQ2czRTbUNKYktrVkRBbktueGhzLU5zVVhFUHdBUzhYLTdaVG9zRzFUMGdnNktTbUNvZ2FhQVhWXy1oMnQzSi1HUU9WMHpPdTh4QjRqLXFpcTNCd1B1bTJVbDVPU24xdUZQb1E?oc=5",
-      "published": "2026-11-02T21:30:00+00:00",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Texas Supreme Court halts questioning over who’s behind fake trans advocacy mailers to families",
+      "summary": "Texas Supreme Court halts questioning over who’s behind fake trans advocacy mailers to families Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQk1WSzdvWGxLcHRIS3lkYVJRbDM1NEpjQUV3UHJndVlraVFKUml0eENRdWhoTlJrNWZJRGk0NDNwMkJzWThzUG5kbFAwZFdrb2t1UGpqM1NINzJ3VEREWldZMnp3RTdPYnRETXc5VGVkeThpYVQ4ZXF6SWdaUFdidHBvSnJrLWpLV3c?oc=5",
+      "published": "2026-11-02T21:10:18+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -161,31 +222,6 @@
       "published": "2026-11-02T20:51:46+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Based on anti-trans spending, right-wingers could afford to pay every trans student athlete a six-figure salary",
-      "summary": "Based on anti-trans spending, right-wingers could afford to pay every trans student athlete a six-figure salary Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jV2VqMnhiRmNHQlp5UF94ang4WE50M3F0UE9yZGhWblRHX3U4QlBfMlVxb0Z4Y0s3VUJyT2NiVGdWTEhhT0hGS2tjeVFGd3B1MXNibDRteG0wTU5PMk1zTDhYSlVGcVYzNXl3QW8zVlhtX3NqQWdiMQ?oc=5",
-      "published": "2026-11-02T20:27:46+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Arizona Election Results 2026: Live Updates : NPR",
-      "summary": "Arizona Election Results 2026: Live Updates : NPR NPR Visuals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wcmlWWXhDTGpnaVFESmstRDhGWVdOMHQ1TjlsUGo1MlRTZm9BTHFadl8zcWhFQ3R1VXI3SEktM2l1d1hiX1NLNFhySnREdzFOODZJWkVvZk8ycHQ0OEhVSEEwNnZmdw?oc=5",
-      "published": "2026-11-02T20:27:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -250,6 +286,19 @@
       ]
     },
     {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "“No explanation”: Meta suspended over a dozen LGBTQ+ businesses’s accounts",
+      "summary": "“No explanation”: Meta suspended over a dozen LGBTQ+ businesses’s accounts LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkxRdnM5OWcyRmJKTHZ4ZkdoZi1pUDJfQmdMQjVOb25rUEhza2o0WUdFZFBKVVQyRWl5WnZVZE9RWGE1aWpURk56UTJoTF8wbWx1cmRBRUg0WU1NVlVsVUJDX1pBbEZmX2ZDNzUtdXJyN1ktZGo2Znd6blFEeTNtcDZTcHNOazdNb2RnTDh2SXZJVlpvM01KMlBYWThMNzlpMklybF9ZOFl5YkU?oc=5",
+      "published": "2026-11-02T19:00:00+00:00",
+      "beats": [
+        "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -288,18 +337,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "‘Go out and change the world’: Students find confidence, community at LAUSD’s single-sex schools",
-      "summary": "‘Go out and change the world’: Students find confidence, community at LAUSD’s single-sex schools EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oeUNIQ0Y4dXRZZ3R6ZVJJV0Q3ME1Kc3lhbEJ1S2hrdTBZM2FldEltdkRzcGw2YmRKN3k0VHFKeWVLSUJZdkdzbnh0T0tXbjJmZUNyMWxOWXNJby1xS2kxaFhRY1hhSzd30gFwQVVfeXFMT0RQNHJnVnVhTlpCYUxRRHhtVXVBLUp5V2l0MTdXY2Nsc0xLWEE0a1QtMTVtTGswdjFKZ05aemFWckRDVlM3WTdicUF4YTRJY3BaYVB3UmVKSm44MjVIbTBkVjlmMnYydzY5QnlFVmNUbQ?oc=5",
-      "published": "2026-11-02T17:13:36+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -312,63 +349,29 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Megan Rapinoe explains what we’re getting so wrong in the debate about trans athletes",
-      "summary": "Megan Rapinoe explains what we’re getting so wrong in the debate about trans athletes LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFJSVk9mbTREd1JfUEtpMXoyRmVLbElTUzAyTHlvTHo4WTNaUEtPSGxXbWJacTBiSWtqUy1IZDdhNUJ6am0yWDFZNmp1Z1BQT2VRTkNibnVMdVNlN1J6UWFSU1pIbC1ob0p4YXJnNlNBS1FDQTI5SEplQ1Qzb2ZmM3d5clA1eWMxUDYxV19kT0owMHV1bXozcTd2amlhY2VzMDJlbzljVFh6UmxsdmJOTzIxUUdvd1NTRVJ2d1d3?oc=5",
-      "published": "2026-11-02T16:00:00+00:00",
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Judge dismisses case against 2 ex-FBI officials in Hunter Biden probe",
+      "summary": "Judge dismisses case against 2 ex-FBI officials in Hunter Biden probe CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2FyNGhPTjFRdVRtX2JTSk1XNGZUMVhnWFZSbG03aENaSXRSN3YzRkVQNDhHS3gzd2NiajVBSEl0d3lpVVNEMmx6azZhMHBCalNsM184UTdyY3pKdHM5MmJ2SmNLakFFcWJxMTVobG5nMnRYUHJMSXBOcG0td0Z3T2c0NzJ6Nlk?oc=5",
+      "published": "2026-11-02T16:22:00+00:00",
       "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "Can some preschools exclude children of gay parents? Supreme Court to decide",
+      "summary": "Can some preschools exclude children of gay parents? Supreme Court to decide K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1o5RHYzbENqcDB3OXdBRmtBUHkzVXUzTnZDQzZ6bUVucV90NXF5SXRIRkxwUjZRcGROVGxMZjljVnJWa3lfTUowLXNSYVVsa2J3NW5ESzdyMUQxWngzbWFBbEpXU2tJX0dBUVZSNVdRNnNfU3FWOVd4RTdWT05WR3NzeGZGVkJOX0NQWC1kQ2pyNzRlTEdpWDlhdEhNQkw3SGhodG4xVUFnMW4zMU5wRg?oc=5",
+      "published": "2026-11-02T13:43:15+00:00",
+      "beats": [
+        "Politics",
+        "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Week In Review: What makes an attendance strategy successful?",
-      "summary": "Week In Review: What makes an attendance strategy successful? K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBocG9HMWdUZmllNG1oSXZyV29uaXhCWVFPeGpObmFIc2tldjZjZU5ZcFlWNUlKRkg3dXV0STdNdzRSekktR21SaEtwLVJOZU53cjJfaHk1TGRvWk9fM0JSNHd3UDRVUUJGZWtlS2l6akJsb2xld2c?oc=5",
-      "published": "2026-11-02T15:25:35+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "To grow teacher capacity, measure what matters",
-      "summary": "To grow teacher capacity, measure what matters K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlZLS1dpWjdyOE9VT2RxbUFOZm55OEFyMGY2bFEybkN6UkpZby1OLVZETEF5NDhoMHl1bzl2TVpHamV1ZUtEbElmaWdhQkxlYm4tVzlHZ2NtQnJGdWFqRXMzNjZCTndsODl3bVNCMDFpMGNnWjF3RGpmZGxmOFcyX3BwTzhxRW5IN01n?oc=5",
-      "published": "2026-11-02T14:43:26+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-      "summary": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGZTblZsbjZNdDJDekcwZEpYeXN6V0k5dnl2RnRzNzJuQkNsb2UwYzlyRUFzbXpTX01VREdNRnVGcG5UNDBzeE1VRWdTUkhJTFF3dWlzZjBFZVNHLThzQ08zRmVGVnB5Qkt0V084UzUtbzc0SC1QbmNuV09UaTgwQmVMUlJGTlFka2Yw?oc=5",
-      "published": "2026-11-02T13:44:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
-      "summary": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1QzbGU5dXREb2Y1VkpSSmU5TEhnNm5TSmFOdWRkMkh4Qk1uVDZtZUp6SUs4RTVDUndVemptd2hWRXNZdGc0ZDdDaFp5ajVvWEw3dzVsb3RXbWhFa2tBSUZ4YXNvWmpFT1hLeGxKaHIwc1NyemhaeTlvWjdfVGxPRmFDaUJPQ0NBUFNiWS1kUkN2bjZUdUt6amlPbkQ1VkdjNDJsWDVkNkJkcGJWVnpfUmlWb0FzN1k?oc=5",
-      "published": "2026-11-02T12:56:52+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
