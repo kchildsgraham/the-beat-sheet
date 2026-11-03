@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T03:38:26.069653+00:00",
+  "updated_at": "2026-11-03T11:41:39.414939+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,25 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "US military conducts strikes on Iran’s Qeshm Island in defensive operation, officials say",
-      "summary": "US military conducts strikes on Iran’s Qeshm Island in defensive operation, officials say CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fdndxRDdxc09lTkR5Q18zcTRPM3lnRm4zTW9KU2VzRVRuYjNOM0JvVWNsVTJyd1Z5ejdBSzZNM2I3NjJJUnFmMGREZEJHTnpNb1lzNTZrUTI2bDR4c1VXMDJTdnpmdExCbnE0dTRlbFNkQ0dXaHgw?oc=5",
-      "published": "2026-11-03T01:59:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
-      "summary": "North Korea denies links to Binance hack as researchers trace stolen billions CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1k4VThVVl9SZkZWTHZ0TVBTQ3JpOTNQdEd0VkxkYTN1ZmlPdkkxZDE0TTRQU3FGR0diRlNMMVNqa25FLTZpT2hRaEZHaXgtNG9TelV4QjdzcHpVemZVV1RVOEE3WlFVeUEyZ2xlNU9VOEExa2hJMTdINjlzSUYxREhHWdIBiAFBVV95cUxNMGx0b05YWnVCN25VTTlCYWwxUnFFQnpvck9TRW1pVXVnUnk0R0lBSFQxS2pPR3dXTS15aVg2ZkIwc0FYWjRncEVsLWE0NUdQZ2JsQ0tLQ2xJYlRoQW5DU3E0WVN5b3hPTmh1SzZ5U0tZSmFaOHppbDdKaDREV2daMXhlMDhMTkk2?oc=5",
-      "published": "2026-11-03T01:52:00+00:00",
+      "title": "New restrictions at Texas Tech are changing what professors can teach",
+      "summary": "New restrictions at Texas Tech are changing what professors can teach NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnhZY05FS1ExejNJLWozaENFeTAtZGlTYXVGWHpNOTFGLWdqT2FKWG9HOFNhbUw3QWxEMmtzTXRNN3c5NlhMU2Y2cVRnUC1iclVfRFNxYkFyZGtCZ0RaTVRtNnZZZkx3OWo1MF8zcjFFeTJIbGNUWklhM2RCMGFXZkYzWQ?oc=5",
+      "published": "2026-11-03T10:01:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,34 +35,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Child in New York dies after contracting measles, governor says",
-      "summary": "Child in New York dies after contracting measles, governor says CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQVo5eVZwaENLQXpldXB6YzUxQXhvVEFkUnhlckJQd3BPZHlZMzc5OXJDZWtrbUZTOVdFT2JVQXhtYVh2RzVHN1NOcEx2a0pFTTE4RDdLbFFzTzFLWm9veTRlOE5DMzUxMFMyYg?oc=5",
-      "published": "2026-11-02T23:58:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump’s closing message hits a topic close to his heart — but not voters’ minds",
-      "summary": "Trump’s closing message hits a topic close to his heart — but not voters’ minds CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkVHQnV6ZmgtS0xMNGVmNW9mZWhjZWotWXBCUE9XYTdsd0tlWEdhc09NdWVIendhQV8xM3Z5R0ZOSFhGeUxaODRaekxVRkd2OGVXOFdUZmxzc1V1NjhkMTBrd2FmS196LXY3S245eWJkWS1obHk5VW5GY3pMREdGZ2FUSQ?oc=5",
-      "published": "2026-11-02T23:27:59+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
-      "summary": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanFqZWk4eUNJeDBuTWcwSEFnOHhSWjVVNVAtN2kzZXBtS3FUTlpNbVlHMjhBTVluTjh4MTFXLVhuRmZpdHduYXFWbHhxQndpVmdtdW51YXdMV3pwb05QOG1PMW5YQzRJV3BVaVFJa2xmNlI2Q04yeUVKTHJXNGd1VUt0SWRxbmY0UWJEVVVfbTFyNHhSYVEyc3VxdzBXNjNfb0xqNUEwdFlpYnJOTGFQc1NWS1FNRTgySzMzenplUl9tdktETEhIY9IBzgFBVV95cUxPeG9aQ0IwaklOejRNbDR1eVlqMExyRmdaOGFTUkdZRG5lWXRSY2RxSzRUcG4wMnVnSF8xNUhCN3llSktoemJlZi1FMHFid1oyZ2E4Tl9yUlpreWQtbm1VVDVBS0U0c01NdkstdGZPd1BnOXQ1Wi00TUpJakRUYVg1M1pMd1dhY0VzUDFhT2FRXzdHZkZaejFQMzhzWHl1a1pnaTQ4WEJ1MHE4UTB3ZGdOUkZKM2FjOVg5ODRzTXhVa0JSOVpHWlZKTzlJTkVCdw?oc=5",
-      "published": "2026-11-02T23:00:01+00:00",
+      "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
+      "summary": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMd2pCcnlFS3NybmJwbWRvMXgtWHpTeExYT2Nhdy1KZ1dROEplbXFYX1VPNk5EQUxSOVhIaF85WFMtNk9JOFg5QzFKZ1AydVJJdVljVzVHSmRJNndtMnR4RG1JODBwZlgzWG4xV3BB?oc=5",
+      "published": "2026-11-03T10:00:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -83,10 +47,22 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "What the latest on mRNA vaccines means for cancer",
-      "summary": "What the latest on mRNA vaccines means for cancer NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0ZwMGVSQ2tscEpfYnFTZ3hUZkR2SEg3My14enROc3pRMEJNQUdoMFNpdUNpTi1lUzJyb0tLNC1FbktuMnU4QUdEUFZzSDREVVdXMFM4cUZtdW82a3prVzJNNVJ1VW8zZnBqT1FFeHZKeHFQc01XOUtOOFk3dWZTQnFrcjlsQlk0ZHJ2dHJSbW03LXhRemRqUW5n?oc=5",
-      "published": "2026-11-02T21:31:10+00:00",
+      "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
+      "summary": "It's Election Day. Control of Congress is on the line, and what else you need to know NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFMyWVA4MThqMWhrYm1VeVZNTFNJSzJjOGFOZHliaVZSWEdTV1JkTWdNMEdacDRwZ1I3dURLcC02eEJDbXY0RFVOUDFwQVhDUzlFRnZqYmNjV1I4MC1WeDdwRlhSUHE5ZFVyOGthQ3RBNXhvU295aHV3SnRsVUo3aUtXOTVwVG8?oc=5",
+      "published": "2026-11-03T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
+      "summary": "Spanish soccer player Jesús de Miguel dies after on-pitch collision CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3o3eEdEdUthSHpVVlNnY3Z1SFBtNWM3U3J0LUoyV0ZPQW80bXVweVFQdnA0TWI2MVFJZkU2M2dNQ1hhYTRUQUlnTmxwbzh2T01Ia1VjZUt5SUZHWGNudlZOVVBCMG1qVTlidDBxWXR4Mm1kU3ZwU3oxemQ3MUd6WjZTVzYxRnlmYlJTT0Z4OEFOUQ?oc=5",
+      "published": "2026-11-03T09:52:29+00:00",
       "beats": [
         "Politics"
       ]
@@ -95,10 +71,82 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-      "summary": "Palantir reports booming U.S. commercial revenue growth, topping government for first time CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlHSAXtBVV95cUxQVzlMd0xTcFNwb2dGc3dTR1RLYzVWUV9qcGFmRV9TM19rVm9uLWY5OTBkVXRHVFhPa0REbko0dENhaDBNbHduU2pwN2lkT0p3Tll6N0ZPeEQ1emphekVOdlYxSHM4b0NUalZaZGZmM2J6aTVfcnJ4UHQycEU?oc=5",
-      "published": "2026-11-02T21:09:24+00:00",
+      "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
+      "summary": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpclBBc0xwRVNnN2gxTHJDVjIwZHg1OHBfbjlzM1hzV1ZCWEFvSnpyVlh6VkF0aC12clJaN2p2VGJRUDhaSUNNQTJ3OU1PZnRGWHpxaHA2VWtPazh2WFdTMEZrZU1QVTdHOUtydDlYdjd1NkpONmhMRGxud9IBgAFBVV95cUxOd290elNxZWRpZE55aC1wMW5LUE05NU1WWUdCZXFhOWxhT2VpTWsyU3pvRDR2RHBNcEFCNTlkYTlueFYtQkJ0dXppNDh3cUJTMERTM2FTSFBBMS1oVVNHRDY3dy1rOGo4ZG1pU2tjUFYwQTBMREktWE9IaGdQMjVWMg?oc=5",
+      "published": "2026-11-03T09:39:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Tracking House races for 2026 midterms",
+      "summary": "Tracking House races for 2026 midterms CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qZWhfUElBN1Y0Xy0tYkFZM1NveWd3bEdNTnJUWHlhR0pGRzkxaUN6blp4VVZyLTJ5RXdDYWdPMXhOR0R2dUVDdVBXUS1ZLU82Zi1zZTZsY0pubS1EVGN0d1QwWFQ1TGRYbExj?oc=5",
+      "published": "2026-11-03T09:00:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+      "summary": "Brookfield plans for a $27 billion AI data center at UK power station CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzl3ZVM5cV9NUzBldS1OeUM1RkVtLUdNQ0dJM0g4eGJ2NTEyVURocFcwZkVlUkFWbVd6ZUx5dC1yRTVtSFczTG5qcTBLNW0tUVhXUTRpRGxHVWdJZUNWbFZuaFUydDN3SHNlX2E2M2J4RGFZN3ZWcGs3S053bVA3U0toTdIBiAFBVV95cUxQQzE3TVNBeTY0dkx5b1k1M21hVnZRM241R3hfR2NpejBLRHRPM1ZmQWROMnI3TUtvTDUwT3VJVE1jWm1STjVwcHNlNEdJdzg5b0JPVHc2ZG81Qmw2YXhMdlp6QVRwd3h5LVFTR3JobWkwNTFxaXBpRXpVRkU2a3hUVmhTblZkLXJS?oc=5",
+      "published": "2026-11-03T08:28:11+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+      "summary": "Baked by Melissa enters Target with first at-home cupcake mix CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55SDVsYjFuMVN5ZU56R0c2blRjcnBmbUNLUE00R0R2QUVJdXczYV9YTWs0clNvNC1tSGlBN1VVSWswdllQZVdrYlRHTUZSQ2hxdUh1bXVGaXNHbGFDclNoMVAwOEROR0VyUjFyZ3E4THlHQWxsN2xmeENET0xDUdIBgwFBVV95cUxQUVhIbUNOeTVMV0lVRjlXcW1COTFSMk1Cd2c0bm5lbGxQZFBIS1F1NWFxQ19lZzZNR1BDblRLamdqZWdXZ1pyQm8yR3QxUmV3bElrQzBHRi1DS1hTZmcxSHBQMVFYLWo2RENuUGRqejV4NmNXbjNWcHVRUVVBeVlxcGtpNA?oc=5",
+      "published": "2026-11-03T05:01:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas police say",
+      "summary": "4 killed, 15 wounded in trio of shootings in Deep Ellum, Dallas police say CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTZSbTBfMk9HT01US3ZobUhUUkRQUGNBdWxlNThnNjltcDZFMEQ2RG9saG52NU5sRzdCNDVYMDV4N1RUT2k4SE4xRnBWOVZhYzJULWFVeUdZYUljOER4blZydHRrdmc3YUVSMDFyamozeDM2dzQ5VUdwQzVWeUlMZE1jcERRU0k?oc=5",
+      "published": "2026-11-02T22:11:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Abdul El-Sayed stands up for trans people & their rights in \"hostile\" 60 Minutes interview",
+      "summary": "Abdul El-Sayed stands up for trans people & their rights in \"hostile\" 60 Minutes interview LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenpKRWRDRUxsZ1dHNU4yXzh5WG5uYXU2SGpMX2l2SEpBRURvVHR1Z2VnZU5ISDBfdkdDMUpqMnp6QThTbmdwdnI4STBQZzA5OFR3cXR3ZTBva0pMcHA1NTduRkJtb2pHZ1JKaDZqaXBxcG5ydUVqZXlfNFRJdlc2ZGFWNWpsRTVVbjllb2I5dWVpQWN1R2hkWkxkOE5RMXdJek1FYXZZb0g3Wk9zNHgzU0ZiQkUzQTM4UFlwNXNmUkQ?oc=5",
+      "published": "2026-11-02T22:10:12+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Why some Texas Democrats are forecasting a \"Hispanic hurricane\" in midterms",
+      "summary": "Why some Texas Democrats are forecasting a \"Hispanic hurricane\" in midterms CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVVGNUxuRnJ2c1NvUGQwNE9vX1NhUnpKdXg3OXJQUjdzS0J1eEVjMnRuemxRNVdTdldtWmpTQXQ2czRTbUNKYktrVkRBbktueGhzLU5zVVhFUHdBUzhYLTdaVG9zRzFUMGdnNktTbUNvZ2FhQVhWXy1oMnQzSi1HUU9WMHpPdTh4QjRqLXFpcTNCd1B1bTJVbDVPU24xdUZQb1E?oc=5",
+      "published": "2026-11-02T21:30:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -129,6 +177,18 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Arizona Election Results 2026: Live Updates : NPR",
+      "summary": "Arizona Election Results 2026: Live Updates : NPR NPR Visuals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wcmlWWXhDTGpnaVFESmstRDhGWVdOMHQ1TjlsUGo1MlRTZm9BTHFadl8zcWhFQ3R1VXI3SEktM2l1d1hiX1NLNFhySnREdzFOODZJWkVvZk8ycHQ0OEhVSEEwNnZmdw?oc=5",
+      "published": "2026-11-02T20:27:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -150,18 +210,6 @@
       "published": "2026-11-02T20:14:54+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Is America really that polarized? The answer might be a surprise",
-      "summary": "Is America really that polarized? The answer might be a surprise NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUVgtVEFERjVFZ3RKM01YNWoyTVRzWnczMWNrQTZQSEQ0VHpvLUFwM1JPZG0zOHBTaHhmWGo4eXdqV3d4SnhkNWg0VzRUS2VzQVdldHVJOWJ3VnI1RmYtb09lb19YNzF6RklpQkNzUl9sWlJNWDl3ZUZiM3Zid3BwTEJlR0tROHFYNkFyZmx3?oc=5",
-      "published": "2026-11-02T20:00:00+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -190,18 +238,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Understanding America Study",
-      "summary": "Understanding America Study EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eWUyTWYyeWM3dm53WGRxMTlQSThzS01vM0RVU2hxMGR5LWIyWndxZERuejJSZGlIVW1nUVVrX0VDbTIzak03WTZrRVdWZFBKYjhMNEZzd2ZBQnp3eV83VDhRdHQ?oc=5",
-      "published": "2026-11-02T19:53:51+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -209,18 +245,6 @@
       "summary": "Trump wants states to set aside ballots. So far, federal judges aren’t having it. NBC News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGJPWUJjdXNVbUg4MmRGYmtnaDZZUDNicDRubkVpNU5GaVUzOEpQQXFDTXRZeUJqZFFYWmxjU2o4X2c0YWlEZ2dEd21sd3dyNG1NMV83dGdURVdIUGlMUlBfTHhfSWNpM2xhblItWGpPWGNzNzVRRUhNc0xIRUFkRGYzb2NPVExwd0ZNVEo3ZEU4MERRZDd4OFZldlVfSnRGZXZoUjFtN1JsX0hsRThGdENmVQ?oc=5",
       "published": "2026-11-02T19:02:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-      "summary": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnBmb2swSkg0TVBQNDNBX1I0S0ExNmtVZXVpQldlbDZhYkFDa09qMm9MakRXNjgzQ3Jjb0JHVTRMV1I3ZFo1RDhhY0drYmotVV95QUxRRHRaV0pGaVlYNGR6YmY4dF8wRlZaZ2ZtLWxmQ0gxSGZ3LXM4MkNDZUZQaEFMMHJuTEduZkRkbnhUOVE?oc=5",
-      "published": "2026-11-02T18:54:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -243,24 +267,24 @@
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
-      "title": "UPDATE: Cal Poly delays year-round operations until 2029 after campus opposition",
-      "summary": "UPDATE: Cal Poly delays year-round operations until 2029 after campus opposition EdSource",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTS1tS3NrTVRuS3Q3NUQ1OHdiWDJYX0c1Q0xmYnNxT2pzTDRvWW1jRGk3TkJZSnl4bXN4YmlMZkx1U3ZUZEI2Z0JxU2Vua0YzcUNmaW5aTmY2cDVFV1l2dmp4TXdEM3FGNEV5c3A2R045bzBjSlBBUl9Zb0tYTW5ma0EtYi1jWXljRzFIV2ZOMGpjb0pHWVNvXw?oc=5",
+      "title": "UPDATE: Cal Poly San Luis Obispo delays year-round operations until 2029 after campus opposition",
+      "summary": "UPDATE: Cal Poly San Luis Obispo delays year-round operations until 2029 after campus opposition EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjJDUV9SM1lZeEkzX0UxMVVsVFNvanIxdzdodHF6R2FpMnRhQWZCcDVGNTJWc3ZpcDFqbHg3VEh5bzh4bEpYUE1TbkR5b1VfeUZiVUJ0eEJZZG1DS0NidVppbjNoX2lCekF5blhVOHRwbTJsLWZjdGFBVDlEOTV5Wk1kRHdqVElCWURyY1c1bzJ6LUFNZUxRM2szNlpteVRJV2tv?oc=5",
       "published": "2026-11-02T17:53:36+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "MAGA cheers as Trump claims he acquired Greenland \"for zero dollars\"",
-      "summary": "MAGA cheers as Trump claims he acquired Greenland \"for zero dollars\" LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnNEdXhyTXNBU19ORF9jTjFJVE4tekRnZk9wWmNwTjRDbmQtTUFqX0x0aTF6NTE0ZFItbHpWYzFXVTRsSWFMM1lzUVd2QVN2OTdMQ21IZkRHMVBLSHMyX1UzMHNVdXY3UWtvZTVIMWNVQk5xN3Q4akpFMExINHdZaGtKX0gwUFNNMm5vbjBKZHB2dDhMU2NZVVVYNmYtRG04emJGVg?oc=5",
-      "published": "2026-11-02T17:30:00+00:00",
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Bill Murray gets Trump economic adviser Kevin Hassett to say ‘my dog just died’ on CNBC",
+      "summary": "Bill Murray gets Trump economic adviser Kevin Hassett to say ‘my dog just died’ on CNBC NBC News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdVJfVFJfSEx3OE5yTzhHcmEtb3diMDZvdkxIMHYwRnRJTl9taGQ4R3dyRXh4QjhiMi1vQ3dkMlZFNmRXTEZ5aUlmQ1ozR0RfeGpKTnRlRnYyLUVSTGJBV1gwQmRyNm5hemVlRzdTNXNVRHBycFVra0x4UDlPR3RnTm5lR2ZsTkt1RkdtU2hiSnBSQW1KZk82T2lfNV9HVS1FQVRGZUV5YVRzaXhSaXVWSm5Ja183alJRbGo3djBhWTN4SmRWdlRYWkJWbkU0MU0?oc=5",
+      "published": "2026-11-02T17:45:04+00:00",
       "beats": [
-        "LGBTQ+"
+        "Business"
       ]
     },
     {
@@ -276,15 +300,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Pilot in Florida plane crash said \"we're managing the ice\" before declaring \"Mayday\"",
-      "summary": "Pilot in Florida plane crash said \"we're managing the ice\" before declaring \"Mayday\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91b0xhQ3kwMkNUaGVmQThkdFRWR3BSUWZYdkduSXhkY0NhOC1DVlFGNDlOeVcwNk8xMUR2Y1dhb1NQWHJKVGYzeU5XaWNKR2NmX1AzV0UydUw4Z0haUGR6RWRYdWg1U1llTTJfLWRnSHJFcE1l?oc=5",
-      "published": "2026-11-02T16:51:00+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Scott Hoying, Niecy Nash, Andy Cohen & the best Halloween outfits from queer celebs",
+      "summary": "Scott Hoying, Niecy Nash, Andy Cohen & the best Halloween outfits from queer celebs Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjcxX0J4TFBoTWl1Ri1FV19RVlh6d0xBbnFtenJVRmdPaW1kRWs2VzNrdkVialJ3ZkVHZ3dIWWdDWmN1clFNQUVNR1VsRGxQckN1SE83c00wQW82VFl2MEZkaHZFcUVZUGs1TE54VUY1R0hvV0hqLU5tb0thdl90TnY3SS1sRFhHU2V6dENERGZCdjV4Z0xwT2cwOXFLdXZDblVrZGJUeGZ3UTJaa2xxU1RaOA?oc=5",
+      "published": "2026-11-02T17:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -294,18 +318,6 @@
       "title": "Megan Rapinoe explains what we’re getting so wrong in the debate about trans athletes",
       "summary": "Megan Rapinoe explains what we’re getting so wrong in the debate about trans athletes LGBTQ Nation",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFJSVk9mbTREd1JfUEtpMXoyRmVLbElTUzAyTHlvTHo4WTNaUEtPSGxXbWJacTBiSWtqUy1IZDdhNUJ6am0yWDFZNmp1Z1BQT2VRTkNibnVMdVNlN1J6UWFSU1pIbC1ob0p4YXJnNlNBS1FDQTI5SEplQ1Qzb2ZmM3d5clA1eWMxUDYxV19kT0owMHV1bXozcTd2amlhY2VzMDJlbzljVFh6UmxsdmJOTzIxUUdvd1NTRVJ2d1d3?oc=5",
-      "published": "2026-11-02T16:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "The best LGBTQ+ movies & TV shows coming to streaming November 2026",
-      "summary": "The best LGBTQ+ movies & TV shows coming to streaming November 2026 Queerty",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0lYbGNKNXF6MkdVclI4VWxzSVEzVzJNS1VuWmlUNWpicEE1UnRPekNsdDhCb3RaanpvaEhGZ0lBVEV0MnR5ZWsweXM4WkZqM0RzRXpsTm5KUTZiWDBVSW9lc3V2TlpxaDJESHVidmdlcWt4TnJSSlJFa2Jjam82aXR6dnRaTi1YaGxkV0xabmVOY3ZWY3hHbEpGVVA1Zkk?oc=5",
       "published": "2026-11-02T16:00:00+00:00",
       "beats": [
         "LGBTQ+"
@@ -336,25 +348,13 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house",
-      "summary": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzBJcThJMmVVWElIWDlMc2lQYUNOaTFWMXhIQ1ktWGRwMHlKM2tJWlJkWDAyUzV5LS1QZ1cybE5EVnNxSjhWR0NWTnlnNUZWejFCZFFDWmZ6YXBRaU5PREFlQ1RvV0I5eDZpYUx5NnpjVWRDNnJtdFR1TC1zTnFrZ21pNFd1ZmtabjRiLXV5dEg1ZVN4ODNmZnd2Tl80SmE1VHBHaGFjYWtwLWMtdUJaNWlTMWxBb1VoVG9EWlJScERhVHNv?oc=5",
-      "published": "2026-11-02T14:33:06+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
-      "summary": "The Final Polls Show a Blue Surge. Can We Trust Them? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXNENGN6c2NCaTRxVXFXclFJN3VpVS14cWZXd054SEMyVzgtVHZjMGRFbVQ4QVVtR1MzRDJzNnFMRzZobzRCeHgyZ2FrNGhib3hOVGRGZ3NqTG1TQ2s4UXM5azhta3lmSy1zQ3hCSUtxYkFITkFGZXhuZW9ONTFMbFF4NkNWdw?oc=5",
-      "published": "2026-11-02T13:43:00+00:00",
+      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+      "summary": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGZTblZsbjZNdDJDekcwZEpYeXN6V0k5dnl2RnRzNzJuQkNsb2UwYzlyRUFzbXpTX01VREdNRnVGcG5UNDBzeE1VRWdTUkhJTFF3dWlzZjBFZVNHLThzQ08zRmVGVnB5Qkt0V084UzUtbzc0SC1QbmNuV09UaTgwQmVMUlJGTlFka2Yw?oc=5",
+      "published": "2026-11-02T13:44:14+00:00",
       "beats": [
         "Politics"
       ]
