@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T09:06:40.616226+00:00",
+  "updated_at": "2026-11-05T17:34:06.817286+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,74 @@
   "errors": [],
   "stories": [
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Tech stocks plunge on worries about AI and Democrats’ midterm landslide",
+      "summary": "Tech stocks plunge on worries about AI and Democrats’ midterm landslide NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
+      "published": "2026-11-05T16:59:55+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money",
+      "summary": "President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVlqaXBtVmt2RkVpYU9PY3VtbTlEeWd0RWw1S3ZZQmp6MVV4TWNraGlMd3dqVHBrdWFWLTU2ZGFxcS1UR0VEQmNkcmVlSmFicm1aZkZCV29mNHgySUI2b2o1dElzb0hBckhLeDJFRlpLLXRKTkpIVmNGQ2xLSFgzb2hYVQ?oc=5",
+      "published": "2026-11-05T16:41:46+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Stocks plunge as midterm results send AI trade into a tailspin",
+      "summary": "Stocks plunge as midterm results send AI trade into a tailspin CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNUYxQ2c5VUJvNkd2RExjdVJ1YU5UNmpYYzh2dzgzT2FOZFFaNmlpd0ZUSVViTzZkRG91RmRad3MxNXdncmt4aFFuR2U5di11dmlYSG9hODllU2RNZXFTUHR1UlhpYzhESlpfMS15OVdETTNP?oc=5",
+      "published": "2026-11-05T15:47:51+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "CBS News exit polls show how Democrats won in the 2026 midterm elections",
+      "summary": "CBS News exit polls show how Democrats won in the 2026 midterm elections CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNRTkwRkkzVGNZVnlIY0w2VFdpTE5oZGF6UVVrTmlxbVlHUURORlY3ZTNfck5Bak9xUXlUWDhlakJvOFJKbThheWdCeU5KLWdiSGJtRDFkbzJfYXZpdkMzdURQczNrU25ZTXB2Qkd6cFFHUEVVRk9iTno3ek9qQQ?oc=5",
+      "published": "2026-11-05T15:40:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts",
-      "summary": "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMk84R0loaHlmVk5iMGU4Rm9BY05UaXlrczFBMGlCTVJJc0RBdzM1M3kzRWNxbDQzRnozSTlWZ1RTM1hCcDM0d245bDFNMktPdHpwQklTN3cyT0hfVjRjSU1yLWtCWHpZV3QwSmx1VGR4U04xLTRPTlRzcThCUC0taHFR0gGHAUFVX3lxTE9wd3M1RmtFQ1VSeXVad1JBZDBuUXRHbTlqbGRRcWdYVzQ1VG1pUUNjcXhXUG9QVEpkTkxtOXMzLWFkaTgwTVJPTUIwd2tFbWVNcDRuTEFfWVI2V1JkeXU5eG9ZdzN2S0o1VEIwdE5Sb01fYzlra0hlTHlTcXJLVWs2b1FmYlptVQ?oc=5",
-      "published": "2026-11-05T07:43:03+00:00",
+      "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
+      "summary": "Expedia CEO says AI agents aren't changing booking habits — yet CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzZUxjRGJ5S3V3ZXpCcGpSLXdkZGU4NFE4VXRUakgtbkt6UHlnZ3lQT2k2M2VZRTEyUGZVVGc1VXlwZEJpR2tJVXF0YV9pRUtNd0M1bWN5Mi1KMVUwUXpUeGxVUWhOV041Z0FHRFl1OXVBaEt4N1I4S9IBfkFVX3lxTE9DNEZYVVN2WXJWdFhtWXlzQUlBcW1yZHF5c2h4QkdXT19BVGRzYllFMWhfUnhzOFZja192bDVfV1lTWDFWTS1OZXR5eExGWHF2cG1kVFNjWjFEMGhxcDNLSk5qY2hFNkUydERiRDI3R28zUUIwbm4tRFF6ZFd3dw?oc=5",
+      "published": "2026-11-05T15:34:55+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "MAGA media is grappling with GOP’s crushing defeat — and tiptoeing around Trump",
+      "summary": "MAGA media is grappling with GOP’s crushing defeat — and tiptoeing around Trump CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcEw5SnRFZkVNcXBKc1JETHRFY3lhS250XzhfejVsMjNGemZXZW5YNTAzMnlRaUFBclBHSEZISW9XZlRHNGN5NFlZb3dRYmY5aGZKNTNjLWJYZllXR3BFYWJBaVlzYXF1ak85ODltSWczQ2ZhemcxRVhxZTZfaXV4QnZVc1loRUhoaTE2czBnRDQ?oc=5",
+      "published": "2026-11-05T15:12:18+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +96,10 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-      "summary": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTTljUU1ybGRJdERiNlFoNjlFYk14ZHVJMEJGdzVhbHY0T1RKODBlS3YzM1F0NllMV29Wc3hhZFVsSTZUOXJKREpzcU10S1JzcFFNTmpiQzZ5MzEtQWZBWkx6aGRvNm50eTBiTGU0cnlYV0k?oc=5",
-      "published": "2026-11-05T07:02:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "And the award for the world’s best restaurant goes to …",
-      "summary": "And the award for the world’s best restaurant goes to … CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMMjUzZWR6OVRyMHQyd1h4bVVIUGtoVjdqVVVBSWNYX3B4NnV1RmNhMlAxeDF2cGRNRzNIekRLZUlwY3BvdWVhWWJYNXVYcWlxV3dmeFotNGI0b05jRW53aDMzMmJ0dTk4NjRTVEpZUHJmelVVVG1WeQ?oc=5",
-      "published": "2026-11-05T05:44:52+00:00",
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+      "summary": "First-time homebuyers remain scarce, but a record share of them pay all cash NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RZjdDc24xZlB1VHV3THFEOS1kenFud21SRWJKeVplVUNLWFRvX19NNGVjNFM2VUNqaVVINTFxNnhqdGkzcERVTm54N1NBM2thbHo4aHdodVdaLU9KVERlbmY0QjJpbmRMM2V1N3g1b19Ib3dHVEJQaGxjQQ?oc=5",
+      "published": "2026-11-05T15:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,10 +108,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
-      "summary": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTFEN01tZkJ6QXVRcnZEaF9WYTVjaWxuZTNLQXFxUFhJSndfU0psNmxoc2U2bDFZZ3FMZWJCSnAzS1htSEVzZkJoX3pxZ1dpc1NzaUpSTXdjcGZhMXN4NFB6UGxseDF4MTAzN2xMSjhtb01nRFplRWJrcFB0SklyVkRR0gGHAUFVX3lxTE5yeVlFRmFiTGFTSFFwSVpKbWhDel9WazNEZmZLYkNnTmd0NHNvVHJXay1pSHNsaW1mMGxmSzhBXzVPUk1vbkkzYWNtOEo3OHRwb1NUUkxmc3I0ZXIzT0NZVTJqOVd6N0tpUVJhZnpmanpLWTZodUd0TS1ITDdobi1wQmhaOWFCOA?oc=5",
-      "published": "2026-11-05T05:30:27+00:00",
+      "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+      "summary": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjFWNlloX1R1TU1ucFFGM3hldzdYRnhCbUs2aUpDbmM2cnR3cHp1ckxySDFfdVVjb2lDR2JjbTJkWHNjZ0xlajZLQm9rdldGV1VKQWF2a1lrLXczUHo5TmNvWWhYRDlwaWlCbVNIS015YUUyUDI3dmZpTFFOXzQ2U1ZCWm56d1lpOEMxQk1wbWzSAZYBQVVfeXFMUE0zOEItT3dleWpoblBTc3JFZWR1QU85dURRRy1RTXJOUGo3MVVyQjJwWW1xemNtMkJGaHlSMXJIekN3WkpOdmpSMldIUGt3QUx1VWxUeTBQMHNDcWp3QnhTVG56RlNCR3EyNFduSWdaWUFIbWpuV0RhZFI5VW1qZ1owZU5PU3k1WWI3WktFaDA3TGlQMnRR?oc=5",
+      "published": "2026-11-05T14:58:26+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+      "summary": "Barkin sees interest rate hikes ahead, but at a gradual pace CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEZaWEtSWXFFb2N4RUNSdXRrbktjX1JvWnoyWGM2c1p2dnNrWGMzeTAwdkU3UDlmV2g3aDJvZVVxdG5BZ09RbU1DZWs3MmxodWRka0NXSE1YQmNOMjViTzhKbE9Qa1Y4SExQQzROdkFzWnJJeExoZ0h0aFNFRWdHU0NxM2Y4SXFMYlF3V2UxaTN2aXRTOHVvdVdoNGTSAaIBQVVfeXFMTUZ0M1g5R2p1V2hibU0xWHRfcnBDSkVzWGlZNk92OWNKZkRtV1JubEhWVnp4M0RSTWhaSGV5VlR6cjRtT3FMRWI5eFdBcDJoakxBSHVhMWZFdGxsZG90ZFl3SU1OYW92ajZGRkdkRXFZUnZOZFhFd09fQlgtVFctNmF2THlhNzgteDQ3STFZbmV2QXZSWG9Ldi1IOUJSSWNvWFdB?oc=5",
+      "published": "2026-11-05T14:29:28+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,46 +132,58 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-      "summary": "Hong Kong activist Joshua Wong sentenced to 10 years in prison NPR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNektkLVZtdTdwamo5djcwQTl1VVdIbmRnaFJSRTlfQldMdWQxWm53UGtBaktqbXZFam1ya3dWMFV5NFAtMkVVX1Nua25DMFlTci01cllNeFpQZlNoYVRqQkhSdExxSHdWVXdudzhCX3hBSFZYSGdOR0NsdHJ3ZVBMVDZn?oc=5",
-      "published": "2026-11-05T05:29:56+00:00",
+      "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+      "summary": "What's next for Democrats after the midterms. And, a look at the outstanding races NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWtvMTk0ckEzMktZQWhIOXI3NkFWUTYxX2U0RTRKMjZ0c2RQa050aVZxSGhkYnRFcmpCd2VNVGZZYklaZWZUTFNteU9XdzJMc2NYVk83YmlPRkJhel9ORWYzMFk2enpvclI3eTZUcVhzb3BZdUZXblZ2ZXgzQUg1emdWSjQ1S1k1TlNzbWgtU1lSR1BvamljYXo2eDRxYlVDRE5lUl8zSmVfOUNxWVpNdFZOM1Y2VVNi?oc=5",
+      "published": "2026-11-05T12:02:24+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Multiple grizzlies may have attacked mother and daughter found dead, Canadian authorities say",
-      "summary": "Multiple grizzlies may have attacked mother and daughter found dead, Canadian authorities say CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjFoRXpCNjlsTkNiZzNEU2JPTnVxNDhjdTJ1T2otd0ZxUXVSZk9yT0ZZbWNmblRWS0FESnhrdWQwdVhFMTlBbXQ2NTlpUGNrRHFSRm01UWZsMDVsenB5eGtuTGR4NU5qVkFXSXB1R2ttbFNzQzZXSl83MXRDcHJNSnpXaTlkQmVZb0ZzT2FFZ0x6NmM?oc=5",
-      "published": "2026-11-05T04:16:00+00:00",
+      "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+      "summary": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how? NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlhBeklFdElHX1VZa2hWaW5lQ18waTMxLVpTU21Kbi1fd1hXX0gwUWFnbFQ5NEhxbHF5RXJaQ1lTd2phVUpRN1Ztdkl4UFNpOXNUbEdVdWVmV1VSSzg3U0JEM1pyR3BhQ3BwM05TQzJycFJTeFdyTE16bjNGNUtkM2hxUnBTMXptUnI5QXRuQUFGd280WE51aA?oc=5",
+      "published": "2026-11-05T11:45:30+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Hong Kong democracy campaigner Joshua Wong handed another 10 years in jail",
-      "summary": "Hong Kong democracy campaigner Joshua Wong handed another 10 years in jail CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWwzX3JndGl4Z0pIQllfcmRTMDVxYy1oRTM4dUJONzBXRm4wSi1RaHQ5SXJ2X0xqelZyeGhnbmp5Z1JiUVlmX0pzQlB3VzRGcVFaNnZzcWFpNkh5UzQ3RFpQenJTdWw2MjRwcU1iRXc4VVFhUklpUE0xdEUxVm01NFBoRzh1UUNyZXc?oc=5",
-      "published": "2026-11-05T03:02:00+00:00",
+      "title": "Colorado transgender ballot measures spark plans for legislative challenge as votes are counted",
+      "summary": "Colorado transgender ballot measures spark plans for legislative challenge as votes are counted CBS News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXoyUFJWVkxYZUZZQWZ5aV9ycTVnSVZjOG51R1NsVV9hQ09SYVVFZ0lUeGk4YWZnOVV6MUtYcEVqTWxZY2YtWFd0TGtiQ0tWaFNDd01LRlpsbWtoenQ2RTVhcE00S042bTRxYXhnR19qc19HbkRqUDVXY0xkM1VZN01EUnBFekZ6SXJsWUtGSnJQd1FsUHlZcTlhcmtJVnVtaXItbXktVG5hYUpEX2JlUGZzV2o3UThHUmVNZHdvclpCZ0Y5MGozU2thWmV2MVE?oc=5",
+      "published": "2026-11-05T05:33:28+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "\"Well, I finally F’n did it, guys\": Mister Kansas announces spicy new endeavor & the gays are freaking out",
+      "summary": "\"Well, I finally F’n did it, guys\": Mister Kansas announces spicy new endeavor & the gays are freaking out Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0JMMWRBTEw2MUUxMXp4ankxVVFKWFBJWFNZYmhpV1VyZHdPZGZUbVFyNlo1WDhNM2NaUWtkX2oxRk9acmZqQUxCLWY0VXlsbUlYSW0weDBMdm1CNXB1WFJQVXlnRVdJMWdCWjhDTDNqbkhVZF9vVGxJQnNmX0hKZHdjLXhuMjV1ZmNseGRlQUt3VDBzb25JUlIyVmJid0ZEY2lHVXR3WHZ5eG1Nc3BGQjAweW82UXlvM0JxNXc2U2VZTUZYQTZXcg?oc=5",
+      "published": "2026-11-05T01:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Citi employee killed in shooting at Florida office, suspect dead",
-      "summary": "Citi employee killed in shooting at Florida office, suspect dead CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjVXcFVvMmZoaXdiV2MwRmdGT09mcFRFZVN3Z2JtcTNZcTlkT3BEOXQtUU9MLVdEMkFiRVJoTlE4OHBHN1VLLW05R2xiTm5mUERKSXd0VExsWFFDYTJ4N3c4aHhpWWpEanl6N1Q4b25TdkEzb2tlTmp2cG5wbmJxVzB0bHhhNEFnTWFRX0NoSmJjYWlVdTlMYTg0WV9FcHJtVXfSAacBQVVfeXFMTlBmUk5nR2tDemFIMnA3RHhkbWd5YXJCdUFVdlZVRURURHNycTM3ZFpPMllyYmd3X3owVkhpRlhoR3pUNVpNaU1UWktMbDhzcHNpWG9jcHliYVg5TVM5Q2ZlbktlQnRMakFDbFB6ZVNacEFKakltUzhIZ003VkkxWThlQjV5b1VmUzBpSi1SY1V1ampmckNXRUsyQ3RQZXhSTDJXQmY4VU0?oc=5",
-      "published": "2026-11-05T03:00:00+00:00",
+      "title": "The 2026 blue wave, in charts: Data shows Senate Democrats won by bigger margins while Republicans lost ground",
+      "summary": "The 2026 blue wave, in charts: Data shows Senate Democrats won by bigger margins while Republicans lost ground CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vd1BiOEYtdHpLQUl3cW5JaENrSDZzSFhFVkc1cDNkYVFhV1NUU1otNDFCc0Q2bzNIdUFCZHMtTVhDTm9wdFcxcDBZSmVGZFloNFhtMXRlYno2bllFY3psaFhCRmVaRlVfSjlQUnc2OTRCb3VH?oc=5",
+      "published": "2026-11-05T00:47:55+00:00",
       "beats": [
         "Politics"
       ]
@@ -122,6 +195,18 @@
       "title": "Think out loud, then write: A recipe for overcoming writing challenges",
       "summary": "Think out loud, then write: A recipe for overcoming writing challenges K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3dDRjZnTXRMRzBPeHNPUTJsTVRSSF9fSlB1M0pkM1FmWnY1MXBReTBGSlBlOWFTRmYxZDNFWFFOV1BXUm5CWV9rc2lMT3kzVzBWRlFoU2IzX3l4WFBFUUJYVlU2aC1nR0RIRGNIbXIyUEd4LWpVS3liOUNBM1IxTUlOUEtNVTlpc2NhWm5Od1I1N3BUWHF1YzljN0ZBdUdM?oc=5",
+      "published": "2026-11-04T23:44:39+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "How student showcases can extend project-based learning’s benefits",
+      "summary": "How student showcases can extend project-based learning’s benefits K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlpUS2JzSUw0N3VHRkxfSEItekpFZkdoQnZOT1dra0tvOHdmanJnYXVKbnZvQzEtWWFVbTZzZFZwdk11TThwMjdrY1IyOHB5bXU2SUZfWmFfOVJMYmVRbVpNSW1aTmVENWd6Yjd3VTROX0hoYllfQV9SX2JGMDhaN2xuakZQQ0cycFZ5V0ZkenY1dkt4ZFhHb25faGJWMDl0c3FKczJqRm4wdnROajBn?oc=5",
       "published": "2026-11-04T23:44:39+00:00",
       "beats": [
         "Schools"
@@ -141,15 +226,29 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Elon Musk will face scrutiny from Democrats after midterms",
-      "summary": "Elon Musk will face scrutiny from Democrats after midterms NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFB1cnJfcnJmRFI3NlJjTWlHeWxkM3V3cEhtYzA5QzkwdURtSnVQM2JEMWhOVnp5bmQtblhZWDlMNHFwTEJOUkwtb0Q4X1MyWXdlNGhTODFKTk52NE0yaW1sZF9OS0Z5OER2NS1YdE1SM2pVQVF0SE5pU0lwdlNnSVFvMm83NWpGV3JmWG9vdUJZdw?oc=5",
-      "published": "2026-11-04T21:11:23+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Republicans bet the house on anti-trans campaigns & it backfired gloriously",
+      "summary": "Republicans bet the house on anti-trans campaigns & it backfired gloriously Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWZxdGNhZkJGOHN6Mm5fQTloT0dtMDF6azZxQkFPc19DR3BVd2EzU3hrSHgxSXd0Q2V2SFhzUlFYb3VUaEVtNWNXRC1Qa3QzV3puUmdyQ0o4VXhwMGtCQUNQNmNDMW0wM1ZYZmxiMEM1Ync4TktFN0tUMUU3NzZZXzRIN1NLelM1clJqWXJPaU1WNEttNlhTcUZjV2pRNnNVUmZmQkdtd3ZVbFU?oc=5",
+      "published": "2026-11-04T22:00:00+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Gay Army pilot who refused to quit over leather photos concedes House race: ‘Still your neighbor’",
+      "summary": "Gay Army pilot who refused to quit over leather photos concedes House race: ‘Still your neighbor’ Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMDJ4dWNsZjF0eE91c3pST000akpWc1JNR1NwYVMyVkNtd29KX1YwbjJYbmlndkcwUVpPdkFwUkhwb2lVNUtkZW84ekZwaHAzdVJvcVpJNFZzUUZ2VGphRjFJTFNXYUVFNG9nWjN1TXFQUjBDRl9Td3dFSkp4YlU?oc=5",
+      "published": "2026-11-04T21:29:50+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -178,15 +277,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Rosie O'Donnell celebrates blue tsunami & a new era for US: \"It's a beautiful morning in the world!\"",
-      "summary": "Rosie O'Donnell celebrates blue tsunami & a new era for US: \"It's a beautiful morning in the world!\" Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcktRYkJVNHJweW1YZ0J5cDBtdFUwWGVQM09lNEpzdEJNMm1BX0JLN2MyM3J0bVF4TG5DRzJHeG5wZVhvNm93c0t4d09PR2taZDdUWXB6c09Mck5LbHBxSjNkSDZMOTR2aHlNSEFUd01rRFVQY19HY01DVEM3enlDcTE5VE1RbjBIY0tsZ2xxNkFyZU5UOV92QWVqQ3RLSDVxYkhXcWM5WUd5Y0w0V3FWblZLaG80dnRBMlE?oc=5",
-      "published": "2026-11-04T20:00:00+00:00",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "How 2026 Midterm Voters Swung Back to Democrats Amid Trump Backlash",
+      "summary": "How 2026 Midterm Voters Swung Back to Democrats Amid Trump Backlash The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0tndVdST19penRuNTN1NW4xeWVHWFJlMmFLQ2kySVZIVFdZT2V2eU9HVjZHSUJna0s4UXVySG5BX3FVYWRhNmt5N0dHckQ3NXAwZzFXVy1oWnJFbjhnTnRIdVF4WVltVkViNDZpekt1dmZUcEwzaVYtdVltQ21zUnNXbW0yUXp5U2llSzdsQlFSRWk0OFBnTV9iN08?oc=5",
+      "published": "2026-11-04T17:53:16+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -227,19 +326,6 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Live election results: California state superintendent, governor and Propositions 3 and 40",
-      "summary": "Live election results: California state superintendent, governor and Propositions 3 and 40 EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUZ3eTJGZHFDSXd5YjY0YTR4NzZfR2Fib0FwMDRGQmRNTEZja0FUZTlCZFF4WnRQdDJaVjJtUE1yS05OYm9vSG5LNy1BZEI0VDVUSW9SUHU2aUl0YUQtczU0RWppZEdoT0o0NmRoWU9GSWFBV08wVGtyc3AxamVudG00QWFvbWxmSzE2SE5kcVFKMlVtNzhmTEZaUU5yYVYtSnc?oc=5",
-      "published": "2026-11-04T15:28:21+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -252,27 +338,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "CBS News exit polls show how Democrats won in the 2026 midterm elections",
-      "summary": "CBS News exit polls show how Democrats won in the 2026 midterm elections CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNRTkwRkkzVGNZVnlIY0w2VFdpTE5oZGF6UVVrTmlxbVlHUURORlY3ZTNfck5Bak9xUXlUWDhlakJvOFJKbThheWdCeU5KLWdiSGJtRDFkbzJfYXZpdkMzdURQczNrU25ZTXB2Qkd6cFFHUEVVRk9iTno3ek9qQQ?oc=5",
-      "published": "2026-11-04T15:01:00+00:00",
+      "title": "Colorado college students fell ‘substantial distance’ to their deaths, officials say",
+      "summary": "Colorado college students fell ‘substantial distance’ to their deaths, officials say NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV9MMFItVjl5QjRfcXlKbHI4bkNNRVNlVENvMDlnQ3pLdndnaVlvWi1Nc3V2cms2SXA4Z1RHYUhmYzdNbXBwdmJXdWE2bmY5cHBURFVHYXNlRllNQXoyU1FLeldOLUxDZUxTR0tONmZ4bkFiVTVSbHN5aEtsR0xVTE5TTXpOcjhYYWFEcmJmRmJqR3o0WXk5eFo0bTVGVmJ1aHRBYUdVODdIbmhwSWplcWpHVlZYV1NieXc?oc=5",
+      "published": "2026-11-04T15:07:50+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Talarico says his Texas Senate win sends message to Elon Musk: \"Texas is not for sale\"",
-      "summary": "Talarico says his Texas Senate win sends message to Elon Musk: \"Texas is not for sale\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zc29JTVJFOEI2OUlsQU1UTkdNeHMwNHQwS3JsQ0NGdk9fbFBOWTdzSGFVRHFDYkNNNHZEbEdJdzJzTHhMNTcwMEdRdTMyalJ1QUxyZWFHaVNXVXVKbjlDVS13ekwyOGc0NldIeGRDaDlzVENLLXc?oc=5",
-      "published": "2026-11-04T14:25:00+00:00",
-      "beats": [
-        "Politics"
+        "Schools"
       ]
     },
     {
@@ -283,30 +357,6 @@
       "summary": "The New York Times Adds 420,000 Digital Subscribers The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1lrdklVRUxiWW1wRWhjSUctNzc1a0R2MzBnTU1kZEU1d2hSTnJBSm53UE1BTm9oMVJUbUd5WmJRZnhfYVVPWFQ2aXdSSHpXWVpmcGVCRGxwZDNXbUNkY0tnUUFKZDNxWW84YUJEZ2NyWG5rRlJvb0o4ZVZrQ05EdFE2czY?oc=5",
       "published": "2026-11-04T12:09:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "‘No one is going to outwork Hakeem’: Jeffries’ rise to the cusp of history has been rapid",
-      "summary": "‘No one is going to outwork Hakeem’: Jeffries’ rise to the cusp of history has been rapid NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3NURXQ4UHh5OElNRlRGaHNEYlNDejBfaDNpY19Gb1NKOWx3UThQM09PYlNIanRGRVUwU0JieFpxOFc5NTF6RjZieHJ5NXhLdWZsajdPOF9sZzF3WGJvZU9obWdIVnd0WFRDS1ctV3NHS2RrMS0zN0dnaV9rQkZPUndDa1lkRS1iQnEzbmw2U1BpR0djWV9NNjREVzI1SERxVDhWNGxvRjd2Wk0?oc=5",
-      "published": "2026-11-04T12:00:40+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington",
-      "summary": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5",
-      "published": "2026-11-04T09:35:56+00:00",
       "beats": [
         "Politics"
       ]
@@ -325,18 +375,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Senator-elect Abdul El-Sayed wins Michigan race without throwing transgender people under the bus",
-      "summary": "Senator-elect Abdul El-Sayed wins Michigan race without throwing transgender people under the bus Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIamZIVmpnSnVOYnlEUWl2WUJBay1CSU4tQjdicjk0Y1VQZW85ZGRzZ0tlMGVZMGdKQnZtVnFGWkt2RENSYURVYjhyVHdYS18wTVRpX2ZYXy0yRXg5Y2x1dThsZEh3VXVVdGlWMGRlZXF1Wi1pS3o1TTk2Yw?oc=5",
-      "published": "2026-11-04T06:35:50+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -346,43 +384,6 @@
       "published": "2026-11-04T04:48:57+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Google’s New Rules Hand Schools Hard Choices About AI and Search",
-      "summary": "Google’s New Rules Hand Schools Hard Choices About AI and Search Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemZRcXpiTmZhdGJpb1UtOGRES0V1ZGNkcVR5bzBPcWJaa0xUaThFVFVrZXJ1by1hd0p5SGhZd0xGZHBPVTlnWURvQUozcloxQnk5MjMwUXpxUEExT0pvdkJ5OEh2anV1Z2V4UzlISE9wVWxNV1RkOXV0TC1TQTh0SE5hMW1UaEhtSVlIMUZTczEyVHJTekNRYl9aTTIyQlUyaF9OZFJQZUQ?oc=5",
-      "published": "2026-11-04T00:55:03+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Can gay guys have just one space of their own? Debate over straight women at The Eagle rages on...",
-      "summary": "Can gay guys have just one space of their own? Debate over straight women at The Eagle rages on... Queerty",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkxaNTBWOFhLSkJnN19DSkhrSzRYYlRRUm1qS3NiWTRieDQ3Z1AyaUN0RmVPU1JDdy1Xd2VCUm56bFVXbmxmV21nc3AyRTZURFlyb0RWN3QwVXhYdWpSQk9IZ0ZPOWR5dmF5QWZCclIxaGY3TzBSemVZcGh0aTVyOUpKSkJMRHVldkNETVdXWWZNand3QTN5YXJiZjRheHVtN0tpYm82RE00ZkM5RFFmbW9SSVJXTXNUTUFrempMcnBDXy1LZ1hV?oc=5",
-      "published": "2026-11-03T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "America votes in the 2026 Midterm Elections. Join us for 24 hour election coverage.",
-      "summary": "America votes in the 2026 Midterm Elections. Join us for 24 hour election coverage. LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaVlLX2Iza05SMzZLZ2kzbk5idDY4WXhFTXVDeTIzN2laMlEwSEo1eGxuQlFLQ25wY3pKbHhYSnN6ZVJtN19MNi1sZndMU1VldThHWDhCdjFyV1hsV3A2MjE2d0luUzJHT2FKeXNTQkJ4dmNPeTBZNzh5V0FUYXBFRU5NWC0wbWVEclF0VHlMcDNuQXNTcG5yZDQyUW5aWVRhZXNWYko4S0c1SWdEZngxMWdyTlBEZw?oc=5",
-      "published": "2026-11-03T20:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
       ]
     }
   ]
