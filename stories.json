@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:03:52.043586+00:00",
+  "updated_at": "2026-11-07T11:52:08.575587+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,61 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows",
-      "summary": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
-      "published": "2026-11-07T04:09:32+00:00",
+      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "summary": "An unexpected activist emerged to help block a $5 billion data center in Maryland NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1RCUWphbVdzNFFpMnlyRnc3Y1RFNmpDMTZ4WEJacnZFVnV2X0h2N25oU1RSMUNoR3FGaTNyVmwtMFRMbmloSVh3OThjZG1xX1dwQUs0SVpqei00VWF6S3JQVzNxdU9FazktMFY0RVljSV8wTDRoVllDNkhMZmF1YnFpOA?oc=5",
+      "published": "2026-11-07T10:00:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "How Democrats used anger over data centers to flip red states",
+      "summary": "How Democrats used anger over data centers to flip red states CNN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0ZoaDN5c0hWOXFRalVqZ04tQ1Z4YjFGLUh2Tkt3VGVFelJMT1RVZDRXdzh6Sl9vekhqUzRDX29RZWhyRUMwb3VaQ3E3Tjhwcjc1allINTd2TUFFM1VhUGlEQXYzbTdxUS1taTY0Nnl1TDNRSkZNMmZJSEV1NDBtTnRCTVVNSmY0dXE4Um15Rld5TEhkeEhBQzBSNU5ZZw?oc=5",
+      "published": "2026-11-07T08:00:15+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+      "summary": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+      "published": "2026-11-07T07:37:36+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+      "summary": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hMlVqaFd1Um1JTFM5S2d3bTFGakcyMnpmU3ZUNHhWNlZwUHZkN25oMXN5bF9YWEhvLUZBQWJyVGEtX3R5cHh3V1FTNm9nZFY3eTRGWno3bnVjTDZ6X3d2S0NwcE9vUm9jODBxbzdqa0xJWldyQXlBZw?oc=5",
+      "published": "2026-11-07T06:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
+      "summary": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDNZcTFDRkFORlMzQk9FU2wyMVpvY1RPMzRHSUZRSGJ4S2x2cmJKMHgyOHJGSWtXUU9wU2FPWG1xNUg2cVRKOGY1NVNxZldqSnFoTnZCaE1oS0ZuWVVKVkVlUzEzbG5tcGlJZ2VBMGxobGlkSjFRbFRXMXJEeFBMeHpn?oc=5",
+      "published": "2026-11-07T06:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +83,10 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Scott Colom remains ‘100% confident’ he’ll win race for senator",
-      "summary": "Scott Colom remains ‘100% confident’ he’ll win race for senator CNN",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGszY3VoMkNrVV9xMlBJdjJ4ZzJfNlZfai1pdnVGMjJ6d0hOekF2NWpyY0doQlJjZHBPZWdubmtycFFzTFFadjlLckh0SzdWYjJ6OGx3Wk5uWl8zSUJzVTlIUXlmb2FaTkRtOVlhVGc4WGpNa0tVOFNLUndTN1UtUDYtSVdsaElCSDZYM2RHQWdDR2ZvRldXQw?oc=5",
-      "published": "2026-11-07T01:03:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
-      "summary": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcy1TbzYwaC1KY0t3Z0ZMc0wweDVSQllCUEpVWGhSU0lqZUZCRUVQS1d2LWg2WFFibnFtZHRhQWUtTG9yM3l5UDhBQXNKdGFFVGtwdExBajBnNDlVMkpqLVRuaVVXSEh3TzZDcGxYSmRqZ2EwdmUyYW1neGpvdm9IWjRHY0JMZFVRUm1xWg?oc=5",
-      "published": "2026-11-07T00:39:51+00:00",
+      "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
+      "summary": "60 years of denial about Israel’s nuclear weapons program confronts a new reality CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZmdPOVA5TFVsRkppNmNVcTdVREJUaWUxZTJFbGxiVF94NXZFVVdvNmp5ZzNGOFVCZlVaRWtCcC12MVRtVFltNXd2REVnbkstYVAzQTBuMGtRemZtY3NWbTYwc0hpaXZKcEVHWnkyOXVDM3lEdDJCeXVfbw?oc=5",
+      "published": "2026-11-07T05:01:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,22 +95,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Secret Service arrests armed man near White House allegedly threatening to kill Trump",
-      "summary": "Secret Service arrests armed man near White House allegedly threatening to kill Trump CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHBQajZJdjltNTJ1MlVCT05jTTNtbXNmd2I0aGZnSGstenZlVzB5a2o1M0pVb2NUWDdxd2Y5YU9zdklIbm16QnVZa3NGeU14QmRiSEo4QnJoVEFXOF9pRmR2czk2d0R4N2V0MDVhNldxNDktR1dxbU9pdXFvdzR1NzY5d2xKTDYzZk83Y2dMLVFHVTg?oc=5",
-      "published": "2026-11-07T00:26:00+00:00",
+      "title": "Iran’s hardliners see a weakened Trump – what happens now?",
+      "summary": "Iran’s hardliners see a weakened Trump – what happens now? CNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ra0drcEFnU1lVY0lfOVJ0YkFxeVFfbE9YcEdmZm1PNHAxMkpLWUU5Q29oM3dONEFqTlVqOVlGaDBWZWhOcjBmb3dQUEZSV1ctd2JlRkl1bUdhVE15Z2NteXF4cGctNDRnSnlxUTYzRC1vTTNlb3FTNldLM04?oc=5",
+      "published": "2026-11-07T05:01:15+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "FBI agents served an Alaska Senate candidate with a subpoena just days before election day",
-      "summary": "FBI agents served an Alaska Senate candidate with a subpoena just days before election day CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjA5c0pQd09aNHNvQ0twY3VIbV9OcVlmdHRiOVhNdG1yRHlLWV81ZEVwbnE5WU5PNjU0RjRPM3RiYXFPZlJUMURqcVlLMFJLV084RTQ5TUhuQU8tSnVJR2FoV09XWGRmY2FuSGZid0tNSWNYNk40T0xyNXlmOTl2OUZ4cFlTVGFs?oc=5",
-      "published": "2026-11-06T22:32:30+00:00",
+      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+      "summary": "No one knows how many ballots are outstanding in Mississippi's Senate race NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2s0S3NJaHk2MlRFZkQ0WDdQYmY1bVNWQW4zZEJRczZpX19rcWo1OEdrbVpXZjJDSGJhS1BEX0hQeHBaSnZtM2V2NmwyVzNIQWtlakxWV01MN29fci1MNlltdkt3V2FPRkRFd3Fuci16WjR0Ukp1U1pTOHdhNUt0UmZGbGlxd1N3TWlOd1ZGeTNSU3pWV2c?oc=5",
+      "published": "2026-11-06T23:02:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,75 +128,27 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "SpaceX says Google exec Don Harrison has resigned from its board",
-      "summary": "SpaceX says Google exec Don Harrison has resigned from its board CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDUG0wM0tqSkdkSFJhYUZwUXhXRUt2RmVYN05ETDBScWVFWUNsUVdJVXh6R013eG9USjRKRGpxcDFoRTdsUFpvVW5lcFJyQnk3U3EzOGpIajk2eVpveFJPdDZPX2Jmdw?oc=5",
-      "published": "2026-11-06T22:24:38+00:00",
+      "title": "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles",
+      "summary": "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWlUZUk0N2lPSzFqNnlCZUYzQVhVWEJueXk5a29yaDhkVXp6R0xsX2xJamFhTjhyNEprTkdLQjNDeE5XVFRzMG1wTTkzOGtiNmhTVEZFTzZzTy1NcU4tQ0dqSG4xc1FiU3pLMDd5QndNM1pYejcxZ00ycUVwbVBLOEloSWdNdjI1MDNra2VEdTA0WU9keHpEOUNfMFpUMm8xa1B2ajBCM0VpYlFrYy1KZWotbXY0bXM?oc=5",
+      "published": "2026-11-06T22:10:42+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
-      "summary": "No one knows how many ballots are outstanding in Mississippi's Senate race NPR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2s0S3NJaHk2MlRFZkQ0WDdQYmY1bVNWQW4zZEJRczZpX19rcWo1OEdrbVpXZjJDSGJhS1BEX0hQeHBaSnZtM2V2NmwyVzNIQWtlakxWV01MN29fci1MNlltdkt3V2FPRkRFd3Fuci16WjR0Ukp1U1pTOHdhNUt0UmZGbGlxd1N3TWlOd1ZGeTNSU3pWV2c?oc=5",
-      "published": "2026-11-06T21:45:41+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
+      "source": "Queerty",
+      "source_feed": "Queerty",
       "lane": "LGBTQ press",
-      "title": "Op-ed: Susie Wiles is the latest woman to take the fall for Trump's failures",
-      "summary": "Op-ed: Susie Wiles is the latest woman to take the fall for Trump's failures Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00M0JUcDJ0R2pnbGpGWGJXYkNrb0hGX0lmUXFFNUNKb3dTQmxYZ21zRGE0QS1FTmEwNTQya2NYc0MxUHhxMG5EOVJSelpMbzFKNUlTVW1jTlVyVjV1YUNrZ0k5YnI4UQ?oc=5",
-      "published": "2026-11-06T21:24:20+00:00",
+      "title": "Hollywood Spa was the gayest place to be in the ’80s & these ads prove it",
+      "summary": "Hollywood Spa was the gayest place to be in the ’80s & these ads prove it Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUVJMlo1SU1RT3VTTElLNEsyODFleW9hclp2SExqSDQ3MWVZeWJxQ21fM0U2clZDNkp0dFhhMkNDUUxNOEF0ZDRqR1pMUHRpeXlXV3NPOGRYR05mNFZ3Z0tNVU1zd1dESWtYYjUxUW00bFBKTnJBQmM0MWtfWXo3VUk2cUZseGQ1bmszRGVtNDZlTDNFYTZldGwtU2wwU2JDb2owd3lxdw?oc=5",
+      "published": "2026-11-06T22:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "summary": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2xnRmphZ1JWMGh1OHplODE3ek1GTHFoLXBkNkY2RVlDM2NVRHJBdzBsYlNVMFlJSWdXMVpBMkV5TFRMbUxSaGsyVmN4T0pKSGhiYnhKWkg5Q1ZkZEVmUE9RVUhXTlJWSFAtOE4yM0JCbG5PdGVIbnE4VURQam9RNWcyNHFrZUFZdkdCNzlGbzJuRzhYYjBDb0JPSk91cUhlWnRaemVR?oc=5",
-      "published": "2026-11-06T21:00:14+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-      "summary": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZU03RUdzelh6V2E2S2NqbE12bXlEdHFGOWxFMEdwUTR4N25pNzFybWZicWpwZnIxdm5FVE90cWJTV0U3aDZaWl9heFFvV3NMekoxLW9fb3BmcG9jRk5maGh3SmZZUHY4cmxZUEZhdF9QRDFEaklOM0VseVk?oc=5",
-      "published": "2026-11-06T20:53:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "The incoming class of U.S. senators is full of historic firsts",
-      "summary": "The incoming class of U.S. senators is full of historic firsts NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmQ5U0NMTFVCQmZocE93TmFkMGVIT1gxVGxrdkZTNWEzcWhFZWNhbzJkcGs4SjZ5Qjhua0tGdWFmTTAxRm56cUwxd1hQWGcxcUVZRU5HRzNpLUhPdm9aQWtaY0gxNGdBd0ptNkU2S1k4b05odjl0aVFQQ2VlUkg2SnhnVFN2c3RNWDVzWjBIYVY0V21SQ3BV?oc=5",
-      "published": "2026-11-06T20:21:13+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -238,6 +226,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Inside Cal’s messy first year under Tosh Lupoi: How a season that began with hope spiraled",
+      "summary": "Inside Cal’s messy first year under Tosh Lupoi: How a season that began with hope spiraled The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1c3b3ZKY254eS11VUoxU2w2QXZMZEliQV96YTltM0FabUlEcW02bm1DVU10RTZyUGtDcXdiSG9yRzE5cGVRRXhESlMydk15TlZIQjZQY195TVB2UFN3aE1lUVIyeU56dldVa2tCUjZ2SV9qaWJ2Vmpmb0JVdGs3eUxSekFzbVRDc0kwWjNJeDk5ejA?oc=5",
+      "published": "2026-11-06T14:48:29+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -263,6 +263,30 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows",
+      "summary": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
+      "published": "2026-11-06T13:00:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | After These Midterms, JD Vance Is in a Bind",
+      "summary": "Opinion | After These Midterms, JD Vance Is in a Bind The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRU09DTWtjeW9uUFM4eV9MU2Znc2JKVkNlcHhUNXphN01JbUx2ZE5XaUJlYVNVVUw4UDB6MG9wRllQQmFFNDJ5dWYxdE5naVVWRV91dmRIeW1TY1hyTjZGQzRpdUQ2dnVEeE9vbEdiX2Zwcmc?oc=5",
+      "published": "2026-11-06T10:03:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -275,19 +299,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-      "summary": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0luT0JIVEZNdHBQVVlna0ZCLURSRE41aE02QXB2dEU0cGVSSUI3RzZZY05ydGQ0cDBXcklNOFRCaU5MUExQdWZSSXdYbDZ2MHJqOG13SUd1V0Z3RkxmSnBPYWM4bXRMOVNQUWlGeTlvdmhWVHVnUmlBQ2dmeFJrUFFKZURsNDY0MGFaZWF3?oc=5",
-      "published": "2026-11-06T05:49:00+00:00",
-      "beats": [
-        "Politics",
-        "Business"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -297,6 +308,18 @@
       "published": "2026-11-06T03:35:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "LGBTQ+ groups 'heartbroken' by passage of anti-trans measures amid blue wave",
+      "summary": "LGBTQ+ groups 'heartbroken' by passage of anti-trans measures amid blue wave Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1VqM0RYLTAtQkJNUjNqZkduTTQ5eTJmWC1aRTBfTE9yWXJxN3NKTENiYW9RMWIwUWJOQjNvTk5IR0M1RzYxRjlBZnZIZ09GWFktUkhycHhNNXNYdFpPN0xQT1h2ZW44UU9meXNvQVFycWo1VFVSQVFFenZMTE1OVW9WcndlQi1fVS1jVEVB?oc=5",
+      "published": "2026-11-06T01:34:34+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -326,18 +349,6 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Florida elects Republican with neo-Nazi ties who called for executing queer people",
-      "summary": "Florida elects Republican with neo-Nazi ties who called for executing queer people LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDh3Wk5EYTI5eGxGSkZXdC1LZFFiYUlIR05JdEJ1QXZrWm02cEIxaEhUYnRpaWFmWks2RklUUXdXSG8zSTlMR1ZNNVhRVFotZ0NaMjVUOWhhYjZYYXdjSXoyTFlQRTZQV193SFc2QVNYSWxIa3REQV9NWkIyQUtHd1NpTDZTc1IxRFhGSVNicGNBbEFxazZOQzVFcXVnZ3VqWnRzNEdIRGdlMFpaMlFkZlJ4TU8?oc=5",
-      "published": "2026-11-05T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -345,18 +356,6 @@
       "summary": "Anticipation and optimism take hold as Mississippi’s Senate race becomes a nail-biter NBC News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnBiYVRKc3Q3S0x1UTBoTGdnc1JVTlZ1MFR4Y3psTDF2VGdfcXhCbllDVzd6cTVaRlN5MzRaZjRJQk9YTmlFZHdhZW9Xd0hMUHhFMmlpc2lWNkN4cWRUR0IwRVJpZFlkeFRSSDlWNzlXZUJsUEc3azBEbWVJa2x3MFZMUk5adUcwS2Vrck5QeGVtRjdYcWx2OXlIX3ZmLXZQ?oc=5",
       "published": "2026-11-05T20:28:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Don’t wait for a cold snap to protect your pipes — plumbers share what to do now",
-      "summary": "Don’t wait for a cold snap to protect your pipes — plumbers share what to do now NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3FJLUZaOWdwVGhPZnlOR21mLWRiSVJRNVNaUTVWcnVFQTdkNzZmVndiVHdNNHBNYXdUeXlfLXgyaHN1ZW9kWUV3UDV1emlHMVc4bnNHRkM5aC1ScVRqcFFkblllSGpERGVJMFA2TEFRTHBheG9YOUVFaG1OaVZ1YzdjWFQ?oc=5",
-      "published": "2026-11-05T19:40:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -374,16 +373,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "This proud dad with a gay daughter is on the cusp of ousting one of Congress' biggest homophobes",
-      "summary": "This proud dad with a gay daughter is on the cusp of ousting one of Congress' biggest homophobes Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanF4djl3UTg1RTNlWmdCZmxLcnBlWWFwQ3NGdXpEa3BPWG94eXhCalpybDczTHhEMXh1QWlnOGI0VHVVNUhzLXdFWk5LcEl0RDJBZF9Jb3N6NUpOT185c0FEMnl0Y3ZoTldXQWNFM05URmJXNXQwOGV1YUdkbDVlaWxobndlYl9PeTJDQXhha0lXVFlVOTdObm1mcmU2WGpwYUQ0dTkzTjZZdzhsbWU5Tk44X2FJVU1rMEVVOWRnUjYtRkxYbmM4VQ?oc=5",
-      "published": "2026-11-05T19:00:00+00:00",
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "AI is the Top State Ed-Tech Priority and PD the Fastest Growing Unmet Need, New Report Shows",
+      "summary": "AI is the Top State Ed-Tech Priority and PD the Fastest Growing Unmet Need, New Report Shows Education Week",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMFBPWFFWZ3dzXzJic1h3MXhoSUFIaDlGTVVtUzF6S0lzRGI3ekJiMVFSb1Z5SWlxMXlQajBRdWw2UmxXa3pmN2VoVkpCcF9zSzJqX0MzSEJ4Q2ZiLW1hektteEZzVUY1dDFwZWkwbmM5VjJMUUpvd3QweU1QZUZJOFNjbF9fUTZ4cWloUmlVUmZrOGpUQnJTaWpseGVoWk5VRWU1ZGhGaWVWaERmRWQ3dDBlNDVqT19LVVBQZ3RXNmxoUjA0X1BvTnI1ZEhjYjR5ZzRkOUpqbFEyR1lMbnFTZQ?oc=5",
+      "published": "2026-11-05T16:10:04+00:00",
       "beats": [
-        "Politics",
-        "LGBTQ+"
+        "Schools"
       ]
     }
   ]
