@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T19:22:58.370180+00:00",
+  "updated_at": "2026-11-08T23:00:56.565860+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,54 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns",
+      "summary": "Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDZKWXR6NWRkSU1kLUV0M3FSOHpOYUtQWlV1OWVhUGN5Z3BraUg2d3BIdEJDZjBMMV9Ca3JBaEw5bWl4a0FPVFdGMWgwTEt3SUZtMnBkcU1MempFcGRwZVlXdmVfeGgtQm1sZW5zQVJMU29DczY5MjJ2WHF2cVo0M05pbw?oc=5",
+      "published": "2026-11-08T20:36:42+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nvidia opens probe of CEO Huang being targeted by possible Chinese spy",
+      "summary": "Nvidia opens probe of CEO Huang being targeted by possible Chinese spy CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1BJNjAwTmc1dWhNWkFEblREai1hbkhYZFBjT2MxaWV1b283RXNKTnk1emdfY2p5LWlXOEo5M0hLWWhjTG1UVmdVV2xvS09sb0tlelBpalV1Z1lTdUZ1VWJ5Uzl4cFJqeXV2ZUF5WVpTSWFGeGU4eldfdHpScTMySHpZQk9fWGc?oc=5",
+      "published": "2026-11-08T20:12:09+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Chris Pappas shouts out his husband after making history: “I’m married to a man I love”",
+      "summary": "Chris Pappas shouts out his husband after making history: “I’m married to a man I love” Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTzRTZWFyZkZya08xemllZHp0elVIUFZtQk9oc0tEZDJSeC1JMG9yN0doSnItWTVzNldkLUlPRXRTOWE0VTViOW5aeEhicGlsN2NRaGtiVUREZTJ4WFVXMUZ0WE1pLS1iQm5SNnRDRUVvTGFLakZZdExWN3k3eTVVXzZVZTMxcjZqSTcwaElMaHFwUXl6Z1I3Tnc1ZkV5VlJ4MG5UYkVVZThSUDBBejZOYTFCSVQ2RXRE?oc=5",
+      "published": "2026-11-08T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+      "summary": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS19DMUdXR2lad0dUR3YzR3FvLXJHSTRqVUdiNFVZbUJrcHFHV2F4ZlhfWEo0TTBrcllZVVpVSTRNRjhUY1hhSGhWS2ZiQnQwaG9OaU1qUUp2OFZmTGxXWk9xa2o3Rnhiei0tUk5kQy04YUVxTU95NU8xYnpjZGhRSGhyQ1N0OVZXcXkyVzhvTFZreEU?oc=5",
+      "published": "2026-11-08T18:57:56+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -35,8 +83,8 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Bicycle ‘boycott ride’ targeting Jewish-owned businesses in Philadelphia draws hundreds of counterprotesters",
-      "summary": "Bicycle ‘boycott ride’ targeting Jewish-owned businesses in Philadelphia draws hundreds of counterprotesters CNN",
+      "title": "Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia",
+      "summary": "Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTIwSG8zbzV2TWc4NXBBcnZMZ0ZCaGt3YnZ3ZnAyQThoc3g3Z0JtMTBNcGgyMlBUczd3M080UUVVcnRuUnRndnFpNlJpTExpaldzWWJScjBtVExnVXBWZHdYMXRIZk1LX3JFaWMydWJnOFYxNWhvUzFkNE41X3QxSVpUQQ?oc=5",
       "published": "2026-11-08T17:36:47+00:00",
       "beats": [
@@ -51,30 +99,6 @@
       "summary": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress CNN",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
       "published": "2026-11-08T17:28:27+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "MAHA makes its case to Democrats as blue wave crashes GOP alliance and threatens RFK Jr.",
-      "summary": "MAHA makes its case to Democrats as blue wave crashes GOP alliance and threatens RFK Jr. CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MazdEdzlQSVJIVnBMRkdHaFhXTVpJc0tQREVQMWJoNTNTY1BPTm1EckJkUjVqYkhuNWNHUTU4cjVzcjRKdGEtbWYtTWl0TW9mZEJhUU5WMklmVk9WRlZsQUd3bktmZjJrNXg5Vi1YX19VZmVHX2c?oc=5",
-      "published": "2026-11-08T17:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-      "summary": "No clear winner in New Zealand election, as leaders prepare for weeks of talks NPR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3o2eFZkekpBRXNYdktqb2JoT2N5MklUYS1KakpENWdUWUxqaWpSMVRXM3NodXA1aG1JY3JTbDBfTHhleUd4aV9Rd1NiMTJFNmtnRjBYWkpJLUthMGN5aGk3Sk1lanNHY2Fwc2Q2THlvZ0hlbTBxdTVxTEVNa0NaLUEtTVR3cHNZQmhBS0hSTTNnaU1pUkE2QXU5dFUzbHB5bjZhZ1Jha0dXX0JPY3VQbTdTZEJVY3RwcExyczJ5NA?oc=5",
-      "published": "2026-11-08T16:46:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,49 +140,25 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-      "summary": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3dmWWtwZTJMS0pBRzdvYVVabzBjUHNzQnlWVlF0T3B6U1JrZVhZSG9NZDRCaVlkQ1JvS1p1ZDR1bjVrRUdwMkVxX2NIN3MzbGpsZ2NPQ1RYSFJWRTNwM2J5akxsaWd0RXZ3RVpGTlN6TEFFalRERVRhYWE5d3lxOXBlcw?oc=5",
-      "published": "2026-11-08T13:50:05+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "New Zealanders won’t know for weeks who won the election as neither side secures clear victory",
-      "summary": "New Zealanders won’t know for weeks who won the election as neither side secures clear victory NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGRhUFlRXzJQdG5pWGQ4RTVacC12YnZRbG1FVjNvNkstOHpTSDdqMm5MSzFqVjlJTzZqenlXLXU0MXJ1anNmOC1fREJFVURqWURHSTc3RjFvTi1kN1VvYkJCVlhvOXhEdEc2bFpmV3YzaEZCc0ZnSlZ1Vm1QdE9Pbm5HQmVKUU1RanQ1SFdBcnJnN3ppcjJvQm1jS3hCT3I1YWRQQWt5VGNYR3A3c2s4YVN0OHRRNms?oc=5",
-      "published": "2026-11-08T13:13:19+00:00",
+      "title": "Sunday Puzzle: FLAGS",
+      "summary": "Sunday Puzzle: FLAGS NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PcldwdnlzVGVSRG80SFFBSi1qVkdTajlLZjRnSVdhQUExcFh6czVwSlg1WmVFME93R0ZiVXNDUFV4OUx5UUtfUG91WnlLMFNvSXdyYzB5YTFxVkoxQlYyankxZUNUeXU1dGFFVnFpYw?oc=5",
+      "published": "2026-11-08T12:59:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "How Democrats will try to end Trump's tariffs",
-      "summary": "How Democrats will try to end Trump's tariffs CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWI0OVBzQ3FYTmpucWxZaDZkeWx4OTY2WDNHX0d1MXJOV0I1dF8tdHN5UkxUYmNTcmQzb1RIVlA2X1dhMU83Nm1uUDBGU0pRYkJQVElmaXV1b1NXMjZPaUs2OWJjd1FKX29aaGxIZXpZd1ZINjQ5Nl9zWDVhS0p2bTVn?oc=5",
-      "published": "2026-11-08T13:00:01+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Newport Beach fishermen find Royal Caribbean cruise ship employee treading water 20 miles off coast",
-      "summary": "Newport Beach fishermen find Royal Caribbean cruise ship employee treading water 20 miles off coast CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZE5YVXhVSmtQWGhrZ05Cd01kckhIRWZma05yck9aMzc3ZmRBQlBvbm9mUExwTXF5Z0pTUTljY0VxQ0h6RGZDX01waXR0aFdzdHlDZHJJZWYtTTBQR1pqY0JzYkN3UE9wQ2d6Z1JzcEpZYmF6SlFHd1N0OU9pMnd1enkxeXliVTVnWkVhUEZHVFN1OEFoMnlxTm5JZ2pYTHVsUXVDY28tZDZoZS1DUFU4clVidVZ2clB5bVVHYXkxdmVZX3c?oc=5",
-      "published": "2026-11-08T05:36:00+00:00",
+      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
+      "summary": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1od0RSenNKWXJld2JRd2RIckdHS1Y1ZE84SEF6LURtdExGY1dmMEYwOGdRQlJibUF6UVd2a3NCQkdIN0RUQmNKbXFwdUFlOGM0Wm9zTkxNa2w0RlhCN3BZemR5XzJuUEtkR3p4MXRXQUw?oc=5",
+      "published": "2026-11-08T10:00:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -183,6 +183,18 @@
       "summary": "A Year in Money: Four People Share How They Spend, Save and Pay Off Debt The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHh3d1haYUtNYTFwUGNWQkhDVXB4OXl3WEpUSzRsbndEZHZHVGV3S2s4ZjVqWXEzWFVySm01RU94RzgwTE1aZFY5cXE0Zi1ZTTJ1bkF3QkVBdVJnbzBWWjQyemNYc1BzS1U3djNjNklvSmptOE1uSllkQ0gxN282MVdNU01GSzExR0tBcmViNXJReU5u?oc=5",
       "published": "2026-11-07T23:19:35+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+      "summary": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjJiR1pfbUxfa2wxZ2ktQUN3YWpOS09LaW5abi11SXp5YjlUUHVNSFYySFQ1SGtzSUMxUVlkZVVpUWMyeldHMmFoNkNZdnJWajFVVVlHSGgyLWJtRnJRUTl1NS10ZFFrdDRuMk1oWWVvR2NZZzZjSjVsczZwdHlfeFRKMDZUNVV1eS13?oc=5",
+      "published": "2026-11-07T21:15:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -236,18 +248,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Queerty Crossword: Nov. 7, 2026",
-      "summary": "Queerty Crossword: Nov. 7, 2026 Queerty",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1waEk1ZW5xNl9wSWp6a3BsNkR1LXFqUVc5VG1VWkpXcXAyWlRvd2ItR21ONDluMzN6MWhGVkZDQ1dmOUpIRzA4MndCcXJQNGIzZWV0b19Kd1otRTRWazYzb1JPaGdUTWV2ajFJNXhsOA?oc=5",
-      "published": "2026-11-07T15:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
@@ -296,15 +296,28 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-      "summary": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlRKTG9WNHBINWg3VkxadkZGV0dCbHZPWUpFclJJNFZBdzNmbGNLbldyWVgtblFfUk1famJaZUlzX3JSTHpyYnRIa25Qd01jNWhPbVV0QllXRW5pTGdBam9NaE1iTXBXMmhCNVFoNTI3ZHFDVEFSU0F5dXNTMHVfY0Z1RzltVGpRdDdaUUlYNzQwWVlz?oc=5",
-      "published": "2026-11-06T21:30:50+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Maggie Ellis makes history as first queer woman elected to lead Texas Supreme Court",
+      "summary": "Maggie Ellis makes history as first queer woman elected to lead Texas Supreme Court LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTllemJIdFpJUU1qcXRpM3FHM3BGUm9WUEV4dVl4d0h1MV9JNTdRblVOazNNcmp0Wi1qREluajhQanVld0dWWk13WldBbkh1ek82NE1nT2puaEhCNS1hWC1FTWVha2NwNlJXdk1LaUxVX29BMlFSdnh5ZGxETjdIbVRQUXc1X1ZQemw3d29fdjhEWnJfSlNTa01LUElCQUlVVERCMzhFUk1vZU1XTWJBWnFtZXNUQlVLcXQzNw?oc=5",
+      "published": "2026-11-06T22:00:00+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
+      "lane": "General",
+      "title": "DOL final rule revamps antidiscrimination requirements for apprenticeships",
+      "summary": "DOL final rule revamps antidiscrimination requirements for apprenticeships K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWJRUGVvVkRIWEFWa2V6dnIwaW5md0tmeW1MckR1WlN4TzlaSVJ2X2dEOUVJV1RlN1ZEcTRFblVVZk1acjlXNTZQYVZiLWdSRUdVaFdSXzBDQUlCSjVPa3FPYUR1ekZmMUNCS1lJeUlLVnVlaHVITHIzQWVPb0V3TF9tYmpiYk94c24wanZsSXB1S2VtVDlJTEpnei1mak83M3dmQzZB?oc=5",
+      "published": "2026-11-06T21:52:37+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -332,6 +345,18 @@
       ]
     },
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: Lawsuit over principal’s interference in Mountain View student newspaper to go to trial",
+      "summary": "UPDATE: Lawsuit over principal’s interference in Mountain View student newspaper to go to trial EdSource",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaVcyTG5DN0piWm92SDR4SmRFcEtwMTFoVU5HbWIzS0xXTFY5WVprdk5PdlpRSm9XNnhrdVVRd1BMSjFKZ2N6VGpUdW1nd1Bld2NVVmhjMTloR1E3THA5S2MyMl9wejhyaFNiNDdmTUl3SFFabHVmNERuMFhXc3dlV0F2OVQxR0c4N3FLemFBckQ0eVBqeVhiRDdUclI5NXZTNm51ZXVKTnYxMk9XV3pDUWZjUlY3UQ?oc=5",
+      "published": "2026-11-06T18:22:44+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -354,31 +379,6 @@
       "published": "2026-11-06T16:42:20+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "CO's Democratic governor-elect is already considering \"adjustments\" to anti-trans ballot measures",
-      "summary": "CO's Democratic governor-elect is already considering \"adjustments\" to anti-trans ballot measures LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0d2TVc0UHBnTFRoT0tfSm1TelZxZXMtNmtrZVJ3TXoxeEtXRmRrd2U5WU8yRUJWYWRrbnlNWGstV1JmSlhQMDQ3RmVWSVVIWVM1eFNod0hIaHlMUDNNbzVnT3JiNVMwZ2JjRnE1V2piZmZTWTROMEw0ZzhNU2M2T3ROSWo1a0pnSlZjb3BkbTM0N3c0Qk4xQkFja0pjVmtOMXdyVTdzdkw3eUprN3JwR1BVeVFudFc0X2pycGc0U1p4c05feGhIUjdxQQ?oc=5",
-      "published": "2026-11-06T16:14:55+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Test yourself on the past week’s K-12 news",
-      "summary": "Test yourself on the past week’s K-12 news K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0NRUGVQMURydm40SmNDT1F0NzNQLWhZaUl1bUJxalJTNDVscDdTQWRNR2JQRXpOd3FUNkJiYXAtRWRHazNBS3E5Z09KSERPbU9HeEltSjJiRnVBeHh1UDc0cDEtVGRYQzBweTVidGQ1MndtQVZQSG1ZbVZLczJXTjln?oc=5",
-      "published": "2026-11-06T14:47:37+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
