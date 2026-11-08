@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:09:49.864808+00:00",
+  "updated_at": "2026-11-08T07:46:40.534557+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,6 +20,18 @@
   "errors": [],
   "stories": [
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+      "summary": "Homelessness in the U.S. saw its largest drop in more than a decade last year NPR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0NrYUlDRVBsMl91LVI2TEx2WlB4UVBkY3ZTbnpHallTOUpLeXhmTGs5eDctM3Y4ZWdTOEJxMWpTNXlVZ05weDAwMlVXc1M1X2ZOaTBXWEVmTUhzV25iOGdJVjBOdXdBQXlZS2NCaUlBaTNFRkdwQWNadE8zU01TemFweFZaUnFKYTMxbkNJYjJnNjdfb2lOV1otbkZTb3RJbU5COHlxWXNodVROZHVyNW8zb2tEWXF3TVE2cHpB?oc=5",
+      "published": "2026-11-08T00:19:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -32,13 +44,37 @@
       ]
     },
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+      "summary": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZ1Q3SHFBOFQtWkRvLTUxOS1seERmSTVrUi1BNEpuNC11UkV1TWJPV0wxYTE1Wm1VbklnbXNZYnBFT0JjTDBpbEdjUHR2YUVEdllzMjJOVEpQWDlRNkhwVWw3MWlfMkpVVEtHdXcwYw?oc=5",
+      "published": "2026-11-07T22:36:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The surprising and often forgotten history of economic populism in Texas",
+      "summary": "The surprising and often forgotten history of economic populism in Texas NPR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTFXMjF1NXhMbWNwb0M3YzJqVV9GTUdaRk53Qy1hc0NNVVBmUGR1d0xBT0I2RmpsTWpHT29HVjVGd19hTzlFUVVySXVsU2xVLXJILWlROWZKMWJ3VlhVblQzald4YjA3RkJXRVBMdklmazNzWEZjNmhGSlJMUXdaRjFqSC1VaUFrYmZlRnlpcUs3UnRIVXRKNWs1OUwtVDhZd0czZFFxejdqWVhOelJPYlFYYmg5Ykk3ZEdvbTdHdGI1dGRCa2c?oc=5",
+      "published": "2026-11-07T22:12:07+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Mississippi voter ‘refused to give up’ at voting precinct",
-      "summary": "Mississippi voter ‘refused to give up’ at voting precinct CNN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2ctYVpWTXdONlFBQWdkNjJQQjF3dE5FdDVwc2U0ZlNfZEdQZ1BieTktNHB5ZmJ1NUNUdHo5Mm04X0hwd1ZsUkFkSm5uSV9tRTNnTm05UFFkN1JjUW11YTRHcm1FSkFXdU4zb3piSFA3SVlhUXRadVp2X042LVZ2YkxrVmQ5cHJRYUxLU2dVci1tLTdHMlY3LUJTbjN4M3hVZmc?oc=5",
-      "published": "2026-11-07T22:26:00+00:00",
+      "title": "Despite warnings from Trump admin, after the ‘Blue Wave’ many migrants bound for the US are hopeful",
+      "summary": "Despite warnings from Trump admin, after the ‘Blue Wave’ many migrants bound for the US are hopeful CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2RTdGpvNDg4OFh2MzczOFEtTHZlN1FJYU9RZmJsZGRmTVk0a2RLNFUyaGVzd2JZZVI3N3N5eUFTakU2Z3E1YmlkQ0xUX1NCSnRucV9ZQzFnQmRUdF9mX0NCcUNHR0NvaExkOXkyX2trX3EybjlmOWFGcDVmTjB2Mg?oc=5",
+      "published": "2026-11-07T21:47:46+00:00",
       "beats": [
         "Politics"
       ]
@@ -51,6 +87,18 @@
       "summary": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says CNN",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40aWh4TnVGZ1plSlNMeGVDYi1UeWRhalk3YU9VMEVoS2JQbG1uYnpFNzA3OXVOQVZ5VEJXSkRTSGw2QWN1MHgtSWdIZWFHU0NfMjBpaGlQSlg1QXRBUGxpMmhQLVBqVzd5ZktTcUlOM2V0QUZxSlhlek54QzU?oc=5",
       "published": "2026-11-07T21:10:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "summary": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWtWdHlFOExxOUwwLW9DUUduZFZvdFBMaWRmMDlRd2xYRGdycWpDaUlfR1BoM24tX1JwcGMxdDdRNk5xNTNwRVNvT3VjRDRhRENXbmVMSmZkbXp5aDdSZ3BObnBBbm1vcmM2eDVuSF9zTjRIel9WbTAyLVc1M3VqLXpEcmxSZTQ?oc=5",
+      "published": "2026-11-07T20:28:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -92,13 +140,37 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "You don’t need permission to sound like yourself",
+      "summary": "You don’t need permission to sound like yourself LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdm5kSzh2UUNuaVV6ZHNlOXRTVng2aV93SURQdlgzLXNuREhvSVZycDVIRGFPYnBBbUs1aWJaQVlNQmkyZ3hsQlEzNHVnOUtfdkVQdmNuMGU1YUVRSWlxYzNNTVE2T3EwNDZ3UTI5ZFBUVUd4OFItRVRvN2YtN2ZxU0tmTEswS1dwM0lTTg?oc=5",
+      "published": "2026-11-07T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "It’s National Hug a Bear Day, & we’re embracing these burly gays",
+      "summary": "It’s National Hug a Bear Day, & we’re embracing these burly gays Queerty",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkltdFA1RGZxNHc5eks2elJ6WmlfdEFYSVA1RVpQRWdBT2tTS0s4ZllEUmFIWnJTSzBBSGFCMTVjU1JsSmpjWFg4U3IxZ3AyWU9GZWc3VGwyM1htUjFWSVZJS21RSkJzZEo1cmJNeW14UUxCQkhOYXR3MGo4MFhPT0lQT2wzd25tWWczS0lEQV9Kb1c4eUEwcg?oc=5",
+      "published": "2026-11-07T17:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
       "lane": "General",
-      "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
-      "summary": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXZPOEJ0ZHJwTm1MdDF4ZFZxdXB0enJTQnRwTE04aTRvUUNBOGw1QjFRYkdmZm9DTnVkSy1ib3U5NThpY20wM1BhNFYzNjU5WmJJQ3UzbDktVEpUSktEWkRibzNsdU5EN1hWVFZZQm9BVWNlVEpGTHZ3ZXNFN0NST1prblRmNktHaF9vdzJTaldvTFNoOEpxY0Q2aUFvMkhyTEpV?oc=5",
-      "published": "2026-11-07T18:28:09+00:00",
+      "title": "Gunman kills 6 in ‘terror attack’ in Krakow, Poland, officials say; 3 others found dead in his home",
+      "summary": "Gunman kills 6 in ‘terror attack’ in Krakow, Poland, officials say; 3 others found dead in his home NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XLU1MQnRhZXVkS3JYQW1icjAtdDFfR0tBcTF3TzBoeEZRZ3BhSWR4MGlTNGdOTHNzTHFheHlLM0U0UHM3dkVlOHJFUDBrVFFiTGZjUXFTLWRGZ3RQYnRPVEh6MkZ1TzUtMGhQMGVnNTlLTGwyMWNNZEVR?oc=5",
+      "published": "2026-11-07T15:58:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -107,60 +179,24 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows",
-      "summary": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
-      "published": "2026-11-07T18:21:00+00:00",
+      "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+      "summary": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5",
+      "published": "2026-11-07T10:00:41+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-      "summary": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sb1hhMXlCOTNYWFJTOFIzRVZpeEM2MDQtUVpoSnk0ZVNlVWktUHp5d1V3STE1SW9vNkxabXBQQlFXc21ha2RnU3JnZGhGeXI4RUpJaUhuSUdTb2V2djEzR3FzRnJpc0Z0TmpVT1FRSFNabmFqbVE?oc=5",
-      "published": "2026-11-07T17:51:16+00:00",
+      "title": "Sen. Chris Murphy released from hospital after suffering stroke",
+      "summary": "Sen. Chris Murphy released from hospital after suffering stroke CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1BGWVppdk9hVFQweGw0bW9zTlM4elZwcUowdlZIeVQwR0JYVmhEMG9sX1d5QS1FSk1EbXNrZXhxVkdPd0hmNlN1RDA3WFdBNWxDYndKaEw4bXloMEZwcFhjNWg2TzgzZHUyWjJMTlpOemU3b3kwNkhydlVMSC1XV0tKdWJRNHk0V0xudTZJeXpoeF9MZW42akY5aHpCbFFOa1VJ?oc=5",
+      "published": "2026-11-07T00:27:00+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Ousted Paraguayan president appears before prosecutors",
-      "summary": "Ousted Paraguayan president appears before prosecutors NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdk5WS0d5aDJWSlpEVHF0Vjh1MXpSVEVscnNCM0dHdTJmUWs4a3NzRzdRZUFPSXhQSl9qdjdqY1lUUzVBN2psdDAwOVA5dGM1VXRMSXNxQXVRR2hWTUMydlNKQWw2T1ZtenJkZHRVaVFCb2ZUeVdvQnBBMjN0RktmUm56bGVqUnRDczFoZA?oc=5",
-      "published": "2026-11-07T17:14:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Gunman who killed 9 in Poland held ‘ultranationalistic’ views, officials say",
-      "summary": "Gunman who killed 9 in Poland held ‘ultranationalistic’ views, officials say NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XLU1MQnRhZXVkS3JYQW1icjAtdDFfR0tBcTF3TzBoeEZRZ3BhSWR4MGlTNGdOTHNzTHFheHlLM0U0UHM3dkVlOHJFUDBrVFFiTGZjUXFTLWRGZ3RQYnRPVEh6MkZ1TzUtMGhQMGVnNTlLTGwyMWNNZEVR?oc=5",
-      "published": "2026-11-07T15:58:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "A promising new medicine against heart disease fails unexpectedly",
-      "summary": "A promising new medicine against heart disease fails unexpectedly NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2lTODhGQkZYM0Ntd2pTdzBNc3N5dXBEM1c4T092RndUVzZoVjA0SjJEN1pneHBWWE5VN09JTndKVDBsdGJzLWhOMXV5cE1kOEJFNmplWHhQMUlLTFZZWks2a1JGMGtBR1VCb1RNaFBxWGxXWWVKTm5tN1R0aVVNZ0F5ZE00dw?oc=5",
-      "published": "2026-11-07T14:50:00+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
@@ -197,18 +233,6 @@
       "published": "2026-11-06T21:30:50+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Omar Rudberg enters his main pop boy era with Mirage",
-      "summary": "Omar Rudberg enters his main pop boy era with Mirage Queerty",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2Z2cGJCcTE4N3hjY2l3Z2xkNDRIa3Nzdm9ZX0ZYVHVVTUNMSnFmNkdEZ3F2ZmhtZGtRbnczYmR0U09NYVZ6QVN3bWtMcXA4bTNBTmUybm5qVFRZMC14bVlaSzNOQ3dYRS1Jd0ZlQjBkYndMQ0h4VkstZzh6WlpoSnVBS3RMUTRoMWl1Skdxaw?oc=5",
-      "published": "2026-11-06T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -335,19 +359,6 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Lauren Boebert silent since mysterious one-word message as her chances at reelection fade",
-      "summary": "Lauren Boebert silent since mysterious one-word message as her chances at reelection fade LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGp0aDlWNkhQWC1Ebmd5ZXZ2OTRDdnE2TmhYSHJQY3pDNGYxcExhc09OMHdncDhHV2xEb0ZwVDFrbEV5dVNvZHZIb0hXNm9UcEM5ZFFCSTZjUkVkZndoZGFDWXdTSmFhdVZPUENOMjBJelY4ZE5nQThzZUVHV2tkZ3dWQTVpdEF1M3drQlBDNzZ1dml2SUhMQmhDaV95bmxSM0g5THhaMUtPV0dOVDNEdjZGT0lVWTZtcjV0Rlg3V2szcU56?oc=5",
-      "published": "2026-11-06T13:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -367,18 +378,6 @@
       "summary": "Judge blocks construction on Trump's 250-foot arch for now CBS News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2QxdzZuRVZOWHNuUEdmRzJEZTNXZC1QVW1fZmNESjNtbUlnU0ltUkY2M19sVkF1Z0lGXzlNaXltc3dzc2lxQUt6UGI4MkZiT3hLdHRaX1B6aXF3X0NtcWN1R3IyTms4Nkl2azRnTTg1Y0ZoZXZTVWpfVWhDTkd0VDlQX2hySHdkam1hZWRZWQ?oc=5",
       "published": "2026-11-06T03:35:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Democrat who withdrew from Texas House race wins despite felony convictions",
-      "summary": "Democrat who withdrew from Texas House race wins despite felony convictions CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWVxbnlVM29ueThMQ2dYUGxzV1U4Y3hYVFVsX2dTRi14Z2hoRDZRLXBBZ29CMWk2ajVVNTBHdWNXQzVJYlllVU5Xa0U2cWtFc2UyZDBySW0zN2NqTnNxNFhFbGg0d2MzOXBVYTF3Q2twa3JtSmN2QW1YVVNGbXQtQTFqdmQtTUNBYW1vVjNmRzRWNHB5RzlPUEdSa2lob0tXZnpNUHpPX3VLLTZhaEZzZmxyU21nUQ?oc=5",
-      "published": "2026-11-06T00:18:07+00:00",
       "beats": [
         "Politics"
       ]
