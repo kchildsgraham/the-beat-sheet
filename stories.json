@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:17:44.618411+00:00",
+  "updated_at": "2026-11-12T20:16:14.876011+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,37 +20,25 @@
   "errors": [],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Manchester United part ways with Michael Carrick",
-      "summary": "Manchester United part ways with Michael Carrick The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnd5M01CSnpYSDloM0sxV0Q0aDB6WUpmeVN5R2V5ejVkeUJ0NzY0eEo3SUozcnVQWVcwRWZ2UmRXTExXdlNQNG1JWWtURVpSRGZob2liWU1KQWg4b0xPai1lRlRjRVFEckhxaDhTSHREQUdYbXJ1SlBtZmtuSHN0bDBhUDZzUFRfR19fWEZleE5vSkEwNjlqYmR6SUVHUmh0ZkM4OXRRRQ?oc=5",
-      "published": "2026-11-12T11:47:48+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Republicans’ lame-duck dash to confirm judges is already hitting speed bumps",
-      "summary": "Republicans’ lame-duck dash to confirm judges is already hitting speed bumps CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQW1mYXlLaVJwXzRoQ2hVOUlvZEdzdnFGNzZwdFFDWVpscmNQVWdEMGNYQWhVTTZvYzU3dERFNmFxR2FtMDJ2M2V5dDZYVWNBUUo1ZDQzQWh4TjlnOUprblVUV2ZTUmNuem45R3ZiakpTTDhVSWtmZGZDcy1BT1JqOFFfS0pUZERuWnBJanFn?oc=5",
-      "published": "2026-11-12T11:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation",
-      "summary": "Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGRHRkVHVWdWUDJnVWMzaVZCaHlDenNKSXpoQmVKZ3ZuNkhCYmU5RUxGdmcybU1RSkxzYTJSWGw2a2xLNWt4T1U4TWxTQjVEamZhMFl0MWFTQnM2T24wQ2xqck1QQjB1ZUpMaW14RlpNSDM0cjBVQ0tCS1ZCc3d2M3hVVGpCeERUMjhLZG5RcUtkbTZGOFZsM2dnU0F6NC1nanQxOGh3X2w2Y2FzVzlTLVdGTnNudzFhd0E?oc=5",
-      "published": "2026-11-12T10:59:11+00:00",
+      "title": "Nvidia CEO Jensen Huang resigns after affair with suspected Chinese spy",
+      "summary": "Nvidia CEO Jensen Huang resigns after affair with suspected Chinese spy NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzdLVnJPZWxyaHFPYnlRMkhaZDNKT2gzTzlOMzA5cml0STRGbG0xX2IydGJ0YU9MeGEtY0kwZlRqcVRLa0JTSVRsRzZJd19Ya2Y3dEtnR2VzSmVscW15WTg3d1Nib0VNZm5ldmZoeVVENXFnNEtmMTRoY01PTzZHVk1adS0zWXV4ejlzSjJoTWhFYkxyTmN5ZHdTaTFjLVdJel9WWEE1SUZGQmtoVVdMMDZWdTE1MmM?oc=5",
+      "published": "2026-11-12T19:37:33+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "summary": "'Punch in the gut': Homes sales fall to their lowest in 16 years NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWkEzTjB1eWpRbGpFMHZOMEJDSE9vZFJsLWN3alhmZGZhbGNOT09rdVBxcGNhQmN6SkZLLV9lbzVtX0N5M2d0bHo4dUE5cHhMUTRtX2ZjUTlOLWg2VE5sRXl1cFVQLVctSGNOemdKMlFBNFNtdU5pVW9BMDZkVjNHempyMkdMR3JfSmRRNHNJeGh1ZDhEd1VJLTFUSXJEWUE5d3Jkel93aHdmQQ?oc=5",
+      "published": "2026-11-12T18:44:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,58 +47,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-      "summary": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVhjV2JWcjgyaUVMQk9saVBKS0pMLUhfYXZFNW1CNW84SXhkUEZ6YjBtTTZQODZtZy1rem5pdldwZ3Zod1BzRnBJalR5QWwwcjJiZ3FEVGtXU0MyUUg4ZzBxdk15VG1zcHl4RFBzTXJOTWFOZS1xTS1Xa29IbEZKQXQ0UzNDOGh0MlhBeQ?oc=5",
-      "published": "2026-11-12T10:15:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Senators don't always share bill text online before votes. They should, advocates say",
-      "summary": "Senators don't always share bill text online before votes. They should, advocates say NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNckFPdnk2QnRnd1N2cUVtQ2NpNG1FZHdabW9KVGg0bUhyRmJwLXRWdXpDUGstOUkzZDJrT0VEWjlPenE1MVBVV3dzVm1NdHR1UjczdFRlR2dyWUY5S2t1X3FvZm9CeVA5aTZBdEtTYVpvaFZZNGM1ck5KdUl3VGtQeEZOaw?oc=5",
-      "published": "2026-11-12T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator",
-      "summary": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator NPR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcldJQkxVaFZ2bG5FaGdzejZRb01LUVhsZ015enZ4VUFrM0t0ZmtmOW9tbTFQWnhLeUFkZ05Jd1ZSVDU5eEVPbmpvaC1VcmdaY29KVFNySE9LMFhwWEpxMFI0eXFyMVcwNXIxY1ZJS1UtRk1nU2ExNkQ0amV0LWpleWdjdmdTQVFraEdXRGhGcWpxT2taY0M1VW5xQm9SRDB3UXd4ZzV3?oc=5",
-      "published": "2026-11-12T10:00:00+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
-      "summary": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns NPR",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1ZMbjljMGVXMUhOT1E2dzdDUDloZk1Id1FyNEtibGJabnNva0NNY0M5VHhlVXY5YXdrRzJIcnAxSGxTNEMzaDNvT04wdWMtcHdSY0Z4NS1uMWMzY3V0NHRCSmliZmJmRjNleGN2dVpncF9ybUQ2TFFZVjBRYkJfOTF2eG1BcHplVElzWVRNeHRtUjlmNWFfdg?oc=5",
-      "published": "2026-11-12T10:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Too far to drive, too short to fly? This 9-seater hybrid plane only needs a 150-foot parking lot to take off",
-      "summary": "Too far to drive, too short to fly? This 9-seater hybrid plane only needs a 150-foot parking lot to take off CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUVxS3VIeTdqbWJvLWpWdVV1SnVQMmJHOG9BQ19zN3lVNklOQ3Iwd0l4M043Wkc0cWJDRXZlQnlCRFBMLWM5Q1RNUE5pSTVra0JCM2lwYUkzbE1YWVNwbEdsYVp2MmgxbDBrVW5kRXp5U0ZwbjhLZVU0aG93SGJyUA?oc=5",
-      "published": "2026-11-12T09:19:21+00:00",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "summary": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGdNQ09FSWdFaDlmMHlXQmJCNWEzb3N5MExxM0RlOHFDREEwQzdGbWpxTWpsQTVlWkpIV04yWVN1YXEzWGVwaVpLVTgtUVZvUThnWDgtVlVVZm4tMElkZHdaSjhBdDFIV1U4T2MxNmVaZFdPYy1CdnBON0N6WTZ3ei1xekg3b25FUmw3OEdZVS1XMHlmLUY1WXVIeEpoNHJuVFFlc0xDNlpGZUo1WXJlVnJTdVZXcW1fZmdjcVl6ZXZPUEk?oc=5",
+      "published": "2026-11-12T17:48:43+00:00",
       "beats": [
         "Politics"
       ]
@@ -119,10 +59,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
-      "summary": "Scott Colom, a Democrat, Wins Mississippi Senate Election The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTNHZFFRdHFUWjJ5Yk4xZGNtemYyR3B3UENkcHE3NG5TOUo3ai0ydnFGQ2k5YU1IbkNLdG4tNHR4dTZES01xQVlrMHN2YUdVUVJoQzNEcFdzN3N2Q1d0Z0lwZE1sM2I0dGFZY250Zk91QUtjczEtS1dsQTh0YjJ5MmpxZkltaGU0R2J3MXpqSzMxdw?oc=5",
-      "published": "2026-11-12T09:11:00+00:00",
+      "title": "One Shot Dead and Four Wounded Around Washington, D.C., Condo Building",
+      "summary": "One Shot Dead and Four Wounded Around Washington, D.C., Condo Building The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3N0syMnRQYWd0QTFPaDZPTjJXQldZRXdEUUNjY2JKZXotQWlWR1pLQUlBLWpKTGNCYk5vMU45RUZBakVCVHhZUUg1eWxyTmZEamhPT0FuVy1wTjBRZmYwekdfSVkzMTV0TDBKNWlob180dTQ?oc=5",
+      "published": "2026-11-12T17:42:19+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,34 +71,106 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-      "summary": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVY3WkZZalE2ZVpGRUNRajg1QW9rZWpSZ0xjQ3kyM0NQR1NrUHlwMHlaR291eGZ3QkFfaHpGaXVwQlFqWmRKejJUR21lNUNVenhZbVVhU3hBWlYzOWtMeU12YVUwQ2lFcGpWdy1GblBYZDMyZG1PaldpZDZmUUppaDNxNHppdw?oc=5",
-      "published": "2026-11-12T09:05:22+00:00",
+      "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
+      "summary": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PNnQ2ZjdES2JqbkMzMTBmOEJsbWhHYW9EdmF2S214MHByNFNrVXZWUlJmVE9wcXNjS2s1RENQa19zLVItMm94WVk3WUEtT3NnanFqLWg0OHA4RW1fT0Z0bWFwTWItVVhGMFBodXVxZnVVV1lV?oc=5",
+      "published": "2026-11-12T17:23:14+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Nvidia stock falls 8% as investors await Jensen Huang’s fate",
-      "summary": "Nvidia stock falls 8% as investors await Jensen Huang’s fate CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5",
-      "published": "2026-11-12T09:02:10+00:00",
+      "title": "We Were Warned of Deceptive A.I. Fakes. We Got Memes.",
+      "summary": "We Were Warned of Deceptive A.I. Fakes. We Got Memes. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmFEODlGMF9GMUVrNEtmNUExc19oNTRWUjdjUGprY2kyM3duZFFkSGFCZjBhaHhtdnBvbk5teXd3eFo5ZlZQOHR3ZHlhZmZXQTNpVktKY0JMaGRuT2dLSXZIRXYwdFY5ZjlaanVHZXVkYkl1R21pVDdjLUhnSEVPYUJaWlJ1b0NzSEtWdUpnbXp5T0Z3ZXlVUg?oc=5",
+      "published": "2026-11-12T17:13:29+00:00",
       "beats": [
-        "Business"
+        "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Mass shooting at popular gay-owned VIDA Fitness in D.C. leaves one dead, suspect barricaded",
+      "summary": "Mass shooting at popular gay-owned VIDA Fitness in D.C. leaves one dead, suspect barricaded Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU2RCSjA3VmkxdW00MkdLMGZGcHFlYWZfVTdweW5Cd2J4MU0xRmduUWlndlFtYTJQeDBiNjNXTzVfZDZYV25KZHZrdk9adzRDSzE3VUpPdDRyblNCOTRBMkRVUWczbzc2YkJSTVpMcGE?oc=5",
+      "published": "2026-11-12T17:06:26+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin",
-      "summary": "Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeEcwMTd4ck0zVC1Xcjg5RGFiNHpoUmtST2VaSHYzQ3VNNVgxRV9ZcEZBMm5YYTlUTFBWbDdGZU54Z093U2dVakRSSVNiR3Z2YUNCV1NqU3dHUy1XcUdsN0k5TVNoV1ZFNVBzZzJyUUhyU3hETGNkRjQwZmVuX1ZVLWZjZllORy00OG9JMnUtNA?oc=5",
-      "published": "2026-11-12T08:29:03+00:00",
+      "title": "Top Democrat will investigate whether RFK Jr. lied to Congress",
+      "summary": "Top Democrat will investigate whether RFK Jr. lied to Congress CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wTThuc0NxZjRKbkRUSWdQRlBXOHFJS29mZm1zdXhxc3NkQ0l0UkJmekRmQnhEdGJZS2pFUTJTc2FaWE4xZkoxdGo4ZGNhdGdrbFhEZHptTm14dTdySWw4cEN5OGFFR1BBaDRQSElLLTJBNndsaTN3bU1lSjA0U1k?oc=5",
+      "published": "2026-11-12T17:05:52+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+      "summary": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tOE85d0FvSTRBU3duWkZKSUszOGF1M2R3QjhwS0EzUGtPbEpDaUwwYmg4OUVYRnVoZGdNVVlKWm81MjczOHlzemRhREJuUVNYdTJKSU5lWTE2N242S1hIaTFVbi0wLTlCQVVxMEc5RTg4WEpBY2t4NmVzbw?oc=5",
+      "published": "2026-11-12T16:59:39+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
+      "summary": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGVHWjZEelgzdUZvS0xWdXhUbFlycGNtSjhpX19rdHU2N3BoOERVamZNVFNPZXRIWFBWMU1lal9TdW5PVm1BUmphMENYeU9nXzlhbjJoODNnLUlKX3FrVm1tYnRsR3FqREJXenJwMnRIZ1RpRnEwdEp1VE80YU5ObVlOMG12SkVrTl9xTw?oc=5",
+      "published": "2026-11-12T16:15:28+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
+      "summary": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mWFlqVkcxZWVzeHB5U3lFNnloRGZYSDhvSFkwdHEwdU5vdWNiRFlvbFdkSW9HRVAwam4yQUpzNmVzM3ZJQWxUbXdJSzB3bjY4Z3lrM0NIVzdfUEFQcnprU2FLUDdLN3o5VlV3bGVDNmV2cUgzc0tPZg?oc=5",
+      "published": "2026-11-12T16:12:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+      "summary": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi NPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2VSWUphOTlfbGlEUW1pbk55c2FaU3FFN2lYNWx2RllwVlUzTm51TFBSQ1FpaHpBaGx6WDB1cEtxRlBtTC0xWVJrcmhBZ0NWc2o3VUZrdHNCUlBvQ2p1XzA4aWhqdV9KVS1rWjZUQl9zdWNrVWhOQ3N5Vi13c3RobU9sTHFKWG10WVZpX0pBcVQ5aXBO?oc=5",
+      "published": "2026-11-12T15:26:34+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen Huang resignation",
+      "summary": "CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen Huang resignation CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVV0ZxeFgzelpIZUV3Ry1ybGhVTnBGMHpIaldZb1hTWkxrb2NJdDNFOFdoVUVTdWctOXpONXBLbVBsWDFWaHpaNTdjMlpjaGFla0FlamEtS21PMGZpbHBBOU5iQ0Nud1c3bkJXVTZBRlE?oc=5",
+      "published": "2026-11-12T14:09:53+00:00",
       "beats": [
         "Politics"
       ]
@@ -173,6 +185,18 @@
       "published": "2026-11-12T01:16:46+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Family mourns trans woman killed on Twin Cities light rail",
+      "summary": "Family mourns trans woman killed on Twin Cities light rail CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnloYlNHODlTeF9RbXNUdVgwRzFGWl84WS0wanlXZmFUd3FtYkhuNUVPMWhkR0gwM0tCelVBT1E1RGdVbkpoWmZ6TGVqb2h1aVFtSlZ4VjF0Q2M0b2VwVk1LWFJsNE1sNGxULW9NWTdHa3o3emdPQkVKNHlwd2p6MTkwV0lQdl9RYUNVX012WFUzek5WNDZ0WHJ6Zm9RRXM?oc=5",
+      "published": "2026-11-12T00:39:17+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -224,18 +248,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "After Trump’s military ban, this nonbinary 11-year Air Force veteran found a new mission at Harvard",
-      "summary": "After Trump’s military ban, this nonbinary 11-year Air Force veteran found a new mission at Harvard Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeTFyZ0ZETzVZMURSRXFEQXViU0VBdmdXVkRrbldKMEF2ZVJ5dmlGU1d0a2lFNmpsdWRJMXRsMnJ1LUdMU0VqZDlfc0xqdHI2NWtEckQ4SG45M0c3SHRJYTllLWNHYXFDb1ktdEhucWJlekFHNzc2OWE1cTZWd2VPSHEzT3Q?oc=5",
-      "published": "2026-11-11T19:43:12+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -260,6 +272,30 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push",
+      "summary": "Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTF9jYTd1Ny1sUkJheFhFTVBmTjBGNGJiX1VaMWIyRlhRMHE4ME5xanpPYVk3SlRhR20xQnNCT2NyTDUtNWJ2VjA1eUVRbDdVT0M2M2ROSUZyejQ1NFNXY3E5NEVoZm1LNzJkel93QWJtYjU1eXBqMjMxYTA1QXpUOWJzU1ExcDd4dDdHYXh1UDlMTlRHcXItdUh6VE5yYjRhSk9GQzVWSHNtRTRzeDI3UDF5eFFfR2s?oc=5",
+      "published": "2026-11-11T16:53:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Parents of cis & trans girls sue for discrimination to block trans sports ban ballot initiative",
+      "summary": "Parents of cis & trans girls sue for discrimination to block trans sports ban ballot initiative LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOckRUNjNrNi1EdUZYalRlNHlZck9uaDRvNF8zVW9SQXhvRHJxRl9KMk1GZ2lIcWRKUWhGOFBOcHRQU3RwQkV1c294MTAtbWt3SmpzeGI0cGdRVTBkendsRXZ5ZVg2YTgxM1lXc1VNaUdxQ0NfZUMyLXpOQi1TMV95ZkwzTWpxS21UMUR1anZpaEhFTDl3dlhDdHpqZXNNVGlKTlhVY0R5Y19RQU9ndXB4eFdMWlN1UW95MXd4QzlLXzlQOThMbDRPUXNR?oc=5",
+      "published": "2026-11-11T16:30:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -272,28 +308,15 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Megaspeed's vacant offices raise questions about ties to Nvidia and China",
-      "summary": "Megaspeed's vacant offices raise questions about ties to Nvidia and China CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52LU1peGdldFJnVUVCNEFTeVVMMUN5c1hqWTBWX29VSU5TOTROUXoxSUNydjdrT3hJSUx1dzhNb0pGVW5QZHNvX3lISmU2dWFuekpVdGFmMmRXWWtSdnNzbnZmVy1FNHEw?oc=5",
-      "published": "2026-11-11T15:41:00+00:00",
+      "title": "Is private school choice a ‘tipping point’ for school closures?",
+      "summary": "Is private school choice a ‘tipping point’ for school closures? K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVlZJYmdMWGZGMDU3dXlkZzd4b0tZVFN1SU82SHdqNlFOd3lYTjByODNnVXRfVjk0bUlQTXoyNkZmQS11eHJsc2swSGQ4NmRSZGxINVM5UnJLYmpKX0VScUtRSG12Vjl2SktwbVZ1QVM1cmZPQkVra010cDdGZGZsZW52SVVJbWVCYkV0dEJLZXpBaU9fdWlQZ1l2dC1IUQ?oc=5",
+      "published": "2026-11-11T13:35:49+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "San Francisco woman arrested at Richmond District home faces gun, drug charges",
-      "summary": "San Francisco woman arrested at Richmond District home faces gun, drug charges CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanJFc0t2dzhoN1VqYmd0MVNYYW5vVkpiemg2SzctUWk0WFBuVU55aFo3emt6S3ZsU0tWSHRYNFN3d21rQjFqNENYbmc4UzNpTVp1aDB2SXlmWUhvY0dudHJ5c0lYUTlCTzhhWHY0TVBJZlR5TkJuVWFZMHZZZ1NlUldKdnNwU3QtczNwYXdEenFLalQza2lXbUphRm1fRGFWcjhGZFR1Ukp3d05rNEMyYg?oc=5",
-      "published": "2026-11-11T00:19:21+00:00",
-      "beats": [
-        "Schools",
-        "LGBTQ+"
+        "Schools"
       ]
     },
     {
@@ -312,36 +335,12 @@
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
-      "title": "What are childhood vaccination rates in your community and schools?",
-      "summary": "What are childhood vaccination rates in your community and schools? NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW1OeWIxR1BmZXVHdE9YRFBUcVlLQ0dSdEZZWWZITE02dkwxT3kzdWRmNXF2VjlmNTFxOE5xXzNFSm51RFZ3QUhnV0l4bFZialJGbi1ZSzM3TnZZSG9WWVJRUFJrbXJhcG9LMlVwcEg2WTNvWWhSY1NyWENOVDU4NlQ2NVpMNVdZSEJJdVdIQmhmeElDX1h2aVVGTUQ5NUxUYVIxSzBCU2hJVHhES0JITHMxaXo?oc=5",
-      "published": "2026-11-10T22:00:40+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
       "title": "Tracking the drop in U.S. childhood vaccinations: Our methodology",
       "summary": "Tracking the drop in U.S. childhood vaccinations: Our methodology NBC News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzlVdy1tRjFwUGtxZmRHcm5tbVB6VzBmN2s4UjRkOUFmd0dqY0I2T3YzQ1pPbzdwQVByeU1HcXBYbEJGdVAwQ0M2dEVEWVdReEtLcDJ6LWZWX2xTdEpBY3NFUFdkNnVWVkJFdl81TEZGMm05WFphNUoxaS1WVGJiWkEzcTRBdzBjOWxRN2JucTQ3TFEtMUZ6ZzhubzJyNzhEWnptSmVGRQ?oc=5",
       "published": "2026-11-10T22:00:40+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Inside the bitter fight over Tom of Finland’s future",
-      "summary": "Inside the bitter fight over Tom of Finland’s future Queerty",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWnJuRW9rVkpCS0NKekRwUkpJVzIyNzJJLU1PbHRRX20zbFZZN1BtbGhObnk3ek10QWpEOFhmdjAwc3FyZldXQ3dVcUxseUk4b25nNmdwTWt1aDVIX0JCSkpReXV4UV8xR2dPc2NKaC1rbm9ZM0QzOUJwR1JFLUhDUzdhOXRpT3duU2RTeU9n?oc=5",
-      "published": "2026-11-10T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -358,6 +357,18 @@
       ]
     },
     {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "UPDATE: California Prop. 40 billionaire tax has failed, backers vow to try again",
+      "summary": "UPDATE: California Prop. 40 billionaire tax has failed, backers vow to try again EdSource",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnFtUUphMER4UWRsLXFyNTVaYmhEQ19weUdLcjREQXB3amFVcm9pSElhMEdOc0xLa3hROVNtTDRVLW1tWGtQY0k3NzV4ZVE3bTB4NG5MY0lfZGRwLW9VR1p5NmlzdEdBRFpfM0ZGeGxYMHVGdFdjcWtuRFItUDFRSE5udnRSeDhiSG9WWUV4aHBWSVBuZEE?oc=5",
+      "published": "2026-11-10T18:31:02+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -368,18 +379,6 @@
       "beats": [
         "Schools",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "What a ‘blue tsunami’ means for education in California",
-      "summary": "What a ‘blue tsunami’ means for education in California EdSource",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jTGxJUFJUcXUzLThCMklCZjgxOWNMMjR1OTFyYnJVYVBsZy1Uc0htdy0zMThZODR4ZlEwZkVZeHZaTHlET3o4TzRTcVBVbUg0UlNfQ2pSeXNzQ1p1RlJQeDZRalpVcmZwRXhQaV9KXzdFV1UzSno1UVV4d9IB8ANBVV95cUxNRV9uQkl0ZHZYMmpDTXNTakR3bDB3bUR2WEY2T04wdHUyeFd3U29QZFBTZGFjcXJSakZHNmtDRTlBRjRqRDFhRW13cXZlVy1hMW82VnYzM01JaGhYYWFmT29uVjRELWljVzFTOWE2MVA3WV9xS2lTeWZkbjhZY0RFRWpPYkpxTURRNHZMX1E3VEkwZ0U2Rlc3R0x0YWEyc20zVFdURXdZVURFcEx2bGFxZEJJb2dLWXk2TldhTElPSkVNSGxXNEVYMjA5Y1JOaGdTR0dVTVpwY2FZY2JFU3J6SUdUQ2hOY3VkN0p3UUVoQzMza2pqaEtLQ2F6ckd4N2RYaE11aWlWSExUSUNlQnBFRjFxZVY3b3F0WDNia215UUJDel9iWE44UlpZOUhQdnFiX05DU0trZ09meDFhdkd0VW1fZDZpcWUxU0JURzdRdmRHX0lXTTZtSE9MTi1sYTV4ak9fcUFTbTY5X0hDZld1QTA1cFpyc0Q1VXVkLW5ZWVNwa0pzQXgyZDA4NGlRc2RXWWMxX3lrLW1IZmkwSHZjV09VSTNUVWpNOG9tUXpDbVlvcV9vYkIzYlJ0QU95Rk5IMldPVVc1bFhXQnBMWG5vNGJnNFdza3dCMFpqOGZaUDJNUlhQZmpnbmt1UTd1U29r?oc=5",
-      "published": "2026-11-10T17:20:05+00:00",
-      "beats": [
-        "Schools"
       ]
     }
   ]
