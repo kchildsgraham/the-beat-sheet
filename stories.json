@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T02:38:50.736463+00:00",
+  "updated_at": "2026-11-14T09:52:54.357365+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,42 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+      "summary": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbW1PZXVoSGdmTGlFYnNLU0FlZHQ3RUtWQ0FnZFlWaWlSUFI5dHdfZEpEVkFOUUZTelVubTAzVnVkWFBmamV4Q20zaXlPOUNzd2NObXZqbUFlaUJXT1Jielg5X3FIWkluak9HMzcyc25jeWFROUFXX3dfbmFpRmh6UURn0gGHAUFVX3lxTE5IaVp3TEhLSldRaFVHRUlHZ3FyenFtbWlTdWdlb0hmWVhKVGlidDV1S0czSkQ3TXh3M0ZueW5kRk9qa1BPU3kwa2FrZjd1OUd6Y2I4NkN5MjBnNVJ3S3FXTXhiaGRIT1RaQkZZZ21uWG1kTmRvSzhBVUFJUjVjWG04cThYRVFOcw?oc=5",
+      "published": "2026-11-14T06:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+      "summary": "Ecuador wants to monetize its biodiversity — while still drilling for oil CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa0g5eXNwUXc2cHpGbEREMDdWVU03RWx3dEVWcXlFbkNyNUg2eWhjdHdLOW9EUk1ZaW01RTFqUm1lVmY2Q2xMODlfRHp6ZTd2a1hDSkVSUUZxd2ZUZ3V2RTQ1Z0ppTERBRlNVS05hVElhUjhQbzlaSjdJdEwxSjF0R9IBhgFBVV95cUxOSktlaUFrNHZ5QnV0Yzg2ekR3d2d6dmN5U3FvTEtONm53b1FMTWRWTHJJSVRRTUlSdkxudkpQdllvZGhMZTFxS2RsZ0lRek9VUTJDWjdJYl94TFI1NkdsdDY0MUJ1cW9FVk5UYUp5UTU4RE1nb1g1Tlp0Z1lPMThWeENiZ1pQdw?oc=5",
+      "published": "2026-11-14T06:00:01+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump officials provide update after nationwide ground stop lifted",
+      "summary": "Trump officials provide update after nationwide ground stop lifted CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUttR0dHaDVCZ0VKUE94ZlFsUGZKNUd4ZUt5dTRxS0lKbFRFNVN1am1PV21mUUwweFdzTXFlVWlaOXVneU1FYUFYMjFRMlJWSzA2dTRUX1lXTWRnT1dCNWtyNWphOEUwZ3dGQi11QlNvU1JWMnJPeURYNXQtX3pCaXl2RVhPRUttcXJPVzhBYXFXT0tt?oc=5",
+      "published": "2026-11-14T01:41:53+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
     {
       "source": "CNN",
       "source_feed": "CNN",
@@ -51,30 +87,6 @@
       "summary": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials CNBC",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6UE1LUUhxSWNHM2prcHlVQ0RCR01qVUc1b1VZMHcxZEFUajlaRnBveGY0NGsyV1Nycmw2UllWNHJWV0hmblJzWXpoNFQzaG95VTdnR1dtaXdPbVNCeWo0QXgyc2NiY1NfWFQtWG9n0gFzQVVfeXFMTlJHMHFJMWNWUzFuNGNtUHgxWUpkbDEyLWhUVlh5Z2gxd3JIdlUxTkJmU3V3RFBSM05OQ3NyNHpzQl9rNVdxel9LWW5vSGwwck56LVh3TVVnaUdNd2tKZWllZXpPZXloakJScGRYVFBuS1Y2bw?oc=5",
       "published": "2026-11-14T00:11:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
-      "summary": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOE56ZC03VE9Oc3YyR01BUTlSRFpCVkI1WDFGYXJrd1BtelFYT1VGeWJyc2tQblZQdEJDNnVhb2ZmNjRzN3FXSmJvRHducnI2Sk90YVBraTY0bkNjUDJ1QlltcXpQaG0zTnI2czYwbw?oc=5",
-      "published": "2026-11-13T23:55:36+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX launches Starship in key test flight of massive rocket",
-      "summary": "SpaceX launches Starship in key test flight of massive rocket CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2RDOFRVRzlYRXd2UzRoU2NsT2loVFJOS3RKTWtsVlZrNm54WWhoREdoelVzai1odkR4VlZyLTN2V093VlJvSlhUTlFDMUJVbDRmQ3F2NV9IbFpBZmRlaUNoaWtuQ3h3eXdWTXFfWlI1YW1LbmhQaHAxN21Ua29fOVNIMS1uQklmdGYwU2JNUnQ4Wl9jdVl5OFpLZTZDdmvSAaQBQVVfeXFMTzdKdnZ2WjdnZFJEZWJVR2tPWHZSQjdXcjdtMzZBNnIyZUdEM2dEU2NWZV94d0pFeXZPZDFlcF9MOHkxLTlNdlZHUTFRR2hBa3hWb3cwa2lRUi1GMm1rQTVycmh6eVBpaFJUZllYOHZPT2J5UXZaNDFfamdNVks1THFnaTl6RWhpUngzYUZMUzJhZDIxTlFzb3cza0NWaE9RSlZDTUg?oc=5",
-      "published": "2026-11-13T22:50:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,13 +128,37 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Christopher Meloni jumped-rope in grey sweatpants & the internet can’t behave",
+      "summary": "Christopher Meloni jumped-rope in grey sweatpants & the internet can’t behave Queerty",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHNWdHE0XzhBa1R4YUd5QmVKUnZTakxlMWthY2lIVDY5UGpRdDJ2RUdRNnJwWFdMc0IyRHVfOU1aSnZKbXQweUE3TldaWGZnLWZDVWR3UW5fcTcwZk1JTnQ0eVl0TkUtRVQxOGV0R2VIYXVwcWJ3eVVXOUN1a01SdFBETFNQZlB4cmEydkxNYlBCaVF2NkpqLUR4YjVjNWItNFR5UHB4VnZpVExx?oc=5",
+      "published": "2026-11-13T22:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "FAA lifts the nationwide ground stop for all U.S. airports",
-      "summary": "FAA lifts the nationwide ground stop for all U.S. airports NPR",
+      "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
+      "summary": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded' NPR",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2kyRDhXUVQtNGF4QmxZMkY5Z0dhNFdqVE5DM2FCdGtsNVVZaVJYLVRJcVVBSlZsRmQ5TzlOekhxaEQ2dm85aTNjdWFTc0puQ2xDTjVQdld1NVRpcEtDeHVYODZ1MC1nbGhhbXR6OWwyV2E0Q3g0cWNEajVhV0F2d09IQy1Ydw?oc=5",
       "published": "2026-11-13T21:55:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "FAA lifts nationwide ground stop that disrupted thousands of flights, White House says no indication of \"nefarious act\"",
+      "summary": "FAA lifts nationwide ground stop that disrupted thousands of flights, White House says no indication of \"nefarious act\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UWWt5d2haNGYwVGZGMXVYUjhjZjlKbkhYWnNidWhBQ000OFgxbExacDFTY2IwYi1FLS03WkZKS1RTRmJNZDBEOERadEpPTk1jNGxNUkktSmo1TE92VTkxaFJ1YS1QR1ZEYTNMVlFhSnQ?oc=5",
+      "published": "2026-11-13T21:29:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -140,25 +176,37 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "A pardoned January 6 rioter saw a cat costume at a cat convention and decided it was an LGBTQ+ conspiracy",
+      "summary": "A pardoned January 6 rioter saw a cat costume at a cat convention and decided it was an LGBTQ+ conspiracy Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjOW5vb3dFY3ZFU280V0l6UjhjMl9hTm5TaUYwd3h3RlA2X0s3UHQ3eFAyX3dkbFB5eGtFWXRTdDdkNVpWQnRjVXk3MmdQSVV4ZklYWDVMNnJGZEFCeWJCbDFVVmg?oc=5",
+      "published": "2026-11-13T20:47:16+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-      "summary": "The government says it will close a beloved D.C. park Sunday. Will a judge step in? NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ga1FlNjQ4dk9KTXMyb2JTS0VHMDQ5eVI3YWtWbVp3SC1jclAzY19teUw5dEZ2clh6eWlkNUc4N192LXZIZklEaUJiMHJweEw2WXBuTjNZdmJzVUxjQ1JDUG80LWp4UGZQQjhvaUxNRFBrTXZZM2c?oc=5",
-      "published": "2026-11-13T21:06:05+00:00",
+      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+      "summary": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QeVZfbXpIcW9FY0ZiUXNuYm5kelJlaWZaQ19JdjNaekRMMmN4QnRWWFFJMHhGeXJpQXpJNk13b2pLWXE5T2xrRS04ZHJVSDRLVHRjU1Y2RUdacGhHc0xiekxoVVJUR1E1alBCVEdHZldJZ1hnTklja3lmeU8?oc=5",
+      "published": "2026-11-13T20:16:37+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-      "summary": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaSWNTSW04MGV3d2hOSXdvNmVnRC1lemI4eE1jMy1KcWdKWlYwUTgtTjhaX1NJb1I4MGxmYXFTeFZlOGxtUlNZaVJpY1B5bEtEb3dsN0VPa1FqVC1vSnlPSEp30gFnQVVfeXFMTnZoYjh6WHJtU0UxdzlLLUpaeHpaQ1N3WHpHRm9NSWRpZWl0RVB1NHhpYzZCUU1feU1iVGp2LTJzSXIzMzZzWm50dTVWQ1J4dXhEQVBqbnZ6QklNLVdwV0NMbGcydFVPOA?oc=5",
-      "published": "2026-11-13T21:01:17+00:00",
+      "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
+      "summary": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVBIODk1b1l0VXRES1dVN3FUVFVybVFELTVrQS0tOUNHaWlUNjZhTnFKSGJmZmktOXExWk5HRzNkeDFPQV9JNGRQTm93QjN5LWR1WFV2aFVCZGZ0UlFZcmZDa2N4bDBLaUNrakZJbGlGR2dvZWVkQmNDck1zYTNRVHQ4ajJiNWFB?oc=5",
+      "published": "2026-11-13T19:54:24+00:00",
       "beats": [
         "Politics"
       ]
@@ -188,14 +236,27 @@
       ]
     },
     {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+      "summary": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmF1V3p1V0dJZjlHUUtXSlFyYTE4LXQ2emRiTjB2TTI2Ukd3cm5BUlM0TmZlcDB6azdUdmE3Ni1XNXc4TG9YMW82SGV5TkZMSlZvbG1ramxDUEdFZEJTcWZqdmluMmw0RkFoN2IyeHl0ZG9STGRORV9TaWFoVHptOXVVc1EyQzl3QVE?oc=5",
+      "published": "2026-11-13T17:27:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
-      "title": "Gov.-elect Xavier Becerra says he wants to improve childcare, fueling high expectations",
-      "summary": "Gov.-elect Xavier Becerra says he wants to improve childcare, fueling high expectations EdSource",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43T09GcVdJQlM5Wk9DWUFsSWpuZjd3ZkFuS3p0MlI4X3FEYk9VM1J6eUdRaHdKLXZHWXlzYVJxOHpCVEFkQlBRV2c0V0RiVjgtUXdjT25xSlF2STRicGNzLXlSM0xMYTFNaHFCbGtEQzZTRjlIc3M0eEtGRHbSAYQBQVVfeXFMUDdmLXlyNi1qa1VUbGp0S0E2UTFIQ2N2MGxPSi1BcUUwYl9JUGpETXhQcVptdVJzc2g5TzRmSXJTVDAtZGhpc2ptMHFNTFFiWnExNWN0T2t0VEYtelZiNXp3VUxUNEJ3cVdTYURJZEdrOG83eDNZcTRlQ1F3N1AyWkNoVGhX?oc=5",
-      "published": "2026-11-13T17:03:34+00:00",
+      "title": "Trump administration reiterates it won’t enforce English learner guidance",
+      "summary": "Trump administration reiterates it won’t enforce English learner guidance EdSource",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JSEZwTEIxRkc1NERxN1B4WUxEbnFJVG9ZeDhocEdKR28wZkZQd0tCQ1phVW5xaS03bUNmSHFGeTBpZE05cGlyNVd0NmNxSjJoaGpYbVotY2NXZ1VLVlpHckMwell3a3J6OVZ2Y1QzUEdaNmxtZzZkdGo3THDSAYQBQVVfeXFMTjB6Z0NBVmMwcFVQSG5HNl9HMXUwYUxUaXhqR0ZoNElwZVFmWGZEZ1kxVU0zSzNnR0FTRGVDclZ2dzg4N29Id1lKaWRHRFJ4LXlNT2FYamc5dW1YMElXczV3NVIwSkJBcUdoY2NFa3hpWnZWeExrRjkzS0FhNmVqVVpfWjNR?oc=5",
+      "published": "2026-11-13T16:58:11+00:00",
       "beats": [
+        "Politics",
         "Schools"
       ]
     },
@@ -203,48 +264,12 @@
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
-      "title": "Left-leaning California school board candidates ride ‘blue tsunami’ to big leads in local races",
-      "summary": "Left-leaning California school board candidates ride ‘blue tsunami’ to big leads in local races EdSource",
+      "title": "Voters reject conservative California school board candidates in several local races",
+      "summary": "Voters reject conservative California school board candidates in several local races EdSource",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02ZEJQUWNkdkNTekRBX1FXSkZPZTlNRVRsWUNaVXBJMnloSmROYkdEOUZTa1RfbTRWbjczQjFBd3Nnc1Fjck5vSEljMlNrWjlYSEtyUlhiZ3NrTFZtQUhVM0dZRXhKN3lIOXBYbUF1ZVZCRnhqaTUyR3RaMVZnUdIBhgFBVV95cUxQbENTeUFPNV9ycF94M2Z3NmpGaUFSek4zaE5xNC1zVFRBX0hTdFI4b0VzTU55NFU3NjNnMWJyQWlOLVhYaDAwRmx0cWdwWVVxbUJJNDFBdE1RbmIxTnpGTlJVVzk0VjRfY041Z1RzcW1BODBfXy1zVi10VUlqanRuSGppcnR3UQ?oc=5",
       "published": "2026-11-13T16:53:11+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Billy Evans calls his portrayal in Elizabeth Holmes documentary \"crazy\" but says: \"It's entertainment\"",
-      "summary": "Billy Evans calls his portrayal in Elizabeth Holmes documentary \"crazy\" but says: \"It's entertainment\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHJ4VmVFX2Z1YlQ4OGpJd0FKcEsyRXdIdXZrSG9aLUotRFFRMzlLaFV1RWFGYXlhMGMtdTdtUGNadVNVTkdpcWJoYUQzS2txWDRRLTc1Z0NPMUw0MGtOVXZtdjdDTlNBaDdfZEhicDVHLS1XSGZSM2tQYUI1NjR6T1VtSkMxYlk?oc=5",
-      "published": "2026-11-13T15:32:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
-      "summary": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
-      "published": "2026-11-13T10:11:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | The Worst Thing Democrats Could Do Right Now",
-      "summary": "Opinion | The Worst Thing Democrats Could Do Right Now The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Db3dyR180M3pCeG1NamFkekphWWI3bFRiZkF3ZHNYWHY5ZkI2clRINHNjZ1ZXd1pNbE9vMWFrQkUxVW9fcjJiTDRuY2JPTnUxUlAyNXFadnd4SjdDQk93b0FKdVVkcEVZRHFiM1k2YXY0Zm8weEktZ3RoX1A?oc=5",
-      "published": "2026-11-13T10:04:02+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -284,18 +309,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates.",
-      "summary": "Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTNzVElCandrM0FucEtWVk1OcUhJVFJtUGk2eXRuVy13WjJlSHd3UURHcXpnQ0F4dVZlSGp0bnlJM3RhVVlCTnZRSnFXUG1KcThWQ0JRWFRhN21wdEQ4V3V3amNZcGdvQ3FfTXo1aVJFUmhCYXZJc3VHSGMyNVNRNGhWWjJNTE0?oc=5",
-      "published": "2026-11-12T22:56:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -308,15 +321,16 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Montana Democrats elect historic transgender leadership in the chamber that once silenced Zooey Zephyr",
-      "summary": "Montana Democrats elect historic transgender leadership in the chamber that once silenced Zooey Zephyr Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMalZTQXFVcUhiWVRKVGZIZXN0Z204U2poczF0bU16bzJDTHRlWXZWUHlmOUlHd3R0VWR5OXRaZXpNNHpPdE92Q2dueHFwcGZNRW1RMFRyWWxtRXR6UnVRTXJDNkJFaTZqZXc2NDVVZHRGTEdBQW5jWTExNlY?oc=5",
-      "published": "2026-11-12T20:59:13+00:00",
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "IRS Will Go ‘As Broad As We Can’ With Federal K-12 Choice Rules",
+      "summary": "IRS Will Go ‘As Broad As We Can’ With Federal K-12 Choice Rules Education Week",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1E1Z01IRlZ1T3FKQTJrRUVrdlpvbEZqNVNnTDVXU2xNblFfMEtCN3kwWEdqSExfUTJJSzhxSWVkckFLUnU3aUZTdDJDelNnSTc5R183V042ZUxJWVF0c2JFMmVONE10R1dIVHh5TWNPU3VYcUJiSVZ1VTRTa3lDaUs5WHF3UWQyQ2VKeUhUZDRGRlFtT3FzZm5rVFljUHJkRlBxQkV0YlNkTDVX?oc=5",
+      "published": "2026-11-12T21:18:15+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics",
+        "Schools"
       ]
     },
     {
@@ -354,18 +368,6 @@
       "published": "2026-11-12T18:12:08+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Reality star Tom Byatt shares his powerful story of living with HIV: \"There is absolutely no shame\"",
-      "summary": "Reality star Tom Byatt shares his powerful story of living with HIV: \"There is absolutely no shame\" Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmpvMU9LQzNlakh6VGgyNkd4QV9ySTROWXIxTlp4Zk5sWFFsS2N3RG1MeS1ETjhXOFhZT1hFZ2xhVlNtb0dtX1NvM3lHMGowbzZLS2E4LU5jVVhxTDRiOFpZM2oySzZMLTdfc0dwclBzQTRIT3Y3X1RNSVppUmo3RG1tdjMxN0YtVmluejlQTk9tVTNQeVJwclZRejZTSVAyT2NEMllNcDM3RVJNSC1yRGFHc3Ywb1VZX0VuWFpWTVlwS0dRX25oRlBR?oc=5",
-      "published": "2026-11-12T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
