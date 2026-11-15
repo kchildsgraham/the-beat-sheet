@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:37:39.990094+00:00",
+  "updated_at": "2026-11-15T15:26:39.318126+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,25 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "summary": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
+      "published": "2026-11-15T12:00:01+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway",
-      "summary": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2hERDJXQTJlNERXVWpFM0hEUkV3Nms0NkM2dU5OV05FNTJjWTctSDJveXRIdUpaa29RSTFWbExrY3ByRzdJT1Q1VWFvZWxyQUlYU0FmbzJ4MjBKNzdCYWJVSXQyYmZ0TjNIUEtRU1M4bDc2X2dacmotU3UwR0VWOWVHUkxHOFVHb2ZURw?oc=5",
-      "published": "2026-11-15T05:30:15+00:00",
+      "title": "‘Secret Lives of Mormon Wives: OC’ is a sign of the times",
+      "summary": "‘Secret Lives of Mormon Wives: OC’ is a sign of the times CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTNsUTByREYzNVVoSzFBTTlyUHgyWHdCcjktQkQwY2YxVUFnRnFiQ0xJZ2hVLTlhTnBObllTSUhQOGJoVm0xRGliM3FiaHJSYWhwR3oycGtJRmstQTh0SnYyZnJBYlFYODY3NDlubGtxOC0wZDJnc3FYNTRPNzFMZHhvUkZPNXAzY1pzWWRQUUJCZnh5ZndlaXpycw?oc=5",
+      "published": "2026-11-15T11:30:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +47,34 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Planes collide at Miami runway crossing a day after national grounding",
-      "summary": "Planes collide at Miami runway crossing a day after national grounding CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUdCaDZWZzY3LWg1a3AxV19EN2syRnRGS3BrMmlGZUZDNEpyMVl0ckM2bC1vNzlTUU9BLXR3N3NTMlBzb252TS0teDRhZGFUWFFPeWNld1RDNm9CTkdERTZuejNOb2lQSFRaOU1rVE1EZ2ZaVy1NVEpkZ0hEbGxTQQ?oc=5",
-      "published": "2026-11-15T04:43:00+00:00",
+      "title": "A gunman took four lives at an Oregon elementary school. The families came back to reclaim it",
+      "summary": "A gunman took four lives at an Oregon elementary school. The families came back to reclaim it CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRk15ZEQ4dWVSZ1NxVG5ZYjFubnpMYlFlbEVhYS0zV1BtQTVIaHRSZnJtRXB6X3MxODdZeWRBVGptODhxUjB6eUFzNWxoNUNmUy1BX2l3Y2lqQ3duM0lCNk1GWmR2VzZPMldBdHN1VlZsZEJwUEVzbmpQVWoxYnluOQ?oc=5",
+      "published": "2026-11-15T11:30:15+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still showering him with support",
+      "summary": "Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still showering him with support CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmZKY1NndlFuaHMweHA1ZWpCb1NXc01LcmdNWkc1OHc2Y2ZxSEdzNVo5NzB6Vy15bVExTlpud3FiQmkweGFkRlc4cUhIeldyLUZCd0xXMlV3YThwNXI5djM0Smdkb2dJUVRQaHlFNEthLW5USjgtS2NqbzdjT1BPeFFn?oc=5",
+      "published": "2026-11-15T11:30:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+      "summary": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1Vjb3BmOFROS281RURvRlRMTHZJVW0xRHMwZHpkSHRpamtsM0Fmd1cxZVZsSVk5UXdlRWJKeVpRcjFSMmJOYXpaVGxWUTBfdWc1eHpxdUpoeG1mVjItcmdxWmFaZDdKYWRZNWZkcHpOOTNpc0lwT0ZzYVNjT1JqU2tSNlrSAYoBQVVfeXFMTS11NU1oNVBmZFo0Mzd5eXBSVFNtU0dSUVBOSV9vWVozZ25FM0c1a0tlTWt3cmlEZDE2d2RYNzhVRE9xd0l1WEFOMElNRWlfNXFNMzQ5MnJYLXVUcWYwMkxmYmttMmFWN2RvWFNuTFlUSzN4d1BsdmtjUmo3bWFvY0RZOHR6QUt4VS13?oc=5",
+      "published": "2026-11-15T10:00:42+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,22 +83,82 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-      "summary": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0tfbHhPaGJZVW5XeHo1RUFLb0hycEtSSlhmRXF2Zmo3SF9mbFB0Y3pkX3VSX3RVT2VOb2p0elVSY1hhQ25Pb2szV1ZLYVJHOHlGM0xYTnIyS3hUV2p3eHVUWEExbm5ETFplQ2lHbDVfM2xNanFUclR1ek4yZUdLdw?oc=5",
-      "published": "2026-11-15T04:28:45+00:00",
+      "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+      "summary": "Midterm voters ended the long-running GOP dominance in state legislatures NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkFrNlZlUFBVRC1VNGV5c0IxMmJmdFE3M1h2Z2RBcXVMaHlxTVdOVkdJdGNuZEk3ZTZhbExrMDJrTEZsN1lOay1oeWFDaFpCTjlRT1pSVUo1eVJzVmFNSjQ0RjctLW53M3d6WHh2Y2FBenQyUlBNdmYwR0g2UmpGckFNTVFVclFid1M2S2h6Sk0?oc=5",
+      "published": "2026-11-15T10:00:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Democratic socialists in New York formally urge Alexandria Ocasio-Cortez to run for president",
-      "summary": "Democratic socialists in New York formally urge Alexandria Ocasio-Cortez to run for president CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTG1UYklLYWNUOU1FdUR1cExwdU9CV0FiVjZQam5Rd2ladm9IYXFxUDZLR2VYT0pFMmtkTE1ZeFFwU0FLMmRXamMtSFg1cF9rM002aU8zQmZOblJ3SHh0SzFmdm1oR2pHUVQ3UkhtWTNaaUFHZU9PV0picXJjNXNxVXo5eHRteUE?oc=5",
-      "published": "2026-11-15T02:24:00+00:00",
+      "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+      "summary": "A new generation of disability rights activists carry on Judy Heumann's legacy NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzRJbnR5TmhQWDNCMTRCSEJxSG9pNld5YzBnX0NIQzgyaXEyUWZKSFkzVFQ3UzQ3VmtLaE1NSFBNZHhsQTVBN0kyZjdUMHRnQ2FXYUExZi1CZ2NrdkFMQlBJR0llbXVaRW1IemRDV2NsUUFrUjBOSlI3Mks3WHN0ZGlwZDgtUkYzTXBJN0JOZ2VDWGMwakE?oc=5",
+      "published": "2026-11-15T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+      "summary": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1VBN1RTaWl6OHdDNVVFTkppNWZaQ19MWldYNS1ibkpSQWEwYTRxc3VaLU5Cc193LS1pbGdTbXJ3S0lqYmFOQ1pRZDJvRDlVaHQ3bTBySjNRaEVtR1psMTFFTkhjenItTV9rVmwwWVF5UzhtVUhsSWFsYUptWWlKbk1mYksyMklkZ2xsUlZWUmRuSk0?oc=5",
+      "published": "2026-11-15T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+      "summary": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGt2MzQzQnpsSXZBUFN6aW9ja0tyNVBWbmxMaWw4MGgzRzdkOWMyM0RINzRoaHVfTzlseFpfa1JaSGdpc3dETUFaMXRVeFJNemxIUXFmRXYxMUVmSEIxSTBGQVZKUkpoR1g1bUNaNGh5RDdENGYxcFFFVkxNVXV1MDE2clUxUdIBiwFBVV95cUxOTkpvNzM3VUkycnFlRmhWZDBnTW5taXU4V044R1VFdkMxLWJ0NEZoR1dqOGZGV2steFRJZWRTcDYwMlIyZFNyWkpwQzhRTmJObU1mZEYtZ2EwSjUzdncxdzVvUGRKbGxNSGdTSkJSQThGVkZwcGg1Q1I3RHBaMUl2TWZpVFdxTUVoenlB?oc=5",
+      "published": "2026-11-15T08:20:51+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Nate Silver’s Unscientific, Totally Subjective Breakdown of the Democrats’ Future Stars",
+      "summary": "Opinion | Nate Silver’s Unscientific, Totally Subjective Breakdown of the Democrats’ Future Stars The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVhFWGVsSmVYRE1SQjZoRTFZQm4zeWROU21OTEtXYl9WTlc3RUdnMHVJV3hNbUEtV2tmWVhSUEx0cG1OQ29kZWJjTl93aE1yY1JUWXhjQkZxNXNjU2REeW0wb3FtTHhiazQzelVWZTVYRXRNeXlscGNVUGFOdzNzSHlQUUdXbUpKVWNfc19JREFmZw?oc=5",
+      "published": "2026-11-15T06:00:14+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Thoughts Near the End of a Life",
+      "summary": "Opinion | Thoughts Near the End of a Life The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VazM5UmRQNDBVR0QyTS1rcDhIeFQzVy1vWnJKSEoxSnZYV1VXY3FqR0JMTkFIcU1UMmhrLVVNeWVsTFJGdF9FSVJCa0RKU1N1UDlZMmJxVFo2N1lHQVNVd3RFV2otUS1mUl90dDlWMFczS1k?oc=5",
+      "published": "2026-11-15T06:00:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "UPS cargo plane, Copa Airlines jet carrying 172 people collide while taxiing at Miami International Airport",
+      "summary": "UPS cargo plane, Copa Airlines jet carrying 172 people collide while taxiing at Miami International Airport CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPekEzQ21XR2ljd25BdEtWV0Q2dHUyc1RGRllwS2l1NEllVV96Y0UyVHptaFd1cGlzbk1TZndqc3RIOWFoSnNZVWg2X0xSSEFmVXU5RXY3QkEyUm5OWXBlQzJSZVQ3YlVIT2M3eGlFazZBSTNIS1dhSEhleUdFejlPRUNtOEpZNUlVVDJMRFU3QldXNGpyWVJkMUdjcDJyaWtE?oc=5",
+      "published": "2026-11-15T03:16:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -80,97 +176,13 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "FAA ground stop disrupts college football",
-      "summary": "FAA ground stop disrupts college football NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFItcnZzdFJMcEVsUmlYcEhrM2V2b0VqNDVkYmFCSWxGQ3VRLVpCc2ZneHN5WGFDeHR6RkN3N1ZKYTQ1MnNHcU1kM3pTLUtyYzhmSzQ5MWpHQ2pTUzk4RWlwZ1RfOVl1djBIWnQxOElvWmR3dDB4WUNZYXcxcXpjWUZISGtKWFh2aFJmQQ?oc=5",
-      "published": "2026-11-15T01:13:59+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-      "summary": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law NPR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdHlfWm04d1d4bHktUEVkaFE4ZV9jN1czRmUzT2pGZjZmeWluWEVUZFl6emFuUHR6Q2gzUTAzeEU5YUhmYlFFUFdFMTRibGd6WXV0d2NCbW9aR2dld3JGWlNJN1RLNjNiYlNPWG1hSC11NGN5S1FzNHJHUDFSSDgzeE9ldy1makd3cmx3LVJXM3hEZw?oc=5",
-      "published": "2026-11-15T00:03:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
-      "summary": "'Root cause’ of nationwide ground stop is unknown, FAA says CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbE9aSm53eUtPR2pwcWw3QUU1RXVhLUxOUTB3R1M4RDMzTUlyNm51YjJ3d1JmamVEUDgtVzJ6bHlaOGEwR19nVEM5STdMZWVhRkdHQngyX3pjZGc4blotU3JQRFN5UmlYMUVKV1o3MHJzQkVrQzRLekhZNkZQNXlISEhCT1psTHh2aFlLMmFRVzFab080NUpybdIBngFBVV95cUxPVFVrSWJ0Skt4d2pjcUF1UHhYYTNVS051OTVNOEF0MTItdEtNVlB2cDVNZDdQMVZ4cWdLeXNEbXA4RnpFU1RyZmd0eVpxRmppaWg5SXplRkQzSjBYZnZWZjJxbFp3RW8yaW84OEFxUUcwaUlHMnpUQlVySWh5Vk1hUm5BME93cGJwVlhRbGVfNWsxWDRQM1dhellXQi1jdw?oc=5",
-      "published": "2026-11-14T22:54:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "SpaceX pulls off dramatic midair catch of Starship rocket after fiery plunge from orbit",
-      "summary": "SpaceX pulls off dramatic midair catch of Starship rocket after fiery plunge from orbit CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRSXMwU3lNQ2NFV1g1cFE4WHZVSVRUaWJCV2dDUHNSNkx2REdTYlIxb1dnbktoZXE1ckhRYXZhNy1ycVlCLWlnb21NZDI5ZFhidkVJc2xJOWoxeVlVaUpVVGxPNXUyWTdrSEE?oc=5",
-      "published": "2026-11-14T22:51:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Costco-brand whipped cream recalled over potential presence of cleaning chemical",
-      "summary": "Costco-brand whipped cream recalled over potential presence of cleaning chemical NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWQzN1I2Y3BQc3ZWaFBSbDBKWG83VFNBM0tsd0J1TWVfUVQ1X1QtcEU0cHJfWW5waEFrN0RmX21wamlyM1pYWW1lMTkxS0J1Tm5iQzVXZjZVSFdwQ0tLanVOcXRCQVE5dF9UMVFHQVcxR1lCY0J4ZGo1Ql9YZ21uRVpHMDA5T2tUTXBr?oc=5",
-      "published": "2026-11-14T21:21:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "SpaceX catches upper stage of Starship rocket in historic first",
-      "summary": "SpaceX catches upper stage of Starship rocket in historic first CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGFvOUM3TDc1a3hvVXppS0tjbklLX3MyS094bGRNVFh2dGxVbGRLRFRJZmxpS0VHa2hQRHNBMHJqZ2Fxd2wzMzBOazZPQzJ2dEJtRThqYW9yV0VzTUVrVWFDbmtVYUVjTElyUnB4U3pOaG5qaTdGOUxSWTJscUpOMzBmeWUybXFWc25WdU9tT2JUOF9qZGpid0I0S0hrR1pyWVlZcUpB0gGrAUFVX3lxTE16S1ZpTnRzaHp5LS04QlVFOXNLNmJhNHk3SXZsendHTHJacURRcjFFWVUxT3d2UDhpa0tVeTRXMXdUcGNIV0VacUZDbHdYR0U5MmVtSzlKZnVyNFpRQ3I5Q2RuOFBzLWNJQ1VXVHVYNlNfQVZYVTdJVVdqaFotNEF1MG1rN3ZPaW1DVEZ2dWlIQ0QtOFBrYllrU3NTekpDNVh2Nm5UUE9xTXd6QQ?oc=5",
-      "published": "2026-11-14T21:14:46+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights",
-      "summary": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
-      "published": "2026-11-14T19:57:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
       "title": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”",
       "summary": "After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros” The New York Times",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkZLM2IzMFI2WEdpazU0OTJYNWZhWFZ3aTRnQ05RWTJfMUFwZGpWdzZYMnFEeFhYbTl3WkxHVnB4VFgtekNYVDNSeFp1djlneFlXMjVlRUczdy1NY0p2YXhfS1oyWG80Q2RlOVVVWTRucDl6WFJ3Smg2MlF0N3NMYmFRLU5oSXVxeVlwQV9zbDUxcFEycmllbmFtR0diTXNDSUhGZ2VpUVVtVnlvX0RHY2pxLVhULXp5Sl9MU1VncEtxSXpp?oc=5",
-      "published": "2026-11-14T19:03:57+00:00",
+      "published": "2026-11-14T22:21:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -185,30 +197,6 @@
       "published": "2026-11-14T19:00:00+00:00",
       "beats": [
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
-      "summary": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlZuRGNwODhyT3Npb1V3dDVFSnQ3OFZ2eDY1VUk0WDdLUWktdVNrSnQwQzhhZDJWcFdCeWtwd0plOG41bEdYSk9PZmFrQ1JlUjJqb3RKWXVzOWZCOHRrU3BoWlluOU5kczhwVldlZElqa0pyUHJ5M2tNYWZFVkF3T3hvTWc1YXdCTzdOVFdOTnRGREFJSHlvbFVsanFQWlNLczZUak1ZWlNoT0EyT1R2NGNhaUtJZw?oc=5",
-      "published": "2026-11-14T18:48:39+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Goodbye, Mr. Chips",
-      "summary": "Opinion | Goodbye, Mr. Chips The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSW1OU1ZXQzNWVUt5aTVRcXd4eFBRcTBzOHNoYjJoMjR1Z1JpcHhFU3ppUTFuSF9DaDhVWlQ5aHkyRl9kWjhOX09Yb01jMjVpR3UyTlhmNW9IU1pOSDM5S3p5eUJMb2pzYWR6b0N6S1NNcDJ2M3RCaDlQN1RyZmxCOQ?oc=5",
-      "published": "2026-11-14T12:00:13+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -297,15 +285,15 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "A pardoned January 6 rioter saw a cat costume at a cat convention and decided it was an LGBTQ+ conspiracy",
-      "summary": "A pardoned January 6 rioter saw a cat costume at a cat convention and decided it was an LGBTQ+ conspiracy Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjOW5vb3dFY3ZFU280V0l6UjhjMl9hTm5TaUYwd3h3RlA2X0s3UHQ3eFAyX3dkbFB5eGtFWXRTdDdkNVpWQnRjVXk3MmdQSVV4ZklYWDVMNnJGZEFCeWJCbDFVVmg?oc=5",
-      "published": "2026-11-13T20:47:16+00:00",
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Florida city cancels St. Patrick’s Day parade, citing state’s anti-DEI law",
+      "summary": "Florida city cancels St. Patrick’s Day parade, citing state’s anti-DEI law NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUtTRzdoNzlOVG8zcUlOZmM0N2xCcU54MHlXU3dwNkplTjNmZWZXQlh6WkdVYXhiSGttY1QtQnNEWU1laDZyelNEVkNRZzM4OENIX0t3aTJXRTJFd2lnRnFaWDdUQVRfODRjbUVPOUVvU1QyblV0bE5mNVVTSDdZc3Zld1FoLXF0dTZUanBwT2FSaUlycFJFVUd0YU16X0dJNlQwOXl2Z3Y3VW5HU3MxUDRxUlo?oc=5",
+      "published": "2026-11-13T19:45:49+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
       ]
     },
     {
@@ -380,6 +368,18 @@
       "beats": [
         "Politics",
         "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Microsoft services hit by major outage across the world",
+      "summary": "Microsoft services hit by major outage across the world NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXd0TE5wQThHVnV4Tmp3eW5UNXhxR1FzSVZSTUtGUHM3eW5yVk5RTHhxT2VuNmpuaVpiUndXUmZPbTlWNlNWdUc3UURtWDdMTDRFV1RxOUN1X1dGc2R4SERWcHMyZTQ1TXZZaG1Oem5hMUVnam1rNU5uUGJJcFZvRTVVVTJOOE0wa3FfYUp4LVlIZ3dWcDI2QWx5VQ?oc=5",
+      "published": "2026-11-13T12:26:00+00:00",
+      "beats": [
+        "Politics"
       ]
     }
   ]
