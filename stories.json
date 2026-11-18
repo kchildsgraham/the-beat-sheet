@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:30:42.047817+00:00",
+  "updated_at": "2026-11-18T09:50:46.986717+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,37 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Nvidia stock up 3% as earnings beat expectations. Neoclouds surge",
+      "summary": "Nvidia stock up 3% as earnings beat expectations. Neoclouds surge CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPdktTWGx4MTJkY1pwR1JFTm1JN21Oa2xNXzBhbWo1OUtONGUxbW5zLXlMZ0pCM3AzTFNjQkR6cjVDYjVXbmVpenBOZHFTR1luNklyeDMyUXF0TmZEdzRUa3VUTWFEQ3JEZVHSAW9BVV95cUxQMndnOEhXQVJYTzBwMWxEd0ZRUk5YSFNGeElOZzhPVTd2bnNZRkExZWpOY0V5MTZmRFFDcWtpT0ZQSF9LeFF3ZUw4X3BKdGRaU0V5V1hGbjIzZXFqSDdZX3FScDNxa2JCOGJOaDVtSlE?oc=5",
+      "published": "2026-11-18T09:19:26+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Heidi Overton: White House drops Trump’s FDA pick ahead of confirmation vote",
-      "summary": "Heidi Overton: White House drops Trump’s FDA pick ahead of confirmation vote CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHlkWlRLQk02aWtZWXEtRDJLZkhBbnNnaDVuUUtmM2poVURfTm5Day02c2dHQzI0ZkVQRTUwbDNBWFdJdW9QS0JSX3ZXMDBBd2N6bDRrTWM1M0xVRktnRzVmRW8wZnl1N2JZMmdua3JQSzZqTTVCNnBka09zSDZqdjNkaTR0Zl81RlpwY1Q5dw?oc=5",
-      "published": "2026-11-18T00:32:00+00:00",
+      "title": "‘Grand Theft Auto VI’ earns more than $1.5 billion before release | CNN Business",
+      "summary": "‘Grand Theft Auto VI’ earns more than $1.5 billion before release | CNN Business CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMlppVnJwUElWb1ltdlV4c2V3RUZIMUlUcVlQbWY4MlNrOFZuLW5Oa3pTZEhZRHRyNVU5Z2pNbkpYNndILUxDZ05YUjV5dTVwMlNOaWhfblVGRUdDNHoxNkQ0MmRyVVMwVDlmSE0tUkhINzhPSU15M3RtT2RIaUJQbkNn?oc=5",
+      "published": "2026-11-18T06:00:15+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "What should really scare Americans amid blitz of tech outages",
+      "summary": "What should really scare Americans amid blitz of tech outages CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xQlU4dG5tWlIySVRFeUdwOXFaQXFCU0xqNkt4YWFwQVZiaVYxbUpkeG5fTkFtbmlwWWJuQV9uVnBZU1hjeXJQNTNSbDRKU3FNbjdtRzFUM2k4ZndaY1hBZ2pQeGlUXzhIMVBHanBRUkFsMmx2bGc?oc=5",
+      "published": "2026-11-18T05:01:15+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,22 +59,10 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Watch Jim Cramer's full interview with Nvidia Interim CEO Colette Kress",
-      "summary": "Watch Jim Cramer's full interview with Nvidia Interim CEO Colette Kress CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHlqRDByY1p2dzJldU5OZUVwTHZDNXY4dGlnWUE1Umg4LU1iUGYzeUhIYmV4OUpGbXhXYVV3WU8wck00QnpObzJEVnN2VEJVc1A5bXYwWGk0Ym9tX09aYi02STdZLXRINW92NjlqVkRkaFFyXzFERWt1SmJDV2xaQUVtZFFvRlQ3LW0wV1B4bjdxTWJzVnVjZHh4TDVIeVM2ZnpBU3NDdFl2TEZLaENQYTZPVQ?oc=5",
-      "published": "2026-11-18T00:11:11+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
-      "summary": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWE9CWng2cDJoUlFIOEtFSmJnam0wajg2WnRBOHVpbmxqUkpVSlJBQ0tBYmh5dk9VWlZmVGhMTkFzY1Vld0tRVVlYeFB3c3hlQ2tTMUYtQWpQYmpKalNiMjJ0MDk4dHdVNVRvRmgzRThGQ2JaQXlaRm1LRm9qVEZFRTVB?oc=5",
-      "published": "2026-11-17T23:34:37+00:00",
+      "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+      "summary": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xUUJPejlwZHBQYmxGcGU1ckJDbG1WOC1GZzJyV3p4a3F0VWRDZWZqNVN6ZWludjhIVmxqejA3VFhPSmJ1QUFUcHJGVm9aelBCTUNhOGZNdW5CbDh1ajZkQjNFTVkyaWpFVE9QMXlXejFEX2llNlhz0gF8QVVfeXFMTWwtR0N6UWNpRW5hNkVKTjNyOHhIZGg4aVFOazE3Z2VxbnJEdXhPUElZcEtDR3QzbjZyeUtxLTVvT0JzTW1yZWRkNXJoUy1XXzE3NjExcThhZ0VlbnpHY29EVk8za0ZqVGJVbm05YkhkU19Ha0J4c0VwZV90dA?oc=5",
+      "published": "2026-11-18T04:04:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,10 +71,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Jim Cramer’s key takeaway from Nvidia’s first earnings since Huang’s resignation",
-      "summary": "Jim Cramer’s key takeaway from Nvidia’s first earnings since Huang’s resignation CNBC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXhYcHVidnZvbVdFTFFvdEpQSlNDY2pPMXRxaXdHcUR5N1liQlBfd0xwMlRsOEZqSEZyVDR1QlkzbkNKNkJSOXVYNnRMMC1qSTFCQ29CX3lVUTlpd0JnWEFyQUxpbHoydTVrUnlvRkRGcTdCc2NHbXN2Q2x0OEMzQTMyOE9fNnpHX0VxanA2WnExYlE0d2ZUVVJNVEhzczR3SFlLLUg5ZXppLUJXZ0Zr?oc=5",
-      "published": "2026-11-17T23:33:00+00:00",
+      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+      "summary": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43MjJzamdYck4wb3Y3cGFVbjB5OHNKQUlKRlE5Mmo0OVpRdXNSZ0FWcktLNlNFTlZMdXlfWFVzRWstT3V1RGNPTzZVV0ZKTkdhOG50UU1iMHNkSVZnTmtSZ0VoMnAxTkFBdVFUSVBBbU9pWHpkX1HSAXtBVV95cUxPT2szZ1N1VHFiMzJ3VWE1N1dSRWM0T3B4WU9oSXBMdldUeXBOLWp3U0NiTGVlQ2NjTUZ5RzBvXzJwV05LX29oVFZ5eFlnRHV2WVUwaFA1OE5DNVdKVllDTXNFQmp1OWRva0ktazFoYkd4YnVpVmZGZmdJZlk?oc=5",
+      "published": "2026-11-18T03:45:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+      "summary": "Mary Peltola flips Alaska's Senate seat into Democrats' column NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmJEZkg1MU1Na0ZoQ1JEY3V2aG5Vbi1WY1VTYTlidV9vaHRabm81M3pXRXRaX3F2dDdtS0dENmRxc0FpV2pHRW5qQnl5c0k0U2NHZjJlNFlnWTNvaEp0ZTA0T0hEaHVFMS14Rk10M29aUW9PXzRtbWZzVGFaTlZLMElyN1A1NGpS?oc=5",
+      "published": "2026-11-18T03:27:23+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,12 +95,24 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Markwayne Mullin faces scrutiny as administration grapples with unsettling tech outages",
-      "summary": "Markwayne Mullin faces scrutiny as administration grapples with unsettling tech outages CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAycWJZSUxuSnc4NlhkTVRFZ0FoVHNVb2RuR0RfOXdwYWZyOUtzYThNajFmdXpibnlBc2JkNWlpM1dFZ1c0dkZ3WXhKU2NjM3VKNW1pSVRiWUtkTHZScHlDTWE3OU5RekloWGJneWNibXhxMzBDQ0Q5WHAxeWxQZw?oc=5",
-      "published": "2026-11-17T23:29:02+00:00",
+      "title": "Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects",
+      "summary": "Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbS11SDdYWlZsSkp5dHNnU1JrbktwRVNLS2pma0p6aWtyWXRjNzJZZ2dnMUszeE12UnZqRzhWbFJJT0p0SWhYWUtNN0tneTRJdnRUa3gzVVBuWnpXWkFUczdPLUZxUlllZUZ6UGR6dmhzeHVqZU1QRUN6RQ?oc=5",
+      "published": "2026-11-18T03:14:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "At University of California, a decline in students who took advanced math in high school",
+      "summary": "At University of California, a decline in students who took advanced math in high school EdSource",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02VExUT3hQVFRpYnVVR0RoZ2FmMm9TV3V6RURiYWRKSlN0X25CeC1qa1dFdFZJdGRCZ002aE1HWDZlUjAxRjYtQkxYUFRKb1loWjhiaURfVm9IdXZlUmdmS2ItNA?oc=5",
+      "published": "2026-11-17T23:14:37+00:00",
+      "beats": [
+        "Schools"
       ]
     },
     {
@@ -86,7 +122,7 @@
       "title": "How is private school choice impacting public school enrollment?",
       "summary": "How is private school choice impacting public school enrollment? K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2txdllsN3NyX1V1cUZUNk85UU9DSkN0Vm5jcUZyS1BLRV9McXExS2dUTnNpeG1TZnZCaEFSWDhnSHd3UjJUQXhZVnpmOTVKbWdFRnRycDZyOFd5UlRhcm5kNGQwRy05SklLcHNmZzdSdWJ3UnByZU9kZnVzbHo3b3dhR2hzOFlMUTljZlN0V0ZNOUQ0MlJVQm9aOW5mN3dUMVE?oc=5",
-      "published": "2026-11-17T22:18:45+00:00",
+      "published": "2026-11-17T22:25:53+00:00",
       "beats": [
         "Schools"
       ]
@@ -104,18 +140,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Paranoid about all of the tech outages? Read this",
-      "summary": "Paranoid about all of the tech outages? Read this CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVU43MTA5bXhYUjhCcUhULXlDQWN3MnpHNU1FUEhvTndwdm5pam9HNExZc1lKY1R3WnJLZFF4elR6bmdGVkxQaEtCVHBpSmFLR0lQS0xrUENVcU1mNmpGQW9jYmxBY1M4dGMtdHFSUTFyT1pqcDUzSk9fbEZ3cVJ1SDdTaWE?oc=5",
-      "published": "2026-11-17T21:47:28+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -123,18 +147,6 @@
       "summary": "Air travel, Microsoft, banking: Why are our IT systems failing? NPR",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc096enRuYjc0TktSSGpnV3F3T0lucjBmTlBCS042THVCckxqN1MxM3JjcHdaMnlobW95aTJhTTJSY3hYNkdPbWhtVXd0T3hqU2ZTVlBSX2M0U2VNcDZHOXRUTUpZZXlvdGt5Z1h6YS1OcFd0WHItb3VxaDJ6WGtJUTlmc0YwWU9hQ1UyMVpqUEpHMEVhRkFJVGx0TGUwRXRPc0NZZ2pXTQ?oc=5",
       "published": "2026-11-17T21:40:41+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-      "summary": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
-      "published": "2026-11-17T20:35:00+00:00",
       "beats": [
         "Business"
       ]
@@ -164,27 +176,40 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "summary": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3RGxpNDRlLU9XRVNDenV4bWMzQU03QzRvRlc0eEN0aFF5aV9OYkg3VGZtT3M1UUNyRnpWVmFnbDdRbmRKazhsQnNmVjh2MFJUNk45dmVIaUtucWh5bW9haDR0Z2ZIZjBfMU1QVVhFc05BMlVIZnB4RUF0WQ?oc=5",
-      "published": "2026-11-17T18:34:31+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Trans woman turned away from men's fencing for being too feminine banned from women's fencing",
+      "summary": "Trans woman turned away from men's fencing for being too feminine banned from women's fencing LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEhDcm82d18wX1pFYnkxaVhzTGVkLXdhM01SLWc3QXpYalU4SFJjRUxBdVhuN0JyOFh0TXo2a25LeG44N0haaW94NUNSSUxsN3FaXzZjS2JtVVZ3TDA3Zk50SnlXNV9QNC16VG1DeUVPT2JLdUJ5aURndGlKbWZkVm9PUmwtWHQya0J6VUs1MFFPa2xldWgxZUJtamliUWVQV2d6dEtfeXV3d0xfT1VTUzJZSUZ1c2EyYWdZUlVPZktJeHZCY1dJ?oc=5",
+      "published": "2026-11-17T19:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows",
-      "summary": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXY4QVhaa3lueGJEOF84Nms1YTdYSVNZd25TWEhaQlVHTXBZWFR1RlFxejBoSkRBSjJVYkUtRXVDSDNTLUlZWXAtc0gtZU9NWWFfRUt6RDd4Q2dRUjdiWHA5V3U4dngwMFhvcGVLaERSX1hrUlpBMXdhZUpXUWpHMGVfYw?oc=5",
-      "published": "2026-11-17T18:16:44+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Ted Cruz vows to \"save Texas\" from \"tofu-eating, Birkenstock-wearing\" liberals",
+      "summary": "Ted Cruz vows to \"save Texas\" from \"tofu-eating, Birkenstock-wearing\" liberals LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjlmVVdqbmNEQ0txQ2daNktDbWd5UzgtQ05uTWd2REQ5dlRHTFl3VGZObmZmWXZBUmR2aVhFcndWcjFuSVlEUnlGT21nZTJVYzQwRXRyQnFKMHZ3dzdwNncybGxXQk0yVC1RNDBoaDZZNW1VTDdsVHVqaURJbnltN1JzUjNNQjRHaUQ1aDRxdjFKMUNQbGJ6RTFVNzhWZFlRV2NVc2lGcHI5eEJzNWZycmprdjg3ZldnV2MwXw?oc=5",
+      "published": "2026-11-17T18:30:00+00:00",
       "beats": [
-        "Schools"
+        "Business",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Civil rights groups raise concerns over new acting chief of DOJ's Civil Rights Division",
+      "summary": "Civil rights groups raise concerns over new acting chief of DOJ's Civil Rights Division CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkNVMDlhR091X2Y1bXFtTF9CYzBMeXJ1NldjYjVnejdyNy1SSGdhdUhXY1lTUGM1cmNsY1JFQTBYNmZRY3RyRERrZzk2NHViYmRIYUZYZkNLSWhCeDBOTl9zTkN4a2I2cDBMb1RGMnZfYkZEaERaN3I1azEwb3NqSnNsdjc0ZmVBNzZtZA?oc=5",
+      "published": "2026-11-17T17:13:55+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -200,6 +225,30 @@
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Americans wanted answers about grounded flights. Trump officials offered Buttigieg, DEI, and trans athletes",
+      "summary": "Americans wanted answers about grounded flights. Trump officials offered Buttigieg, DEI, and trans athletes Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuLURmWVVjdlVZTkN1OGZldmUyaVVlbHc1SmgxYkxmME1hYVF5WHZYdThIU21OWXBGS2RIYmlCcUdsQTVUeDdMdlFidjMtVGhkbnU2YUhiby1id3VJTDRra0pLQXRTYTZoWkxHdnJhNzVyZWhnM2ViRg?oc=5",
+      "published": "2026-11-17T16:41:39+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+      "summary": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96VWhRMENFdkxGTUNRaGtnaHduM0VjQTN2ZjJDdDhuZTdsMVU0STQtLVRpbDlKSXg3VnQ0N0E3Uk5FZExTdjh5VVVXOXFCY3UwU25jUzBEOUdockktNENOUWFiZmtpS1l2UGczS1cyZEk3TGZTcEdOTzg5QW9DVTg?oc=5",
+      "published": "2026-11-17T16:07:20+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -207,6 +256,43 @@
       "summary": "Your Guide to Navigating Difficult Conversations Education Week",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUIwcVYxMDN4dlY5UzBKazBTcmlSS2hBOXFVVlF5bDBqaHk5Q1BVenV4Sk9uWGI0UGp1SW56MDhab0pvY3NVVmtLUjRWaFFVTk9IMTFRa3RVanhtd2stcmN2MkljejhHX1R4a194LTM3c1dvLXZKYWJQNHd5Vk9MbXc1c3BIbTM5LW5adEZyVzZEWDRYLUV6eTZYS0xUenNLMENvT0EzcWxNSnFjcE16R2R1WnBRc29r?oc=5",
       "published": "2026-11-17T14:32:15+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Conservatives sued for right to misgender Club Q victim. The Supreme Court refused their appeal.",
+      "summary": "Conservatives sued for right to misgender Club Q victim. The Supreme Court refused their appeal. LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDMwN3d1NDl1VUJ3ejhKODFOLXRMa2JmUW12eFVGWUZsaEsta1c3Q3M5RFNBSXp4MUhmNFVGaFZ2SVhWX2Rzb2t2VlQzQ0dXTXdXSVYwblFSYkc1eWl6aHNVMFlxclNkQnN6UWhIVy1VUWVCQmR6TXdwV2NxV0hRYmRFbndjVFUwZ3BLZGc1X2JZNmVvSFZWUkJjbHN5aXZBUms2RWhQRmJWcWkyRlR5QjhLTFZjNWV0YXl2UE5ud1g3QQ?oc=5",
+      "published": "2026-11-17T14:30:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Philippines welcomes Trump with 'YMCA'",
+      "summary": "Philippines welcomes Trump with 'YMCA' NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2VUQnlkX0VWQ3lncTdjRE9RSE9ISW9RMUo2YjJNZE80X05KTXJxV3ZVY0tlNmc0dEstcy0wNkxqSGlzWV9ULXdZXzdZOU8yX1Nwdk55eWV5WGprbUpJQ3JQY2pKWlJNeFJaVFhCcmQwcndtWkFpUzNIdjRKQWlQRm9pWEJ1bzZUQktldTFlaw?oc=5",
+      "published": "2026-11-17T11:30:08+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows",
+      "summary": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXY4QVhaa3lueGJEOF84Nms1YTdYSVNZd25TWEhaQlVHTXBZWFR1RlFxejBoSkRBSjJVYkUtRXVDSDNTLUlZWXAtc0gtZU9NWWFfRUt6RDd4Q2dRUjdiWHA5V3U4dngwMFhvcGVLaERSX1hrUlpBMXdhZUpXUWpHMGVfYw?oc=5",
+      "published": "2026-11-17T10:04:03+00:00",
       "beats": [
         "Schools"
       ]
@@ -240,12 +326,36 @@
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
+      "title": "Elliot Page wants you to know just how gay the animal kingdom is",
+      "summary": "Elliot Page wants you to know just how gay the animal kingdom is Queerty",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVy1wWkQzOW42eUh0WFB2dl9qbXRxcnFEdGhDMWRWRmtSTkJsZnJCY2xIQjMzWFk3ZzhmR3RWbXBuU0xQNTY5cE1ZQ1BldlI5SzRFSTJWcXpyYkxGV1lNbmkyTktuU1U2OGEtMFl6RkhJZ0x2VEFJQ0ZfUnhmd2lZRFRnSC16T3dTQkE5NjVXbnB3NENyd2xzVHRIRFlMRjg?oc=5",
+      "published": "2026-11-17T01:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
       "title": "Pete Buttigieg masterfully shuts down Tr*mp's attempt to blame him for last week's air travel disaster",
       "summary": "Pete Buttigieg masterfully shuts down Tr*mp's attempt to blame him for last week's air travel disaster Queerty",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3l0aWk2YVI5Um9VSVNWRHdzYzRvZW02OGdHdVhELWI0VmxTOURuSFNVS19LamN3UXhTVFdaczRrNjQ2SllnVU9fUGdaWG4zZmM5MC1ySV9Ycmc1bFE4MGp6ZHpBUnhGQlNtTlltZlk0WDRsSjZDMGU3MXVwWG81V0piSFl2LTZ6M05vMTF4Yk1VQXBURlJGVGpZWTNrcUtwTmNmY3JUSXdoUFdyaFVCSXlTbWI2ZjdLeWFZSlhPcGlPZw?oc=5",
       "published": "2026-11-17T00:00:00+00:00",
       "beats": [
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "United Airlines says it has resolved a ‘widespread system outage’",
+      "summary": "United Airlines says it has resolved a ‘widespread system outage’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1cwM1owOU9ZcllpZ3NJQ3Ffc3pERy1ZTG1ObEp3bmJWQnJ1UGF0cERIb1NqcGc3Zi1fQ3FOckdnbkZDQkxpaElOcWJ5bWZxVEI5Rk1rRDdtRnpnVWlDNUxQT0lpd2FjejJtcm1ocFVQNVF6RHZpS1VfWmZ5MF9GSE1NMA?oc=5",
+      "published": "2026-11-16T23:38:33+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -262,18 +372,6 @@
       ]
     },
     {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Teacher prep programs probed in Education Department’s latest anti-DEI push",
-      "summary": "Teacher prep programs probed in Education Department’s latest anti-DEI push K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmRRUVlfcm9LNFNaOS1wZjNNUHl4U3pzZVhLb0ExbnNRLTBsT012OHNDVUU3SF95OVd5VTRWdVctQjZ4TnB3dEd0Rm1OaDI5MHJIeUVaY1VvTHZWNzYtSEpYd3dDMm9DMmNyYXVRT2JGajFlQk1FOXRicjYxdXo1LWVnZ2RHSzNzM0N4b0RxaUhPbW9ocmRrVXVNRWRvZW44QmNJTDJIbzNCZGtfY09WVA?oc=5",
-      "published": "2026-11-16T23:23:23+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -284,103 +382,6 @@
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Women stranded by FAA ground stop buy a Bronco for a 27-hour road trip home",
-      "summary": "Women stranded by FAA ground stop buy a Bronco for a 27-hour road trip home NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnZxRXBDLXNPbDZNME1POVMyOUY3eS0xckwtWngwUlUyY2MyZkx5elVwNWJ3cEN5eUFtb1JNY3J2X3pFMmtOQUZsdkdQdFMyV2Y0U2sxM3hxNERha1E0ZENtNjEyQUZUclh6NTQwT0gzTlNHTVhBUjgzYVlGQmFxaU5uckZxN0NUSXktYzItZ2ZKak8yN1loODNlbGJvU21vLTIxaUxDNi0xaHVEb3JfRmRB?oc=5",
-      "published": "2026-11-16T22:03:18+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "James Bond's a boy-kisser? That time our new 007 Robert Pattinson went gay-for-pay in Little Ashes",
-      "summary": "James Bond's a boy-kisser? That time our new 007 Robert Pattinson went gay-for-pay in Little Ashes Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVNIc05DVFRsZDFpZVFwd0ROTnBzYndWdHdyeV9ucWlad3ZOU0pYcnNDcGZwdGlScjFyT2ZIZ3lLRTI1RlBfa3F0VjRmQTFxNk5vTUxDUW1PbS1IVjNUZ1I1aERaOURXUGpWcWZjbjJlYnJhd2V6OThySE9kWWZFM2ExQ2FReWt5U2YyaUc4SmpvWGYzU2lpaDkyemtuZGFjaTViS0pqa2ZMUWp0WmRBRVFHMFFBb2RpQmk1SGtMWXF3VmJrQ053ak1n?oc=5",
-      "published": "2026-11-16T22:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Anti-LGBTQ+ hate group loses Supreme Court bid over right to misgender transgender people",
-      "summary": "Anti-LGBTQ+ hate group loses Supreme Court bid over right to misgender transgender people Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1Z6TkR1UG9CTFNBd29peDl2eDZtQ0VGcHFHR19UQTFyQWlTVHBtNmhkVHh2Vnpsd0dYblRxdHotQ0ZNckJVWDFYRGtDdEZHMndIN2t6NFlTWkFnRjlSTk56bzBhV0hHNVVvbUlvN0dIYzNNZlBoMmo0bURiVnhZWlpkNWw?oc=5",
-      "published": "2026-11-16T21:28:18+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "“Brokeback Mountain” writer reveals surprising reason she chose to make the characters gay",
-      "summary": "“Brokeback Mountain” writer reveals surprising reason she chose to make the characters gay LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHZNZC1WVjdxVDdNU0Zmc2ZNeGRLcVo3THRRc0FscWdfWXh4bEVUSTE0X0JoMUtOUF9zaE5lMzFJM1VOdFE3OU5ZbW54YXNQWFZEWEJZMjJkbnpSYzc5RENsaHZDNkkzeVRIX1gzbUhrME94ZFdpMXVOdzY5cmxybGhtaHNSMVdnRm5CVWhFMkJHalk2NjV0N0c4emo1WDhjcUZhT0syd1hqN3NOYjBFb1JBM2ZzVkxfeDVOcEpXRXYtcFU?oc=5",
-      "published": "2026-11-16T21:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "COMMENTARY: A choice for UC leaders: Reinstate a 100-year-old test or solve the college readiness problem",
-      "summary": "COMMENTARY: A choice for UC leaders: Reinstate a 100-year-old test or solve the college readiness problem EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGpKc01DN0ZaQjFGQzd5cndXUUpzaE84ejdxaTk0Z0FoVTdTS2cxYzR3VkNUeVJBN2M0dWMzZU9xckV5ckwtNG8xWkgwZERTWHZYT1Q4NFg5aGtrY1huaU9zZWlnZDl3ekczSTZQdkpScE52czQxVTltT2RrTUdkdU83QUktT0dyODlxMFBxeVlWVjV2VHRJakp3TXhVZm96SWxmd256Rl9OQ1NkSjFKRVZSbi1OTmhpaHA2cDZKQ0NYems?oc=5",
-      "published": "2026-11-16T20:34:07+00:00",
-      "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Bay Area storms bring waterspouts near SFO, hundreds of flight delays",
-      "summary": "Bay Area storms bring waterspouts near SFO, hundreds of flight delays CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFlnakUtd0lzSnJoWmwwX3pEZF9WeEJrcUlPS2VqUjY4SUFnd3R2bnBNMk5keHJaNl9jSDJWc2U4WV9QZW1TcU9lOXZZRThTcEk4SzdNZnlQaGtJbktJdXdDUHYyMjNUVlkwWVdrQklBNi00X0xLaUhOQzFrb2RnSlY1YmFvbTJnTmE3VXV1NlhHRnlWV3ZxTQ?oc=5",
-      "published": "2026-11-16T20:32:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "California sues ChatGPT maker OpenAI over rogue hacking incidents",
-      "summary": "California sues ChatGPT maker OpenAI over rogue hacking incidents NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm9lT3diMkJDOXJsTUJ3T0ZXQ3NqcFgxd2RHZDROdWJVaUtHWTNZT24zS3hMN0tRTkJuMFpOOVgwV3E2bDBDdFljYldPQjlHSlpOQmFGTF9tR0ltVkxubDVhaUN3TS16eHlsUXQtNERMeFF5N1lVRVV0N1pUME5sXzVUdWxBQmhFWHJhbXhBZHVuM3h4Ri1JOGNSYzZ4MDRpalpaNjM4c1pveGVFcUtv?oc=5",
-      "published": "2026-11-16T19:34:09+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Widespread service outages at major U.S. banks appear to be over",
-      "summary": "Widespread service outages at major U.S. banks appear to be over CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1d2eVdIR1IwREpOWHRfSlJsSURCZjN1Y2hjQVQtYWN3ejJwWUVaZkg3SXVVRm5FNXFPOTJaZng5UjdvZTh2RElDWnp6cktHTUZTOTg5YWdsY2NnU0tzcGJweVJ3TXdZNERkbUZhOFhIRDZEYWRKYWtmd19xREtBVWJRNXZ0Y1ExYnBKUFFCbkZfT3ZFZnJhZTlHQWlJSXVjSVdN?oc=5",
-      "published": "2026-11-16T19:06:00+00:00",
-      "beats": [
-        "Business"
       ]
     }
   ]
