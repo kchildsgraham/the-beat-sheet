@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:14:21.629708+00:00",
+  "updated_at": "2026-11-22T07:16:54.433507+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,13 @@
   "errors": [],
   "stories": [
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Trump orders federal contractors to check with White House before responding to Congress",
-      "summary": "Trump orders federal contractors to check with White House before responding to Congress NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVVMyejhOQXItTVVVdmVsQTR1SFBGeGVMWUI4enZsYkU1SW9DQ1hSbW1hNmo3SlFkdDBJSl82WEgxVlVGMGx0cUdETWJrcEJWamdUa3ZlbVZsWTUxUmN4REdKOHZrV3NfcmZMaFJneDJXdFFQOUNyYw?oc=5",
-      "published": "2026-11-21T22:40:36+00:00",
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "summary": "Quantum computing’s first real-world payoff may come in energy, not drug discovery CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XQXFDMU80SFRjQ0VRQ0h4T29GS0doY3hpSFZ0NlVzRllna19oT3E5TG5yM2VVdzlFaUI4T3Bseld6MlJiaU5mWjloQno0a254OE9uTmZnbUFGVjBNOEJlS0VKLXhnV0Vhd3o4aWQxLUFtSndTblliZVhPWEJqdTDSAYQBQVVfeXFMT0R2REROU1RjRlFpOVBWdlBUdGhDLWZua29JY2pnSkpiRVFMNTgyQnRybTR1M3U4SW1nSDRFWlowX194MGctb3JfUDcya0lhbGJsYXpfbE9JYTRYY3A3R21FRmpTUVlSR3ctT1M3TW5IblpfU3BzMFVFLXVqUU9MVmp6MWpY?oc=5",
+      "published": "2026-11-22T06:00:01+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +35,70 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Russian military-linked cargo ship ablaze in Baltic Sea after drone strike",
-      "summary": "Russian military-linked cargo ship ablaze in Baltic Sea after drone strike CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03c0w4dmN2aEdLWTBCeTR6eEFtZ1BkSi1SQlV5NS1WVExuUnZJTjFxZDlCRU13U1dmc1lkdjNwM3pVUjJjTktDOU81Qy0yaEVHS2JlVFlnUVRVRWlQbnM1WEQtX0pqYWI0VmJaV2UySkxaTFZuS09XV094R1huQQ?oc=5",
-      "published": "2026-11-21T21:23:25+00:00",
+      "title": "Police investigating whether Titans’ Jaylen Harrell assaulted driver before Florida crash",
+      "summary": "Police investigating whether Titans’ Jaylen Harrell assaulted driver before Florida crash CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ096cllIck0zdE1MWXF6cHM0V21YaTlPSzJtWWNoX1VvRmc1NDJXbkN1QkZwVll6OERZb0N6V2ZwTXJnbTRyMnlkUGlJQjFKcjhvbFk4SVJvazVSb2NEdVFuZlFXbmtfWHVuTmg1QWxDcnV6R1lfem5UenoxTVdZc21RSHM?oc=5",
+      "published": "2026-11-22T04:14:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Kansas City Current capture first NWSL trophy in 2-1 win over Washington Spirit",
+      "summary": "Kansas City Current capture first NWSL trophy in 2-1 win over Washington Spirit CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjRjOWRiUXcyQWIyVWFKUzZmSXhvdjFJNGFHNFhla044R3hoalEtRUFsXzR3M2JHWnlNdFRZdDBiemxyRHJPblRYX2pRRUhfVUFrRk1KNFNaRE83RW1SOEFDYUJiZjlNWU5POUZkOEEwNC1hRG5kRlAtQ1UtZl9wYURqWUZkcTNOeDVpczJR?oc=5",
+      "published": "2026-11-22T03:35:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight",
+      "summary": "Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmN2WGowYmtXVnBSRWtCYW5ROTRlOW91ZXBLd043aEVDU1lHMkEzSDJ0d01rN0Y0UDI1ZFE4RnFUWGVxbXdVM3UxMWdTUDVwSC1SS0JTbVZYck1fRzA2bzBKc0wtMWxtRExtTGxBUkxiSWM0NlhFdmNlcVVPU1Y5OU5KWWg?oc=5",
+      "published": "2026-11-22T02:36:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Paolo Bulgari, who turned a family jewelry business into a global brand, dies at 89",
+      "summary": "Paolo Bulgari, who turned a family jewelry business into a global brand, dies at 89 NPR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNWFVJMjFkYnB5d2FlMEtjbTVLVUIyRnpBekgtdXdoOW83akl4OVRYN21sbGtLQkdEZ0tHZWoyaC1oYmc4UzJNbkRXS0dodXI5WDlDeHVZZWQ2R1NvZVpDVTBrM0ZMaEo4SHp4MmY5bDI?oc=5",
+      "published": "2026-11-22T00:04:28+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Thousands of Gen Z protesters flood the streets of Europe",
+      "summary": "Thousands of Gen Z protesters flood the streets of Europe CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vcGMyREN3VW5DbWhWQm4zYmpDN2VOS0N3MFR2ZGVHWUItU002dDByM1gxckQ1VXFoMWRaamZNaTZuODQ3VDFwRmEtWVN3aEtVOGJxOFo3ckMyTFV6U1Q0bEFmbXFIT0ZCdXUxWERUaVQ1MWpVbGtOdw?oc=5",
+      "published": "2026-11-21T23:40:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "summary": "Trump orders federal contractors to check with White House before responding to Congress NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVVMyejhOQXItTVVVdmVsQTR1SFBGeGVMWUI4enZsYkU1SW9DQ1hSbW1hNmo3SlFkdDBJSl82WEgxVlVGMGx0cUdETWJrcEJWamdUa3ZlbVZsWTUxUmN4REdKOHZrV3NfcmZMaFJneDJXdFFQOUNyYw?oc=5",
+      "published": "2026-11-21T22:40:36+00:00",
       "beats": [
         "Politics"
       ]
@@ -56,6 +116,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Coastal flood advisory for San Francisco Bay Area extended through weekend",
+      "summary": "Coastal flood advisory for San Francisco Bay Area extended through weekend CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkZFZnVOX2lNQ0FKazZxMUNFVE53VkVXcTd1Z1VNUGtZbld4UDJHUnEtSkdRYzNacXVIam9PZENYdjd0cDRHSGVJTnNMM1VMOGFFQ2lYX09wTFhVS0FPbkZrdF9OSndiUk1iUHlOWjFlbm5pdnBpeDFxSjRDS1dDdmpHQlFJZmEya3EzazY2U0RBeE1QNWhvMnYyNm5oR19uZnVjN056SjU?oc=5",
+      "published": "2026-11-21T19:53:30+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -68,18 +140,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Biden-era spending law found unconstitutional by federal appeals court",
-      "summary": "Biden-era spending law found unconstitutional by federal appeals court CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWNZb2ltVTk0b0hUZzFPTElpNDEwdDBpZ05BMzgwMDNqR0F2MW5SR0I4a0RNX0lzU1dfLXFXeTlaY19fa1hvU0RJdmRpV0dsdWN0Q0t4dzVucGRIbGJSc2Z0bWdVaGk2LXB0TjRMVE1lZ2Yzd1R3WXdoSFJjbjN0MjNVOHBYeEt3ZWt4MGhrSmsxWFU?oc=5",
-      "published": "2026-11-21T18:58:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -87,30 +147,6 @@
       "summary": "Lock of George Washington's hair sold at auction for $4,000 CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6TWlyQklTb3dyaWNnemlxUUZFMW5peE95eldCajBTQ0R0TGxPWUFzblZZUm1uTWVEdkVob2daWVpFSTJ0SVloNDBOTzE3MHNucEszbm9pbFpXOVlBUHJpVTUzRExpTU1xa05iVFBtMXRraW1lakJv?oc=5",
       "published": "2026-11-21T18:54:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-      "summary": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUduVnlxQ1RUUG1Id0lhMHhXUnd1TzNRTGIwS2hCV0NFTWJSdlJXTkNLNXZyR0pfYnZMYUhraE9rS1RoN0ZmR3dDODJmakp4b193T1dBWFR1MlpJTXBORXpNMVB3N0I3U3UzOXFVWDh1ZEJVZ1dtU1RUUko5WklvcTYyN0s1ZTVH?oc=5",
-      "published": "2026-11-21T18:08:55+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Trump directs federal contractors to coordinate with White House on congressional requests for information",
-      "summary": "Trump directs federal contractors to coordinate with White House on congressional requests for information CNN",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1JhZV9CWnAwQ1RGWFVRTmN4V05CbUtfcHMwd2NibmtfVFU2X1RENW1ia250c3laOXEwcHhPTThaWWZXMGVzdU1BTUdHcm5lSlhZSktrd3dRbnBfU29YZ1NXbklaZDlWWUI2REdQVFNFYWdiNHlVYlhlc0YzY3MxNTd1cFJ5dzZOYnFYLURmODREM3NhdnlhcFNnMS1YU1NCWEN2UjlrOA?oc=5",
-      "published": "2026-11-21T18:02:38+00:00",
       "beats": [
         "Politics"
       ]
@@ -155,22 +191,34 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Tech outages are fueling a new doomsday economy",
-      "summary": "Tech outages are fueling a new doomsday economy CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmVDdkdkhjMVlqc3c0Q21Tb0I0bi1TTHdvYVhDWm11X2t6eTBoUzlTWGlYLXpNTlp2bGNnQ3MzSVc0WnBQbkY3MHVzRVpRRHFQQWlEUXlOcE5yQUV2T2ZnVWxlQkt2andiXy1rSm5VTG9VamtvRUpLdjN6U2M3UdIBgwFBVV95cUxQZ1c5SEFMOURPekZKQURlaG9aTTdEVjZFRi1BMnBBUkl5Skh1d2JKY3d1bndKLUpXYVdtNWRHWEM5SHpEOVI4cnBheS1tZTl5cXpNRk53WXktSUlJcnRkTG9BMExxOXJ1QlpoMjdzblZJeTdWcXJ0c0p1MFdQR1VzQXhObw?oc=5",
-      "published": "2026-11-21T13:00:01+00:00",
+      "title": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty",
+      "summary": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0azZHYWVmMW8wWXhacnh3MXFIZTQ5dGtJRmZuUmlWRWZxbWRCZ3RaV0Q3RUE4QWZJZHY0VnVKRXRMbTBVbXhGQW1mNHpvTE1vVkNFbFdiZ25fRm5lbTVEZFZ0Z0dfSTRuOE1uaUp0Z9IBdEFVX3lxTE5iQmt0dU1QTDhQLWNtLTJla0cybFkwQVBuLWtraVItaXhhamgwaDNBWlZTMmtJeDFHSVpSR2xab3hKV00xRlo0Q0RxTTR1bXp5YjZtbWVFNThHR2dsVW8xdXREVExUVHZnQkN4YUI5NndyTE1L?oc=5",
+      "published": "2026-11-21T14:30:02+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-      "summary": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
-      "published": "2026-11-21T13:00:01+00:00",
+      "title": "Black Friday Deals Are Already Rolling In — Here Are the Best | Reviews by Wirecutter",
+      "summary": "Black Friday Deals Are Already Rolling In — Here Are the Best | Reviews by Wirecutter The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlhKSDZnYXdKeFJFUE1KcW5meW9KZFM4Sjc0ZmZ3MVY2ak56ZG1EYVhzOWZpNFZfcFhkMWo2cUdsU2M5S0pramYxRzM5bVlCdzJqYnd3NjBWSkJaMl9OSmM4cVFMVnJTMVluVkVlMFpYaVZUdmk4MWVmYXd3eDdseHN2YVhybGJI?oc=5",
+      "published": "2026-11-21T12:20:12+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+      "summary": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTR4anpEVkluM0VyUnhEemgxdHk1MGp6bTdPLWtVMUZ1Nlh2MktQQzdwOGtWUmVzNkRHMC0tVS0wWk5Db2dEdGdJa3Z2cFQxdERkTW1RRHBPZU54X3dSaHNSZVJad2pvMXkwY3dPMDRfZU1WMFhyUDhpSE42THVhNzZYTTdpVzBscGlXbXNJNHhKOEo3SS1V?oc=5",
+      "published": "2026-11-21T11:20:34+00:00",
       "beats": [
         "Politics"
       ]
@@ -195,18 +243,6 @@
       "summary": "These emotional Club Kid reactions have us fully in our feelings Queerty",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1RpR3d0aGI3b2JNRW45akdpNzJMZXRWNDd0a2JRNG9HZF9SZUJXc1dNY2pRNVoyWDZxa25tZjRmSHJIX2tIakRfei12N2g4ODc4NW4wNktQbDdSWllMYlRFaDRuX0trZnRsdjUzYmNmbTJnSGdtX1N0Z1Bpd05PZi1hdzhwT2NGQ0NITnY1Q0w5ZG9hMFJqZkFZVk12QWs?oc=5",
       "published": "2026-11-21T01:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News LGBTQ",
-      "lane": "General",
-      "title": "Person hit, killed by BART train at 24th Street/Mission station in San Francisco",
-      "summary": "Person hit, killed by BART train at 24th Street/Mission station in San Francisco CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdDk0Z0ZWVlNGbk90bHdYTk1RdzhaWVJUbUZIbDdEWTJLNEp1SVotY1g1eV83aVltbFFmdG9XYVZQOGowREJkOHp5dXlwRUNtblpyUndzNDVjVGRvZGZrdDZPS2xNZVJEdTNtc2M3dnhxZDRmVTNNY3ZFdWE0VUR6V3hoZjVaOXZYcDdRRVIzeDc0bGN0TFZqc2JwOHZPaDFzOE5LSWRB?oc=5",
-      "published": "2026-11-20T22:50:00+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -323,6 +359,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | Woke 1 Was Crazy — and It’s Still Here",
+      "summary": "Opinion | Woke 1 Was Crazy — and It’s Still Here The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wdmx4bjI5NzVKQTNEeEx1SWJKME9zNTcwWXFHcERRaE5xbFp6V25vVDB2LTBvMjZLWWMyRDVaZFhaTU8yby1oRVA3and5Tnc1Qk1La1VPR2tKZXpsTFVJU0tGZGxXWjJQOFVVUWlNMTNBUi1Ycy13M1ZsazMzaFE?oc=5",
+      "published": "2026-11-20T10:01:44+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -332,56 +380,6 @@
       "published": "2026-11-19T22:35:54+00:00",
       "beats": [
         "Schools"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Senate committee’s FY27 plan gives Education Department 19% boost",
-      "summary": "Senate committee’s FY27 plan gives Education Department 19% boost K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQS1lSnNNeTBhRzRRRVltb04xTmlKWTJFdHlxczlzVHJzWWpsei1qNWtQMWxJUzl1WnVJTDJLQjlfVEJxU1pzMHg4MXVSdG5vaEZ0Q0piQ0d1bkdud1Q0N01oU0dPbi1LTkJGaFhrc3h0ZmdnLV9YZDFPUUpsUTRBTk1ySmVUdnNJWWtCODZpQjIxS3FOVkg0Y3l1ZGFnRnpaUmc?oc=5",
-      "published": "2026-11-19T22:35:54+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Sonja Shaw’s final act at Chino Valley Unified: Passing a ban on trans athletes in girls’ sports",
-      "summary": "Sonja Shaw’s final act at Chino Valley Unified: Passing a ban on trans athletes in girls’ sports EdSource",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03d3ZsaUxyVms5bHlfZzFSMGg0aEhjdllTZ1VsQ1RjUEszMW5aVVhtU2NpbHA5anZ5czUwMW4tWFhCa2ltaTVkWnJGMlFZT25HdDFXZGpDNFoyanRMVDl2RXRoMWhlM2h1NWtJV2M4UG_SAXhBVV95cUxPdUhpYmtXaGxUS25sc3Rkcjgxc0cxYTlCaHdSSmR6Vk1mQzFVRUhvbGRFYWlNY191UUVjdzRUZEdVS3RmX0dNWk1jdE1QMU15S2tQblBXTVI0dGI4RkNwUFFJeXp5TWlpdkRWWDcxdlBjWnVWaTU1N2Q?oc=5",
-      "published": "2026-11-19T21:19:30+00:00",
-      "beats": [
-        "LGBTQ+",
-        "Schools"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
-      "summary": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcUd2V0pYbFFZeXhBYTVxNERSVXB6ejMyNjFFRUN1eEhhTUNEb0RoS2dLQnZMaWpEaERJTmtWaDliVEZZR1Q5RXVERjlral9qcHVDcjg5VGlzYkNXWG44dmdrX0ZCczZuVnctTkJoSmFvcHozejRUQmpRTjdrZFU?oc=5",
-      "published": "2026-11-19T20:58:20+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "My boss canceled our 1:1 so I could keep playing ‘GTA’",
-      "summary": "My boss canceled our 1:1 so I could keep playing ‘GTA’ NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDFfSmhVNmlxbmgyWkVKTUZxdkpQaFFnYTVvNjBmNmhDdlRpaVpDQTJYWERZZDA1bTVKWHVibWpKeWxZZ2FnQUZRYnp0MUFRV3VlWnB6Mi1KYkFQSmxjbzZmYXBTOHA0QnNWdXI2UWJxS3psVDNYajZZbjRKdTVYZFdVMEU3MXktNmh2T3VHUnlORWtkd2FlbFNMVlhlRmNyVlhrWGdyN2E?oc=5",
-      "published": "2026-11-19T20:00:26+00:00",
-      "beats": [
-        "Politics"
       ]
     }
   ]
