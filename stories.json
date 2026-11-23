@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:35:46.391608+00:00",
+  "updated_at": "2026-11-23T02:20:48.168748+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,37 @@
   "errors": [],
   "stories": [
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Delta Air Lines experiencing nationwide delays after baggage network system issue",
-      "summary": "Delta Air Lines experiencing nationwide delays after baggage network system issue CBS News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0Q0SXI3RkNncGdISmZ2WVNnbDFTWnJsbHUzQjljNGEzUlk3LVNRcXdVUHJ3NTB4N3Jhbll0LTl3TU1GUFZzWXBfSEdxVTFpTi1KVUppYUI0WldwWHdoWXA3b09tTnB4V0o2azNId21pS1hmVEUwQmRyN2pnZW1LVGhCdmpPMlZGLTYxUXJBMmJIeDk2SGdtTElPbHlhQQ?oc=5",
-      "published": "2026-11-22T21:01:05+00:00",
+      "title": "Ukraine war spilling into NATO territory",
+      "summary": "Ukraine war spilling into NATO territory NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFRDMDZFOVFwdGd6UWJxTW9EeVdKN29TR0ZNZk9ISEdpUFpPZTBaQUhBYlZFUDBRNkNrTkJQWDBZeWFMMURYSm9MZkdLZEp0R2tFN0ZEVVRmT0ZqMW1hczVENlYtM0U1am1vcHA2dEx3ek4xdjBYUi1KMDlpVGhyWFZTTE5fX1VtZm9FMHlR?oc=5",
+      "published": "2026-11-22T22:40:22+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "Philly festival-goers say pickles are a real big dill",
+      "summary": "Philly festival-goers say pickles are a real big dill NPR",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3JtRW4yZUZZYjg5RWs1VUpkVDJjRWZRQmxmUXU0aTFDeHNtbkNkcDh6cG0tRDRUOGRiNElTWkNPcHZhaEhZUThTRHVGMDg2UXN5eGJOS2ZKSkhobEdZdDF0Z3ptQWRlSlBfZDJNOHRDUEFrMXZheTZFc1JRd1ptNzBQbllmVWhxbE9wTWUtS1BONWxnNDQ4NTRsNGpiTDg?oc=5",
+      "published": "2026-11-22T22:40:19+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters",
+      "summary": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB?oc=5",
+      "published": "2026-11-22T21:14:10+00:00",
       "beats": [
         "Politics"
       ]
@@ -44,27 +68,27 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Democrats win largest House majority since 1992",
-      "summary": "Democrats win largest House majority since 1992 NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTlBU1JmLURBUE9VNU1CR2xVQVVBMjFPRVZ6NVdCRFNvYVVJUzUxVThLQWdoUUdBYWFnandLaEpBU1EzR2JnYmVLbXduYXAyQXljeGxZNEdTQmpRd1dWTUZ1cmVWNkE5WXJOSmRDQ1ZZdUdaMmJTUUhmMURUNHpIcUFTLXdVbUhzcTBobjA3Wkl3eFhaMmszZWhNU1dLYzhmTzRSWWNQMnJMLU5QMXBxXzN5UzhOUGZpX3c?oc=5",
-      "published": "2026-11-22T19:23:17+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Matt Parel talks Ironmans, gay muscle & his favorite sweet treat",
+      "summary": "Matt Parel talks Ironmans, gay muscle & his favorite sweet treat Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHpfeERkM0pSdTByX2hxRl9EclRQNEpOb3dNM3BCUEo0N1FLLVpWd28tVElFREZYUEJIZ18zQktOS1NjdXJndklxWFNZYU4xUV9tcDR5cExzbWhWTHlnS3lzMXlOajBodVlqTGNGZ2pkb2d3OGhVYS03WEtCbjh4d3dxUl9mc0w3Y1F6U0hXNmVwenRxdThV?oc=5",
+      "published": "2026-11-22T19:00:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody",
-      "summary": "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SmVrN25Ld3U3LXVQM2xwR2ZyaV9SalpVTUZ6bDV0bGFheEVEelZXUzAweXEzSkdvYkliWjNkMEhkLVozU2Zfbzg3OUdUM01aRjFLSEhnMkd2OVdOT3I4TFZXTzZMWkRaMlhN?oc=5",
-      "published": "2026-11-22T18:49:34+00:00",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "summary": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0RDNndpWF9WMmU5VTlkSmJQRXVDTFpxbXJLQlYyTW9vR1FVYl9VYUJsZ2Y3eVJKdWJ4NWxMMV9kLXR3YndXMTJHTzBXRjRnVmYxclQxOE5xaUNjUVgwNnY1dk5fdURkX1liMElsS0lZRmFheUdoeGxsdzdTQTQtRW4teTZLN2tEQ0NTaTZwTDlRdkhySFV6eHBJdURrUi1IbXfSAacBQVVfeXFMTXNEMWRjMG9SMmJTbWpfV2Y0bGx3S2RyRTFERndfb2M4N0FCUEx1dXZLaC1FYmdQR2ZDbnFsa09kLWdKWlNlYnVhXzBiT3FfRG1VUmF5RWZrUjV6QnRKTTBEYjJpRGY3UW43cWdlR3BiTnNTbXQ2Z3ZOcHBJNDNWeEFBODJ0Qnp4UG0tRU1xelRuamgyUVA5STg3U3ZBV2FIckVYOW1ieVU?oc=5",
+      "published": "2026-11-22T18:55:05+00:00",
       "beats": [
-        "Politics"
+        "Business"
       ]
     },
     {
@@ -75,18 +99,6 @@
       "summary": "Lebanese villagers return to wrecked homes as the Israeli army pulls back NPR",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORll3ZkNWTTRuZ19vOTViOVlJZXlXczJUa0ZOWmN6M3JSVVlQbmhhZ0FsTTFrQUE4VDhDbjV6cGNyTVNOSnZxTUF2Z1p2NmE0MmhweGlLelliRnY2RkhUalpwWTgybUdsYWljc200MmFoWEFlbF9JWUJGZXBlREdJdTg3Q1Etdw?oc=5",
       "published": "2026-11-22T17:44:52+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Everything just changed for potential 2028 candidates",
-      "summary": "Everything just changed for potential 2028 candidates CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEeUxtTXRuME1xZGZvcEw3RHR5LWhUWEdZWG1BSHdmYmI0bjlYMnFEd1pNLU5RTkU2cGduLTVmT0c2Wlh3TExzYWZyUDFIT1g2WFVYa3RVUVhUbkNiMXk1Zjc3eHBvRGlTUF9jUlZNRzlaTlVvZmdidnNJSld4Yzg?oc=5",
-      "published": "2026-11-22T17:00:16+00:00",
       "beats": [
         "Politics"
       ]
@@ -104,42 +116,6 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Intel Chief confirms China got access to US advanced AI chips",
-      "summary": "Intel Chief confirms China got access to US advanced AI chips CNN",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVPbGVLM3lXWERwcThxRUxieDdKck1UQXdpREVJVkpoam5MaDNFVWd2ejZ3ZFFwZkFtSjU0bnFMQ3BCLTF1SXdIWGR0dHR2c3ZYdTVTamdoZ3RLZUtRZ3JUV29MYkgxa1YxdjFobWt5Q2FBY1BRZ1ZHckxoY0s4Qi1ibkZiYmJzbk1HS2lOYzM5SHZacVpwcXQ3UFR4M094TGxFT1RXSTFvejQ?oc=5",
-      "published": "2026-11-22T16:53:42+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Delta tech issue delays hundreds of flights in and out of Atlanta ahead of Thanksgiving",
-      "summary": "Delta tech issue delays hundreds of flights in and out of Atlanta ahead of Thanksgiving NBC News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2dWU05JdFBhUXJCXzRiVm50dUJESE9oajlGNE5XaWQyXzRCQjlGc2NYbjNWU3hYWEMyNjJaay13alJTSEM0QUJCZklGMWxHQldBMDlNMmk5RjRMV0dyS25QVjBBOEd4WnFDZVZfdHU0MVAtRUdSVmhJeXBLYmdoVFJVWDRYVlNIZnJ6bUdR?oc=5",
-      "published": "2026-11-22T16:38:25+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "summary": "Climate change talks fall apart in final hours over fossil fuels NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
-      "published": "2026-11-22T16:33:22+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
@@ -147,18 +123,6 @@
       "summary": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages CNBC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0UyZUdJbmJyV3E2MkFmMjlaVU43ZXItWDZNd2JtdVFKcGEwMlNENHpLdWJ0dGlqNk5iTXhvc0xXRkI5TVhzSHg3bTFTdzN6MkNkT1pnRktNRWFFazZCTkQ2dlNrZGhjTGI4cWxKaDhKbTg3R2dSbXE2N19aU2plcktMUGFNYmpqLVdkbkVLU3ZDd9IBlwFBVV95cUxQRmQ4Rjd1WnZHMVZWb1BKNTYwWFdzV1JRWWY3SllzSm5EOG5yZjlvNmhma0JEUWhJbHIwNkxHUGZfTTZqUHVQV0ZyR0JfQmx5VFNVR29OaTByQ1VhS3hmVFdNUkJlUmlnbElzSDNXc3Y1VjNkdm9nUTVOTUtYdUNsWHdNajJ5eGhPZVB1Uk5QMmZ4VzV1Q3Fj?oc=5",
       "published": "2026-11-22T16:17:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights",
-      "summary": "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB?oc=5",
-      "published": "2026-11-22T16:09:17+00:00",
       "beats": [
         "Politics"
       ]
@@ -173,42 +137,6 @@
       "published": "2026-11-22T14:00:01+00:00",
       "beats": [
         "Business"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-      "summary": "Pizza chains are under pressure. GLP-1 use is only one part of the problem CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13N011dHVFTHhsU2ZqdlhIUktCVTk0QWt6LW5VVkhMUUQ4Qy0xS3ZUdE0yMGx1MXFRNFFkX3Z2MC05aVJoM1lpUEh5SmtZVWdOSGhtOTlfZWM2dklSQm5lb2VuaE9ETDJmR3dqZ21BMWM0Yk1hSmVj0gF8QVVfeXFMT01JWkJ2cWpNUHRTRWpDQ215eGpvNC01TTlnYnV5bzlsNzhYTzBWMWw3MWpVUnNESEhLZXdKc3k2dDcyZHhsUVE2clk3N3ZsUkVCOGFtVnJjN1JIelFKMC1za1dIcGZVb3RtekZBVEpBU0tYM05NMTFpeUtuNw?oc=5",
-      "published": "2026-11-22T13:00:01+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Sunday Puzzle: What's the only...",
-      "summary": "Sunday Puzzle: What's the only... NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzME5jT1pmX2xiaXR3RV9sVndHMFluNG1mQjJaNTJydnJHWW85RWVwN1V6cGRtenRIcnhvRG5mV3RwTkhVYzZBXzBOS3NJaWV3NmpYUXg4c2sxczlGb2dscHMtRmhWZ1RUdFpqMm44VUoxTzFqTlFlR0Z3Yw?oc=5",
-      "published": "2026-11-22T13:00:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Opinion | Why Are We at the Mercy of the World’s Weirdest Men?",
-      "summary": "Opinion | Why Are We at the Mercy of the World’s Weirdest Men? The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTlTSGV1LVp1YmMtZWNyX3NTZUZWQ2lTTTBwRTdZTFJTdWlmTEdXckktdDZMMkotNXBSeE56TWpyRUU4VzJlZ09oS1dSaHdjLVdTYl9jekhkc25zbFp3TGtZNFBEc2QwOVVXOFVydUlhb1JRUXE0UFYtQWJqX3hXUUd4RlNrZw?oc=5",
-      "published": "2026-11-22T11:00:23+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -236,6 +164,30 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Bethune-Cookman band marches into outline of person on the toilet to roast Florida A&M",
+      "summary": "Bethune-Cookman band marches into outline of person on the toilet to roast Florida A&M The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1ZLNkxreEVTSFB4TEpxcVFHMWtQYUF3TERSVFJjMEFJVVhYYS0yWExpWFNDNkpQNHl0OXp0ZHJNMjlHaEczZG5naWZFNjBUTzVKWDltc0VCaWNoQ3Jmel9EUzFWTEFGaWxJXzctZmJZbU9aQ00tVXpsQVNMeFJ5RGhVaTdOMXYyTDBpdUhWUk1MT3RYNU0yeHM2VXdNRlFB?oc=5",
+      "published": "2026-11-22T03:51:41+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Coastal flood advisory for San Francisco Bay Area extended through weekend",
+      "summary": "Coastal flood advisory for San Francisco Bay Area extended through weekend CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkZFZnVOX2lNQ0FKazZxMUNFVE53VkVXcTd1Z1VNUGtZbld4UDJHUnEtSkdRYzNacXVIam9PZENYdjd0cDRHSGVJTnNMM1VMOGFFQ2lYX09wTFhVS0FPbkZrdF9OSndiUk1iUHlOWjFlbm5pdnBpeDFxSjRDS1dDdmpHQlFJZmEya3EzazY2U0RBeE1QNWhvMnYyNm5oR19uZnVjN056SjU?oc=5",
+      "published": "2026-11-21T19:53:30+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "Queerty",
       "source_feed": "Queerty",
       "lane": "LGBTQ press",
@@ -248,15 +200,27 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "We’re spotting these cute, freckly gays all over social media",
-      "summary": "We’re spotting these cute, freckly gays all over social media Queerty",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFA0anZpNkRzTENlSXpHYktZd1J1bkVheEpxR1FwdWF1WUY4TnhCZXloWDdsWEd1M1l6OVRoeWVCMGZBUkk4Z1J0ODlHSkl4Z2YwYk91SExrRFJnbFlsRmUxV18yMmxMOW1pSHB6Nk5DSTZFbXdfbzZCUzJiNXdldHpURm9jbTNZYmhmSDBBWTFreXFtRVBtaw?oc=5",
-      "published": "2026-11-21T17:00:00+00:00",
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Trump's new executive order tells federal contractors to check with White House before responding to Congress",
+      "summary": "Trump's new executive order tells federal contractors to check with White House before responding to Congress CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2l4VUF0TlRNN09mYUJmUnFaWWx3Y3JIOU1rTlBZNjRYU1lfaVd5TE9FZGRUODBLaHVWTWlBZ29XMlZBLVFoTTBNRWhaZFFqbVJpQm9SMU1RWXFMRC1uUWk1d1dpWGNEMzlWcUxDY0JRUTBYUVJ6Ykh0N1ctejZ1ZHdzeVpSZExtTW96b3ZZU3hGLU53REIw?oc=5",
+      "published": "2026-11-21T18:33:46+00:00",
       "beats": [
-        "LGBTQ+"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated.",
+      "summary": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjhEYkRqdG81LV9ZZm9ScHRKYTUybnFBc3NHOWQ2dTFCZURHem9fMWVKWklZMXRvNTlodjgyWm5Ca0NfLXFZWEFOdVl2LTdmODRmVXV0WERkNklXM0hPMnRha3ExS1FNS0cwM0FBcVJDbzVoS01ib3N4Wm92YWJHSUdTTVFyaUcweXVoTUU4Y2N4WHB3d0hqSktqWTRXSi1pMUs0amI3eWJwdGVUWVhjWDBHRm1tZVcyS0IwMkl5Q1BzYTNt?oc=5",
+      "published": "2026-11-21T17:00:42+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -272,15 +236,39 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
+      "source": "CNN",
+      "source_feed": "CNN",
       "lane": "General",
-      "title": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’",
-      "summary": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’ EdSource",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnVjZmRnYXJRcWdVM3lrQUh3R0NDQ2hXckhkdkdiVWlTbHRIbGJ2SHNEMS1YQ2NvVEhoSUN1REpiZWRvQUFoOVVtZzVvaE9wWmo4a29VOG1WTXJ6ZENoU2t2cmFjV1hPdFpqSDlKSy1WWW5LTXdlWGVoblVMY0J5bUZXUEt2SVXSAY8BQVVfeXFMUDdMdHFOY2VaY2Rla3NjRFpyME5qRVJPUllJOWpCSWNYSWxtQ3d6SUNBZ3ZHMEg5MmZxdnpldDQtLVFaRzhicnZaN3lTY2ZqdXhncVlhVmJKU0RaaXI3TFBuenp0YS1sLWxrcTJYQkdQWFh3dS1VbHRZRHV4OVZQckZvcy05NHB5eS1xRWljNEE?oc=5",
-      "published": "2026-11-21T02:03:38+00:00",
+      "title": "Cartel kingpin on FBI’s most wanted list captured in dramatic Mexican military operation",
+      "summary": "Cartel kingpin on FBI’s most wanted list captured in dramatic Mexican military operation CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQVp5T1dTdUo4czdNRG5OS2RWZHZUNXJKeXdCaHA4VXRGT2FyNTdZOUd5ZlVEa05RQjdmZVE3UEg5X0FyLWRza1czYUdLS3ZXQmdVb041bGRkUHI1M2FXclZISnlWbTdldVhNeTFHZThwVFJUblRONHVuM0JWUzh5NDB3UnBPUVBBVGc?oc=5",
+      "published": "2026-11-21T07:20:54+00:00",
       "beats": [
-        "Schools"
+        "Politics"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Trump formally ends minting of the penny after nearly 250 years of production",
+      "summary": "Trump formally ends minting of the penny after nearly 250 years of production NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFFuSldMRHpLcWlKVG9BLVBNeW9jTVlZSjlhMnhyT3NDRnUwNGI3VjVGaF9HOGprV21BdFVoc1hoMm00bV8xa3htU3U3SlFBekxLOXBfblMtU0VfYmRJS1lCdjRtS19Wemt0V3Vzb3VGNEp2UDR6WG8zSElOMDNFNnZIZ0VDTDdNa2ZJLW1QclJnSTBBN1BWdzRRVzNoTWcza2JMMUpDWEgxNmcwYTdmUXMtcGRBTlJ0?oc=5",
+      "published": "2026-11-21T03:32:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe",
+      "summary": "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0g5VzlCaTl6eVpnWXotSG1yRl9ZdUIwQ0FLT19VMzhLNVBHZXNxVnBvTE95LThrSlJVY0sxc3o4QTkzRF9QdzFyLUpBX1pacDZUVHJNVTItTGZzaEhtc1pudXJ1c01vVEtQaDNrS2tOa2RHZW9zYm5iT3VzZWZ3RGpFazV5Ymd3bEE?oc=5",
+      "published": "2026-11-21T02:12:00+00:00",
+      "beats": [
+        "Politics"
       ]
     },
     {
@@ -316,6 +304,18 @@
       "summary": "School nurse group issues call for measles prevention and response K-12 Dive",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOU13UmNpVncwUzgzeHV1WjE4WWJEWGEtYXJiQzlGM3Z2NktQNEdHMEUxa3FFZXpVbnFfNlYwdkZZRlg1SDctSzBLRHA1dUNpYzBlOEZZMmpBYVZ0SVdYVXJQZ0Qyb1FmNW1PbHF4N3VpbDRKZVVvSXVOYngxM1JubGhlWVRfMzNyLXJSUERuajQ1UXQ0UWRxa2ZFeHBVdVJOeHVr?oc=5",
       "published": "2026-11-20T22:40:55+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "Student Voice and Agency Boost Engagement. How Principals Can Build Them",
+      "summary": "Student Voice and Agency Boost Engagement. How Principals Can Build Them Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWm5VNFFQaEkxaVJqNXIzZ19kcm0wQ2t6eEl0a0QtMkF0Yjd6OXZseGo4eURvcXZoMGIzUENRTjYySzd6bFVaSlc0cm01SmhiSHpfa1FLU0Y4THlLUXY3MjdYcDBjTDFvSGNZVFRud01xd1VvOUpIR1RsdkdxYjRrdVpyX3VQTkRUeThpR19renM2Vl9MNFhyU1JrTld3OEE0SVlFZWZkMnVIS2R2ZXFlRXMwVQ?oc=5",
+      "published": "2026-11-20T22:18:21+00:00",
       "beats": [
         "Schools"
       ]
