@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:57:03.512847+00:00",
+  "updated_at": "2026-11-25T12:29:23.053508+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,50 +20,37 @@
   "errors": [],
   "stories": [
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
-      "summary": "Trump open to pardoning Jensen Huang if needed: NY Post CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TXVvak1TQUc4N04xX3d6OUwyOWdBTkdoX2lQTXlJVVhJX3pOMnJlSHJoY0RBNWxzcVhNSnpmTDNlamN6ODU4SE82Q2k0d2xTN3F6WXY3S1Y3b3FGTVhLaDVxMlZ1eUJMMmRDNEw0Wmk5d9IBd0FVX3lxTE1LbmFCUzFidnBiRmxpM2dHWlRfSFI3ajhIcDhVN0t2R2hjRXJ0c3pVYlJ3VURtTE9vRHdmUFR1c1dBSlN6SDRqOTlKRUxtajZzN0NRd1dSZTlPUVA0VlRiNG1zaDloakIwOW5IaEhOXzNUdjJ3eEh3?oc=5",
-      "published": "2026-11-25T02:09:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
-      "summary": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
-      "published": "2026-11-25T01:46:00+00:00",
+      "title": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+      "summary": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences CNN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52c3JDajhQZ1R2d0RKejhxZDhrZ0QyXzBvWDVNSHFaMzFiV2dGZGZKbjdvZHNUZ3N2U3RGOVV3NHg2bm1CZUpkaEgwUkI4cHlhNmMwa3VDV0liSVluaVZZMnNpbnFRQTNaenc?oc=5",
+      "published": "2026-11-25T10:00:15+00:00",
       "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
-      "summary": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
-      "published": "2026-11-25T01:22:00+00:00",
-      "beats": [
-        "Politics",
         "Business"
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "NPR",
+      "source_feed": "NPR",
       "lane": "General",
-      "title": "Kilmar Abrego Garcia, who fought his mistaken deportation, is leaving the US voluntarily for Spain",
-      "summary": "Kilmar Abrego Garcia, who fought his mistaken deportation, is leaving the US voluntarily for Spain CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcG1HVEl5OFFJbUMtcllrTmlxUlRUdXFjTkNiOXBJVmc5TVJ0eDdiUFVJX3dMeGpOR0N2UGRKVGgtMXdqY2piOFE5WGpaTkR3YTJva3EyMWtxdzJ4QmZBRm05TGF0NVRoOWpJVHdwMlpta3FVZWU2aWU3MXZQckMyLXhXd01PZ0Nwam1CTw?oc=5",
-      "published": "2026-11-25T01:07:00+00:00",
+      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+      "summary": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis NPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1hQQWxIYlhFQnZNdXVRN0Zaa3BaV1ZIU2IyRzJJV2xXb3RtUVhqeHRBTEl6MUFOSldOMTBMWENLZldIWkgyYkItaFhtTTFvTW9yMjN3RWMtOE9tUFNrblQ1RE55dnRQSTMyUl9XZExPczBWTzI4WjRXcnQwdFc5bF9FQ1lGQ3BsczUwcUdvaThYLVBp?oc=5",
+      "published": "2026-11-25T10:00:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "New balloons will fly for the 100th Macy's Thanksgiving Day Parade",
+      "summary": "New balloons will fly for the 100th Macy's Thanksgiving Day Parade NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0JPVHBSYmtEdVZlZmVlcnJaVzNGU2lJYk80UUZSZEJ1SlNnRFBQUUxVRVdla3VCZzRlaHIxOEhPeE9XQXhYTUJMQ0k5MUhXNzJnOTduX01PQ2hJb21PLTFXZHJZRm9hdHhyWUYzZ2VHQ3lybVBNWG9Wd2EzWE1zOHlmSkswNERVWVNIUjlsRWQ1bFE?oc=5",
+      "published": "2026-11-25T10:00:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -72,12 +59,96 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-      "summary": "Wednesday's big stock stories: What’s likely to move the market in the next trading session CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmlEaTc1MGdfaXZmQlVpREVFeXZzMnpjQlExR1JJcmYzanRKNl95TXl3X3dzb1Z1elo3TG15YnpjQWVqUl9rTC1zQzl0RGhWV19HWUtSMVp4Y1JTcThFUEtqMnVvLVRaM19JQl9taU5vemRvR0ljQUpYRXF6bnJVSzJ5RU9xNFVfaEMtLXJkRVBIcFJtdnp3MEtaVFc?oc=5",
-      "published": "2026-11-25T00:11:00+00:00",
+      "title": "Budget carrier Norse Atlantic falls 74% after warning its finances are ‘critical’ amid soaring fuel costs",
+      "summary": "Budget carrier Norse Atlantic falls 74% after warning its finances are ‘critical’ amid soaring fuel costs CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOak9OQXkwYXc0a2FGOHhZaXhVcHdYeWJacmpTVnJGT1ZwQ2J0Z1Bwa01BTkJlck1PX0dqWHNqa3NLM01LbW5vWHZIUmxKUE8yQTBRd0dOSzlscGZlTGtiWTJjSGU4ZXFwMGE3OW1mX0E4OWhITERybHJURUNFUkhHQ2s0c0xhMEHSAYwBQVVfeXFMT3lXaVc2bTJMOWM5ajF0MlFMb2ZMV1h1Q1F6R3VodDFLVU13ejBQMXc0TllpY0J6VmRWNXVYUDFET2hnV29qdVNHSzJqb1dEc0ZRX0hTbUFWel9CY1JRWVd3UkpRLXBSbU1Gd1Z1QTZYbVRoV2RhekJYS204ZFJmY3BudXBwNHpDX2Y1bm4?oc=5",
+      "published": "2026-11-25T09:46:05+00:00",
       "beats": [
         "Business"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+      "summary": "China investigates Politburo member and Shanghai party chief Chen Jining NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2VldVdtUzNqekdCMTFMSHQxYi0wMU5MeTNMN3RySklWa0lFTGxfc3YxY2MwNGxoaDNYdnU1TGMzckxjN05YZVNDQ08wZU1UMDRwclpqaTc2Y01LZmFNRk1USkxqaGRFNTE3TmtnekhvSHJCU25VVE0ySE1IcVMxclE2eE5xczdsYm1HOF9GLUtvdDg?oc=5",
+      "published": "2026-11-25T09:44:13+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
+      "summary": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjNtYzVldk8zT3hELUlveWMwWXB2clBrQXpUY25iczhXaktvQVVXNjRvazhyNElMUmJrU3hqUUZkcGpVVkV4d0FoZ0dIV0t1RUU0TE1PRHRBYWhkWmNiUG9NTjd5YU1pMUFhM3pFdFhwbTc5LV9VZnpoT1ZBQWhGY0pCTmLSAYoBQVVfeXFMTUpFNkV4bVB1WE1qelJJUnNJXzdmUlg3VXdtamdvY1RjMzdrWE8wZnZ5TG8xLWV3eXdBWnF5Z3Q1S0l3TW9jYWVFakx4ekZDNHd1TDRaOXdNRURxWWVBMU1QT2s5Rk9XY1k4TmtMTnc4ZnNncUZ6alR6RF9oNnk5LTV5dWpORjd1Ql9B?oc=5",
+      "published": "2026-11-25T09:18:37+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Treasury yields fall as investors await key inflation signal",
+      "summary": "Treasury yields fall as investors await key inflation signal CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRFlwZF9FMHIyY3J2Y25STC10T25DTG9zTWFKcVNYOXdtM21rLVNZTXRoTWVqYUVWUEE5RFpURWVUd1kyanJHNWJzaXRmTkJHMFZGTWV0U3RSdVpyc0h5NGEyQkEtS1RlZ2NUQWtHbFBVTUtucjJJ0gF8QVVfeXFMTThoU0xMTXQ1NFpvaUc1WHhNV3ExRTFFV05BWUUtTzk3SzBtUjZxSXJLeXhOZDB6aDJHMzlDQ0gzT0RETnJDRlpEeW1SNFl1MEk1dXhBYllVdWNTOTVzbF9IaHFGNzhJZ0l6WVVDLWxPQjhSMkozQm1JNWxRbw?oc=5",
+      "published": "2026-11-25T07:44:24+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
+      "summary": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant CNN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NLTNhb203Rk5zMHJDWlBqZ2RHbUdxYVJPQmFOTHFpQVhJTkw5a1RuSlp5cFhoSHNCSHBobGJCWm5CbHgtWVljT1NINTB6djBEWko0S1g1Z1lrMWt5c29kRE5ZY1RMbDdtSEl3d1hpZw?oc=5",
+      "published": "2026-11-25T06:03:06+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The Jensen Huang scandal has it all: sex, money and Trump",
+      "summary": "The Jensen Huang scandal has it all: sex, money and Trump CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZzhfQm9NT3RneXVlekJ3NjZmWlB5T2lZbkdYWGlmQTc5MlRpVy1ZTTVsVGJEZ3RuVFd5al9QOFlJNUNZMUpydHJWcHZIakdma0RYbEQ0eVdlWWdsRlhwN1JlQWk5YVhZRXBuNmQ3Y0E5Rjdz?oc=5",
+      "published": "2026-11-25T05:01:15+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Mario Cantone sparks heated debate over the word \"queer\"",
+      "summary": "Mario Cantone sparks heated debate over the word \"queer\" Queerty",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW9Fbk96Nm5FSERFMzBRMFRzVDF0dXpXWVBIM1ZibGF2UmN1ZjJhYjlkTndiQjdxY09IQTQ5NnBMTEFEc3BnRklTRGxHN2l0dmxfQnNwd04yVzlyMTBiSTVLdHlaZjc1a3dxT2F2R1BReklqLTc5cFZ0QllQTUZKLXNfR3dnMC01ZGRwcDJMNVBFUQ?oc=5",
+      "published": "2026-11-25T01:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Could this bedroom helper be a stealth cure for migraines?",
+      "summary": "Could this bedroom helper be a stealth cure for migraines? Queerty",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3VibEphakRxWW1QV3VmSzdKaVVPWUpWQWtzakNqMnphaEFlZEpJRC04VXJueS0tNUwzM3ZDXzJmWXdsbU5UUDNVcTVlSUNLMUFwb3VwZUxZY25UalhoMW5TY0xkZmQyUHIzQUlvVVZKNGRseGtySkhqWkR1dDVnUVRCZjl4ZldOQWpENnVKMnhDejVxNlE?oc=5",
+      "published": "2026-11-25T00:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -99,7 +170,7 @@
       "title": "The Unprecedented Surge of Homeless Students, in Charts",
       "summary": "The Unprecedented Surge of Homeless Students, in Charts Education Week",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFA3a2ZRQmdydUdxX3ROOGdtb0NGaVNJRDV4R2FuYlFkWGdjQkJpNFFEMUtXNTZwMWVoZTZEMVBvNWdJV0JPSnozNG5URjlFQ2t4SUFPNkpSaUVKd19tRHo4Umx2dHE5NEJGV0hnZG1qMGlscFRFSVJPUm1adXUyWDF6Zkg4aXhqcHhwdHB3dGlGLTVZVWoxT05Jd00?oc=5",
-      "published": "2026-11-24T21:43:42+00:00",
+      "published": "2026-11-24T21:46:16+00:00",
       "beats": [
         "Schools"
       ]
@@ -118,49 +189,49 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-      "summary": "Dell earnings beat on AI strength, company authorizes $25 billion buyback CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zMHE5bDhwdEJfa19fcjIxendtcFRoNDQ4OUJRcjlYdVVjN3R4cEZKSVRFTk16VDBPQW1NZXZGRk1yb0FOTm8zSEJUVDQyNU94RUFWaGVuRVZiRWNDajZGOWtPVnYyR1Z0QXl6M3RFcmFUOFnSAXhBVV95cUxOQjBwdGtodEVkTHJEcnZEMzVmRjVPM056UXpSeWtQZnRMQzUyb0p2VWFjeWNEVTZiVW94R1NUZ21zQjVvbVdZRGJ0c0ZrQW5uU2lmcHhpU2wwWEUzTTNpSjUxMU0xc1VmZDNNNU9MSDNJcFNxallNWXM?oc=5",
-      "published": "2026-11-24T21:29:03+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
       "title": "6 Children’s Books to Spark Gratitude Before Thanksgiving",
       "summary": "6 Children’s Books to Spark Gratitude Before Thanksgiving Education Week",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFRpM3BXZ0dzcHllS2Jud1Z6d05KS2V4VXBlaTNFeHhGeVl5eHVGanRoY0xkU2ljOTQ0dUNWbkNIRjc0WGgwUkF0emNQdFo2eEkxZWFCLVpXVmNPWTk2a25vaDV4RnBBX1ZqRUpMZTdQVm1TM2ZfVmVrWWdqYUZZYkVydnZxTTQ3dEdFZ29KczZ4bzRHX3dBMFppMEE5TUMtVVc5RVhCMkI?oc=5",
-      "published": "2026-11-24T21:17:52+00:00",
+      "published": "2026-11-24T21:18:11+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "In 'GTA VI,' every stolen car is a music discovery machine",
-      "summary": "In 'GTA VI,' every stolen car is a music discovery machine NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15QUwySXZWWWQ5RDRlVUp2QXMweHNGdjhsblVrbHkxdWZnZTEyUWRxUTB5SEE0QWNRR0pQU2xwckI3M3NiMWZJd3lOUkJiaWw1TW51b2l4VHplT3U5QkNkSzhXWDN0TkdnREUzSTR3RnNTenA1LUZ1LW5KdkRGQQ?oc=5",
-      "published": "2026-11-24T20:12:17+00:00",
+      "title": "Huawei Found Guilty of Stealing Trade Secrets in U.S. Trial",
+      "summary": "Huawei Found Guilty of Stealing Trade Secrets in U.S. Trial The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSlJSbmIxLWVPekN0cnF2ay0zSzNNZk9NeUJhTXJ0UGdoOW5oX1p4LXB4T3JuS1ZpTkxZbklHNnJtTXA0QUxYQzVTSTVDeV9fV01Hc045SHczbXdWYUJRNFRielA5UXNkOWxTdWQwSi1HVVRqdnZQMUx5SQ?oc=5",
+      "published": "2026-11-24T20:16:59+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Parastoo Ahmadi, Iranian singer lashed for \"outraging public decency,\" becomes \"a symbol of resistance\"",
+      "summary": "Parastoo Ahmadi, Iranian singer lashed for \"outraging public decency,\" becomes \"a symbol of resistance\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFY5SDZQQ1NwcXVSeEM5anltS3Nja3dXNURNcWRUV3FvYjlzcU55eXFhN1hiLThxbExnckFFUWJXMGhNQ0NHTXR5bldBYVA5ZlZZYXdNTjhFXzhZb3VWcy1TcTJpZHBRcmoyRDJQZlhvaXlqck1aNkhMa29XdkJ4VENZQm12Tlotcmp3TA?oc=5",
+      "published": "2026-11-24T17:39:00+00:00",
       "beats": [
         "Politics"
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Tommy Tuberville has an idea for those fleeing ‘woke-show’ blue Texas: Move to Alabama",
-      "summary": "Tommy Tuberville has an idea for those fleeing ‘woke-show’ blue Texas: Move to Alabama Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUZrS1VDcHI2eWNRMFRKU2VTalJCYi1UdG1icjY0WnhFbDBPamFvdFlwMXRmNWZVTlByb2RYbXdMWURGdFFoTF9obGhWOFAzTElFUlBieU9pYzY0Z0lNUS1JanlCT3d4dUZmc1I4YkFvUTlDMm5GTElWRVpfMm5xb1pxbw?oc=5",
-      "published": "2026-11-24T15:28:45+00:00",
+      "title": "Ethnic & single-sex events canceled across Florida due to new anti-DEI law while Ron DeSantis whines",
+      "summary": "Ethnic & single-sex events canceled across Florida due to new anti-DEI law while Ron DeSantis whines LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzZSU2JReng1X2JuTGZ2MjJycTBJSFlKSmhxVjYtOFFsSEN4ZHBMWDUtdjNVdDV6ZmpVajFMQ0JOVkFUUWlEUjFrUHhHMVRDZngzZGJxTVRqZDcwMHhQbTFjLVctbVI0d3VlLVg1TGhJOHdIUHh3VnBDV1F4V1NzQWJGRDdYWnJVX0F4WHBwV3cydVBUQnlxWXNSY0M3dElDVDJjRk1FQTFzMkJjWDhTbXVwYzRDeWlTYjBjakU4bEh3YXRZRTlnMU1QOA?oc=5",
+      "published": "2026-11-24T16:34:07+00:00",
       "beats": [
         "LGBTQ+"
       ]
@@ -203,18 +274,6 @@
       ]
     },
     {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
-      "summary": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort? NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2x4VzZ6alBHb2l1allhZEpfZnlzTmVmYi1FcmZJaVB1em1nb2ppa3p1ajVQWFZzbXBtU3k2YVBwdWxKXzFFSUVmS2tPLWwxaS16ZEthSGVWdkRXTFN4b1JPTk9Ld3FfbU4yenl0MGk5ejNvNTdSamFtLTQ0bDBNWm9jS2wxYnpOdUFn?oc=5",
-      "published": "2026-11-24T14:24:04+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -227,37 +286,13 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CBS News",
+      "source_feed": "CBS News",
       "lane": "General",
-      "title": "Opinion | This Oversight Role Is Too Critical for a Trump Loyalist",
-      "summary": "Opinion | This Oversight Role Is Too Critical for a Trump Loyalist The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1pfQ0FmTVQ1Y0d4Vlk1T09vQ3lsSE5wRjJsZlVQazl1dEF0dllKUkZIcXZTWERFYjNkcjc5SU9fTjhwd3ZRa3Z1M1BwNWxIaUVyNDBVTzFLNVg0a1VyNUNvdEpNaTRZSVZLeklCNkZNQzhQQkhNZVZqUzJFQUdfcFBCRTN5VGdjbU1IWUpBcWRtZzJlcU1Gag?oc=5",
-      "published": "2026-11-24T10:04:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Bob Woodward spent a lifetime uncovering secrets. Now he's revealing his own",
-      "summary": "Bob Woodward spent a lifetime uncovering secrets. Now he's revealing his own NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zSm50bm9VZzJFcWV5WjBzQXFBcFJTbnR3N1k5c0Y3OXJDejhWYlJLUGE1aWpjb054X1VPSWFfakZIMTRDRnFnU0JQbGFVZXk2anlYQVFzS0JJdklkVDJnbi1BVWZsRm5JS0QzVGxSY1Z6UUlxZktRTzJDMU4?oc=5",
-      "published": "2026-11-24T09:54:13+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Pacific Coast king tides could break records and flood communities",
-      "summary": "Pacific Coast king tides could break records and flood communities NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlhhTzJyR205VW94c0V0ckhxWmtLcnJNMC14cDlVNFRXQlhEWG8yMXhZMURpYjM5OEdBOExwOVNiZWsyVXB6bF9MbkJObXFOSlllaEtQZC1DM000VG5tTzFFZ0N4OEpzazdLQTBLYWFPQzQ1OFpoUFh2VzhrR01MNnl5Wk9iSElHQWpCY05sTXk3eFBKS0c1aWhEZU9Gc0xYc2ZRRDdtVk4wZw?oc=5",
-      "published": "2026-11-24T09:17:37+00:00",
+      "title": "Man with Alzheimer's found alive after 11 days lost in Amazon jungle: \"He was very thirsty\"",
+      "summary": "Man with Alzheimer's found alive after 11 days lost in Amazon jungle: \"He was very thirsty\" CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRDljZGRoX1g4WmpjRTlkOFBiZ1FsSENPUEdZZmxoV19ZOFNicFhuOUxfWlcxbVdYVS1Eem5lOHU0c29kaFpMMHJaSnhwaEhaS0tTNGI3WUNuMzVCLXp2RWcyXzZhLTZJZkUxeDA3dUUzNUdnbHZZdmdmblpHd2ttanNoRktmM2IxNEE?oc=5",
+      "published": "2026-11-24T11:23:31+00:00",
       "beats": [
         "Politics"
       ]
@@ -287,6 +322,19 @@
       ]
     },
     {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Is cruising getting gentrified? This straight developer’s plan for an upscale gay bathhouse has hit a nerve",
+      "summary": "Is cruising getting gentrified? This straight developer’s plan for an upscale gay bathhouse has hit a nerve Queerty",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWlZMQklJUXQ3ay16RUVVbW96LW90c0JwNXY1MFcta1NjUUJjNXZqZXVqQlNQMHp2RTVrZjJTTER0em1jMndraGs0YnB3MUtuUlVSYl8tOFBLR3RNb29OcFA5Tm9uNmt2bEp5V1UxbjNDeGs2S3lQR19aN05RRS1lNWxaX2dQQ3RUcVVmX2tpSEViSnRoQlp3RkpKbDNFUjlRdTByY1hiVVBhU05tNi1sRTNiQTNJYndma2wzSmtIaERlOHRNMWFTeQ?oc=5",
+      "published": "2026-11-24T01:00:00+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -312,18 +360,6 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Mayo Clinic to give appointment workers 5 paid minutes a day to boot up computers",
-      "summary": "Mayo Clinic to give appointment workers 5 paid minutes a day to boot up computers CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2Rfd2JnMUNJQ3RzdXJaLWxyT3VualNTMzBJWVJJLWhtZ3BYWDhydjNiV05sWkhOUFg5NUFNUDdMaWpYT2VMSFRoUXpwTXFfUlROUTRrV2V6TFNDV2VubkgwcUhfc0NDT2h3VnRhajVlRGxURWZGS3JvWl9hXzBLZ0xpd3otdTJPbkFVT1RrcHFoTmxxd1AzYlhPNk1MbjJ0UGtiS1hISUZldnNl?oc=5",
-      "published": "2026-11-23T21:20:00+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -336,20 +372,6 @@
       ]
     },
     {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Failed MAGA school board president passes trans sports ban in violation of state law",
-      "summary": "Failed MAGA school board president passes trans sports ban in violation of state law LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2lCRzNkSnZLajN6MURtVXpJdXhDc2VGS2NvSnh5LUN1UGplYW42M2Z3WnFJS0RsOFJxSV84VlpRVXlOTnVJcUVibGs3Ukh3RDJEUEEza2ZUWW5pMHo0UXAyYmkxYV9PSkNjbUNlRHZmRnBCVE1sM0NuLUtnd3hQdWRfeEVmMlVid2piRFA1enhEczQzVG5veTZEZDE3SW5yS1NaaGxoRkpFNmFWRDJQLWVBZnVEelU?oc=5",
-      "published": "2026-11-23T20:00:00+00:00",
-      "beats": [
-        "Politics",
-        "Schools",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
@@ -357,30 +379,6 @@
       "summary": "Florida’s anti-DEI law is affecting Italian, Greek, Hispanic events and proclamations Advocate.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kOEgxcmR5R2NldHlpcy1kZHROZVdjTUs3cmFpMEtpOER6alRqQnFwZkZxbDFSaXZfT2pvcUZfYVRlc0lKWjFNZFZ6SXBYXzJ2eXlGTkkyLVBDb1ZGZUY2Y1FGSGhINHhEN05lLUhNWjZOUQ?oc=5",
       "published": "2026-11-23T19:14:44+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Wait, Connor Storrie & Hudson Williams are living together?!",
-      "summary": "Wait, Connor Storrie & Hudson Williams are living together?! Queerty",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGFuX1NSSlktOTdHRm56Wi1aWWhqOURlTnp2U0hyamcwaVAwVzI0SW9vRVYwbS1KeHpOektsbWFvcFJTRG9CSURLRlN0LWQzN21Tbk03emxxLXpsOWlPQ3ktbXNaNDJLbWJacHFERTh5amt6bW83Si1sNmFhMkhGdVFGS1pyd0RhcHRPRnZ1Nk1YQzA?oc=5",
-      "published": "2026-11-23T19:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Ken Paxton drops lawsuits against doctors providing gender-affirming care on his way out the door",
-      "summary": "Ken Paxton drops lawsuits against doctors providing gender-affirming care on his way out the door LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUk0LVVMQUFnaUNqejlWU2YtVkxRaE9FaUVHU2ZFVV9ZU3ZKTkItR2w4ODBJaXlZam9hS1BqZmxzbnYzWWtLTDJqelpPWmRIY2RlLUR5bmRTY3U4dVNXRHhYTUZ5eUJrMEVJWERNZ2E5dWlQZTNTUnJpUzRoT3NaY0pLRkhlU0lvTW5XNm9pVEY1UlNyeTQ2ZDk0RXhZS2w2UWk3XzFvR0pJelhEbWgybkVEbk1ZclVRaUFHckVKU2hIQy1sTXdMVFo3eFBRYW8?oc=5",
-      "published": "2026-11-23T17:53:01+00:00",
       "beats": [
         "LGBTQ+"
       ]
