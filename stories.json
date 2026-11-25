@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:41:35.947293+00:00",
+  "updated_at": "2026-11-25T02:57:03.512847+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -20,13 +20,50 @@
   "errors": [],
   "stories": [
     {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "summary": "Trump open to pardoning Jensen Huang if needed: NY Post CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TXVvak1TQUc4N04xX3d6OUwyOWdBTkdoX2lQTXlJVVhJX3pOMnJlSHJoY0RBNWxzcVhNSnpmTDNlamN6ODU4SE82Q2k0d2xTN3F6WXY3S1Y3b3FGTVhLaDVxMlZ1eUJMMmRDNEw0Wmk5d9IBd0FVX3lxTE1LbmFCUzFidnBiRmxpM2dHWlRfSFI3ajhIcDhVN0t2R2hjRXJ0c3pVYlJ3VURtTE9vRHdmUFR1c1dBSlN6SDRqOTlKRUxtajZzN0NRd1dSZTlPUVA0VlRiNG1zaDloakIwOW5IaEhOXzNUdjJ3eEh3?oc=5",
+      "published": "2026-11-25T02:09:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "The Trump team is getting more and more evasive about Jensen Huang",
-      "summary": "The Trump team is getting more and more evasive about Jensen Huang CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2w4bElVbVRBNmN3SVRMUFczTHZmUjJLVzdwWElqY3RHSWtTejZ4RDZjRkROVzZzYnR5eFRGRWp1R0t1ZDVLLXc4cG5KZ0Q2REZPWnNndWwtU2toZ0pfSzRKQnBsNk9JeGxZXzlMb2hvS0Jmb01IYjE2ZE8yWmt5dQ?oc=5",
-      "published": "2026-11-24T17:20:06+00:00",
+      "title": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal",
+      "summary": "After campaign trail feud, Trump says he’ll meet with El-Sayed to discuss universal healthcare proposal CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3FIS1lsN0owcWRvSFNiVjNnYXVKMVRWSlYtUFJOclhvT0R0MXJRMkNVdWc1N3FSM0V2bHFmbUM4Tl92Q0ZyWF9NeUFfRW45cGJnd1BnNVVYdjYtTXJtZVRJSTJ0a3VfSDBEam42UVVobXpPekcyUTVuaGpaVVQ0QWlVMA?oc=5",
+      "published": "2026-11-25T01:46:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
+      "summary": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
+      "published": "2026-11-25T01:22:00+00:00",
+      "beats": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "Kilmar Abrego Garcia, who fought his mistaken deportation, is leaving the US voluntarily for Spain",
+      "summary": "Kilmar Abrego Garcia, who fought his mistaken deportation, is leaving the US voluntarily for Spain CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcG1HVEl5OFFJbUMtcllrTmlxUlRUdXFjTkNiOXBJVmc5TVJ0eDdiUFVJX3dMeGpOR0N2UGRKVGgtMXdqY2piOFE5WGpaTkR3YTJva3EyMWtxdzJ4QmZBRm05TGF0NVRoOWpJVHdwMlpta3FVZWU2aWU3MXZQckMyLXhXd01PZ0Nwam1CTw?oc=5",
+      "published": "2026-11-25T01:07:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -35,10 +72,22 @@
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-      "summary": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbV81cnVIdnI4U0FWQm5NV2JHbEstVEhPd01ta0VQWlRLUE12d0swT1hPVy1QMUo5dVZLV1ZmanNXcDFsM0M3MmJFcURzT0tHbjB5SWZqc3J4NW5GeW5DcG9TM1R4NnEzSi1lenowVTZqQUZZVmhNT05Fa1N5dTdZUHZtQmjSAYoBQVVfeXFMUEZuNjBJWEZmeV9rbUJHcDhvRFB6SE9pUTRrbFc3d0F1eGdaSmg2UkZOaHAyRVVEMzUtSnVVb0hIZHhPeTZ2eFNLOTZLWjM2aTRfd0V5b1FVb0ltbnoxVGhSb1BNQmVXaGlVOXo2Y2FoLXFjREMxNVRCNFotb1VxY1JBdnptYlZJcnNB?oc=5",
-      "published": "2026-11-24T17:06:27+00:00",
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Wednesday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmlEaTc1MGdfaXZmQlVpREVFeXZzMnpjQlExR1JJcmYzanRKNl95TXl3X3dzb1Z1elo3TG15YnpjQWVqUl9rTC1zQzl0RGhWV19HWUtSMVp4Y1JTcThFUEtqMnVvLVRaM19JQl9taU5vemRvR0ljQUpYRXF6bnJVSzJ5RU9xNFVfaEMtLXJkRVBIcFJtdnp3MEtaVFc?oc=5",
+      "published": "2026-11-25T00:11:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
+      "summary": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0ZENzdyVk5TQkMwN05tS3VmQXVZOUo1c2g5LTRQenB1RzB1RFo4OTdTdDA3XzRPZEFpLS1PRUZRQWw1NXhmZlZZNWU2NkdJQWFEUlhOZkppQW9YRHFVUzNOVFBkNnlZdmpkVDNwTFRadG5Cd1I3RmR3VXNTYnZ6Yi15VEszSUxKVnZrenExMm1HekZf?oc=5",
+      "published": "2026-11-24T23:01:09+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,46 +96,108 @@
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
-      "title": "Here’s What Aspiring Teachers Think of Using AI for Instruction",
-      "summary": "Here’s What Aspiring Teachers Think of Using AI for Instruction Education Week",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjQ3OFhwZExzTl9MZktZQ2IteTRsY3BwSFpUaG1NcWJmU0VvbGNmYXJJY2lyaUVhTkRuZGtwSDlNVEZLUG5XTmROQk5fYS04SkdCUlRFZHJNdnhDbGlsbERNdmZKRUQ5dDg2eEZ4RjR4UTExQmtEMmlrOWlnNHk0RVYzMHZueXFJeGpvUUdZNzlEOVBhSmctQjBBRVpEaGJrTFZ5NDVxMA?oc=5",
-      "published": "2026-11-24T17:06:20+00:00",
+      "title": "The Unprecedented Surge of Homeless Students, in Charts",
+      "summary": "The Unprecedented Surge of Homeless Students, in Charts Education Week",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFA3a2ZRQmdydUdxX3ROOGdtb0NGaVNJRDV4R2FuYlFkWGdjQkJpNFFEMUtXNTZwMWVoZTZEMVBvNWdJV0JPSnozNG5URjlFQ2t4SUFPNkpSaUVKd19tRHo4Umx2dHE5NEJGV0hnZG1qMGlscFRFSVJPUm1adXUyWDF6Zkg4aXhqcHhwdHB3dGlGLTVZVWoxT05Jd00?oc=5",
+      "published": "2026-11-24T21:43:42+00:00",
       "beats": [
         "Schools"
       ]
     },
     {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Tennessee’s Victoria Broderick becomes the first pansexual person elected to U.S. Congress",
+      "summary": "Tennessee’s Victoria Broderick becomes the first pansexual person elected to U.S. Congress Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXlEMGRET2xac1JEX3h6SHVfMWh0bWxFNERMUDFVVTMxUHpZNFdGemR5ekI4Vm83dFEwS3Uxc3I3NTRrTzF2Vm15SjJiSWF1V2F3aVFtN0t2NUliSHJkV1Bjd2tDbEJuV0JYN0Y1NTRNUVlNU3RjNWc0V2JpQjl1bGhYcFRvbzNq?oc=5",
+      "published": "2026-11-24T21:32:34+00:00",
+      "beats": [
+        "Politics",
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "CNBC",
       "source_feed": "CNBC",
       "lane": "General",
-      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-      "summary": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGVtV0RfOUJwVGVoSGRhek1WM0Jhbk9Zb3FwdGpyUFI4WWE0ci1YTVYtR3JsWC1mc2M4dnFiYTdMeGhGUGRpVU83WWJ4YVlXLUpOVHNhelVFcFZ4QUZNWjFSTlRCZENDek9JQUx5Yzlta2ZBU255SWQwMUlwOElKcW9Md2lScjQ4VlHSAY8BQVVfeXFMTlJfNUY3Q0hNNXNEVjRfTHp0bGZGYlB6ZkpEQlpTNllyamc0Y2NjczJhM2NLRTJ6SzFya2ZvbkFOLUEzRzVZQUJ6ZHp6M0xhQVJUbGtpNU01Tm9XMXZMamFMbG90UkFYMzFDN0tSdExhVWtXa2lGV1JVRTZCVUw2dEk5NFNsS2p1VlJQbUpqOEk?oc=5",
-      "published": "2026-11-24T15:42:10+00:00",
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "summary": "Dell earnings beat on AI strength, company authorizes $25 billion buyback CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zMHE5bDhwdEJfa19fcjIxendtcFRoNDQ4OUJRcjlYdVVjN3R4cEZKSVRFTk16VDBPQW1NZXZGRk1yb0FOTm8zSEJUVDQyNU94RUFWaGVuRVZiRWNDajZGOWtPVnYyR1Z0QXl6M3RFcmFUOFnSAXhBVV95cUxOQjBwdGtodEVkTHJEcnZEMzVmRjVPM056UXpSeWtQZnRMQzUyb0p2VWFjeWNEVTZiVW94R1NUZ21zQjVvbVdZRGJ0c0ZrQW5uU2lmcHhpU2wwWEUzTTNpSjUxMU0xc1VmZDNNNU9MSDNJcFNxallNWXM?oc=5",
+      "published": "2026-11-24T21:29:03+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "6 Children’s Books to Spark Gratitude Before Thanksgiving",
+      "summary": "6 Children’s Books to Spark Gratitude Before Thanksgiving Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFRpM3BXZ0dzcHllS2Jud1Z6d05KS2V4VXBlaTNFeHhGeVl5eHVGanRoY0xkU2ljOTQ0dUNWbkNIRjc0WGgwUkF0emNQdFo2eEkxZWFCLVpXVmNPWTk2a25vaDV4RnBBX1ZqRUpMZTdQVm1TM2ZfVmVrWWdqYUZZYkVydnZxTTQ3dEdFZ29KczZ4bzRHX3dBMFppMEE5TUMtVVc5RVhCMkI?oc=5",
+      "published": "2026-11-24T21:17:52+00:00",
+      "beats": [
+        "Schools"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+      "summary": "In 'GTA VI,' every stolen car is a music discovery machine NPR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15QUwySXZWWWQ5RDRlVUp2QXMweHNGdjhsblVrbHkxdWZnZTEyUWRxUTB5SEE0QWNRR0pQU2xwckI3M3NiMWZJd3lOUkJiaWw1TW51b2l4VHplT3U5QkNkSzhXWDN0TkdnREUzSTR3RnNTenA1LUZ1LW5KdkRGQQ?oc=5",
+      "published": "2026-11-24T20:12:17+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "The Advocate",
+      "source_feed": "The Advocate",
+      "lane": "LGBTQ press",
+      "title": "Tommy Tuberville has an idea for those fleeing ‘woke-show’ blue Texas: Move to Alabama",
+      "summary": "Tommy Tuberville has an idea for those fleeing ‘woke-show’ blue Texas: Move to Alabama Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUZrS1VDcHI2eWNRMFRKU2VTalJCYi1UdG1icjY0WnhFbDBPamFvdFlwMXRmNWZVTlByb2RYbXdMWURGdFFoTF9obGhWOFAzTElFUlBieU9pYzY0Z0lNUS1JanlCT3d4dUZmc1I4YkFvUTlDMm5GTElWRVpfMm5xb1pxbw?oc=5",
+      "published": "2026-11-24T15:28:45+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
       "source": "CBS News",
-      "source_feed": "CBS News",
+      "source_feed": "CBS News LGBTQ",
       "lane": "General",
-      "title": "Gisèle Pelicot to sue publisher that sent nude images to media, says she's \"once again humiliated\"",
-      "summary": "Gisèle Pelicot to sue publisher that sent nude images to media, says she's \"once again humiliated\" CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGZPNnM0TzZiNjJGajc1TkFKUzk5bmluZk9TQVJnWC1vWi1hRnRLSzNGRUVadGhiVU9YVjNmTUFQbWtGNkJrZlFsRW0ydkgyVzgzcjVpajMwYmtSZFc0WFFEVzBsRUwzRlVWN21ndFZXTEdOMFB4SWJ3dW1JQkwySkNmMjlIaGhQZ1IybA?oc=5",
-      "published": "2026-11-24T15:04:12+00:00",
+      "title": "Coast Guard pulls unresponsive surfer from water near Pacifica",
+      "summary": "Coast Guard pulls unresponsive surfer from water near Pacifica CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHJYczVINEwyWDNjWVR0YXg4SU1EVnpIOVE3TnZyWk9mSDJRNDdfMjFhZ1p1ano3ZHRTR2o3X0VWM1dKZl9yWjBnRlJQOXo1M2Iwa3hFdnloTlVVSURUYTAtV0dKM1R3aUZfVzc1OExuUC1JUktDaHNJbVh4MUc5VHMyM1U?oc=5",
+      "published": "2026-11-24T14:51:00+00:00",
       "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
+      "source": "K-12 Dive",
+      "source_feed": "K-12 Dive",
       "lane": "General",
-      "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-      "summary": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52N3pxbHMtWVo5dTFpRXlOOVhpd0hOdDFpSG5rODE0eU1hN1JuNzNvWFktTndsOFlrZ3JNS012UjBNUVhHdEVQbUZzMVlQLTNFcUZ4eS1Qdnk0N3hKMEZRbWJ0UXpjX1phX1ZURWlpMNIBdEFVX3lxTE9vUXY4VGJhUjFrckFDVFZsZUt5Sl92U2pIQlFxdmdNY0hMUzRZUDR4YmJBeHFubENiNjROTkZVQ3dpbWNOcTA5TVVlZHJLU2dTRzBRYXhVUUhJeDJMNV85d1RoMF93XzRuTjY0dE5QRHh3SV9G?oc=5",
-      "published": "2026-11-24T14:33:22+00:00",
+      "title": "Title IX sex bias employment case about to get its day in Supreme Court",
+      "summary": "Title IX sex bias employment case about to get its day in Supreme Court K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmdLV1cyVW1rNUptT0huTGo4aGdQdC1fM0lNN1E3V0xsalc4SXdYelZ2cDJ2NVZYVTByRThRTzJ1LUdyTUhnNWw2QTJDQ3ppcS1SSTBEM04wQk9YMmhVVkJFRmNnVWpOZXlKTFc5M1dabV9uSUdPY1BlSVpmanJPVTVsQ0JRdWlLRERJQ1F3cy1EOWs3d01HOXJiSG5INk5fb05CdXhGelY1RHRy?oc=5",
+      "published": "2026-11-24T14:32:05+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
+      ]
+    },
+    {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "China cheers Jensen Huang’s dramatic return, even as political fallout deepens",
+      "summary": "China cheers Jensen Huang’s dramatic return, even as political fallout deepens NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTURxSE51WTNsbDhEQ2Fmc2lRNU4wYUY2TFBDM0h1dUM0NFhGemxUTngyVlpQaHZuRDhyeldqN3VDQ2FaRWpsT25QRFNfR2JTaFJOX3lRZmxacTJzQ1ZoSzh6QXZ6aV9YSGFBRGVrMnZYNVN6VENNR2ZDUVVRcFJNc0UtQ1ZKZFBZTVJfbHBVRmJLLURyVlRwaFAzeWM0a1dXSU9faF9mN0NEUDNTQlBR?oc=5",
+      "published": "2026-11-24T14:29:45+00:00",
       "beats": [
         "Politics"
       ]
@@ -116,50 +227,13 @@
       ]
     },
     {
-      "source": "CNN",
-      "source_feed": "CNN",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests",
-      "summary": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVBjNlZFWUJMUVpTQVp6cWFja3JQckhuYzZFaGpxODl5U2hzRG9SSV9vQ2VJdHVuak4zSHZWYXpIeHhOMXZRb0JpWmQ0c3FhNDJKTnNkOFBKNlFWRzB3dXpBbmI0UnlVcXlRVVg0aW9GNHBSSWdXNC02RjdDaV9VNEkxLUg?oc=5",
-      "published": "2026-11-24T12:45:07+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Voyager 1 hits new data glitch while making history",
-      "summary": "Voyager 1 hits new data glitch while making history CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU53cmNXQWpvMzUzaW9HR3FucXNGQldEb2E2TGVFRjd2aGx2TTd5a0k5S3BneGZUcXJXNHFNTHgxOVdCUVpIeUJzU0NWa1R6ZkJNSzhlLTZfODgyNkNOMjF1ODk5alppdEVpeENpMFptWENUQURrbHZaU1plUGhtVnVFTFBLb081cEhQNmoxTW5GTnc?oc=5",
-      "published": "2026-11-24T12:42:53+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "K-12 Dive",
-      "source_feed": "K-12 Dive",
-      "lane": "General",
-      "title": "Title IX sex bias employment case about to get its day in Supreme Court",
-      "summary": "Title IX sex bias employment case about to get its day in Supreme Court K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmdLV1cyVW1rNUptT0huTGo4aGdQdC1fM0lNN1E3V0xsalc4SXdYelZ2cDJ2NVZYVTByRThRTzJ1LUdyTUhnNWw2QTJDQ3ppcS1SSTBEM04wQk9YMmhVVkJFRmNnVWpOZXlKTFc5M1dabV9uSUdPY1BlSVpmanJPVTVsQ0JRdWlLRERJQ1F3cy1EOWs3d01HOXJiSG5INk5fb05CdXhGelY1RHRy?oc=5",
-      "published": "2026-11-24T12:41:54+00:00",
-      "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
-      "summary": "For workplace culture champions, Jensen Huang's return is 'unfathomable' NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ic00yc2J1a1NRMzFEa2NEYVNMVG1Ud2g0M2VkRkp0ZEgwZ2E1Njk4Ni1PZ2IzdzhGUDRlbkZVUEVuaEZJS1k4TmxhMElmTXNQM1V5SkFnTHc1NDZSNkttbjN1eTJYOUE2alUzTGMta2kxYzhHWHhCYTFKb1lMZw?oc=5",
-      "published": "2026-11-24T10:00:00+00:00",
+      "title": "Opinion | This Oversight Role Is Too Critical for a Trump Loyalist",
+      "summary": "Opinion | This Oversight Role Is Too Critical for a Trump Loyalist The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1pfQ0FmTVQ1Y0d4Vlk1T09vQ3lsSE5wRjJsZlVQazl1dEF0dllKUkZIcXZTWERFYjNkcjc5SU9fTjhwd3ZRa3Z1M1BwNWxIaUVyNDBVTzFLNVg0a1VyNUNvdEpNaTRZSVZLeklCNkZNQzhQQkhNZVZqUzJFQUdfcFBCRTN5VGdjbU1IWUpBcWRtZzJlcU1Gag?oc=5",
+      "published": "2026-11-24T10:04:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -168,12 +242,12 @@
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
-      "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
-      "summary": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access NPR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXlVODJyYVU4RC11dHBpWjlwYUFhMkpDdVA3S2dvUzJtUjBNeDQ0b1ZZc3ZLa1pod0NfeERKeHNpck9rU0Q1TzhuWlZkS3l2ZFBsbHB1UGpfaWdROEFJdDlGN2xtSmxZQTh1R1BRS0lzQVJWNnI0LTdIQ1ZMdGo3ZWkxVVotSDdLeWt5ZnJpUWZoZ1NEMU81U2tyYWxmOExudDZLbU9rZm51ellxcnFJ?oc=5",
-      "published": "2026-11-24T10:00:00+00:00",
+      "title": "Bob Woodward spent a lifetime uncovering secrets. Now he's revealing his own",
+      "summary": "Bob Woodward spent a lifetime uncovering secrets. Now he's revealing his own NPR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zSm50bm9VZzJFcWV5WjBzQXFBcFJTbnR3N1k5c0Y3OXJDejhWYlJLUGE1aWpjb054X1VPSWFfakZIMTRDRnFnU0JQbGFVZXk2anlYQVFzS0JJdklkVDJnbi1BVWZsRm5JS0QzVGxSY1Z6UUlxZktRTzJDMU4?oc=5",
+      "published": "2026-11-24T09:54:13+00:00",
       "beats": [
-        "Business"
+        "Politics"
       ]
     },
     {
@@ -213,43 +287,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Why Trump Put Jensen Huang Back in Charge at Nvidia",
-      "summary": "Why Trump Put Jensen Huang Back in Charge at Nvidia The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN2JMU05vb3VRUGNURUV1STRkSUVBSDVuUjBRM3RfUmZyTXdfc0VJelpCLUxQN2swcmlGUkFqMjVmQUY0VW5GMlpTdXhNRkdwd3ZZbTBHVU9YRXlwdHNVcld2b3BDM3dXc1h4UEVNbGZMbjdBYnkyNkllbUdOcGhmanRQZzhqMTRYSGdCclpoUHpHdkllS0J1RUlscGpqWWxzdnc?oc=5",
-      "published": "2026-11-24T01:33:12+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Is cruising getting gentrified? This straight developer’s plan for an upscale gay bathhouse has hit a nerve",
-      "summary": "Is cruising getting gentrified? This straight developer’s plan for an upscale gay bathhouse has hit a nerve Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWlZMQklJUXQ3ay16RUVVbW96LW90c0JwNXY1MFcta1NjUUJjNXZqZXVqQlNQMHp2RTVrZjJTTER0em1jMndraGs0YnB3MUtuUlVSYl8tOFBLR3RNb29OcFA5Tm9uNmt2bEp5V1UxbjNDeGs2S3lQR19aN05RRS1lNWxaX2dQQ3RUcVVmX2tpSEViSnRoQlp3RkpKbDNFUjlRdTByY1hiVVBhU05tNi1sRTNiQTNJYndma2wzSmtIaERlOHRNMWFTeQ?oc=5",
-      "published": "2026-11-24T01:00:00+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "This vintage pic of Chris Evans in the early 2000s has us salivating",
-      "summary": "This vintage pic of Chris Evans in the early 2000s has us salivating Queerty",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZJQXFZX0tCUkcyeDFGcko5bTVHS20zWFVid0ZQS1BjZ1RjNlRnbHMtQTJjeFFtT1o0NUl4QlZPSTRZYjFFUnZkSEpqc2w0R2dFdDBGTzZkT1RsRlE1b0VTVmhUMDA1NE1EdHdwQTYzNnZwOXRmdmtsUzJwb0s1RGVSQkpLdFBMUG41eHVIYmQ3N1JtaElCdmppancyM2xGZzBjVw?oc=5",
-      "published": "2026-11-24T00:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News LGBTQ",
       "lane": "General",
@@ -275,6 +312,18 @@
       ]
     },
     {
+      "source": "CBS News",
+      "source_feed": "CBS News",
+      "lane": "General",
+      "title": "Mayo Clinic to give appointment workers 5 paid minutes a day to boot up computers",
+      "summary": "Mayo Clinic to give appointment workers 5 paid minutes a day to boot up computers CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2Rfd2JnMUNJQ3RzdXJaLWxyT3VualNTMzBJWVJJLWhtZ3BYWDhydjNiV05sWkhOUFg5NUFNUDdMaWpYT2VMSFRoUXpwTXFfUlROUTRrV2V6TFNDV2VubkgwcUhfc0NDT2h3VnRhajVlRGxURWZGS3JvWl9hXzBLZ0xpd3otdTJPbkFVT1RrcHFoTmxxd1AzYlhPNk1MbjJ0UGtiS1hISUZldnNl?oc=5",
+      "published": "2026-11-23T21:20:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
       "source": "K-12 Dive",
       "source_feed": "K-12 Dive",
       "lane": "General",
@@ -287,27 +336,17 @@
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Dear Administrators, Quit Making Teacher PD Feel Like a Hostage Situation (Opinion)",
-      "summary": "Dear Administrators, Quit Making Teacher PD Feel Like a Hostage Situation (Opinion) Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3BOOE82M0xqUkpSakU1bjdFLTlCY0xhc0VETDROMW1USlhPX3BhWU45c1dzR2JtZnZQWC1aTHEtZTA0SnhYSUxOVzY0MHNVdFpnTGxONzE1QWl0ZUR4MHl5Q0J5c1ZmSVdkNnpUQkxadkR0anpJU1duMWZ1UjNHelN5MHhaU2I3dDBzQjJRYkZZeG9sN2pNMEF5VU12NF9ldDl3M29jTEM3ZHE5MHhNMDRGOUdSQUpNZF9PU1h5OXV4WWg2VUFqNQ?oc=5",
-      "published": "2026-11-23T20:30:42+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Failed MAGA school board president passes trans sports ban in violation of state law",
+      "summary": "Failed MAGA school board president passes trans sports ban in violation of state law LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2lCRzNkSnZLajN6MURtVXpJdXhDc2VGS2NvSnh5LUN1UGplYW42M2Z3WnFJS0RsOFJxSV84VlpRVXlOTnVJcUVibGs3Ukh3RDJEUEEza2ZUWW5pMHo0UXAyYmkxYV9PSkNjbUNlRHZmRnBCVE1sM0NuLUtnd3hQdWRfeEVmMlVid2piRFA1enhEczQzVG5veTZEZDE3SW5yS1NaaGxoRkpFNmFWRDJQLWVBZnVEelU?oc=5",
+      "published": "2026-11-23T20:00:00+00:00",
       "beats": [
-        "Schools"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "U.S. Army veteran mauled to death by pack of dogs in Georgia",
-      "summary": "U.S. Army veteran mauled to death by pack of dogs in Georgia NBC News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0NTT3FOVC1RY195Q1VUVjRNSnotdk1DRnp5WER0WmNtQnktdTV2aVFmZVFCc3ZYanBoa1lsRmVoaXduVUVRcm9vdmtiaW5GMTVHeDZzVjlHSVd0cGFNb0xMT3FfQm5yT09XQjRUcDJvcUtGQWJVYmlmaktpcUhoR0pKS3ZIREJVb3lsR1ZNWHFlLWFKZkc2SUtR?oc=5",
-      "published": "2026-11-23T20:19:39+00:00",
-      "beats": [
-        "Politics"
+        "Politics",
+        "Schools",
+        "LGBTQ+"
       ]
     },
     {
@@ -335,52 +374,15 @@
       ]
     },
     {
-      "source": "EdSource",
-      "source_feed": "EdSource",
-      "lane": "General",
-      "title": "Trump administration rescinds mandatory pay hikes, benefits requirements for Head Start",
-      "summary": "Trump administration rescinds mandatory pay hikes, benefits requirements for Head Start EdSource",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85aldoelkxOWxpV1ZUVkNWSVlESk1WQkZrR3NUc0pFb1J4M1Vzb09nOGhhLUw0azk2Z0Y4QllaTXlpLXd1aVN6Ym04Q2VqTkV3WHM5MENNUUIwVzRiRVhMcFBtZWdVejBBclNxS2otTzVKcUtNVkHSAX5BVV95cUxOSWc4LXJCVzF6YXFma2VBZTNET1BOb3BET3RHcTZBN2ZlQlluNEhzbWFrVkJGVGcwSkNiRkltSUVINWF0WmpkVnpya1BaajJJTWdBeFlUenczeHFoNE83aF9Nb3NNR3pkaW1UVjNZRVZQTVdoMDBNU0tQN0MxZ0E?oc=5",
-      "published": "2026-11-23T16:42:12+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Ken Paxton drops lawsuits against doctors providing gender-affirming care on his way out the door",
+      "summary": "Ken Paxton drops lawsuits against doctors providing gender-affirming care on his way out the door LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUk0LVVMQUFnaUNqejlWU2YtVkxRaE9FaUVHU2ZFVV9ZU3ZKTkItR2w4ODBJaXlZam9hS1BqZmxzbnYzWWtLTDJqelpPWmRIY2RlLUR5bmRTY3U4dVNXRHhYTUZ5eUJrMEVJWERNZ2E5dWlQZTNTUnJpUzRoT3NaY0pLRkhlU0lvTW5XNm9pVEY1UlNyeTQ2ZDk0RXhZS2w2UWk3XzFvR0pJelhEbWgybkVEbk1ZclVRaUFHckVKU2hIQy1sTXdMVFo3eFBRYW8?oc=5",
+      "published": "2026-11-23T17:53:01+00:00",
       "beats": [
-        "Politics",
-        "Schools"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Prepping has come to Europe, and it's government advice, not just online doom-mongering, behind the trend",
-      "summary": "Prepping has come to Europe, and it's government advice, not just online doom-mongering, behind the trend CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPci1TRElnUzZ1b1FWakQxbThWeUVRTGZEbWV0R1NSV0o3a2NzbWYxWlgwMW9rdjNvb1RtNzkxNFdWSWcyckFTYWgyZHRndUJnRnBEeTd6ZEdlMXNuUko0NGoyNncyVEtmVUFVdDE0R1BIN1dBS3FyVUhQUTBpSkYwRDdhbzBQYm5oMzA2eFV4M3Q2WHFHaE5VYw?oc=5",
-      "published": "2026-11-23T16:15:02+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-      "summary": "Elon Musk Faces an A.I. Dilemma at SpaceX The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5",
-      "published": "2026-11-23T16:13:32+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "Trump says he spoke to Nvidia board and \"convinced them\" to reinstate Jensen Huang",
-      "summary": "Trump says he spoke to Nvidia board and \"convinced them\" to reinstate Jensen Huang CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXhNaXJTdDFNalYtU2IzSzctMzJjejM1SDY5R0tHbm1rcTQyLW1mX1RfZ3kzMk43blFvME1acDQ2WUxvbm9wM2lmS0gzVUJibHhCd3Q0TTh6S2NvNnBSRFIwWnVJTUFCQWNSOFRWYlN3VlB2eXdONncwZldZbzBUOXcxWldNcUlCUU50MHlCWQ?oc=5",
-      "published": "2026-11-23T15:32:00+00:00",
-      "beats": [
-        "Politics"
+        "LGBTQ+"
       ]
     }
   ]
