@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:56:28.163913+00:00",
+  "updated_at": "2026-11-26T04:01:38.494218+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -17,28 +17,19 @@
     "The Advocate",
     "Queerty"
   ],
-  "errors": [],
+  "errors": [
+    "NBC News: HTTP Error 429: Too Many Requests",
+    "The Advocate: HTTP Error 429: Too Many Requests"
+  ],
   "stories": [
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
+      "source": "CNBC",
+      "source_feed": "CNBC",
       "lane": "General",
-      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-      "summary": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
-      "published": "2026-11-25T21:32:42+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "CNN",
-      "source_feed": "CNN",
-      "lane": "General",
-      "title": "Aaron Rodgers released by Steelers after going scorched earth on coach Mike McCarthy",
-      "summary": "Aaron Rodgers released by Steelers after going scorched earth on coach Mike McCarthy CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FTnhJMS1vRUduc3ZJUWhoLTRJTDI3amUxZWo2RlVuRkZrMzBoRGxZNlM5Q2l2WnpsUDR2TnM2bW1qUFVIaTY1Y1hwOXpsTUZ6MG5iTFYyNkk2OW0yWkNfQVlFV2pMdm5ZWEM2UjZjdXhvNWw3OU9CMUpjY1FfQQ?oc=5",
-      "published": "2026-11-25T19:26:55+00:00",
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "summary": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XLUdDX1cxTnFzZl95T2dMX0lKR2VPY0xNZkpQby1qbGR6M0xWYkJNc2pCNGhNZWNvZWQzM2lSazRPcDh2bk1hdnE4QjdTRFhaZUVQVElNQzdNb3NEaEJrdjJyY3ZGeXNPcUx0dVNQcETSAXZBVV95cUxObktpNGV4RWJzSEZJV2thdzUwTTZVaFB4NER2VTJrQlRoQXl4MS1OcU5wdzBtdDJmYVpSYm9zU2R5SS1rTjIxQ3Y1eVJGSU1tMlhPY25OWHVkSi0yVGt6b3lNNjRMSFlZb2tJSUdHSVJtTC01VXJ3?oc=5",
+      "published": "2026-11-26T02:15:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -47,10 +38,22 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Vance says he was told Huang was not under investigation",
-      "summary": "Vance says he was told Huang was not under investigation CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FeVlTMDlBeEdwLU8xWlN3Nm44WC00eDhDOS00djVkOUppMUFjLW8yN3F2a1dfdEtTb1lQOEMyX0tpdVhQdVBKNF9tOTVaeXZIZ3dUbUJZM3BYWjNlMmdoXzRlcTU4T0JraWg5X0hFNmxkb2dfZV9HWnJzbDc?oc=5",
-      "published": "2026-11-25T19:17:42+00:00",
+      "title": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
+      "summary": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn?oc=5",
+      "published": "2026-11-26T01:37:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "summary": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BX0ltaTV6dmM2SkZLci1OMHRCRHpKYTVHUTY2bmcwSDhFRTRGN2tGUUttWndwSmV1WnYzTXhGTTRkN3JfckQ2bmtJbGw3RTVwNFJMeDZvbi1rd3RKdTJZTjE1czJud2tTNGhDdDRRcnNPNDRybzY0SW9vS3UzS2fSAYQBQVVfeXFMTzBydDUteUdVY1J0eUMza3RsTlZQdG82RG9OUDlXLXdyYl93NVpXcldtSUg5S3RtT3ZXVGFsTjRnaGVlUGFIeU5BUU1aNGxWODVRMHNGWUdwdmFFanBac3U1NXhKVUE2TjZFdVdjcUF3MlA0cWpMS0xDTHZGYnNQVjg3Y3Fp?oc=5",
+      "published": "2026-11-26T00:54:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -59,10 +62,10 @@
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
-      "title": "Suspected \"narco sub\" intercepted in Atlantic Ocean but no drugs found on board",
-      "summary": "Suspected \"narco sub\" intercepted in Atlantic Ocean but no drugs found on board CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclBpNVNCYmNpVjBkMndDbHpjbTR1bngzTUZkTktwZlBoOVFIZlFlcHVjUnZ1eFJVaHpIWHpzSzN5NV85cS1USy1YemhRT1JJclNVSnFfRWpXaDJJczdBUUkwNzJxd2tKekJubFV6a25DWEh6dFhSRzJKUnFKVzZQc2t3?oc=5",
-      "published": "2026-11-25T18:54:20+00:00",
+      "title": "Andy Taylor, longtime Duran Duran guitarist, dies at 65 following battle with prostate cancer",
+      "summary": "Andy Taylor, longtime Duran Duran guitarist, dies at 65 following battle with prostate cancer CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWJRYTM2cDZjRE5OVUExdGo4OHEtUzA1cEprMVBqanFBYW92TXNFOWVZS2p6YXMxUEhodGNuZUxzSkRhbno3a0NDMDNqd3UxMXdRUUN6S1dGTGtJVU0zVzdwbnVNZGVBZkNBanNNNEVKczk5YWtyVXIxeUVVZGpqWA?oc=5",
+      "published": "2026-11-26T00:32:00+00:00",
       "beats": [
         "Politics"
       ]
@@ -71,12 +74,72 @@
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
-      "title": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly",
-      "summary": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN0dJdjVwenUzU1ZaV0l0cGVyeTRQUEZuOHlEdGpHVGFKc0xGcXVIWkJDbWRyc2R2X015X283NmViZmZBLUt6OGNQZDBUdkhKYldOYnV2RENtZThoVnhTRUxqQVZpR0dZb1ZnYWQ0VEtNMTU5TGow?oc=5",
-      "published": "2026-11-25T18:05:49+00:00",
+      "title": "A man in Boston won $1 million in the lottery. Then ICE arrested him",
+      "summary": "A man in Boston won $1 million in the lottery. Then ICE arrested him CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lbnVubFlCMzNHNGhCdmgwQ1BDLUpHYUdSNDVISFBaczdXbUxKQlBvcmNOMjk5Tk9ieTVRc3FEczZTRC1nQnpLbV9yaDg0N19ZMm1GQUdidDJvYVM4djlpT2RHWnBOeHpqOVFR?oc=5",
+      "published": "2026-11-26T00:18:00+00:00",
       "beats": [
         "Politics"
+      ]
+    },
+    {
+      "source": "CNN",
+      "source_feed": "CNN",
+      "lane": "General",
+      "title": "The government says Iowa detonation results exceeded expectations. Now what?",
+      "summary": "The government says Iowa detonation results exceeded expectations. Now what? CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBScHIzYXNRb205ejBEdk5CcmpOM1lkTkdvMmhKbGhDQTJJX0Y0TVNNUDZPaFdwakV6ZWdPb0h2SWZDTXpiWWVac3ZaZ2Q2Nk9hSjF0bEVaVFFVdngyTVlRSzFLSWxVcjlGcmVmWWFHelBCZw?oc=5",
+      "published": "2026-11-26T00:10:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Iowa Detonation Live Updates: With Lead Tests Underway, Army Seeks to Ease Fears",
+      "summary": "Iowa Detonation Live Updates: With Lead Tests Underway, Army Seeks to Ease Fears The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WTdhRUhpRWxPb1V3LWV4X0htalpmRHNTN0RVNDc5cDNaQUNqWHp4YkE2OGNocVNLT0dxYU1IbTctUjdubUZzZ1luNklkUzVLOFVXcUNlcFJ1OFpWUl93X0NmSWFnb3BRemFTTExKcENESVlpMkF6LVNCSW0tYmc?oc=5",
+      "published": "2026-11-25T21:16:07+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "In a flash, the Army blew up nearly 5 tons of a degraded explosive at its plant in Iowa",
+      "summary": "In a flash, the Army blew up nearly 5 tons of a degraded explosive at its plant in Iowa NPR",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMTJhbFdKZnZMMWI3UGpaRVJOV19aNW1qeTVHV2lPaEp1djVJUVIxX1pwUE1YZ0FiT3plMFlYVHlmdC0tS0xRMHVOeVFXRHB3UXdoc3BXRzBPZHE1dVkwYjdxMndWSlNaQ3BNbS1odUNnR2N1X0xZQlpwa0RrQzhWMmVBeEp1WU0yamRhYWFRMzZJNy13RTVCNUV6cnRtUGtCUmZUV2tMVVZvblBxbktYMnNDdklxQXRnZ1ozQ1JQcnY4UmRRT3ViVnVCOA?oc=5",
+      "published": "2026-11-25T20:59:50+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "summary": "SpaceX, Musk pledge to donate a share each to active Trump Accounts CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JR3BiQWdENkItZjIyRUU3TWVYVFB3N0dYcDlNNmU3NG1lZEVXUFZ3dl9fVUpKcWwyemZkYTYtQ25xbVNnMGZ5SUNiWjJyckxXNzVJSEg5ZWkyUnM2UEZTQVJLTllDSlFCdU9lLWU3RjRmdlZGZ0dv0gF8QVVfeXFMT1p4Yzk2RWM5RVp6b2J2VEZObUpGbktpcXBFLTdHN3BadmxTeFZNdmJWV2Y4YjdVZnVTMnBEU0R3WF9fZXhWY0dNNUpQbjVwTjhYazFwMDhJRXd3VkNxLWRIVHpJZzVvRUtWbUhzQ181cUYtU29xdm9aRVBYOQ?oc=5",
+      "published": "2026-11-25T20:07:57+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Did Richard Burton actually dish on having gay affairs? An investigation.",
+      "summary": "Did Richard Burton actually dish on having gay affairs? An investigation. Queerty",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSnlVeWNnd2xpc2ZMRnRGa0VDZFA0RUVLNEtMOXFvSTUzMjAwNW9oOEZZVURNbjh1N0RUcnNlMTB6bTZhRjBkX1pURmVFd21BX0FNbURoMmwtdVRBQ296OXhxVDhkeXpodW1HZ2wwZkxqQ09qem5KRmRHUnNlOTZyZmJyOVdWUUo0WGhBbVJmUnpXWGd6OFlUQVFWTTZHODA?oc=5",
+      "published": "2026-11-25T18:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -92,6 +155,18 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "Opinion | I’m a Therapist. I Wish These Patients Would Not Cut Off Their Family Members.",
+      "summary": "Opinion | I’m a Therapist. I Wish These Patients Would Not Cut Off Their Family Members. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcEQ1bnBnRHcwaGxiZFhSNjNtb3NMbV9QUnFkc0gwcXVZMEtKWVdRQzAzaTRJb2VlaVM5SFJiMkVtckMtY0FJT3dPbXlrLU11WjFCVmQyU0RVRnlQQk1oUnA4NkotYU9LSVQxX0QtZk1PVDEyTjJDV3Y0MTh2RHpwRHlaeXRhNW9hZ1ljRU1POWgwUQ?oc=5",
+      "published": "2026-11-25T16:00:05+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "NPR",
       "source_feed": "NPR",
       "lane": "General",
@@ -101,54 +176,6 @@
       "published": "2026-11-25T11:50:05+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives",
-      "summary": "As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb09NaDF4eUpfcW9wOEFDTnVwblRKSmFOYWItZXJZY3d3SEgxa2VxX0wzWm9BTFpodndFbFJWRzhXc0lNckQtOWQ4OVJJcEJlWjF3OXBubTVSckpSRl85SzdzcEIwNUxkaGtQUU1fZ2dfaXRDSkRnMjN4Ylp6dUV5YUZyMmFGUFhmekx5WQ?oc=5",
-      "published": "2026-11-25T10:02:47+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Army detonates nearly five tons of lead-based explosives in Iowa",
-      "summary": "Army detonates nearly five tons of lead-based explosives in Iowa NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb21YbzJuRjk3clhNeVRGeGxIaDJGMWhwakVXck1wSW9TN2h5QVhvWnpnVUtBMm9fNVhKQUc0Mm1FeUZ6Zm9va3dZU0JEeVpoTTZXZjM5cUFGSGdndVZ5bWJmVWU5QVBtekhaMzM2ZHNNcU41ZmJEUExwYndTN0djWWV2UFlQMFAw?oc=5",
-      "published": "2026-11-25T09:41:05+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Former VP Al Gore returning to his roots to become new owner of Tennessee newsaper",
-      "summary": "Former VP Al Gore returning to his roots to become new owner of Tennessee newsaper NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3N5bm1QT0Y5UV84YVBCZzNCQU54eDgtS0ZjXzB0SzctVkNnb2FfbXJXcS1DeThoTWZSME5fQk5jdXNVSnJXYWUzTWFrQm5NblZCZWhRQjh3VXNrenhEZy1LUnNtQkp2RXY5NEZ5c0lTcXNYQU8tdGdwZ3BvNkFjS3Y5b1FFM2s?oc=5",
-      "published": "2026-11-25T03:28:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Mario Cantone sparks heated debate over the word \"queer\"",
-      "summary": "Mario Cantone sparks heated debate over the word \"queer\" Queerty",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW9Fbk96Nm5FSERFMzBRMFRzVDF0dXpXWVBIM1ZibGF2UmN1ZjJhYjlkTndiQjdxY09IQTQ5NnBMTEFEc3BnRklTRGxHN2l0dmxfQnNwd04yVzlyMTBiSTVLdHlaZjc1a3dxT2F2R1BReklqLTc5cFZ0QllQTUZKLXNfR3dnMC01ZGRwcDJMNVBFUQ?oc=5",
-      "published": "2026-11-25T01:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -176,19 +203,6 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Tennessee’s Victoria Broderick becomes the first pansexual person elected to U.S. Congress",
-      "summary": "Tennessee’s Victoria Broderick becomes the first pansexual person elected to U.S. Congress Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXlEMGRET2xac1JEX3h6SHVfMWh0bWxFNERMUDFVVTMxUHpZNFdGemR5ekI4Vm83dFEwS3Uxc3I3NTRrTzF2Vm15SjJiSWF1V2F3aVFtN0t2NUliSHJkV1Bjd2tDbEJuV0JYN0Y1NTRNUVlNU3RjNWc0V2JpQjl1bGhYcFRvbzNq?oc=5",
-      "published": "2026-11-24T21:32:34+00:00",
-      "beats": [
-        "Politics",
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "Education Week",
       "source_feed": "Education Week",
       "lane": "General",
@@ -198,6 +212,18 @@
       "published": "2026-11-24T21:18:11+00:00",
       "beats": [
         "Schools"
+      ]
+    },
+    {
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Straight guys cash out on Grindr, new apps ssslither around & Sniffies gets snarky",
+      "summary": "Straight guys cash out on Grindr, new apps ssslither around & Sniffies gets snarky Queerty",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGRTOWlISmQyc3JaYUxqMVpReV9wTWdWa0ZmY2w4cjNnc2xyeDdxR25ZcVd2YzJzZTN4YmQ2N0x4VXhJQlY5VkdXeWpjN0dPLW1PTnplb2g4X3VSa3pNejFHOGlkWV9hb3VsZkFHRElpZjNUYnU2ZTRJRkFrT3pqUWx3UUJJbXN5eFk4ZWdfN3FQeENPSzZYaGpBM3ZWbzJXb284b0hOWQ?oc=5",
+      "published": "2026-11-24T20:00:00+00:00",
+      "beats": [
+        "LGBTQ+"
       ]
     },
     {
@@ -225,18 +251,6 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
-      "lane": "LGBTQ press",
-      "title": "Straight guys share the ways gay men hit on them that made them briefly consider it",
-      "summary": "Straight guys share the ways gay men hit on them that made them briefly consider it Queerty",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnNNc3dHTzQ5SnViM0N5T0wxaWVrLUI2dHV2M21Vcl9CNUdwMnRaaHBaa3Bhd3Z4bDF4bjBwbklwNEdVZ1lVN1ZhY2NYb19MOXlTenJRQm0yMUFiSnMzVnZTaU9MV01Xd2ZrVzNvdWNQSU0wT3RsdzdLT3FMMnhkRUhSSF9pQ0Q1ekpaZVFqUmhqOVNQZkQycHZrRFVvYWRWTWlUZi1jZWk5RzRjbTd2TFFfWUFDeWl2?oc=5",
-      "published": "2026-11-24T18:00:00+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
       "source": "CBS News",
       "source_feed": "CBS News",
       "lane": "General",
@@ -246,30 +260,6 @@
       "published": "2026-11-24T17:39:00+00:00",
       "beats": [
         "Politics"
-      ]
-    },
-    {
-      "source": "LGBTQ Nation",
-      "source_feed": "LGBTQ Nation",
-      "lane": "LGBTQ press",
-      "title": "Ethnic & single-sex events canceled across Florida due to new anti-DEI law while Ron DeSantis whines",
-      "summary": "Ethnic & single-sex events canceled across Florida due to new anti-DEI law while Ron DeSantis whines LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzZSU2JReng1X2JuTGZ2MjJycTBJSFlKSmhxVjYtOFFsSEN4ZHBMWDUtdjNVdDV6ZmpVajFMQ0JOVkFUUWlEUjFrUHhHMVRDZngzZGJxTVRqZDcwMHhQbTFjLVctbVI0d3VlLVg1TGhJOHdIUHh3VnBDV1F4V1NzQWJGRDdYWnJVX0F4WHBwV3cydVBUQnlxWXNSY0M3dElDVDJjRk1FQTFzMkJjWDhTbXVwYzRDeWlTYjBjakU4bEh3YXRZRTlnMU1QOA?oc=5",
-      "published": "2026-11-24T16:34:07+00:00",
-      "beats": [
-        "LGBTQ+"
-      ]
-    },
-    {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Tommy Tuberville has an idea for those fleeing ‘woke-show’ blue Texas: Move to Alabama",
-      "summary": "Tommy Tuberville has an idea for those fleeing ‘woke-show’ blue Texas: Move to Alabama Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUZrS1VDcHI2eWNRMFRKU2VTalJCYi1UdG1icjY0WnhFbDBPamFvdFlwMXRmNWZVTlByb2RYbXdMWURGdFFoTF9obGhWOFAzTElFUlBieU9pYzY0Z0lNUS1JanlCT3d4dUZmc1I4YkFvUTlDMm5GTElWRVpfMm5xb1pxbw?oc=5",
-      "published": "2026-11-24T15:28:45+00:00",
-      "beats": [
-        "LGBTQ+"
       ]
     },
     {
@@ -298,15 +288,16 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "New York governor Kathy Hochul signs AI toy ban into law",
-      "summary": "New York governor Kathy Hochul signs AI toy ban into law NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2p2VFNqOHU5NTlQdkphdV9lS1pObWJTdnFtRngwSlhQQW95TnJHMGhoUHFCYklDdVdDNHpCRlh1ci02QUNTZTlYdHFxdk11RU9HZFpETk9yMnpVVi1zV05adEk3ejYzaW11TW5GQlA0S1VRd096WU1sMUtJZGtNMlNUUTlqX0ZCNmMxZC13clZvaXJLYVJhYTRwQk1LQ005V2c?oc=5",
-      "published": "2026-11-24T10:00:00+00:00",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "GOP congressman-elect brags about thirst DMs from gay men in his plan to turn them Republican",
+      "summary": "GOP congressman-elect brags about thirst DMs from gay men in his plan to turn them Republican LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcTRpdHk2VWRlQnNDWU5tTTN1dmdJNHo3cGZyMFFpdXpoWDZNTm0xTGtwZWtMWm1tU3VoUVhfSlotZlFZN0x0QUREd1dXOEJ0ZmRCTEkxQjU2bTNlQ2RzVThkTVI0V3FSN0ZmMDA2cThndFctaXVvbVNXX1Zld1JKTUFPbUNCTlFKVms1RFoyTXhyRkFhVkMyMW4yeXNGTVpTNFU3dEhYbzFqSzhrM0pGQmgxandVRnNSS00zc29HMU0tckkyem9BbXlR?oc=5",
+      "published": "2026-11-24T13:00:00+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
@@ -332,18 +323,6 @@
       "beats": [
         "Business",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "NBC News",
-      "source_feed": "NBC News",
-      "lane": "General",
-      "title": "Jensen Huang reinstated as Nvidia CEO after Trump pushes board",
-      "summary": "Jensen Huang reinstated as Nvidia CEO after Trump pushes board NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5",
-      "published": "2026-11-23T21:34:39+00:00",
-      "beats": [
-        "Politics"
       ]
     },
     {
@@ -374,14 +353,38 @@
       "source": "LGBTQ Nation",
       "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Failed MAGA school board president passes trans sports ban in violation of state law",
-      "summary": "Failed MAGA school board president passes trans sports ban in violation of state law LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2lCRzNkSnZLajN6MURtVXpJdXhDc2VGS2NvSnh5LUN1UGplYW42M2Z3WnFJS0RsOFJxSV84VlpRVXlOTnVJcUVibGs3Ukh3RDJEUEEza2ZUWW5pMHo0UXAyYmkxYV9PSkNjbUNlRHZmRnBCVE1sM0NuLUtnd3hQdWRfeEVmMlVid2piRFA1enhEczQzVG5veTZEZDE3SW5yS1NaaGxoRkpFNmFWRDJQLWVBZnVEelU?oc=5",
-      "published": "2026-11-23T20:00:00+00:00",
+      "title": "Gay congressman threatens Trump’s kids with subpoenas",
+      "summary": "Gay congressman threatens Trump’s kids with subpoenas LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmVpVVdzN0t1YTFzR29uX05aa0JMNkFibnJpd3VyaFlDUXdWMF84Yk1GU1M3dkFGQjdyQkU1cHVJT2NxRzM5N2F2Wm0xMzJhSnhCaXhkcFlFTndHLU56RzVEcTRRS1hXa3paV1dKaVJ3ZHlqYnkzX2lGT2dqelVNZ050U2FQQ041STlGNTRUU0E2TjA?oc=5",
+      "published": "2026-11-23T18:28:13+00:00",
       "beats": [
         "Politics",
-        "Schools",
         "LGBTQ+"
+      ]
+    },
+    {
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
+      "lane": "LGBTQ press",
+      "title": "Ken Paxton drops lawsuits against doctors providing gender-affirming care on his way out the door",
+      "summary": "Ken Paxton drops lawsuits against doctors providing gender-affirming care on his way out the door LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUk0LVVMQUFnaUNqejlWU2YtVkxRaE9FaUVHU2ZFVV9ZU3ZKTkItR2w4ODBJaXlZam9hS1BqZmxzbnYzWWtLTDJqelpPWmRIY2RlLUR5bmRTY3U4dVNXRHhYTUZ5eUJrMEVJWERNZ2E5dWlQZTNTUnJpUzRoT3NaY0pLRkhlU0lvTW5XNm9pVEY1UlNyeTQ2ZDk0RXhZS2w2UWk3XzFvR0pJelhEbWgybkVEbk1ZclVRaUFHckVKU2hIQy1sTXdMVFo3eFBRYW8?oc=5",
+      "published": "2026-11-23T17:53:01+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
+      "source": "EdSource",
+      "source_feed": "EdSource",
+      "lane": "General",
+      "title": "Trump administration rescinds mandatory pay hikes, benefits requirements for Head Start",
+      "summary": "Trump administration rescinds mandatory pay hikes, benefits requirements for Head Start EdSource",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85aldoelkxOWxpV1ZUVkNWSVlESk1WQkZrR3NUc0pFb1J4M1Vzb09nOGhhLUw0azk2Z0Y4QllaTXlpLXd1aVN6Ym04Q2VqTkV3WHM5MENNUUIwVzRiRVhMcFBtZWdVejBBclNxS2otTzVKcUtNVkHSAesDQVVfeXFMTThRZjBzdG0yMWlWczVfbkN6ZFlQY3ZoM0xvcmpTOXB2Mm1oYUpIYTJCc2JUMy1PRFpBMHdCdWoxQVlpaE42SG5ySV8wc0FVdU5KT0J5TVNpRmkyZGZ6cmlpaGlhRFJUNmJnVUhfWXBial9lRklSM001aTVXNU1BQWxkVlBxQkVENkRJblNEbGpCWDU2SE1DQldQdVVGbk5tOWFNMkFiLU9kWWFkUkg4N1M4QWxXYk5ERlZ0SFNNQzJoOHBydEo5a3R6Nzc0VklyNVA3cVZhQlpOTWlWWVhPMUVycF9YY1RnS2w2MHllS3E4Y1pnWmlrUWYtTlZUTk0zek90eVlRcjhpNE5QaGdyMDVHR1BQSUJaN2VzeVpiMUpBazBGSUx5bWw4M1BhYThNRURBZk94VjBXNmRNdHM4SVZjSFZTdTNVVW1QSkVOc0hMVkNjRUt5a3RlU3FRemY2Y25nUjEtanNLVXpiMlA1cjU2MkwwRFItbVpQdHoyeU9BbGRqTWtYa1ZXSTcydVdoa2ZBTUl1NWx4R3pqOXo2RVJrYXZnWDZvTlhSU0FfclpVa3FDSFV3R1BKcXFVSDdhZVlSaTZJWHRQM3NwaE9tdVFWX0xXUTd3azdiZUJKR3d4VWFDWDVrcFhJbnM?oc=5",
+      "published": "2026-11-23T16:42:12+00:00",
+      "beats": [
+        "Politics",
+        "Schools"
       ]
     }
   ]
