@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T23:11:23.977078+00:00",
+  "updated_at": "2026-11-27T05:14:54.467456+00:00",
   "lookback_hours": 72,
   "story_count": 30,
   "sources_requested": [
@@ -19,6 +19,42 @@
   ],
   "errors": [],
   "stories": [
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "This 170-year historical study says ‘major market collapse’ is coming",
+      "summary": "This 170-year historical study says ‘major market collapse’ is coming CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ya1V5N2RpM0lOMEV4VUh2LUdTMmNLY3VpdENhM3NqMF9OU3YxWlZMUm5YcVN0cE5kUVQyckNQbDhHZGtGMm9IMTRycENmYm9TVlE4cDlJZ3FjWk5MTmdJVXdYb0RvTDVHMFBLMmF0eDhISHc?oc=5",
+      "published": "2026-11-27T04:07:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
+    {
+      "source": "CNBC",
+      "source_feed": "CNBC",
+      "lane": "General",
+      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "summary": "China industrial profits growth surges to a 5-month high of 20.1% in October CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JQ0RmSWNUQ3pzR1BOZGJwRUVKOTdiUExRcC16V2dWclhwQ1JKbU8zN3JveDhkek40SktWN2FjSXFyNEtabldSeHN1NFM0bTVDTkxHNWNZVVR0VlhJMGh0b1dNcURqVzg2OHg3UVJDVnBQeUwxa3h6RQ?oc=5",
+      "published": "2026-11-27T01:38:00+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "NPR",
+      "source_feed": "NPR",
+      "lane": "General",
+      "title": "The case for data centers",
+      "summary": "The case for data centers NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GTVp2bTAxUG8zd2IyUXhiZTdUNloyektueHJKQTh0dVNzNFpRQzBicGZld0liQUlhZ01sblk2S0tXdnVBeXNqTEFibWhVS25SZUMxSTBHVjFJZDNnZ1FNVVJvNjVrTkdTUFFXbzE5dlNCa3RveGlvQnVn?oc=5",
+      "published": "2026-11-26T22:24:00+00:00",
+      "beats": [
+        "Business"
+      ]
+    },
     {
       "source": "NPR",
       "source_feed": "NPR",
@@ -44,18 +80,6 @@
       ]
     },
     {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "With Lead Tests Underway After Iowa Detonation, Army Seeks to Ease Fears",
-      "summary": "With Lead Tests Underway After Iowa Detonation, Army Seeks to Ease Fears The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WTdhRUhpRWxPb1V3LWV4X0htalpmRHNTN0RVNDc5cDNaQUNqWHp4YkE2OGNocVNLT0dxYU1IbTctUjdubUZzZ1luNklkUzVLOFVXcUNlcFJ1OFpWUl93X0NmSWFnb3BRemFTTExKcENESVlpMkF6LVNCSW0tYmc?oc=5",
-      "published": "2026-11-26T16:50:00+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -68,18 +92,6 @@
       ]
     },
     {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
-      "summary": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydHdQWUpYRU16SjgyRXBibzZ6UFN4RThEMUV3VkRJV0NCNmk1Nm1wTFlvTnpsLS1VVHdmczlIQjZRN0RKZnlBdm5oSmFUY0lCaWV5dTY2bDBiRHcyV0lfMjk3ZS1TQW1oM3F0TTJFRdIBdEFVX3lxTE1hb0dnX1V6U3RzcVduQUhNcHBONFFMMVVaaThOcEc5dy1EOVMwUXBVM1lSMWljNm12aTJXT0FvMWdkaUdyTEZyZGY0dHJ0R3kxQllKQ2RaMl9MYmxIY2pHcTh6TWVDRkhCSkVqUVUtbVFOam81?oc=5",
-      "published": "2026-11-26T15:34:08+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
       "source": "CNN",
       "source_feed": "CNN",
       "lane": "General",
@@ -87,30 +99,6 @@
       "summary": "Ancient Egyptian structure hidden beneath Nile mud detected from space CNN",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHR2dVlYeEdGUldYeXdwbHBLV3Z2RmxTWWxjYzBLcno0bDR1UU9oN3VWTWtIVTF4QVFGOTJEVmFNM2xqb093Ni10ZE5UREpCRDB0czJLRGJHWXRMREJQRjNVdEE2Vm8wTkxXNUxrYmpqUS1GQ1cyM0RSb0F1SDk1TWo0ME1Nb29TYlUtT3JNUFU?oc=5",
       "published": "2026-11-26T15:00:15+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "CNBC",
-      "source_feed": "CNBC",
-      "lane": "General",
-      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "summary": "Spain’s Pablo Hernández de Cos set to lead European Central Bank CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wbFZhU2RTR2lzYXhWdFpyZmFnSmJ4TW1DYXJiVmJaaE9NVGROMEhEajM2TzNlTjRrbTZFSlpxQ0gxa2FXbk9CV3ZMTTl0SVdOZHNDa3hPMEp2SkRYTzZobGxmOG0wX0tVa3drckwwV29xUUs1bWRIVlhFVXVlQdIBgwFBVV95cUxNYzRrZDU0VWpsdFBpTEt6b1dnd2paU1pSOG5hdTljQi1yZkZBdU5SVTgzeGQxNVFPS3pLUWw0SXUzVEJVSFBzZVZnc09mcEhYbVQ5ZWMzX3NwajRnMERfSTBGR2pkX2s5MzNHdGZXd3VZbTI0MlNieUMwZmd6OEdRSURlTQ?oc=5",
-      "published": "2026-11-26T14:20:44+00:00",
-      "beats": [
-        "Business"
-      ]
-    },
-    {
-      "source": "NPR",
-      "source_feed": "NPR",
-      "lane": "General",
-      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-      "summary": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uQzZ2Z05RVGJOSUNFUUc5MkFqWG01c2FkQjA0TllLdGY2cGc2MFplakYwWFVlcGFiWVlIdy1FWnAzVkJIejNtMk9FU0Z2QWhfUXFVSW9Qd2UwV1JiaGlKRjVVYi1qZ0NYOE1yT1BTRlNRdGc?oc=5",
-      "published": "2026-11-26T13:47:09+00:00",
       "beats": [
         "Politics"
       ]
@@ -131,22 +119,10 @@
       "source": "The New York Times",
       "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Opinion | Donate This Holiday Season: CURE Epilepsy Needs Your Help",
-      "summary": "Opinion | Donate This Holiday Season: CURE Epilepsy Needs Your Help The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFQwY2NNdy1WbTk2YnhfVGdVRUlGY2ZNakdRdU50c2toYkhlY204bWtQTWMtekdrblpkZXJRMEZVenBISHgwbjVjeDJaaVM1VUYwM2tETTJabko3SngyVjZHSXhqdlEwVzExQ1F2alNZcDJXcEpfa2NIYzlVbXU0a3dVVQ?oc=5",
-      "published": "2026-11-26T10:04:23+00:00",
-      "beats": [
-        "Politics"
-      ]
-    },
-    {
-      "source": "The New York Times",
-      "source_feed": "The New York Times",
-      "lane": "General",
-      "title": "Our Favorite Books for a Last-Minute Holiday Gift",
-      "summary": "Our Favorite Books for a Last-Minute Holiday Gift The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42NWdOQTNiQVRsTS1KUXB4UXVuZWJvTHlfVFdLMVpuT0ZNOGgyck1TcVFaU1pZLUFQTkxYNjVodk5tOGpveV9fakJ3SVFlSnF5UUc0ZFU4SlR3Q3Fyb3haV2NUZmxXMHFtZ3JxeFJEWXFKREw0Rm95dXRB?oc=5",
-      "published": "2026-11-26T10:01:10+00:00",
+      "title": "Opinion | These Batteries Are Big. And They’re Revolutionizing America’s Power Supply.",
+      "summary": "Opinion | These Batteries Are Big. And They’re Revolutionizing America’s Power Supply. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVydER0WlVveVpxNXVCNmY5N2h3MFl1dGhleUxKbXNHSExNR3BjWDlGWE13Q0k0T28tOWpnbUQtaTlGNzRNbURNWFlDZmQ0SEdfVERNVXJHZzduaU1mblNUUUhxQ1hDUU9hYnZlXy1oMksxMDFqNVV2bm5FMHF1bmVoWDlxaUJhV3oxXzBZUFk?oc=5",
+      "published": "2026-11-26T10:02:02+00:00",
       "beats": [
         "Politics"
       ]
@@ -164,6 +140,30 @@
       ]
     },
     {
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
+      "lane": "General",
+      "title": "In China, the ‘Female Gaze’ Is Driving a New Entertainment Boom",
+      "summary": "In China, the ‘Female Gaze’ Is Driving a New Entertainment Boom The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0ZHQUVfTDV4LVFPOEo3cHZtTE0zNVNLNE16bmdXem1QZmRoZUpHVEY1b0NBSmFhTHladFMtanhSOW9Zc2N4TC1MWThSV2pmaTBQeF9BUURPY0JNSTBiRzlldHpYLTFlcjRhY09fMUFLTk9idHdpM2VXSnZqaXpPTHI4Z2VibVROSUtv?oc=5",
+      "published": "2026-11-26T05:00:17+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
+      "source": "CBS News",
+      "source_feed": "CBS News LGBTQ",
+      "lane": "General",
+      "title": "Driver in San Jose crash that killed motorcyclist charged with vehicular manslaughter, DA says",
+      "summary": "Driver in San Jose crash that killed motorcyclist charged with vehicular manslaughter, DA says CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEY2TnNJTVlaLU1rRl9ZQW1uTnpsYVc4OXZUTU9yYnFqTEdCRzczU1QwS0QxVlZLYVgxOWZlcU9Ib3FIYUFDZjVOMkt5bkhFMzFXNHlRZTdleFFXdEpKb1pDYzZ6ZzZaR2RBa1l3TU1IZHhZcERvblhqRTEyemNMbkcxMGlxb0EyM2c2ZDZPN3JnWXZpNU1CRzlGcXZhYWVadVhRTF80VEk?oc=5",
+      "published": "2026-11-26T01:47:18+00:00",
+      "beats": [
+        "LGBTQ+"
+      ]
+    },
+    {
       "source": "NBC News",
       "source_feed": "NBC News",
       "lane": "General",
@@ -176,27 +176,28 @@
       ]
     },
     {
-      "source": "CBS News",
-      "source_feed": "CBS News",
-      "lane": "General",
-      "title": "2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, a CBS News investigation reveals.",
-      "summary": "2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, a CBS News investigation reveals. CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MazBWOG43cVJLUGh2S1V6N2JMc0w4ck1MYlVVVnhMLThiQ1lIOTZZQmVzdTBpMzljVVBJbDdNZm1oLXh5WmNNMXZybDl2SmR0dGNld3ZJRFI2NnpXX0R6S3hiWmxfTDhmN2txdFNxaEl4TVU5N0E?oc=5",
-      "published": "2026-11-25T23:10:00+00:00",
+      "source": "Queerty",
+      "source_feed": "Queerty",
+      "lane": "LGBTQ press",
+      "title": "Real Housewives star Porsha Williams & partner Sway announce their engagement",
+      "summary": "Real Housewives star Porsha Williams & partner Sway announce their engagement Queerty",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb01QbEFvMF8yQWhqWFE4T09jd3dlWjI1bXcwa2FRR1BnelY1VERJUnBVcnB2YnRGZS1KUFZTRlhxeDhaTVhKc21WNmxQdmVaS29HWmVIekxKMXFFcnNXdTFIY0pIbUZ4SW15dGQ4cldXMC1JdVhLLURoRDl2OHRhbnpxTzJucmVJZDh4VV9RV0h1ajBWWm9NRkhqRWZGMW44QVh4cjh1bXJBVW4wUmc?oc=5",
+      "published": "2026-11-26T01:00:00+00:00",
       "beats": [
-        "Politics"
+        "Politics",
+        "LGBTQ+"
       ]
     },
     {
-      "source": "Education Week",
-      "source_feed": "Education Week",
+      "source": "The New York Times",
+      "source_feed": "The New York Times",
       "lane": "General",
-      "title": "Keys to Improving Career-Tech Education, as Those Who Work in the Programs See It",
-      "summary": "Keys to Improving Career-Tech Education, as Those Who Work in the Programs See It Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYzFxS2NVS1JtVE0zV1B1dTBaWlI0YTZ6bWhpaGRkemhYVFdGN2xJd2xpLWtaWXdsXzRBTGNFVFVYWExfRV9PamlLV1hxdGNsTFpKUmtNOW5oQVpmSEkwWmxXWXRScFhTNUxvNF9nTFZBNVVIX2U1NnBjcjFybnlMZjBkZ283a0w5bExQd1B0THpoSC1waElsYXpDRFROZzBkQVI5VTNsbmhpTHRkdGowejA5MHQwRlFWbnUtOXRrNWpVelVCUzZtUw?oc=5",
-      "published": "2026-11-25T21:50:27+00:00",
+      "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+      "summary": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmJUY2hET0ZZbWNZTUZCeUhNTEd4LW82aGZuUTJyUVEyYm83ajNyNnRrSHd0aGlRUi1TeWo5bkQ5STdYZ2tMZWx1akV5Q0FpRFR3NWMwZTdweS05WlprbURvRk1MS0t6dG1sQWlpNVBYcUJxN19qSVlGUFdPS1hMV1JR?oc=5",
+      "published": "2026-11-26T00:53:51+00:00",
       "beats": [
-        "Schools"
+        "Politics"
       ]
     },
     {
@@ -212,15 +213,15 @@
       ]
     },
     {
-      "source": "NBC News",
-      "source_feed": "NBC News",
+      "source": "Education Week",
+      "source_feed": "Education Week",
       "lane": "General",
-      "title": "SpaceX gets green light to deploy 1 million satellites for data centers in space",
-      "summary": "SpaceX gets green light to deploy 1 million satellites for data centers in space NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE1ZSDI1cldnWVJ2dFE3RnRhVFlXWXZCcW1aR3EwcEVfYUh2ZWJ1MWV6S3hDTEpXYVJ3VVlfM3Y5OGVrZzMzMHdDSzEtbkVHV3hJbDR4ODFueUtxNEVENzlBSlRjdTRqcWc1SDJ2dUlGcFRIdUNKaTJId0pPZTVfdmJCMWFVai1WTnRQdGFSc21ZTkRodVBCTVAtbUNLRW1HREwzY2xSU3Z3dGl5OWtv?oc=5",
-      "published": "2026-11-25T19:54:25+00:00",
+      "title": "December 1, 2026",
+      "summary": "December 1, 2026 Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11UXpuank5VzBvXzdLNlJHYnF3SVhKRnQwdkdxbWJnUGhLSHYzMHFJN3dmdGVzaHh3WnJKNTZ5Y1dSbjZNdXJjZmh5M3lSczk0?oc=5",
+      "published": "2026-11-25T20:13:36+00:00",
       "beats": [
-        "Business"
+        "Schools"
       ]
     },
     {
@@ -286,6 +287,18 @@
       ]
     },
     {
+      "source": "NBC News",
+      "source_feed": "NBC News",
+      "lane": "General",
+      "title": "Army says controlled detonation of lead explosives was ‘a huge success’",
+      "summary": "Army says controlled detonation of lead explosives was ‘a huge success’ NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWU4yVDdZUVlwcWV2QmVwb3JmekRSTXhYLVIzRnF5eUdVUXdMOUJ1N09VNnZEM0tzLVBiaEpIbjRMTjVTMFNiY0VlZVdiclNuM2hnS0IxWDBOd1hPblA4YnRXc1hNM2ltS2lEQUpjcm5HWGt1ZUJqLWZzcXlvV1BYMXBlT2RpX01TWHZxZEpFUkxIU09NNnZ6OF9jVTBSU3VyNUNKeFJyWVdWUjdPNlZXclptVG5rSmc?oc=5",
+      "published": "2026-11-25T17:42:21+00:00",
+      "beats": [
+        "Politics"
+      ]
+    },
+    {
       "source": "EdSource",
       "source_feed": "EdSource",
       "lane": "General",
@@ -310,14 +323,15 @@
       ]
     },
     {
-      "source": "Queerty",
-      "source_feed": "Queerty",
+      "source": "LGBTQ Nation",
+      "source_feed": "LGBTQ Nation",
       "lane": "LGBTQ press",
-      "title": "Andrew Scott’s interview with Uly Morazan goes viral for the most flirtatious of reasons",
-      "summary": "Andrew Scott’s interview with Uly Morazan goes viral for the most flirtatious of reasons Queerty",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlBFb25BYThrN3VhVHhPOHQ1YUNCWDA1dUJ1akpLVlJvdTBjV0lTWFZwTWNjcW05UFU2dUJ1TnFfMmh1SFpCUTBhMlVTVno0VWhJZUQtN1VDU3JDZHJ2NXRmZllvUC1pR2lCeWczTVdJaXZCVElZWU4zUTlsS2FXNXRqUU4xd2YwRmRySXo1OHdHMS1mZVJiYmZDNGxYTG51T2xVX2F3QmNGcl9sY1hNOGZaTUpxUmNNeDh1MGJB?oc=5",
-      "published": "2026-11-25T16:00:00+00:00",
+      "title": "University fired their only trans professor after she started using the women’s room",
+      "summary": "University fired their only trans professor after she started using the women’s room LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0RkSDREUTNHOFg2a3N2Q2RJZTN1cnUtWlEtNWJBdmc1SEdKSVlvNi1LT3FvaWtmMkpLcDktQzM1WFJBbExmS09fcU4wN1Fwa24zLW5qcjVMUWtFTEQ1VWhjM1FTZlI3OEFtcTBldnEtc1BlaVpDVHNoemNJZGIxUzdrOURkR0FVbUhhQXpIWjVPSWRzTFZpQlFRLVE5c0o1ZHcxNXhzaGpRWUppR09qWXhNVFNtQkhJRzVpYQ?oc=5",
+      "published": "2026-11-25T15:23:08+00:00",
       "beats": [
+        "Schools",
         "LGBTQ+"
       ]
     },
@@ -337,25 +351,13 @@
       "source": "The Advocate",
       "source_feed": "The Advocate",
       "lane": "LGBTQ press",
-      "title": "Trump administration breaks with 24 years of U.S. precedent on LGBTQ+ rights at the United Nations",
-      "summary": "Trump administration breaks with 24 years of U.S. precedent on LGBTQ+ rights at the United Nations Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmpyWEhwR29pUjBhSjlsSjZGbXNRVEd5Zndtc3pVekJ5eG1xdVRjR1ZLRnN4Qm5tcjVyd3JOejl3ZExUUkMzNHZBbXFZMm1ycUR3ZkJEamVjaXZPa0Y4YVI1VllXdF9nUUdxRlpJZ1UtR3FwNGd3aWl4VU1FdmdXNzNjbEQ2M1p3?oc=5",
-      "published": "2026-11-25T14:00:41+00:00",
+      "title": "Reagan-appointed federal judge strikes down Trump’s restrictions on HIV care for transgender patients",
+      "summary": "Reagan-appointed federal judge strikes down Trump’s restrictions on HIV care for transgender patients Advocate.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTUxeWtSbEVBdzVvNDkxd18zSElNYmZjbUdwMi1mLXBJWkg4ejhGanFhLWc2dU1sdVBFN09CM3IwcVQ4ZGFFQ1Z6ZFlMR0RPdVpJcGhTZHBhUjFtRlFFN3VqY0RzenhqMVgxN1VBTmJtMmt0bGVwQXdpZEp3bUZEUWVpWTVZaXdSVmdUMGtyRU9ldw?oc=5",
+      "published": "2026-11-25T13:50:41+00:00",
       "beats": [
         "Politics",
         "LGBTQ+"
-      ]
-    },
-    {
-      "source": "Education Week",
-      "source_feed": "Education Week",
-      "lane": "General",
-      "title": "Why Teacher AI Use Has Plateaued, and What Could Come Next",
-      "summary": "Why Teacher AI Use Has Plateaued, and What Could Come Next Education Week",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamt3a0tfRHBGb3ZLejNDT0tzRVM4d1hjQ25JVHBKZnRZV0tFaTFLNFFlbEhvanRYRGgyc3B4aUdyQ3p5Z29RcTkxb2laTDYtY3hyTzc2UEhuNEZRWEVvZE14Zk9RMzJoUndGZXFtdURMdEVnajd5NUYyRlNJUjMyc0pvNVR3UjVUb2tBcnYwWjNXYy1iNXQyUHNhbmV3SFZW?oc=5",
-      "published": "2026-11-25T11:08:28+00:00",
-      "beats": [
-        "Schools"
       ]
     },
     {
@@ -371,16 +373,15 @@
       ]
     },
     {
-      "source": "The Advocate",
-      "source_feed": "The Advocate",
-      "lane": "LGBTQ press",
-      "title": "Tennessee’s Victoria Broderick becomes the first pansexual person elected to U.S. Congress",
-      "summary": "Tennessee’s Victoria Broderick becomes the first pansexual person elected to U.S. Congress Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXlEMGRET2xac1JEX3h6SHVfMWh0bWxFNERMUDFVVTMxUHpZNFdGemR5ekI4Vm83dFEwS3Uxc3I3NTRrTzF2Vm15SjJiSWF1V2F3aVFtN0t2NUliSHJkV1Bjd2tDbEJuV0JYN0Y1NTRNUVlNU3RjNWc0V2JpQjl1bGhYcFRvbzNq?oc=5",
-      "published": "2026-11-24T21:32:34+00:00",
+      "source": "Education Week",
+      "source_feed": "Education Week",
+      "lane": "General",
+      "title": "The Unprecedented Surge of Homeless Students, in Charts",
+      "summary": "The Unprecedented Surge of Homeless Students, in Charts Education Week",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFA3a2ZRQmdydUdxX3ROOGdtb0NGaVNJRDV4R2FuYlFkWGdjQkJpNFFEMUtXNTZwMWVoZTZEMVBvNWdJV0JPSnozNG5URjlFQ2t4SUFPNkpSaUVKd19tRHo4Umx2dHE5NEJGV0hnZG1qMGlscFRFSVJPUm1adXUyWDF6Zkg4aXhqcHhwdHB3dGlGLTVZVWoxT05Jd00?oc=5",
+      "published": "2026-11-24T21:46:16+00:00",
       "beats": [
-        "Politics",
-        "LGBTQ+"
+        "Schools"
       ]
     }
   ]
